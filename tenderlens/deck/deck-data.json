@@ -1,0 +1,23 @@
+{
+  "_readme": "Edit, then run from D:/projects/hackathon/tenderlens: node deck/build/build_deck.js. eval: null = magenta [PLACEHOLDER] on slide 6. screenshots: null = MAKET mock-up (slide 4) / [PLACEHOLDER] (slide 11). A screenshot is a path relative to the tenderlens folder, {path, crop:[left,top,width,height]} in px, or rows of such parts [[part, part], [part]] that are composited (parts side by side, rows stacked). Slide 4 uses supplier + agency; slide 11 uses backup_supplier + backup_bot. Only app presentation-mode screenshots (customer names hidden).",
+  "eval": {
+    "recall_pct": null,
+    "false_alarms_per_spec": null,
+    "specs_labelled": null
+  },
+  "screenshots": {
+    "supplier": [
+      [{ "path": "app/screenshots/crop_524954_score.png", "crop": [68, 190, 1085, 455] }],
+      [{ "path": "app/screenshots/crop_524954_flags.png", "crop": [68, 240, 1042, 200] }]
+    ],
+    "agency": [
+      [{ "path": "app/screenshots/03_dashboard.png", "crop": [228, 168, 354, 153] }, { "path": "app/screenshots/03_dashboard.png", "crop": [968, 168, 354, 153] }],
+      [{ "path": "app/screenshots/03_dashboard.png", "crop": [1293, 340, 400, 462] }]
+    ],
+    "backup_supplier": [
+      [{ "path": "app/screenshots/crop_524954_flags.png", "crop": [68, 20, 1464, 620] }],
+      [{ "path": "app/screenshots/03_dashboard.png", "crop": [228, 85, 1472, 240] }]
+    ],
+    "backup_bot": { "path": "app/screenshots/10_bot_524954.png", "crop": [0, 0, 820, 680] }
+  }
+}
