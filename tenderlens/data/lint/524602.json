@@ -1,0 +1,100 @@
+{
+  "lot_id": 524602,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "Aloqa shkaflari (10 dona) va uzluksiz quvvat manbalari (UPS, jami 120 dona) xaridi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Server shkafi 42U, 800 x 2000 x 1200 mm, yuk ko'tarish qobiliyati kamida 800 kg, IP20, qora rangda.",
+      "summary_en": "Server cabinet 42U, 800 x 2000 x 1200 mm, load capacity at least 800 kg, IP20, black.",
+      "quote": "o'rnatiladigan, himoya darajasi IP20, qora rangda;"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ish stansiyalari uchun UPS kamida 1500 VA / 900 Vt, akkumulyator kamida 8 A-soat, 50% yuklamada kamida 9 daqiqa ishlashi kerak.",
+      "summary_en": "Workstation UPS at least 1500 VA / 900 W, battery at least 8 Ah, at least 9 minutes runtime at 50% load.",
+      "quote": "ishlashini ta'minlash uchun yetarli, biroq kamida 1500 VA"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Server UPS onlayn, ikki marta o'zgartirish turida, kamida 10 kVA / 10 kVt, 50% yuklamada kamida 12 daqiqa ishlashi kerak.",
+      "summary_en": "Server UPS must be online double-conversion, at least 10 kVA / 10 kW, at least 12 minutes at 50% load.",
+      "quote": "10 kVA / 10 kVt bo'lishi kerak."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlab chiqaruvchining yoki uning vakolatli vakilining amaldagi vakolat (avtorizatsiya) xatini taqdim etish shart.",
+      "summary_en": "A current manufacturer or authorised-representative authorisation letter must be provided.",
+      "quote": "Ishlab chiqaruvchining vakolatli (avtorizatsiya) xati:"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Servis markazi O'zbekiston hududida bo'lishi va yetkazib beruvchi O'zbekistonda kamida 3 yil faoliyat yuritgan bo'lishi kerak.",
+      "summary_en": "The service centre must be in Uzbekistan and the supplier must have operated in Uzbekistan for at least 3 years.",
+      "quote": "tashkilot 0'zbekiston Respublikasi hududida kamida З yil davomida faoliyat yuritgan bo'lishi lozim."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Barcha uskunalar yangi, ilgari foydalanilmagan, tiklanmagan va ekspluatatsiyada bo'lmagan bo'lishi lozim; kafolat kamida 12 oy.",
+      "summary_en": "All equipment must be new, unused, not refurbished; warranty at least 12 months.",
+      "quote": "yangi, tiklanmagan va ekspluatatsiyada bo'lmagan bo'lishi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Shartnoma imzolangandan keyin 10 ish kuni ichida uskunalarni to'liq yetkazib berish, o'rnatish va ishga tushirish kafolatlanishi kerak (10 ball).",
+      "summary_en": "Full delivery, installation and commissioning within 10 working days of signing is scored (10 points); the lot header shows 7 months.",
+      "quote": "Yetkazib beruvchi shartnoma imzolangan kundan boshlab 10 ish kuni ichida uskunalarni to‘liq yetkazib berish, o‘rnatish va ishga tushirishni kafolatlashi kerak."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "O'xshash tovarlarni yetkazib berish bo'yicha 3 ta bajarilgan shartnoma 20 ball, 2 ta shartnoma 5 ball beradi.",
+      "summary_en": "Three completed similar supply contracts earn 20 points, two earn 5 points.",
+      "quote": "Ishtirokchi o‘xshash tovarlarni yetkazib berish bo‘yicha kamida 3 ta bajarilgan shartnoma tajribasini tasdiqlovchi hujjatlarni taqdim etishi lozim"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik topshiriqqa to'liq mos kelish 30 ball, qisman mos kelish 15 ball beradi.",
+      "summary_en": "Full conformity with the technical specification scores 30 points, partial conformity 15.",
+      "quote": "Taklif etilayotgan uskunaning barcha texnik ko‘rsatkichlari, jamlanmasi va funksional imkoniyatlari Buyurtmachining texnik topshirig‘ida belgilangan talablarga to‘liq javob berishi shart."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulotlar zavod o'ramida, original va himoya belgilariga ega bo'lishi hamda kafolat kamida 12 oy bo'lishi kerak.",
+      "summary_en": "Goods must be new, original, in factory packaging with protective marks, with at least 12 months' warranty.",
+      "quote": "Yetkazib beriladigan mahsulotlar yangi, foydalanilmagan, original, zavod o‘ramida, barcha himoya belgilariga ega bo‘lishi hamda kafolat muddati kamida 12 oy bo‘lishi kerak."
+    }
+  ],
+  "flags": [
+    {
+      "type": "dealer_letter",
+      "severity": "medium",
+      "quote": "Ishlab chiqaruvchining vakolatli (avtorizatsiya) xati: yetkazib beruvchi uskunani yetkazib berish bo'yicha ishlab chiqaruvchining",
+      "explanation_uz": "Server shkaflari va UPS keng sotiladigan tovarlar, lekin ishlab chiqaruvchi yoki uning vakilining vakolat xati talab qilinadi. Bu xatni ololmagan, ammo tovarni qonuniy yo'l bilan ta'minlay oladigan yetkazib beruvchilar ishtirok eta olmasligi mumkin.",
+      "explanation_en": "Equipment racks and UPS units are widely traded goods, yet a manufacturer or representative authorisation letter is required. Suppliers who can lawfully source the goods but cannot obtain such a letter may be unable to bid.",
+      "rewrite_uz": "Yetkazib beruvchi uskunaning qonuniy ta'minot manbasini (ishlab chiqaruvchi, distribyutor yoki boshqa qonuniy manba hujjati) tasdiqlashi kerak; ishlab chiqaruvchi vakolat xati majburiy emas.",
+      "rewrite_en": "The supplier must confirm the lawful source of supply (manufacturer, distributor or other lawful source document); a manufacturer authorisation letter is not mandatory."
+    },
+    {
+      "type": "unrealistic_deadline",
+      "severity": "medium",
+      "quote": "Yetkazib beruvchi shartnoma imzolangan kundan boshlab 10 ish kuni ichida uskunalarni to‘liq yetkazib berish, o‘rnatish va ishga tushirishni kafolatlashi kerak.",
+      "explanation_uz": "Taxminan 130 dona uskunani (10 shkaf, 120 UPS, shu jumladan 10 kVA li server UPS) 10 ish kunida yetkazish, o'rnatish va ishga tushirish talab qilinadi va bu mezon 10 ball beradi. Lot sarlavhasida esa yetkazish muddati 7 oy ko'rsatilgan; bu nomuvofiqlik zaxirasi bo'lmagan yetkazib beruvchilarni ball yo'qotishga olib kelishi mumkin.",
+      "explanation_en": "About 130 units (10 cabinets, 120 UPS including 10 kVA server UPS) must be delivered, installed and commissioned within 10 working days, and this criterion carries 10 points. The lot header shows 7 months, so the two figures conflict, and suppliers without stock may lose points.",
+      "rewrite_uz": "Yetkazib berish, o'rnatish va ishga tushirish muddati shartnoma imzolangandan keyin 60 kalendar kundan oshmasligi kerak; qisqaroq muddat taklif qilganlarga qo'shimcha ball beriladi.",
+      "rewrite_en": "Delivery, installation and commissioning must be completed within 60 calendar days of signing; shorter offered terms may earn extra points."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ishlab chiqaruvchining vakolatli (avtorizatsiya) xati",
+    "Texnik taklif va texnik topshiriqqa muvofiqlik jadvali",
+    "Kafolat xati",
+    "O'xshash tovarlarni yetkazib berish bo'yicha kamida 3 ta bajarilgan shartnoma nusxalari",
+    "Tashkilot haqida umumiy ma'lumot",
+    "Moliyaviy hisobot",
+    "O'zbekistonda joylashgan servis markazi to'g'risidagi ma'lumot",
+    "Ro'yxatdan o'tganlik va faoliyat muddatini tasdiqlovchi hujjat",
+    "Soliq qarzi yo'qligi va insofsiz ijrochilar reyestrida yo'qligi to'g'risidagi ma'lumotlar"
+  ]
+}

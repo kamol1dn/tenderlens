@@ -1,0 +1,102 @@
+{
+  "lot_id": 524114,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "Kompyuter jihozlari va ofis texnikasi (monoblok, noutbuk, monitor, kompyuter, IP-telefon, garnitura, planshet) yetkazib berish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Barcha to'qqiz pozitsiya taklif etilishi shart; bittasi mos kelmasa ishtirokchi chetlashtiriladi.",
+      "summary_en": "All nine positions must be offered; non-conformity on any one leads to disqualification.",
+      "quote": "TTda belgilangan miqdor va komplektatsiyaga muvofiq barcha to‘qqizta pozitsiya taklif etilishi lozim."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish shartnoma imzolangan kundan 90 kalendar kundan oshmasligi kerak.",
+      "summary_en": "Delivery must not exceed 90 calendar days from contract signing.",
+      "quote": "Uskunalarni yetkazib berish muddati shartnoma imzolangan kundan boshlab 90 (to‘qson) kalendar kunidan oshmasligi lozim"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Bir pozitsiya ichida bir ishlab chiqaruvchi, bir model va bir xil konfiguratsiya bo'lishi shart.",
+      "summary_en": "Within one position the goods must be of one manufacturer, one model and one configuration.",
+      "quote": "Bitta pozitsiya doirasida turli ishlab chiqaruvchilarning uskunalarini, har xil modellarni"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Har bir pozitsiya uchun muvofiqlik jadvali, zavod artikuli va rasmiy tavsifnoma havolasi taqdim etiladi.",
+      "summary_en": "For each position a compliance table, the exact part number and a link to the official specification must be supplied.",
+      "quote": "Yetkazib beruvchi o‘z taklifi tarkibida har bir pozitsiya bo‘yicha texnik topshiriq talablariga muvofiqlik jadvalini, aniq zavod artikulini"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Planshet: 14,6 dyuym, 2960x1848, 120 Gs, 3 nm protsessor, 12 GB xotira, 11 600 mA·soat akkumulyator, raqamli qalam va klaviatura bilan.",
+      "summary_en": "Tablet: 14.6 inch, 2960x1848, 120 Hz, 3 nm processor, 12 GB RAM, 11,600 mAh battery, with digital pen and keyboard.",
+      "quote": "Diagonali 14,6 dyuymdan kam bo‘lmagan; tasvir aniqligi 2960×1848 pikseldan kam bo‘lmagan; AMOLED, OLED yoxud shunga o‘xshash"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Universal ish o'rni noutbugi 1,4 kg dan yengil va yopiq holatda 20 mm dan yupqa bo'lishi kerak.",
+      "summary_en": "The laptop in the universal workstation must weigh under 1.4 kg and be under 20 mm thick when closed.",
+      "quote": "Noutbukning quvvat bloki hisobga olinmagandagi vazni — 1,4 kg dan oshmasligi (o‘ta yupqa toifa); korpusning yopiq holatdagi qalinligi — 20 mm dan oshmasligi kerak."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "IP-telefon: Grandstream GRP2602G referens model; unga mos o'xshash model ruxsat, mavjud Grandstream IP-ATS bilan to'liq mos bo'lishi kerak.",
+      "summary_en": "IP phone: Grandstream GRP2602G is the reference model; a similar model is allowed if fully compatible with the existing Grandstream PBX.",
+      "quote": "javob beradigan va amaldagi Grandstream IP-ATS bilan to‘liq mos bo‘lgan o‘xshash modelni taklif qilishga ruxsat etiladi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik baho 80 ball (to'liq muvofiqlik) va 20 ballgacha qo'shimcha ustunliklar; mos kelmasa chetlashtirish.",
+      "summary_en": "Technical score is 80 points for full conformity plus up to 20 for extra advantages; non-conformity means disqualification.",
+      "quote": "Jami: asosiy baholash uchun 80 ball va qo‘shimcha baholash uchun 20 ballgacha."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi shart.",
+      "summary_en": "No overdue tax or levy debt is allowed.",
+      "quote": "Soliqlar va yig‘imlarni to‘lash bo‘yicha muddati o‘tgan qarzdorlikning mavjud emasligi."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnoma imzolangandan 10 ish kuni ichida 50 foiz oldindan to'lov, qolgani yetkazib bergandan keyin 10 ish kuni ichida.",
+      "summary_en": "50 percent advance within 10 working days of signing; the rest within 10 working days after delivery.",
+      "quote": "Shartnoma imzolangan sanadan 10 ish kuni ichida shartnoma umumiy qiymatining 50% miqdorida oldindan to‘lov."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat: qabul qilingan kundan boshlab kamida 12 oy.",
+      "summary_en": "Warranty: at least 12 months from acceptance.",
+      "quote": "Buyurtmachi tomonidan qabul qilingan kundan boshlab kamida 12 oyni tashkil etadi."
+    }
+  ],
+  "flags": [
+    {
+      "type": "narrow_params",
+      "severity": "medium",
+      "quote": "Diagonali 14,6 dyuymdan kam bo‘lmagan; tasvir aniqligi 2960×1848 pikseldan kam bo‘lmagan; AMOLED, OLED yoxud shunga o‘xshash",
+      "explanation_uz": "Planshet talablari (14,6 dyuym, 2960×1848, 120 Gs, 1000 kd/m², 3 nm va 3,7 GGs protsessor, 11 600 mA·soat, IP68 qalam va klaviatura) birgalikda juda kam modelga mos kelishi mumkin. Barcha to'qqiz pozitsiya bitta lotda bo'lgani uchun planshet talabiga javob bera olmagan ishtirokchi butun lotdan (662 064 885,5 so'm) chetlashtiriladi, garchi planshet narxi 26 702 593,77 so'm (taxminan 4 foiz) bo'lsa ham. Planshet uchun 4 ball (+2 qo'shimcha) ajratilgan.",
+      "explanation_en": "The tablet requirements (14.6 inch, 2960x1848, 120 Hz, 1,000 cd/m2, 3 nm processor at 3.7 GHz, 11,600 mAh, IP68 pen, keyboard) together may match very few models. Because all nine positions sit in one lot, a bidder unable to meet the tablet specification is disqualified from the whole lot (662,064,885.5 UZS) although the tablet is about 4 percent of it (26,702,593.77 UZS). The tablet carries 4 points (+2 extra).",
+      "rewrite_uz": "Planshet: displey diagonali kamida 12 dyuym, tasvir aniqligi kamida 2560×1600, yangilanish chastotasi kamida 90 Gs, kamida 8 yadroli protsessor, kamida 8 GB tezkor va 256 GB doimiy xotira, raqamli qalam va klaviatura, kamida 8000 mA·soat akkumulyator yoki unga teng ko'rsatkichlar.",
+      "rewrite_en": "Tablet: display of at least 12 inches, resolution of at least 2560x1600, refresh rate of at least 90 Hz, processor with at least 8 cores, at least 8 GB RAM and 256 GB storage, digital pen and keyboard, battery of at least 8,000 mAh, or equivalent values."
+    }
+  ],
+  "documents_needed_uz": [
+    "1-shakl: resurslar mavjudligi to'g'risida ma'lumotnoma",
+    "2-shakl: shartnoma tuzish uchun qonuniy huquqqa egalik kafolat xati",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi, ustav hujjatlari",
+    "Rahbar tayinlanganligi buyrug'i yoki ishonchnoma",
+    "3-shakl: o'xshash tovar yetkazib berish tajribasi (hisob-faktura va dalolatnomalar bilan)",
+    "4-shakl: yakuniy benefitsiarlar va manfaatlar to'qnashuvi to'g'risida ma'lumot",
+    "5-shakl: xaridlarda halollik majburiyati to'g'risida ariza",
+    "6-shakl: texnik taklif",
+    "7-shakl: taklif qilinayotgan tovar texnik parametrlari qiyoslash jadvali (ishlab chiqaruvchi, model, artikul, ishlab chiqarilgan yili, kafolat)",
+    "Ishlab chiqaruvchining rasmiy tavsifnomasi yoki rasmiy sahifaga havola",
+    "my.soliq.uz saytidan soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+    "my.gov.uz saytidan to'lov qobiliyati bo'yicha ma'lumotnoma",
+    "xarid.uzex.uz insofsiz ijrochilar reyestridan skrinshot",
+    "mib.uz saytidan qarzdorlikni tekshirish natijasi skrinshoti"
+  ]
+}

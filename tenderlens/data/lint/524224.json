@@ -1,0 +1,99 @@
+{
+  "lot_id": 524224,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Davlat bayrog'i (10x5 m bitta va 60x120 sm 200 dona) sotib olish",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik ballning 35 balli korxonaning umumiy hujjatlari soniga qarab beriladi (har biri 5 ball, 7 tagacha).",
+      "summary_en": "35 points are scored by the number of general company documents supplied (5 points each, up to 7).",
+      "quote": "тақдим этилган 7та маълумот учун жами 35 балл бахоланади"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Muddatida bajarish haqida kafolat xati taqdim etilsa ball beriladi (jami 10 ball).",
+      "summary_en": "Points are given for a guarantee letter on timely performance (10 points in total).",
+      "quote": "Танлов иштирокчиси хизматларни белгиланган муддатдан кечиктирмаган холда амалга ошириш тугрисида кафолат хати"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Bankdan qarzdorlik yo'qligi va to'lovga qobiliyati haqida ma'lumotnoma uchun 20 ballgacha beriladi.",
+      "summary_en": "Up to 20 points for certificates showing no bank debt and solvency.",
+      "quote": "тулик такдим этилган 2та маълумот учун 20-балл"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishtirokchining omborida talab qilingan tovar mavjudligini ko'rsatuvchi foto va tasdiqlangan xat uchun 10 ball.",
+      "summary_en": "10 points for photos and a confirmed letter showing the required goods are in the bidder's warehouse.",
+      "quote": "Иштирокчининг омборида хақиқатдан таълаб қилинган товарларнинг мавжудлиги фото ва тасдиқланган хати"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Affillanganlik, ofshor hisob raqamlari, arbitraj va manfaatlar to'qnashuvi bo'yicha kafolat xatlari uchun 25 ballgacha beriladi.",
+      "summary_en": "Up to 25 points for guarantee letters on affiliation, offshore accounts, arbitration and conflict of interest.",
+      "quote": "тулиқ такдим этилган 5та маълумот учун 25-балл"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchiga nisbatan bankrotlik tartib-taomillari joriy etilmagan bo'lishi kerak.",
+      "summary_en": "No bankruptcy proceedings may be in force against the bidder.",
+      "quote": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reyestrida bo'lmasligi kerak.",
+      "summary_en": "The bidder must not be on the single register of unfair contractors.",
+      "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Mahalliy ishlab chiqaruvchilardan xarid qilish imkoniyati o'rganilganligi haqida ma'lumotnoma texnik tavsifga ilova qilingan.",
+      "summary_en": "A certificate on studying purchase from local producers is attached to the technical description.",
+      "quote": "Маҳаллий ишлаб чиқарувчилардан харид қилиш имконияти ўрганилганлиги тўғрисидаги МАЪЛУМОТНОМА"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "To'lov belgilangan tartibda hisob-faktura asosida amalga oshiriladi.",
+      "summary_en": "Payment is made on the basis of an invoice in the set procedure.",
+      "quote": "Белгиланган тартибда счёт фактура асосида"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Tovarni o'z vaqtida va sifatli yetkazib berish talab qilinadi.",
+      "summary_en": "Goods must be delivered on time and with good quality.",
+      "quote": "ўз вақтида сифатли тарзда амалга ошириш"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklif narxi buyurtmachi tasdiqlagan narxdan yuqori bo'lmasligi kerak.",
+      "summary_en": "The bid price may not exceed the price approved by the customer.",
+      "quote": "нархдан таклиф нархи юкори булмаслиги лозим"
+    }
+  ],
+  "flags": [
+    {
+      "type": "irrelevant_requirement",
+      "severity": "medium",
+      "quote": "Аффиланганлик мавжуд эмаслиги тўғрисидаги кафолат хати",
+      "explanation_uz": "Mezon 5 (25 ball) 'sifat kafolatlari' deb nomlangan, lekin ball affillanganlik, ofshor hisob raqamlari, arbitraj va manfaatlar to'qnashuvi bo'yicha xatlar soniga qarab beriladi, bayroqning sifatiga emas. Bu platformaning standart shablon matniga o'xshaydi; xuddi shunday tuzilma 1-, 3- va 4-mezonlarda ham bor, shu sababli texnik ballning katta qismi tovarga aloqador bo'lmagan hujjatlarga bog'liq.",
+      "explanation_en": "Criterion 5 (25 points) is titled 'quality guarantees' but is scored on letters about affiliation, offshore accounts, arbitration and conflict of interest, not on the quality of the flags. It looks like standard platform template wording; the same pattern appears in criteria 1, 3 and 4, so much of the technical score depends on paperwork unrelated to the goods.",
+      "rewrite_uz": "Sifat kafolati mezoni bo'yicha ball taklif qilingan bayroqning materiali, o'lchami, tikuv sifati va ishlab chiqaruvchining sifat kafolat muddatiga qarab berilsin.",
+      "rewrite_en": "Score the quality-guarantee criterion on the material, size and stitching quality of the offered flag and the supplier's quality warranty period."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik guvohnomasi",
+    "Ustav",
+    "Rahbar pasporti nusxasi",
+    "Rahbarning buyrug'i",
+    "Bank ma'lumoti",
+    "Statistik ma'lumot",
+    "Davlat reyestridan yuridik shaxs ko'chirmasi",
+    "Muddatida bajarish haqida kafolat xati",
+    "Bankdan qarzdorlik yo'qligi va to'lovga qobiliyati haqida ma'lumotnoma",
+    "Omborda tovar mavjudligi haqida foto va tasdiqlangan xat",
+    "Affillanganlik va manfaatlar to'qnashuvi yo'qligi haqida kafolat xatlari"
+  ]
+}

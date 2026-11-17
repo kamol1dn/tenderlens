@@ -1,0 +1,75 @@
+{
+  "lot_id": 524102,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "Xavfsizlikni ehtimoliy tahlil qilish laboratoriyasi uchun dasturiy ta'minot litsenziyalari xaridi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Taklif texnik topshiriq talablariga to'liq mos bo'lishi kerak (texnik topshiriq alohida faylda, o'qib bo'lmaydigan sahifalarda).",
+      "summary_en": "The offer must fully match the technical specification (a separate file, partly unreadable here).",
+      "quote": "Tanlov ishtirokchisining taklifi texnik topshiriq talablariga to‘liq muvofiq bo‘lishi lozim."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Dasturiy ta'minot ishlab chiqaruvchisi yoki rasmiy vakili maqomi tasdiqlanadi (10 ball).",
+      "summary_en": "Status as software developer or official representative must be confirmed (10 points).",
+      "quote": "Dasturiy ta’minot ishlab chiquvchisi yoki uning rasmiy vakili maqomini tasdiqlash"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Tanlov predmetiga o'xshash kamida 1 ta shartnoma tajribasi talab etiladi.",
+      "summary_en": "Experience with at least 1 contract similar to the subject is required.",
+      "quote": "Tanlov ishtirokchisi tanlov predmetiga o‘xshash predmet bo‘yicha kamida 1 ta shartnomani amalga oshirish tajribasiga ega bo‘lishi lozim."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Moliyaviy holat 4-shakl bo'yicha tasdiqlovchi hujjatlar bilan taqdim etiladi (2023-2025 yillar).",
+      "summary_en": "Financial position is reported on form 4 with supporting documents (2023-2025).",
+      "quote": "Tanlov ishtirokchisi moliyaviy holati to‘g‘risidagi ma’lumotlarni 4-sonli shaklga muvofiq, tasdiqlovchi hujjatlarni ilova qilgan holda taqdim etishi lozim."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati 45 kun (e'londa 45 oy ko'rsatilgan, hujjatda kun).",
+      "summary_en": "Delivery period of 45 days (the lot header says 45 months, the document says days).",
+      "quote": "Yetkazib berish muddati | 45 kun"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30 foiz oldindan to'lov, 70 foiz dalolatnoma imzolangandan keyin 15 bank kuni ichida.",
+      "summary_en": "30 percent prepayment and 70 percent within 15 banking days after the acceptance act.",
+      "quote": "— Foydalanish huquqini taqdim etish uchun Shartnoma imzolangan kundan boshlab __ (5) bank kuni ichida _________________ miqdorida 30% oldindan to‘lov;"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Litsenziat huquqni uchinchi shaxslarga sublitsenziya bilan bera olmaydi.",
+      "summary_en": "The licensee may not sublicense the rights to third parties.",
+      "quote": "Litsenziat Foydalanish huquqini har qanday uchinchi shaxslarga sublicenziya shartnomalari asosida taqdim etishga haqli emas."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Takliflar tijorat takliflarini topshirish tugagandan keyin kamida 90 kun amal qiladi.",
+      "summary_en": "Offers must remain valid for at least 90 days after bid submission closes.",
+      "quote": "Takliflar qabul qilishning oxirgi kuni sifatida belgilangan sanadan boshlab 90 kun davomida ushbu taklif shartlariga rioya etishga rozimiz."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kechiktirilgan har bir kun uchun 0,3 foiz penya, umumiy narxning 50 foizigacha.",
+      "summary_en": "Late-delivery penalty of 0.3 percent per day, capped at 50 percent of the price.",
+      "quote": "Litsenziar Foydalanish huquqini taqdim etish muddatlarini buzgan taqdirda, Litsenziat Litsenziardan kechiktirilgan har bir kun uchun taqdim etilmagan huquqlar qiymatining 0,3 foizi miqdorida"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Ishtirok etish uchun ariza (1-shakl)",
+    "Kafolat xati (2-shakl)",
+    "Tanlov ishtirokchisi haqida umumiy ma'lumot va o'xshash shartnomalar ro'yxati (3-shakl)",
+    "Moliyaviy holat to'g'risida ma'lumot va tasdiqlovchi hujjatlar (4-shakl)",
+    "Halollik va manfaatlar to'qnashuvi bo'yicha ariza (5-shakl)",
+    "Texnik taklif va texnik tavsiflar taqqoslash jadvali (6-shakl)",
+    "Dasturiy ta'minot ro'yxatdan o'tganligi to'g'risidagi guvohnoma yoki ishlab chiquvchining vakolat beruvchi xati yoki distribyutorning litsenziya shartnomasi",
+    "Oxirgi o'xshash shartnoma bajarilganini tasdiqlovchi hujjatlar",
+    "Ishonchnoma (rahbar bo'lmagan shaxs imzolasa)"
+  ]
+}

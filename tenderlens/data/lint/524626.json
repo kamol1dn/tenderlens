@@ -1,0 +1,106 @@
+{
+  "lot_id": 524626,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Toshkent shahridagi 7 ta sun'iy inshootning (ko'prik va yo'l o'tkazgichlar) konstruksiyalarini texnik va instrumental tekshirish hamda foydalanish bo'yicha tavsiyalar ishlab chiqish",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Tekshirish ishlarini o'tkazish uchun litsenziya bo'lishi kerak.",
+      "summary_en": "A licence to carry out the inspection works is required.",
+      "quote": "Текшириш ишларини ўтказиш учун лицензияга эга бўлиш."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchida asbob-uskunalar va tajribali kadrlar bo'lishi kerak.",
+      "summary_en": "The bidder must have instruments and equipment and experienced personnel.",
+      "quote": "Текшириш ишларини ўтказиш учун асбоб ва мосламалар, тажрибага эга бўлган кадрлар билан таъминланганлиги."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Yuk ko'taruvchi konstruksiyalar to'liq ko'rikdan o'tkazilib, nuqson va shikastlar aniqlanadi.",
+      "summary_en": "Full inspection of load-bearing structures to find defects and damage.",
+      "quote": "Иншоотнинг юк кўтарувчи конструкцияларини тўлиқ кўрикдан ўтказиш мавжуд нуқсонлар ва шикастларни аниқлаш"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Inshootdan A14 va NK100 vaqtinchalik yuklarni o'tkazish mumkinligi hisob-kitob bilan tekshiriladi.",
+      "summary_en": "Calculation of whether the structure can carry A14 and NK100 temporary loads.",
+      "quote": "иншоот орқали А14 ва НК100 вақтинча юкларни ўтказиш мумкинлигини текшириш"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ishlar ShNQ 3.06.07-23 va IQN 140-21 talablariga muvofiq bajariladi.",
+      "summary_en": "Work must follow the national inspection norms ShNQ 3.06.07-23 and IQN 140-21.",
+      "quote": "Текшириш ишлари ШНҚ 3.06.07-23 “Кўприклар ва қувурлар. Текшириш ва синаш қоидалари” ва ИҚН 140-21"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlarni bajarish muddati 30 kun.",
+      "summary_en": "Completion period is 30 days.",
+      "quote": "Ишларни бажариш муддати – 30 кун."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Natija: texnik hisobot o'zbek va rus tillarida 2 nusxada va elektron variantda topshiriladi.",
+      "summary_en": "Deliverable: technical report in Uzbek and Russian, 2 copies plus an electronic version.",
+      "quote": "техник ҳисобот ўзбек ва рус тилида 2-нусҳада, электрон варианти."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Soliq qarzi yo'qligi haqidagi Soliq.uz ma'lumotnomasi taqdim etilmasa ishtirokchi chetlashtiriladi; 10 ball.",
+      "summary_en": "A Soliq.uz certificate of no tax arrears is mandatory (10 points); without it the bidder is excluded.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги тўғрисида эълон берилган кунда амалда бўлган Soliq.uz сайтидан олинган маълумотнома"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Akkreditatsiyadan o'tgan qurilish laboratoriyasi o'z balansida bo'lsa 15 ball, shartnoma bilan jalb qilinsa 10 ball.",
+      "summary_en": "An accredited construction laboratory: 15 points if owned, 10 points if contracted.",
+      "quote": "Ташкилот аккредитациядан утган курилиш лабораторияси мавжудлиги - “максимал - 15 балл” мавжуд булса – 15 балл"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Zarur mashina va mexanizmlar mavjud bo'lsa 15 ball, bo'lmasa 0 ball.",
+      "summary_en": "Machines and mechanisms needed for the work: 15 points if available, 0 otherwise.",
+      "quote": "Ишларни бажариш учун зарурий машина механизмларнинг мавжудлиги- “максимал - 15 балл” мавжуд булса – 15 балл"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Malakali mutaxassislar soniga qarab 5, 10 yoki 20 ball beriladi.",
+      "summary_en": "Qualified specialists are scored 5, 10 or 20 points depending on headcount.",
+      "quote": "10 нафар ва ундан юқори - 20 балл, 5-9 нафар - 10 балл, 1-4 нафар - 5 балл"
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "ҳамда ҳисобланган ҳисоб-фактуралар суммасининг умумий йиғиндиси энг юқори кўрсаткичга эга бўлган иштирокчига максимал 20 балл берилади",
+      "explanation_uz": "So'nggi 1 yilda bajarilgan ishlar hisob-fakturalari jami summasi eng yuqori ishtirokchiga 20 ball, qolganlarga unga nisbatan 14, 9 yoki 4 ball beriladi. Ball boshqa ishtirokchilarning hajmiga bog'liq bo'lgani uchun, tajribasi yetarli, ammo hajmi kichikroq (taxminan 1,03 mlrd so'mlik lot uchun) ta'minotchi 16 ballgacha yo'qotishi mumkin.",
+      "explanation_en": "The total of invoices for work done in the last year earns the top bidder 20 points and everyone else 14, 9 or 4 points relative to that leader. Because the score depends on competitors' volumes rather than on what this roughly 1.03 bn UZS lot needs, a qualified but smaller supplier can lose up to 16 points.",
+      "rewrite_uz": "Tajriba bo'yicha ball mutlaq chegaralar bilan berilsin (masalan, oxirgi 3 yilda lot qiymatining kamida 50 foizi miqdorida o'xshash ishlar bajarilgan bo'lsa to'liq ball), boshqa ishtirokchilar natijasiga bog'lanmasin.",
+      "rewrite_en": "Score experience against fixed thresholds (for example full points for similar work worth at least 50% of the lot value in the last 3 years) rather than relative to other bidders."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Ташкилот (иштирокчи)нинг давлат рўйхатидан ўтганлиги тўғрисида гувоҳнома лицензияга эга бўлиш - “максимал - 10 балл” (5 йил ва ундан юқори - 10 балл, 3-4 йил - 5 балл, 3 йилгача - 3 балл).",
+      "explanation_uz": "Ball tashkilot necha yildan beri ro'yxatdan o'tganiga qarab beriladi (10, 5 yoki 3 ball). Tashkilot yoshi ishning sifatini to'g'ridan-to'g'ri ko'rsatmaydi, yosh, ammo litsenziyaga va malakali kadrlarga ega ishtirokchi 7 ballgacha yo'qotadi. \"3-4 yil\" va \"3 yilgacha\" oralig'lari ham aniq ajratilmagan.",
+      "explanation_en": "Points depend on how long the organisation has been registered (10, 5 or 3 points). Company age does not directly show the quality of the inspection work, so a newer bidder with the licence and qualified staff can lose up to 7 points. The \"3-4 years\" and \"under 3 years\" bands are also not cleanly separated.",
+      "rewrite_uz": "Ro'yxatdan o'tgan yil bo'yicha ball olib tashlansin yoki faqat litsenziya va xodimlar malakasi bo'yicha baholansin; oraliqlar aniq belgilansin.",
+      "rewrite_en": "Remove the registration-age score or assess only the licence and staff qualifications; define the bands without overlap."
+    }
+  ],
+  "documents_needed_uz": [
+    "Tekshirish ishlarini o'tkazish litsenziyasi",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi",
+    "Soliq.uz saytidan soliq qarzi yo'qligi haqida ma'lumotnoma",
+    "So'nggi 1 yilda bajarilgan ishlar bo'yicha tasdiqlangan hisob-fakturalar",
+    "Obyektni o'rganganlik haqida tasdiqlangan ma'lumot",
+    "Akkreditatsiyadan o'tgan qurilish laboratoriyasi hujjatlari yoki boshqa akkreditatsiyalangan tashkilot bilan shartnoma",
+    "Zarur mashina va mexanizmlar ro'yxati",
+    "Malakali mutaxassislar ro'yxati (rahbar imzosi va muhri bilan tasdiqlangan)",
+    "Taklif kafolati (3 foiz)"
+  ]
+}

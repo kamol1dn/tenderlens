@@ -1,0 +1,86 @@
+{
+  "lot_id": 523797,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Ustyurt gaz qazib chiqarish boshqarmasi uchun elektr yuritmali membranali-plunjerli nasos agregatini (2 to'plam) xarid qilish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Tovar texnik topshiriqdagi barcha hajm, parametr va talablarga to'liq mos bo'lishi va texnik taklif bilan tasdiqlanishi shart.",
+      "summary_en": "The goods must fully match all volumes, parameters and requirements of the specification, shown by a technical offer.",
+      "quote": "Tovar texnik topshiriqda belgilangan barcha hajmlar, texnik parametrlar va talablarga"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Elektr dvigatel portlashdan himoyalangan, quvvati 18 kW dan oshmasligi, 380 V, 50 Hz.",
+      "summary_en": "Explosion-protected electric motor, power not above 18 kW, 380 V, 50 Hz.",
+      "quote": "Quvvati: 18 kW dan oshmasligi kerak"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Nasos portlash xavfi toifasi bo'yicha GOST 30852.19-2002 talablariga mos bo'lishi kerak.",
+      "summary_en": "The pump must match the explosion-hazard category per GOST 30852.19-2002.",
+      "quote": "GOST 30852.19-2002 ga muvofiq portlash xavfi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Yangi tovar, 2026-yildan oldin ishlab chiqarilmagan bo'lishi kerak.",
+      "summary_en": "Goods must be new and not manufactured before 2026.",
+      "quote": "yangi bo'lishi va 2026-yildan oldin ishlab chiqarilmagan bo'lishi kcrak"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "To'plamga membrana yorilishi datchigi va ovozli signalizatsiya kiritilishi kerak.",
+      "summary_en": "The set must include a membrane-rupture sensor and audible alarm.",
+      "quote": "Yetkazib berish to'plamiga membrana yorilishi datchigi, ogohlantiruvchi ovozli signalizatsiya tizimi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati to'lov kelib tushgandan 120 kalendar kundan oshmasligi kerak.",
+      "summary_en": "Delivery must be within 120 calendar days of payment.",
+      "quote": "shartnomada nazarda tutilgan boshqa to'lov shartlaTiga muvofiq l20 kalendar kundan oshmasligi kerak"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ikki yillik foydalanish va ishga tushirish uchun ehtiyot qismlar to'plami (ZIP) komplektga kiradi.",
+      "summary_en": "A two-year spare parts kit for use and commissioning is part of the delivery.",
+      "quote": "Ikki yillik foydalanish davri hamda ishga tushirish-sozlash ishlari"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Matnli ma'lumotlar rus tilida, qog'oz va elektron shaklda taqdim etiladi.",
+      "summary_en": "Text documentation must be in Russian, on paper and electronically.",
+      "quote": "Matnli ma'lumotlar rus tilida, qog'oz va elektron shaklda (1 nusxada) taqdim etilishi kerak"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kafolat: yetkazilgandan 18 oy yoki ishga tushirilgandan 12 oy; kafolat xati taqdim etiladi.",
+      "summary_en": "Warranty of 18 months from delivery or 12 months from commissioning, confirmed by a guarantee letter.",
+      "quote": "kafolat muddati tovar yetkazib berilgan sanadan boshlab kamida 18"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Moliyaviy hisobotlar (auditor tasdiqlagan yoki soliq organi qabul qilgan) taqdim etiladi.",
+      "summary_en": "Financial statements (audited or accepted by the tax authority) must be provided.",
+      "quote": "Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik haqidagi hujjat va ta'sis hujjatlari (Ustav)",
+    "Soliq va yig'imlar bo'yicha qarzdorlik yo'qligi haqida ma'lumotnoma",
+    "Bankrotlik tartib-taomillari yo'qligi haqida ma'lumot",
+    "Insofsiz ijrochilar yagona reyestrida qayd etilmaganlik haqida ma'lumot",
+    "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+    "Moliyaviy hisobotlar (buxgalteriya balansi)",
+    "Ishbilarmonlik obro'sini tasdiqlovchi hujjatlar (tajriba, xodimlar malakasi)",
+    "Ofshor hududlarda ro'yxatdan o'tmaganlik haqida deklaratsiya yoki kafolat xati",
+    "Halollik majburiyati to'g'risidagi ariza",
+    "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida deklaratsiya",
+    "Texnik taklif (texnik pasport, muvofiqlik sertifikati, ishlab chiqaruvchi ma'lumotlari, rus tilidagi eskiz chizmalar va fotosuratlar)",
+    "Ekspluatatsiya materiallari va ehtiyot qismlar bo'yicha kafolat xati",
+    "Kafolat shartlariga rozilik haqida kafolat xati",
+    "Taklif ta'minoti (zakalat) to'langanligi haqida tasdiq"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "lot_id": 518377,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Aviatsiya hodisalarini tekshirish laboratoriyasi uchun parvoz ma'lumotlarini yechish va tahlil qilish qurilmalari to'plami (28 pozitsiya: kabellar, adapterlar, dasturiy ta'minot)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Taklif etilayotgan barcha uskunalar texnik xususiyatlarda ko'rsatilgan barcha parametrlarga mos kelishi shart.",
+      "summary_en": "All offered equipment must meet every parameter stated in the technical specification.",
+      "quote": "Таклиф етилаётган барча ускуналар техник хусусиятларда кўрсатилган барча параметрларга мос келиши шарт."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Qurilmalar samolyot bort registratorlari bilan to'liq mos kelishi shart.",
+      "summary_en": "The devices must be fully compatible with the aircraft on-board recorders.",
+      "quote": "Қурилмалар ҳаво кемаси борт регистраторлари билан тўлиқ мос келиши шарт."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Barcha qurilmalar original bo'lishi va ishlab chiqaruvchi sertifikatiga ega bo'lishi kerak.",
+      "summary_en": "All devices must be original and carry a manufacturer certificate.",
+      "quote": "Барча қурилмалар оригинал ва ишлаб чиқарувчи сертификатига эга бўлиши лозим."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati 45 ish kunidan oshmasligi kerak; 30 kungacha 2 ball.",
+      "summary_en": "Delivery must not exceed 45 working days; delivery within 30 days earns 2 points.",
+      "quote": "Етказиб бериш муддати 45 иш кунидан ошмаслиги керак."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Avans olingandan keyin sotuvchi barcha tovarlarni 45 ish kunidan kechiktirmay xaridor omboriga yetkazishi shart; yetkazish DAP-Toshkent shartida.",
+      "summary_en": "After receiving the advance the seller must deliver all goods to the buyer's warehouse within 45 working days, on DAP Tashkent terms.",
+      "quote": "Аванс маблағи олингандан сўнг, Сотувчи 45 иш кунидан кечиктирмаган ҳолда барча товарларни Сотиб олувчи омборига етказиб бериши шарт."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30% avans olish uchun sotuvchi nufuzli Yevropa yoki Shimoliy Amerika bankining qaytarib olinmaydigan bank kafolatini taqdim etadi; qolgan 70% qabuldan keyin to'lanadi.",
+      "summary_en": "To receive the 30% advance the seller provides an irrevocable guarantee from a reputable European or North American bank; the remaining 70% is paid after acceptance.",
+      "quote": "нуфузли Европа ёки Шимолий Америка банки томонидан берилган чақириб олинмайдиган банк кафолатини"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishtirokchi so'nggi 2 yilda o'xshash uskunani yetkazib berish bo'yicha kamida 3 ta shartnoma nusxasini taqdim etishi kerak.",
+      "summary_en": "The bidder must provide copies of at least 3 contracts for similar equipment supplied in the last 2 years.",
+      "quote": "Иштирокчи сўнгги 2 йил ичида ўхшаш ускунани етказиб бериш бўйича камида 3 та шартнома нусхасини тақдим этиши керак."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kamida 12 oylik kafolat xizmati ta'minlanishi kerak.",
+      "summary_en": "At least 12 months of warranty service must be provided.",
+      "quote": "Камида 12 ойлик кафолат хизмати таъминланиши лозим."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Foydalanuvchilar uchun texnik yo'riqnoma va boshlang'ich o'quv mashg'ulotlari taqdim etilishi shart.",
+      "summary_en": "A technical manual and initial training for users must be provided.",
+      "quote": "Фойдаланувчилар учун техник йўриқнома ва бошланғич ўқув машғулотлари тақдим этилиши шарт."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Lot 10 turdagi samolyot/registrator uchun 28 ta kabel, adapter va dasturiy ta'minot pozitsiyasini o'z ichiga oladi (Boeing 787/767/757, Airbus 320, L-410).",
+      "summary_en": "The lot covers 28 cable, adapter and software items for recorders on Boeing 787/767/757, Airbus 320 and L-410 aircraft.",
+      "quote": "FDS400-301 (or latest version) Download Unit 1 Boeing-787 EAFR 866-0084-102 Manufacture software with P757808-03-01 cable"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Tovar bilan CMR, invoys, ishlab chiqaruvchining sifat sertifikati, kelib chiqish sertifikati (СТ-1), moslik sertifikati, eksport deklaratsiyasi va qadoqlash varag'i topshiriladi.",
+      "summary_en": "Goods come with CMR, invoice, manufacturer quality certificate, certificate of origin (CT-1), conformity certificate, export customs declaration and packing list.",
+      "quote": "ускунанинг келиб чиқиш сертификати (СТ-1 шакли) — нусха;"
+    }
+  ],
+  "flags": [
+    {
+      "type": "brand_no_equivalent",
+      "severity": "medium",
+      "quote": "FDS400-301 (or latest version) Download Unit 1 Boeing-787 EAFR 866-0084-102 Manufacture software with P757808-03-01 cable",
+      "explanation_uz": "Narx jadvali va shartnoma ilovasida 28 pozitsiya bitta ishlab chiqaruvchi mahsuloti artikullari (FDS400-..., FDS40-...) bilan sanab o'tilgan va ularning ekvivalenti ruxsat etilishi aytilmagan. Registratorlar bilan moslik asosli bo'lishi mumkin, ammo bir xil vazifani bajaradigan boshqa ishlab chiqaruvchilar qurilmalari taklif qilinishi imkoni yopilgan.",
+      "explanation_en": "The price table and contract annex list 28 positions by part numbers from a single manufacturer's product line (FDS400-..., FDS40-...) and do not allow equivalents. Compatibility with the recorders may justify some of this, but equivalent kits from other makers that do the same job cannot be offered.",
+      "rewrite_uz": "Pozitsiyalarni artikul bilan birga funksional talablar (qaysi registrator turlari bilan mosligi, interfeys va ma'lumotlarni yuklab olish imkoniyatlari) orqali ko'rsating va \"yoki ekvivalent\" so'zlarini qo'shing.",
+      "rewrite_en": "Describe each position by its functional requirements (which recorder types it must work with, interface and download capability) alongside the part number, and add \"or equivalent\"."
+    },
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "нуфузли Европа ёки Шимолий Америка банки томонидан берилган чақириб олинмайдиган банк кафолатини",
+      "explanation_uz": "30% avans (taxminan 702 720 000 so'm) olish uchun faqat Yevropa yoki Shimoliy Amerika banki bergan bank kafolati talab qilinadi. Boshqa mintaqalardagi, jumladan mahalliy banklar bergan kafolatni taqdim etadigan yetkazib beruvchilar avansdan foydalana olmasligi yoki ishtirok etmasligi mumkin.",
+      "explanation_en": "To receive the 30% advance (about 702,720,000 UZS of the 2,342,400,000 UZS start price) the guarantee must come from a European or North American bank. Suppliers whose guarantee comes from banks in other regions, including local banks, may be unable to use the advance or to bid.",
+      "rewrite_uz": "Avans uchun kafolat bank reytingi yoki moliyaviy barqarorligi belgilangan mezonlarga javob beradigan istalgan bank tomonidan berilishi mumkin.",
+      "rewrite_en": "The advance guarantee may be issued by any bank that meets stated rating or financial-standing criteria, regardless of region."
+    },
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "Иштирокчи сўнгги 2 йил ичида ўхшаш ускунани етказиб бериш бўйича камида 3 та шартнома нусхасини тақдим этиши керак.",
+      "explanation_uz": "Mezonlar jami 5 balldan iborat (1+1+2+1), o'tish bali esa 4. Shu sababli 1 ballik tajriba mezonini (so'nggi 2 yilda o'xshash uskuna bo'yicha kamida 3 ta shartnoma) to'liq bajarmagan ishtirokchi amalda o'tolmaydi. Bunday maxsus uskuna bo'yicha 3 ta yaqin shartnomani talab qilish ishtirokchilar sonini juda cheklashi mumkin.",
+      "explanation_en": "The criteria total 5 points (1+1+2+1) with a pass mark of 4, so a bidder that misses this 1-point experience criterion (at least 3 similar-equipment contracts in the last 2 years) can hardly pass. For such specialised equipment, requiring three recent contracts may greatly narrow the field.",
+      "rewrite_uz": "Tajriba mezoni ball bilan baholansin va o'tish bali tajriba hujjatiga bog'liq bo'lmasin; kamida 1 ta o'xshash yetkazib berish shartnomasi yetarli deb belgilansin.",
+      "rewrite_en": "Score experience for points without making it decisive for the pass mark, and accept at least one comparable supply contract."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik guvohnomasi nusxasi",
+    "Kafolat xati (qayta tashkil etish, tugatish yoki bankrotlik bosqichida emasligi haqida)",
+    "Ishtirokchi haqida umumiy ma'lumot va tajriba haqida ma'lumot",
+    "Byudjetga qarzi yo'qligini tasdiqlovchi hujjatlar",
+    "Moliyaviy holat to'g'risidagi ma'lumotlar (balans va moliyaviy natijalar)",
+    "Texnik taklif va texnik tavsiflarning qiyosiy jadvali (6-shakl)",
+    "Narx taklifi (7-shakl)",
+    "So'nggi 2 yilda o'xshash uskunani yetkazib berish bo'yicha kamida 3 ta shartnoma nusxasi",
+    "Ishlab chiqaruvchi sertifikati va uskunaning originalligini tasdiqlovchi hujjatlar",
+    "Avans uchun bank kafolati (30% avans olish uchun)"
+  ]
+}

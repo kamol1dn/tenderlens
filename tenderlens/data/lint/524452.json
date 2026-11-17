@@ -1,0 +1,77 @@
+{
+  "lot_id": 524452,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Bolalar oromgohidagi 10 kV kabel liniyasida avariya-tiklash elektr montaj ishlari",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "10 kV kabel liniyasida shikastlangan joyni aniqlash va shikastlangan qismini tiklash.",
+      "summary_en": "Locate the fault on the 10 kV cable line and restore the damaged section.",
+      "quote": "10 kV kuchlanishli kabel liniyasida avariya-tiklash ishlarini bajarisho shikastlangan joyni aniqlash va kabel liniyasining shikastlangan qismini tiklash"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kabel liniyasining umumiy uzunligi 3650 metr.",
+      "summary_en": "The total length of the cable line is 3650 metres.",
+      "quote": "10 kV kuchlanishli KELning umumiy uzunligi - 3650 metr"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ta'mirlash joyida kabel liniyasini ochish uchun yer qazish ishlari bajariladi.",
+      "summary_en": "Excavation is required to expose the cable line at the repair site.",
+      "quote": "ta'mirlash ishlari olib boriladigan joyda kabel liniyasini ochish"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ta'mirdan keyin elektr o'lchovlari va sinovlar o'tkazilib, natijalar hujjatlashtiriladi.",
+      "summary_en": "After the repair, electrical measurements and tests must be done and documented.",
+      "quote": "Ta'mirlash ishlari yakunlangandan so'ng Ijrochi quyidagilarni bajarishi shart"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Elektrotexnik xodimlarning malakasi va elektr xavfsizligi bo'yicha hujjatlar ball beradi (10 ball).",
+      "summary_en": "Electrical staff qualifications and electrical-safety documents are scored (10 points).",
+      "quote": "Elektrotexnik xodimlarning malakasi va elektr xavfsizligi ' bo'yicha tegishli hujjatlarning mavjudligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "O'xshash ishlar tajribasi ball beradi (10 ball); o'xshash ish deb mos kuchlanishdagi kabel liniyalari ishlari sanaladi.",
+      "summary_en": "Similar-work experience is scored (10 points); work on cable lines of the relevant voltage class counts as similar.",
+      "quote": "O'xshash ishlar deganda tegishli kuchlanish sinfidagi kabel liniyalari yoki ularga o'xshash elektr-texnik obyektlarni ta'mirlash, tiklash, montaj qilish"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Zarur uskunalar, o'lchash va sinov asboblari mavjudligi ball beradi (10 ball).",
+      "summary_en": "Availability of necessary equipment and measuring and test instruments is scored (10 points).",
+      "quote": "Zarur uskunalar, o'lchash va sinov asboblarining mavjudligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Maxsus texnika (laboratoriya avtotransporti, ijara ham mumkin) va moddiy-texnik resurslar ball beradi (10 ball).",
+      "summary_en": "Special vehicles (a laboratory vehicle, rental allowed) and material resources are scored (10 points).",
+      "quote": "Maxsus texnika (laboratoriya maxsus avtotransporti mavj udli gi yoki ijara shartnomasi) va moddiy-texnik resurslarning mavjudligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishlarni bajarish taklif etilgan tartibining texnik topshiriqqa mosligi ball beradi (10 ball).",
+      "summary_en": "The conformity of the proposed work method with the specification is scored (10 points).",
+      "quote": "Ishlarni bajarishning taklif etilayotgan tartibining texnik - topshiriq talablariga muvofiqligi"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Elektrotexnik xodimlarning malakasi va elektr xavfsizligi guruhi bo'yicha hujjatlar (guvohnomalar, bilimni tekshirish hujjatlari)",
+    "O'xshash ishlar tajribasi: shartnomalar ro'yxati va tasdiqlovchi hujjatlar",
+    "Zarur uskunalar, o'lchash va sinov asboblari ro'yxati (qiyoslash hujjatlari bilan)",
+    "Maxsus texnika (laboratoriya avtotransporti) va moddiy-texnik resurslar mavjudligi yoki ijara shartnomasi",
+    "Ishlarni bajarishning taklif etilayotgan tartibi tavsifi",
+    "Davlat ro'yxatidan o'tganlik hujjatlari",
+    "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik yo'qligi to'g'risida ma'lumot",
+    "Kafolat xati (2-ilova)",
+    "Qatnashuvchi haqida ma'lumot (1-ilova)",
+    "Texnik taklif va narx taklifi (4- va 5-ilovalar)",
+    "Halollik va manfaatlar to'qnashuvi yo'qligi to'g'risidagi bayonot (3-ilova)"
+  ]
+}

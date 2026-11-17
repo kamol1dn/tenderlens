@@ -1,0 +1,78 @@
+{
+  "lot_id": 524422,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Andijon shahridagi Kinematografiya agentligi hududiy boshqarmasi bino-inshootlarini baholash xizmati",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Milliy standartlar bo'yicha baholangan kamida 3 ta o'xshash loyiha tajribasi bo'lishi kerak.",
+      "summary_en": "At least 3 similar valuation projects done under national standards.",
+      "quote": "baholangan kamida 3 ta o'xshash loyihani"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnoma tuzilgunga qadar kamida 1 yil baholash faoliyati bilan shug'ullangan bo'lish kerak.",
+      "summary_en": "At least one year of valuation activity before the contract is signed.",
+      "quote": "kamida 1 yil davomida (aktivlarni) baholash faoliyatini amalga oshirish"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Baholovchining malaka sertifikati va professional birlashmaga a'zolik hujjati taqdim etiladi.",
+      "summary_en": "The appraiser's qualification certificate and professional association membership are provided.",
+      "quote": "baholashda bevosita ishtirok etadigan baholovchining (baholovchilarning) malaka sertifikatini taqdim etishi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Baholash shartnoma tuzilgandan so'ng 7 ish kunida yakunlanadi.",
+      "summary_en": "The valuation is completed within 7 working days after signing the contract.",
+      "quote": "shartnoma tuzilgandan so'ng 7 ish kuni"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Baholash 2026-yil 1-oktabr holatiga, bozor qiymatini aniqlash maqsadida amalga oshiriladi.",
+      "summary_en": "Valuation as of 1 October 2026, determining market value.",
+      "quote": "Baholash 01. 10.2026-yil holatiga amalga oshiriladi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Hisobotda baholovchining mulkning bozor qiymati to'g'risidagi professional xulosasi bo'lishi kerak.",
+      "summary_en": "The report must contain the appraiser's professional conclusion on market value.",
+      "quote": "Hisobotda baholovchining baholanayotgan mulkning bozor qiymati to'g'risidagi professional xulosasi bo'lishi kerak"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash mezonlari: texnik qism 60%, narx 40%, o'tish bali 50.",
+      "summary_en": "Scoring: technical 60%, price 40%, pass mark 50.",
+      "quote": "texnik qism 60.0%, narx 40.0%, o'tish bali 50"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Malakali baholovchi haqida ma'lumot (sertifikat) uchun 15 ballgacha beriladi.",
+      "summary_en": "Up to 15 points for information on the qualified appraiser (certificate).",
+      "quote": "(sertifikat) ilova qilinadi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari mavjud bo'lishi shart.",
+      "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+      "summary_en": "No overdue tax or fee debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "O'xshash baholash loyihalari bo'yicha mijozlar ro'yxati, aloqa ma'lumotlari va tavsiyanomalar",
+    "Baholovchining malaka sertifikati va baholovchilar uyushmasiga a'zolik hujjatlari",
+    "Mavjud texnik jihozlar fotosuratlari",
+    "Bajarilgan ishlar bo'yicha shartnomalar va hisob-fakturalar",
+    "Sug'urta polisi",
+    "Muddatlar aks ettirilgan kafolat xati"
+  ]
+}

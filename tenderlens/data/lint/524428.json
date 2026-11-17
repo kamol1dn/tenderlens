@@ -1,0 +1,112 @@
+{
+  "lot_id": 524428,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "education",
+  "subject_uz": "Kasb-hunar maktabi uchun 26 ta sanoat tikuv mashinasi va 2 ta overlok yetkazib berish (boshlang'ich narx 280 000 000 so'm)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "26 ta tikuv mashinasi va 2 ta overlok mashinasi yetkazib beriladi.",
+      "summary_en": "26 sewing machines and 2 overlock machines must be supplied.",
+      "quote": "Тикув машиналари ва оверлок мошиналарини сотиб олиш 1. Тикув машина - 26 та 2. Оверлок машина - 2 та"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Barcha tovar va xizmatlar shartnoma kuchga kirgandan keyin 10 ish kuni ichida bajarilishi kerak.",
+      "summary_en": "All goods and services must be completed within 10 working days after the contract enters into force.",
+      "quote": "Барча товарлар ва хизматлар тузилган шартнома кучга киргандан кейин 10 иш куни ичида бажариб берилиши лозим."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Tovar yangi, ishlatilmagan, tiklanmagan va ko'rgazma namunasi bo'lmasligi kerak.",
+      "summary_en": "Goods must be new, unused, not refurbished, not display samples and not discontinued.",
+      "quote": "Барча эхтиёт кисмлар янги булиши лозим, аввал фойдаланилмаган, тикланмаган, кургазма намуналари эмас ва ишлаб чикаришдан чикарилмаган булиши лозим."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Ishlab chiqaruvchi yoki yetkazib beruvchi O'zbekiston hududida xizmat ko'rsatish imkoniyatiga ega bo'lishi kerak.",
+      "summary_en": "The manufacturer or supplier must have service capability within Uzbekistan.",
+      "quote": "Ишлаб чикарувчи, етказиб берувчи Узбекистан Республикаси худудида хизмат курсатувчига эта булиши лозим."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Mashinalar yetkazib beruvchi hisobidan o'rnatib beriladi.",
+      "summary_en": "Installation is at the supplier's expense.",
+      "quote": "Барча эхтиёт кисмлар бажарувчи хисобидан янги, сифатлисидан олиб урнатиб бериш шарт."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat muddati kamida 1 yil; nuqsonlar yetkazib beruvchi hisobidan bartaraf etiladi yoki mahsulot almashtiriladi.",
+      "summary_en": "Warranty of at least 1 year; defects are fixed or goods replaced at the supplier's cost.",
+      "quote": "Кафолат муддати: камида 1 йил."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kafolat xati uchun ball: 1 yil 3 ball, 2 yil 5 ball, 3 yil 10 ball.",
+      "summary_en": "Warranty letter scoring: 1 year 3 points, 2 years 5 points, 3 years 10 points.",
+      "quote": "1 йиллик кафолат муддати кўрсатилганда 3 балл 2 йиллик кафолат муддати кўрсатилганда 5 балл 3 йиллик кафолат муддати кўрсатилганда 10 балл"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kafolat davrida nosozliklarni bartaraf etish muddati va joyi bo'yicha kafolat xati taqdim etilishi kerak (10 ball).",
+      "summary_en": "A guarantee letter on fault-repair time and place is required (10 points).",
+      "quote": "Кафолат муддатида юзага келган носозликларни бартараф этиш муддати ва жойи бўйича кафолат хати."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishlab chiqarilgan yil bo'yicha ball: 2020-2024 yil 0 ball, 2025 yil 5 ball, 2026 yil 10 ball.",
+      "summary_en": "Year-of-manufacture scoring: 2020-2024 gets 0, 2025 gets 5, 2026 gets 10 points.",
+      "quote": "2020-2024 йилда ишлаб чиқарилган бўлса 0 балл 2025 йилда ишлаб чиқарилган бўлса 5 балл 2026 йилда ишлаб чиқарилган бўлса 10 балл"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Transport va texnika mavjudligini tasdiqlovchi hujjat talab qilinadi; bo'lmasa ishtirokchi keyingi bosqichga o'tmaydi.",
+      "summary_en": "A document proving availability of transport and equipment is required; without it the bidder does not advance.",
+      "quote": "Шартнома бўйича мажбуриятларни бажариш учун транспорт ва техникаларнинг мавжудлигини тасдиқловчи ҳужжат."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Moliyaviy ahvol bo'yicha 3 yillik balans soliq organi tasdig'i bilan taqdim etilsa 10 ball beriladi.",
+      "summary_en": "Three years of tax-confirmed balance sheets earn up to 10 points.",
+      "quote": "Иштирокчининг молиявий аҳволи тўғрисида маълумот 3 йиллик баланс ва молиявий натижа солиқ органлари томонидан тасдиқланганлигини тасдиғи билан."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+      "summary_en": "No overdue tax or fee debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "2020-2024 йилда ишлаб чиқарилган бўлса 0 балл 2025 йилда ишлаб чиқарилган бўлса 5 балл 2026 йилда ишлаб чиқарилган бўлса 10 балл",
+      "explanation_uz": "Ishlab chiqarilgan yili bo'yicha 10 ball (jami 50 balldan) berilib, 2020-2024 yillarda chiqarilgan mashinalar 0 ball oladi, 2026 yilgi mashinalar esa 2025 yilgisidan 5 ball ortiq oladi. Texnik topshiriq allaqachon yangi, ishlatilmagan tovarni talab qilgani uchun bu mezon ombori eskiroq (lekin yangi) mashinalarga ega yetkazib beruvchilarni sifat farqisiz ball bo'yicha orqada qoldirishi mumkin.",
+      "explanation_en": "The year of manufacture carries 10 of 50 points: machines made in 2020-2024 get 0 and 2026 machines get 5 points more than 2025 ones. Since the specification already requires new, unused goods, this may put suppliers whose new stock was made in an earlier year behind without a quality difference.",
+      "rewrite_uz": "Ishlab chiqarilgan yili bo'yicha ball bermang yoki 2023 yil va undan keyin ishlab chiqarilgan yangi, ishlatilmagan mashinalarga bir xil ball bering.",
+      "rewrite_en": "Do not score the year of manufacture, or give the same score to all new, unused machines made in 2023 or later."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "medium",
+      "quote": "Иштирокчининг молиявий аҳволи тўғрисида маълумот 3 йиллик баланс ва молиявий натижа солиқ органлари томонидан тасдиқланганлигини тасдиғи билан.",
+      "explanation_uz": "Bu band tovarning texnik tavsifiga muvofiqlik mezoni ostida joylashgan, lekin tikuv mashinalarining xususiyatlarini emas, ishtirokchining 3 yillik moliyaviy hisobotini baholaydi (10 ball; 1 yil 3 ball, 3 yil 10 ball). Bu platformaning standart andozasi so'zlariga o'xshaydi; yangi ro'yxatdan o'tgan, lekin tovarni yetkaza oladigan firma 7 ball yo'qotishi mumkin.",
+      "explanation_en": "This line sits under the technical-conformity criterion but scores the bidder's three years of financial statements, not the machines (10 points; 1 year 3 points, 3 years 10 points). It looks like standard template wording; a newer firm able to deliver the goods could lose 7 points.",
+      "rewrite_uz": "Ushbu mezonni tovarning texnik parametrlariga muvofiqligi bo'yicha baholang yoki moliyaviy hisobot uchun ball bermasdan, uni faqat ishtirok shartlari qatorida so'rang.",
+      "rewrite_en": "Score this criterion on the machines' technical conformity, or ask for financial statements only as a participation condition without points."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ro'yxatdan o'tganlik guvohnomasi va ta'sis hujjatlari",
+    "Soliq va yig'imlar bo'yicha qarzdorlik yo'qligi to'g'risida ma'lumotnoma",
+    "Insofsiz ijrochilar reestrida yo'qligi to'g'risida tasdiq",
+    "Texnik topshiriqqa muvofiqlikni tasdiqlovchi hujjatlar",
+    "Kafolat muddati ko'rsatilgan kafolat xati",
+    "Kafolat davrida nosozliklarni bartaraf etish muddati va joyi bo'yicha kafolat xati",
+    "Ishlab chiqarilgan yilni tasdiqlovchi hujjat",
+    "Transport va texnika mavjudligini tasdiqlovchi hujjat",
+    "Soliq organi tasdiqlagan balans va moliyaviy natijalar hisoboti (1-3 yil)"
+  ]
+}

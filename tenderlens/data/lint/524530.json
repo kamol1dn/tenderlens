@@ -1,0 +1,74 @@
+{
+  "lot_id": 524530,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Maktabgacha ta'lim muassasasi uchun bolalar tagliklari, hojatxona qog'ozi va qog'oz sochiq xaridi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Bolalar uchun ko'p qatlamli hojatxona qog'ozi, katta o'lchamli qog'oz sochiq va maxsus tagliklar yetkazib beriladi.",
+      "summary_en": "Multi-layer toilet paper for children, large paper towels and special diapers are to be supplied.",
+      "quote": "bolalar uchun ko'p qatlamli hojatxona qog'ozi, katta o'lchamli qog'oz sochiq, shuningdek maxsus tagliklar haridi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulot 2025-yildan avval ishlab chiqarilgan bo'lmasligi kerak.",
+      "summary_en": "Goods must not have been manufactured before 2025.",
+      "quote": "2025 yildan avval bo'lmasligi kerak (majburiy)"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulotning markirovkasi, qadoqlanishi va tashilishi talablarga mos bo'lishi shart.",
+      "summary_en": "Marking, packaging and transport of the goods must meet the stated requirements.",
+      "quote": "Markirovka, transportirovka, qadoqlash (majburiy)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik tomoni texnik shartga muvofiq bo'lishi kerak; bu mezon 20 ball beradi.",
+      "summary_en": "The technical side must match the technical specification; this criterion carries up to 20 points.",
+      "quote": "Texnik tomoni, texnik shartga muvofiq bo'lishi kerak (majburiy)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mahsulot sertifikatlari (sanitariya-epidemiologik xulosa va boshqalar) ball bilan baholanadi.",
+      "summary_en": "Product certificates (sanitary-epidemiological conclusion etc.) are scored.",
+      "quote": "Sertifikatsiya (majburiy)"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish davriyligi va miqdori bo'yicha hujjat taqdim etiladi va baholanadi.",
+      "summary_en": "A document on delivery frequency and quantity is submitted and scored.",
+      "quote": "Etkazib berish davriyligi (majburiy)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ekologik, gigiyenik sertifikatlar, sinov bayonnomalari va muvofiqlik sertifikatlari talab qilinadi.",
+      "summary_en": "Environmental and hygiene certificates, test reports and conformity certificates are required.",
+      "quote": "Экологик, гигиеник сертификатлаш, калибрлаш тўғрисидаги тегишли гувоҳномалар ёки синов баённомалари"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Bank kafolati yoki zakalat kiritilganini tasdiqlovchi hujjat talab qilinadi.",
+      "summary_en": "Proof of a deposit or the original bank guarantee is required.",
+      "quote": "Закалат киритилганлигини тасдиқловчи ҳужжат ёки банк кафолатининг асл нусхаси"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Texnik shartga aniq amal qilinmasa, shartnoma bekor qilinishi yoki taklif ko'rib chiqilmasligi mumkin.",
+      "summary_en": "If the specification is not followed exactly, the contract may be cancelled or the bid not considered.",
+      "quote": "Aks holda shartnoma bekor bo'lishi yoki taklif ko'rib chiqilmasligi yohud diskvalifikatsiyaga sabab bo'lishi mumkin"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+    "Soliq qarzi yo'qligi haqida ma'lumotnoma",
+    "Texnik shartga muvofiqlikni tasdiqlovchi hujjatlar",
+    "Sertifikatlar (sanitariya-epidemiologik xulosa, muvofiqlik sertifikati, sifat sertifikati)",
+    "Yetkazib berish davriyligi bo'yicha hujjat",
+    "Markirovka, qadoqlash va tashish bo'yicha hujjat",
+    "Taklifni ta'minlash (zakalat yoki bank kafolati)",
+    "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ariza"
+  ]
+}

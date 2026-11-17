@@ -1,0 +1,75 @@
+{
+  "lot_id": 524162,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Gaz haydash agregati kompressori rotorini (GTs2-519-56/1.44) texnik topshiriq asosida ta'mirlash",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Texnik topshiriq asosida GTs2-519-56/1.44 rusumli nagnetatel rotorini ta'mirlash.",
+      "summary_en": "Repair of the GTs2-519-56/1.44 compressor rotor under the technical assignment.",
+      "quote": "Техник топширик асосида ГЦ2-519-56/1.44 русумли нагнетател роторини таъмирлаш"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Rotorni kirish nazoratidan o'tkazish, tozalash va yuvish ishlarini bajarish.",
+      "summary_en": "Incoming inspection, cleaning and washing of the rotor.",
+      "quote": "2. Rotorni tozalash va yuvish;"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Rotor vali bo'yinchalarini naplavka qilish, termik ishlov berish, shlifovka va polirovka qilish.",
+      "summary_en": "Build-up welding of the rotor shaft journals, heat treatment, grinding and polishing.",
+      "quote": "7. Rоtог vali Ьо'уiпсhаlагiпi shlifovka va polirovka qilish;"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Yaroqsiz holatga kelgan rotor ehtiyot qismlarini yasash (qismlar ro'yxati texnik topshiriqda berilgan).",
+      "summary_en": "Manufacture of rotor spare parts that are beyond repair (the list of parts is in the assignment).",
+      "quote": "8. Yaroqsiz holatga kelgan rоtоr ehtiyot qismlarini yasash."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Pudratchi ta'mirlashda zarur tajribaga ega ekanini, konstruktorlik hujjatlari va ishlab chiqarish bazasi borligini tasdiqlovchi hujjatlarni taqdim etishi shart.",
+      "summary_en": "The contractor must prove the necessary repair experience, design documentation and production base.",
+      "quote": "ushbu extiyot qisrrtni ta'lTirlashda zаruг tajribaga ega ekanIigini, talab"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ta'mirlangan qism qabul qilishdan oldin kompressor stansiyasi mutaxassislari ko'rigidan va 72 soatlik sinovdan o'tkaziladi.",
+      "summary_en": "The repaired part is accepted after inspection by the compressor station specialists and a 72-hour test.",
+      "quote": "ko'rikdan o'tkazilgandan va 72 soatlik sinov o'tkazilib tekshiгilgarrdan so'ng"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Ta'mirlangan ehtiyot qism GPA-TS-16SK kompressori bilan to'liq mos kelishi va agregat normal ishlashini ta'minlashi kerak.",
+      "summary_en": "The repaired part must fully fit the GPA-TS-16SK compressor and let the unit run normally.",
+      "quote": "Pudratchi tomonidan ta'mirlangan extiyot qism GрА-тS-lбSК kоtтргеssогi bilan to'Iiq"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash faqat narx bo'yicha (100%); texnik mezon 2 ball bo'lib, o'tish bali 2.",
+      "summary_en": "Evaluation is on price only (100%); the single technical criterion is worth 2 points with a pass mark of 2.",
+      "quote": "Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Standart malaka talablari: resurslar mavjudligi, soliq qarzi va bankrotlik yo'qligi, insofsiz ijrochilar reyestrida bo'lmaslik.",
+      "summary_en": "Standard qualification: resources available, no tax debt or bankruptcy, not on the unfair-supplier register.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Ta'mirlash bo'yicha tajribani tasdiqlovchi hujjatlar",
+    "Konstruktorlik hujjatlariga egalikni tasdiqlovchi hujjatlar",
+    "Ishlab chiqarish bazasini (uskunalar, dastgohlar, stendlar) tasdiqlovchi sertifikat va guvohnomalar",
+    "Texnik shakllar (texnik topshiriqqa muvofiqlik)",
+    "Soliq qarzi yo'qligi haqida ma'lumotnoma",
+    "Bankrotlik tartib-taomili yo'qligi haqida ma'lumot",
+    "Insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumot",
+    "Majburiy ijro byurosi ma'lumotlar bazasida bajarilmagan majburiyat yo'qligi haqida ma'lumot",
+    "Taklif kafolati (3%)"
+  ]
+}

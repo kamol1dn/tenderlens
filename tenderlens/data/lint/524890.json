@@ -1,0 +1,135 @@
+{
+  "lot_id": 524890,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "38-sonli oilaviy poliklinika (Davlatsoy filiali) binosini joriy ta'mirlash uchun qurilish materiallari (burchak profil, quvurlar, beton qorishmasi, radiator va boshqalar) xaridi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulot texnik vazifada keltirilgan talablarga to'liq javob berishi shart.",
+      "summary_en": "The goods must fully meet the requirements in the technical assignment.",
+      "quote": "Texnik vazifada keltirilgan talablarga to'liq javob berishi shart."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulotga rasmiy ishlab chiqaruvchining sertifikati bo'lishi talab qilinadi.",
+      "summary_en": "An official manufacturer certificate for the goods is required.",
+      "quote": "Maxsulotga rasmiy ishlab chikaruvchining sertifikati mavjudligi."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Taklifda mahsulotning texnik parametrlari va ishlab chiqaruvchisi ko'rsatilishi kerak.",
+      "summary_en": "The bid must state the technical parameters and manufacturer of the goods.",
+      "quote": "Maxsulotning texnik parametrlari va ishlab chiqaruvchisi kursati lishi kerak."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Texnik hujjatlar ro'yxati (broshyuralar, texnik pasportlar) taklifga ilova qilinadi.",
+      "summary_en": "A list of technical documents (brochures, technical passports) is attached to the bid.",
+      "quote": "Texnik xujjatlar ro‘yxati (broshyuralar, texnik pasporlar"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchining omborida mahsulot mavjud bo'lishi va rasm bilan tasdiqlanishi kerak.",
+      "summary_en": "The goods must be in the bidder's own warehouse, confirmed with a photo.",
+      "quote": "Таварлар таъминотчининг омборида мавжудлиги (расм илова килиши керак)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi boshlang'ich summaning kamida 30 foiziga teng mablag'ga ega bo'lishi va yillik aylanmasini ko'rsatishi kerak.",
+      "summary_en": "The bidder must have funds of at least 30% of the starting amount and show its annual turnover.",
+      "quote": "Tanlovning boshlang'ich summasining kamida 30% mablag'iga ega bo'lishi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Yuridik shaxslar birlashmalari (konsorsiumlar) tanlovda ishtirok eta olmaydi.",
+      "summary_en": "Consortia of legal entities may not take part.",
+      "quote": "Yuridik shaxslar birlashmalari (konsorsiumov) tanlovda ishtirok etishga yo'l qo'yilmaydi."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlarni (yetkazib berishni) bajarish muddati shartnoma imzolangan kundan boshlab 3 kun.",
+      "summary_en": "The performance period is 3 days from contract signing.",
+      "quote": "Ishlarni bajarish muddati: shartnoma imzolangan kundan bosh lab 3 kun."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30 foiz avans to'lanadi, qolgan 70 foiz to'liq hajm yetkazilgandan keyin to'lanadi.",
+      "summary_en": "30% advance is paid; the remaining 70% is paid after delivery of the full volume.",
+      "quote": "Oldindan avans (bo'nak) 30% to'lov amalga oshiriladi.(oldindan tulov)"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Tanlov qiymatidan yuqori takliflar qabul qilinmaydi (hujjatda 134 514 795 so'm, lot sahifasida 134 824 795 so'm).",
+      "summary_en": "Bids above the ceiling are not accepted (the document says 134,514,795 UZS, the lot header says 134,824,795 UZS).",
+      "quote": "Tanlov qiyinati 134 514 795 so‘m. Ushbu qiymatdan ortiq qiymatdagi takliflar qabul qilinmaydi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Aniqlangan kamchilik bo'lsa mahsulotni qisqa muddatda almashtirib berish haqida kafolat xati taqdim etilishi shart.",
+      "summary_en": "A guarantee letter must be provided to replace any defective goods within a short time.",
+      "quote": "етказилган товарлардан камчилик аниқланса уни қисқа муддут ичида алмаштириб бериш тўғрисида кафолат хати тақдим қилиши шарт"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Таварлар таъминотчининг омборида мавжудлиги (расм илова килиши керак)",
+      "explanation_uz": "Mahsulot ishtirokchining omborida mavjud bo'lishi va rasm bilan tasdiqlanishi talab qilinadi, shuningdek yetkazib berish avansdan keyin 3 kun ichida bajarilishi kerak. Mahsulotni buyurtma bo'yicha olib keladigan vositachi yetkazib beruvchilar bu talabga javob bera olmasligi mumkin, vaholanki buyumlar keng tarqalgan (lot narxi 134 824 795 so'm).",
+      "explanation_en": "The goods must already be in the bidder's own warehouse and shown by photo, and delivery is due within 3 days after the advance. Suppliers who source the goods to order may be shut out, although the items are widely traded (lot price 134,824,795 UZS).",
+      "rewrite_uz": "Ishtirokchi mahsulotni belgilangan muddatda yetkazib bera olishini tasdiqlovchi hujjat (ombor, ishlab chiqaruvchi yoki distribyutor bilan shartnoma yoki kafolat xati) taqdim etadi.",
+      "rewrite_en": "The bidder provides evidence that it can deliver on time (warehouse record, a contract with a manufacturer or distributor, or a guarantee letter)."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "medium",
+      "quote": "қонун ҳужжатларининг талабларига зид келадиган ҳар қандай ҳаракатларни амалга оширмаслиги",
+      "explanation_uz": "Kafolatdan keyingi xizmat ko'rsatish mezoni uchun ball ishtirokchining qonun talablariga zid harakat qilmasligi haqidagi kafolat xati bilan beriladi. Bu xat kafolatdan keyingi xizmatga aloqador emas va mezonning 20 ballik maksimumi shu hujjatga bog'langan.",
+      "explanation_en": "The post-warranty service criterion (max 20 points) is scored on a letter promising not to act against legal requirements. That letter has no bearing on post-warranty service, and it appears to be standard template wording.",
+      "rewrite_uz": "Kafolatdan keyingi xizmat mezoni xizmat ko'rsatish muddati va joyi bo'yicha majburiyat asosida baholansin; qonunga rioya qilish haqidagi xat alohida talab sifatida (ballsiz) so'ralsin.",
+      "rewrite_en": "Score the post-warranty service criterion on commitments about service period and location; request the legal-compliance letter separately as a pass/fail document."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "low",
+      "quote": "Иштирокчи ҳақида умумий маълумотлар (Ташкилот гувоҳномаси паспорт копияси устави ва бошқа бирламчи хужжатлар) илова қилинади",
+      "explanation_uz": "Tovarning texnik tavsifiga mosligi mezoni (20 ball) ishtirokchining umumiy hujjatlari (guvohnoma, ustav, pasport nusxasi) bilan baholanadi. Bu hujjatlar mahsulot xususiyatlari haqida hech narsa bildirmaydi va har bir ishtirokchida bor.",
+      "explanation_en": "The technical-conformity criterion (20 points) is scored on general company papers (registration certificate, charter, passport copy). These say nothing about the goods and every bidder has them; it looks like standard template wording.",
+      "rewrite_uz": "Mahsulotning texnik tavsifga mosligi taklif qilingan mahsulot parametrlari, pasport va sertifikatlari asosida baholansin.",
+      "rewrite_en": "Technical conformity is scored on the offered product's parameters, passports and certificates."
+    },
+    {
+      "type": "excessive_financial",
+      "severity": "low",
+      "quote": "Tanlovning boshlang'ich summasining kamida 30% mablag'iga ega bo'lishi",
+      "explanation_uz": "Ishtirokchi boshlang'ich summaning kamida 30 foiziga (taxminan 40,4 mln so'm) teng mablag'ga ega bo'lishi kerak, shu hujjatning boshqa bandida esa 20 foiz aylanma mablag' ko'rsatilgan. Ikki xil ko'rsatkich kichik yetkazib beruvchilarni chalg'itishi mumkin.",
+      "explanation_en": "Bidders need funds of at least 30% of the starting amount (about 40.4 million UZS), while another clause of the same document says 20% turnover funds. Two different figures may confuse small suppliers.",
+      "rewrite_uz": "Moliyaviy imkoniyat talabi bitta aniq ko'rsatkich bilan belgilansin va bank ma'lumotnomasi yoki kafolat xati bilan tasdiqlansin.",
+      "rewrite_en": "State a single clear financial-capacity figure and allow confirmation by a bank statement or guarantee letter."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Tanlov qiyinati 134 514 795 so‘m. Ushbu qiymatdan ortiq qiymatdagi takliflar qabul qilinmaydi",
+      "explanation_uz": "Tanlov hujjatida eng yuqori narx 134 514 795 so'm, lot sahifasida esa boshlang'ich narx 134 824 795 so'm (farqi 310 000 so'm). Bu farq narxi chegaraga yaqin takliflarning rad etilishiga olib kelishi mumkin.",
+      "explanation_en": "The tender document sets the ceiling at 134,514,795 UZS, while the lot page shows 134,824,795 UZS (a 310,000 UZS difference). Bids near the ceiling could be rejected because of this mismatch.",
+      "rewrite_uz": "Tanlov hujjati va lot sahifasida bir xil boshlang'ich narx ko'rsatilsin.",
+      "rewrite_en": "The tender document and lot page should state the same starting price."
+    }
+  ],
+  "documents_needed_uz": [
+    "Texnik hujjatlar ro'yxati (broshyuralar, texnik pasportlar)",
+    "Mahsulotga rasmiy ishlab chiqaruvchining sertifikati",
+    "Mahsulotning texnik parametrlari va ishlab chiqaruvchisi ko'rsatilgan taklif",
+    "Mahsulot ishtirokchi omborida mavjudligini tasdiqlovchi rasm",
+    "Ishtirokchi haqida umumiy ma'lumotlar (guvohnoma, ustav, rahbar pasporti nusxasi)",
+    "Yetkazib berish muddati, kalendar grafigi va resurslar taqsimoti bo'yicha ma'lumotnoma",
+    "Kamchilik aniqlansa mahsulotni almashtirib berish haqida kafolat xati",
+    "Qonun talablariga rioya qilish haqida kafolat xati",
+    "Moddiy ta'minlanganlik va yillik aylanma haqida ma'lumot",
+    "Soliq qarzdorligi yo'qligi haqida ma'lumot",
+    "Insofsiz ijrochilar reyestrida yo'qligi bo'yicha tasdiq"
+  ]
+}

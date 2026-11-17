@@ -1,0 +1,97 @@
+{
+  "lot_id": 524454,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "O'zbektelekom AK uchun SPO/IPOga tayyorgarlik darajasini baholash bo'yicha konsalting xizmatlari",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi SPO/IPOga tayyorgarlik, SPO/IPO bo'yicha konsalting va/yoki kapital bozorlari sohasida tasdiqlangan tajribaga ega bo'lishi kerak; tajriba (4-shakl) shartnoma va hisob-faktura bilan tasdiqlanadi, aks holda ishtirokchi chetlashtiriladi.",
+      "summary_en": "Bidder must have proven SPO/IPO readiness, SPO/IPO advisory and/or capital-markets experience, documented on form 4 with contracts and invoices, otherwise it is excluded.",
+      "quote": "Ishtirokchi yoki uning ijrochi jamoasining SPO/IPOga tayyorgarlik, SPO/IPO bo‘yicha konsalting va/yoki kapital bozorlari sohasida tasdiqlangan ish tajribasining mavjudligi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Tajriba bo'yicha ball: 2 tagacha yakunlangan shartnoma 1 ball, 3-4 ta 2 ball, 5 va undan ortiq 3 ball (maksimal).",
+      "summary_en": "Experience scoring: up to 2 completed contracts 1 point, 3-4 contracts 2 points, 5 or more 3 points (maximum).",
+      "quote": "5 ta va undan ortiq yakunlangan shartnomalarni tashkil etsa — 3 ball (maksimal ball)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Taqqoslanadigan kapital bozorlarida oxirgi 10 yilda kamida 3 ta SPO/IPO loyihasi afzal hisoblanadi (1-2 loyiha 1 ball, 3 va undan ko'p 2 ball); kamida bittasi SPO/IPO tayyorgarlik yoki maslahat loyihasi bo'lishi kerak.",
+      "summary_en": "At least 3 SPO/IPO projects in comparable capital markets in the last 10 years are preferred (1-2 projects 1 point, 3+ projects 2 points); at least one must be a readiness or advisory project.",
+      "quote": "kamida 3 (uchta) SPO/IPO loyihasini yakunlagan bo‘lishi afzal hisoblanadi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Jamoada loyiha rahbari, kapital bozorlari/SPO/IPO eksperti va moliyaviy hisobot (IFRS) yoki korporativ boshqaruv-huquqiy eksperti bo'lishi shart; rahbar kamida 2 ta SPO/IPO yoki tayyorgarlik loyihasida qatnashgan bo'lishi kerak, aks holda ishtirokchi chetlashtiriladi.",
+      "summary_en": "The team must include a project leader, a capital-markets/SPO/IPO expert and an IFRS or governance/legal expert; the leader must have taken part in at least 2 SPO/IPO or readiness projects, otherwise the bidder is excluded.",
+      "quote": "Loyiha rahbari yoki boshqa yuqori darajadagi asosiy ekspert SPO/IPO va/yoki ular bilan bog‘liq konsalting xizmatlari sohasida kamida 2 ta SPO/IPO yoki SPO/IPO tayyorgarlik loyihasida ishtirok etgan bo‘lishi lozim."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "SPO/IPOga tayyorgarlikni baholash metodologiyasi taqdim etilsa 1 ball.",
+      "summary_en": "1 point if a methodology for the readiness assessment is submitted.",
+      "quote": "Metodologiya taqdim etilmagan bo‘lsa — 0 ball; Metodologiya taqdim etilgan bo‘lsa — 1 ball."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "5-shakldagi kafolat xati (taklif xarid hujjatlari va texnik topshiriqqa to'liq mos) majburiy; taklif 60 kun amal qiladi.",
+      "summary_en": "A guarantee letter on form 5 confirming full conformity with the procurement documents is mandatory; the offer stays valid for 60 days.",
+      "quote": "Ishtirokchining tanlov bo‘yicha taklifi xarid hujjatlari va texnik topshiriq talablariga to‘liq muvofiqligini tasdiqlovchi 5-shaklga muvofiq kafolat xati."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Manfaatlar to'qnashuvi va affillanganlik yo'qligi (1-ilova), halollik majburiyati arizasi (2-ilova) va buyurtmachi bilan oldingi shartnomalar bo'yicha nizo yo'qligi (3-ilova) haqida rasmiy blankadagi xatlar talab qilinadi.",
+      "summary_en": "Letters on letterhead are required on no conflict of interest or affiliation (annex 1), an integrity statement (annex 2), and no disputes over earlier contracts with the customer (annex 3).",
+      "quote": "Buyurtmachi bilan ilgari tuzilgan shartnomalar doirasida sud yoki arbitraj tartibida nizolarga kirishilmagan."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat avans to'langan kundan keyingi ish kunidan boshlab 40 ish kunidan oshmagan muddatda ko'rsatiladi; yakuniy hisobot va taqdimot ingliz tilida (rahbariyat uchun taqdimot rus tilida bo'lishi mumkin).",
+      "summary_en": "Services must be delivered within 40 working days of the advance payment; the final report and presentation are in English (the management presentation may be requested in Russian).",
+      "quote": "Shartnoma bo‘yicha boshlang‘ich to‘lov amalga oshirilgan kundan e’tiboran 40 ish kundan oshmagan muddatda"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnoma qiymatining 15 foizi avans, qolgan 85 foizi hisob-faktura va dalolatnoma imzolangach 10 ish kuni ichida to'lanadi; boshlang'ich narx 1 948 800 000 so'm (QQS bilan); taklif ta'minoti 3 foiz.",
+      "summary_en": "15 percent advance, remaining 85 percent within 10 working days after invoice and acceptance act; start price 1,948,800,000 UZS incl. VAT; bid security 3 percent.",
+      "quote": "oldindan to‘lov (avans), shartnoma kuchga kirgan kundan"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Malaka-texnik qism bo'yicha o'tish bali 5 (maksimal 10); narx qismi 30 foiz, malaka-texnik qism 70 foiz.",
+      "summary_en": "Pass mark for the qualification-technical part is 5 out of 10; weights are 70 percent technical and 30 percent price.",
+      "quote": "5 (maksimal ball – 10)"
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_experience",
+      "severity": "low",
+      "quote": "Пудратчи сiнгги 10 йил давомида камида 5 та таккосланадиган каIIитЕtп",
+      "explanation_uz": "Texnik topshiriqda ishtirokchi oxirgi 10 yilda kamida 5 ta taqqoslanadigan kapital bozori SPO/IPO loyihasini yakunlagan bo'lishi, shundan kamida 2 tasi tayyorgarlik yoki maslahat loyihasi bo'lishi majburiy qilib yozilgan; ingliz tilidagi qismda esa shu talab 7 yil deb ko'rsatilgan. Platforma shaklida esa 3 ta loyiha faqat \"afzal\" va 2 ball beradi. Bu uch xil ko'rsatkich 1 948 800 000 so'mlik xizmat uchun qaysi biri majburiy ekanini noaniq qiladi va kichikroq xalqaro maslahatchilarni chetlatishi mumkin.",
+      "explanation_en": "The Uzbek terms of reference make it mandatory to have completed at least 5 comparable capital-markets SPO/IPO projects in the last 10 years, of which at least 2 are readiness or advisory work, while the English text of the same clause says 7 years. The platform form treats 3 projects only as preferred, worth 2 points. These three versions leave unclear which is binding for a 1,948,800,000 UZS service and may shut out smaller international advisers.",
+      "rewrite_uz": "Ishtirokchi (yoki konsorsium a'zolari yoki xalqaro tarmoq bo'linmalari) oxirgi 10 yilda taqqoslanadigan bozorlarda kamida 3 ta SPO/IPO yoki tayyorgarlik/maslahat loyihasini yakunlagan bo'lishi kerak; muddat va soni barcha tillardagi va platformadagi matnlarda bir xil ko'rsatilsin.",
+      "rewrite_en": "The bidder (or consortium members or network units) must have completed at least 3 SPO/IPO or readiness/advisory projects in comparable markets in the last 10 years; state the same period and number in all language versions and on the platform form."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasi",
+    "Shartnoma tuzish huquqini tasdiqlovchi hujjat (ustav, tayinlov buyrug'i yoki ishonchnoma)",
+    "Soliq qarzdorligi yo'qligi to'g'risida ma'lumotnoma",
+    "Bankrotlik jarayoni yo'qligi haqida my.gov.uz ma'lumoti",
+    "Insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumot",
+    "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+    "Resurslar mavjudligi to'g'risida rasmiy blankadagi kafolat xati",
+    "Manfaatlar to'qnashuvi va affillanganlik yo'qligi to'g'risida xat (1-ilova)",
+    "Halollik majburiyati to'g'risida ariza (2-ilova)",
+    "Buyurtmachi bilan oldingi shartnomalar bo'yicha nizo yo'qligi haqida xat (3-ilova)",
+    "Ish tajribasi to'g'risida ma'lumot (4-shakl) va shartnomalar, hisob-fakturalar, dalolatnomalar yoki tavsiya xatlari",
+    "Asosiy mutaxassislar portfeli, sertifikatlari, CV va mehnat yoki fuqarolik-huquqiy shartnomalari",
+    "Xizmat ko'rsatish metodologiyasi tavsifi",
+    "Taklifning texnik topshiriqqa to'liq muvofiqligi to'g'risida kafolat xati (5-shakl)",
+    "Benefitsiar to'g'risida ma'lumot"
+  ]
+}

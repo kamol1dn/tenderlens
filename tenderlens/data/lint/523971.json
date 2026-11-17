@@ -1,0 +1,93 @@
+{
+  "lot_id": 523971,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "education",
+  "subject_uz": "Universitet axborot-resurs markazi uchun 76 pozitsiyadagi 415 dona darslik va o'quv adabiyotlarini yetkazib berish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Xarid predmeti: 76 pozitsiya, jami 415 dona darslik va o'quv adabiyoti.",
+      "summary_en": "Subject: 76 titles, 415 copies of textbooks and study literature in total.",
+      "quote": "Darsliklar va o'quv adabiyotlari - 76 pozitsiya' 415 dona"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Bitta umumiy lot; qisman takliflar qabul qilinmaydi, barcha pozitsiyalarga narx berilishi shart.",
+      "summary_en": "A single lot; partial bids are not accepted, so every position must be priced.",
+      "quote": "1 ta umumiy lot; qisman takliflar qabul qilinmaydi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kitoblar yangi, foydalanilmagan, qonuniy muomalaga chiqarilgan asl bosma mahsulot bo'lishi shart; nusxa ko'chirilgan yoki qayta tiklangan nusxalar qabul qilinmaydi.",
+      "summary_en": "Books must be new, unused, legally published originals; photocopies or reconditioned copies are rejected.",
+      "quote": "Yetkazib beriladigan kitoblar ymgi, foydalanilmagan, to'liq komplektli, qonuniy muomalaga chiqarilgan asl bosma mahsulot bo'lishi shart."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati shartnoma kuchga kirgandan boshlab 60 kalendar kundan oshmasligi kerak.",
+      "summary_en": "Delivery must be completed within 60 calendar days of the contract taking effect.",
+      "quote": "Shartnoma kuchga kirgan kundan boshlab 60 kalendar kundan oshmagan muddatda"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnoma narxining 30 foizi oldindan to'lanadi, qolgan 70 foizi tovarlar to'liq qabul qilingandan keyin 10 ish kuni ichida.",
+      "summary_en": "30 percent is paid in advance; the remaining 70 percent within 10 working days after full acceptance.",
+      "quote": "10 (o'n) ish kuni ichida shartnoma umumiy qiymatining 30 foizi miqdorida oldindan to'lovni analga oshiradi"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Narxga kitob qiymati, soliqlar, bojxona, tashish, sug'urta va buyurtmachi manzilgacha yetkazish xarajatlari kiradi.",
+      "summary_en": "The price includes the books, taxes, customs, transport, insurance and delivery to the customer's address.",
+      "quote": "745 705 480 so'm, barcha soliqlar va majburiy xarajatlar bilan"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Nomuvofiq yoki nuqsonli kitoblar dalolatnoma olingandan boshlab 10 kalendar kun ichida o'z hisobidan almashtiriladi.",
+      "summary_en": "Non-conforming or defective books are replaced at the supplier's cost within 10 calendar days of the act.",
+      "quote": "Yetkazib beruvchi nomuvofiq, nuqsonli yoki yetishmayotgan kitoblarni dalolatnoma olingan kundan boshlab 10 kalendar kun ichida"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Hujjatlar litsenziya, ma'lum hududdagi tajriba, aniq aylanma yoki faqat bitta ishlab chiqaruvchi vakolat xatini talab qilmasligini belgilaydi.",
+      "summary_en": "The document states that no licence, local experience, fixed turnover or single-manufacturer authorisation letter is required.",
+      "quote": "Ishtirokchidan raqobatni asossiz cheklaydigan litsenziya, mua)ryan hududdagi tajriba, aniq aylanma yoki faqat bitta ishlab chiqaruvchining vakolat xati talab etilmaydi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik qismda kamida 36 ball (60 balldan) to'plagan takliflar narx bosqichiga o'tadi; tajriba va yetkazish muddati mezonlari 15 balldan baholanadi.",
+      "summary_en": "Bids need at least 36 of the 60 technical points to reach the price stage; experience and delivery time are scored at 15 points each.",
+      "quote": "kamida 36 ball to'plagan va barcha majburiy talablarga muvofiq deb topilgan takliflar narx qismini baholash bosqichiga o'tkaziladi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Portfolio va o'xshash shartnomalarni bajarish tajribasi uchun maksimal 15 ball (so'nggi 3 yilda 4 va undan ortiq shartnoma).",
+      "summary_en": "Up to 15 points for portfolio and similar-contract experience (4 or more contracts in the last 3 years).",
+      "quote": "Portfolio va o‘xshash shartnomalarni bajarish tajribasi — maksimal 15 ball"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Yetkazib berish muddati — maksimal 15 ball",
+      "explanation_uz": "Yetkazib berish muddati bo'yicha 15 ball (texnik qismning 60 balldan 25 foizi) beriladi: 30 kalendar kungacha 15 ball, 56-60 kunga 3 ball, ya'ni farq 12 ball. Chet el darsliklarini ham o'z ichiga olgan 415 dona kitobni 30 kunda yetkazish asosan omborida tayyor zaxirasi bor ta'minotchilarga qulay. Qisqa muddat uchun shuncha ball kerakligini bir marta aniqlashtirish mumkin.",
+      "explanation_en": "Delivery time carries 15 points (25 percent of the 60 technical points): 15 for up to 30 calendar days versus 3 for 56-60 days, a gap of 12 points. For 415 books that include foreign textbooks, a 30-day delivery mainly favours suppliers who already hold stock. It is worth one clarifying question whether such a large weight on the short deadline is needed.",
+      "rewrite_uz": "Yetkazib berish muddati bo'yicha ballar kamroq farq bilan beriladi (masalan, 45 kalendar kungacha to'liq ball), yoki muddat shartnoma shartlari doirasida (60 kun) baholanmaydi.",
+      "rewrite_en": "Delivery-time points are spread over a narrower range (for example, full points for up to 45 calendar days), or the delivery period within the 60-day contract term is not scored."
+    }
+  ],
+  "documents_needed_uz": [
+    "Tanlashda ishtirok etish arizasi (1-ilova)",
+    "Ishtirokchi va vakolatli shaxs to'g'risidagi ma'lumot (2-ilova)",
+    "Vakolatli shaxs imzolagan bo'lsa, uning vakolatini tasdiqlovchi hujjat",
+    "Benefitsiar mulkdorlar to'g'risidagi ma'lumot (3-ilova)",
+    "Qonunbuzarlikka yo'l qo'ymaslik deklaratsiyasi (4-ilova)",
+    "To'ldirilgan texnik muvofiqlik jadvali va spetsifikatsiya (5-ilova)",
+    "Narx taklifi va pozitsiyalar kesimidagi narxlar jadvali (6-ilova)",
+    "Yetkazish muddati, mahsulot aslligi va to'liq yetkazilishi bo'yicha kafolat xati",
+    "Portfolio jadvali va o'xshash shartnomalar bajarilganini tasdiqlovchi hisobvaraq-faktura yoki topshirish-qabul dalolatnomalari",
+    "Katalog, nashriyot yoki distribyutor ma'lumotlari (rasmiy manba)",
+    "Sifat kafolati va nomuvofiq kitoblarni almashtirish muddati ko'rsatilgan kafolat xati"
+  ]
+}

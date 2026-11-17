@@ -1,0 +1,86 @@
+{
+  "lot_id": 524588,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "600 kishilik ustoz va murabbiylar bayrami uchun tashqi qismda keyter (kofe-breyk), bayram bezagi va boshqa xizmatlarni autsorsing usulida tashkil etish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Xizmat Andijon viloyatidagi 600 kishilik tashqi tadbirni autsorsing usulida tashkil etishdan iborat.",
+      "summary_en": "The service is organising an outdoor event for 600 people in Andijan region on an outsourcing basis.",
+      "quote": "Андижон вилояти 1- октябр ўқтувчи мурабийлар тадбир ўтказиш учун ташки 600 кишилик хизмат таъминлаш хизматини аутсорсинг усулида"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ro'yxatdagi barcha mahsulotlar bayram dasturxonida bo'lishi shart; xizmat, anjomlar ijarasi va boshqa xarajatlarni g'olib o'zi qoplaydi.",
+      "summary_en": "All listed products must be on the table; service, equipment rental and other costs are borne by the winner.",
+      "quote": "*** Юкоридаги барча махсулотлар байрам дастурхонида булиши шарт , бундан ташкари голиб томонидан сервис хизматлар анжомлар ижараси ва бошка хизматлар аутсорсер томонидан копланади"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnoma qiymatining 30 foizi avans sifatida o'tkaziladi.",
+      "summary_en": "30 percent of the contract value is paid as an advance.",
+      "quote": "Танловда ғолиб чиқган иштирокчига шартнома бўйича ишлар умумий кийматинииг 30 % микдорида аванс ўтказади"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Moliyaviy ochilish uchun umumiy hujjatlar to'plamida 30 foizdan yuqori ball kerak.",
+      "summary_en": "A score above 30 percent in the general document set is needed for the price part to be opened.",
+      "quote": "Комиссия томонидан овозга куйиш оркали (умумий хужжатлар тўпламида 30% дан юкори бўлганлар)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "20 ball: faqat so'ralgan hujjatlar (guvohnoma, nizom, rahbar buyrug'i va pasporti nusxasi) PDF shaklida to'liq berilsa.",
+      "summary_en": "20 points for submitting exactly the requested company documents (certificate, charter, manager's order and passport copy) as PDF.",
+      "quote": "гувохнома,низом,рахбарни ички буйруғи ва рахбар паспорти ксеронусхаси булар ПДФ ҳолатида илова қилиниши зарур"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "20 ball: hisob raqamdagi mablag' shartnoma summasiga yetarli ekanini tasdiqlovchi bank ma'lumotnomasi; to'liq bo'lmasa 10 ballgacha.",
+      "summary_en": "20 points for a bank certificate that account funds cover the contract sum; up to 10 if incomplete.",
+      "quote": "Тулиладиган шартнома суммасига етарли маблағ бўлганда 20 балл, тўлиқ бўлмаганда 10 баллгача"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "20 ball: avval o'tkazilgan tadbirlardan foto lavhalar to'liq bo'lsa.",
+      "summary_en": "20 points for a complete set of photos from previously held events.",
+      "quote": "Олдин утказилган тадбирлардан фото лавхалар. тулик холатда етарли бўлганда 20 балл"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "20 ball: komissiya raisi nomiga narxlar real va o'zgarmasligi haqida kafolat xati.",
+      "summary_en": "20 points for a guarantee letter to the commission chair that prices are real and will not change.",
+      "quote": "таклиф нархлари реал бўлиши хамда кейинчалик нархлар ўзгармаслиги бўйича расмий маълумот кенгайтирилган холда"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari mavjud bo'lishi kerak.",
+      "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги."
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_financial",
+      "severity": "medium",
+      "quote": "Тулиладиган шартнома суммасига етарли маблағ бўлганда 20 балл, тўлиқ бўлмаганда 10 баллгача",
+      "explanation_uz": "Mezon 2 bo'yicha 20 ball (jami 100 balldan 20 foizi) ishtirokchining hisob raqamida shartnoma summasiga (547 520 000 so'm) yetarli mablag' borligiga bog'langan. Hisob raqamida bunday qoldiq bo'lmagan, lekin xizmatni bajara oladigan ishtirokchi 10 ballgacha yo'qotadi. Buning sababini tekshirib ko'rish kerak.",
+      "explanation_en": "Criterion 2 ties 20 points (20 percent of the 100 points available) to the bidder holding enough money in its account to cover the contract sum of 547,520,000 UZS. A capable bidder without that balance on the certificate date can lose up to 10 points. A person should check whether this is needed for the purchase.",
+      "rewrite_uz": "Ishtirokchining moliyaviy barqarorligi bank ma'lumotnomasi yoki avans va garov hisobga olingan holda tasdiqlanadi; hisob raqamidagi mablag' shartnoma summasining to'liq miqdoriga teng bo'lishi talab etilmaydi.",
+      "rewrite_en": "The bidder's financial standing is confirmed by a bank certificate that takes the advance and bid security into account; an account balance equal to the full contract sum is not required."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ro'yxatdan o'tganlik guvohnomasi nusxasi (PDF)",
+    "Korxona nizomi nusxasi (PDF)",
+    "Rahbarning ichki buyrug'i nusxasi (PDF)",
+    "Rahbar pasportining nusxasi (PDF)",
+    "Xizmat ko'rsatuvchi bank tasdiqlagan hisob raqamdagi mablag'lar to'g'risida ma'lumotnoma",
+    "Avval o'tkazilgan tadbirlardan foto lavhalar",
+    "Komissiya raisi nomiga kafolat xati (narxlar real va o'zgarmasligi haqida)",
+    "Taklif xati va tadbir uchun qo'shimcha takliflar fotolari",
+    "Xarid jarayonida qonunbuzarlikka yo'l qo'ymaslik to'g'risidagi ariza",
+    "Soliq qarzdorligi yo'qligi va bankrotlik jarayoni yo'qligi to'g'risida ma'lumot"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "lot_id": 524909,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "“HUMO AIR” MChJ ustav kapitalidagi davlat ulushini baholash xizmati",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochi baholash faoliyatini amalga oshiruvchi yuridik shaxs maqomiga ega baholovchi tashkilot bo'lishi kerak.",
+      "summary_en": "The contractor must be a valuation organisation with legal-entity status.",
+      "quote": "baholash faoliyatini amalga oshiruvchi yuridik shaxs maqomiga ega baholovchi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Baholovchi tashkilot yuqori A reytingga ega bo'lishi talab qilinadi va bu mezon 15 ball bilan baholanadi.",
+      "summary_en": "The valuation organisation must hold a high 'A' rating; the same factor is also scored (15 points).",
+      "quote": "baholovchi tashkilot yuqori A reytingga ega bo‘lishi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kamida 3 ta o'xshash loyiha (shu jumladan xususiylashtirish) milliy standartlar bo'yicha baholangan bo'lishi kerak.",
+      "summary_en": "At least 3 similar valuation projects (including privatisation) under national standards.",
+      "quote": "kamida 3 ta o‘xshash loyihani (shu jumladan xususiylashtirishni) amalga oshirgan bo‘lishi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnoma tuzilgunga qadar kamida 1 yil davomida aktivlarni baholash faoliyati bilan shugʻullangan bo'lish kerak.",
+      "summary_en": "At least 1 year of asset-valuation activity before the contract is signed.",
+      "quote": "kamida 1 yil davomida (aktivlarni) baholash faoliyatini amalga oshirish"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Baholovchi tashkilot kasbiy jamoat birlashmasi (assotsiatsiya) a'zosi bo'lishi va bu 10 ball bilan baholanadi.",
+      "summary_en": "Membership of a professional valuers' association is required and scored (10 points).",
+      "quote": "baholovchi tashkilotlar assotsiatsiyasiga a’zoligi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Fuqarolik javobgarligini sugʻurtalash polisi mavjud bo'lishi kerak.",
+      "summary_en": "A valid civil-liability insurance policy for the valuation organisation is required.",
+      "quote": "baholovchi tashkilotning fuqarolik javobgarligini sugʻurta qilish shartnomasi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochi baholanayotgan kompaniya yoki potensial investor bilan bog'liq bo'lmasligi kerak.",
+      "summary_en": "The contractor must have no connection with the valued company or any potential investor.",
+      "quote": "Ijrochi hech qanday tarzda Kompaniya bilan"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Baholash shartnoma tuzilgan kundan boshlab 15 kun ichida bajariladi.",
+      "summary_en": "The valuation must be completed within 15 days of contract signing.",
+      "quote": "Baholash xizmatlarini ko‘rsatish bo‘yicha shartnoma tuzilgan kundan boshlab 15 kun."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Hisobot va ilovalar ikki nusxada, o'zbek va rus tillarida topshiriladi.",
+      "summary_en": "The report and annexes are delivered in two copies, in Uzbek and Russian.",
+      "quote": "Ijrochi Buyurtmachiga ikki nusxada Hisobot va tegishli ilovalarni o‘zbek/rus tillarida"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Avans to'lovi umumiy qiymatning 30 foizini tashkil etadi.",
+      "summary_en": "The advance payment is 30% of the total value.",
+      "quote": "Avans to‘lovi 30% (umumiy qiymatidan)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik qism 50 ball, narx 50 ball; keyingi bosqichga o'tish uchun kamida 30 ball kerak.",
+      "summary_en": "Technical part is 50 points, price 50 points; a minimum of 30 points is needed to proceed.",
+      "quote": "keyingi bosqichga minimal o‘tish bali 30 ball"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "baholovchi tashkilot yuqori A reytingga ega bo‘lishi",
+      "explanation_uz": "Yuqori A reytingga ega bo'lish ham majburiy talab, ham 15 ballik mezon sifatida kiritilgan. Reytingga ega bo'lmagan, ammo baholash litsenziyasi, malaka sertifikati va tajribasi bor kichik tashkilotlar qatnasha olmasligi yoki ball yoʻqotishi mumkin. Shartnoma qiymati nisbatan kichik (36 mln so'm) ekanini hisobga olib, bu talabning asosini aniqlashtirish maqsadga muvofiq.",
+      "explanation_en": "A high 'A' rating is both a mandatory requirement and a 15-point criterion. Smaller valuation firms with the required licence, qualification certificates and experience but no rating may be excluded or lose points. Given the modest contract value (about 36 million UZS), the basis for this requirement is worth clarifying.",
+      "rewrite_uz": "Baholovchi tashkilot baholash faoliyatiga qo'yiladigan amaldagi talablarga javob berishi shart; reyting mavjud bo'lsa, u qo'shimcha ball sifatida hisobga olinadi, lekin ishtirok etish sharti bo'lmaydi.",
+      "rewrite_en": "The valuation organisation must meet the applicable requirements for valuation activity; an available rating may earn additional points but is not a condition of participation."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik guvohnomasi va ustav hujjatlari",
+    "Baholash faoliyatiga litsenziya yoki ruxsatnoma (amaldagi talablarga muvofiq)",
+    "Baholovchilarning amaldagi malaka sertifikatlari",
+    "Baholovchi tashkilotlar professional birlashmasiga a'zolik to'g'risidagi hujjat",
+    "Baholovchi tashkilotning reyting hujjati",
+    "Fuqarolik javobgarligini sug'urtalash polisi",
+    "Kamida 3 ta o'xshash loyiha bo'yicha ma'lumot va mijozlarning yozma tavsiyalari",
+    "Baholash muddati va narx taklifi",
+    "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+    "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi to'g'risida ma'lumot",
+    "Kompaniya va potensial investorlar bilan bog'liqlik yo'qligi to'g'risida ariza"
+  ]
+}

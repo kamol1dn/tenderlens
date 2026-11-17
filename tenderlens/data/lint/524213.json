@@ -1,0 +1,79 @@
+{
+  "lot_id": 524213,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Bulung'ur tumanidagi 17 ga pista bog'ida tomchilatib sug'orish tizimini qurish (40 kVt quyosh panellari bilan)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Texnik topshiriq, loyiha-smeta va ekspertiza xulosasi hujjatlariga muvofiq tomchilatib sug'orish tizimi va quyosh stansiyasini qurish.",
+      "summary_en": "Build the drip irrigation system and solar plant according to the technical assignment, design-estimate and expert opinion documents.",
+      "quote": "uchun texnik topshiriq, loyiha-smeta va ekspertiza xulosasi hujjatlari"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Barcha material va uskunalar (quvur, nasos, panel, inverter, kabel, avtomatika) davlat standartlariga javob berishi shart.",
+      "summary_en": "All materials and equipment (pipes, pumps, panels, inverters, cables, automation) must meet state standards.",
+      "quote": "Barcha materiallar va uskunalar (PE quvurlar, nasoslar, quyosh panellari, invertorlar, kabellar va avtomatika vositalari) davlat standartlariga javob berishi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Shunga o'xshash loyihalar tajribasi: 3 va undan ortiq loyiha uchun 15 ball, 1 ta uchun 5 ball.",
+      "summary_en": "Experience with similar projects: 15 points for 3 or more, 5 points for one.",
+      "quote": "3 ta va undan ortiq shunga o'xshash loyiha bajarilgan - 15 ball"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Malakali mutaxassislar soni: 5 nafar va undan ortiq bo'lsa 10 ball.",
+      "summary_en": "Qualified specialists: 10 points for five or more.",
+      "quote": "5 nafar va undan ortiq malakali mutaxassis - 10 ball"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnika o'ziga tegishli bo'lsa 10 ball, hammasi ijaraga olingan bo'lsa 5 ball.",
+      "summary_en": "Equipment fully owned earns 10 points; fully leased earns 5 points.",
+      "quote": "Barcha texnika va mexanizmlar ijaraga olingan. = 5.0"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Suv xo'jaligi vazirligining Tomchi reyestrida ro'yxatdan o'tganlik uchun 10 ball.",
+      "summary_en": "10 points for registration on the Water Ministry's Tomchi register.",
+      "quote": "reestr.mwr.uz (Tomchi reestr) platformasidan"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "1 yil kafolat muddati uchun 5 ball.",
+      "summary_en": "5 points for a one-year warranty.",
+      "quote": "1 yil kafolat muddati. = 5.0"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Obyekt rasmlari ilova qilingan ko'zdan kechirish ma'lumotnomasi uchun 15 ball.",
+      "summary_en": "15 points for a site-inspection certificate with photos of the site.",
+      "quote": "Shaklga mos holda mavjud (Obyekt rasmlari ilova qilinsa)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari mavjud bo'lishi shart.",
+      "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+      "summary_en": "No overdue tax or fee debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Shunga o'xshash loyihalarni bajarish tajribasi to'g'risidagi hujjatlar",
+    "Malakali muhandis-texnik va ishchi xodimlar mavjudligi to'g'risida ma'lumot",
+    "Moddiy-texnik baza (maxsus texnika va mexanizmlar) mavjudligi to'g'risida ma'lumot",
+    "Tomchi reyestrida ro'yxatdan o'tganlik to'g'risida ma'lumot",
+    "Kafolat muddati va servis xizmati to'g'risida hujjat",
+    "Obyektni ko'zdan kechirganlik to'g'risida ma'lumotnoma (obyekt rasmlari bilan)",
+    "Soliq qarzdorligi yo'qligi va insofsiz ijrochilar reyestrida qayd etilmaganligi to'g'risida ma'lumotnoma"
+  ]
+}

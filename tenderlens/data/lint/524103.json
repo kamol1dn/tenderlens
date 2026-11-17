@@ -1,0 +1,74 @@
+{
+  "lot_id": 524103,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Tayyor beton qorishmasini avtobetonaralashtirgichlarda (mikserlarda) qurilish obyektlariga yetkazib berish xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Ishtirokchida hajmi 10 m3 bo'lgan kamida 4 ta avtobetonaralashtirgich bo'lishi kerak.",
+      "summary_en": "The bidder must have at least 4 concrete mixer trucks of 10 m3 drum volume.",
+      "quote": "наличие автобетоносмеителей 4 единиц, объём миксера 10,0 м3"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlarni davomli (sutka davomida) bajarish uchun yetarli sonda malakali haydovchilar bo'lishi kerak.",
+      "summary_en": "Enough qualified drivers to run the work around the clock where needed.",
+      "quote": "наличие квалифицированных водителей в необходимом количестве для обеспечения производства работ в круглосуточном режиме"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "So'nggi 3 yilda shunga o'xshash loyihalarni bajarganlik tajribasi tasdiqlanishi kerak.",
+      "summary_en": "Experience with similar projects over the last 3 years must be confirmed.",
+      "quote": "подтверждение наличия опыта реализации аналогичных проектов по предмету отбора за последние 3 года"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchiga nisbatan bankrotlik jarayonlari yo'qligi tasdiqlanishi kerak.",
+      "summary_en": "Confirmation that no bankruptcy proceedings are open against the bidder.",
+      "quote": "подтверждение отсутствия введенных в отношении них процедур банкротства"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasining tasdiqlangan nusxalari (berilganiga 6 oydan oshmagan) taqdim etiladi.",
+      "summary_en": "Certified copies of constitutive documents and registration certificate, issued within the last 6 months.",
+      "quote": "заверенные копии учредительных документов и свидетельства о государственной регистрации юридического лица (срок действия не позднее 6-ти месяцев с даты выдачи)"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "O'rtacha oylik yetkazib berish hajmi taxminan 4000 m3, ikki smenada ishlanadi.",
+      "summary_en": "Average monthly delivery volume of about 4000 m3, in two shifts.",
+      "quote": "Среднемесячный объем доставки бетонной продукции на строительные объекты — 4000 м³"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlar taxminan 2026-yil 15-sentyabrdan 31-dekabrgacha bajariladi.",
+      "summary_en": "Work is planned from 15 September to 31 December 2026.",
+      "quote": "Ориентировочные сроки выполнения работ с 15.09.2026г. по 31.12.2026г"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Bajarilgan ish hajmi mashina-soatlarda hisoblanadi va to'lov shu asosda amalga oshiriladi.",
+      "summary_en": "Work done is measured in machine-hours and payment is made on that basis.",
+      "quote": "Объем выполненных работ учитывается в маш/часах, на основании чего осуществляется оплата."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash faqat narx bo'yicha (100%), texnik talablarga mosligi ekspert tomonidan 2 ball bilan baholanadi.",
+      "summary_en": "Scoring is price-only (100%); conformity with the technical specification is an expert check worth 2 points.",
+      "quote": "Соответствие требованиям Технического задания / Техник топшириқ талабларига мослиги"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Ta'sis hujjatlarining tasdiqlangan nusxalari",
+    "Yuridik shaxsni davlat ro'yxatidan o'tkazish guvohnomasi nusxasi",
+    "Bankrotlik jarayoni yo'qligini tasdiqlovchi hujjat",
+    "O'xshash loyihalarni so'nggi 3 yilda bajarganlik tajribasini tasdiqlovchi hujjatlar (shartnomalar, dalolatnomalar)",
+    "Avtobetonaralashtirgichlar (4 ta, 10 m3) mavjudligini tasdiqlovchi hujjatlar",
+    "Malakali haydovchilar ro'yxati",
+    "Kompaniyaning umumiy tajribasi va logistika imkoniyatlari haqida ma'lumotnoma",
+    "Texnik topshiriqqa muvofiqlik haqida ma'lumot"
+  ]
+}

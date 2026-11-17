@@ -1,0 +1,84 @@
+{
+  "lot_id": 524639,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Ma'muriy bino fasadining shisha va oynalarini yuvish va tozalash xizmati (7500 kv.m)",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Maxsus hududlarda ish olib borish uchun ruxsatnoma talab qilinadi va u 25 ball bilan baholanadi.",
+      "summary_en": "A permit to work in special (restricted) areas is required and is scored at 25 points.",
+      "quote": "Maxsus xududlarda ish olib borish uchun ruxsatnoma"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishtirokchining moliyaviy ahvoli 1 yillik bank aylanmasi bilan tasdiqlanadi (25 ball).",
+      "summary_en": "Financial standing is shown by one year of bank turnover (25 points).",
+      "quote": "1 йиллик банк айланмаси"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kamida 5 birlik mexanizatsiya vositalari ro'yxati talab qilinadi (25 ball).",
+      "summary_en": "A list of at least 5 units of mechanisation equipment is required (25 points).",
+      "quote": "5 бирликдан кам бўлмаган механизация воситалари рўйхати"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Tanlov obyektiga o'xshash obyektlarda ishlash tajribasi talab qilinadi.",
+      "summary_en": "Experience on objects similar to the subject of the tender is required.",
+      "quote": "o‘xshash ob'ektlarda ishlash tajribasining mavjudligi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ijrochi qurilish narvoni, yuvish mashinalari, vositalari va anjomlari bilan o'zi jihozlanishi kerak.",
+      "summary_en": "The contractor must bring its own ladders, washing machines, detergents and tools.",
+      "quote": "kerakli (barcha jixozlar, ya'ni kurilish narvoni, yuvish"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Asosiy shisha fasad bo'limlarini yuvish va tozalash (jami 7500 kv.m, shu jumladan oynalar 1290 kv.m).",
+      "summary_en": "Washing and cleaning of main glass facade sections (7,500 sq m in total, including 1,290 sq m of windows).",
+      "quote": "Shisha oynali fasadni yuvish va tozalash (asosiy ustki qismi) Ma'muriyat"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat kunning istalgan vaqtida, dam olish va bayram kunlari ham ko'rsatilishi mumkin.",
+      "summary_en": "Services may have to be delivered at any time, including weekends, holidays and outside working hours.",
+      "quote": "olish kunlari va bayram kunlari, ish vaqtidan tashqari"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat muddati shartnoma imzolangandan 2026-yil 31-dekabrgacha.",
+      "summary_en": "Service period runs from contract signature until 31 December 2026.",
+      "quote": "shartnoma imzolangan vaqtdan boshtab 31 dekabr 2026 yilgacha"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnoma qiymatining 30 foizi avans, qolgan 70 foizi shartnoma shartlariga muvofiq to'lanadi.",
+      "summary_en": "30% of the contract value is paid in advance, the remaining 70% per contract terms.",
+      "quote": "30 %, qolgan 70 % shartnoma shartlariga muvofiq amalga oshiriladi"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Xizmat ko'rsatuvchi mahsulot namunasini buyurtmachiga tasdiqlatishi shart.",
+      "summary_en": "The provider must have a product sample approved by the customer.",
+      "quote": "Xizmat ko‘rsatuvchi tashkilot maxsulot na'munasini buyurtmachi tomonidan tasdiqlatishi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Talablar bo'yicha kamchilik topilsa 0-25 ball beriladi va 0 ball olgan ishtirokchi lotdan chetlatiladi.",
+      "summary_en": "Where defects are found in the documents, 0-25 points are given and a bidder with 0 points is removed from the lot.",
+      "quote": "0 ball olgan ishtirokchi lotdan chetlatiladi"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Maxsus hududlarda ish olib borish uchun ruxsatnoma",
+    "1 yillik bank aylanmasi haqida ma'lumot",
+    "Kamida 5 birlik mexanizatsiya vositalari ro'yxati",
+    "Soliq organlaridan va bankdagi kartotekada yo'qligi haqida ma'lumotnoma",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+    "Tanlov hujjati shakllari bo'yicha texnik va narx taklifi"
+  ]
+}

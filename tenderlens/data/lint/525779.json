@@ -1,0 +1,107 @@
+{
+  "lot_id": 525779,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Xalq banki tizimida uy-joy qurilishida loyihaviy moliyalashtirish segmentini ishlab chiqish va eskrou hisobvaraqlari mexanizmini joriy etish bo'yicha konsalting xizmati",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishtirokchi tijorat banklarida loyihaviy moliyalashtirish va eskrou bo'yicha diagnostika va tahlil xizmatlarini ko'rsatganligini shartnoma va dalolatnoma bilan tasdiqlashi kerak (2 ball, afzalroq).",
+      "summary_en": "The bidder should confirm, with a contract and acceptance act, that it has provided diagnostic and analysis services to commercial banks on project finance and escrow (2 points, preferred).",
+      "quote": "tijorat banklarida diagnostika va tahlil ishlari yuzasidan tegishli xizmatlarni ko‘rsatganligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Jamoada O'zbekiston tijorat banklarida loyihaviy moliyalashtirish tajribasiga ega mutaxassis bo'lishi (1 ball).",
+      "summary_en": "A team member with project-finance experience in Uzbekistan's commercial banks (1 point).",
+      "quote": "Ishtirokchi jamoasi tarkibida O‘z. Res.tijorat banklarida loyihaviy moliyalashtirish sohasida tajribaga ega mutaxassis mavjudligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Jamoada MDH davlatlarida uy-joy loyihaviy moliyalashtirish va eskrou bo'yicha vakolatli yoki ishchi organlarda tajribaga ega mutaxassis bo'lishi shart; aks holda 0 ball va tenderdan chetlatish (2 ball).",
+      "summary_en": "The team must include a specialist with CIS authority or working-body experience in housing project finance and escrow; with 0 points the bidder is excluded (2 points).",
+      "quote": "Ishtirokchi jamoasi tarkibida MDH davlatlarida uy joy qurilish obyektlarini loyihaviy moliyalashtirish, eskrou mexanizmlarini joriy etish bo‘yicha vakolatli yoki ishchi organlarda ish tajribasiga ega bo‘lgan mutaxassisning mavjudligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Jamoada FRM, CFA, PFRM yoki CAIA sertifikatiga ega xodim bo'lishi shart; aks holda 0 ball va tenderdan chetlatish (1 ball).",
+      "summary_en": "The team must include an employee holding an FRM, CFA, PFRM or CAIA certificate; with 0 points the bidder is excluded (1 point).",
+      "quote": "FRM (Financial Risk Manager) yoki CFA (Chartered Financial Analyst) yoki PFRM (Professional Financial Risk Manager) yoki CAIA (Chartered Alternative Investment Analyst) sertifikatiga ega xodimning mavjudligi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Davlat ro'yxatidan o'tganiga olti oy to'lmagan tashkilotlar tenderda ishtirok eta olmaydi.",
+      "summary_en": "Organisations registered less than six months before the announcement may not take part.",
+      "quote": "tender o‘tkazish to‘g‘risidagi e’lon berilgan sanada davlat ro‘yxatidan o‘tganiga olti oy to‘lmagan"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Oxirgi yillik (2025) moliyaviy holat va natijalar to'g'risida ma'lumot yoki soliq organi tasdiqlagan hisobot.",
+      "summary_en": "Information on the latest annual (2025) financial position and results, or a tax-authority-confirmed report.",
+      "quote": "Ishtirokchining oxirgi yillik (2025-yil) moliyaviy holati va natijalari to‘g‘risida ma’lumot"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat avans to'langan kundan boshlab 10 oy yoki 305 kalendar kun ichida bajariladi.",
+      "summary_en": "The service is to be delivered within 10 months or 305 calendar days of the advance payment.",
+      "quote": "Oldindan to‘lov (bo‘nak) amalga oshirilgan kundan boshlab 10 oy yoki 305 kalendar kun muddatda"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "15 foiz avans; qolgan 85 foiz to'rt bosqichda 20 foizdan, yakuniy 5 foiz ishlar to'liq qabul qilingach to'lanadi.",
+      "summary_en": "15 percent advance; the remaining 85 percent is paid in four stages of 20 percent, with a final 5 percent after full acceptance.",
+      "quote": "Oldindan to‘lov (bo‘nak) shartnoma umumiy qiymatining 15 (o‘n besh) foizini tashkil etadi"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklif ta'minoti boshlang'ich narxning 1 foizi (133 mln so'm).",
+      "summary_en": "Bid security of 1 percent of the start price (133 million UZS).",
+      "quote": "Tender taklifi ta’minoti hajmi tender boshlang‘ich qiymatining 1 foizini tashkil qiladi"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "G'olib shartnoma summasining 1 foizi miqdorida bajarish kafolatini taqdim etadi.",
+      "summary_en": "The winner provides a performance guarantee of 1 percent of the contract amount.",
+      "quote": "Tender g‘olibi tuzilayotgan shartnomaning umumiy summasining 1 foizi miqdorida shartnoma majburiyatlarini bajarish kafolatini"
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "Ishtirokchi jamoasi tarkibida MDH davlatlarida uy joy qurilish obyektlarini loyihaviy moliyalashtirish, eskrou mexanizmlarini joriy etish bo‘yicha vakolatli yoki ishchi organlarda ish tajribasiga ega bo‘lgan mutaxassisning mavjudligi",
+      "explanation_uz": "Mezon 4 (2 ball, jami 7 balldan) o'tish bali 4 bo'lgan sharoitda tenderdan chetlatish bilan bog'langan: 0 ball olgan ishtirokchi chetlatiladi. Talab MDH davlatlaridagi \"vakolatli yoki ishchi organlar\"da ishlagan mutaxassisni nazarda tutadi, bu juda tor doira; bank bilan ishlashga qodir, lekin bunday tajribasi bo'lmagan konsalting kompaniyalari ishtirok eta olmasligi mumkin. Mavzuga aloqador sabab bo'lishi mumkin, shuning uchun tekshirish tavsiya etiladi.",
+      "explanation_en": "Criterion 4 (2 of 7 points, with a pass mark of 4) is tied to exclusion: a bidder scoring 0 is disqualified. The requirement is for a specialist who has worked in CIS \"authorised or working bodies\", a very narrow pool; capable consulting firms without such a person may be shut out. A subject-related reason is conceivable, so a person should check it.",
+      "rewrite_uz": "Jamoada uy-joy qurilishini loyihaviy moliyalashtirish yoki eskrou mexanizmlari sohasida (O'zbekiston yoki chet elda) kamida 3 yillik tajribaga ega mutaxassis bo'lishi; bu mezon bo'yicha 0 ball tenderdan chetlatish uchun asos bo'lmaydi.",
+      "rewrite_en": "The team includes a specialist with at least 3 years of experience in housing project finance or escrow mechanisms (in Uzbekistan or abroad); a 0 score on this criterion is not grounds for exclusion."
+    },
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "FRM (Financial Risk Manager) yoki CFA (Chartered Financial Analyst) yoki PFRM (Professional Financial Risk Manager) yoki CAIA (Chartered Alternative Investment Analyst) sertifikatiga ega xodimning mavjudligi",
+      "explanation_uz": "Mezon 5 (1 ball) to'rtta xalqaro sertifikatdan birini talab qiladi va 0 ball olish tenderdan chetlatishga olib keladi. Mezon 1, 4 va 5 chetlatish bilan bog'langan va ularning ballari yig'indisi (1+2+1=4) o'tish baliga teng, ya'ni uchala talab ham amalda majburiy. Bank konsaltingi uchun sertifikatli xodim mantiqli bo'lishi mumkin, lekin ro'yxat tor va ekvivalent malakalar (masalan, boshqa moliyaviy-xavf sertifikatlari yoki tajriba) hisobga olinmaydi.",
+      "explanation_en": "Criterion 5 (1 point) requires one of four named international certificates, and a score of 0 leads to exclusion. Criteria 1, 4 and 5 all carry exclusion and their points sum (1+2+1=4) to the pass mark, so all three are effectively mandatory. A certified employee may make sense for bank consulting, but the list is narrow and equivalent qualifications or experience are not accepted.",
+      "rewrite_uz": "Jamoada moliyaviy xavflarni boshqarish yoki investitsiya tahlili bo'yicha xalqaro sertifikat (FRM, CFA, PFRM, CAIA yoki ekvivalent) yoki kamida 3 yillik tegishli tajribaga ega xodim bo'lishi; bu mezon bo'yicha 0 ball tenderdan chetlatish uchun asos bo'lmaydi.",
+      "rewrite_en": "The team includes an employee with an international certificate in financial risk management or investment analysis (FRM, CFA, PFRM, CAIA or equivalent) or at least 3 years of relevant experience; a 0 score on this criterion is not grounds for exclusion."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ishtirok etish uchun ariza (1-son shakl)",
+    "Kafolat xati (2-son shakl)",
+    "Ishtirokchi to'g'risida umumiy ma'lumot (3-son shakl)",
+    "Texnik taklif (4-son shakl)",
+    "Moliyaviy holat (5-son shakl) yoki soliq organidan tasdiqlangan QR kodli yillik hisobot",
+    "Tashkilotning ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasi",
+    "Tijorat banklarida diagnostika va tahlil xizmatlari bo'yicha shartnoma va QR kodli dalolatnoma (yoki hisob-faktura)",
+    "O'zbekiston tijorat banklarida loyihaviy moliyalashtirish tajribasiga ega mutaxassisning mehnat daftarchasi nusxasi va rezyumesi",
+    "MDH davlatlarida loyihaviy moliyalashtirish bo'yicha tajribaga ega mutaxassisning mehnat daftarchasi (rangli skaner)",
+    "FRM, CFA, PFRM yoki CAIA sertifikati nusxasi va xodimning mehnat daftarchasi",
+    "Soliq va yig'imlar bo'yicha qarzdorlik yo'qligi haqida hujjat",
+    "Bankrotlik tartib-taomillari yo'qligi haqida ma'lumotnoma",
+    "Insofsiz ijrochilar reyestrida yo'qligi haqida hujjat",
+    "Majburiy ijro byurosi bo'yicha qarzi yo'qligi haqida ma'lumotnoma",
+    "Xarid jarayonida qoidabuzarliklarga yo'l qo'ymaslik haqidagi ariza",
+    "Taklif ta'minoti (zakalat yoki bank kafolati, 1 foiz)"
+  ]
+}

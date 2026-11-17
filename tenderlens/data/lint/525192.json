@@ -1,0 +1,104 @@
+{
+ "lot_id": 525192,
+ "backend": "in-session",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "sector": "other",
+ "subject_uz": "6/10 kV razedinitel (ajratgich), 2 dona, Vodiy NGQChB uchun avariya zaxirasi",
+ "requirements": [
+  {
+   "kind": "technical",
+   "summary_uz": "Nominal kuchlanish 6/10 kV, nominal tok 400/630 A.",
+   "summary_en": "Rated voltage 6/10 kV, rated current 400/630 A.",
+   "quote": "Номинал кучланиш: 6 кВ / 10 кВ Номинал ток: 400 А / 630 А"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Qisqa tutashuv tokiga chidamlilik kamida 20 kA (1-3 soniya).",
+   "summary_en": "Short-circuit withstand of at least 20 kA (1-3 s).",
+   "quote": "К^иска туташув токига чидамлилик: камида 20 кА (1-3 сек)"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Mahsulot yangi bo'lishi va ishlab chiqarilganiga ko'pi bilan 12 oy bo'lishi kerak.",
+   "summary_en": "Goods must be new and manufactured no more than 12 months ago.",
+   "quote": "Махсулот янги булиши шарт. Ишлаб чикарилганига купи билан 12 ой булиши керак."
+  },
+  {
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati 30 kundan oshmaydi.",
+   "summary_en": "Delivery takes no more than 30 days.",
+   "quote": "Етказиб бериш муддати 30 кундан ошмайди."
+  },
+  {
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berishda sifat va muvofiqlik sertifikatlari taqdim etilishi kerak.",
+   "summary_en": "Quality and conformity certificates must be supplied with delivery.",
+   "quote": "Товарларни етказиб беришда сифат ва мувофиклик сертификатларини такдим этиш"
+  },
+  {
+   "kind": "other",
+   "summary_uz": "Kafolat muddati yetkazib berilganidan kamida 36 oy yoki ishga tushirilganidan 24 oy.",
+   "summary_en": "Warranty of at least 36 months from delivery or 24 months from commissioning.",
+   "quote": "кафолат муддати етказиб берилган кундан бошлаб камида 36 ой ёки фойдаланишга топширилган кундан бошлаб 24 ой."
+  },
+  {
+   "kind": "other",
+   "summary_uz": "Tovar yetkazib beruvchi hisobidan sug'urtalanadi.",
+   "summary_en": "Goods are insured at the supplier's expense.",
+   "quote": "Товарлар етказиб берувчи хисобидан сугурта килинади."
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Yetkazib beruvchi ishlab chiqaruvchi yoki uning rasmiy vakilidan (distribyutor) tovar yetkazishi, ISO 9001, 14001, 45001, 50001 sertifikatlarini taqdim etishi kerak.",
+   "summary_en": "The supplier must source from the manufacturer or its official distributor and provide ISO 9001, 14001, 45001, 50001 certificates.",
+   "quote": "ИСО-9001, 14001, 45001, 50001 сертификатлари, халкаро тан олинган лабораториялар ва синов марказларининг сифат сертификатини такдим этиш зарур."
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Soliq organlari tomonidan qabul qilingan yoki auditor tasdiqlagan moliyaviy hisobotlar bo'lishi kerak.",
+   "summary_en": "Financial statements confirmed by an external auditor or accepted by the tax authorities are required.",
+   "quote": "Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Majburiy bo'lgan hollarda ekologik, gigiyenik, muvofiqlik sertifikatlari va tovar pasportlari bo'lishi kerak.",
+   "summary_en": "Environmental, hygiene and conformity certificates and product passports where mandatory.",
+   "quote": "Экологик, гигиеник сертификатлаш, калибрлаш тўғрисидаги тегишли гувоҳномалар ёки синов баённомалари, сифат сертификатлари, мувофиқлик сертификатлари"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Texnik qism 0 foiz, narx 100 foiz; o'tish bali 80.",
+   "summary_en": "Technical part 0 percent, price 100 percent; pass mark 80.",
+   "quote": "texnik qism 0.0%, narx 100.0%, o'tish bali 80"
+  }
+ ],
+ "flags": [
+  {
+   "type": "irrelevant_requirement",
+   "severity": "high",
+   "quote": "ИСО-9001, 14001, 45001, 50001 сертификатлари, халкаро тан олинган лабораториялар ва синов марказларининг сифат сертификатини такдим этиш зарур.",
+   "explanation_uz": "Boshlang'ich narxi 5,3 mln so'm bo'lgan ikki dona ajratgich uchun to'rtta ISO sertifikati (9001, 14001, 45001, 50001) hamda xalqaro laboratoriyalarning sifat sertifikati talab qilinmoqda. Baholash faqat narx bo'yicha, texnik qismdan o'tish bali (80) esa eng yuqori ballga (80) teng, ya'ni bitta hujjat yetishmasa ham ishtirokchi chetlatilishi mumkin. Bu hajmdagi xarid uchun talab nomutanosib ko'rinadi va kichik yetkazib beruvchilarni chetda qoldirishi mumkin.",
+   "explanation_en": "For two disconnectors with a start price of 5.3 m UZS the document requires four ISO certificates (9001, 14001, 45001, 50001) plus quality certificates from international laboratories. Evaluation is by price only and the technical pass mark (80) equals the maximum score (80), so one missing document can exclude a bidder. For a purchase this small the requirement looks out of proportion and may leave small suppliers out.",
+   "rewrite_uz": "Tovar uchun muvofiqlik sertifikati yoki ishlab chiqaruvchining sifat sertifikati taqdim etilsin (ISO sertifikatlari ixtiyoriy).",
+   "rewrite_en": "A conformity certificate for the goods or the manufacturer's quality certificate must be provided (ISO certificates optional).",
+   "first_pass_severity": "medium",
+   "reviewed_by": "second pass"
+  }
+ ],
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+  "Moliyaviy hisobotlar (auditor tasdiqlagan yoki soliq organi qabul qilgan)",
+  "Soliq qarzi yo'qligi haqida ma'lumotnoma",
+  "Tovar sifat va muvofiqlik sertifikatlari",
+  "ISO 9001, 14001, 45001, 50001 sertifikatlari",
+  "Tovar pasporti va foydalanish qo'llanmasi",
+  "Ishlab chiqaruvchi yoki rasmiy vakil (distribyutor) bilan aloqani tasdiqlovchi hujjat",
+  "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ma'lumot"
+ ],
+ "first_pass_model": "claude-sonnet-5-5",
+ "second_pass": {
+  "model": "claude-fable-5-2",
+  "backend": "in-session",
+  "note": "severity raised from medium to high: the pass mark equals the maximum score, so the certificates are in effect mandatory, on a 5.3 m UZS lot that is a re-announcement"
+ }
+}

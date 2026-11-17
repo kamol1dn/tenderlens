@@ -1,0 +1,110 @@
+{
+  "lot_id": 524286,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "food",
+  "subject_uz": "Olovli ishlarda qatnashadigan xodimlarga kuniga 3 mahal issiq ovqat yetkazib berish xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Qoraqalpog'iston va Xorazm viloyatidagi obyektlarda olovli ishlarda ishtirok etuvchi xodimlarga kuniga uch mahal tayyor issiq ovqat yetkazish.",
+      "summary_en": "Deliver three ready hot meals a day to workers on fire-work sites in Karakalpakstan and Khorezm region.",
+      "quote": "ob'ektlarda olovli isl1larda isfнiгok etuvchi isl1chi xodimlarga bi1· kunda uch mahal"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Nonushta, tushlik va kechki ovqat uchun menyuda ko'rsatilgan taomlardan buyurtmachi tanlaydi (non, sho'rva yoki osh, kefir, choy, salat va h.k.).",
+      "summary_en": "Breakfast, lunch and dinner follow the menus in the specification, with the customer choosing among listed dishes (bread, soup or plov, kefir, tea, salad etc.).",
+      "quote": "Tushlikda 1 Ьirlil< (Ьi1· isl1chi) 11cl1un bi1yurtшacl1i istagiga qk1rab quyidagi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Buyurtmachi olovli ishlar rejalashtirilganda 5 kun oldin ishchilar soni va davomiyligini xabar qiladi.",
+      "summary_en": "The customer gives 5 days' notice of worker numbers and duration before fire work starts.",
+      "quote": "o'tkazilishi гejalashtirilgan taqdirda 5 (besh) kun oldin ijrochi tomon"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlarni tugatish vaqti: 2026 yil davomida (e'londa yetkazish muddati 60 kun ko'rsatilgan).",
+      "summary_en": "Completion time: during 2026 (the notice lists a 60-day delivery period).",
+      "quote": "2026 yil davomida"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Pudratchi ovqat tayyorlash uchun barcha vositalarga (avtomashina, dala chodiri, oshxona anjomlari, muzlatgich) ega bo'lishi kerak.",
+      "summary_en": "The contractor must have all means for catering (vehicle, field tent, kitchen equipment, fridge).",
+      "quote": "vositalaгga (avto111asl1ina, dala chodi1·i, osl,xona anjomlar·i, stol-stul, muzlatgich va"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kamida 3 yil davomida xizmat ko'rsatish malakasi to'g'risida ma'lumot.",
+      "summary_en": "Information confirming at least 3 years of service experience.",
+      "quote": "kamida 3 yil davomida xizmat ko'rsatish malakasiga ega ekanligi xaqida malumot"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Hududiy sanitariya laboratoriyalari bilan shartnoma mavjudligi to'g'risida ma'lumot.",
+      "summary_en": "Information on a contract with territorial sanitary laboratories.",
+      "quote": "hududiy sanitariya xizmatlari laboratoriyalari Ьilan shartnoma mavjudligi to'g'risida"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Oziq-ovqat saqlash omborlari va tashish transporti mavjudligi to'g'risida ma'lumot.",
+      "summary_en": "Information on storage warehouses for food and transport availability.",
+      "quote": "oziq-ovqat mahsulotlarini saqlash uclшn omborlarning mavjudligi to'g'risida malumot"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Moliyaviy hisobotlar soliq organi tomonidan qabul qilinganligi tasdiqlangan holda taqdim etiladi.",
+      "summary_en": "Financial statements must be supplied with proof that the tax authority accepted them.",
+      "quote": "Ishtirokchi ilovaga moliyaviy natijalar bo‘yicha hisobotlar (balans hisobotlari) nusxalarini ilova qilishi shart"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishbilarmonlik obro'sini (xodimlar malakasi, tajriba) tasdiqlovchi 8-talab shakli to'ldiriladi.",
+      "summary_en": "Business reputation (staff qualification, experience) is shown on the form for requirement no. 8.",
+      "quote": "Ishtirokchi biriktirilgan hujjatni to‘ldirib ilova qilishi shart (8-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi)."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash faqat narx bo'yicha (100 foiz); texnik muvofiqlik uchun 2 ball, o'tish bali 2.",
+      "summary_en": "Evaluation is on price only (100 percent); technical conformity gives 2 points with a pass mark of 2.",
+      "quote": "Участники обязаны приложить подтверждающие документы по каждому требованию сравнительной таблицы"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Har bir tugatilgan ish soliq servis sayti orqali faktura asosida qabul qilinadi va to'lanadi.",
+      "summary_en": "Each completed job is accepted and paid on an invoice issued through the tax service site.",
+      "quote": "soliqservis.L1z sayti 01·qali faktuгa asosida qabt1I qilinadi va to'lov"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "buyurtmachi hududida ishtirokchining korxo·nasi joylashgaп joy bu'lishi kerak",
+      "explanation_uz": "Pudratchining korxonasi buyurtmachi hududida joylashgan bo'lishi talab qilinmoqda. Bu boshqa viloyatdagi, lekin ovqatni olovli ish joylariga yetkaza oladigan va barcha asbob-uskunaga ega ta'minotchilarni qatnashishdan chetlatishi mumkin. Lot boshlang'ich narxi 1 500 960 000 so'm bo'lib, baholash 100 foiz narx bo'yicha.",
+      "explanation_en": "The contractor's enterprise must be located in the customer's territory. This may shut out suppliers from other regions that could bring meals to the fire-work sites and already have the equipment. The lot's start price is 1,500,960,000 UZS and evaluation is 100 percent on price.",
+      "rewrite_uz": "Pudratchi obyektlarga ovqatni belgilangan vaqtda yetkazib bera olishini (transport, oshxona uskunasi, mehmonxona yoki baza orqali) tasdiqlashi lozim; korxonaning joylashuvi cheklanmasin.",
+      "rewrite_en": "The contractor must show it can deliver meals to the sites at the required times (transport, kitchen equipment, a base of operations); the legal address should not be restricted."
+    }
+  ],
+  "documents_needed_uz": [
+    "Texnik taklif va talablarga muvofiqlik jadvali (pdf)",
+    "Resurslar (texnik, moliyaviy, moddiy, kadrlar) mavjudligi haqida firma blankidagi ma'lumot",
+    "Ustav, davlat ro'yxatidan o'tganlik guvohnomasi, rahbarni tayinlash buyrug'i va rahbar pasporti nusxasi",
+    "QR-kodli soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+    "Bankrotlik tartib-taomili yo'qligi bo'yicha shakl (4-talab)",
+    "Insofsiz ijrochilar reyestridan skrinshot",
+    "Majburiy ijro byurosi saytidan skrinshot",
+    "Moliyaviy hisobotlar (balans) va ularning soliq xizmati tomonidan qabul qilinganligi hujjati (7-talab shakli)",
+    "Ishbilarmonlik obro'si va tajribasi bo'yicha 8-talab shakli",
+    "Xorijiy sanksiyalar qo'llanilmaganligi bo'yicha 9-talab shakli",
+    "Halollik majburiyati to'g'risida ariza (10-talab shakli)",
+    "Manfaatlar to'qnashuvi va affillanganlik yo'qligi haqida rasmiy xat",
+    "Sud ishlari bo'yicha 12-talab shakli",
+    "Offshor hududlarda ro'yxatdan o'tmaganlik bo'yicha 13-talab shakli",
+    "Kamida 3 yillik xizmat tajribasi to'g'risidagi ma'lumot",
+    "Hududiy sanitariya laboratoriyalari bilan shartnoma va omborlar, transport mavjudligi haqida ma'lumot"
+  ]
+}

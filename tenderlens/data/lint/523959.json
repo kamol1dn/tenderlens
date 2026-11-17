@@ -1,0 +1,127 @@
+{
+  "lot_id": 523959,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "BYD Uzbekistan Factory uchun Jizzaxda payvandlash yordamchi liniyasini tashkil etish va avtomobil kuzov detallarini payvandlab yetkazish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Ishlab chiqarish binosi kamida 4000 kv.m bo'lishi va payvandlash uskunalari uchun 5,8 m x 264 m metall konstruksiyani sig'dirishi kerak.",
+      "summary_en": "A production building of at least 4000 sq.m that can hold a 5.8 m x 264 m steel structure for the welding equipment.",
+      "quote": "Ishlab chiqarish binosi - umumiy maydoni 4000 m2 dan kаm Ьо'lmаgап bino."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kommunal tizimlar (elektr, havo, suv, kanalizatsiya, shamollatish) yetkazib beruvchi hisobidan quriladi.",
+      "summary_en": "Utility systems (power, air, water, sewage, ventilation) are built at the supplier's own cost.",
+      "quote": "tizimlarini tashНl qilish Yetkazib beruvchi tomonidan amalga oshirilishi zarulr."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Talab qilinadigan quvvat: soatiga 12 ta detal komplekti (net JPH 12).",
+      "summary_en": "Required capacity: 12 part sets per hour (net JPH 12).",
+      "quote": "Talab qilinadigan ishlab chiqarish quwati - net JPH 12 (ta detal komplekt soatiga)."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Buyurtmachi payvandlash uskunalari va moslamalarini beradi; yetkazib beruvchi ularni o'rnatadi, saqlaydi va xizmat ko'rsatadi.",
+      "summary_en": "The customer provides welding equipment and jigs; the supplier installs, maintains and services them.",
+      "quote": "Ishlab chiqarish jarayonida foydalaniladigan quyidagi texnologik uskunalar"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Sifat nazorati uchun 3D koordinatali o'lchov tizimi yetkazib beruvchi hisobidan sotib olinadi (teng yoki yuqori tizim qabul qilinadi).",
+      "summary_en": "A 3D coordinate measuring system must be bought by the supplier (an equal or better system is accepted).",
+      "quote": "Buning uchun Yetkazib beruvchi uch o'lchovli (3D) koordinatali o'lchov tizimini o'z hisobidan sotib olishi va ishlab chiqarish maydonchasida doimiy joylashtiгishi shагt."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Sifat menejmenti tizimi joriy etilishi va buyurtmachining texnik auditidan o'tishi kerak.",
+      "summary_en": "A quality-management system must be introduced and pass the customer's technical audit.",
+      "quote": "Yetkazib beruvchi Buyurtmachi talablariga muvofiq sifat menejmenti tizimini lshlab chiqarishga joriy qilishi shаrt."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "BYD uchun detal ishlab chiqarish tajribasi yoki BYD bilan ishlagan kompaniyadan texnik yordam kelishuvi talab qilinadi.",
+      "summary_en": "Experience producing parts for BYD, or an agreement for technical help from a company with BYD experience, is required.",
+      "quote": "ko'rsafish tajribasiga ega bo'lishi уоН BYD kompaniyasi bilan ish tajгibasiga ega kompaniyadan texnik ko'mak olish kelishuviga ega bo'lishi lozim."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Loyiha jadvali: bino T0+30 kun, uskunalar T0+45, sinov T0+50, ommaviy ishlab chiqarish (SOP) T0+60 kun.",
+      "summary_en": "Project schedule: building T0+30 days, equipment T0+45, trial production T0+50, start of mass production (SOP) T0+60 days.",
+      "quote": "Bino ча inshoatlami tayyorlash Т0 + 30 kun"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Kamida 3 kunlik tayyor mahsulot zaxirasi uzluksiz ta'minlanishi shart.",
+      "summary_en": "At least 3 days of finished-product stock must be maintained without interruption.",
+      "quote": "kamida 3 (uй) kunlik sifatli mahsulot zaxirasi Ьilап uzluksiz ta'minlashl shart."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "To'lov bosqichma-bosqich, qabul dalolatnomalari imzolanganiga bog'liq; 5-10 foiz yakuniy to'lov ushlab qolinadi.",
+      "summary_en": "Payment is milestone-based, tied to signed acceptance acts, with 5-10% of the final payment withheld.",
+      "quote": "To'lovlar kalendar muddatlarga emas, balН qabul qilish dalolatnomalari (Deliverables) to'liq imzolanganiga bog'lanishi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mahalliylashtirish darajasi buyurtmachining mahalliylashtirish bo'limi xulosasi bo'yicha 2 ball bilan baholanadi.",
+      "summary_en": "Localisation level is scored at 2 points on the conclusion of the customer's own localisation department.",
+      "quote": "Баллар Буюртмачининг локализация бўлими хулосасига мувофиқ пропорционал тарзда берилади."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi, uning sub-yetkazib beruvchilari va benefitsiarlari AQSh SDN ro'yxatida bo'lmasligi haqida kafolat xati.",
+      "summary_en": "Guarantee letter that the bidder, its sub-suppliers and beneficiaries are not on the US SDN list.",
+      "quote": "Ақш Молия вазирлиги томонидан нашр етилган махсус тайинланган фуқаролар ва блокланган шахслар рўйхатига (СДН)"
+    }
+  ],
+  "flags": [
+    {
+      "type": "unrealistic_deadline",
+      "severity": "medium",
+      "quote": "Bino ча inshoatlami tayyorlash Т0 + 30 kun",
+      "explanation_uz": "Shartnoma imzolanganidan 30 kun ichida kamida 4000 kv.m bino, 264 m uzunlikdagi metall konstruksiya va barcha kommunal tizimlar tayyor bo'lishi, 60-kunda esa ommaviy ishlab chiqarish boshlanishi kerak. Tayyor, mos binosi Jizzaxda allaqachon bor ishtirokchilargina bunga ulgura oladi; yangi qurish yoki ijaraga olish bu muddatga sig'maydi.",
+      "explanation_en": "Within 30 days of signing, a building of at least 4000 sq.m, a 264 m steel structure and all utilities must be ready, with mass production starting at day 60. Only bidders that already have a suitable building in Jizzakh could meet this; building or leasing and fitting out a new one would not fit the timeline.",
+      "rewrite_uz": "Bino va kommunal tizimlarni tayyorlash muddati loyiha murakkabligiga mos ravishda (masalan, T0 + 90 kun) belgilansin yoki ishtirokchi taklif qilgan jadval baholansin.",
+      "rewrite_en": "Set the building and utilities readiness date in line with the scope of work (for example T0 + 90 days), or evaluate the schedule proposed by the bidder."
+    },
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "ko'rsafish tajribasiga ega bo'lishi уоН BYD kompaniyasi bilan ish tajгibasiga ega kompaniyadan texnik ko'mak olish kelishuviga ega bo'lishi lozim.",
+      "explanation_uz": "Ishtirokchi BYD bilan ishlagan tajribaga ega bo'lishi yoki shunday kompaniya bilan texnik yordam kelishuvi tuzgan bo'lishi kerak. Boshqa avtomobil ishlab chiqaruvchilar uchun payvandlangan kuzov detallarini yetkazgan, lekin BYD bilan ishlamagan ta'minotchi kelishuv topa olmasa, chetda qolishi mumkin.",
+      "explanation_en": "The bidder must have worked for BYD or have a technical-assistance agreement with a company that has. A supplier that has produced welded body parts for other carmakers but not for BYD may be shut out if it cannot find such a partner.",
+      "rewrite_uz": "Ishtirokchi avtomobil kuzov detallarini payvandlash bo'yicha o'xshash ishlab chiqarish tajribasiga ega bo'lishi kerak (har qanday avtomobil ishlab chiqaruvchi uchun), tajriba shartnomalar bilan tasdiqlanadi.",
+      "rewrite_en": "The bidder must have comparable experience in welding automotive body parts (for any vehicle manufacturer), confirmed by contracts."
+    },
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "olish va sагf хаrаjаtlагпi nrinimallashtiгish maqsadida Jizzax slrаhгi hududida bo'lishi",
+      "explanation_uz": "Barcha bino va inshootlar Jizzax shahri hududida bo'lishi shart qilingan. Sabab (logistika va sifat) keltirilgan, ammo Jizzaxda mos bino va uskuna o'rnatish joyi bo'lmagan boshqa hududdagi ishtirokchilar avtomatik chetlashadi. Masofa o'rniga yetkazib berish muddati va logistika xarajatlarini baholash mumkin.",
+      "explanation_en": "All buildings must be located within Jizzakh city. A reason (logistics and quality) is given, but bidders elsewhere, or without suitable premises in Jizzakh, are excluded automatically. Delivery time and logistics cost could be evaluated instead of location.",
+      "rewrite_uz": "Ishlab chiqarish maydonchasi buyurtmachi zavodidan belgilangan masofada (masalan, 50 km radiusda) joylashgan bo'lishi yoki yetkazib berish muddati ta'minlanishi kerak.",
+      "rewrite_en": "The production site must be within a stated distance of the customer's plant (for example a 50 km radius), or guarantee the required delivery times."
+    }
+  ],
+  "documents_needed_uz": [
+    "Xarid komissiyasi raisi nomiga ishtirok etish uchun ariza (1-shakl)",
+    "Ishtirokchi haqida umumiy ma'lumot",
+    "Halollik majburiyati to'g'risida bayonot",
+    "Ishlab chiqaruvchidan ishonchnoma yoki avtorizatsiya xati (agar ishtirokchi ishlab chiqaruvchi bo'lmasa)",
+    "Yetkazib berish va to'lov shartlari haqida ma'lumot",
+    "AQSh SDN va shunga o'xshash ro'yxatlarda yo'qligi haqida kafolat xati",
+    "Mahalliylashtirish darajasini tasdiqlovchi hujjatlar",
+    "Texnik topshiriq talablariga muvofiqlik hujjatlari",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi",
+    "Moliyaviy holat to'g'risida ma'lumot",
+    "O'xshash tovarlarni yetkazib berish tajribasi haqida ma'lumot",
+    "Kafolat xati: buyurtmachi bilan sud nizosi, oldingi shartnomalar va offshor hududlar bo'yicha",
+    "Soliq va yig'imlar bo'yicha muddati o'tgan qarz yo'qligi haqida ma'lumot",
+    "Insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumot",
+    "Tijorat taklifi (rasmiy blankda, PDF, batafsil kalkulyatsiya bilan)"
+  ]
+}

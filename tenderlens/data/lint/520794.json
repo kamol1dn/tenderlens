@@ -1,0 +1,89 @@
+{
+  "lot_id": 520794,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Uzilish davomiyligini oʻlchash tizimi (metrologik etalon kompleksi) xaridi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Tovar texnik topshiriqdagi hajm, texnik parametrlar va talablarga mos kelishi kerak; mos kelmasa ishtirokchi chetlatiladi (35 ball).",
+      "summary_en": "The goods must conform to the technical specification (35 points); non-conformity leads to disqualification.",
+      "quote": "Техник топширикда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "CIPM-MRA logotipli kalibrlash sertifikati 6 ball, ILAC MRA 3 ball, zavod sertifikati 1 ball beradi.",
+      "summary_en": "A calibration certificate with a CIPM-MRA logo earns 6 points, ILAC MRA 3 points, a factory certificate 1 point.",
+      "quote": "Энг юқори балл – 6 балл CIPM-MRA логотипли калибрлаш сертификати тақдим этилганда"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Tovar 2026-yildan oldin ishlab chiqarilmagan bo'lishi kerak.",
+      "summary_en": "The goods must be manufactured no earlier than 2026.",
+      "quote": "2026 йилдан олдин эмас"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ishlab chiqaruvchida ISO 9001 sertifikati bo'lishi talab qilinadi.",
+      "summary_en": "The manufacturer must hold an ISO 9001 certificate.",
+      "quote": "Производителц должен иметь сертификат ISO 9001"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Jo'natishdan oldin ishlab chiqarish joyida zavod qabul sinovlari o'tkaziladi, Buyurtmachining ikki vakili ishtirok etadi.",
+      "summary_en": "Factory acceptance tests at the manufacturing site with two customer representatives.",
+      "quote": "Исполнитель на месте изготовпения обязан провести Заводские приемочные испытания"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati 180 kalendar kundan oshmasligi kerak; undan qisqa muddat ko'proq ball beradi (8 ballgacha).",
+      "summary_en": "Delivery within 180 calendar days at most; shorter delivery earns up to 8 points.",
+      "quote": "Агар етказиб бериш муддати 180 календар кундан юқори бўлса, 0 (ноль) балл билан баҳоланади"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish DDP shartida Toshkent shahri, Farobiy ko'chasi manziliga amalga oshiriladi.",
+      "summary_en": "Delivery on DDP terms to Farobiy street, Tashkent.",
+      "quote": "DDP, Ташкент ш., Фаробий 333А-Б"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kafolat muddati 12 oydan 30 oygacha oshgan sari ball ko'payadi (2 dan 8 ballgacha).",
+      "summary_en": "Warranty beyond 12 months earns more points (2 to 8 points).",
+      "quote": "Кафолат муддати -18 ой – 4 балл"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Buyurtmachining 2 nafar xodimi o'qitiladi; ko'proq xodim o'qitilsa qo'shimcha ball beriladi.",
+      "summary_en": "Training of 2 customer staff is required; training more staff earns extra points.",
+      "quote": "Буюртмачининг 2 нафар ходимини ўқитиш"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Oxirgi 3 yillik moliyaviy hisobotlar (auditor yoki soliq organi tasdiqlagan) taqdim etiladi.",
+      "summary_en": "Financial statements for the last 3 years, confirmed by an auditor or the tax authority.",
+      "quote": "молиявий ҳисобот (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Yuqori aniqlikdagi o'lchash vositalarini yetkazib berish tajribasi mijozlarning tavsiyalari va shartnomalar nusxalari bilan tasdiqlanadi.",
+      "summary_en": "Experience supplying high-precision measuring instruments, confirmed by customer references and contract copies.",
+      "quote": "юқори аниқликдаги асбоб-ускуналар, асбоблар, ўлчаш воситаларини етказиб бериш натижалари"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Texnik taklif va 11-shakl bo'yicha solishtirma jadval",
+    "CIPM-MRA yoki ILAC MRA logotipli yoki zavod kalibrlash sertifikati (namuna)",
+    "Ishlab chiqaruvchining ISO 9001 sertifikati",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi, ustav va vakolat hujjatlari",
+    "Oxirgi 3 yillik moliyaviy hisobotlar",
+    "Oʻxshash tovarlarni yetkazib berish tajribasi: tavsiyanomalar, shartnomalar nusxalari",
+    "Xodimlar malakasini tasdiqlovchi diplom va sertifikatlar",
+    "Yetkazib berish muddati, kafolat va o'qitish bo'yicha rozilik (11-shakl ilovalari)",
+    "Sanksiyalar qo'llanilmaganligi, manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida erkin shakldagi xatlar",
+    "Offshor hududlarda ro'yxatdan o'tmaganlik haqida xat",
+    "Soliq qarzdorligi, bankrotlik va insofsiz ijrochilar reyestri bo'yicha ma'lumotlar"
+  ]
+}

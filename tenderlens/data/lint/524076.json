@@ -1,0 +1,96 @@
+{
+  "lot_id": 524076,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Neftni qayta ishlash zavodi uchun tokarlik dastgohi, moy analizatori va alyuminiy poplavoklar (54 dona) xarid qilish",
+  "requirements": [
+    {
+      "kind": "other",
+      "summary_uz": "Xaridning chegaraviy qiymati 43 577,6 AQSH dollari; taklif narxi undan oshmasligi kerak.",
+      "summary_en": "The ceiling price is USD 43,577.6 and bids may not exceed it.",
+      "quote": "Предельная стоимость отбора 43 577,6 долларов."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Gʻolib malaka, texnik va narx parametrlari boʻyicha eng koʻp ball toʻplagan ishtirokchi.",
+      "summary_en": "The winner is the bidder with the most points across qualification, technical and price parameters.",
+      "quote": "победителем является участник набравший наибольшее количество баллов"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Tovarning texnik xususiyatlari texnik topshiriqqa mos kelishi baholanadi.",
+      "summary_en": "Conformity of the goods' technical characteristics with the technical specification is scored.",
+      "quote": "Tovarning texnik xususiyatlarining Texnik topshiriqqa muvofiqligi (Соответствие технических характеристик товара Техническому Заданию)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Xarid qilinayotgan tovarni ishlab chiqarish yoki yetkazib berish tajribasi baholanadi.",
+      "summary_en": "Experience in producing or supplying the purchased goods is scored.",
+      "quote": "Xarid qilinayotgan tovarni ishlab chiqarish va/yoki yetkazib berish tajribasi (Опыт производства и / или поставки закупаемого Товара)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi asosiy benefitsiar mulkdor haqida maʼlumot berishi kerak.",
+      "summary_en": "The bidder must provide information on its main beneficial owner.",
+      "quote": "Ishtirokchi tomonidan asosiy benefitsiar mulkdor to‘g‘risidagi ma’lumotlarni taqdim etishi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Korxona va uning nazoratchilari sanksiyalar roʻyxatida yoʻqligini tasdiqlovchi hujjat talab qilinadi.",
+      "summary_en": "A document is required confirming that the company and those controlling it are not on sanctions lists.",
+      "quote": "Korxona yoki uning vakillarining korxonadagi kapitalning kamida 50 % ulushiga to‘g‘ridan-to‘g‘ri yoki bilvosita egalik qilishi yoki uni nazorat qilishi mumkin bo‘lgan shaxslarning sanksiyalar ro‘yxatida mavjud emasligini tasdiqlovchi hujjat"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kontragent anketasi shakli toʻldirilib topshirilishi kerak.",
+      "summary_en": "A completed counterparty questionnaire must be submitted.",
+      "quote": "Kontragent anketasi shakli (Форма анкеты контрагента)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi manfaatlar toʻqnashuviga yoʻl qoʻymaslik haqida firma blankasida ariza berishi kerak.",
+      "summary_en": "The bidder must submit a conflict-of-interest statement on letterhead.",
+      "quote": "Ishtirokchi tomonidan manfaatlar to‘qnashuviga yo‘l qo‘ymaslik to‘g‘risidagi arizani firma blankasida taqdim etishi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish avtotransport yoki temir yoʻl orqali Qorovulbozor (DAP) boʻyicha; rezidentlar uchun DDP.",
+      "summary_en": "Delivery is DAP Karaulbazar by road or rail; DDP for Uzbek residents.",
+      "quote": "Авто – DAP г.Караулбазар и/или Ж/Д – DAP станция Караулбазар"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Toʻlov yetkazib berilgandan keyin 30 bank kuni ichida amalga oshiriladi.",
+      "summary_en": "Payment is made after delivery within 30 banking days.",
+      "quote": "Срок оплаты (банковские дни) 30 банковских дней"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat muddati kamida 12 oy boʻlishi kerak.",
+      "summary_en": "The warranty period must be at least 12 months.",
+      "quote": "Срок гарантии Не менее 12 месяцев"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklif taklif topshirish muddati tugagandan keyin kamida 60 kun amal qilishi kerak.",
+      "summary_en": "The offer must remain valid for at least 60 days after the submission deadline.",
+      "quote": "Срок действия ТКП участников должен составлять не менее 60 дней со дня окончания представления ТКП."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Ishtirokchi va taʼsischilar haqida umumiy maʼlumot (1-shakl)",
+    "Halollik va etika shartnoma bandi boʻyicha ariza (2-shakl)",
+    "Oʻxshash tovar yetkazib berish tajribasi haqida maʼlumot (3-shakl)",
+    "Texnik taklif (4-shakl)",
+    "Yetkazib berish, toʻlov shartlari va muddatlari haqida maʼlumot (5-shakl)",
+    "Kontragent anketasi (6-shakl)",
+    "Sanksiyalar roʻyxatida yoʻqligi haqida kafolat xati (7-shakl)",
+    "Davlat roʻyxatidan oʻtganlik guvohnomasi, ustav va taʼsis hujjatlari",
+    "Egalik tuzilmasi va benefitsiar mulkdorlar haqida maʼlumotnoma",
+    "Soʻnggi hisobot davri uchun buxgalteriya va soliq hisobotlari",
+    "Vakolatni tasdiqlovchi ishonchnoma",
+    "Sifat va moslik sertifikatlari (ISO 9001, 14001 va boshqalar)"
+  ]
+}

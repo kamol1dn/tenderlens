@@ -1,0 +1,94 @@
+{
+  "lot_id": 525196,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Bank xizmatlari ofisi binosini joriy ta'mirlash (Qarshi)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Loyiha-smeta hujjatlarida ko'rsatilgan ishlar to'liq va sifatli bajarilishi kerak.",
+      "summary_en": "Works listed in the design and estimate documents must be completed fully and to quality.",
+      "quote": "Loyiha-smeta hujjatlarida (ilova qilinadi) ko‘rsatilgan ishlarni to‘liq va sifatli bajarish talab etiladi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlar shartnoma rasmiylashtirilganidan keyin 25 kalendar kun ichida bajariladi.",
+      "summary_en": "Works must be completed within 25 calendar days of contract signing.",
+      "quote": "Shartnoma rasmiylashtirilganidan so‘ng 25 kalendar kuni."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Pudratchining qurilish tashkilotlari reytingi kamida DD bo'lishi talab etiladi.",
+      "summary_en": "The contractor must hold a construction organisation rating of at least DD.",
+      "quote": "DD va undan yuqori bo‘lishi talab etiladi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik ballning deyarli hammasi (60/61) qurilish reytingi toifasiga bog'liq: A uchun 60, D uchun 15 ball.",
+      "summary_en": "Almost all technical points (60 of 61) depend on the construction rating category: 60 for A, 15 for D.",
+      "quote": "“A” toifasi bo‘yicha reyting bahosi (A/AA/AAA) uchun - 60 ball"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Avans yo'q; 15 foiz ushlab qolinib, 85 foiz 10 bank ish kunida to'lanadi, 12 oylik kafolat uchun 5 foiz saqlanadi.",
+      "summary_en": "No advance; 15 percent is withheld and 85 percent paid within 10 banking days, with 5 percent held for the 12-month warranty.",
+      "quote": "jami 15% to‘lov ushlab qolinib, 10 (o‘n) bank ish kuni ichida shartnoma summasining 85% miqdorida to‘lov amalga oshiriladi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "So'nggi hisobot yili buxgalteriya hisoboti soliq organi tomonidan qabul qilingan QR-kodli ma'lumotnoma bilan taqdim etiladi.",
+      "summary_en": "Financial statements for the last reporting year with a tax-authority QR-coded confirmation must be provided.",
+      "quote": "So‘ngi hisobot yili uchun buxgalteriya hisoboti, Soliq organi tomonidan qabul qilingan QR-kodli ma’lumotnoma"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Barcha mulk egalari va benefitsiarlar ko'rsatilgan egalik tuzilmasi hamda ta'sis hujjatlari taqdim etiladi.",
+      "summary_en": "An ownership structure naming all owners and beneficiaries plus founding documents must be provided.",
+      "quote": "Kontragent egaligi tuzilmasi, bunga benefitsiar (ta’sischi) mulkiy egalarni ham hisobga olgan holda barcha mulk egalari kiritiladi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Resurslar mavjudligi haqida 4-shakl bo'yicha kafolat xati taqdim etiladi.",
+      "summary_en": "A guarantee letter on available resources (form 4) must be provided.",
+      "quote": "Ishtirokchi tomonidan shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy, kadrlar resurslarining hamda boshqa resurslarning mavjudligi to‘g‘risida kafolat xati (4-shakl) taqdim etiladi."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklif ta'minoti 3 foiz zakalat ko'rinishida kiritiladi.",
+      "summary_en": "Bid security of 3 percent is placed as a deposit.",
+      "quote": "platformasiga e’londa belgilangan 3% miqdorda zakalat ko‘rinishida"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Konsorsium shartnomasi asosida qatnashish taqiqlanadi.",
+      "summary_en": "Participation under a consortium agreement is not allowed.",
+      "quote": "“Konsorsium” shartnomasi asosida tanlashda ishtirok etish taqiqlanadi"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "“A” toifasi bo‘yicha reyting bahosi (A/AA/AAA) uchun - 60 ball",
+      "explanation_uz": "Texnik qismning 61 balldan 60 tasi faqat qurilish reytingi toifasiga bog'liq, shu bois taklifning mazmuni baholanmaydi. Reytingi pastroq, lekin ishni bajara oladigan kichik pudratchilar bu mezonda 15 balldan oshmaydi, bu esa 75,7 mln so'mlik joriy ta'mir uchun mutanosib emasligi mumkin.",
+      "explanation_en": "60 of the 61 technical points depend solely on the construction rating category, so the content of the offer is hardly scored. Smaller contractors with a lower rating who could do the job are capped at 15 points, which may be disproportionate for a routine repair of about 75.7 million UZS.",
+      "rewrite_uz": "Qurilish tashkilotlari reytingi (DD va undan yuqori) ishtirokchiga qo'yiladigan malaka talabi sifatida saqlansin, texnik ball esa ish usuli, muddat va kafolat kabi taklif mazmuniga ham taqsimlansin.",
+      "rewrite_en": "Keep the construction rating (DD or above) as a qualification requirement, and spread the technical points over the content of the offer such as method, schedule and warranty."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik to'g'risidagi hujjat",
+    "Egalik tuzilmasi ma'lumotnomasi (2-shakl) va ta'sis hujjatlari nusxasi",
+    "Kafolat xati (1-shakl)",
+    "Halollik majburiyati to'g'risida ariza (3-shakl)",
+    "Buxgalteriya hisoboti va QR-kodli ma'lumotnoma yoki auditorlik xulosasi",
+    "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+    "To'lovga qobiliyatsizlik tartib-taomillari yo'qligi haqida ma'lumotnoma",
+    "Insofsiz ijrochilar reyestridan skrinshot",
+    "Majburiy ijro byurosi bazasidan nusxa",
+    "Resurslar mavjudligi haqida kafolat xati (4-shakl)",
+    "Texnik topshiriqqa muvofiqlik haqida kafolat xati (5-shakl)",
+    "Qurilish tashkilotlari reytingi bo'yicha reyting.mc.uz ma'lumoti"
+  ]
+}

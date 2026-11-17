@@ -1,0 +1,121 @@
+{
+ "lot_id": 524116,
+ "backend": "in-session",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "sector": "food",
+ "subject_uz": "Maktabgacha ta'lim muassasasida tarbiyalanuvchilarni issiq ovqat bilan ta'minlash (autsorsing)",
+ "requirements": [
+  {
+   "kind": "technical",
+   "summary_uz": "Taomnoma Ijtimoiy himoya milliy agentligi bergan namunaviy taomnomaga mos bo'lishi kerak.",
+   "summary_en": "The menu must follow the sample menu issued by the Social Protection Agency.",
+   "quote": "Ijtimoiy himoya milliy agentligi tomonidan taqdim etiladigan namunaviy taomnomaga mos ravishda"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Tarbiyalanuvchilar kuniga 5 mahal ovqatlanadi.",
+   "summary_en": "Children are fed five times a day.",
+   "quote": "Ovqatlanishi (mahal): bir kunda 5 mahal."
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Oshxona jihozlarini ta'mirlash, maxsus kiyim va tozalash vositalari bilan ta'minlash ijrochi hisobidan.",
+   "summary_en": "Kitchen equipment repair, special clothing and cleaning agents are the contractor's responsibility.",
+   "quote": "oshxona va oshxona jihozlarini ta'mirlash, oshpazlar uchun maxsus kiyim,"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Xodimlar sanitariya kitobchasi va tibbiy ko'rikdan o'tganlik hujjatlarini taqdim etish kerak.",
+   "summary_en": "Staff sanitary books and medical check documents must be provided.",
+   "quote": "Ishtirokchi xodimlari sanitariya kitobchasi va belgilangan tartibda tibbiy ko'rikdan o'tganligini tasdiqlovchi hujjatlarni taqdim etadi"
+  },
+  {
+   "kind": "other",
+   "summary_uz": "Ijrochi shartnoma summasining kamida 1 foizi miqdorida muassasaga investitsiya kiritadi.",
+   "summary_en": "The contractor invests at least 1 percent of the contract value in the institution.",
+   "quote": "shartnoma umumiy summasining kamida 1 foizidan kam bo'lmagan miqdorda Buyurtmachi muassasasiga investitsiya kiritadi"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Kamida uch oylik shartnoma summasiga teng aylanma mablag'lar moliyaviy hujjatlar bilan tasdiqlanadi.",
+   "summary_en": "Working capital equal to at least three months of the contract value must be proven with financial documents.",
+   "quote": "kamida uch oylik shaftnoma summasiga teng aylanma mablag'larga ega ekanligini moliyaviy hujjatlar bilan tasdiqlaydi"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Asosiy oziq-ovqatlarning kamida uch oylik zaxirasi va uni saqlash joyi (ombor) bo'lishi kerak.",
+   "summary_en": "A stock of staple food for at least three months and storage space for it is required.",
+   "quote": "asosiy turdagi oziq-ovqat mahsulotlarining kamida uch oylik zaxirasini shakllantirish va uni doimiy ravishda saqlab borishni ta'minlash"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Tajriba: oxirgi 3 yilda xizmat ko'rsatgan kamida 5 ta tashkilotdan tavsiyanoma uchun 15 ballgacha.",
+   "summary_en": "Experience: up to 15 points for references from at least 5 organisations served in the last 3 years.",
+   "quote": "kamida 5 ta tavsiyanoma ilova qilinadi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Narx qismi: ustama haq qancha past bo'lsa, ball shuncha yuqori (30 ball).",
+   "summary_en": "Price part: the lower the markup, the higher the score (30 points).",
+   "quote": "Ball = (eng past ustama haq / ishtirokchi taklif etgan ustama haq)"
+  },
+  {
+   "kind": "payment",
+   "summary_uz": "Ustama haq 15 foizdan kam va 30 foizdan ko'p bo'lmasligi kerak.",
+   "summary_en": "The markup must be no less than 15 percent and no more than 30 percent.",
+   "quote": "30 foizdan oshmasligi hamda I5 foizdan kam bo'lmasligi lozim"
+  },
+  {
+   "kind": "payment",
+   "summary_uz": "Avans oldingi oydagi haqiqiy xarajatlarning 30 foizi miqdorida to'lanadi, oy yakunida hisob-kitob qilinadi.",
+   "summary_en": "An advance of 30 percent of the previous month's actual costs is paid, with final settlement at month end.",
+   "quote": "haqiqiy xarajatlaming 30 foizi miqdorida oldindan to'lov (avans) amalga oshiriladi"
+  },
+  {
+   "kind": "other",
+   "summary_uz": "G'olib shartnoma summasining 1 foizi miqdorida bajarilish kafolatini taqdim etadi.",
+   "summary_en": "The winner provides a performance guarantee of 1 percent of the contract value.",
+   "quote": "Tanlash g'olibi tuzilayotgan shartnomaning umumiy summasining 1% miqdorida shartnoma majburiyatlarini bajarish kafolatini taqdim"
+  }
+ ],
+ "flags": [
+  {
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "asosiy turdagi oziq-ovqat mahsulotlarining kamida uch oylik zaxirasini shakllantirish va uni doimiy ravishda saqlab borishni ta'minlash",
+   "explanation_uz": "Shartnoma 2026-yil noyabr-dekabr oylarini, ya'ni ikki oyni qamrab oladi, lekin uch oylik oziq-ovqat zaxirasini yaratish va saqlash talab qilinadi. Bu muddat shartnoma davridan uzoq va katta aylanma mablag' hamda ombor talab qiladi, shuning uchun kichik yetkazib beruvchilar qatnasha olmasligi mumkin. Talabning shartnoma hajmiga mutanosibligini tekshirish tavsiya etiladi.",
+   "explanation_en": "The contract covers November and December 2026, two months, yet it requires building and keeping a three-month stock of staple food. This exceeds the contract period and needs large working capital and warehouse space, which may keep smaller suppliers out. The proportion to the contract size is worth checking.",
+   "rewrite_uz": "Autsorser shartnoma muddati davomida ovqatlantirish uzluksizligini ta'minlash uchun zarur hajmdagi oziq-ovqat zaxirasini (kamida bir oylik ehtiyoj miqdorida) saqlaydi.",
+   "rewrite_en": "The contractor keeps a food stock sufficient for uninterrupted meals during the contract term (at least one month of need)."
+  },
+  {
+   "type": "excessive_financial",
+   "severity": "low",
+   "quote": "Autsorsing xizmati bo‘yicha kamida uch oylik shartnoma summasiga teng aylanma mablag‘larga ega bo‘lish",
+   "explanation_uz": "Xizmat shartnomasi atigi ikki oyga (noyabr-dekabr) tuzilmoqda, ammo ishtirokchidan kamida uch oylik shartnoma summasiga teng aylanma mablag' talab qilinadi va bu mezon bo'yicha ball ham beriladi. Bu talab shartnomaning o'zidan ko'proq mablag'ni ko'rsatishni talab qilishi va kichik ijrochilarni chetlashtirishi mumkin. Buyurtmachi bu miqdor shartnoma muddatiga mosligini aniqlashtirishi maqsadga muvofiq.",
+   "explanation_en": "The contract runs for only two months (November-December), yet bidders must show working capital equal to at least three months of the contract value, and points are scored on it. That is more than the whole contract and may shut out smaller operators. The customer could clarify that the amount matches the contract term.",
+   "rewrite_uz": "Ishtirokchi shartnoma muddati davomidagi xizmat qiymatini qoplashga yetarli aylanma mablag'lari mavjudligini bank ma'lumotnomasi yoki moliyaviy hisobot bilan tasdiqlaydi.",
+   "rewrite_en": "The participant confirms, by a bank statement or financial report, that it holds working capital sufficient to cover the service cost for the contract term.",
+   "added_by": "second pass"
+  }
+ ],
+ "documents_needed_uz": [
+  "Soliq qarzdorligi yo'qligi va insofsiz ijrochilar reyestrida qayd etilmaganligi to'g'risida ma'lumotnoma",
+  "Investitsiya kiritishga roziligi to'g'risida kafolat xati (yo'nalishlar va taxminiy qiymatlar bilan)",
+  "Aylanma mablag'lar mavjudligini tasdiqlovchi bank ma'lumotnomasi yoki moliyaviy hisobot",
+  "Texnik topshiriqqa muvofiqlik haqida kafolat xati",
+  "Ruxsat etuvchi hujjatlar, sanitariya-epidemiologik xulosalar va sifat sertifikatlari",
+  "Oxirgi 3 yilda xizmat ko'rsatgan tashkilotlar ro'yxati va kamida 5 ta tavsiyanoma",
+  "SanQvaN talablariga mos taomnoma va menyu-kalkulyatsiya",
+  "Moddiy-texnik baza, oshxona jihozlari, omborxona, sovitkich va transport haqida ma'lumotnoma, xodimlar shtat ro'yxati va diplomlar",
+  "Xodimlarning sanitariya kitobchasi va tibbiy ko'rik hujjatlari",
+  "Halollik bo'yicha ariza va manfaatlar to'qnashuvi hamda affillangan shaxslar to'g'risida ma'lumot",
+  "Taklif ta'minoti (zakalat) to'langanligi to'g'risida tasdiq"
+ ],
+ "first_pass_model": "claude-sonnet-5-5",
+ "second_pass": {
+  "model": "claude-fable-5-2",
+  "backend": "in-session",
+  "note": "three kindergarten lots share one template; flags for the same clauses were made consistent across them (added: working capital)"
+ }
+}

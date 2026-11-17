@@ -1,0 +1,114 @@
+{
+  "lot_id": 524282,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Termiz temir yo'l shifoxonasi binolarini ta'mirlash va hududini obodonlashtirish uchun ishchi loyiha (loyihalash) xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Ishchi loyiha bosqichida kapital ta'mirlash, rekonstruksiya va yangi qurilish uchun hujjatlar ishlab chiqiladi.",
+      "summary_en": "Working-design documents for capital repair, reconstruction and new construction are to be prepared.",
+      "quote": "Kapital ta’mirlash, rekonstruksiya va yangi qurilish"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Loyiha hujjatlari xirurgiya binosi ikkinchi qavati (617 m2) rekonstruksiyasi, ma'muriy bino kapital ta'miri va ikkita texnologik qismni o'z ichiga oladi.",
+      "summary_en": "Design covers reconstruction of the surgery building's second floor (617 m2), capital repair of the administrative building and two technological (TX) sections.",
+      "quote": "Xirurgiya binosi ikkinchi qavatini (617m2) rekonstruksiya qilish;"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Smeta hujjatlari shartnomaviy joriy narxlarda, resurs usulida tuziladi.",
+      "summary_en": "Estimates must be prepared by the resource method at current contract prices.",
+      "quote": "qurilishning qiymati pudrat tashkilotining ma’lumotlari bo‘yicha resurs usulida shartnomaviy joriy narxlarda"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Loyiha ijobiy ekspertiza xulosasidan so'ng 4 nusxa qog'oz va 2 nusxa elektron shaklda topshiriladi.",
+      "summary_en": "After a positive expert opinion, the documents are delivered in 4 paper and 2 electronic copies.",
+      "quote": "Ijobiy ekspertiza xulosasi olingan loyiha-smeta hujjatlari 4 nusxada qog‘oz shaklda va 2 nusxada elektron shaklda taqdim etilsin."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Loyiha-qidiruv ishlari 20 kun ichida bajariladi.",
+      "summary_en": "Design and survey work must be completed in 20 days.",
+      "quote": "Loyiha-qidiruv ishlarini  bajarish muddati 20 kun"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Ijrochi loyihani barcha mutasaddi idoralar bilan kelishadi va ekspertiza xulosasini olishda ishtirok etadi.",
+      "summary_en": "The designer must clear the documents with all competent bodies and take part in obtaining the expert opinion.",
+      "quote": "Buyurtmachiga taqdim qilishdan oldin, kelishilishi lozim bo‘lgan loyiha hujjatlari barcha mutasaddi vazirliklar, manfaatdor idoralar, tegishli tashkilotlar bilan o‘rnatilgan tartibda kelishilgan bo‘lishi talab qilinadi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 1: o'xshash loyihalar tajribasi; 15 tadan ortiq loyiha uchun 10 ball, 5 tadan kam bo'lsa 0 ball.",
+      "summary_en": "Criterion 1: experience with similar projects; more than 15 projects earn 10 points, fewer than 5 earn 0.",
+      "quote": "0 балл - агар 1-шаклга асосан маълумот тақдим қилинмаса ва/ёки 5 та дан кам лойиҳалар бўлса."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 3: xodimlar soni; 15 va undan ko'p xodim uchun 10 ball, 4 tadan kam bo'lsa 0 ball (har bir xodim uchun my.mehnat.uz ma'lumotnomasi).",
+      "summary_en": "Criterion 3: staff count; 15 or more staff earn 10 points, fewer than 4 earn 0 (a my.mehnat.uz certificate for each person).",
+      "quote": "0 балл -3-шаклга асосан 4 тадан кам ходим бўлса ёки мос келмаса ёки маълумот тақдим қилинмаса."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 5 (20 ball): eng qisqa loyihalash muddatini ko'rsatgan ishtirokchiga 20 ball, qolganlarga 10 ball.",
+      "summary_en": "Criterion 5 (20 points): the bidder offering the shortest design period gets 20 points, the others 10.",
+      "quote": "20 балл – 5-шаклга асосан маълумот тақдим этган ва энг қисқа ишлаб чиқиш муддати кўрсатган иштирокчи учун"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Mezon 6: ushbu obyektni loyihalash uchun litsenziyaga egalik haqida ma'lumot talab qilinadi.",
+      "summary_en": "Criterion 6: information on holding a licence for designing this type of object is required.",
+      "quote": "Ушбу объектни лойиҳалаш учун лицензияга эгалиги тўғрисида маълумот"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi soliq va yig'imlar bo'yicha muddati o'tgan qarzga ega bo'lmasligi kerak.",
+      "summary_en": "No overdue tax or levy debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "20 балл – 5-шаклга асосан маълумот тақдим этган ва энг қисқа ишлаб чиқиш муддати кўрсатган иштирокчи учун",
+      "explanation_uz": "Eng katta mezon (20 ball, texnik qismning 70 balidan taxminan 29 foizi) sarlavhasi bo'yicha sifat kafolatiga tegishli, lekin ball faqat eng qisqa loyihalash muddatini yozgan ishtirokchiga beriladi; qolganlarga 10 ball, hujjatdagi muddatdan oshirganga 0. Hujjatning o'zida muddat 20 kun, hajm esa jarrohlik binosi (617 m2), ma'muriy bino va ikkita texnologik bo'lim, ya'ni muddat tezligi uchun mukofot sifatli ishlab chiqishni qiynashi va yirik hajmdagi ishni bajara oladigan ishtirokchini 10 ball bilan cheklashi mumkin.",
+      "explanation_en": "The largest criterion (20 points, about 29 percent of the 70 technical points) is titled as quality warranty, yet it gives full points only to the bidder naming the shortest design period; the rest get 10, and anyone above the document's own period gets 0. The document already sets 20 days for a surgery building (617 m2), an administrative building and two technological sections, so rewarding speed may favour rushed offers and cap capable bidders at half points.",
+      "rewrite_uz": "Mezon sarlavhasiga mos ravishda sifat kafolati muddatini baholang yoki loyihalash muddati uchun ballni kichikroq (masalan, 5 ball) qiling va muddat ballini texnik yechim sifati bilan birga hisoblang.",
+      "rewrite_en": "Score the quality-guarantee period as the criterion title says, or reduce the points for design speed (for example to 5) and weigh it together with the quality of the technical solution."
+    },
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "0 балл -3-шаклга асосан 4 тадан кам ходим бўлса ёки мос келмаса ёки маълумот тақдим қилинмаса.",
+      "explanation_uz": "10 ball (texnik qismning 70 balidan) 15 va undan ko'p xodimga beriladi, 4 tadan kam xodimda 0 ball; har bir xodim uchun my.mehnat.uz ma'lumotnomasi kerak. 150 mln so'mlik loyihalash xizmati uchun bu chegara yuqori bo'lib, kichik, lekin malakali loyiha jamoalarini ballsiz qoldirishi mumkin.",
+      "explanation_en": "10 of the 70 technical points need 15 or more staff, and teams under 4 get 0, with a my.mehnat.uz certificate for every person. For a 150 million UZS design service this threshold is high and may leave small but qualified design teams without points.",
+      "rewrite_uz": "Xodimlar chegaralarini xizmat hajmiga moslab pasaytiring (masalan, 3 va undan ko'p malakali mutasaddi mutaxassis uchun to'liq ball) yoki xodimlar sonini emas, kerakli mutaxassislar (arxitektor, konstruktor, smetachi) mavjudligini baholang.",
+      "rewrite_en": "Lower the staff thresholds to fit the scope (for example full points for 3 or more qualified specialists) or score the presence of the required specialists (architect, structural engineer, estimator) rather than headcount."
+    },
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "0 балл - агар 1-шаклга асосан маълумот тақдим қилинмаса ва/ёки 5 та дан кам лойиҳалар бўлса.",
+      "explanation_uz": "10 ball 15 tadan ortiq o'xshash bajarilgan loyihaga beriladi, 5 tadan kam loyihada 0 ball. 150 mln so'mlik bitta shifoxona loyihasi uchun 15 loyiha talabi yuqori va yangi yoki kichik loyihalash tashkilotlarini ball olishdan chetlashtirishi mumkin.",
+      "explanation_en": "10 of the 70 technical points need more than 15 similar completed projects, with 0 for fewer than 5. For a single 150 million UZS hospital design this threshold is high and may keep newer or smaller design firms from scoring.",
+      "rewrite_uz": "Chegarani pasaytiring (masalan, 3 va undan ko'p o'xshash loyiha uchun to'liq ball) va oxirgi 5 yildagi sog'liqni saqlash yoki jamoat binolari loyihalarini hisobga oling.",
+      "rewrite_en": "Lower the threshold (for example full points for 3 or more similar projects) and count health-care or public-building designs of the last 5 years."
+    }
+  ],
+  "documents_needed_uz": [
+    "O'xshash loyihalar tajribasi to'g'risida ma'lumot (1-shakl)",
+    "Loyihalash topshirig'i bo'yicha texnik tavsiflarning qiyosiy jadvali (2-shakl)",
+    "Xodimlar malakasi va tajribasi to'g'risida hujjatlar, har bir xodim uchun my.mehnat.uz ma'lumotnomasi (3-shakl)",
+    "Zarur uskunalar va dasturiy vositalar mavjudligi to'g'risida ma'lumot (4-shakl)",
+    "Loyihalash muddati, to'lov shartlari to'g'risida ma'lumot (5-shakl)",
+    "Ushbu obyektni loyihalash uchun litsenziyaga egalik haqida ma'lumot",
+    "Taklifni ta'minlash (garov) hujjati",
+    "Soliq va yig'imlar bo'yicha qarzi yo'qligi haqida ma'lumot"
+  ]
+}

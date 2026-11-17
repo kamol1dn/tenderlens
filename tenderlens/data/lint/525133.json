@@ -1,0 +1,110 @@
+{
+ "lot_id": 525133,
+ "backend": "in-session",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "sector": "it",
+ "subject_uz": "Vaziyat markazi uchun kompyuterlar, LED ekranlar, tarmoq, IP-telefoniya va konferensiya uskunalari majmuasini yetkazib berish (15 pozitsiya, jami 721 033 600 so'm)",
+ "requirements": [
+  {
+   "kind": "technical",
+   "summary_uz": "11 dona shaxsiy kompyuter: i5 12-avlod, 16 GB RAM, 256 GB NVMe SSD.",
+   "summary_en": "11 personal computers: Core i5 12th generation, 16 GB RAM, 256 GB NVMe SSD.",
+   "quote": "Shaxsiy kompyuter: CPU i5 gen12, RAM 16GB, SSD 256GB NVMe"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Ichki foydalanish uchun 2 dona LED ekran (har biri 2,5 x 1,5 m, P2 yoki undan kichik qadam).",
+   "summary_en": "Two indoor LED screens (each 2.5 x 1.5 m, pixel pitch P2 or finer).",
+   "quote": "komplekt tarkibida **2 dona LED ekran** bo‘lishi"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Xavfsizlik devori: Firewall 10, IPS 4, NGFW 3 Gbit/s dan kam bo'lmasligi kerak.",
+   "summary_en": "Firewall appliance: at least 10 Gbit/s firewall, 4 Gbit/s IPS and 3 Gbit/s NGFW throughput.",
+   "quote": "Firewall throughput — kamida 10 Gbit/s; IPS throughput — kamida 4 Gbit/s; NGFW throughput — kamida 3 Gbit/s"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Simsiz kirish nuqtalari Wi-Fi 7 (802.11be) standartini qo'llab-quvvatlashi kerak.",
+   "summary_en": "Wireless access points must support the Wi-Fi 7 (IEEE 802.11be) standard.",
+   "quote": "Wi-Fi 7 (IEEE 802.11be) standartini qo‘llab-quvvatlashi"
+  },
+  {
+   "kind": "delivery",
+   "summary_uz": "G'olib bilan shartnoma 2 kun ichida rasmiylashtiriladi.",
+   "summary_en": "The contract with the winner is to be concluded within 2 days.",
+   "quote": "Tanlash natijasiga ko‘ra tanlash g‘olibi bilan 2 kun muddatda tegishli shartnomalar rasmiylashtiriladi."
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Tashkilotning ro'yxatdan o'tganligi hujjatlari to'plami 3 ballgacha baholanadi.",
+   "summary_en": "A set of the bidder's registration documents is scored up to 3 points.",
+   "quote": "Tashkilotning davlat idoralari ro‘yxatidan o‘tkazilganligi haqidagi xujjatlar to‘plami"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Oxirgi uch yildagi o'xshash ishlar to'g'risida shartnoma va hisob-fakturalar bilan ma'lumot (5 ballgacha).",
+   "summary_en": "Information on similar work over the last three years, with contracts and invoices attached (up to 5 points).",
+   "quote": "Oxirgi uch yillik ma’lumotlar (ma’lumotning ilovasiga shartnoma va xisob fakturalar ilova qilinishi shart)"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Sifat kafolati bo'yicha 3 yil nuqsonsizlik haqida kafolat xati (10 ballgacha).",
+   "summary_en": "A guarantee letter of no defects for 3 years (up to 10 points).",
+   "quote": "Maxsulotlari 3- yil ichida xech kanday nukson bulmasdigi tugrisida kafolat xati"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchining ishbilarmonlik obro'sini (xodimlar malakasi, tajriba) tasdiqlovchi hujjatlar talab etiladi.",
+   "summary_en": "Documents confirming the bidder's business reputation (staff qualifications, experience) are required.",
+   "quote": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар."
+  }
+ ],
+ "flags": [
+  {
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "Taqdim etilgan ma'lumotlar imzogan hamda buyurmaching berilgan tartibda taqdim etilgan bo'lsa ya'ni anik va tinik xolda (tasischilat imzolari bilan) .PDF formatida",
+   "explanation_uz": "Mezon 3 (sifat kafolati) 10 ballgacha baholanadi, ammo ball kafolat mazmuniga emas, balki hujjat qanchalik aniq skaner qilingani, \"tasischilat imzolari\" borligi va PDF formatiga qarab 1 dan 10 gacha o'zgaradi. Bu platformaning standart shablon matniga o'xshaydi. Texnik ballar jami 18 ball, o'tish bali 13, shuning uchun hujjat ko'rinishidagi farq g'olibni belgilashi mumkin; tovarni yetkazib bera oladigan, lekin ta'sischilar imzosi bo'lmagan ta'minotchi eng ko'pi bilan 8 ball oladi.",
+   "explanation_en": "Criterion 3 (quality guarantees) is worth up to 10 points, but the score runs from 1 to 10 according to how clearly the document is scanned, whether it carries the founders' signatures and whether it is a PDF, not according to the content of the guarantee. It looks like standard platform template wording. Technical points total 18 with a pass mark of 13, so differences in document appearance can decide the outcome; a supplier able to deliver the goods but without founders' signatures can score at most 8.",
+   "rewrite_uz": "Sifat kafolati bo'yicha ball ta'minotchining kafolat muddati va shartlariga qarab beriladi (masalan, 12 oy – 5 ball, 24 oy – 8 ball, 36 oy va undan ko'p – 10 ball); hujjatning o'qiladigan PDF shaklida taqdim etilishi yetarli.",
+   "rewrite_en": "Points for quality guarantees are awarded according to the length and terms of the supplier's warranty (for example 12 months - 5 points, 24 months - 8 points, 36 months or more - 10 points); a legible PDF is sufficient.",
+   "first_pass_severity": "high",
+   "reviewed_by": "second pass"
+  },
+  {
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "Taqdim etilgan ma'lumotlar imzogan hamda buyurmaching berilgan tartibda taqdim etilgan bo'lsa (xira sifatsiz)..PDF formatida",
+   "explanation_uz": "Mezon 2 (5 ball) tovarning yaroqlilik va saqlash muddatiga emas, o'xshash ishlar tajribasiga bog'langan va ball hujjatning aniqligi hamda ta'sischilar imzosi bilan 1 dan 5 gacha o'zgaradi. Bu platformaning standart shablon matniga o'xshaydi; sarlavha va ball asosi bir-biriga mos kelmaydi, shuning uchun tushuntirish so'rash tavsiya etiladi.",
+   "explanation_en": "Criterion 2 (5 points) is titled shelf life and storage but is scored on similar-work experience, and the score runs from 1 to 5 according to document clarity and founders' signatures. It looks like standard platform template wording; the heading and the scoring basis do not match, so a clarifying question is worthwhile.",
+   "rewrite_uz": "Mezon 2 bo'yicha ball oxirgi 3 yilda bajarilgan o'xshash yetkazib berish shartnomalari soni va hajmiga qarab beriladi; ballar hujjat ko'rinishiga bog'lanmaydi.",
+   "rewrite_en": "Points for criterion 2 are awarded according to the number and value of similar supply contracts over the last 3 years; points do not depend on the appearance of the document."
+  }
+ ],
+ "documents_needed_uz": [
+  "Tashkilot guvohnomasi va stat.uz saytidan tashkilot ma'lumoti (PDF)",
+  "Korxona ustavi va ta'sis hujjatlari",
+  "Litsenziya va sertifikatlar (mavjud bo'lsa)",
+  "Oxirgi 3 yildagi o'xshash ishlar bo'yicha shartnomalar va hisob-fakturalar",
+  "O'z vaqtida yetkazib berish haqida kafolat xati",
+  "3 yil nuqsonsizlik haqida kafolat xati",
+  "Namuna ko'rsatish va zaxira mavjudligi haqida ma'lumot",
+  "Soliq va yig'imlar bo'yicha qarzdorlik yo'qligi haqida hujjat",
+  "Bankrotlik tartib-taomillari yo'qligi haqida ma'lumotnoma",
+  "Insofsiz ijrochilar reyestrida yo'qligi haqida hujjat",
+  "Majburiy ijro byurosi bo'yicha qarzi yo'qligi haqida ma'lumotnoma",
+  "Moliyaviy hisobotlar",
+  "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ma'lumot",
+  "Ishbilarmonlik obro'sini tasdiqlovchi hujjatlar",
+  "Xarid jarayonida qoidabuzarliklarga yo'l qo'ymaslik haqidagi ariza",
+  "Texnik taklif va mahsulotlarning texnik tavsiflari",
+  "Taklif ta'minoti (3 foiz)"
+ ],
+ "first_pass_model": "claude-sonnet-5-5",
+ "second_pass": {
+  "model": "claude-fable-5-2",
+  "backend": "in-session",
+  "note": "lowered from high to medium: scoring by scan clarity is unrelated to the subject, but any bidder can meet it"
+ }
+}

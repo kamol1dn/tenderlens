@@ -1,0 +1,143 @@
+{
+  "lot_id": 510100,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "Olmazor GARDEN issiqxonasidagi quyosh panelining dasturiy ta'minotini ta'mirlash va qo'llab-quvvatlash xizmati",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "Platforma shakliga ko'ra baholash faqat narx bo'yicha (narx 100 foiz).",
+      "summary_en": "On the platform form, evaluation is on price only (price 100 percent).",
+      "quote": "texnik qism 0.0%, narx 100.0%, o'tish bali 100"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlarni tugallash muddati 20 kun.",
+      "summary_en": "Work must be completed in 20 days.",
+      "quote": "Ишларни тугаллаш муддати –20 (ўн) кун."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnoma qiymatining 30 foizi avans sifatida to'lanadi.",
+      "summary_en": "30 percent of the contract value is paid as an advance.",
+      "quote": "шартнома қийматининг 30% миқдорида бўнак (аванс) маблағи бажарувчи"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi doimiy muhandis-texnik xodimlarga (bosh muhandis, bosh arxitektor va boshqalar) ega bo'lishi kerak.",
+      "summary_en": "The bidder must have permanent engineering staff (chief engineer, chief architect and others).",
+      "quote": "доимий ходимлари, жумладан мухандис-техник ходимларига (лойиҳа бош мухандиси, лойиҳа бош архитектори ва бошқа мутахассисларга)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchining o'z aylanma mablag'i bilan ta'minlanganlik koeffitsiyenti kamida 0,2 bo'lishi kerak.",
+      "summary_en": "The bidder's own working-capital ratio must be at least 0.2.",
+      "quote": "ўз айланма маблағи билан таъминланганлиги (кўрсаткич 0,2 коэффициентдан кам бўлмаган)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "To'lovga qodirlik koeffitsiyenti kamida 1,25 bo'lishi kerak.",
+      "summary_en": "The solvency ratio must be at least 1.25.",
+      "quote": "тўловга қодирлиги (кўрсаткич 1,25 коэффициентдан кам бўлмаган)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Boshlang'ich narxning 20 foizi miqdorida aylanma mablag' borligi bank ma'lumotnomasi bilan tasdiqlanishi kerak.",
+      "summary_en": "Working capital of 20 percent of the start price must be confirmed by a bank certificate.",
+      "quote": "Объектнинг буюртмачи белгилаган бошланғич нархининг 20 % миқдоридаги айланма маблағлар мавжудлиги"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Tanlov ob'ektiga o'xshash ob'ektlarda ish tajribasi bo'lishi kerak (oxirgi 3 yil).",
+      "summary_en": "Experience on similar objects (last 3 years) is required.",
+      "quote": "танлов объектига ўхшаш объектларда ишлаганлик тажрибаси мавжудлиги;"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchida soliq qarzi bo'lmasligi va insofsiz ijrochilar reestrida qayd etilmagan bo'lishi kerak.",
+      "summary_en": "No tax debt and no entry in the register of unfair suppliers.",
+      "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Texnik topshiriqqa ko'ra hujjatlar davlat ekspertizasidan o'tkazilib, ekspertiza xulosasi bilan topshiriladi.",
+      "summary_en": "Per the technical task, documents must pass state expertise and be handed over with the expertise conclusion.",
+      "quote": "Жорий таъмирлаш ишлари хужжатлари ушбу топшириқ талабларига биноан ишлаб чиқилади ва лойиҳа ташкилоти томонидан давлат экспертизасидан ўтказилиб"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Loyiha-smeta hujjatlari 3 nusxada va amaldagi standartlarga muvofiq rasmiylashtirilishi kerak.",
+      "summary_en": "Project-estimate documents must be produced in 3 copies in line with current standards.",
+      "quote": "Лойиҳа-смета хужжатлари 3 нусхада ва амалдаги стандартлар бўйича"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Bajariladigan ishlarga litsenziya talab etiladi.",
+      "summary_en": "A licence is required for the work performed.",
+      "quote": "Бажариладиган ишларга лицензия талаб"
+    }
+  ],
+  "flags": [
+    {
+      "type": "irrelevant_requirement",
+      "severity": "high",
+      "quote": "5 йил иш стажига эга дипломли 1 та лойиҳа бош архитекторини мавжудлиги.",
+      "explanation_uz": "Quyosh panelining dasturiy ta'minotini ta'mirlash uchun bosh arxitektor, arxitektura va qurilish bo'yicha mutaxassislar hamda bosh muhandis uchun ball beriladi. Tanlov hujjatlari loyiha-smeta ishlari shablonidan olingan ko'rinadi; shu sababli dasturiy ta'minot xizmatini yaxshi bajara oladigan kompaniya ballarni yo'qotishi yoki rad etilishi mumkin. Platformadagi shaklda texnik ball 0 foiz ko'rsatilgan, bu ikki hujjat o'rtasidagi nomuvofiqlikni ham aniqlashtirish kerak.",
+      "explanation_en": "Points are given for a chief architect, architecture and construction specialists and a chief engineer, although the work is repair of solar-panel software. The tender document appears to come from a design-estimate template, so a capable software company could lose points or be rejected. The platform form shows 0 percent technical weight, so the mismatch between the two should also be clarified.",
+      "rewrite_uz": "Dasturiy ta'minot va quyosh energetikasi tizimlari bo'yicha kamida 3 yillik tajribaga ega mutaxassis (dasturchi yoki tizim muhandisi) mavjudligi.",
+      "rewrite_en": "Availability of a specialist (software developer or systems engineer) with at least 3 years of experience in software and solar energy systems."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "medium",
+      "quote": "Лойиҳани бажариш учун зарур бўлган 10 бирликдан кам бўлмаган моддий-техник воситалари (компьютер, принтер, плоттер ва ҳ.к.)нинг мавжудлиги",
+      "explanation_uz": "Hujjatda 36-72 kv.m dan ortiq xona va kamida 10 birlik jihoz (jumladan plotter) mavjudligi uchun 20 ballgacha beriladi. Dasturiy ta'minotni masofadan ta'mirlaydigan kichik jamoa uchun bunday talab ortiqcha bo'lishi mumkin va ular ballarni yo'qotadi.",
+      "explanation_en": "The document gives up to 20 points for premises of 36-72 sq m or more and at least 10 units of equipment (including a plotter). A small team that repairs software remotely may not need this and would lose points.",
+      "rewrite_uz": "Xizmatni ko'rsatish uchun zarur dasturiy va texnik vositalarning (kompyuter, dasturiy ta'minot, aloqa vositalari) mavjudligi.",
+      "rewrite_en": "Availability of the software and technical means needed to provide the service (computers, software, communication tools)."
+    },
+    {
+      "type": "excessive_financial",
+      "severity": "medium",
+      "quote": "Асосий воситаларнинг қолдиқ қиймати 100 млн. сўм ва ундан кўп.",
+      "explanation_uz": "Boshlang'ich narxi 19 mln so'm bo'lgan lot uchun asosiy vositalarning qoldiq qiymati kamida 100 mln so'm va o'tgan yil foydasi 20 mln so'm bo'lishi uchun ball beriladi. Bu talablar lot hajmidan ancha yuqori va yosh yoki kichik kompaniyalarni ballsiz qoldirishi mumkin.",
+      "explanation_en": "For a lot with a start price of 19 million UZS, points are given for fixed assets of at least 100 million UZS and a prior-year profit of 20 million UZS. These are well above the lot value and may cost young or small companies points.",
+      "rewrite_uz": "Ishtirokchining moliyaviy barqarorligi: muddati o'tgan kreditorlik qarzi yo'qligi va lot narxining 20 foizi miqdorida aylanma mablag'ga egaligi.",
+      "rewrite_en": "Financial stability of the bidder: no overdue payables and working capital of 20 percent of the lot price."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "high",
+      "quote": "Жорий таъмирлаш ишлари хужжатлари ушбу топшириқ талабларига биноан ишлаб чиқилади ва лойиҳа ташкилоти томонидан давлат экспертизасидан ўтказилиб",
+      "explanation_uz": "Texnik topshiriq quyosh panelining dasturiy ta'minoti haqida emas, balki joriy ta'mirlash loyiha-smeta hujjatlari, davlat ekspertizasi va yo'l ko'rsatkichlari (SHNQ) haqida. Ishtirokchi aynan nima bajarilishi va qanday narxlanishini aniq tushunishi qiyin, bu esa kompaniyalarni qatnashishdan to'sishi mumkin.",
+      "explanation_en": "The technical task is not about solar-panel software but about current-repair design-estimate documents, state expertise and road indicators. A bidder cannot tell exactly what must be delivered or priced, which may discourage capable companies from bidding.",
+      "rewrite_uz": "Texnik topshiriqda dasturiy ta'minotni ta'mirlash va qo'llab-quvvatlash ishlarining ro'yxati, hajmi, muddati va natijaviy hujjatlari ko'rsatilsin.",
+      "rewrite_en": "The technical task should list the software repair and support work, its scope, timing and the output documents."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "low",
+      "quote": "Бажариладиган ишларга лицензия талаб",
+      "explanation_uz": "Qanday litsenziya talab etilishi ko'rsatilmagan. Dasturiy ta'minotni ta'mirlash va qo'llab-quvvatlash uchun odatda alohida litsenziya kerak bo'lmasligi mumkin, shu sababli bir aniqlashtiruvchi savol berish foydali.",
+      "explanation_en": "The licence is not named. Software repair and support may not need a separate licence, so one clarifying question is worthwhile.",
+      "rewrite_uz": "Agar bajariladigan ishlar uchun qonunchilikka ko'ra litsenziya talab etilsa, uning nomi va turi aniq ko'rsatilsin.",
+      "rewrite_en": "If a licence is required for the work under the law, its name and type should be stated explicitly."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik guvohnomasi, ustav va litsenziya nusxalari",
+    "Soliq qarzi yo'qligi haqida DSI ma'lumotnomasi",
+    "QQS to'lovchisi sifatida ro'yxatdan o'tganligi haqida DSI ma'lumotnomasi",
+    "Oxirgi 3 yillik balans va moliyaviy natijalar hisoboti",
+    "Aylanma mablag' mavjudligi haqida bank ma'lumotnomasi",
+    "Tanlov ishtirokchisi haqida umumiy ma'lumotlar (2-shakl)",
+    "Xodimlarning diplom nusxalari, ishga qabul qilish buyruqlari va mehnat daftarchalari",
+    "Ishchi xodimlar soni va ish haqi fondi bo'yicha hisobot nusxalari",
+    "O'xshash ob'ektlarda oxirgi 3 yillik tajriba (5-shakl) va bajarilgan ishlar dalolatnomalari",
+    "Xonalar va moddiy-texnik vositalar ro'yxati (6-shakl), ijara shartnomasi yoki kadastr hujjati",
+    "Boshqa joriy shartnomalar haqida ma'lumot (7-shakl)",
+    "Bank kafolati yoki buyurtmani ta'minlash to'lovi (1-shakl)",
+    "Ishlarni bajarish va moliyalashtirish grafigi, ish hajmlari ro'yxati (1-4 ilovalar)"
+  ]
+}

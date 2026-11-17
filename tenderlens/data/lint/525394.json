@@ -1,0 +1,74 @@
+{
+  "lot_id": 525394,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Ko'prikli kranlar va kran-balkani Toshkent shahridan Chirchiq shahriga demontaj qilib ko'chirish, montaj, sozlash va sinovdan o'tkazish ishlari",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Pudratchida yuk ko'tarish inshootlarini montaj qilish va sozlash huquqini beruvchi amaldagi litsenziya yoki ruxsatnoma bo'lishi shart.",
+      "summary_en": "The contractor must hold a current licence or permit to install and commission lifting structures.",
+      "quote": "yuk ko‘tarish inshootlarini montaj qilish va sozlash huquqini beruvchi amaldagi litsenziya yoki ruxsat etish xususiyatiga ega hujjatlarga ega bo‘lishi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Yuk ko'tarish mexanizmlarini montaj va demontaj qilish bo'yicha amaliy ish tajribasi talab qilinadi.",
+      "summary_en": "Practical experience in installing and dismantling lifting mechanisms is required.",
+      "quote": "Yuk ko‘tarish mexanizmlarini montaj/demontaj qilish sohasida amaliy ish tajribasiga ega bo‘lishi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shtatda attestatsiyadan o'tgan, yuk ko'tarish inshootlari bilan ishlashga ruxsati bor mutaxassislar va ishchilar bo'lishi kerak.",
+      "summary_en": "The contractor needs certified specialists and workers authorised to work with lifting structures on staff.",
+      "quote": "amaldagi attestatsiyadan o‘tgan malakali mutaxassislar va ishchi xodimlar shtatiga ega bo‘lishi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Maxsus yuk ko'tarish, transport va montaj texnikasi hamda asbob-uskunalar mavjud bo'lishi kerak.",
+      "summary_en": "Special lifting, transport and installation equipment and tools must be available.",
+      "quote": "maxsus yuk ko‘tarish, transport va montaj texnikalari, asbob-uskunalar va moslamalarga ega bo‘lishi."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ikkita ko'prikli kran (20/5 t) va bitta kran-balka (3 t) demontaj qilinadi, tashiladi va yangi joyda montaj qilinadi.",
+      "summary_en": "Two overhead cranes (20/5 t) and one crane beam (3 t) are dismantled, transported and reinstalled at the new site.",
+      "quote": "Ko‘prikli kranlar va kran-balkani xavfsiz tashish uchun zarur bo‘lgan hajmda qismlarga ajratish va demontaj qilish."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Pudratchi demontajdan oldin ishlarni tashkil etish va bajarish hujjatlarini (PR/PPR) ishlab chiqadi.",
+      "summary_en": "The contractor prepares the work-organisation and execution documents (PR/PPR) before dismantling.",
+      "quote": "Demontaj qilish tartibi bo‘yicha tashkiliy-texnologik hujjatlarni (PR/PPR) ishlab chiqish."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Montajdan so'ng statik va dinamik sinovlar o'tkazilib, dalolatnomalar rasmiylashtiriladi.",
+      "summary_en": "After installation, static and dynamic tests are carried out and formal acts are drawn up.",
+      "quote": "Amaldagi qoidalarga muvofiq Statik va Dinamik sinovlarni o‘tkazish hamda natijalar bo‘yicha tegishli dalolatnomalar va bayonnomalarni rasmiylashtirish."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlar yakunida sanoat xavfsizligi ekspertizasi xulosasi va zarur bo'lsa yangilangan texnik pasportlar topshiriladi.",
+      "summary_en": "On completion the contractor hands over the industrial-safety expert conclusion and, if needed, updated technical passports.",
+      "quote": "Sanoat xavfsizligi ekspertizasi xulosasi va zarurat bo‘lganda kranlarning yangilangan texnik pasportlari."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Pudratchi bajarilgan ishlar sifatiga kamida 12 oy kafolat beradi.",
+      "summary_en": "The contractor gives a warranty of at least 12 months on the work.",
+      "quote": "kundan boshlab kamida 12 oy muddatga kafolat beradi."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Kranlarni montaj qilish va sozlash huquqini beruvchi litsenziya yoki ruxsatnoma nusxasi",
+    "Attestatsiyadan o'tgan mutaxassislarning malaka sertifikatlari",
+    "Shunga o'xshash ishlar bo'yicha tajriba haqida ma'lumot",
+    "Maxsus texnika va asbob-uskunalar mavjudligi haqida ma'lumot",
+    "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+    "Insofsiz ijrochilar reyestrida yo'qligi bo'yicha tasdiq",
+    "Bankrotlik jarayoni yo'qligi haqida tasdiq",
+    "Majburiy ijro byurosi ma'lumotlar bazasida bajarilmagan majburiyat yo'qligi haqida tasdiq"
+  ]
+}

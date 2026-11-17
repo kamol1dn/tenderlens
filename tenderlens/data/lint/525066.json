@@ -1,0 +1,132 @@
+{
+  "lot_id": 525066,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Vagon gʻildirak gupchagi teshigining diametri va shakl chetlanishlarini nazorat qilish asbobi (1 dona)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Ichki diametr oʻlchash diapazoni 180 dan 206 mm gacha, ustun teshigi boʻyicha 3 ta kesimda.",
+      "summary_en": "Internal diameter measuring range 180 to 206 mm, measured in three sections of the hub bore.",
+      "quote": "Диапазон контролируемых диаметров (внутренних), мм От 180 до 206"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Diametr boyicha ruxsat etilgan mutlaq xatolik ±0,012 mm.",
+      "summary_en": "Permissible absolute error for diameter of ±0.012 mm.",
+      "quote": "Предел допускаемой абсолютной погрешности при контроле диаметра, мм ±0,012"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ovallik va konussimonlik avtomatik hisoblanishi kerak (uch kesimdagi max va min diametr farqi).",
+      "summary_en": "Ovality and taper must be computed automatically (difference of max and min diameter across the three sections).",
+      "quote": "Овальность: разность max и min диаметров в каждом из трех сечений."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kamida 1000 ta oʻlchov xotirada saqlanishi va USB Flash'ga eksport qilinishi kerak.",
+      "summary_en": "At least 1000 measurements must be stored internally and exportable to USB Flash.",
+      "quote": "Хранение результатов измерений во внутренней памяти (не менее 1000 замеров) с возможностью экспорта на USB Flash."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Simsiz aloqa (Bluetooth yoki ekvivalent) kamida 4 m masofada ishlashi kerak.",
+      "summary_en": "Wireless link (Bluetooth or equivalent) must work over at least 4 m.",
+      "quote": "Беспроводная связь: Радиоканал (Bluetooth или эквивалент) с дальностью действия не менее 4 метров"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati rezidentlar uchun avans olingandan keyin 90 kalendar kundan oshmasligi kerak.",
+      "summary_en": "Delivery within 90 calendar days of receiving the advance for residents.",
+      "quote": "для резидентов: не более 90 календарных дней с момента получения предоплаты за оборудования."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Montaj, ishga tushirish, kalibrlash va xodimlarni oʻqitish yetkazib beruvchi tomonidan Andijonda bajariladi (kamida 5 mutaxassis).",
+      "summary_en": "Installation, commissioning, calibration and staff training are done by the supplier on site in Andijan (at least 5 specialists).",
+      "quote": "Монтаж, пуско-наладочные работы (ПНР), калибровка, ввод оборудования в эксплуатацию и обучение персонала Заказчика должны выполняться Исполнителем"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat kamida 12 oy, ishga tushirilgan sanadan; garantiya chaqiruviga javob 48 soat.",
+      "summary_en": "Warranty of at least 12 months from commissioning; response to warranty calls within 48 hours.",
+      "quote": "Гарантийный срок и обязательства – не менее 12 месяцев с момента ввода в эксплуатацию оборудования."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Oʻlchash vositalari turini tasdiqlash guvohnomasi va qiyoslash/kalibrlash hujjatlari topshirilishi kerak.",
+      "summary_en": "A type-approval certificate for measuring instruments (plus verification papers) must be supplied.",
+      "quote": "свидетельство об утверждении типа средств измерений"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlab chiqaruvchi zavoddan ishonchnoma yoki dilerlik kelishuvi (5-shakl) majburiy.",
+      "summary_en": "A power of attorney or dealer agreement from the manufacturing plant (Form 5) is mandatory.",
+      "quote": "Ishlab chiqaruvchi zavod tomonidan berilgan ishonchnoma yoki dilerlik kelishuvi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kompaniyaning moliyaviy holati toʻgʻrisidagi ma'lumot 3-shakl boʻyicha taqdim etilishi shart.",
+      "summary_en": "Financial position information must be provided on Form 3.",
+      "quote": "Участник должен предоставить информацию о финансовом положении компании согласно форме №3."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Yetkazib berish tajribasi: har bir yil tajriba kamida bitta shartnoma bilan tasdiqlanadi; 5 yildan ortiq tajriba 2 ball.",
+      "summary_en": "Delivery experience: each year of experience must be backed by at least one contract; 5+ years earns 2 points.",
+      "quote": "Каждый год опыта необходимо потвердить как минимум одним контрактом"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Rezidentlar uchun shartnoma qiymatining 15 foizi avans, 80 foizi oʻrnatilgandan keyin, 5 foizi oʻqitishdan keyin toʻlanadi.",
+      "summary_en": "For residents: 15% advance, 80% after delivery and commissioning, 5% after training.",
+      "quote": "қийматининг 15 фоизи миқдорида аванс тўлови амалга оширилади."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash: texnik-malaka qismi 60%, narx 40%; oʻtish bali 10 (maksimal 15).",
+      "summary_en": "Evaluation: technical-qualification 60%, price 40%; pass mark 10 of 15.",
+      "quote": "Tanlash bo‘yicha maksimal ball — 15 ball. Tanlashdan o‘tish uchun minimal o‘tish bali — 10 ball"
+    }
+  ],
+  "flags": [
+    {
+      "type": "dealer_letter",
+      "severity": "medium",
+      "quote": "Ishlab chiqaruvchi zavod tomonidan berilgan ishonchnoma yoki dilerlik kelishuvi. Agar ishtirokchi ishlab chiqaruvchi zavodning o‘zi bo‘lsa, buni tasdiqlovchi hujjat (5-shaklga muvofiq) taqdim etilishi lozim.",
+      "explanation_uz": "Ishlab chiqaruvchi zavoddan ishonchnoma yoki dilerlik kelishuvi majburiy mezon sifatida talab qilinadi va boʻlmasa ishtirokchi chetlashtiriladi. Bu oʻlchash asbobini boshqa yoʻl bilan yetkazib bera oladigan ta'minotchilarni qoldirib ketishi mumkin.",
+      "explanation_en": "A manufacturer power of attorney or dealer agreement is a mandatory criterion and its absence leads to disqualification. This may leave out suppliers who could deliver the instrument by other routes.",
+      "rewrite_uz": "Ishtirokchi taklif etilayotgan asbobni yetkazib berish va kafolat xizmatini ta'minlash huquqini tasdiqlovchi hujjatni (ishlab chiqaruvchi yoki rasmiy vakil avtorizatsiyasi, yoki oʻz kafolat majburiyati xati) taqdim etadi.",
+      "rewrite_en": "The bidder provides a document confirming the right to supply and warrant the instrument (manufacturer or official representative authorisation, or its own warranty commitment letter)."
+    },
+    {
+      "type": "narrow_params",
+      "severity": "low",
+      "quote": "Отсчетно-вычислительное устройство (встроенное) Не более 190 х 90 х 28 мм Принтер (внешний) Не более 347 х 208 х 176 мм Масса измерительной скобы с устройством Не более 2,5 кг",
+      "explanation_uz": "Hisoblash blokining, printerning va oʻlchash asbobining aniq gabarit oʻlchamlari hamda massasi belgilangan. Bunday aniq birikma bitta mahsulotni tasvirlashi mumkin; ish uchun bunday aniqlik zarurligi koʻrsatilmagan.",
+      "explanation_en": "Exact size caps are set for the computing unit, the printer and the gauge, plus a mass cap. Such a precise combination may describe a single product; the need for this precision for the job is not shown.",
+      "rewrite_uz": "Qurilma toʻplami ishchi joyda qulay foydalanish uchun ixcham boʻlishi kerak (masalan, oʻlchash skobasi massasi 3 kg dan oshmasligi), aniq gabaritlar ishlab chiqaruvchi hujjatlarida koʻrsatilsin.",
+      "rewrite_en": "The set should be compact enough for convenient shop-floor use (e.g. gauge mass not above 3 kg); exact dimensions to be stated in the manufacturer documents."
+    }
+  ],
+  "documents_needed_uz": [
+    "Kafolat xati (1-shakl) va shartnomani bajarish uchun resurslar mavjudligini tasdiqlovchi hujjatlar",
+    "Shartnoma tuzishning qonuniy huquqini tasdiqlovchi hujjat (ustav, tayinlash buyrugi)",
+    "Soliq qarzdorligi yoqligi haqida ma'lumotnoma (10 kundan eski bolmagan)",
+    "Bankrotlik tartib-taomili yoqligini tasdiqlovchi hujjat",
+    "Insofsiz ijrochilar reyestrida yoqligi haqida skrinshot yoki kafolat xati",
+    "Majburiy ijro byurosi bazasidan skrinshot yoki kafolat xati",
+    "Davlat royxatidan otganlik guvohnomasi nusxasi",
+    "Moliyaviy holat toʻgʻrisidagi ma'lumot (3-shakl)",
+    "Ishtirokchi haqida umumiy ma'lumot (2-shakl)",
+    "Qonunbuzarliklarga yol qoymaslik haqidagi ariza (4-shakl)",
+    "Ishlab chiqaruvchidan ishonchnoma yoki dilerlik kelishuvi (5-shakl)",
+    "Texnik taklif va taqqoslash jadvali (6-shakl)",
+    "Yetkazib berish shartlari boyicha ma'lumot (7-shakl)",
+    "Texnik topshiriq talablariga muvofiqlik haqida kafolat xati (8-shakl)",
+    "Yetkazib berish tajribasi haqida ma'lumot va shartnoma nusxalari (9-shakl)",
+    "Muvofiqlik yoki sifat sertifikati, texnik pasport, katalog",
+    "Oʻlchash vositalari turini tasdiqlash guvohnomasi"
+  ]
+}

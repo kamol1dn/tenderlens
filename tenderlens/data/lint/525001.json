@@ -1,0 +1,94 @@
+{
+  "lot_id": 525001,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Boks bazasi uchun sport inventarlari va trenajyorlar (9 ta pozitsiya) xarid qilish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Ishtirokchi taklif etilayotgan sport anjomlarining rasmlari bilan yozma taklif taqdim etishi kerak.",
+      "summary_en": "The bidder must submit a written offer with pictures of the proposed sports equipment.",
+      "quote": "Ishtirokchi korxona tomonidan taklif kilinayotgan sport anjomlar rasmlari bilan taklifini yozma ravishda taqdim kilish"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi o'zi haqida umumiy ma'lumot (nizom, guvohnoma, rahbar pasporti nusxasi va buyruq) taqdim etishi lozim.",
+      "summary_en": "The bidder must provide general company information (charter, registration certificate, director's passport copy and order).",
+      "quote": "Ishtirokchi korxona o'zi to'g'risida umumiy ma'lumot taqdim qilishi lozim"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "1-mezon (20 ball): yetkaziladigan mahsulotlarga kafolat muddati (kafolat xati).",
+      "summary_en": "Criterion 1 (20 points): warranty period for the goods (guarantee letter).",
+      "quote": "Етказиладиган маҳсулотларга кафолат муддати (Кафолат хати)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "2-mezon (35 ball): mahsulotlarga sertifikat taqdim etish; mezon sarlavhasi esa ishlab chiqarilgan yilga oid.",
+      "summary_en": "Criterion 2 (35 points): certificates for the products; the heading itself concerns year of manufacture.",
+      "quote": "Маҳсулотларга сертификат тақдим қилиниши керак"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "3-mezon (18 ball): korxona nizomi, guvohnomasi va rahbar pasporti to'liq joylashtirilishi.",
+      "summary_en": "Criterion 3 (18 points): company charter, certificate and director's passport uploaded in full.",
+      "quote": "Корхонаси низоми, гувохномаси, рахбар паспорти тўлиқ жойлаштирилиши керак"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "4-mezon (20 ball): sohadagi tajriba: 3 yil va undan ko'p 20 ball, 1-3 yil 10 ball, 1 yilgacha 1 ball.",
+      "summary_en": "Criterion 4 (20 points): experience in the field: 3+ years 20 points, 1-3 years 10 points, under 1 year 1 point.",
+      "quote": "иштирокчи корхонанинг шу сохада етарли иш тажрибаси - 3 йил ва ундан кўп бўлса 20 балл - 1 дан 3 йилгача бўлса 10 балл - 1 йилгача бўлса 1 балл"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi sotayotgan sport anjomlari xalqaro para qilichbozlik musobaqalarida anjom nazoratidan o'tishi haqida, o'tmasa pulni qaytarish shartli kafolat xati talab qilinadi.",
+      "summary_en": "A guarantee letter is required that the equipment passes the equipment check at international para-fencing competitions, with a refund if it does not.",
+      "quote": "xalqaro para qilichbozlik bo'ycha musobaqalarida \"anjom n azoratidan\" (equipment check) j arayonidan"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "To'lov: 30% avans, qolgan 70% barcha shartnoma majburiyatlari bajarilgandan keyin; to'lov muddati 5 kun, taklif kafolati 3%.",
+      "summary_en": "Payment: 30% advance, remaining 70% after all contract obligations are fulfilled; 5-day payment term, 3% bid security.",
+      "quote": "asosida oldindan to'lovi 300/o avans sifatida, qolgan 70%"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik qism 70%, narx 30%; o'tish bali 15; mezonlar jami 93 ball (20+35+18+20).",
+      "summary_en": "70% technical, 30% price; pass mark 15; the four criteria total 93 points (20+35+18+20).",
+      "quote": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги."
+    }
+  ],
+  "flags": [
+    {
+      "type": "irrelevant_requirement",
+      "severity": "high",
+      "quote": "xalqaro para qilichbozlik bo'ycha musobaqalarida \"anjom n azoratidan\" (equipment check) j arayonidan",
+      "explanation_uz": "Lot boks maktabi uchun kuch trenajyorlari, yugurish yo'lagi va shtanga kabi anjomlarni oladi, kafolat xati esa para qilichbozlik musobaqalaridagi anjom nazoratiga tegishli. Bunday xatni trenajyor yetkazuvchisi odatda bera olmaydi, shu sababli qobiliyatli ishtirokchi qatnashishdan chetda qolishi mumkin.",
+      "explanation_en": "The lot buys strength machines, a treadmill and a barbell for a boxing school, but the guarantee letter refers to equipment checks at para-fencing competitions. A normal supplier of gym machines can hardly give such a letter, so a capable bidder could be shut out.",
+      "rewrite_uz": "Ishtirokchi taklif etilayotgan anjomlarning texnik topshiriqqa mosligi va kafolat muddati haqida kafolat xati taqdim etadi.",
+      "rewrite_en": "The bidder submits a guarantee letter confirming that the offered equipment meets the technical assignment and stating its warranty period."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "medium",
+      "quote": "Корхонаси низоми, гувохномаси, рахбар паспорти тўлиқ жойлаштирилиши керак",
+      "explanation_uz": "3-mezon sarlavhasi ekspluatatsiya materiallari va ehtiyot qismlarga oid, ammo 18 ball korxona nizomi, guvohnomasi va rahbar pasportini yuklash uchun beriladi. Bu hujjatlar har bir ro'yxatdan o'tgan ishtirokchida bor va tovarning xususiyatiga aloqasi yo'q (jami 93 balldan 18 ball); u standart andoza matniga o'xshaydi.",
+      "explanation_en": "The criterion heading concerns operating materials and spare parts, yet 18 points are given for uploading the company charter, certificate and director's passport. Every registered bidder holds these and they say nothing about the goods (18 of 93 points); it looks like standard template wording.",
+      "rewrite_uz": "3-mezon bo'yicha ball ehtiyot qismlar, ekspluatatsiya materiallari va servis xizmatining mavjudligini tasdiqlovchi hujjatlar uchun beriladi; ishtirokchi haqidagi umumiy hujjatlar baholanmaydi.",
+      "rewrite_en": "Points under this criterion are given for documents showing availability of spare parts, consumables and service; general company documents are not scored."
+    }
+  ],
+  "documents_needed_uz": [
+    "Korxona nizomi, guvohnomasi va rahbar pasporti nusxasi hamda tayinlash buyrug'i",
+    "Taklif etilayotgan sport anjomlarining rasmlari bilan yozma taklif",
+    "Mahsulotlarga kafolat xati (kafolat muddati ko'rsatilgan)",
+    "Mahsulotlarga sertifikat",
+    "Sohadagi ish tajribasini tasdiqlovchi hujjat",
+    "Ishtirokchining moliyaviy aylanmasi haqida ma'lumot",
+    "Soliq qarzi yo'qligi, bankrotlik yo'qligi va insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumotlar",
+    "Majburiy ijro byurosi ma'lumotlar bazasida bajarilmagan majburiyat yo'qligi haqida ma'lumot",
+    "Taklif kafolati (3%)"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+"lot_id": 525194, "backend": "in-session", "model": "claude-sonnet-5-5",
+"sector": "other",
+"subject_uz": "Maktabgacha va maktab taʼlimi boʻlimiga qarashli maktablarga koʻmir tashish xizmati (2465,5 tonna)",
+"requirements": [
+{"kind":"technical","summary_uz":"Jami 2465,5 tonna koʻmir tashiladi, 1719 km, 1 km uchun 2800 soʻm; umumiy narx 252 000 000 soʻm.","summary_en":"Transport of 2465.5 tonnes of coal over 1719 km at 2800 UZS per km; total 252,000,000 UZS.","quote":"Жами 2465.5 тонна кўмир, 1719 км 1 км учун 2800 сўм умумий қиймати"},
+{"kind":"delivery","summary_uz":"Xizmatni bajarish muddati 10 kun.","summary_en":"The service must be completed within 10 days.","quote":"Хизматни бажариш муддати 10 кун."},
+{"kind":"payment","summary_uz":"Shartnoma imzolangach 30 foiz avans, xizmat bajarilgach 10 ish kuni ichida toʻliq hisob-kitob.","summary_en":"30 percent advance on signing, final settlement within 10 working days after completion.","quote":"Шартнома имзоланган кундан олдиндан 30% тўлов амалга оширилади"},
+{"kind":"qualification","summary_uz":"Shartnomani bajarish uchun zarur transport va texnikalar mavjud boʻlishi kerak.","summary_en":"Bidder must have the transport and equipment needed to perform the contract.","quote":"Шартномани бажариш учун зарур бўлган транспорт ва техникалар мавжудлиги"},
+{"kind":"qualification","summary_uz":"Moliyaviy koʻrsatkichlar, ishtirokchi haqida umumiy maʼlumot va umumiy ish tajribasi toʻgʻrisida maʼlumot taqdim etiladi.","summary_en":"Financial indicators, general bidder information and general work experience information must be provided.","quote":"Умумий иш тажрибаси тўғрисида маълумотлар"},
+{"kind":"qualification","summary_uz":"Kafolat xati va moddiy hamda kadrlar resurslari mavjudligi talab etiladi.","summary_en":"A guarantee letter and availability of material and staff resources are required.","quote":"Моддий, кадрлар ресурсларининг мавжудлиги;"},
+{"kind":"evaluation","summary_uz":"Baholash: texnik qism 70 foiz, narx 30 foiz, oʻtish bali 60; 8 ta mezon, ekspert baholaydi.","summary_en":"Evaluation: technical 70 percent, price 30 percent, pass mark 60; eight criteria scored by experts.","quote":"Иштирокчи ҳақида умумий маълумоти,"}
+],
+"flags": [
+{"type":"irrelevant_requirement","severity":"low",
+"quote":"кўринишларига йўл қўймаслик бўйича ариза тақдим этиш мажбурийлиги ҳақидаги талаб.",
+"explanation_uz":"5-mezon sarlavhasi ish sifatiga kafolat muddatini koʻrsatadi, lekin unga 20 ball beriladi va baholash matni sifatida faqat ariza topshirish majburiyati keltirilgan. Bu standart andoza matniga oʻxshaydi; ariza har bir ishtirokchi taqdim eta oladigan hujjat boʻlib, 20 ballni ekspert bahosi bilan bogʻlash ishtirokchilarni ajratish uchun maʼnoli asos boʻlmasligi mumkin.",
+"explanation_en":"Criterion 5 is headed as a warranty-period criterion and carries 20 points, but its scoring text is only an obligation to submit a statement. This looks like standard template wording; any bidder can provide such a statement, so tying 20 points to expert scoring may not distinguish bidders on anything relevant to hauling coal.",
+"rewrite_uz":"5-mezon: xizmat sifatiga kafolat muddati (oylarda) va kafolat sharoitlari; ball kafolat muddatiga mutanosib beriladi.",
+"rewrite_en":"Criterion 5: warranty period for service quality (in months) and warranty conditions; points awarded in proportion to the warranty period offered."}
+],
+"documents_needed_uz": ["Transport va texnikalar mavjudligi haqida maʼlumot","Moliyaviy koʻrsatkichlar toʻgʻrisida maʼlumot","Ishtirokchi haqida umumiy maʼlumot","Toʻlovga qobiliyatsizlik jarayonlari yoʻqligi haqida maʼlumot","Umumiy ish tajribasi toʻgʻrisida maʼlumot","Kafolat xati","Moddiy va kadrlar resurslari mavjudligi haqida maʼlumot","Ishtirokchi tomonidan talab etilgan ariza"]
+}

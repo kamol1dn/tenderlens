@@ -1,0 +1,89 @@
+{
+  "lot_id": 523745,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Muborak neft-gaz konlarida quduq geologik-texnologik tadqiqotlari: qatlam bosimi va haroratini o'lchash, GDI/GKI, PLT",
+  "requirements": [
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnoma summasining 15 foizi avans sifatida shartnoma ro'yxatdan o'tgach 15 kalendar kun ichida to'lanadi.",
+      "summary_en": "15 percent of the contract value is paid as an advance within 15 calendar days after registration.",
+      "quote": "kalendar kun ichida shartnoma summasining 15% miqdorida avans"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Qolgan 85 foiz oylik hisob-faktura va qabul qilish dalolatnomasi asosida 90 kalendar kun ichida to'lanadi.",
+      "summary_en": "The remaining 85 percent is paid within 90 calendar days against monthly invoices and acceptance acts.",
+      "quote": "hamda qabul qilish dalolatnomasiga asosan buyurtmachi tomonidan qabul qilingan hamda kreditorlik"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklif narxi boshlang'ich narxdan (QQS bilan 1 507 029 773 so'm) oshmasligi kerak.",
+      "summary_en": "The bid price must not exceed the start price (1,507,029,773 UZS including VAT).",
+      "quote": "Tanlov taklifida ko'rsatilgan narxlar boshlang'ich narxdan oshmasligi kerak."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklif ta'minoti (depozit yoki bank kafolati) talab qilinmaydi.",
+      "summary_en": "No bid security (deposit or bank guarantee) is required.",
+      "quote": "Tanlov taklifini ta'minlash uchun kafolat miqdori (depozit yoki bank kafolati): Talab qilinmaydi."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Takliflarni topshirishning oxirgi muddati 5 ish kuni deb ko'rsatilgan.",
+      "summary_en": "The deadline for submitting bids is stated as 5 working days.",
+      "quote": "Takliflarni topshirishning oxirgi muddati 5 ish kuni"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklif topshirilgan kundan kamida 90 kun amal qilishi kerak.",
+      "summary_en": "The bid must stay valid for at least 90 days from submission.",
+      "quote": "takliflar topshirilgan kundan boshlab kamida 90 kun."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi soliq organidan soliq qarzi yo'qligi haqida ma'lumotnoma taqdim etishi shart.",
+      "summary_en": "A tax-authority certificate confirming no tax debt must be provided.",
+      "quote": "soliq organlaridan olingan, soliq qarzdorligi mavjud emasligini tasdiqlovchi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kafolat xatida ishtirokchi mijoz bilan sud yoki arbitraj jarayonida emasligini tasdiqlaydi.",
+      "summary_en": "A guarantee letter must confirm the bidder is not in court or arbitration proceedings with the customer.",
+      "quote": "ishtirokchi mijoz bilan sud yoki arbitraj jarayoni holatida emas"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Moliyaviy holat (4-shakl) bilan birga moliyaviy hisobotlar nusxasi ilova qilinadi.",
+      "summary_en": "Copies of financial statements must accompany the financial position form (form 4).",
+      "quote": "Ishtirokchilar moliyaviy natijalar to'g'risidagi hisobotlarning (balanslarning) nusxalarini"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Texnik taklif bilan taklif etilayotgan xizmat xususiyatlarining qiyosiy jadvali taqdim etiladi.",
+      "summary_en": "The technical proposal must include a comparison table of the offered specifications.",
+      "quote": "varaqlarda taklif qilingan mahsulotlarning texnik xususiyatlarining qiyosiy jadvali"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik baholashdan o'tmagan takliflar chetlashtiriladi; texnik taklif 60 ballgacha baholanadi.",
+      "summary_en": "Bids failing the technical evaluation are excluded; the technical proposal is scored up to 60 points.",
+      "quote": "Takliflari texnik baholashdan o'tmagan ishtirokchilar tanlov jarayonidan chetlashtiriladi."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Xarid komissiyasi nomiga ariza (1-shakl)",
+    "Tashkilotning davlat ro'yxatidan o'tganligi to'g'risidagi guvohnoma",
+    "Kafolat xati: qayta tashkil etish, tugatish, sud yoki arbitraj jarayoni, muddati o'tgan qarz va sanksiyalar ro'yxati bo'yicha (2-shakl)",
+    "Tanlov ishtirokchisi haqida umumiy ma'lumot, ta'sischilar va foydali egalar (3-shakl)",
+    "Yetkazib berish (xizmat ko'rsatish) tajribasi to'g'risida ma'lumot",
+    "Moliyaviy holat to'g'risida ma'lumot va moliyaviy hisobotlar nusxasi (4-shakl)",
+    "Soliq va yig'imlar bo'yicha qarzi yo'qligi haqida soliq organi ma'lumotnomasi",
+    "Halollik majburiyatlari bayonoti (5-shakl)",
+    "Kontragent va sanksiyalar so'rovnomasi hamda tegishli hujjatlar (6-shakl)",
+    "Texnik taklif va xususiyatlarning qiyosiy jadvali (7-shakl)",
+    "Kafolat muddati va kafolat hajmi bo'yicha kafolat xati"
+  ]
+}

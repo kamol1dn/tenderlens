@@ -1,0 +1,123 @@
+{
+  "lot_id": 524574,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "UzAuto Motors Xorazm filiali ishlab chiqarish binosi payvandlash, yig'ish va bo'yash sexlari qurilish konstruksiyalarini texnik ko'rikdan o'tkazish va instrumental tekshirish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Sexlar binolarining qurilish konstruksiyalarini ko'rikdan o'tkazish, nuqson va shikastlanishlarni aniqlash hamda keyingi foydalanish bo'yicha tavsiyalar berish.",
+      "summary_en": "Inspect the building structures of the welding, assembly and paint shops, identify defects and damage and give recommendations for further use.",
+      "quote": "Ko‘rik natijalariga ko‘ra ishlab chiqarish korpusining payvandlash, yig‘ish va bo‘yash sexlari binolaridan keyingi foydalanish bo‘yicha tavsiyalar taqdim etish."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlar avans to'langan kundan boshlab 30 kalendar kun ichida bajarilishi kerak.",
+      "summary_en": "The work must be completed within 30 calendar days from the date the advance is paid.",
+      "quote": "Shartnoma bo‘yicha oldindan to‘lov o‘tkazilgan kundan boshlab 30 (o‘ttiz) kalendar kuni."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30 foiz avans shartnoma imzolangandan keyin 10 bank ish kunida, qolgan 70 foiz esa texnik xulosa topshirilib dalolatnoma imzolangach to'lanadi.",
+      "summary_en": "A 30 percent advance is paid within 10 banking days of signing; the remaining 70 percent is paid after the technical report is handed over and the acceptance act is signed.",
+      "quote": "Shartnomaning umumiy miqdoridan qolgan 70 % (yetmish foiz) texnik ko‘rik va instrumental tekshiruv ishlari bajarilib, texnik xulosa (hisobot) Buyurtmachiga topshirilgach"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Takliflar boshlang'ich narxdan oshmasligi kerak (QQSsiz 580 357 000 so'm, QQS bilan 650 000 000 so'm); zakalat 2 foiz.",
+      "summary_en": "Bids must not exceed the start price (580,357,000 UZS excluding VAT, 650,000,000 UZS including VAT); the deposit is 2 percent.",
+      "quote": "Boshlang‘ich narxi: QQS siz: 580 357 000 (besh yuz sakson million uch yuz ellik etti ming) so‘m, QQS bilan: 650 000 000 (olti yuz ellik million) so‘m."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi tarkibida xavf-xatarligi IV toifa obyektlar uchun sertifikatga ega kamida 1 nafar loyiha bosh muhandisi bo'lishi kerak.",
+      "summary_en": "The bidder must have at least one chief project engineer holding a certificate for risk-category IV facilities.",
+      "quote": "Ishtirokchi tarkibida xavf-xatarligi IV toifa obyektlar uchun sertifikatga ega kamida 1 nafar loyiha bosh muhandisi mavjudligi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Bino-inshootlarni texnik va instrumental ko'rikdan o'tkazish uchun IV-toifa litsenziya talab qilinadi (10 ball).",
+      "summary_en": "A category IV licence for technical and instrumental inspection of buildings and structures is required (10 points).",
+      "quote": "Bino-inshootlarni texnik va instrumental ko‘rikdan o‘tkazish ishlarini bajarish uchun IV-toifa litsenziya bo‘lishi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Akkreditatsiyadan o'tgan qurilish laboratoriyasi bo'lsa 10 ball, shunday laboratoriya bilan shartnoma bo'lsa 5 ball beriladi.",
+      "summary_en": "An accredited construction laboratory scores 10 points; a contract with such a laboratory scores 5 points.",
+      "quote": "Akkreditatsiyadan o‘tgan qurilish laboratoriyasining mavjudligi yoki akkreditatsiyadan o‘tgan qurilish laboratoriyasi bilan tuzilgan shartnoma mavjudligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Sanoat binolarini texnik va instrumental ko'rikdan o'tkazish bo'yicha bajarilgan obyektlar soniga qarab 0 dan 10 ballgacha beriladi.",
+      "summary_en": "Between 0 and 10 points are given by the number of industrial buildings previously inspected.",
+      "quote": "Sanoat binolarini texnik va instrumental ko‘rikdan o‘tkazish yo‘nalishida bajarilgan ishlari to‘g‘risida ma’lumot."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ilmiy darajaga ega mutaxassis bo'lsa 10 ball, bo'lmasa 0 ball; texnik qismda o'tish bali 40 balldan 30.",
+      "summary_en": "A specialist with an academic degree gives 10 points, otherwise 0; the pass mark for the technical part is 30 of 40.",
+      "quote": "Ilmiy daraja to‘g‘risidagi diplom nusxasi va mutaxassisning ishtirokchi tarkibida ekanligini tasdiqlovchi hujjat."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi kadr resursi bo'yicha my.mehnat.uz hujjatini, soliq, bankrotlik va ijro byurosi bo'yicha qarzi yo'qligi haqidagi hujjatlarni taqdim etadi.",
+      "summary_en": "The bidder submits a staff-resource document from the labour portal and documents showing no tax debt, bankruptcy or unpaid court-enforcement obligations.",
+      "quote": "Resurslarning mavjudligini tasdiqlovchi kafolat xati (2-shakl) va kadr resursi bo‘yicha tasdiqlovchi hujjat."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Narx 100 foiz: texnik va malakaviy tanlovdan o'tgan eng past narxli ishtirokchi g'olib bo'ladi.",
+      "summary_en": "Price counts for 100 percent: the lowest price among bidders who pass the qualification and technical stages wins.",
+      "quote": "Malakaviy va texnik tanlashdan o‘tgan eng past narxni belgilagan ishtirokchi narx qismi bo‘yicha eng yuqori ball to‘playdi."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Ilmiy darajaga ega mutaxassislarning mavjudligi. Ilmiy daraja to‘g‘risidagi diplom nusxasi va mutaxassisning ishtirokchi tarkibida ekanligini tasdiqlovchi hujjat.",
+      "explanation_uz": "Ilmiy darajali mutaxassis uchun 10 ball beriladi (0 yoki 10), texnik mezonlar yig'indisi 40 ball, o'tish bali esa 30. Shu sababli bunday mutaxassisi yo'q ishtirokchi qolgan uchala mezonda ham to'liq ball (laboratoriya 10, 16 va undan ko'p obyekt 10, litsenziya 10) olgandagina o'tadi; laboratoriya bilan shartnoma tuzgan ishtirokchi esa eng ko'pi bilan 25 ball oladi va chetlashtiriladi. Litsenziya va muhandis sertifikati talab qilinganda ilmiy daraja shart ekanligi texnik topshiriqda asoslanmagan.",
+      "explanation_en": "A specialist with an academic degree is worth 10 points (0 or 10), the technical criteria total 40 points and the pass mark is 30. A bidder without such a specialist therefore passes only by scoring full marks on all other criteria (laboratory 10, 16 or more objects 10, licence 10); a bidder that only has a contract with a laboratory can score at most 25 and is disqualified. The specification does not explain why a degree is needed on top of the required licence and engineer's certificate.",
+      "rewrite_uz": "Ilmiy daraja talabini olib tashlang yoki uni ball emas, qo'shimcha (tanlov) mezon sifatida kiriting; zarur malaka litsenziya va loyiha bosh muhandisi sertifikati bilan tasdiqlansin.",
+      "rewrite_en": "Remove the academic-degree requirement or treat it as an optional bonus rather than a gating score; let the required competence be shown by the licence and the chief engineer's certificate."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Akkreditatsiyadan o‘tgan qurilish laboratoriyasining mavjudligi yoki akkreditatsiyadan o‘tgan qurilish laboratoriyasi bilan tuzilgan shartnoma mavjudligi",
+      "explanation_uz": "Shartnoma loyihasining 4.1-bandi ishlarni akkreditatsiyadan o'tgan laboratoriya yoki u bilan tuzilgan shartnoma asosida bajarishga ruxsat beradi, lekin shartnoma bo'yicha ishtirokchi 5 ball, o'z laboratoriyasi bor ishtirokchi esa 10 ball oladi. 30 ballik o'tish bali sharoitida 5 ball farq laboratoriyasi bo'lmagan ishtirokchini deyarli o'tkazmaydi.",
+      "explanation_en": "Clause 4.1 of the draft contract allows the work to be done with an accredited laboratory or one engaged under contract, yet a contract laboratory scores 5 points and an owned laboratory 10. With a pass mark of 30 out of 40, this 5-point gap makes it hard for bidders without their own laboratory to qualify.",
+      "rewrite_uz": "Akkreditatsiyadan o'tgan laboratoriya (o'zining yoki shartnoma asosidagi) mavjud bo'lsa, ikkala holatda ham bir xil to'liq ball berilsin.",
+      "rewrite_en": "Give the same full score for an accredited laboratory whether owned or engaged under contract."
+    },
+    {
+      "type": "short_window",
+      "severity": "low",
+      "quote": "Takliflarni berish muddati: 5 (besh) ish kuni.",
+      "explanation_uz": "Takliflar uchun atigi 5 ish kuni berilgan (e'lon 2026-yil 17-noyabrda, yopilish 24-noyabrda). Shu vaqt ichida laboratoriya akkreditatsiyasi, ilmiy daraja diplomi, bajarilgan obyektlar ro'yxati va shartnoma hamda dalolatnoma nusxalari, to'liq kompleks tekshiruv anketasini tayyorlash qiyin bo'lishi mumkin.",
+      "explanation_en": "Only 5 working days are given for bids (published 17 November 2026, closing 24 November). That may be too short to assemble the laboratory accreditation, degree diploma, list of completed objects with contract and acceptance-act copies, and the full due-diligence questionnaire.",
+      "rewrite_uz": "Takliflarni berish muddati kamida 10-15 ish kuni qilib belgilansin.",
+      "rewrite_en": "Set the bid submission period to at least 10-15 working days."
+    }
+  ],
+  "documents_needed_uz": [
+    "Komissiya raisi nomiga ishtirok etish arizasi (1-shakl)",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi, korxona nizomi va rahbar pasporti nusxalari",
+    "Resurslar mavjudligi to'g'risida kafolat xati (2-shakl)",
+    "Kadr resursi bo'yicha tasdiqlovchi hujjat (my.mehnat.uz)",
+    "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik yo'qligi haqidagi hujjat (my.soliq.uz)",
+    "Bankrotlik tartib-taomillari yo'qligi haqidagi hujjat",
+    "Insofsiz ijrochilar reyestrida qayd etilmaganlik haqidagi hujjat",
+    "Majburiy ijro byurosi bo'yicha bajarilmagan majburiyatlar yo'qligi haqidagi ma'lumotnoma",
+    "Halollik majburiyati to'g'risidagi ariza (3-shakl)",
+    "Kompleks tekshiruv anketasi (DDQ, 5-shakl)",
+    "Texnik taklif (4-shakl) va texnik hujjatlar",
+    "Ishlarni bajarish shartlari, muddatlari va to'lov shartlari to'g'risida ma'lumot (6-shakl)",
+    "Laboratoriyaning akkreditatsiya guvohnomasi yoki laboratoriya bilan tuzilgan shartnoma nusxasi",
+    "Sanoat binolarini ko'rikdan o'tkazish bo'yicha bajarilgan ishlar ro'yxati, shartnomalar va qabul dalolatnomalari nusxalari",
+    "Ilmiy daraja diplomi nusxasi va mutaxassisning ishtirokchi tarkibida ekanligini tasdiqlovchi hujjat",
+    "Bino-inshootlarni texnik va instrumental ko'rikdan o'tkazish uchun IV-toifa litsenziya",
+    "IV toifa obyektlar uchun sertifikatga ega loyiha bosh muhandisi haqidagi hujjat"
+  ]
+}

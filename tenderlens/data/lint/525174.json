@@ -1,0 +1,93 @@
+{
+  "lot_id": 525174,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "education",
+  "subject_uz": "Radiochastota va akustik o'lchovlar uchun anexoik ekranlangan kamerani loyihalash, ishlab chiqarish, yetkazib berish, montaj qilish va ishga tushirish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Kamera 1-18 GHz diapazonida kamida 80 dB ekranlash samaradorligini ta'minlashi kerak; yuqori kafolat ko'proq ball beradi (100 dB dan 12 ball).",
+      "summary_en": "The chamber must give at least 80 dB shielding effectiveness over 1-18 GHz; higher guaranteed values earn more points (12 points at 100 dB or more).",
+      "quote": "1,0-18,0 GHz diapazonida ekranlash samaradorligi kamida 80 dB."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Tashqi gabarit 8 600 x 5 500 x 4 400 mm dan oshmasligi, yutuvchisiz ichki bo'shliq kamida 8 000 x 4 000 x 4 000 mm bo'lishi kerak.",
+      "summary_en": "External size must not exceed 8,600 x 5,500 x 4,400 mm and the inner space without absorbers must be at least 8,000 x 4,000 x 4,000 mm.",
+      "quote": "Yutuvchi qoplamalarsiz asosiy ichki bo'shliq kamida 8 000 х 4 000 х 4 000 mm."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik ustunliklar uchun jami 60 ball, narx uchun 40 ball beriladi; alohida o'tish bali qo'llanmaydi.",
+      "summary_en": "Technical advantages carry 60 points and price 40; no separate technical pass mark applies.",
+      "quote": "Texnik usfunliklar uchun jami 60 ball beriladi."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "To'liq bajarish muddati avans tushgan kundan ko'pi bilan 180 kalendar kun; 110 kun va undan kam bo'lsa 8 ball.",
+      "summary_en": "Full completion within at most 180 calendar days from receipt of the advance; 110 days or less earns 8 points.",
+      "quote": "kalendar kundan hisoblab ko'pi bilan 1 80 kalendar kun"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kafolat yakuniy qabul sanasidan kamida 12 oy; 36 oy va undan ortiq bo'lsa 8 ball.",
+      "summary_en": "Warranty at least 12 months from final acceptance; 36 months or more earns 8 points.",
+      "quote": "kafolat yakuniy qabul sanasidan kamida 12 оу;"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnoma kuchga kirgach, hisobnoma olingandan keyin 5 ish kunida 15% avans, qolgan 85% yakuniy qabuldan keyin 10 ish kunida to'lanadi.",
+      "summary_en": "15% advance within 5 working days of the invoice after the contract takes effect; 85% within 10 working days after final acceptance.",
+      "quote": "yakuniy qabul dalolatnomasi va tegishli hisob-kitob hu!atlari olingach 10 ish kunida."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlab chiqaruvchining eksklyuziv dileri bo'lish talab etilmaydi; qonuniy ta'minot hujjatlari ko'rsatiladi.",
+      "summary_en": "Being an exclusive dealer of the manufacturer is not required; lawful supply documents are shown instead.",
+      "quote": "Ishlab chiqaruvchining eksklyuziv dileri bo'lish talab etilmaydi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oxirgi 60 oyda bajarilgan o'xshash shartnomalar: 1 ta 2 ball, 2 ta va undan ko'p 4 ball.",
+      "summary_en": "Similar contracts in the last 60 months: one earns 2 points, two or more earn 4 points.",
+      "quote": "Bajarilgan o‘xshash loyihalar (Oxirgi 60 oyda bajarilgan o‘xshash shartnomalar)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishtirokchining yoki taklif etilgan kamera ishlab chiqaruvchisining tajribasi qabul qilinadi.",
+      "summary_en": "The bidder's or the proposed chamber manufacturer's experience is accepted.",
+      "quote": "Ishtirokchining yoki taklif etilgan kamera ishlab chiqaruvchisining tajribasi qabul qilinadi."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Boshlang'ich lot narxidan oshgan taklif rad etiladi.",
+      "summary_en": "A bid above the initial lot price is rejected.",
+      "quote": "Boshlang'ich lot narxidan oshgan taklif rad etiladi."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Boshlang'ich lot narxidan oshgan taklif rad etiladi.",
+      "explanation_uz": "Tanlash hujjatlarida boshlang'ich narx 2 535 000 000 so'm deb yozilgan, platformadagi lot sarlavhasida esa 2 532 000 000 so'm ko'rsatilgan (farq 3 000 000 so'm). Narxi shu ikki qiymat orasida bo'lgan taklif ayrim hollarda rad etilishi mumkin, shuning uchun qaysi narx amal qilishini aniqlashtirish kerak.",
+      "explanation_en": "The tender documents give an initial price of 2,535,000,000 UZS while the platform lot header shows 2,532,000,000 UZS (a difference of 3,000,000). A bid priced between the two could be rejected under one figure but not the other, so the applicable price should be clarified.",
+      "rewrite_uz": "Boshlang'ich lot narxi elektron tizimdagi lot sahifasida ko'rsatilgan summaga teng bo'lib, tanlash hujjatlaridagi summa ham unga mos kelishi kerak.",
+      "rewrite_en": "The initial lot price is the amount shown on the lot page of the electronic system, and the figure in the tender documents should match it."
+    }
+  ],
+  "documents_needed_uz": [
+    "Kafolat xati: bajarish muddati, kafolatlangan texnik ko'rsatkichlar, kafolat va servis muddatlari (1-shakl)",
+    "Ishtirokchi rekvizitlari, o'xshash bajarilgan shartnomalar va mutaxassislar ro'yxati (2-shakl)",
+    "Taklif etiladigan kamera pasporti va kafolatlangan ko'rsatkichlar jadvali (3-shakl)",
+    "Narx taklifi va K01-K12 bo'yicha narx taqsimoti (4-shakl)",
+    "Deklaratsiya (5-shakl)",
+    "Texnik muvofiqlik va yetkazib berish tarkibi javob shakllari",
+    "Dastlabki chizmalar, materiallar va filtrlar hujjatlari, ishlab chiqaruvchining sinov ma'lumotlari",
+    "Bosqichli bajarish jadvali, RCh va akustik qabul sinovlari dasturlari",
+    "Ishlab chiqaruvchining loyihada ishtirok etish majburiyati (uning tajribasidan foydalanilsa)",
+    "Qonuniy ta'minot hujjatlari (ishlab chiqaruvchi, distribyutor yoki boshqa qonuniy manba)",
+    "Shartnoma va bajarilganlikni tasdiqlovchi qabul dalolatnomalari (o'xshash loyihalar uchun)"
+  ]
+}

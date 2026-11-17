@@ -1,0 +1,141 @@
+{
+  "lot_id": 525355,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Koson 1-GTSdan tuman markazigacha bo'lgan o'rta bosimli D-325 mm yer osti gaz quvurini ichki qismidan \"shablayn\" usulida mukammal ta'mirlash",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Loyihani bajarish uchun zarur mashina-mexanizmlar va kichik mexanizatsiya vositalari mavjud bo'lishi kerak.",
+      "summary_en": "The bidder must have the machinery and small-scale mechanisation needed for the project.",
+      "quote": "Loyihani amalga oshirish uchun zarur bo'lgan mashina va mexanizmlarning hamda kichik hajmdagi mexanizatsiyalash vositalarining mavjudligi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Gaz xo'jaligida yer osti va yer usti po'lat va polietilen gaz tarmoqlarini qurish, ta'mirlash va topshirish bo'yicha litsenziya bo'lishi shart.",
+      "summary_en": "A licence for building, repairing and commissioning steel and polyethylene gas networks is mandatory.",
+      "quote": "yer osti va yer usti po’lat va polietilen gaz tarmoqlarini qurish, taʼmirlash, rejim-sozlash va foydalanishga topshirish boʻyicha litsenziyaga ega boʻlishi lozim"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Doimiy xodimlar soni 25 va undan ko'p bo'lsa 10 ball, 15 dan kam bo'lsa 0 ball va diskvalifikatsiya.",
+      "summary_en": "25 or more permanent staff earn 10 points; fewer than 15 earn 0 points and disqualification.",
+      "quote": "25 kishi va undan ortiq - 10 ball 15 dan 25 kishigacha - 5 bal 15 kishidan kam - 0 ball diskvalifikatsiya"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "O'xshash ishlar bo'yicha 6 va undan ko'p shartnoma uchun 10 ball, 1-4 ta uchun 2 ball.",
+      "summary_en": "6 or more similar contracts earn 10 points; 1-4 contracts earn 2 points.",
+      "quote": "6 va undan ortiq shartnomalar - 10 ball 4 dan 5 gacha shartnomalar - 5 ball 1 dan 4 gacha shartnomalar - 2 ball"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Loyihalash tashkilotlari reytingi DDD va undan yuqori bo'lsa 10 ball; D yoki reyting yo'q bo'lsa 0 ball va diskvalifikatsiya.",
+      "summary_en": "Design-organisation rating DDD or above earns 10 points; D or no rating earns 0 points and disqualification.",
+      "quote": "Reyting DDD va undan yuqori - 10 ball. Reyting DD – 5 ball. D yoki reyting bo'lmasa - 0 ball diskvalifikatsiya"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "2025-yilgi bank aylanmasi 5 mlrd so'mdan yuqori bo'lsa 10 ball, 1 mlrd so'mgacha bo'lsa 2 ball.",
+      "summary_en": "2025 bank turnover of 5 bn UZS or more earns 10 points; under 1 bn earns 2 points.",
+      "quote": "5 mlrd so'm va undan yuqori -10 ball 1 mlrdan 5 mlrd so‘mgacha - 5 ball 1 milliard so‘mgacha - 2 ball"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kompaniya 10 yil va undan ko'p faoliyat yuritsa 10 ball, 1-5 yil bo'lsa 2 ball.",
+      "summary_en": "A company operating 10 years or more earns 10 points; 1-5 years earns 2 points.",
+      "quote": "10 yil va undan yuqori - 10 ball 5 yildan 10 yilgacha - 5 ball 1 yildan 5 yilgacha - 2 ball"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Obyekt marjinal qiymatining 20 foizi miqdorida aylanma mablag'lar mavjudligi tasdiqlanishi kerak (ha/yo'q, 5 ball).",
+      "summary_en": "Working capital of 20% of the object's value must be confirmed (yes/no, 5 points).",
+      "quote": "Moliyaviy imkoniyatlar. Buyurtmachi tomonidan belgilangan ob'ektning marjinal qiymatining 20% miqdorida aylanma mablag'larning mavjudligi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kafolat xati: qayta tashkil etish, bankrotlik, sud nizolari va bajarilmagan majburiyatlar yo'qligi, subpudratchi faqat buyurtmachi roziligi bilan jalb qilinadi.",
+      "summary_en": "Guarantee letter: no reorganisation, bankruptcy, disputes or unperformed obligations; no subcontractor without the customer's consent.",
+      "quote": "Ishtirokchi qayta tashkil etilish, tugatish yoki bankrotlik jarayonida emasligi, Buyurtmachi bilan sud yoki hakamlik muhokamasi holatida emasligi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Gaz quvuri uzunligi 0,532 km (D-325 mm ichiga polietilen quvur tortiladi).",
+      "summary_en": "Pipeline length is 0.532 km (polyethylene pipe pulled inside the existing D-325 mm line).",
+      "quote": "Magistral gaz quvurining uzunligi (hajmi) – 0,532 km."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Avans 30 foiz, joriy to'lovlar 40 foiz, 30 foiz kafolat muddati tugagach (1 yil ichida) to'lanadi.",
+      "summary_en": "30% advance, 40% progress payments, and 30% after the warranty period (within 1 year).",
+      "quote": "Barcha turdagi ishlaming narxining 30% - ob'ektni ishlatish uchun kafolat muddati tugaganidan keyin (1 yil ichida)"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Takliflarni topshirish muddati e'lon kunidan boshlab 5 ish kuni.",
+      "summary_en": "Bids are due 5 working days from publication.",
+      "quote": "5 (beslr) ish kun etib belgilansin"
+    }
+  ],
+  "flags": [
+    {
+      "type": "irrelevant_requirement",
+      "severity": "high",
+      "quote": "Reyting DDD va undan yuqori - 10 ball. Reyting DD – 5 ball. D yoki reyting bo'lmasa - 0 ball diskvalifikatsiya",
+      "explanation_uz": "Ball Qurilish vazirligining loyihalash tashkilotlari reytingiga bog'langan, D yoki reytingsiz ishtirokchi 0 ball oladi va diskvalifikatsiya qilinadi. Bu ishda tayyor ekspertizadan o'tgan loyiha bo'yicha ta'mirlash bajariladi, loyihalash tashkiloti reytingi esa ish sifatiga bevosita aloqador emas. O'tish bali 75, maksimal ball esa 85 bo'lgani uchun 10 ballni yo'qotish deyarli saralashdan chiqib ketish demakdir.",
+      "explanation_en": "Points depend on the construction ministry's rating of design organisations, and a bidder with rating D or no rating gets 0 points and is disqualified. The work is a repair to an already-expertised design, and a design-organisation rating is not directly tied to repair quality. With a pass mark of 75 out of a maximum 85, losing these 10 points practically means failing the screening.",
+      "rewrite_uz": "Reyting bo'yicha ball olib tashlansin yoki uning o'rniga gaz quvurlarini ta'mirlash bo'yicha litsenziya va bajarilgan o'xshash ishlar baholansin; reyting yo'qligi diskvalifikatsiya sababi bo'lmasin.",
+      "rewrite_en": "Remove the rating score or replace it with the gas-pipeline repair licence and similar completed work; absence of a rating should not be a ground for disqualification."
+    },
+    {
+      "type": "excessive_financial",
+      "severity": "medium",
+      "quote": "5 mlrd so'm va undan yuqori -10 ball 1 mlrdan 5 mlrd so‘mgacha - 5 ball 1 milliard so‘mgacha - 2 ball",
+      "explanation_uz": "Lotning boshlang'ich narxi 738 214 477 so'm, ya'ni to'liq ball uchun talab qilinadigan 5 mlrd so'm bank aylanmasi lot qiymatidan taxminan 6,8 baravar ko'p. 1 mlrd so'mgacha aylanmali ishtirokchi 8 ball yo'qotadi; o'tish bali 75/85 bo'lgani uchun bu ularni saralashdan chiqarib yuborishi mumkin. Bundan tashqari, 20 foiz aylanma mablag' bo'yicha alohida mezon ham bor.",
+      "explanation_en": "The start price is 738,214,477 UZS, so the 5 bn UZS annual bank turnover needed for full points is about 6.8 times the lot value. A bidder with turnover below 1 bn loses 8 points, and with a pass mark of 75 out of 85 that can mean elimination. A separate criterion already checks working capital of 20% of the object value.",
+      "rewrite_uz": "Aylanma bo'yicha eng yuqori ball chegarasi lot qiymatining 1-1,5 baravari (taxminan 1 mlrd so'm) etib belgilansin yoki bu mezon faqat \"ha/yo'q\" ko'rinishida qoldirilsin.",
+      "rewrite_en": "Set the top turnover band at 1 to 1.5 times the lot value (about 1 bn UZS) or keep this criterion as a yes/no check only."
+    },
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "6 va undan ortiq shartnomalar - 10 ball 4 dan 5 gacha shartnomalar - 5 ball 1 dan 4 gacha shartnomalar - 2 ball",
+      "explanation_uz": "To'liq ball uchun 6 va undan ko'p o'xshash shartnoma talab qilinadi, 1-4 shartnoma esa faqat 2 ball beradi (8 ball farq). Ish hajmi 0,532 km quvur va 738 mln so'm bo'lgan lot uchun bu ko'p, o'tish bali 75/85 bo'lgani uchun esa amalda 6 ta shartnomasiz ishtirokchi chiqib ketadi. Oraliqlar ham bir-biriga to'g'ri kelmaydi (\"1 dan 4\" va \"4 dan 5\").",
+      "explanation_en": "Full points need 6 or more similar contracts, while 1-4 contracts earn only 2 points (an 8-point gap). For a 0.532 km pipeline lot worth 738 million UZS this is demanding, and with a pass mark of 75 out of 85 a bidder without 6 contracts is effectively out. The bands also overlap (\"1 to 4\" and \"4 to 5\").",
+      "rewrite_uz": "Tajriba bo'yicha to'liq ball 2-3 ta o'xshash shartnoma uchun berilsin, oraliqlar bir-biriga to'g'ri kelmasligi uchun aniq ajratilsin (masalan, 1, 2-3, 4 va undan ko'p).",
+      "rewrite_en": "Award full experience points for 2 to 3 similar contracts and define non-overlapping bands (for example 1, 2-3, 4 or more)."
+    },
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "25 kishi va undan ortiq - 10 ball 15 dan 25 kishigacha - 5 bal 15 kishidan kam - 0 ball diskvalifikatsiya",
+      "explanation_uz": "Doimiy xodimlar soni 15 dan kam bo'lsa ishtirokchi diskvalifikatsiya qilinadi, 25 va undan ko'p bo'lsa 10 ball oladi. 0,532 km quvurni ta'mirlash uchun bunday katta shtat shart emas; kichik, ammo litsenziyali va jihozlangan korxonalar chetlashtiriladi yoki ball yo'qotadi.",
+      "explanation_en": "A bidder with fewer than 15 permanent staff is disqualified and 25 or more earn the full 10 points. A repair of 0.532 km of pipeline does not obviously need a workforce that large, so small licensed and equipped firms are excluded or lose points.",
+      "rewrite_uz": "Xodimlar soni bo'yicha diskvalifikatsiya olib tashlansin va to'liq ball 8-10 ta malakali mutaxassis va ishchi uchun berilsin (lot hajmiga mos).",
+      "rewrite_en": "Remove disqualification on headcount and award full points for 8 to 10 qualified specialists and workers, in line with the size of the lot."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "10 yil va undan yuqori - 10 ball 5 yildan 10 yilgacha - 5 ball 1 yildan 5 yilgacha - 2 ball",
+      "explanation_uz": "Kompaniya tashkil etilganidan keyingi yillar soni 10 ballgacha farq beradi (10 yil va undan ko'p - 10 ball, 1-5 yil - 2 ball). Yosh kompaniyaning litsenziyasi, texnikasi va tajribali xodimlari bo'lsa ham 8 ball yo'qotadi; o'tish bali 75/85 bo'lgani uchun bu muhim.",
+      "explanation_en": "Years since company registration create up to an 8-point gap (10+ years earns 10, 1-5 years earns 2). A younger company with the licence, equipment and experienced staff still loses 8 points, which matters with a 75 out of 85 pass mark.",
+      "rewrite_uz": "Kompaniya yoshi bo'yicha ball olib tashlansin yoki tajriba mezoni bilan birlashtirilsin.",
+      "rewrite_en": "Remove the company-age score or merge it into the experience criterion."
+    }
+  ],
+  "documents_needed_uz": [
+    "Texnika ro'yxati yoki texnika ijarasi shartnomasi nusxasi",
+    "Doimiy xodimlar to'g'risida my.gov.uz dan ma'lumotnoma",
+    "Yuridik shaxsni ro'yxatdan o'tkazish guvohnomasi nusxasi",
+    "O'xshash bajarilgan ishlar ro'yxati, dalolatnomalar, fotosuratlar va shartnomalar nusxalari",
+    "reyting.mc.uz saytidan reyting bahosidan ko'chirma",
+    "2025-yil uchun bank tomonidan tasdiqlangan aylanma mablag'lar ma'lumotnomasi",
+    "Aylanma mablag'lar mavjudligi to'g'risida ma'lumotnoma",
+    "Kafolat xati (qayta tashkil etish, bankrotlik, sud nizolari va subpudratchi bo'yicha)",
+    "Ishtirokchiga berilgan ijobiy fikr-mulohazalar nusxalari",
+    "Gaz tarmoqlarini qurish, ta'mirlash va topshirish bo'yicha litsenziya nusxasi",
+    "Taklif kafolati (3 foiz)"
+  ]
+}

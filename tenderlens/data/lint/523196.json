@@ -1,0 +1,100 @@
+{
+ "lot_id": 523196,
+ "backend": "in-session",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "sector": "food",
+ "subject_uz": "Ichki ishlar boshqarmasi qaramog'idagi voyaga yetmaganlar uchun issiq ovqat yetkazib berish bo'yicha autsorsing xizmati (4-chorak)",
+ "requirements": [
+  {
+   "kind": "evaluation",
+   "summary_uz": "Issiq ovqat yetkazish bo'yicha SES ruxsatnomasi talab qilinadi; 2026-yilda olingan bo'lsa 20 ball.",
+   "summary_en": "A sanitary (SES) permit for hot meal delivery is required; one obtained in 2026 earns 20 points.",
+   "quote": "Иссиқ овқат етказиб бериш бўйича СЕСдан рухсатнома."
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Bank ma'lumotnomasi bilan tasdiqlangan aylanma mablag'lar mavjudligi ball beradi.",
+   "summary_en": "Working capital confirmed by a bank certificate is scored.",
+   "quote": "Аутсорсинг хизматлари бўйича айланма маблағларининг мавжудлиги"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Oshpaz, dietolog, haydovchi va xizmatchilar soni ball bilan baholanadi; 10 tadan ko'p bo'lsa 20 ball.",
+   "summary_en": "The number of cooks, dietitians, drivers and staff is scored; more than 10 earns 20 points.",
+   "quote": "10 тадан кўп ошпаз, диетолог, шофёр ва хизматчилар учун 20 балл"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Budjet tashkilotlari bilan avval bajarilgan shartnomalar soni ball beradi; 10 tadan ko'p bo'lsa 20 ball.",
+   "summary_en": "The number of earlier fully performed contracts with budget bodies is scored; more than 10 earns 20 points.",
+   "quote": "Бюджет ва бюджетдан маблағ олувчиларга шу каби хизатларни етказиб берганлиги тўғрисида аввал тузилган шартномалар"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Issiq ovqat yetkazish uchun transport vositalari ishtirokchi nomida yoki ijara asosida bo'lishi kerak (10 ball).",
+   "summary_en": "Vehicles for hot meal delivery, owned or leased, are scored (10 points).",
+   "quote": "Иссиқ овқат етказиш бўйича транспортларнинг мавжудлиги"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Taomnoma menyusi taqdim etilsa 10 ball beriladi.",
+   "summary_en": "Submitting a menu earns 10 points.",
+   "quote": "Махбуслар учун меъёрий таомнома менюси тақдим қилса 10 балл"
+  },
+  {
+   "kind": "payment",
+   "summary_uz": "30 foiz avans shartnoma imzolanib, g'aznachilikda ro'yxatdan o'tgach 10 kun ichida to'lanadi.",
+   "summary_en": "A 30% advance is paid within 10 days after the contract is signed and registered with the Treasury.",
+   "quote": "30% олдиндан т}лов томонлар томонидан"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi insofsiz ijrochilar yagona reestrida bo'lmasligi kerak.",
+   "summary_en": "The bidder must not be on the unified register of unfair suppliers.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги."
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Tanlov 70/30 ball usulida o'tkaziladi; o'tish bali 40.",
+   "summary_en": "Scoring is 70% technical and 30% price; pass mark is 40.",
+   "quote": "texnik qism 70.0%, narx 30.0%, o'tish bali 40"
+  }
+ ],
+ "flags": [
+  {
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "камида 3 (уч) ойлик шартнома суммасига тенг айланма маблагларининг",
+   "explanation_uz": "Baholash mezonida kamida 3 oylik shartnoma summasiga teng aylanma mablag' borligini bank ma'lumotnomasi bilan tasdiqlash so'ralgan (10 ball, undan ko'p bo'lsa 20 ball, aks holda 0 ball). Shartnoma bir chorakka tuzilgani uchun bu amalda shartnomaning to'liq summasini hisobvaraqda saqlashni anglatadi. Kichik ovqatlantirish korxonalari uchun bu og'ir shart bo'lib, ball yo'qotishga olib kelishi mumkin.",
+   "explanation_en": "A scored criterion asks for a bank statement showing working capital equal to at least 3 months of the contract sum (10 points, 20 for more, 0 otherwise). The contract itself covers one quarter, so in effect the bidder must hold the whole contract value in cash. That is heavy for small caterers and may cost them points.",
+   "rewrite_uz": "«Ishtirokchi kamida bir oylik shartnoma summasiga teng aylanma mablag'ga yoki shu miqdordagi bank kafolatiga (kredit liniyasiga) ega ekanini tasdiqlaydi» deb o'zgartirilsin.",
+   "rewrite_en": "Change to: \"The bidder confirms working capital equal to at least one month of the contract sum, or a bank guarantee (credit line) of the same amount.\"",
+   "added_by": "second pass"
+  },
+  {
+   "type": "excessive_experience",
+   "severity": "medium",
+   "quote": "10 тадан кўп ошпаз, диетолог, шофёр ва хизматчилар учун 20 балл",
+   "explanation_uz": "Lot qiymati taxminan 23,4 mln so'm bo'lib, ovqatlanuvchilar soni cheklangan. Shunga qaramay xodimlar soni bo'yicha 10 tadan ko'p kishi uchun eng yuqori ball, 3-5 kishi uchun esa ancha past ball beriladi. Bu kichikroq, lekin ishni uddalay oladigan tashkilotlar ballini kamaytirishi mumkin.",
+   "explanation_en": "The lot is worth about 23.4 m UZS for a limited number of diners, yet the top score goes to bidders with more than 10 cooks, dietitians, drivers and staff, and much less to 3-5 people. This may cost points for smaller suppliers who could do the job.",
+   "rewrite_uz": "Ishni bajarish uchun zarur bo'lgan malakali oshpaz va dietolog mavjudligi (kamida 2 nafar) tasdiqlansa, to'liq ball beriladi.",
+   "rewrite_en": "Full points are given if the availability of the qualified cooks and a dietitian needed for the job (at least 2) is confirmed."
+  }
+ ],
+ "documents_needed_uz": [
+  "Issiq ovqat yetkazish bo'yicha SES ruxsatnomasi",
+  "Aylanma mablag'lar mavjudligi haqida bank ma'lumotnomasi",
+  "my.mehnat.uz ma'lumotlari: oshpaz, dietolog va xizmatchilar ro'yxati",
+  "Budjet tashkilotlari bilan avval bajarilgan shartnomalar va hisob-fakturalar",
+  "Transport vositalari hujjatlari yoki ijara shartnomasi",
+  "Taomnoma menyusi",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+  "Soliq qarzi yo'qligi haqida ma'lumotnoma"
+ ],
+ "first_pass_model": "claude-sonnet-5-5",
+ "second_pass": {
+  "model": "claude-fable-5-2",
+  "backend": "in-session",
+  "note": "demo lot re-read by the stronger model; flag added with a verbatim quote"
+ }
+}

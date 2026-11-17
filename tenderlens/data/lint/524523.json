@@ -1,0 +1,120 @@
+{
+  "lot_id": 524523,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "Sun'iy intellekt tizimlari uchun server qurilmalari, kommutator, uzluksiz quvvat manbai va telekommunikatsiya shkaflarini xarid qilish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Yetkazib beriladi: 2 ta server, 2 ta kommutator, 2 ta uzluksiz quvvat manbai va 2 ta telekommunikatsiya shkafi.",
+      "summary_en": "Deliverables: 2 servers, 2 switches, 2 UPS units and 2 telecom cabinets.",
+      "quote": "Server - 2 dona Kommutator - 2 dona Uzluksiz quvvat manbai - 2 dona"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Server protsessori: har bir protsessorga kamida 96 yadro (kamida 2 protsessor).",
+      "summary_en": "Server CPU: at least 96 cores per processor (at least 2 processors).",
+      "quote": "Yadrolar soni - Наr Ьir protsessorga kamida 96 ta"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Operativ xotira kamida 768 GB (kamida 24 modul), DDR5 5600 MHz.",
+      "summary_en": "At least 768 GB RAM (at least 24 modules), DDR5 5600 MHz.",
+      "quote": "operativ xotira - Kamida 768 GВ, kamida 24 ta o'rnatilgan xoti:a plankasi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Har bir serverda kamida 4 ta GPU, har biri kamida 96 GB videoxotiraga ega, CUDA qoʻllovi majburiy.",
+      "summary_en": "At least 4 GPUs per server, each with at least 96 GB video memory, CUDA support mandatory.",
+      "quote": "protsessorlar (GPU) - Har bir sеrчеrdа kamida 4 dona"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Masofadan boshqarish va diagnostika imkoniyati (iDRAC, iLO yoki ekvivalenti) bolishi kerak.",
+      "summary_en": "Remote management and diagnostics (iDRAC, iLO or equivalent) are required.",
+      "quote": "imkoniyatiga ega bo'lishi kerak (masalan, iDRAC, iLC yoki ekvivalenti)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchilar Common Criteria EAL2+ sertifikatini va sinov hisobotlarini taqdim etishi kerak.",
+      "summary_en": "Bidders must provide a Common Criteria EAL2+ certificate and test reports.",
+      "quote": "Ishtirokchilar СС EAL2+ sertifikatini taqdim etishlari kerak"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati: shartnoma va avans toʻlovidan keyin 65 kalendar kun (texnik topshiriqda 30 ish kuni koʻrsatilgan).",
+      "summary_en": "Delivery within 65 calendar days of contract and advance payment (the technical task elsewhere states 30 working days).",
+      "quote": "boshlab 65 (oltmish besh) kalendar kunidan oshmagan muddatda Buyurtmachining manziliga yetkazib berilishi lozim."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat muddati: qabul qilingan kundan boshlab 5 yil.",
+      "summary_en": "Warranty: 5 years from acceptance.",
+      "quote": "Kafolat muddati obyekt Buyurtmachi tomonidan qabul qilingan kundan boshlab 5 (besh) yil muddatda."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30 foiz avans shartnoma tuzilgandan keyin 10 ish kuni ichida, qolgan 70 foiz yetkazib berish va qabul qilishdan keyin 30 kun ichida toʻlanadi.",
+      "summary_en": "30% advance within 10 working days of contract; the remaining 70% within 30 days after delivery and acceptance.",
+      "quote": "miqdoridagi oldindan to'lov Shartnoma tuzilgan kundan boshlab 10 ish kuni ichida"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Tajriba: oxirgi yillarda yuqori unumdorlikli serverlarni yetkazish boyicha yakunlangan shartnomalar (5 va undan koʻp = 3 ball).",
+      "summary_en": "Experience: completed contracts for high-performance servers in recent years (5 or more = 3 points).",
+      "quote": "Ishtirokchining oxirgi yillar ichida yuqori unumdorlikli server uskunalarini yetkazib berish bo‘yicha to‘liq yakunlangan shartnomalar bo‘yicha tajribasi (4-sonli shaklga muvofiq)."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Bank ma'lumotnomasi bilan tasdiqlangan mablagʻ boshlangʻich narxning 20 foizidan oshsa 3 ball beriladi.",
+      "summary_en": "Funds shown by a bank certificate above 20% of the start price earn 3 points.",
+      "quote": "10,01% dan 15% gacha – 1 ball; 15,01% dan 20% gacha – 2 ball; 20% dan ortiq"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Respublika hududida servis markazi (oʻz yoki shartnoma asosidagi vakolatli) mavjudligi baholanadi.",
+      "summary_en": "A service centre in Uzbekistan (own or contracted authorised third party) is scored.",
+      "quote": "Respublika hududida servis markazi (texnik qo‘llab-quvvatlash xizmati) mavjudligi"
+    }
+  ],
+  "flags": [
+    {
+      "type": "narrow_params",
+      "severity": "medium",
+      "quote": "xotirasi kamida 9б GB, jami videoxotira hajmi esa kamida 384 GB bo'lishi 1ozim. 2.\\.20 CUDA qo'llovi - Majburiy",
+      "explanation_uz": "Talabda har bir serverga aynan 4 ta grafik protsessor, har birida kamida 96 GB videoxotira, jami kamida 384 GB va CUDA qoʻllovi belgilangan. Bunday parametrlar birikmasi va CUDA majburiyligi bitta ishlab chiqaruvchining cheklangan modellarini qoldirishi mumkin.",
+      "explanation_en": "Each server must have 4 GPUs, each with at least 96 GB of video memory (384 GB total), and CUDA support. This combination and the mandatory CUDA may leave only a few models from one vendor.",
+      "rewrite_uz": "Har bir serverda kamida 4 ta grafik tezlatkich, jami videoxotira kamida 384 GB, sun'iy intellekt hisoblash dasturlarini (CUDA yoki ekvivalent) qoʻllab-quvvatlashi kerak.",
+      "rewrite_en": "Each server has at least 4 GPU accelerators with at least 384 GB total video memory, supporting AI compute software (CUDA or equivalent)."
+    },
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Ishtirokchilar СС EAL2+ sertifikatini taqdim etishlari kerak va sertifikatlashni tasdiqlash yozuvi СС rasmiy veb-saytida tekshirilishi mumkin bo'lishi kerak",
+      "explanation_uz": "Ishtirokchilar serverni markazlashgan boshqarish dasturi uchun Common Criteria EAL2+ sertifikatini va sinov hisobotlarini taqdim etishi kerak. Bunday sertifikat faqat ayrim yirik ishlab chiqaruvchilarda boʻlishi mumkin va qurilma ishi uchun zarurligi koʻrsatilmagan; mos qurilma taklif qila oladigan ishtirokchilar chetlashtirilishi mumkin.",
+      "explanation_en": "Bidders must provide a Common Criteria EAL2+ certificate and test reports for the server management software. Few large manufacturers may hold it and its necessity for the servers is not shown; bidders offering suitable equipment could be excluded.",
+      "rewrite_uz": "Ishtirokchi taklif etilayotgan serverlarning xavfsizlik funksiyalarini (TPM, Secure Boot, rolga asoslangan kirish) ishlab chiqaruvchi hujjatlari bilan tasdiqlaydi; xalqaro xavfsizlik sertifikati mavjud boʻlsa, qoʻshimcha sifatida taqdim etiladi.",
+      "rewrite_en": "The bidder confirms the servers' security functions (TPM, Secure Boot, role-based access) with manufacturer documents; an international security certificate, if held, is submitted as an addition."
+    }
+  ],
+  "documents_needed_uz": [
+    "Texnik taklif (6-shakl) va unga ilovalar: taklif etilayotgan tovarlar roʻyxati, taqqoslash jadvali, rasmiy texnik hujjatlar",
+    "Kafolat xati (5-shakl): tovar yangi, kafolat 5 yil",
+    "Ish tajribasi haqida ma'lumot (4-shakl) va shartnoma nusxalari hamda qabul qilish dalolatnomalari",
+    "Buyurtmachilarning tavsiyanoma xatlari",
+    "Bank ma'lumotnomasi (mablagʻ mavjudligi)",
+    "Servis markazi mavjudligini tasdiqlovchi hujjatlar (ishlab chiqaruvchi avtorizatsiyasi, kadastr yoki ijara shartnomasi)",
+    "Common Criteria EAL2+ sertifikati va sinov hisobotlari",
+    "Resurslar mavjudligi haqida kafolat xati (rasmiy blankada)",
+    "Shartnoma tuzish huquqini tasdiqlovchi hujjat (ustav, buyruq yoki ishonchnoma)",
+    "Soliq qarzdorligi yoqligi haqida ma'lumotnoma",
+    "Bankrotlik yoqligi haqida ma'lumotnoma (my.gov.uz)",
+    "Insofsiz ijrochilar reyestrida yoqligi haqida ma'lumot",
+    "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yoqligi haqida ma'lumot",
+    "Manfaatlar toqnashuvi va aloqadorlik yoqligi haqida xat (1-shakl)",
+    "Qonunbuzarliklarga yol qoymaslik haqidagi ariza (2-shakl)",
+    "Buyurtmachi bilan sud yoki arbitraj yoqligi haqida xat (3-shakl)",
+    "Ta'sis hujjatlari va davlat royxatidan otganlik guvohnomasi"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lot_id": 524637,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Neft tashuvchi avtosisternalarda (30 m3 va undan yuqori) neft tashish xizmati, tonna-kilometr hisobida",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholashda narx 100% ulushga ega; oʻtish bali 70, texnik taklif 100 ballik shkalada baholanadi.",
+      "summary_en": "Price carries the stated 100% weight; the pass score is 70 on a 100-point scale used for the technical offer.",
+      "quote": "Baholash mezonlari (texnik qism 0.0%, narx 100.0%, o'tish bali 70):"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "70 balldan kam toʻplagan texnik taklif qabul qilinmaydi.",
+      "summary_en": "A technical offer scoring below 70 points is rejected.",
+      "quote": "Ballarning maksimal miqdori - 100. 70 balldan kam to'plagan texnik taklif qabul qilinmaydi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Barcha transport vositalarini GPS bilan jihozlash va monitoring tizimiga kirish haqida kafolat xati uchun 25 ball beriladi.",
+      "summary_en": "A guarantee letter to fit all vehicles with GPS and give login access to the monitoring system earns 25 points.",
+      "quote": "Shartnoma tuzilganda barcha transport vositalarini GPS bilan jihozlash hamda monitoring tizimiga kirish uchun login va parol taqdim etilishi haqida kafolat xati berilgan"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnikani quyish punktlariga 10 kalendar kungacha yetkazib berish kafolati uchun 10 ball beriladi.",
+      "summary_en": "A guarantee to deliver the vehicles to the loading points within 10 calendar days earns 10 points.",
+      "quote": "Buyurtmachining quyish punktlariga texnikani 10 kalendar kungacha yetkazib berishni tasdiqlovchi kafolat xati — 10 ball."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "2020-yil va undan keyin ishlab chiqarilgan texnika roʻyxati 15 ball, 2010-yildan keyingisi 10 ball beradi.",
+      "summary_en": "A list of vehicles built in 2020 or later earns 15 points; 2010 or later earns 10.",
+      "quote": "Texnikaning sozligi va foydalanishga tayyorligini tasdiqlovchi kafolat xati hamda 2020-yil va undan keyin ishlab chiqarilgan texnikalar ro‘yxati — 15 ball."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Barcha haydovchilarda xavfli yuklarni tashishga ruxsat hujjatlari boʻlishi kerak (25 ball).",
+      "summary_en": "All drivers must hold dangerous-goods transport permits (25 points).",
+      "quote": "Barcha haydovchilarning xavfli yuklarni tashishga ruxsat hujjatlari bilan ta’minlanganligi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Neft va neft mahsulotlarini tashishda 3 yil va undan ortiq tajriba shartnomalar nusxalari bilan tasdiqlanadi (15 ball).",
+      "summary_en": "Three or more years of oil-transport experience, confirmed by contract copies, earns 15 points.",
+      "quote": "Neft va neft mahsulotlarini tashish bo‘yicha 3 yil va undan ortiq tajribani tasdiqlovchi shartnomalar nusxalari"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Taʼsis hujjatlari va davlat roʻyxatidan oʻtganlik haqidagi guvohnoma talab qilinadi.",
+      "summary_en": "Constituent documents and the state registration certificate are required.",
+      "quote": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Texnikaning sozligi va foydalanishga tayyorligi kafolat xati bilan tasdiqlanadi.",
+      "summary_en": "Vehicle serviceability and readiness for use must be confirmed by a guarantee letter.",
+      "quote": "Texnikaning sozligi va foydalanishga tayyorligini tasdiqlovchi kafolat xati (majburiy)"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Safarbarlik muddati shartnoma tuzilgan kundan boshlab texnikani quyish punktlariga yetkazib berish bilan oʻlchanadi.",
+      "summary_en": "Mobilisation time is measured from contract signing to delivery of vehicles to the loading points.",
+      "quote": "Safarbarlik muddati — shartnoma tuzilgan kundan boshlab texnikani quyish punktlariga yetkazib berish"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Tijorat taklifi taqdim etilgan sanadan boshlab kamida 90 kalendar kun amal qilishi kerak.",
+      "summary_en": "The commercial offer must remain valid for at least 90 calendar days.",
+      "quote": "ianadan boshlab kamida 90 (to'qson) kalendar kuni."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Taʼsis hujjatlari va davlat roʻyxatidan oʻtganlik guvohnomasi",
+    "Texnikaning sozligi va foydalanishga tayyorligi haqida kafolat xati",
+    "Texnika pasportlari va amaldagi kalibrlash pasportlari",
+    "Xavfli yuklarni tashishga ruxsat (ADR) hujjatlari nusxalari",
+    "Haydovchilik guvohnomalari nusxalari",
+    "Shtatdagi xodimlar soni haqida maʼlumotnoma",
+    "Neft tashish boʻyicha shartnomalar, dalolatnomalar va buyurtmachilar fikrlari",
+    "GPS oʻrnatish va monitoring tizimiga kirish haqida kafolat xati",
+    "Texnikani quyish punktlariga yetkazish muddati haqida kafolat xati",
+    "Texnika roʻyxati (markasi, modeli, ishlab chiqarilgan yili, sisterna hajmi)",
+    "Masofa diapazonlari boʻyicha stavkalar koʻrsatilgan tijorat taklifi"
+  ]
+}

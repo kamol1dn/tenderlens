@@ -1,0 +1,93 @@
+{
+  "lot_id": 524156,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "food",
+  "subject_uz": "Maktabgacha ta'lim tashkilotida issiq ovqat bilan ta'minlash (autsorsing) xizmati",
+  "requirements": [
+    {
+      "kind": "other",
+      "summary_uz": "G'olib shartnoma summasining kamida 1 foizi miqdorida buyurtmachi muassasaga investitsiya kiritishga kafolat xati taqdim etadi.",
+      "summary_en": "The bidder provides a letter committing to invest at least 1 percent of the contract value in the customer institution.",
+      "quote": "Ishtirokchi shartnoma umumiy summasining kamida 1 foizi miqdorida investitsiya kiritishga roziligi haqida kafolat xatini taqdim etadi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kamida uch oylik xizmat qiymatini qoplaydigan aylanma mablag'lar bank ma'lumotnomasi yoki hisobotlar bilan tasdiqlanadi.",
+      "summary_en": "Working capital covering at least three months of service value must be proven with a bank statement or financial reports.",
+      "quote": "Ishtirokchi kamida uch oylik xizmat ko‘rsatish qiymatini qoplashga yetarli aylanma mablag‘lari mavjudligini tasdiqlovchi hujjatlarni taqdim etadi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "So'nggi 3 yilda xizmat ko'rsatgan tashkilotlar ro'yxati va kamida 5 ta tavsiyanoma talab qilinadi (15 ball).",
+      "summary_en": "A list of organisations served in the last 3 years and at least 5 reference letters are required (15 points).",
+      "quote": "Ishtirokchi so‘nggi 3 yil davomida xizmat ko‘rsatgan tashkilotlar ro‘yxatini taqdim etadi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "SanQvaN talablariga mos taomnoma va menyu-kalkulyatsiya (grammaj, tarkib, kaloriya) rahbar tasdig'i bilan taqdim etiladi (25 ball).",
+      "summary_en": "A menu and menu-calculation compliant with sanitary norms (weights, composition, calories), approved by the head, must be submitted (25 points).",
+      "quote": "Ishtirokchi amaldagi SanQvaN talablariga muvofiq taomnoma, menyu-kalkulyatsiya"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Oshxona jihozlari, omborxona, sovitkich, transport, inventar va xodimlar tarkibi to'g'risida ma'lumotnoma taqdim etiladi (25 ball).",
+      "summary_en": "A statement on kitchen equipment, storage, refrigeration, vehicles, inventory and staff must be provided (25 points).",
+      "quote": "Ishtirokchi autsorsing xizmatini bajarish uchun mavjud moddiy-texnik baza, oshxona va ishlab chiqarish jihozlari, omborxona, sovitkich uskunalari"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ruxsat etuvchi hujjatlar va sertifikatlar soni bo'yicha ball beriladi (20 tadan ortiq bo'lsa 10 ball).",
+      "summary_en": "Points depend on the number of permits and certificates (more than 20 earns 10 points).",
+      "quote": "10 ball – 20 tadan ortiq. 5 ball – 11dan 19 tagacha. 3 ball – 10 tagacha."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Narx ustama haq (foiz) bo'yicha taklif qilinadi va 30 foizdan oshmasligi kerak.",
+      "summary_en": "The price is bid as a markup percentage and must not exceed 30 percent.",
+      "quote": "Ustama haq 30 foizdan yuqori ko‘rsatilgan takliflar talablarga javob bermaydi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Autsorsing shartnomasi bitta moliya yiliga, 2026-yil 1-oktabrdan 31-dekabrgacha tuziladi.",
+      "summary_en": "The outsourcing contract covers one financial year, 1 October to 31 December 2026.",
+      "quote": "Autsorsing shartnomasi bir moliya yiliga tuziladi."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Sanitariya qoidalari, brakeraj, kunlik sinama va xodimlar tibbiy ko'rigi talablari bajarilishi shart.",
+      "summary_en": "Sanitary rules, rejection logs, daily samples and staff medical checks must be observed.",
+      "quote": "Xizmat ko‘rsatish jarayonida sanitariya qoidalari, gigiyena normalari, oziq-ovqat xavfsizligi"
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_experience",
+      "severity": "low",
+      "quote": "Xizmat ko‘rsatgan tashkilotlardan kamida 5 ta tavsiyanoma ilova qilinadi. Ma’lumotlar jadval shaklida tasdiqlangan bo‘lishi lozim.",
+      "explanation_uz": "Kamida 5 ta tavsiyanoma talab qilinishi va ular uchun 15 ball berilishi yangi yoki kichik ta'minotchilarning ball yig'ishini qiyinlashtirishi mumkin. Bu so'nggi 3 yildagi tajribaga bog'liq talab ekanini hisobga olib, mutanosibligini aniqlashtirish tavsiya etiladi.",
+      "explanation_en": "Requiring at least 5 reference letters, with 15 points depending on them, may make it harder for newer or smaller suppliers to score. A check on whether this is proportionate to a lot of this value is suggested.",
+      "rewrite_uz": "Ishtirokchi so'nggi 3 yilda o'xshash xizmat ko'rsatgan tashkilotlar ro'yxatini taqdim etadi; mavjud bo'lsa tavsiyanomalar ilova qilinadi.",
+      "rewrite_en": "The bidder provides a list of organisations to which similar services were supplied in the last 3 years; reference letters are attached where available."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "medium",
+      "quote": "10 ball – 20 tadan ortiq. 5 ball – 11dan 19 tagacha. 3 ball – 10 tagacha.",
+      "explanation_uz": "Ruxsat etuvchi hujjat va sertifikatlar soniga qarab ball berilishi hujjatlar sifati yoki xizmatga mosligidan ko'ra ularning miqdorini rag'batlantiradi. Bir bolalar muassasasi ovqatlanishi uchun zarur hujjatlar to'plami cheklangan bo'lgani sababli, bu mezon yetarli hujjatli ta'minotchini ham past ball bilan qoldirishi mumkin.",
+      "explanation_en": "Scoring by the number of permits and certificates rewards quantity rather than relevance or quality. Because the set of documents needed for catering in one kindergarten is limited, a fully qualified supplier could still receive few points.",
+      "rewrite_uz": "Ishtirokchi faoliyat turi uchun majburiy ruxsat etuvchi hujjatlar va sanitariya xulosalarini taqdim etadi; barcha majburiy hujjatlar mavjud bo'lsa to'liq ball beriladi.",
+      "rewrite_en": "The bidder provides the permits and sanitary conclusions required for the activity; full points are given when all required documents are present."
+    }
+  ],
+  "documents_needed_uz": [
+    "Investitsiya kiritishga roziligi haqida kafolat xati",
+    "Aylanma mablag'lar bo'yicha bank ma'lumotnomasi yoki moliyaviy hisobotlar",
+    "So'nggi 3 yilda xizmat ko'rsatilgan tashkilotlar ro'yxati va kamida 5 ta tavsiyanoma",
+    "SanQvaN bo'yicha taomnoma va menyu-kalkulyatsiya",
+    "Moddiy-texnik baza, jihozlar, transport va xodimlar to'g'risida ma'lumotnoma",
+    "Ruxsat etuvchi hujjatlar, sanitariya-epidemiologiya xulosalari va sertifikatlar",
+    "Texnik kafolat xati",
+    "Manfaatlar to'qnashuvi va halollik majburiyati to'g'risida ariza"
+  ]
+}

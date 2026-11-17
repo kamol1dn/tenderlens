@@ -1,0 +1,106 @@
+{
+  "lot_id": 524182,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Jomboy tumanida bodom bog'i barpo etish va tomchilatib sug'orish tizimini qurish ishlari",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Sig'imi 1000 m2 / 1200 m3 bo'lgan hovuz qurilishi, betonlash va geomembrana hamda geotekstil yotqizish.",
+      "summary_en": "Build a reservoir (1000 m2 / 1200 m3), concrete it and lay geomembrane and geotextile.",
+      "quote": "Hovuz (ombor) qurish, betonlash, geomembrana (1,5mm) va seotekstil (300e) yotqizish"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Chastotali boshqariladigan markaziy nasos va boshqaruv shiti o'rnatiladi.",
+      "summary_en": "A central pump with frequency control and a control panel are installed.",
+      "quote": "Markaziy nasos (Chastotali boshqariluvchi 1 20 m3lsoat) va boshqaruv shiti"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Tomchilatib sug'orish shlanglari taxminan 137,85 km hajmda yotqiziladi.",
+      "summary_en": "About 137.85 km of drip-irrigation hose is laid.",
+      "quote": "Tomchilatish shlanglari (d:16mm, 4llsoat, I.0 m, 2 qator)"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Barcha material va uskunalar davlat standartlariga mos va sertifikatlangan bo'lishi shart.",
+      "summary_en": "All materials and equipment must meet state standards and be certified.",
+      "quote": "davlat standartlariga javob berishi va sertifikatlangan bo'lishi shart."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "O'xshash loyihalar tajribasi uchun 3 ta va undan ko'p loyiha bo'lsa 15 ball, 2 ta bo'lsa 10, 1 ta bo'lsa 5 ball beriladi.",
+      "summary_en": "Experience is scored: 3 or more similar projects give 15 points, 2 give 10, 1 gives 5.",
+      "quote": "3 ta va undan ortiq shunga oʻxshash loyiha bajarilgan"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "5 nafar va undan ortiq malakali mutaxassis uchun 10 ball (3-4 nafar uchun 7, 1-2 nafar uchun 4 ball).",
+      "summary_en": "Five or more qualified specialists score 10 points (3-4 score 7, 1-2 score 4).",
+      "quote": "5 nafar va undan ortiq malakali mutaxassis"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kerakli texnikaning hammasi o'ziga tegishli bo'lsa 10 ball, hammasi ijaraga olingan bo'lsa 5 ball.",
+      "summary_en": "Fully owned equipment scores 10 points, fully rented equipment scores 5.",
+      "quote": "Kerakli texnikaning 100% qismi oʻziga tegishli"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Suv xo'jaligi vazirligining Tomchi reestridan ro'yxatdan o'tganlik uchun 10 ball beriladi.",
+      "summary_en": "Registration in the Water Ministry's drip-irrigation (Tomchi) register scores 10 points.",
+      "quote": "reestr.mwr.uz (Tomchi reestr) platformasidan ro‘yxatdan o‘tgan"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "1 yil kafolat muddati uchun 5 ball beriladi.",
+      "summary_en": "A one-year warranty scores 5 points.",
+      "quote": "1 yil kafolat muddati"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Obyektni ko'zdan kechirganlik haqidagi ma'lumotnoma shaklga mos va obyekt rasmlari bilan taqdim etilsa 15 ball beriladi.",
+      "summary_en": "A site-inspection certificate in the required form with photos of the site scores 15 points.",
+      "quote": "Shaklga mos holda mavjud (Obyekt rasmlari ilova qilinsa)"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Pudratchi loyiha-smeta hujjatlari va ekspertiza xulosasida ko'rsatilgan ishlarni bajarishi shart.",
+      "summary_en": "The contractor must carry out the works listed in the design-estimate documents and expert conclusion.",
+      "quote": "Pudratchi loyiha-smeta hujjatlari, ekspertiza xulosasi va nuqsonlar dalolatnomasida"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Shaklga mos holda mavjud (Obyekt rasmlari ilova qilinsa)",
+      "explanation_uz": "Obyektni ko'zdan kechirganlik haqidagi ma'lumotnoma uchun 15 ball beriladi, bu ballanadigan 65 balning taxminan to'rtdan biri. Talab qilinadigan hujjat shakli hujjatlarda ko'rsatilmagan, shuning uchun obyektga borib kelgan ishtirokchi ham shakl nomuvofiqligi sababli 1 ball olishi mumkin.",
+      "explanation_en": "A site-inspection certificate is worth 15 points, about a quarter of the 65 scoreable points. The required form is not shown in the documents, so a bidder who did visit the site could still receive only 1 point for a form mismatch.",
+      "rewrite_uz": "Obyektni ko'zdan kechirganlik to'g'risidagi ma'lumotnoma ixtiyoriy; uning shakli xarid hujjatlariga ilova qilinadi va ballar faqat ishlarni baholash uchun muhim ma'lumotlar mavjudligiga qarab beriladi.",
+      "rewrite_en": "The site-inspection certificate is optional; its form is attached to the procurement documents and points depend only on whether the information relevant to the works is given."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Kerakli texnikaning 100% qismi oʻziga tegishli",
+      "explanation_uz": "Texnikasi to'liq o'ziga tegishli ishtirokchi 10 ball, ijaraga olingan texnikadan foydalanadigan ishtirokchi esa 5 ball oladi. Ijara orqali ta'minlangan texnika ishlarni xuddi shunday bajara olishi mumkin, shuning uchun 5 ballik farq izohga muhtoj.",
+      "explanation_en": "A bidder owning all equipment gets 10 points while one using rented equipment gets 5. Rented machinery can do the same work, so the 5-point gap may warrant a clarifying question.",
+      "rewrite_uz": "Texnika mavjudligi (shaxsiy yoki ijaraga olingan) shartnoma muddati davomida ishlar uchun yetarli ekani tasdiqlangan holda bir xil baholansin.",
+      "rewrite_en": "Equipment availability, whether owned or rented, is scored equally provided it is confirmed as sufficient for the contract period."
+    }
+  ],
+  "documents_needed_uz": [
+    "O'xshash loyihalarni amalga oshirish bo'yicha tajriba haqida ma'lumot",
+    "Malakali muhandis-texnik va ishchi xodimlar mavjudligi haqida ma'lumot",
+    "Moddiy-texnik baza (maxsus texnika va mexanizmlar) mavjudligi haqida ma'lumot",
+    "Tomchi reestridan ro'yxatdan o'tganlik to'g'risida ma'lumot",
+    "Kafolat muddati va servis xizmati bo'yicha ma'lumot",
+    "Obyektni ko'zdan kechirganlik to'g'risida ma'lumotnoma (obyekt rasmlari bilan)",
+    "Soliq qarzdorligi yo'qligi haqida ma'lumot",
+    "Insofsiz ijrochilar reyestrida yo'qligi bo'yicha tasdiq",
+    "Majburiy ijro byurosi ma'lumotlar bazasida bajarilmagan majburiyat yo'qligi haqida tasdiq"
+  ]
+}

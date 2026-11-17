@@ -1,0 +1,87 @@
+{
+  "lot_id": 524586,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Neft qazib chiqarish obyektlarida 30 m3 li avtosisternalarda neftni tonna-kilometr hisobida tashish xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Xizmat 30 m3 hajmli neft tashuvchi avtosisternalarda ko'rsatiladi, haq tonna-kilometr bo'yicha to'lanadi.",
+      "summary_en": "The service uses 30 m3 oil-carrying tank trucks, paid per tonne-kilometre.",
+      "quote": "30 m3 hajmdagi neft tashuvchi avtosisternatarda neft tashish xizmatlarini"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Har bir texnika birligi sun'iy yo'ldosh (GPS) monitoringi va datchiklar bilan jihozlangan bo'lishi shart.",
+      "summary_en": "Every vehicle must be fitted with satellite (GPS) monitoring and sensors.",
+      "quote": "Har bir maxsus texnika birligi yuqori uskunaning ishlashini nazorat qiluvchi datchiklar va bort"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Xavfli yuklarni tashish uchun zarur litsenziya va ruxsat hujjatlari bo'lishi kerak.",
+      "summary_en": "Licences and permits for carrying hazardous cargo are required.",
+      "quote": "xavfli yuklarni tashish uchun zarur litsenziyalar va ruxsat beruvchi hujjatlarning"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish bazasi: Andijon, Farg'ona va Namangan hududlari.",
+      "summary_en": "Service base: the Andijan, Fergana and Namangan areas.",
+      "quote": "16.2 Yetkazib berish bazasi: Andijon, Farg'ona va Namangan hududlarida"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnika shartnomadan keyin 10 kalendar kungacha quyish punktlariga yetkazilsa 10 ball (21-30 kun: 3 ball).",
+      "summary_en": "Delivery of vehicles to the loading points within 10 calendar days scores 10 points (21-30 days: 3 points).",
+      "quote": "Buyurtmachining quyish punktlariga texnikani 10 kalendar kungacha yetkazib berishni tasdiqlovchi kafolat xati"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Park yoshi: 2020-yildan keyingi texnika 15 ball, 2010-yildan keyingi 10 ball, undan eskisi 0 ball.",
+      "summary_en": "Fleet age: vehicles built 2020 or later score 15, 2010 or later 10, older 0.",
+      "quote": "Sisternalar parkidagi texnikalarning ishlab chiqarilgan yili va texnik holati"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Barcha haydovchilarning xavfli yuklarni tashishga ruxsat hujjatlari bo'lishi uchun 25 ball.",
+      "summary_en": "25 points for all drivers holding permits to carry hazardous cargo.",
+      "quote": "Barcha haydovchilarning xavfli yuklarni tashishga ruxsat hujjatlari bilan"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Neft va neft mahsulotlarini tashish tajribasi: 3 yil va undan ortiq 15 ball, 2 yil 10 ball.",
+      "summary_en": "Experience carrying oil and oil products: 3+ years 15 points, 2 years 10 points.",
+      "quote": "Neft va neft mahsulotlarini tashish tajribasi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "GPS monitoring majburiy; shartnomadan keyin barcha transportga o'rnatilib, login va parol beriladi (25 ball).",
+      "summary_en": "GPS monitoring is mandatory; installed on all vehicles after signing, with login and password supplied (25 points).",
+      "quote": "Majburiy talab: maxsus texnikaning har bir birligi boftdagi sun'iy yo'ldosh monitoringi"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Texnik taklif kamida 70 ball (100 dan) to'plashi kerak, aks holda qabul qilinmaydi.",
+      "summary_en": "A technical offer must reach at least 70 of 100 points or it is rejected.",
+      "quote": "Ballarning maksimal miqdori - 100. 70 balldan kam to'plagan texnik taklif qabul qilinmaydi."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik haqidagi hujjat va ta'sis hujjatlari",
+    "Soliq va yig'imlar bo'yicha qarzdorlik yo'qligi haqida ma'lumotnoma",
+    "Bankrotlik tartib-taomillari yo'qligi haqida ma'lumot",
+    "Insofsiz ijrochilar yagona reyestrida qayd etilmaganlik haqida ma'lumot",
+    "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+    "Halollik majburiyati to'g'risidagi ariza",
+    "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ma'lumot",
+    "Texnik pasportlar va amaldagi kalibrlash pasportlari",
+    "Transport vositalarining 3-sinf xavfli yuklarni tashishga ruxsat guvohnomalari",
+    "Haydovchilik guvohnomalari va ADR guvohnomalari nusxalari, shtatdagi xodimlar soni haqida ma'lumotnoma",
+    "Texnika ro'yxati (ishlab chiqarilgan yili, markasi, sisterna hajmi) va sozligini tasdiqlovchi kafolat xati",
+    "GPS monitoring o'rnatish va login-parol berish haqida kafolat xati",
+    "Texnikani quyish punktlariga yetkazish muddati haqida kafolat xati",
+    "Neft tashish tajribasini tasdiqlovchi shartnomalar, dalolatnomalar va buyurtmachilar fikrlari",
+    "Texnik topshiriq shartlariga rozilik xati"
+  ]
+}

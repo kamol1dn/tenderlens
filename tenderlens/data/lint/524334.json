@@ -1,0 +1,89 @@
+{
+  "lot_id": 524334,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Maktabgacha ta'lim tashkiloti rekonstruksiyasi uchun topografik syomka (topos'yomka) ishlari",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Syomka amaldagi shaharsozlik normalari, qurilish me'yorlari va geodeziya hujjatlariga muvofiq bajarilishi kerak.",
+      "summary_en": "The survey must follow current town-planning norms, building codes and geodetic regulations.",
+      "quote": "7.1. Топографик съёмка амалдаги шаҳарсозлик нормалари, қурилиш меъёрлари ва геодезик ишларга оид норматив ҳужжатлар талабларига мувофиқ бажарилиши лозим."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Rel'ef, nishabliklar va balandlik belgilari aniqlanishi kerak.",
+      "summary_en": "Relief, slopes and elevation marks of the site must be determined.",
+      "quote": "ер юзасининг рельефи, нишабликлари ва баландлик белгиларини аниқлаш"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Topografik plan PDF hamda DWG yoki DXF formatida topshiriladi.",
+      "summary_en": "The topographic plan is delivered as PDF and as DWG or DXF files usable for design.",
+      "quote": "Топографик план электрон шаклда PDF ҳамда лойиҳалашда фойдаланиш имконини берувчи DWG ёки DXF форматларида тақдим этилади"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Natijalar buyurtmachiga qog'oz va elektron shaklda topshiriladi.",
+      "summary_en": "Results are handed to the customer on paper and in electronic form.",
+      "quote": "Иш натижалари буюртмачига қоғоз ва электрон шаклда тақдим этилади."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Bajarish muddati hujjatda aniq kun bilan berilmagan, shartnomada belgilanadi.",
+      "summary_en": "No fixed number of days is stated in the specification; the deadline is set in the contract.",
+      "quote": "Топографик съёмка ишларини бажариш муддати шартнома шартларига мувофиқ белгиланади."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchida shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadr resurslari bo'lishi kerak.",
+      "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarz bo'lmasligi kerak.",
+      "summary_en": "No overdue tax or levy debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oxirgi uch yilda bajarilgan ishlar tajribasi (4-shakl) bo'yicha ekspert baholaydi; bu mezon 25 ball, ya'ni eng katta.",
+      "summary_en": "Work experience of the last three years (form 4) is scored by experts; at 25 points it is the largest criterion.",
+      "quote": "Tanlash ishtirokchisining oxirgi uch yilda bajargan ish tajribasi (4-shakl)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Loyiha-smeta hujjatlarini tayyorlashda ishlatiladigan orgtexnika va mexanizmlar ro'yxati (6-shakl) 15 ball beradi.",
+      "summary_en": "A list of office equipment and machinery used for project-estimate documents (form 6) is worth 15 points.",
+      "quote": "Tanlash ishtirokchisining loyiha-smeta xujjatlarini tayyorlash jarayonida foydalanadigan orgtexnika va mexanizmlari ro‘yxati (6-shakl)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "G'olib loyihani o'z vaqtida topshirish bo'yicha kafolat xati (5-shakl) taqdim etadi, 15 ball.",
+      "summary_en": "A guarantee letter on timely completion (form 5) is scored, 15 points.",
+      "quote": "Gʻolib tashkilot loyihani yakunlash va o‘z vaqtida buyurtmachiga taqdim etish bo‘yicha kafolat xati taqdim etish (5-shakl)"
+    }
+  ],
+  "flags": [
+    {
+      "type": "irrelevant_requirement",
+      "severity": "medium",
+      "quote": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+      "explanation_uz": "Uch mezonning (2, 4 va 6) sarlavhasi buyurtmachi xodimlarini texnik o'qitishga bag'ishlangan, ikkitasiniki (3 va 5) intellektual mulk huquqlarini topshirishga; bu 8,2 mln so'mlik topografik syomkaga mos kelmaydi. Ular jami 100 balldan 85 tasini tashkil qiladi (o'qitish nomli mezonlar 55 ball, intellektual mulk nomli mezonlar 30 ball), vaholanki biriktiriladigan shakllar boshqa narsani (tajriba, moliyaviy holat, kafolat xati, texnika) so'raydi. Bu platformaning standart shablon matniga o'xshaydi; sarlavha va talab mos kelmasligi ball berilishini ishtirokchi uchun oldindan bilib bo'lmaydigan qiladi.",
+      "explanation_en": "Three criteria (2, 4 and 6) are titled as technical training of the customer's staff and two (3 and 5) as transfer of intellectual-property rights, which do not fit an 8.2 million UZS topographic survey. Together they carry 85 of 100 points (55 and 30), while the attached forms actually ask for something else (experience, finances, guarantee letter, equipment). This looks like standard platform template wording; the mismatch between title and evidence makes scoring hard for a bidder to predict.",
+      "rewrite_uz": "Baholash mezonlari topografik syomkaga mos nomlansin: oxirgi uch yilda bajarilgan o'xshash ishlar tajribasi, zarur geodeziya asbob-uskunalari ro'yxati, ishlarni o'z vaqtida topshirish kafolati; har bir mezon uchun ball shkalasi aniq yozilsin.",
+      "rewrite_en": "Name the criteria to match a topographic survey: experience with similar work in the last three years, the list of required geodetic equipment, a guarantee of timely delivery; and state a clear points scale for each criterion."
+    }
+  ],
+  "documents_needed_uz": [
+    "Tanlash ishtirokchisi to'g'risida umumiy ma'lumot (1-shakl)",
+    "Texnik o'qitish bo'yicha umumiy axborot (2-shakl)",
+    "Moliyaviy holat to'g'risida ma'lumot (3-shakl)",
+    "Oxirgi uch yilda bajarilgan ishlar tajribasi (4-shakl)",
+    "Loyihani yakunlash va o'z vaqtida topshirish bo'yicha kafolat xati (5-shakl)",
+    "Orgtexnika va mexanizmlar ro'yxati (6-shakl)",
+    "Soliq va yig'imlar bo'yicha qarzi yo'qligi haqida ma'lumot"
+  ]
+}

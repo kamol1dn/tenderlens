@@ -1,0 +1,100 @@
+{
+  "lot_id": 524509,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "Mikrokreditbank mijozlari uchun 1500 dona Uzcard POS-terminallari xaridi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Terminallar 2025 yildan oldin ishlab chiqarilmagan bo'lishi kerak.",
+      "summary_en": "Terminals must not have been manufactured before 2025.",
+      "quote": "2025 yildan oldin ishlab chiqarilmagan bo'lishi kerak."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib beriladigan terminallar soni 1500 dona bo'lishi shart.",
+      "summary_en": "The number of terminals delivered must be 1,500 units.",
+      "quote": "To'lov terminallari soni e'lon qilingan miqdorga mos kelishi kerak: Miqdori - 1.500 (bir ming besh yuz) dona"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi o'xshash qurilmalarni sotish yoki ijaraga berish tajribasiga ega bo'lishi va buni shartnoma, hisob-faktura yoki dalolatnoma bilan tasdiqlashi kerak.",
+      "summary_en": "The bidder needs experience selling or renting similar devices, proved by contracts, invoices or acceptance acts.",
+      "quote": "O'xshash qurilmalarni sotish yoki ijaraga berish tajribasiga ega bo'lish."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi qurilma ishlab chiqaruvchisidan avtorizatsiya (vakillik) xatiga ega bo'lishi kerak.",
+      "summary_en": "The bidder must hold an authorisation from the device manufacturer.",
+      "quote": "Ishtirokchi qurilma ishlab chiqaruvchisidan avtorizatsiyagaegabo'lishi lozim."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "O'zbekistonda vakolatli servis markazi mavjud bo'lishi kerak.",
+      "summary_en": "An authorised service centre must exist in Uzbekistan.",
+      "quote": "O'zbekiston Respublikasida vakolatli servis markazi mavjud bo'lishi kerak."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Yetkazib beruvchi Uzcard protsessing markazining dasturiy ta'minotga ulanish va dasturlash bo'yicha litsenziyasiga ega bo'lishi kerak.",
+      "summary_en": "The supplier must hold the Uzcard processing centre's licence for software connection and programming.",
+      "quote": "dasturiy ta'minotga bog'lanish, dasturlash bo'yicha tegishli litsenziyasiga ega bo'lishi kerak."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Bankdan oxirgi 6 oylik bank aylanmasi, qarzdorlik va hisobvaraqqa taqiq bo'yicha ma'lumot ball beriladigan mezon sifatida talab qilinadi (10 ball).",
+      "summary_en": "A bank certificate with 6 months of turnover, arrears and account restrictions is scored as a criterion (10 points).",
+      "quote": "Faoliyat yurituvchi bankdan ma’lumot: 1. Asosiy hisobvaraqlar harakatda ekanligi, tanlash e’lon qilingan sanadan oxirgi 6 oylik bank aylanmasi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Soliq idorasi tasdiqlagan so'nggi yillik moliyaviy hisobot (balans) uchun 10 ball beriladi.",
+      "summary_en": "The latest annual financial statement (balance sheet) certified by the tax office is scored (10 points).",
+      "quote": "Soliq idorasi tomonidan tasdiqlangan so’nggi yillik moliyaviy xisobot (balans)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Respublika hududlarida servis markazlari mavjudligi uchun 15 ballgacha beriladi (1-5 hudud: 5 ball, 6-13 hudud: 10 ball, barcha hududlar: 15 ball).",
+      "summary_en": "Service centres across the country score up to 15 points (1-5 regions: 5, 6-13 regions: 10, all regions: 15).",
+      "quote": "O‘zbekiston Respublikasi hududlarida servis markazlari mavjudligi (Servislarni mavjudligi to‘g‘risida asoslantiruvchi hujjat)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Direktor va ta'sischining pasport nusxasi yoki ID karta ham ball beriladigan mezon hisoblanadi (10 ball).",
+      "summary_en": "Copies of the director's and founder's passport or ID card are themselves a scored criterion (10 points).",
+      "quote": "Ishtirokchi korxonasining direktor va ta’sischisining passport nusxasi yoki ID card"
+    }
+  ],
+  "flags": [
+    {
+      "type": "dealer_letter",
+      "severity": "medium",
+      "quote": "Ishtirokchi qurilma ishlab chiqaruvchisidan avtorizatsiyagaegabo'lishi lozim.",
+      "explanation_uz": "POS-terminallar bozorda erkin sotiladi, biroq ishtirokchidan ishlab chiqaruvchining avtorizatsiya xati talab qilinmoqda. Bunday xat bo'lmasa, 5,25 mlrd so'mlik lotda mustaqil yetkazib beruvchilar qatnasha olmasligi mumkin. Talabning sababi (kafolat, servis) aniq ko'rsatilmagan.",
+      "explanation_en": "POS terminals are freely traded, yet the bidder must hold a manufacturer authorisation letter. Without it, independent suppliers may be unable to bid on this 5.25 billion UZS lot. The reason (warranty, service) is not stated.",
+      "rewrite_uz": "Ishtirokchi qurilma ishlab chiqaruvchisi yoki uning vakolatli vakilidan avtorizatsiya xatiga ega bo'lishi yoki kafolat va servis majburiyatlarini boshqa hujjat bilan (masalan, servis markazi bilan shartnoma) tasdiqlashi mumkin.",
+      "rewrite_en": "The bidder may hold an authorisation letter from the manufacturer or its authorised representative, or may prove warranty and service commitments by other documents (for example a contract with a service centre)."
+    },
+    {
+      "type": "narrow_params",
+      "severity": "low",
+      "quote": "190.36х81 .2хбЗ mm | 395 g (batareya bilan birga)",
+      "explanation_uz": "Terminalning o'lchamlari yuzdan bir millimetrgacha (190,36 mm) va vazni 395 g deb ko'rsatilgan, operatsion tizim esa aynan bitta ishlab chiqaruvchining platformasi (Paydroid) deb nomlangan. Bunday kombinatsiya bitta modelni tasvirlayotganga o'xshaydi. Hujjatda funksional jihatdan o'xshash jihozlar ham ko'rib chiqilishi aytilgan, shuning uchun aniqlashtirish yetarli.",
+      "explanation_en": "Dimensions are given to a hundredth of a millimetre (190.36 mm) with a weight of 395 g, and the operating system is named as one manufacturer's platform (Paydroid). The combination looks like a single model. The document does say functionally similar devices will be considered, so a clarification is enough.",
+      "rewrite_uz": "O'lchamlar: uzunligi 190 mm gacha, og'irligi 450 g gacha (batareya bilan). Operatsion tizim: Android 12 yoki undan yuqori, to'lov ilovalarini qo'llab-quvvatlaydigan.",
+      "rewrite_en": "Dimensions: length up to 190 mm, weight up to 450 g including battery. Operating system: Android 12 or later, supporting payment applications."
+    }
+  ],
+  "documents_needed_uz": [
+    "Faoliyat yurituvchi bankdan ma'lumot (6 oylik aylanma, Kartoteka-2, hisobvaraqqa taqiq, muddati o'tgan qarz)",
+    "Soliq idorasi tasdiqlagan so'nggi yillik balans",
+    "Direktor va ta'sischining pasport nusxasi yoki ID karta (yuridik shaxs ta'sischi bo'lsa ustav va benefitsiar mulkdor hujjati)",
+    "Ijara yoki sotish tajribasini tasdiqlovchi shartnoma yoki hisob-faktura",
+    "Ishlab chiqaruvchining avtorizatsiya xati",
+    "Servis markazlari mavjudligini tasdiqlovchi hujjat",
+    "Uzcard protsessing markazi bilan dasturiy ta'minot bo'yicha kelishuv yoki litsenziya",
+    "Taklif etilayotgan terminalning texnik va foydalanish hujjatlari (har bir talab bo'yicha asoslovchi hujjat)",
+    "Ishtirokchining qonunbuzarlikka yo'l qo'ymaslik to'g'risidagi arizasi"
+  ]
+}

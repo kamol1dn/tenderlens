@@ -1,0 +1,114 @@
+{
+  "lot_id": 522893,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "health",
+  "subject_uz": "2312 dona T-EKG masofaviy EKG kompleksi (EKG-apparat, kardioserver va shifokor ish joyi dasturi, sun'iy intellekt asosida avtomatik xulosa bilan)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Sun'iy intellekt asosidagi avtomatik EKG xulosasi EKG-apparatning o'z dasturida, tarmoqsiz shakllanishi kerak; faqat serverda ishlaydigan yechimlar mos kelmaydi.",
+      "summary_en": "The AI-based automatic ECG conclusion must be produced in the ECG device software without a network; server-only solutions do not comply.",
+      "quote": "Решения, в которых автоматическая интерпретация выполняется исключительно на серверной стороне, требованию не соответствуют."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Algoritm sindromlar bo'yicha belgilangan sezgirlik va o'ziga xoslik darajasini ko'rsatishi kerak (masalan, fibrillyatsiya 90/90, o'tkir koronar sindrom 90/93).",
+      "summary_en": "The algorithm must meet set sensitivity and specificity levels per syndrome (for example atrial fibrillation 90/90, acute coronary syndrome 90/93).",
+      "quote": "Точность формирования автоматического заключения «Фибрилляция или трепетание предсердий»: Чувствительность — не менее 90%; Специфичность — не менее 90%;"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Sun'iy intellekt moduli kamida 10 000 ta EKG tekshiruvi namunasida validatsiya qilingan bo'lishi va natijalar hujjatda berilishi kerak.",
+      "summary_en": "The AI module must have been validated on a sample of at least 10,000 ECG studies, with results documented.",
+      "quote": "Проведена на выборке не менее 10 000 ЭКГ исследований, результаты представлены в соответствующем документе"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kompleks Milliy raqamli sog'liqni saqlash platformasi (DHP) bilan integratsiyalanishi kerak, narxi taklif narxiga kiradi.",
+      "summary_en": "The complex must be integrated with the National Digital Health Platform (DHP) at no extra charge.",
+      "quote": "Стоимость указанных работ включается в цену предложения и отдельной оплате не подлежит."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "DHP va tez tibbiy yordam tizimi (ЭАСУСМП) bilan integratsiya test muhiti berilgandan keyin 30 kalendar kundan oshmasligi kerak.",
+      "summary_en": "Integration with DHP and the emergency-medical-service system must be done within 30 calendar days of test access being granted.",
+      "quote": "выполняется Поставщиком в срок не более 30 календарных дней с даты предоставления Заказчиком доступа к тестовому контуру и интеграционной документации"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Dasturlar cheksiz o'rnatish bilan muddatsiz litsenziyada, yangilanishlar butun xizmat muddati davomida bepul berilishi kerak.",
+      "summary_en": "Software must come under a perpetual licence with unlimited installations, with updates free throughout service life.",
+      "quote": "является бессрочной, не требует активации, лицензионных ключей, аппаратных ключей защиты, привязки к конкретному оборудованию"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlab chiqaruvchining avtorizatsiya xati, O'zbekistonda servis markazi va ishlab chiqaruvchi tomonidan o'qitilgan kamida 2 servis muhandisi talab qilinadi.",
+      "summary_en": "A manufacturer authorisation letter, a service centre in Uzbekistan and at least 2 manufacturer-trained service engineers are required.",
+      "quote": "Авторизационное письмо производителя, подтверждающее полномочия участника торгов и (или) сервисного центра на гарантийное обслуживание"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ro'yxatdan o'tish guvohnomasi (Dori vositalari xavfsizligi markazi) taklif topshirish sanasida amalda bo'lishi kerak; ISO 9001 va ISO 13485 sertifikatlari talab qilinadi.",
+      "summary_en": "A valid medical-device registration certificate on the bid date is required, along with ISO 9001 and ISO 13485 certificates.",
+      "quote": "копии сертификатов ISO 9001, ISO 13485, заверенные в установленном порядке."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Kafolat muddati foydalanishga topshirilgandan 24 oy; mutaxassis chaqiruvdan keyin 5 ish kunidan kechiktirmay yetib kelishi kerak.",
+      "summary_en": "Warranty of 24 months from commissioning; a specialist must arrive within 5 working days of a written request.",
+      "quote": "Гарантийный срок со дня сдачи в эксплуатацию: 24 месяца"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik topshiriqqa muvofiqlik 10 ball, qo'shimcha parametrlar 2 ball, CE 1 ball, qo'shimcha kafolat 1 ball, muddat qisqartirish 2 ball, avtorizatsiya 1 ball, servis markazi 2 ball.",
+      "summary_en": "Scores: compliance with the technical task 10, extra parameters 2, CE 1, extra warranty 1, shorter delivery 2, authorisation 1, service centre 2.",
+      "quote": "Ўзбекистон Республикасида сервис марказининг мавжудлиги 0-2 балл"
+    }
+  ],
+  "flags": [
+    {
+      "type": "narrow_params",
+      "severity": "medium",
+      "quote": "Решения, в которых автоматическая интерпретация выполняется исключительно на серверной стороне, требованию не соответствуют.",
+      "explanation_uz": "Sun'iy intellekt xulosasi faqat EKG-apparatning o'zida, tarmoqsiz shakllanishi va buni namoyish qilish shart; serverga asoslangan yechimlar mos kelmaydi. Boshqa joyda esa xuddi shu modul bulutli server dasturida yoki apparat dasturida joylashishi mumkin deyilgan, ya'ni hujjatda o'zaro ziddiyat bor. 76,3 mlrd so'mlik lotda faqat qurilmada ishlaydigan algoritmi bor ishtirokchilar qoladi; tez yordam brigadalari uchun sabab bor, shuning uchun aniqlashtirish kerak.",
+      "explanation_en": "The AI conclusion must be produced on the ECG device itself without a network, with an on-demand demonstration; server-based solutions are declared non-compliant. Elsewhere the same module may sit in cloud server software or in the device software, so the document contradicts itself. On a 76.3 billion UZS lot this leaves only bidders whose algorithm runs on the device; a field-use reason exists for ambulance crews, so this should be clarified.",
+      "rewrite_uz": "Avtomatik xulosa EKG-apparat dasturida yoki serverda shakllantirilishi mumkin; aloqa bo'lmagan hududlar uchun apparat dasturi EKGni saqlab, aloqa tiklanganda serverga uzatishi va xulosani aloqa tiklangach ko'rsatishi kifoya.",
+      "rewrite_en": "The automatic conclusion may be generated in the ECG device software or on the server; for areas without coverage it is enough that the device stores the ECG, transmits it when the link is restored and shows the conclusion then."
+    },
+    {
+      "type": "narrow_params",
+      "severity": "medium",
+      "quote": "Точность формирования автоматического заключения «Гипертрофия левого желудочка»: Чувствительность — не менее 70%; специфичность — не менее 91%",
+      "explanation_uz": "Sun'iy intellekt algoritmi uchun sezgirlik va o'ziga xoslik chegaralari har bir sindrom bo'yicha turlicha va g'alati (masalan, 70/91, 75/90, 90/93, 90/95), qo'shimcha ravishda kamida 10 000 ta EKG namunasida validatsiya talab qilinadi. Bunday aralash qiymatlar bitta mahsulotning ko'rsatkichlariga moslashtirilganga o'xshaydi va xuddi shunday sifatdagi boshqa algoritmlarni chetlatishi mumkin.",
+      "explanation_en": "The sensitivity and specificity thresholds differ per syndrome and take unusual values (for example 70/91, 75/90, 90/93, 90/95), and validation on at least 10,000 ECG studies is required on top. Such mixed values look fitted to one product's figures and may exclude algorithms of similar quality.",
+      "rewrite_uz": "Sezgirlik va o'ziga xoslik: asosiy sindromlar uchun kamida 85 foiz; validatsiya xalqaro yoki mahalliy ochiq ma'lumotlar bazasida yoki kamida 1000 ta EKG namunasida o'tkazilgan bo'lishi mumkin; natijalar hujjatda keltiriladi.",
+      "rewrite_en": "Sensitivity and specificity: at least 85 percent for the main syndromes; validation may be done on an international or local open database or on at least 1,000 ECG records, with results documented."
+    },
+    {
+      "type": "unrealistic_deadline",
+      "severity": "low",
+      "quote": "выполняется Поставщиком в срок не более 30 календарных дней с даты предоставления Заказчиком доступа к тестовому контуру и интеграционной документации",
+      "explanation_uz": "DHP va tez yordam tizimi bilan integratsiya uchun 30 kalendar kun berilgan, boshqa bandda esa DHP integratsiyasi uchun 90 kun ko'rsatilgan. Ikki sonning ziddiyati va qisqa muddat bu tizimlar bilan avval ishlamagan yetkazib beruvchilar uchun to'siq bo'lishi mumkin.",
+      "explanation_en": "Integration with DHP and the ambulance system is allowed 30 calendar days, while another clause gives 90 days for DHP integration. The conflict and the shorter term could be a barrier for suppliers who have not worked with these systems before.",
+      "rewrite_uz": "Integratsiya DHP va ЭАСУСМП bilan test muhiti va hujjatlar berilgan kundan boshlab 90 kalendar kun ichida bajariladi.",
+      "rewrite_en": "Integration with DHP and the ambulance system is completed within 90 calendar days from the day test access and documentation are provided."
+    }
+  ],
+  "documents_needed_uz": [
+    "4 va 4a shakllari (texnik topshiriqqa muvofiqlik) va har bir band bo'yicha asoslovchi hujjat",
+    "Tibbiy buyum ro'yxatdan o'tish guvohnomasi (Dori vositalari xavfsizligi markazi)",
+    "ISO 9001 va ISO 13485 sertifikatlari nusxalari (CE bo'lsa)",
+    "IEC 60601-1 va IEC 60601-2-25 muvofiqlik sertifikati va ishlab chiqaruvchi sinov bayonnomalari",
+    "Algoritm sifati bo'yicha ma'lumot (sezgirlik, o'ziga xoslik, ma'lumotlar bazasi) va validatsiya hujjati",
+    "Ishlab chiqaruvchi avtorizatsiyasi (5-shakl)",
+    "Servis markazi hujjatlari yoki shartnomasi, kamida 2 servis muhandisining sertifikatlari",
+    "Foydalanish qo'llanmalari (o'zbek, rus va qoraqalpoq tillarida)",
+    "Integratsiya hujjatlari (API tavsifi, standartlar ro'yxati) va integratsiya muddati bo'yicha kafolat xati",
+    "Dasturiy ta'minot ro'yxati va qo'shimcha to'lovsiz yetkazish kafolat xati",
+    "O'qitish dasturi va kafolat xatlari",
+    "2024-2025 yillar uchun soliq organlariga topshirilgan moliyaviy hisobotlar",
+    "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasi",
+    "Soliq qarzi, bankrotlik va insofsiz ijrochilar reestri bo'yicha ma'lumotlar, 1-shakl, 2-shakl, 2a-shakl va 3-shakl bo'yicha arizalar"
+  ]
+}

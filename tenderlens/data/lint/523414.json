@@ -1,0 +1,130 @@
+{
+ "lot_id": 523414,
+ "backend": "in-session",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "sector": "health",
+ "subject_uz": "Qon quyish xizmati uchun yopiq tizimli IXLA reagentlari (HBsAg, OIV Ag/Ab, sifilis, anti-HCV) xaridi",
+ "requirements": [
+  {
+   "kind": "technical",
+   "summary_uz": "Reagentlar yopiq avtomatik IXLA tizimida ishlashga moʻljallangan serologik tekshiruvlar uchun.",
+   "summary_en": "Reagents for serological tests run on an automatic closed IXLA (chemiluminescent) system.",
+   "quote": "для анализатора Abbott Architect (закрытая система)"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "HBsAg testi: sezgirlik VOZ 2-standarti boʻyicha kamida 0,019 va koʻpi bilan 0,020 ME/ml.",
+   "summary_en": "HBsAg test: sensitivity against the WHO 2nd standard of at least 0.019 and at most 0.020 IU/ml.",
+   "quote": "Чувствительность по 2-му стандарту ВОЗ Не менее 0,019 и не более 0,020 МЕ/мл"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Har bir tur uchun 500 000 testga standartlar, nazorat va sarf materiallari toʻplami (trigger, pre-trigger, yuvish buferi va boshqalar).",
+   "summary_en": "For each test type the supply must include standards, controls and consumables (trigger, pre-trigger, wash buffer, etc.) for 500,000 tests.",
+   "quote": "Количество – 500 000 тестов; сроки и место поставки – согласно закупочной документации"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Mahsulot yangi boʻlishi, ishlatilmagan va ishlab chiqarishdan olinmagan boʻlishi kerak; ishlab chiqarilgan yili 2026-yildan oldin emas.",
+   "summary_en": "The goods must be new, unused and not discontinued; production year not before 2026.",
+   "quote": "Закупаемый товар должен быть новым, ранее не использованным, не находившимся в эксплуатации и не снятым с производства."
+  },
+  {
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berilganda qolgan yaroqlilik muddati ishlab chiqaruvchi belgilagan muddatning kamida 80 foizi boʻlishi kerak.",
+   "summary_en": "Remaining shelf life at delivery must be at least 80% of the manufacturer's stated shelf life.",
+   "quote": "Остаточный срок годности на момент поставки должны составлять не менее 80% от срока годности, установленного производителем"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Mahsulot Sogʻliqni saqlash vazirligi huzuridagi Farmatsevtik mahsulotlar xavfsizligi markazida roʻyxatdan oʻtgan boʻlishi kerak (agar majburiy roʻyxatdan oʻtishga tushsa).",
+   "summary_en": "The product must be registered with the Pharmaceutical Product Safety Centre of the Ministry of Health, where registration is mandatory.",
+   "quote": "Изделие должно быть зарегистрировано в ГУ «Центр безопасности фармацевтической продукции» при Министерстве здравоохранения Республики Узбекистан"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Texnik hujjatlar roʻyxati (broshyura, pasport, yoʻriqnoma) va har bir talabga tasdiqlovchi hujjatga havola taqdim etiladi.",
+   "summary_en": "A list of technical documentation (brochures, passports, instructions) with a reference to a supporting document for each requirement must be submitted.",
+   "quote": "Участник торгов обязан предоставить перечень технической документации (брошюры, технические паспорта, инструкции по эксплуатации"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Texnik topshiriqqa muvofiqlik 10 ball; muvofiq boʻlmasa ishtirokchi chetlashtiriladi. Oʻtish bali 11, jami 14 ball.",
+   "summary_en": "Conformity to the technical specification is worth 10 points; a non-conforming bidder is excluded. Pass mark 11 out of 14 points in total.",
+   "quote": "Agar muvofiq bo‘lmasa, ishtirokchi tenderda qatnashishdan chetlashtiriladi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "MDR (CE) yoki FDA sertifikati boʻlsa 1 ball.",
+   "summary_en": "1 point for holding an MDR (CE) or FDA certificate.",
+   "quote": "Tibbiyot mahsulotlarini sertifikatlashtirish bo‘yicha xalqaro organlar tomonidan berilgan tovar sertifikatlarining mavjudligi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Yetkazib berish muddati belgilanganidan 50% yoki 75% qisqartirilsa 1 yoki 2 ball (kafolat xati bilan).",
+   "summary_en": "1 or 2 points if the delivery period is shortened by at least 50% or 75% (confirmed by a guarantee letter).",
+   "quote": "Yetkazib berish muddatini tasdiqlovchi kafolat xati"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi ishlab chiqaruvchi boʻlmasa, ishlab chiqaruvchi zavod avtorizatsiyasi (5-shakl) talab qilinadi; boʻlmasa chetlashtiriladi.",
+   "summary_en": "If the bidder is not the manufacturer, a manufacturer authorisation (form 5) is required; without it the bidder is excluded.",
+   "quote": "Xarid ishtirokchisi taklif etilayotgan tovar ishlab chiqaruvchisi bo‘lmagan taqdirda 5-shaklga muvofiq rasmiylashtiriladi."
+  }
+ ],
+ "flags": [
+  {
+   "type": "narrow_params",
+   "severity": "medium",
+   "quote": "Чувствительность по 2-му стандарту ВОЗ Не менее 0,019 и не более 0,020 МЕ/мл",
+   "explanation_uz": "HBsAg testi uchun sezgirlik 0,019 dan 0,020 ME/ml gacha, ya'ni 0,001 ME/ml li juda tor oraliqda talab qilinmoqda; bunday ikki tomonlama chegara odatda bitta mahsulot koʻrsatkichiga mos keladi. Yuqori sezgirlikka ega boshqa tegishli testlar ham talab qilingan maqsadga (qon skriningi) xizmat qilsa-da, chetlashtirilishi mumkin. Bu band HBsAg boʻyicha ikki pozitsiyaga (jami taxminan 11,7 mlrd soʻm, lot boshlangʻich narxi 64,05 mlrd soʻmning taxminan 18 foizi) taʼsir qiladi.",
+   "explanation_en": "Sensitivity for the HBsAg test is required to fall in a very narrow two-sided band of 0.019 to 0.020 IU/ml (a 0.001 IU/ml window), which typically matches the figure of one specific product. Other suitable tests that are equally or more sensitive could be excluded although they serve the same blood-screening purpose. The clause affects two HBsAg positions (about 11.7 billion UZS, roughly 18% of the 64.05 billion UZS start price).",
+   "rewrite_uz": "Sezgirlik VOZ 2-xalqaro standarti boʻyicha 0,020 ME/ml dan yomon boʻlmasligi (ya'ni 0,020 ME/ml yoki undan past).",
+   "rewrite_en": "Sensitivity against the WHO 2nd international standard no worse than 0.020 IU/ml (that is, 0.020 IU/ml or lower).",
+   "first_pass_severity": "high",
+   "reviewed_by": "second pass",
+   "group_id": "closed_system_brand"
+  },
+  {
+   "type": "brand_no_equivalent",
+   "severity": "medium",
+   "quote": "для анализатора Abbott Architect (закрытая система)",
+   "explanation_uz": "Reagentlar Abbott Architect (boshqa pozitsiyalarda Abbott Alinity) yopiq tizimi uchun talab qilinmoqda va ekvivalent yoki mos analog nazarda tutilmagan. Agar qon xizmatida shu analizatorlar oʻrnatilgan boʻlsa, buning texnik sababi boʻlishi mumkin, lekin amalda faqat shu ishlab chiqaruvchi yoki uning vakillari taklif bera oladi (lot boshlangʻich narxi 64,05 mlrd soʻm). Hujjatda koʻrsatilishicha, kooperatsiya portalidagi 65 ta faol taklifning birortasi texnik topshiriqqa mos kelmagan.",
+   "explanation_en": "The reagents are specified for the Abbott Architect (and Abbott Alinity for other items) closed system, with no equivalent or compatible alternative allowed. If the blood service has these analysers installed there may be a technical reason, but in practice only that manufacturer or its representatives can bid (start price 64.05 billion UZS). The document itself records that none of the 65 active offers on the cooperation portal matched the technical specification.",
+   "rewrite_uz": "Qon xizmatida oʻrnatilgan Abbott Architect va Abbott Alinity analizatorlarida ishlaydigan, ishlab chiqaruvchi tomonidan mosligi tasdiqlangan reagentlar (analizatorlarning aniq modeli va soni texnik topshiriqda koʻrsatiladi).",
+   "rewrite_en": "Reagents confirmed by the manufacturer as compatible with the Abbott Architect and Abbott Alinity analysers installed in the blood service (the exact analyser models and number to be stated in the technical specification).",
+   "group_id": "closed_system_brand"
+  },
+  {
+   "type": "narrow_params",
+   "severity": "low",
+   "quote": "Чувствительность по стандарту AFSSAPS и ВОЗ NIBSC 90/636 (антиген р24 ВИЧ-1) ≤18,06 пг/мл или ≤0,87 МЕ/мл",
+   "explanation_uz": "OIV Ag/Ab testi uchun p24 antigeni sezgirligi 18,06 pg/ml va 0,87 ME/ml kabi aniq kasr qiymatlar bilan berilgan; bunday aniq raqamlar odatda bitta ishlab chiqaruvchining qoʻllanmasidan olinadi. Teng sezgirlikdagi boshqa testlar chetlashtirilishi mumkin. Bu band OIV boʻyicha pozitsiyalarga (jami taxminan 17,5 mlrd soʻm) taʼsir qiladi.",
+   "explanation_en": "Sensitivity for the HIV Ag/Ab test is given as the exact fractions 18.06 pg/ml and 0.87 IU/ml for p24 antigen, figures that usually come from one manufacturer's package insert. Other tests with comparable sensitivity could be shut out. This affects the HIV positions (about 17.5 billion UZS in total).",
+   "rewrite_uz": "p24 antigeni sezgirligi VOZ NIBSC 90/636 standarti boʻyicha 20 pg/ml dan yomon boʻlmasligi yoki 1,0 ME/ml dan yomon boʻlmasligi.",
+   "rewrite_en": "p24 antigen sensitivity against the WHO NIBSC 90/636 standard no worse than 20 pg/ml, or no worse than 1.0 IU/ml.",
+   "first_pass_severity": "medium",
+   "reviewed_by": "second pass",
+   "group_id": "closed_system_brand"
+  }
+ ],
+ "documents_needed_uz": [
+  "Texnik taklif (4-shakl va 4a-shakl ilovasiga muvofiq)",
+  "Texnik hujjatlar roʻyxati (broshyura, texnik pasport, yoʻriqnoma) va har bir talabga tasdiqlovchi hujjatga havola",
+  "MDR (CE) yoki FDA sertifikati nusxalari",
+  "Yetkazib berish muddatini tasdiqlovchi kafolat xati",
+  "Ishlab chiqaruvchi zavod avtorizatsiyasi (5-shakl), agar ishtirokchi ishlab chiqaruvchi boʻlmasa",
+  "Farmatsevtik mahsulotlar xavfsizligi markazida roʻyxatdan oʻtganlik hujjati",
+  "Sifat sertifikatlarining muhr bilan tasdiqlangan nusxalari",
+  "Davlat roʻyxatidan oʻtganlik guvohnomasi va taʼsis hujjatlari",
+  "Soliq va yigʻimlar boʻyicha qarzdorlik yoʻqligi haqida maʼlumotnoma",
+  "Manfaatlar toʻqnashuvi va affillanganlik holatlari yoʻqligi haqida tasdiq",
+  "Offshor hududlarda roʻyxatdan oʻtmaganlik haqida tasdiq"
+ ],
+ "first_pass_model": "claude-sonnet-5-5",
+ "second_pass": {
+  "model": "claude-fable-5-2",
+  "backend": "in-session",
+  "note": "sensitivity band lowered from high to medium: the reagents are for installed closed-system analysers, so the band restates the brand lock; second sensitivity figure lowered to low for the same reason; the three flags share group_id closed_system_brand: they restate one finding (reagents tied to installed closed-system analysers) and are scored once"
+ }
+}

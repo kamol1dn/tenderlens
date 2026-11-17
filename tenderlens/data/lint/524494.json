@@ -1,0 +1,89 @@
+{
+  "lot_id": 524494,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "health",
+  "subject_uz": "Pediatriya uchun oftalmoskop va otoskop toʻplami (1 toʻplam) xarid qilish",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik topshiriqqa muvofiqlik 0 yoki 10 ball bilan baholanadi; hujjatlar bilan tasdiqlanmasa ishtirokchi chetlashtiriladi.",
+      "summary_en": "Compliance with the technical specification is scored 0 or 10; unsupported claims lead to exclusion.",
+      "quote": "Техник топшириқга мувофиқлиги (0 ёки 10 балл)."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Quloq voronkalari 5 oʻlchamda boʻlishi kerak (neonatal 2,5 mm ham).",
+      "summary_en": "Ear specula must come in 5 sizes, including a neonatal 2.5 mm.",
+      "quote": "5 размеров: 2,5; 3,0; 4,0; 5,0; 6,0 мм"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Yorugʻlik LED boʻlishi va CRI kamida 90 boʻlishi kerak.",
+      "summary_en": "LED illumination with a colour rendering index (CRI) of at least 90 is required.",
+      "quote": "Светодиодная подсветка с цветопередачей CRI не менее 90"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Tovar 2026-yildan oldin ishlab chiqarilmagan boʻlishi kerak.",
+      "summary_en": "The product must be manufactured no earlier than 2026.",
+      "quote": "Год выпуска товара — не ранее 2026 года"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Texnik tavsiflar yoʻnaltiruvchi; teng yoki yuqori koʻrsatkichli boshqa uskunani taklif qilish mumkin.",
+      "summary_en": "The technical values are indicative; equal or better equipment with different values may be offered.",
+      "quote": "Участники имеют право предлагать медицинское оборудование с техническими характеристиками, отличающимися от указанных в технической спецификации"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Taklif topshirilganda amaldagi roʻyxatdan oʻtish guvohnomasi yoki roʻyxatdan oʻtkazish boshlangani haqida kafolat xati boʻlishi kerak.",
+      "summary_en": "At bid time a valid registration certificate, or a letter confirming registration has started, is required.",
+      "quote": "На момент подачи предложения наличие действующего регистрационного удостоверения"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Oxirgi marta soliq organlariga topshirilgan moliyaviy hisobotlar taqdim etilishi kerak.",
+      "summary_en": "The latest financial statements filed with the tax authorities must be provided.",
+      "quote": "сўнги марта солиқ органларига тақдим этилган молиявий ҳисоботлар (бухгалтерия баланси, молиявий натижалар тўғрисида)"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Ishlab chiqaruvchi boʻlmagan ishtirokchi ishlab chiqaruvchi vakolatini tasdiqlovchi hujjat taqdim etadi (1 ball).",
+      "summary_en": "A non-manufacturer bidder submits the manufacturer's authorisation (1 point).",
+      "quote": "Ишлаб чиқарувчи завод авторизациясининг мавжудлиги (харид иштирокчиси таклиф этилаётган товар ишлаб чиқарувчиси бўлмаган тақдирда)"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Oʻzbekistonda servis markazi boʻlishi kerak; oʻz markazi 2 ball, shartnoma asosidagisi 1 ball.",
+      "summary_en": "A service centre in Uzbekistan is expected; own centre earns 2 points, contracted centre 1 point.",
+      "quote": "Ўзбекистон Республикасида сервис марказининг мавжудлиги."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat muddati foydalanishga topshirilgandan boshlab 24 oy.",
+      "summary_en": "The warranty is 24 months from commissioning.",
+      "quote": "Гарантийный срок со дня сдачи в эксплуатацию — 24 месяца"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Mahalliy yetkazib beruvchilar uchun muddat oldindan toʻlov kunidan 90 kun.",
+      "summary_en": "For domestic suppliers the delivery period is 90 days from the advance payment.",
+      "quote": "90 дней со дня проведения предоплаты."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "4 va 4a shakllar (texnik muvofiqlik jadvali, doc formatida ham)",
+    "Datasheet, prospekt yoki katalog (har bir texnik parametr boʻyicha)",
+    "CE sertifikati va ISO 13485 sertifikati nusxalari",
+    "Roʻyxatdan oʻtish guvohnomasi yoki Farmatsevtika mahsulotlari xavfsizligi markazi kafolat xati",
+    "Ishlab chiqaruvchi vakolati (5-shakl), agar ishtirokchi ishlab chiqaruvchi boʻlmasa",
+    "Servis markazi haqida maʼlumot yoki shartnoma nusxasi",
+    "Soʻnggi moliyaviy hisobotlar (balans, moliyaviy natijalar)",
+    "Davlat roʻyxatidan oʻtganlik guvohnomasi",
+    "Soliq qarzdorligi yoʻqligi haqida hujjat",
+    "1, 2, 2a va 3-shakllar boʻyicha arizalar",
+    "Kafolat xati (qoʻshimcha kafolat va yetkazish muddati boʻyicha)"
+  ]
+}

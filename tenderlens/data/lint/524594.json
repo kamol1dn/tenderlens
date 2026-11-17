@@ -1,0 +1,73 @@
+{
+  "lot_id": 524594,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "food",
+  "subject_uz": "Zaxira uchun guruch, sabzi, piyoz va kartoshka yetkazib berish (jami 533 mln so'm)",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Korxona haqida ma'lumot (imzo va muhr bilan), bank rekvizitlari, xodimlar ma'lumotnomasi, faoliyat turi va davlat ro'yxatidan o'tganlik guvohnomasi taqdim etiladi.",
+      "summary_en": "Company information signed and sealed, bank details, staff certificate, activity type and state registration certificate must be provided.",
+      "quote": "Танловда иштирок этадиган корхона тўғрисида маълумотлар (имзо ва муҳр билан тасдиқланган)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari mavjudligi.",
+      "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Majburiy ijro byurosi bazasida bajarilmagan sud qarorlari bo'yicha majburiyatlar bo'lmasligi kerak.",
+      "summary_en": "No unfulfilled court-decision obligations in the Compulsory Enforcement Bureau databases.",
+      "quote": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Zaxira mahsulotlarni qish-bahor oylari uchun saqlab berish va o'z vaqtida tarqatish bo'yicha kafolat xati majburiy.",
+      "summary_en": "A signed guarantee letter on storing the reserve products for winter-spring and distributing them on time is mandatory.",
+      "quote": "Озиқ-овқат махсулотларини (захира) жамғариш ва қиш-бахор ойлари учун сақлаб бериш, ўз вақтида озиқ-овқат махсулотларини тарқатиш топшириш бўйича кафолат хати."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Oziq-ovqatni tashishga mo'ljallangan avtotransport vositalari va haydovchilar ma'lumoti (texpasport, sanitariya xulosasi, ijara shartnomasi) taqdim etiladi.",
+      "summary_en": "Information on vehicles designed to carry food and on drivers (registration papers, sanitary conclusion, lease contract if rented) must be provided.",
+      "quote": "Озиқ-овқат (захира) махсулотларини ташишга мўлжалланган автотранспорт воситалари мавжудлиги тўғрисида маълумот"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Zaxira mahsulotlar uchun ombor (kadastr yoki ijara hujjatlari bilan) va kartoshka, sabzi, piyoz, guruch uchun ichki fitosanitariya sertifikatlari kerak.",
+      "summary_en": "A warehouse for the reserve (with cadastre or lease documents) and internal phytosanitary certificates for potatoes, carrots, onions and rice are required.",
+      "quote": "Озиқ-овқат (захира) махсулотларини сақлашга мўлжалланган омборхонаси мавжудлиги хамда Картошка, сабзи, пиёз хамда гуруч махсулотлари учун ички фитосанитария сертификатилари хақида маълумот"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Mahsulotlar zaxirada saqlanib, grafik asosida bosqichma-bosqich yetkaziladi (lot bo'yicha yetkazish muddati 30 oy ko'rsatilgan).",
+      "summary_en": "Goods are held in reserve and delivered on a schedule (the lot shows a 30-month delivery period).",
+      "quote": "юкори курсатилган, бизга захирада саклаш ва график асосида етказиб бериш учун зарур"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Xarid 2026-yil byudjeti hisobidan zaxira sifatida amalga oshiriladi; oldindan to'lov 30 foiz, taklif ta'minoti 3 foiz.",
+      "summary_en": "The purchase is a 2026-budget reserve; advance payment is 30 percent and bid security 3 percent.",
+      "quote": "Захира 2026 Бюджет"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Korxona haqida ma'lumot (imzo va muhr bilan tasdiqlangan)",
+    "Bank rekvizitlari",
+    "Xodimlar ma'lumotnomasi (my.mehnat.uz QR kodi bilan)",
+    "Faoliyat turi bo'yicha ma'lumotnoma (new.birdarcha.uz reestridan)",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi va ustav",
+    "Zaxira mahsulotlarni saqlash va o'z vaqtida tarqatish bo'yicha kafolat xati",
+    "Avtotransport vositalari ma'lumoti (texnik pasport, sanitariya xulosasi, ijara shartnomasi)",
+    "Haydovchilar to'g'risida ma'lumot (QR kodli)",
+    "Ombor hujjatlari (kadastr yoki ijara shartnomasi), foto suratlar",
+    "Kartoshka, sabzi, piyoz va guruch uchun ichki fitosanitariya sertifikatlari",
+    "Soliq qarzdorligi yo'qligi va insofsiz ijrochilar reestrida yo'qligi bo'yicha ma'lumotlar",
+    "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi to'g'risida ariza",
+    "Halollik majburiyati to'g'risida ariza"
+  ]
+}

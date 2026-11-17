@@ -1,0 +1,96 @@
+{
+  "lot_id": 524664,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Tibbiy radioaktiv yuklarni (UN2915) xalqaro yo'nalishlarda havo transportida tashish xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Tibbiy maqsadlardagi radioaktiv materiallar (7-sinf, UN2915) xalqaro yo'nalishlarda tashiladi.",
+      "summary_en": "Medical radioactive materials (class 7, UN2915) are shipped on international routes.",
+      "quote": "Tibbiy maqsadlar uchun radioaktiv materiallar,"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Tashish haftalik ravishda belgilangan yo'nalishlar bo'yicha amalga oshiriladi.",
+      "summary_en": "Shipments run weekly on the listed routes.",
+      "quote": "haftalik ravishda quyidagi yo'nalishlar bo'yicha amalga oshiriladi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Oylik o'rtacha yuk og'irligi 500 kg dan 700 kg gacha yoki undan ko'p.",
+      "summary_en": "Average monthly cargo weight is 500 to 700 kg or more.",
+      "quote": "Oylik o'rtacha umumiy yuk og'irligi 500 kg dan 700 kg gacha yoki undan ko'p."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Pudratchi qadoqlash hujjatlari, belgilar va xavfli yuk markirovkasini IATA, ICAO va IAEA qoidalariga muvofiq tekshiradi.",
+      "summary_en": "The contractor checks packaging documents, marks and hazard labels against IATA, ICAO and IAEA rules.",
+      "quote": "Pudratchi IATA, ICAO va IAEA qoidalariga muvofiq ravishda qadoqlashga qo'yilgan"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Radioaktiv materiallarni havo orqali tashish uchun litsenziya yoki ruxsatnoma bo'lishi kerak.",
+      "summary_en": "A licence or permit for air transport of radioactive materials is required.",
+      "quote": "Radioaktiv materiallarni havo transportida tashish uchun tegishli litsenziya yoki"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Shtatda amaldagi IATA DGR sertifikatli 3 yoki undan ko'p xavfli yuk mutaxassisi bo'lsa 5 ball.",
+      "summary_en": "5 points for 3 or more in-house specialists with valid IATA DGR certificates.",
+      "quote": "Shtatda amaldagi IATA DGR sertifikatlariga ega 3 yoki undan ortiq xavfli yuklar bo'yicha mutaxassisning mavjudligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Aviakompaniyaning ijobiy tavsiyasi yoki sharhi bo'lsa 5 ball (bu mezon matni ikki marta kiritilgan).",
+      "summary_en": "5 points for a positive airline recommendation or review (the same criterion text is entered twice).",
+      "quote": "Aviakompaniyaning ijobiy tavsiyasi yoki sharhi mavjudligi; bo'lsa 5- ball"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash mezonlari: texnik qism 70%, narx 30%, o'tish bali 20 (mezonlarning jami maksimal bali ham 20).",
+      "summary_en": "Scoring: technical 70%, price 30%, pass mark 20 (the criteria also add up to a maximum of 20).",
+      "quote": "texnik qism 70.0%, narx 30.0%, o'tish bali 20"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliq xizmati va bank oldida qarzi yo'qligi to'g'risida ma'lumotnoma taqdim etiladi.",
+      "summary_en": "A certificate of no debt to the tax service and the servicing bank is provided.",
+      "quote": "soliq xizmati va xizmat ko'rsatuvchi bank oldida qarzi yo'qligi to'g'risida"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reyestrida bo'lmasligi kerak.",
+      "summary_en": "The bidder must not be on the single register of unfair suppliers.",
+      "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "texnik qism 70.0%, narx 30.0%, o'tish bali 20",
+      "explanation_uz": "Mezonlarning jami maksimal bali 20, o'tish bali ham 20. Bunda ishtirokchi har bir mezonda to'liq ball olishi kerak bo'ladi, jumladan aviakompaniya tavsiyasi va shtatda 3 ta sertifikatli mutaxassis uchun. Kichikroq yoki yangi yuk agentlari yaxshi taklif bilan ham o'ta olmasligi mumkin; bu qiymatni tekshirib ko'rish tavsiya etiladi.",
+      "explanation_en": "The criteria add up to a maximum of 20 points and the pass mark is also 20, so a bidder would need full marks on every criterion, including an airline recommendation and three certified in-house specialists. A smaller or newer cargo agent could fail even with a sound offer; the value is worth checking.",
+      "rewrite_uz": "Baholash mezonlari: texnik qism 70%, narx 30%, o'tish bali texnik qism maksimal ballining 60 foizi.",
+      "rewrite_en": "Evaluation criteria: technical part 70%, price 30%, pass mark 60 percent of the maximum technical score."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Aviakompaniyaning ijobiy tavsiyasi yoki sharhi mavjudligi; bo'lsa 5- ball",
+      "explanation_uz": "Xuddi shu aviakompaniya tavsiyasi mezoni ikki marta (1- va 3-mezon) kiritilgan va jami 20 balldan 10 balli shunga bog'liq. Kichik yoki yangi yuk agentlari bunday tavsiyani olishi qiyin bo'lishi mumkin. Bu bo'yicha aniqlashtiruvchi savol berish mumkin.",
+      "explanation_en": "The same airline-recommendation criterion appears twice (criteria 1 and 3), so 10 of the 20 points depend on it. A small or new cargo agent may find such a letter hard to obtain. A clarifying question is worthwhile.",
+      "rewrite_uz": "Aviakompaniya tavsiyasi bitta mezon sifatida kiritilsin yoki unga teng boshqa tasdiq (masalan, oldingi xizmat shartnomalari) ham qabul qilinsin.",
+      "rewrite_en": "Count the airline recommendation as a single criterion, or also accept equivalent proof such as earlier service contracts."
+    }
+  ],
+  "documents_needed_uz": [
+    "Radioaktiv materiallarni havo orqali tashish uchun litsenziya yoki ruxsatnoma",
+    "Aviakompaniyaning tavsiyasi yoki sharhi",
+    "Shtatdagi IATA DGR sertifikatli xavfli yuklar mutaxassislari haqida hujjatlar",
+    "Soliq xizmati va bank oldida qarzdorlik yo'qligi to'g'risida ma'lumotnoma",
+    "Insofsiz ijrochilar reyestrida qayd etilmaganlik to'g'risida hujjat"
+  ]
+}

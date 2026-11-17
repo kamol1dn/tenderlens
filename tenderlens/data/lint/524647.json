@@ -1,0 +1,73 @@
+{
+  "lot_id": 524647,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Muborak obyektlarida 30 m3 li avtosisternalarda neft tashish xizmati (tonna-kilometr hisobida)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Xizmat: neft va gaz kondensatini tonna-kilometr uchun belgilangan stavka boʻyicha toʻlov asosida tashish.",
+      "summary_en": "Service: transport of oil and gas condensate paid per tonne-kilometre at a fixed rate.",
+      "quote": "neft tashish xizmatlarini ko‘rsatish, tonna-kilometr uchun haq to‘lash asosida"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Sisterna neft va neft xom ashyosini tashishga moʻljallangan, germetik, kalibrlangan va plombalash imkoniyatiga ega boʻlishi kerak.",
+      "summary_en": "The tank must be designed for oil and crude, sealed, calibrated, and capable of being sealed with tamper seals.",
+      "quote": "Sisterna neft va neft xom ashyolarini tashish uchun mo'ljallangan, germetik yopiladigan, kalibrlangan,"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Har bir texnika birligi datchiklar va sunʼiy yoʻldosh (GPS) monitoringi tizimi bilan jihozlangan boʻlishi kerak (25 ball).",
+      "summary_en": "Every vehicle must be fitted with sensors and satellite (GPS) monitoring (25 points).",
+      "quote": "Har bir maxsus texnika birligi yuqori uskunaning ishlashini nazorat qiluvchi datchiklar va bort sun’iy yo‘ldosh monitoringi tizimi bilan jihozlangan bo‘lishi kerak."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnikani quyish punktlariga yetkazish muddati qancha qisqa boʻlsa, ball shuncha yuqori (10 kungacha 10 ball, 21-30 kunda 3 ball).",
+      "summary_en": "The faster the fleet can be mobilised to the loading points, the more points (up to 10 days: 10 points; 21-30 days: 3 points).",
+      "quote": "Safarbarlik muddati — shartnoma tuzilgan kundan boshlab texnikani quyish punktlariga yetkazib berish"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Sisterna parkining ishlab chiqarilgan yili va texnik holati baholanadi (2020-yildan keyingi texnika uchun 15 ball, 2010-yildan keyingi uchun 10 ball).",
+      "summary_en": "Fleet age and condition are scored (15 points for 2020 or later, 10 points for 2010 or later).",
+      "quote": "Sisternalar parkidagi texnikalarning ishlab chiqarilgan yili va texnik holati"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Barcha haydovchilar xavfli yuklarni tashishga ruxsat hujjatlariga ega boʻlishi shart (25 ball).",
+      "summary_en": "All drivers must hold permits to carry hazardous cargo (25 points).",
+      "quote": "Barcha haydovchilarning xavfli yuklarni tashishga ruxsat hujjatlari bilan ta’minlanganligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Neft tashish tajribasi baholanadi: 3 yil va undan ortiq 15 ball, 2 yil va undan ortiq 10 ball.",
+      "summary_en": "Oil-haulage experience is scored: 3 years or more 15 points, 2 years or more 10 points.",
+      "quote": "Neft va neft mahsulotlarini tashish bo‘yicha 3 yil va undan ortiq tajribani tasdiqlovchi shartnomalar nusxalari"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash ikki bosqichda: A blok boʻyicha talablarga mos kelmasa diskvalifikatsiya; 70 balldan kam toʻplagan texnik taklif qabul qilinmaydi.",
+      "summary_en": "Two-stage evaluation: failing the block A mandatory requirements means disqualification; a technical offer scoring under 70 points is rejected.",
+      "quote": "70 balldan kam to'plagan texnik taklif qabul qilinmaydi."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Tijorat taklifi (har bir masofa diapazoni uchun 1 t*km stavkasi, QQS va YoMM hisobga olingan holda)",
+    "Texnika birliklari soni, markasi, modeli, ishlab chiqarilgan yili va sisterna hajmi koʻrsatilgan roʻyxat",
+    "Texnikaning xavfli yuklarni tashishga ruxsat etilganligini tasdiqlovchi hujjatlar",
+    "Sisternalarning amaldagi kalibrlash pasportlari nusxalari",
+    "Texnik pasportlar",
+    "Haydovchilik guvohnomalari va xavfli yuklarni tashish (ADR) guvohnomalari nusxalari",
+    "Shtatdagi xodimlar soni haqida maʼlumotnoma",
+    "Texnikaning sozligi va foydalanishga tayyorligini tasdiqlovchi kafolat xati",
+    "GPS oʻrnatish va monitoring tizimiga kirish maʼlumotlarini berish haqida kafolat xati",
+    "Texnikani quyish punktlariga yetkazish muddati haqida kafolat xati",
+    "Neft tashish tajribasini tasdiqlovchi shartnomalar, dalolatnomalar va buyurtmachilar fikrlari",
+    "Texnik topshiriq shartlariga rozilik xati",
+    "Davlat roʻyxatidan oʻtganlik guvohnomasi, ustav, bankrotlik boʻyicha maʼlumot"
+  ]
+}

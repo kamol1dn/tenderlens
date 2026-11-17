@@ -1,0 +1,90 @@
+{
+ "lot_id": 524784,
+ "backend": "in-session",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "sector": "other",
+ "subject_uz": "Uch sharoshkali burg'ulash uchlari (долота трехшарошечные), 2 dona",
+ "requirements": [
+  {
+   "kind": "evaluation",
+   "summary_uz": "Texnik qismdan o'tish uchun minimal ball 50.",
+   "summary_en": "The minimum pass score for the technical part is 50.",
+   "quote": "Иштирокчиларни техник кисмдан минимални утиш бали 50 баллни ташкил килади."
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Har bir mezon bo'yicha tasdiqlovchi hujjat to'liq va aniq biriktirilsa 5 ball, biriktirilmasa 1 ball beriladi.",
+   "summary_en": "For each criterion, complete and clear supporting documents earn 5 points, missing documents earn 1 point.",
+   "quote": "Тасдикловчи хужжат тулик ва аник бириктирилса 5 бал, бириктирилмаса 1 бал."
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Texnik parametrlarning texnik topshiriqqa muvofiqligi hujjatlar bilan asoslanishi kerak.",
+   "summary_en": "Conformity of technical parameters with the specification must be backed by documents.",
+   "quote": "Техник параметрларни солиштириш иштирокчиларнинг техник топширикларида курсатилган"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Tovar sifat talablariga javob berishini tasdiqlovchi sertifikatlar va yo'riqnomalar taqdim etilishi kerak.",
+   "summary_en": "Certificates confirming quality and instructions must accompany the goods.",
+   "quote": "Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар"
+  },
+  {
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati, davriyligi va miqdori bo'yicha talablar hujjat bilan tasdiqlanadi.",
+   "summary_en": "Delivery time, frequency and quantity requirements must be confirmed by documents.",
+   "quote": "Товарни етказиб бериш муддати бўйича талаблар (норезидент ва резидентлар учун алоҳида манзиллар белгиланиши мумкин)"
+  },
+  {
+   "kind": "other",
+   "summary_uz": "Kafolat va kafolatdan keyingi xizmat ko'rsatish talablari (muddat, joy) ko'rsatilishi kerak.",
+   "summary_en": "Warranty and post-warranty service terms (period, place) must be stated.",
+   "quote": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)"
+  },
+  {
+   "kind": "payment",
+   "summary_uz": "Narx shartnoma muddati davomida o'zgarmas bo'lishi va yuk tashish, sertifikatlash, sinov xarajatlarini qamrab olishi kerak.",
+   "summary_en": "The price must stay fixed for the whole contract and cover transport, certification and testing costs.",
+   "quote": "Иштирокчи томонидан таклиф килинган нарх шартноманинг бутун муддати давомида"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi shubhali operatsiyalar bo'yicha ro'yxatda bo'lmasligi kerak (soliq.uz ma'lumoti).",
+   "summary_en": "The bidder must not be on the list of entities with confirmed suspicious operations (tax portal data).",
+   "quote": "Шубҳали операцияларни амалга ошириб, норасмий иқтисодий фаолият юритганлик ҳолати тасдиқланган субъектлар рўйхатида эмаслиги."
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reyestrida bo'lmasligi kerak.",
+   "summary_en": "The bidder must not be listed in the unified register of unfair suppliers.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги."
+  }
+ ],
+ "flags": [
+  {
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "Мувофиклиги бахоланиши лозим булган давлат ветеринария хизмати назорати остидаги махсулотлар",
+   "explanation_uz": "Xarid predmeti uch sharoshkali burg'ulash dolotalari, lekin 5-mezon davlat veterinariya xizmati nazoratidagi mahsulotlar uchun muvofiqlik hujjatini baholaydi: hujjat biriktirilsa 5 ball, biriktirilmasa 1 ball. Dolota uchun bunday hujjat bo'lishi mumkin emas, shuning uchun ishtirokchi 4 ballni yo'qotishi mumkin. Bu matn platformaning standart shablonidan olingan ko'rinadi.",
+   "explanation_en": "The lot buys three-cone drill bits, yet criterion 5 scores a conformity document for products under state veterinary control: 5 points if attached, 1 if not. No such document can exist for drill bits, so a bidder may lose 4 points. The wording appears to come from the platform's standard template.",
+   "rewrite_uz": "5-mezon chiqarib tashlansin yoki quyidagicha bayon etilsin: «Tovarning texnik jihatdan tartibga solish sohasidagi normativ hujjatlarga muvofiqligi: tovar majburiy sertifikatlanishi lozim bo'lsa, muvofiqlik sertifikati taqdim etiladi; talab xarid predmetiga taalluqli bo'lmasa, barcha ishtirokchilarga to'liq ball beriladi».",
+   "rewrite_en": "Remove criterion 5, or word it as: \"Conformity of the goods with technical-regulation documents: where the goods are subject to mandatory certification, a conformity certificate is provided; where the requirement does not apply to the subject of the purchase, all bidders receive full points.\"",
+   "added_by": "second pass"
+  }
+ ],
+ "documents_needed_uz": [
+  "Texnik shakldagi ma'lumot (1T shakli)",
+  "Sifat sertifikatlari",
+  "Yo'riqnoma va ko'rsatmalar",
+  "Kafolat va kafolatdan keyingi xizmat bo'yicha hujjatlar",
+  "Yetkazib berish muddati bo'yicha tasdiqlovchi hujjat",
+  "Soliq organidan shubhali operatsiyalar ro'yxatida emasligi to'g'risida ma'lumot",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma"
+ ],
+ "first_pass_model": "claude-sonnet-5-5",
+ "second_pass": {
+  "model": "claude-fable-5-2",
+  "backend": "in-session",
+  "note": "demo lot re-read by the stronger model; flag added with a verbatim quote"
+ }
+}

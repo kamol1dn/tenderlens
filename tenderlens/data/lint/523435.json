@@ -1,0 +1,117 @@
+{
+  "lot_id": 523435,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Azot kislotasi eritmalari uchun kamerali filtr-press (30 kamera, 1000x1000 mm) xaridi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Azot kislotasi eritmalari uchun 30 kamerali, 1000×1000 mm plitali kamerali filtr-press yetkazib beriladi.",
+      "summary_en": "A chamber filter press for nitric acid solutions, 30 chambers with 1000×1000 mm plates.",
+      "quote": "камерный фильтр-пресс для растворов азотной кислоты (30 камер, 1000×1000 мм)"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Filtrlash plitalari yuqori haroratga va kislotaga chidamli sof polipropilendan bo'lishi, oddiy PP ruxsat etilmaydi.",
+      "summary_en": "Filter plates must be high-temperature, acid-resistant pure polypropylene; standard PP is not permitted.",
+      "quote": "Высокотемпературный химически стойкий чистый полипропилен (High-Temp & Acid Resistant PP)"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Zichlagichlar Viton (FKM) dan bo'lishi, EPDM yoki NBR rezinasi taqiqlanadi.",
+      "summary_en": "Seals must be Viton (FKM); EPDM or NBR rubber is prohibited.",
+      "quote": "Витон (Viton / FKM). Применение резины EPDM или NBR запрещено"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Plitalarni siqishning maksimal gidravlik bosimi 21 MPa (210 bar) bo'lishi kerak.",
+      "summary_en": "Maximum hydraulic plate-clamping pressure of 21 MPa (210 bar).",
+      "quote": "Plitalarni siqishning maksimal bosimi (gidravlik): 21 MPa (210 bar)"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Boshqaruv tizimi PLC (Siemens / Delta) kontrolleri va sensorli operator paneli asosida bo'ladi.",
+      "summary_en": "Control system based on a PLC (Siemens / Delta) controller with a touch HMI panel.",
+      "quote": "Boshqaruv tizimi: PLC (Siemens / Delta) kontrolleri va sensorli operator paneli (HMI)"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Uskuna yangi bo'lishi va 2026-yildan oldin ishlab chiqarilmagan bo'lishi lozim.",
+      "summary_en": "The equipment must be new and manufactured no earlier than 2026.",
+      "quote": "hamda 2026-yildan oldin ishlab chiqarilmagan bo‘lishi lozim"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Bajarish muddati 70 kun.",
+      "summary_en": "Delivery period is 70 days.",
+      "quote": "Сроки выполнения работ | 70 дней"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishga tushirish-sozlash ishlari ishlab chiqaruvchi zavod mutaxassislari tomonidan bajarilishi shart.",
+      "summary_en": "Commissioning must be done by specialists of the manufacturing plant.",
+      "quote": "Mazkur ishlar ishlab chiqaruvchi zavod mutaxassislari tomonidan amalga oshirilishi lozim."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30 foiz avans 15 kalendar kun ichida, bank kafolati yoki avans sug'urtasi bilan to'lanadi; qolgan 70 foiz yetkazishdan keyin.",
+      "summary_en": "30% advance within 15 calendar days against a bank guarantee or advance insurance; 70% after delivery.",
+      "quote": "Предоплата в размере 30% от общей суммы Договора производится в течение 15 (пятнадцать) календарных дней"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oxirgi 3 yilda 3 tadan ortiq o'xshash yetkazib berish 20 ball, 1-2 ta esa 10 ball beradi.",
+      "summary_en": "More than 3 similar supply projects in the last 3 years earns 20 points; 1-2 projects earn 10.",
+      "quote": "Более 3 проектов за последние 3 года — 20 баллов"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "3 yil va undan ortiq kafolat hamda sug'urta hujjati bo'lsa 10 ball beriladi.",
+      "summary_en": "A warranty of 3 years or more plus an insurance document earns 10 points.",
+      "quote": "Предоставлены гарантийные обязательства на 3 года и более + официальное письмо или страховой полис от страховой компании — 10 баллов"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishlab chiqaruvchi zavodning dilerlik sertifikati yoki avtorizatsiya xati 10 ball bilan baholanadi.",
+      "summary_en": "A dealer certificate or authorisation letter from the manufacturer is scored at 10 points.",
+      "quote": "Zavod ishlab chiqaruvchisining dilerlik sertifikati yoki avtorizatsiya xati"
+    }
+  ],
+  "flags": [
+    {
+      "type": "dealer_letter",
+      "severity": "medium",
+      "quote": "Zavod ishlab chiqaruvchisining dilerlik sertifikati yoki avtorizatsiya xati",
+      "explanation_uz": "Ishlab chiqaruvchining dilerlik sertifikati yoki avtorizatsiya xati 10 ball (jami 96 balldan) bilan baholanadi. Ishlab chiqaruvchining rasmiy vakili bo'lmagan, lekin uskunani texnik topshiriq talablariga mos holda yetkaza oladigan yetkazib beruvchilar bu ballni yoʻqotishi mumkin. Texnik mosligi boshqa mezonlar (texnik taklif, kafolat) orqali tekshiriladi.",
+      "explanation_en": "A manufacturer's dealer certificate or authorisation letter is scored at 10 points (out of 96). Suppliers who are not official representatives but can deliver equipment meeting the specification may lose these points. Technical suitability is already checked through other criteria (technical offer, warranty).",
+      "rewrite_uz": "Ishlab chiqaruvchining dilerlik sertifikati yoki avtorizatsiya xati yoki yetkazib beruvchining uskuna sifati va kafolat majburiyatlarini tasdiqlovchi boshqa hujjat (masalan, ishlab chiqaruvchi kafolat xati) taqdim etilishi mumkin.",
+      "rewrite_en": "A manufacturer's dealer certificate or authorisation letter, or another document confirming the supplier's ability to guarantee equipment quality and warranty (for example a manufacturer warranty letter), may be submitted."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "low",
+      "quote": "имеющие опыт проведения полного цикла аудита, осуществляемого на конкурентной основе",
+      "explanation_uz": "Ishtirokchilarga qo'yiladigan talablar qatorida 'to'liq audit o'tkazish tajribasi' ko'rsatilgan, bu esa filtr-press yetkazib berishga aloqador emas. Bu odatiy shablon matniga o'xshaydi; talab aniq bo'lmagani sababli ishtirokchilar tushunmovchilikka duch kelishi mumkin.",
+      "explanation_en": "The participant requirements mention experience of a full audit cycle, which has nothing to do with supplying a filter press. It looks like standard template wording; because it is unclear, bidders may be unsure whether they qualify.",
+      "rewrite_uz": "Ishtirokchi shunga o'xshash uskunalarni yetkazib berish tajribasiga ega bo'lishi kerak; audit tajribasi haqidagi band chiqarib tashlansin.",
+      "rewrite_en": "Participants should have experience supplying similar equipment; the sentence about audit experience should be removed."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ishtirok etish uchun ariza (1-shakl)",
+    "Kafolat xati: tugatish, bankrotlik, soliq qarzi va manfaatlar to'qnashuvi yo'qligi (2-shakl)",
+    "Ishtirokchi to'g'risida umumiy ma'lumot (3-shakl)",
+    "Moliyaviy holat to'g'risida ma'lumot va buxgalteriya balansi (4-shakl)",
+    "Halollik va manfaatlar bo'yicha ariza hamda kontragent anketasi (5-shakl)",
+    "Texnik taklif va texnik xususiyatlar solishtirma jadvali (6-shakl)",
+    "Ishlab chiqaruvchi zavoddan ishonchnoma (ishlab chiqaruvchi bo'lmagan ishtirokchi uchun)",
+    "O'xshash tovarlarni yetkazib berish tajribasi ro'yxati va kamida 3 ta shartnoma, dalolatnoma yoki hisob-faktura (7-shakl)",
+    "Kafolat majburiyatlari va sug'urta qoplamasi to'g'risida kafolat xati hamda sug'urta polisi (8-shakl)",
+    "Yetkazib berish va to'lov shartlari to'g'risida ma'lumot (9-shakl)",
+    "Ishlab chiqaruvchining dilerlik sertifikati yoki avtorizatsiya xati",
+    "Ishlab chiqaruvchi zavodning kafolat xati (kamida 12 oy)",
+    "Xalqaro namunadagi sifat sertifikati va texnik muvofiqlik sertifikati",
+    "Sanksiya ro'yxatlarida yo'qligi bo'yicha kafolat"
+  ]
+}

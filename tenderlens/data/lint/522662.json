@@ -1,0 +1,121 @@
+{
+  "lot_id": 522662,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "MTS (mobil aloqa) majmuasini o'rnatish uchun tirkama ko'rinishidagi mobil ko'chma stansiyalar (15 ta kompleks)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Taklif texnik topshiriqning 1-ilovasidagi talablarga to'liq mos bo'lishi va to'ldirilgan moslik jadvali (SoC) bilan tasdiqlanishi shart.",
+      "summary_en": "The bid must fully match the requirements in Annex 1 of the technical assignment and be backed by a completed compliance table (SoC).",
+      "quote": "Texnik topshiriqning 1-ilovasida keltirilgan talablar bilan moslik"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik baholash 100 balldan iborat, o'tish bali 99; narx bo'yicha eng past takliflar usuli qo'llaniladi.",
+      "summary_en": "Technical scoring is out of 100 with a pass mark of 99; the lowest-price method is used.",
+      "quote": "O‘tish balli 99,00 ballni tashkil etadi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Takliflar eng past narx usuli bo'yicha baholanadi.",
+      "summary_en": "Bids are evaluated by the lowest-price method.",
+      "quote": "Taklifni baholash usuli: Eng past narx usuli"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnomani bajarish uchun zarur moliyaviy resurslar mavjudligi haqida kafolat xati (4-ilova) taqdim etiladi.",
+      "summary_en": "A guarantee letter (Annex 4) confirming the financial resources needed to perform the contract must be provided.",
+      "quote": "shartnomani bajarish uchun zarur moliyaviy resurslarning mavjudligi to‘g‘risidagi kafolat xati"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi bankdan 5-ilova shaklidagi ma'lumotnoma (bank xati) taqdim etishi shart.",
+      "summary_en": "The bidder must submit a bank letter in the Annex 5 form.",
+      "quote": "Bank (kreditlar, bank kafolatlari, akkreditivlar, kafolatlar, lizing) yoki uchinchi shaxslar oldida majburiyatlari mavjud emas"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi asosiy benefitsiar haqidagi ma'lumotlarni oshkor qilishi kerak (1-ilova).",
+      "summary_en": "The bidder must disclose its ultimate beneficial owner (Annex 1).",
+      "quote": "asosiy benefisiar tog‘risidagi ma’lumotlarni oshkor qilish (Xarid qilish hujjatiga 1-ilova);"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kafolat xatida (2-ilova) ishtirokchi va uning ta'sischilari, direktorida tugallanmagan ishlar yo'qligi tasdiqlanadi.",
+      "summary_en": "The guarantee letter (Annex 2) must confirm there are no unfinished cases against the company, its founders or director.",
+      "quote": "Ishtirokchi kompaniyasida, shu jumladan uning ta’sischilarida, direktorida tugallanmagan jinoiy, ma’muriy yoki iqtisodiy yoki soliq bilan bog‘liq ishlar"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Taklif taqdim etish muddati tugaganidan keyin kamida 60 kun amal qilishi kerak.",
+      "summary_en": "The bid must remain valid for at least 60 days after the submission deadline.",
+      "quote": "takliflar taqdim etish tugagan kundan boshlab kamida 60 kun bo‘lishi kerak."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnoma qiymatining 15 foizi avans sifatida to'lanadi.",
+      "summary_en": "15% of the contract value is paid as an advance.",
+      "quote": "Shartnoma umumiy qiymatining 15% (o‘n besh foizi)"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Qolgan 85 foiz to'liq hajm yetkazilib hujjatlar imzolangandan keyin 90 kalendar kun ichida to'lanadi.",
+      "summary_en": "The remaining 85% is paid within 90 calendar days after documents for the full volume are signed.",
+      "quote": "Tovarning qiymatining 85 foizi (sakson besh foizi) miqdorida"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati 90 ish kuni, manzil Toshkent shahri, Farg'ona yo'li, 15; miqdori 15 ta kompleks.",
+      "summary_en": "Delivery is within 90 working days to Tashkent, Fergana road 15; quantity is 15 complexes.",
+      "quote": "Yetkazib berish muddati: 90 ish kuni ichida."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat muddati 12 oy.",
+      "summary_en": "The warranty period is 12 months.",
+      "quote": "Kafolat muddati: 12 (o‘n ikki) oy"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "high",
+      "quote": "Bank (kreditlar, bank kafolatlari, akkreditivlar, kafolatlar, lizing) yoki uchinchi shaxslar oldida majburiyatlari mavjud emas",
+      "explanation_uz": "5-ilova shaklidagi bank xatida ishtirokchining bank yoki uchinchi shaxslar oldida hech qanday majburiyati (kredit, kafolat, lizing) yo'qligi tasdiqlanishi kerak. Shakl bo'yicha taqdim etilmagan hujjat malakaviy bosqichda chetlashtirishga olib keladi, shuning uchun oddiy kredit liniyasi yoki lizingi bo'lgan, 4 032 000 000 so'mlik lotni bajara oladigan ishtirokchilar ham chetlashtirilishi mumkin.",
+      "explanation_en": "The Annex 5 bank letter must state the bidder has no obligations to a bank or third parties (loans, guarantees, leasing). A document not in the set form leads to disqualification at the qualification stage, so capable bidders with an ordinary credit line or lease could be excluded from this 4,032,000,000 UZS lot.",
+      "rewrite_uz": "Bank xatida ishtirokchining hisobvaraqlari faol ekani, muddati o'tgan qarzi va hisobvaraqda ta'qiq yo'qligi tasdiqlansin; oddiy kredit va lizing majburiyatlari mavjudligi chetlashtirish sababi bo'lmasin.",
+      "rewrite_en": "The bank letter confirms active accounts, no overdue debt and no account restrictions; ordinary loans and leases are not a ground for exclusion."
+    },
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Ishtirokchi kompaniyasida, shu jumladan uning ta’sischilarida, direktorida tugallanmagan jinoiy, ma’muriy yoki iqtisodiy yoki soliq bilan bog‘liq ishlar",
+      "explanation_uz": "Kafolat xatida ishtirokchi, uning har bir ta'sischisi va direktorida tugallanmagan har qanday ma'muriy, iqtisodiy yoki soliq ishi yo'qligi tasdiqlanishi talab qilinadi. Kichik ma'muriy ish ham ishtirokchini malakaviy bosqichda chetlashtirishi mumkin va talab ishlarni bajarish qobiliyatiga aloqador emas.",
+      "explanation_en": "The guarantee letter must state that the company, each founder and the director have no unfinished administrative, economic or tax case of any kind. Even a minor administrative matter could exclude a bidder at the qualification stage, though it need not relate to ability to perform.",
+      "rewrite_uz": "Ishtirokchi va uning rahbariga nisbatan shartnomani bajarishga to'sqinlik qiladigan, kuchga kirgan sud qarori yoki jinoiy ish yo'qligi tasdiqlansin.",
+      "rewrite_en": "Require confirmation only that there is no binding court decision or criminal case that would prevent the bidder and its director from performing the contract."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "bankdan olingan ma’lumotnoma (bank xati) berilgan sana takliflarni topshirish muddati yakunlanishidan kamida 30 kun oldin berilgan bo‘lishi kerak (ya’ni 30 kundan eski bo‘lmasligi lozim)",
+      "explanation_uz": "Bir gapda bank xati taklif muddati tugashidan kamida 30 kun oldin berilgan bo'lishi, ayni paytda 30 kundan eski bo'lmasligi kerakligi aytilgan; bu ikki talab bir-biriga zid. Taklif muddati 7 kun ekanini hisobga olsak, noaniqlik xatni to'g'ri tayyorlagan ishtirokchini chetlashtirishga olib kelishi mumkin.",
+      "explanation_en": "One sentence says the bank letter must be issued at least 30 days before the deadline and also that it must not be older than 30 days; the two cannot both hold. With a 7-day bidding window this ambiguity could disqualify a bidder who prepared the letter in good faith.",
+      "rewrite_uz": "Bank xati taklif topshirish muddati tugashidan oldingi oxirgi 30 kun ichida berilgan bo'lishi kerak.",
+      "rewrite_en": "The bank letter must be issued within the 30 days before the bid deadline."
+    }
+  ],
+  "documents_needed_uz": [
+    "1-ilova: texnik topshiriqqa moslik jadvali (SoC), .pdf va .xlsx formatida",
+    "1-ilova: ishtirokchi so'rovnomasi (benefitsiar va ta'sischilar haqida ma'lumot)",
+    "2-ilova: kafolat xati (bankrotlik, sud, soliq va boshqa holatlar bo'yicha)",
+    "3-ilova: qoidabuzarliklarga yo'l qo'ymaslik bo'yicha ariza",
+    "4-ilova: zarur moliyaviy va boshqa resurslar mavjudligi haqida kafolat xati",
+    "5-ilova shaklidagi bank xati (imzo kartochkasi nusxasi bilan)",
+    "Soliq organining qarzdorlik yo'qligi haqidagi ma'lumotnomasi",
+    "Majburiy ijro byurosi saytidan skrinshot",
+    "Shunga o'xshash xizmatlar tajribasi haqida ma'lumot (so'rovnomada)"
+  ]
+}

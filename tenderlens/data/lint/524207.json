@@ -1,0 +1,132 @@
+{
+ "lot_id": 524207,
+ "backend": "in-session",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "sector": "food",
+ "subject_uz": "Maktabgacha ta'lim tashkilotida tarbiyalanuvchilar uchun issiq ovqat tashkil etish (autsorsing), 2026-yil noyabr-dekabr oylari",
+ "requirements": [
+  {
+   "kind": "technical",
+   "summary_uz": "Taomnoma Ijtimoiy himoya milliy agentligi taqdim etadigan namunaviy taomnomaga mos bo'lishi va SanQvaN talablariga amal qilinishi kerak.",
+   "summary_en": "The menu must follow the model menu supplied by the national social-protection agency and comply with the SanQvaN sanitary rules.",
+   "quote": "Taomnoma: Ijtimoiy himoya milliy agentligi tomonidan taqdim etiladigan namunaviy taomnomaga mos ravishda"
+  },
+  {
+   "kind": "payment",
+   "summary_uz": "Ustama haq 15 foizdan kam va 16 foizdan ko'p bo'lmasligi kerak; narx qismi 30 ball bilan baholanadi.",
+   "summary_en": "The contractor's mark-up must be between 15 and 16 percent; the price part carries 30 points.",
+   "quote": "Taklif etiladigan ustama haqi miqdori l6 foizdan oshmasligi hamda 15 foizdan kam bo'lmasligi lozim"
+  },
+  {
+   "kind": "payment",
+   "summary_uz": "Avans oldingi oydagi haqiqiy xarajatlarning 30 foizi miqdorida to'lanadi, yakuniy hisob-kitob oy oxirida amalga oshiriladi.",
+   "summary_en": "The advance is 30 percent of the previous month's actual costs; final settlement is made at the end of each month.",
+   "quote": "buyurtmachi tomonidan awalgi oyda ovqatlanish uchun amalga oshirilgan haqiqiy xarajatlaming 30 foizi miqdorida oldindan to'lov (avans) amalga oshiriladi"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi kamida uch oylik shartnoma summasiga teng aylanma mablag'ga ega ekanini moliyaviy hujjatlar bilan tasdiqlaydi.",
+   "summary_en": "The bidder must prove working capital equal to at least three months of the contract sum with financial documents.",
+   "quote": "Ishtirokchi kamida uch oylik shartnoma summasiga teng aylanma mablag'larga ega ekanligini moliyaviy hujjatlar bilan tasdiqlaydi"
+  },
+  {
+   "kind": "other",
+   "summary_uz": "Ijrochi shartnoma summasining kamida 1 foizi miqdorida (taxminan 657 ming so'm) buyurtmachi muassasasiga investitsiya kiritishga kafolat xati beradi.",
+   "summary_en": "The contractor must give a guarantee letter to invest at least 1 percent of the contract sum (about 657 thousand UZS) in the customer's facility.",
+   "quote": "Ishtirokchi shartnoma umumiy summasining kamida 1 foizi miqdorida investitsiya kiritishga roziligi haqida kafolat xatini taqdim etadi."
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Menyu va menyu-kalkulyatsiya hujjatlari SanQvaN ga mosligi uchun 20 ballgacha beriladi.",
+   "summary_en": "Up to 20 points are given for a menu and menu-costing documents that comply with SanQvaN.",
+   "quote": "Ishtirokchi amaldagi SanQvaN talablariga muvofiq taomnoma, menyu-kalkulyatsiya, har bir taom bo‘yicha chiqish vazni, tarkibi, mahsulot sarfi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Oxirgi 3 yilda xizmat ko'rsatilgan tashkilotlar ro'yxati va kamida 5 ta tavsiyanoma uchun 15 ballgacha beriladi.",
+   "summary_en": "Up to 15 points depend on a list of organisations served in the last 3 years and at least 5 recommendation letters.",
+   "quote": "Xizmat ko‘rsatgan tashkilotlardan kamida 5 ta tavsiyanoma ilova qilinadi."
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Oshxona jihozlari, omborxona, sovitkich, transport, inventar va xodimlar mavjudligi uchun 20 ballgacha beriladi.",
+   "summary_en": "Up to 20 points are given for owning kitchen equipment, a warehouse, refrigeration, transport, inventory and staff.",
+   "quote": "20 ball – quyidagi barcha asosiy resurslar to‘liq mavjud bo‘lsa: oshxona/ishlab chiqarish jihozlari, omborxona, sovitkich uskunalari, transport vositalari, inventarlar hamda malakali xodimlar tarkibi."
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Ruxsat etuvchi hujjatlar, sanitariya xulosalari va sertifikatlar soni bo'yicha ball beriladi (20 tadan ortiq bo'lsa 5 ball).",
+   "summary_en": "Points depend on the number of permits, sanitary opinions and certificates submitted (5 points for more than 20).",
+   "quote": "Ishtirokchi faoliyat turi uchun talab etiladigan ruxsat etuvchi hujjatlar, sanitariya-epidemiologiya xulosalari, muvofiqlik sertifikatlari, sifat va xavfsizlikni tasdiqlovchi hujjatlarni taqdim etadi."
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi xodimlari sanitariya kitobchasiga ega bo'lishi va tibbiy ko'rikdan o'tganligi hujjatlarini taqdim etishi kerak.",
+   "summary_en": "The bidder must provide sanitary books and medical-check documents for its staff.",
+   "quote": "Ishtirokchi xodimlari sanitariya kitobchasi va belgilangan tartibda tibbiy ko'rikdan o'tganligini tasdiqlovchi hujj atlami taqdim etadi."
+  }
+ ],
+ "flags": [
+  {
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "Qish-bahor mavsumida asosiy turdagi oziq-ovqat mahsulotlarining kamida uch oylik zaxirasini shakllantirish va uni doimiy ravishda saqlab borishni ta'minlash",
+   "explanation_uz": "Xizmat muddati 2026-yil 1-noyabrdan 31-dekabrgacha, ya'ni ikki oy, lot boshlang'ich narxi esa 65 707 040 so'm. Shunga qaramay, kamida uch oylik asosiy oziq-ovqat zaxirasini yig'ish va doimiy saqlash talab qilinadi; bu taxminan 85 mln so'm tovar zaxirasi demak (16 foiz ustamasiz oziq-ovqat qiymatidan hisoblanganda) va u lotning umumiy narxidan ham yuqori, shu sababli kichik ta'minotchilar qatnashishi cheklanishi mumkin.",
+   "explanation_en": "The service runs for two months (1 November to 31 December 2026) and the lot start price is 65,707,040 UZS. Yet a standing reserve of at least three months of staple food is required, roughly 85 million UZS of stock (estimated from the food cost without the 16 percent mark-up), which is more than the whole lot price and may keep smaller suppliers out.",
+   "rewrite_uz": "Ijrochi shartnoma muddati davomida ovqatlantirish uzluksizligini ta'minlash uchun yetarli aylanma mablag' va saqlash joyiga ega bo'lishi lozim; oziq-ovqat zaxirasi hajmi xizmat muddatiga mutanosib (masalan, kamida 10 kunlik ehtiyoj) belgilansin.",
+   "rewrite_en": "The contractor must have enough working capital and storage to keep meals uninterrupted during the contract; the food reserve is set in proportion to the service period (for example at least 10 days of need)."
+  },
+  {
+   "type": "excessive_experience",
+   "severity": "medium",
+   "quote": "20 ball – quyidagi barcha asosiy resurslar to‘liq mavjud bo‘lsa: oshxona/ishlab chiqarish jihozlari, omborxona, sovitkich uskunalari, transport vositalari, inventarlar hamda malakali xodimlar tarkibi.",
+   "explanation_uz": "To'liq 20 ball ishtirokchining o'zida oshxona jihozlari, omborxona, sovitkich, transport va inventar bo'lishiga bog'langan. Texnik topshiriqning 7.1-bandiga ko'ra esa buyurtmachi oshxona xonalari, jihozlar va inventarni ijrochiga foydalanishga beradi, 11.8-bandda ham transport va ombor faqat \"mavjud bo'lsa\" ko'rsatiladi. Shu sababli resursi yo'q, lekin xizmatni bajara oladigan ishtirokchi 10-20 ball yo'qotishi mumkin.",
+   "explanation_en": "The full 20 points require the bidder to hold kitchen equipment, a warehouse, refrigeration, transport and inventory. Yet item 7.1 of the specification says the customer hands over kitchen premises, equipment and inventory, and item 11.8 asks for transport and storage only \"if available\". A bidder without its own assets that could still do the job may lose 10-20 points.",
+   "rewrite_uz": "Ball ishtirokchi xizmatni bajarish uchun zarur resurslarni (o'ziniki, ijaraga olingan yoki buyurtmachi taqdim etadiganlarni hisobga olgan holda) ta'minlay olishi, xususan transport va xodimlar mavjudligi bo'yicha berilsin.",
+   "rewrite_en": "Award points for the bidder's ability to secure the resources needed to perform the service (own, leased or supplied by the customer), in particular transport and staff."
+  },
+  {
+   "type": "other",
+   "severity": "medium",
+   "quote": "Taklif etiladigan ustama haqi miqdori l6 foizdan oshmasligi hamda 15 foizdan kam bo'lmasligi lozim",
+   "explanation_uz": "Ustama haq 15 va 16 foiz oralig'ida bo'lishi shart, ammo narx qismi 30 ball bilan baholanadi: Ball = (eng past ustama / taklif etilgan ustama) x 30. Shu sababli narx bo'yicha farq ko'pi bilan 2 ball atrofida bo'ladi va 15 foizdan past ustama bilan ishlay oladigan ishtirokchi qatnasha olmaydi. Tanlash hujjatlarida esa faqat 16 foizdan yuqori takliflar rad etilishi yozilgan, pastki chegara haqida gap yo'q.",
+   "explanation_en": "The mark-up must lie between 15 and 16 percent, although the price part is worth 30 points by the formula (lowest mark-up / offered mark-up) x 30. Price can therefore change the result by only about 2 points, and a bidder able to work at a mark-up below 15 percent cannot take part. The tender document itself only says bids above 16 percent are rejected and states no lower limit.",
+   "rewrite_uz": "Ustama haq faqat yuqori chegara (16 foiz) bilan cheklansin yoki pastki chegara tanlash hujjatlarida ham aniq va asoslangan holda ko'rsatilsin.",
+   "rewrite_en": "Limit the mark-up only by an upper bound (16 percent), or state any lower bound clearly and with a reason in the tender document as well.",
+   "first_pass_severity": "low",
+   "reviewed_by": "second pass"
+  },
+  {
+   "type": "excessive_experience",
+   "severity": "low",
+   "quote": "Xizmat ko‘rsatgan tashkilotlardan kamida 5 ta tavsiyanoma ilova qilinadi. Ma’lumotlar jadval shaklida tasdiqlangan bo‘lishi lozim. 15 ball – 5 tadan ko‘p tashkilot va tavsiyanomalari mavjud bo‘lsa.",
+   "explanation_uz": "Ikki oylik, 65 707 040 so'mlik xizmat uchun oxirgi 3 yilda 5 tadan ko'p tashkilotga xizmat ko'rsatgan va tavsiyanoma olgan ishtirokchi 15 ball oladi, 1-2 ta tashkilotli ishtirokchi esa atigi 1 ball. Yangi yoki kichik ijrochilar 14 ballgacha yo'qotadi, bu esa texnik qismda hal qiluvchi farq bo'lishi mumkin.",
+   "explanation_en": "For a two-month service worth 65,707,040 UZS, a bidder with more than 5 served organisations and recommendation letters in the last 3 years gets 15 points, while one with 1-2 organisations gets only 1 point. New or small contractors can lose up to 14 points, which may be decisive in the technical part.",
+   "rewrite_uz": "Oxirgi 3 yilda bolalar yoki ta'lim muassasalarida ovqatlantirish xizmatini ko'rsatgan kamida 1 ta shartnoma mavjudligi tasdiqlansa, to'liq ball berilsin; tavsiyanomalar soni bo'yicha keskin farq qo'llanilmasin.",
+   "rewrite_en": "Award full points if at least one catering contract for children's or educational institutions in the last 3 years is documented; avoid a steep scale based on the number of recommendation letters.",
+   "first_pass_severity": "medium",
+   "reviewed_by": "second pass"
+  }
+ ],
+ "documents_needed_uz": [
+  "Ishtirokchi hisob-kitob-kliring palatasidagi hisobvarag'iga zakalat va avans kiritganligi",
+  "Soliq qarzdorligi, to'lovlar va insofsiz ijrochilar reyestrida qayd etilmaganligi to'g'risida rahbar tasdiqlagan ma'lumotnoma",
+  "Shartnoma umumiy summasining kamida 1 foizi miqdoridagi investitsiya kafolat xati (yo'nalishlari va taxminiy qiymatlari bilan)",
+  "Kamida uch oylik shartnoma summasiga teng aylanma mablag'larni tasdiqlovchi hujjatlar (bank ma'lumotnomasi, moliyaviy hisobot)",
+  "Texnik topshiriqqa muvofiqlik haqida kafolat xati",
+  "SanQvaN talablariga mos taomnoma va menyu-kalkulyatsiya (grammaj, tarkib, mahsulot sarfi, yosh toifalari)",
+  "Oxirgi 3 yilda xizmat ko'rsatilgan tashkilotlar ro'yxati va tavsiyanomalar",
+  "Moddiy-texnik baza, transport, ombor, inventar va xodimlar tarkibi to'g'risida ma'lumotnoma (foto va ijara shartnomalari bilan)",
+  "Ruxsat etuvchi hujjatlar, sanitariya-epidemiologiya xulosalari va muvofiqlik sertifikatlari",
+  "Xodimlarning sanitariya kitobchalari va tibbiy ko'rik hujjatlari",
+  "Ishtirokchi blankasida kafolat xati, halollik majburiyati arizasi va texnik kafolat xati (2-4 shakllar)",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi, nizom va rahbar tayinlanganligi to'g'risidagi hujjatlar",
+  "Affillangan shaxslar va manfaatlar to'qnashuvi bo'yicha ma'lumot"
+ ],
+ "first_pass_model": "claude-sonnet-5-5",
+ "second_pass": {
+  "model": "claude-fable-5-2",
+  "backend": "in-session",
+  "note": "reference-letter flag set to low, as on lot 524156 (same template clause); mark-up band set to medium, as on lot 524120 (same 15-16% band)"
+ }
+}

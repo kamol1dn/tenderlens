@@ -1,0 +1,97 @@
+{
+  "lot_id": 524130,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Tibbiy turizmni rivojlantirish uchun ijtimoiy tarmoqlarda SMM va marketing xizmatlari (7 oy)",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ijtimoiy tarmoqlarda SMM xizmatlarini boshqa tashkilotlarda qo'llagan tajriba va natijalar to'g'risida ma'lumotnoma ball beradi.",
+      "summary_en": "A reference letter on SMM work done for other organisations and its results is scored.",
+      "quote": "ижтимоий тармокларда СММ хизматларини бошка ташкилотларда кулланган булиши ва натижаси"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oylik kontent rejasi platformalar kesimida (Instagram, Facebook, Telegram, YouTube Shorts, Yandeks, Google My Business) ball beradi.",
+      "summary_en": "A monthly content plan per platform (Instagram, Facebook, Telegram, YouTube Shorts, Yandex, Google My Business) is scored.",
+      "quote": "Ойлик контент режаси — платформалар кесимида (Instagram, Facebook, Telegram, YouTube Shorts, Яндекс, Google My Business)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Jalb qilinadigan mutaxassislar soni va ular haqidagi ma'lumot ball beradi; 8 tadan kam bo'lsa ball kamayadi.",
+      "summary_en": "The number of specialists and information about them is scored; fewer than 8 lowers the score.",
+      "quote": "мутахассислар сони 8 тадан кам булса"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Oyiga 30-35 tagacha Reels video (professional videografiya, 3D/animatsiya aralash) tayyorlanishi kerak.",
+      "summary_en": "Up to 30-35 Reels videos per month (professional video plus 3D/animation) must be produced.",
+      "quote": "30–35 тагача Reels/ой (профессионал видеография + 3D/анимация аралаш)"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Oyiga 5 tagacha YouTube formatidagi sharh videosi tayyorlanib, professional montaj qilinib, kanalga joylanadi.",
+      "summary_en": "Up to 5 YouTube-format review videos per month must be produced, professionally edited and posted.",
+      "quote": "Ойига 5 тагача YouTube форматидаги обзор видеоконтент тайёрлаш, профессионал монтаж қилиш"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Marketing auditi doirasida kamida 5 ta mintaqaviy/xalqaro klinika raqobatchi sifatida tahlil qilinadi.",
+      "summary_en": "The marketing audit must analyse at least 5 regional or international clinics as competitors.",
+      "quote": "Рақобатчилар таҳлили (камида 5та минтақавий/халқаро клиника, уларнинг позициялаши, каналлари)"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Aniq CRM platformasini taklif qilib, tanlov sababini asoslash kerak.",
+      "summary_en": "A specific CRM platform must be proposed and the choice justified.",
+      "quote": "Аниқ CRM платформасини таклиф қилиш ва сабабини асослаш (масалан: Bitrix24, amoCRM ва ш.к.)"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Savdo bo'limi xodimlari CRM va skriptlar bo'yicha o'qitiladi, o'qitish soatlari va dasturi ko'rsatiladi.",
+      "summary_en": "Sales staff must be trained on CRM and scripts, with training hours and programme stated.",
+      "quote": "Сотув бўлими ходимларини CRM ва скриптлар бўйича ўқитиш (ўқитиш соатлари ва дастур кўрсатилиши шарт)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Marketolog tibbiyot/turizm sohasida kamida 3 yil tajribaga ega bo'lishi kerak.",
+      "summary_en": "The marketer must have at least 3 years of experience in the medical or tourism field.",
+      "quote": "Маркетолог (тиббий/туризм соҳасида камида 3 йил тажриба)"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Har oyda to'liq hisobot (KPI, byudjet sarfi, natijalar tahlili) topshiriladi.",
+      "summary_en": "A full monthly report (KPIs, budget use, results analysis) must be submitted.",
+      "quote": "Ойлик тўлиқ ҳисобот (KPI, бюджет сарфи, натижалар таҳлили)"
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "мутахассислар сони 8 тадан кам булса",
+      "explanation_uz": "3-mezonda (20 ball, texnik qismdagi 60 balldan) jalb qilinadigan mutaxassislar soni 8 tadan kam bo'lsa 20 ball o'rniga 10 ball, 5 tadan kam bo'lsa 5 ball beriladi. Lot narxi 42 000 000 so'm bo'lib, 7 oylik xizmat uchun sakkiz xil rolni (marketolog, SEO, SMM, dizayner, videograf, muharrir, kopirayter, targetolog) to'liq jamoa bilan qoplash kichik ijrochilarning ballini kamaytirishi mumkin.",
+      "explanation_en": "Criterion 3 (20 points of the 60 technical points) gives 10 instead of 20 if fewer than 8 specialists are listed, and 5 if fewer than 5. For a lot worth 42,000,000 UZS over 7 months, requiring a full team of eight distinct roles may cost small bidders half the points on this criterion.",
+      "rewrite_uz": "Ijrochi xizmat hajmini bajarish uchun yetarli mutaxassislar tarkibini (rollar va tajribasi bilan) taqdim etadi; bir mutaxassis bir nechta rolni birlashtirishi mumkin. Ball taklif etilgan tarkibning xizmat hajmiga mosligi bo'yicha beriladi.",
+      "rewrite_en": "The bidder provides a team (roles and experience) sufficient for the service volume; one specialist may cover several roles. Points are awarded for how well the proposed team fits the service volume."
+    },
+    {
+      "type": "bundling",
+      "severity": "medium",
+      "quote": "Сотув бўлими ходимларини CRM ва скриптлар бўйича ўқитиш (ўқитиш соатлари ва дастур кўрсатилиши шарт)",
+      "explanation_uz": "Lot nomi ijtimoiy tarmoqlarda SMM xizmatlari deb berilgan, ammo texnik topshiriq marketing auditi, savdo bo'limini qurish, CRM joriy etish, SEO va reklama kabinetlarini boshqarishni ham o'z ichiga oladi. Bunday keng to'plamni 42 000 000 so'mlik bitta lotda faqat to'liq xizmatli agentliklar qoplay oladi, SMM bo'yicha ixtisoslashgan ijrochilar esa chetda qolishi mumkin.",
+      "explanation_en": "The lot title says SMM services on social networks, but the specification also covers a marketing audit, building a sales department, CRM set-up, SEO and ad-account management. Only full-service agencies may be able to cover such a broad bundle for 42,000,000 UZS, which may leave out SMM-focused suppliers.",
+      "rewrite_uz": "Savdo bo'limini qurish, CRM joriy etish va xodimlarni o'qitish ishlarini alohida lotga ajratish yoki ularni ixtiyoriy (qo'shimcha ball beruvchi) qism sifatida belgilash.",
+      "rewrite_en": "Split the sales-department build-out, CRM set-up and staff training into a separate lot, or mark them as an optional part that earns extra points."
+    }
+  ],
+  "documents_needed_uz": [
+    "SMM xizmatlarini boshqa tashkilotlarda qo'llash tajribasi va natijalari to'g'risida ma'lumotnoma (tashkilotlar nomi bilan)",
+    "Platformalar kesimida oylik kontent rejasi va hajmlar to'g'risida ma'lumotnoma",
+    "Jalb qilinadigan mutaxassislar ro'yxati va ular haqidagi ma'lumotnoma (tajriba ko'rsatilgan)",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi",
+    "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik yo'qligi to'g'risida ma'lumotnoma",
+    "Taklif ta'minoti (lot narxining 3 foizi)"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "lot_id": 523820,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "Markaziy bank ehtiyoji uchun 200 ta monoblok va 500 ta noutbuk xarid qilish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Turi I: 200 ta korporativ monoblok (27 dyuym QHD ekran, kamida 20 yadroli protsessor, 32 GB DDR5, 1 TB NVMe).",
+      "summary_en": "Type I: 200 corporate all-in-one PCs (27-inch QHD, at least 20 cores, 32 GB DDR5, 1 TB NVMe).",
+      "quote": "Компьютер тип I (моноблок- All-in-One) – 200 комплектов"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Turi 2: 500 ta korporativ noutbuk (14 dyuym FHD+, kamida 12 yadro, 32 GB DDR5, 512 GB SSD, 64 Wh batareya).",
+      "summary_en": "Type 2: 500 corporate laptops (14-inch FHD+, at least 12 cores, 32 GB DDR5, 512 GB SSD, 64 Wh battery).",
+      "quote": "Компьютер тип 2 (Ноутбук - Laptop) – 500 комплектов"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash faqat narx boyicha (narx 100%); texnik muvofiqlik taqqoslash jadvali (6-shakl) bilan tasdiqlanadi.",
+      "summary_en": "Evaluation is on price only (price 100%); technical conformity is confirmed by the comparison table (Form 6).",
+      "quote": "Yetkazib beruvchi texnik va ekspluatatsion xususiyatlarning muvofiqligini taqqoslash jadvali orqali tasdiqlaydi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Uskuna ishlab chiqaruvchisidan yetkazib berish va kafolatdan keyingi xizmat huquqini tasdiqlovchi avtorizatsiya xati talab qilinadi.",
+      "summary_en": "A manufacturer authorisation letter confirming the right to supply and service the equipment is required.",
+      "quote": "Ishtirokchiga uskunani yetkazib berish va/yoki ushbu uskunaga kafolatdan keyingi xizmat ko‘rsatishni amalga oshirish huquqi berilgani tasdiqlaydigan, uskuna ishlab chiqaruvchisidan berilgan avtorizatsiya xati"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Oxirgi uch yilda bajarilgan oxshash loyihalar boyicha buyurtmachilar royxati va shartnomalar nusxalari talab qilinadi.",
+      "summary_en": "A list of similar projects from the last three years with customer names and contract copies is required.",
+      "quote": "Buyurtmachilarning nomlari, ularning amaldagi aloqa ma’lumotlari hamda loyihalarni amalga oshirish sanasi (oy, yil) ko‘rsatilgan ma’lumotnoma taqdim etiladi. Tasdiqlovchi hujjat sifatida shartnomalarning PDF formatidagi nusxalari ilova qilinadi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlab chiqaruvchining Toshkent shahrida ehtiyot qismlar ombori mavjudligini tasdiqlovchi hujjat talab qilinadi.",
+      "summary_en": "Proof of a manufacturer's spare-parts warehouse in Tashkent is required.",
+      "quote": "Ishlab chiqaruvchining Toshkent shahrida ehtiyot qismlarning ombori mavjudligi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Respublika hududida servis markazlari va ishlab chiqaruvchi sertifikatiga ega muhandislar mavjudligi talab qilinadi.",
+      "summary_en": "Service centres in Uzbekistan with manufacturer-certified engineers are required.",
+      "quote": "servis markazlarining mavjudligi hamda servis markazida sertifikatlangan muhandislarning mavjudligi (servis markazi xodimlariga ishlab chiqaruvchi tomonidan berilgan sertifikatlar). Qaytarib bo‘lmaydigan axborot tashuvchilar bilan kafolatli servis xizmati, shuningdek, Next Business Day xizmati - uskunalar ishlab chiqaruvchisining rasmiy veb-saytida tasdiqlangan holda."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Moliyaviy hisobotlar (auditor tasdiqlagan yoki 2024-yil uchun QR-kodli soliq qabuli) taqdim etilishi kerak.",
+      "summary_en": "Financial statements (audited or tax-accepted with QR code for 2024) must be provided.",
+      "quote": "Moliyaviy hisobotlarning mavjudligi (tashqi audit tashkilotlari tomonidan tasdiqlangan yoki soliq organlari tomonidan 2024-yil uchun QR- kod bilan qabul qilingan"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati 90 ish kunigacha, komplektlar boyicha qisman yetkazib berish mumkin.",
+      "summary_en": "Delivery within up to 90 working days; partial delivery by sets is allowed.",
+      "quote": "Сроки поставки - до 90 рабочих дней, допускается частичная поставка по комплектам."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Butun uskunaga 36 oy kafolat va ishlab chiqaruvchi vakolatli servis markazi orqali joyida xizmat talab qilinadi.",
+      "summary_en": "A 36-month warranty on all equipment is required, with on-site service via a manufacturer-authorised service centre.",
+      "quote": "Гарантия на все поставляемое оборудование должна быть действительна в течение тридцати шести (36) месяцев"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Uskunaning ishlab chiqarilgan yili 2025-yilning ikkinchi yarmidan erta bolmasligi kerak, uskuna yangi bolishi shart.",
+      "summary_en": "Equipment must be manufactured no earlier than the second half of 2025 and be new.",
+      "quote": "Год производства поставляемого оборудования не ранее второй половины 2025 года."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Ishlab chiqaruvchining ISO 9001:2015 sifat sertifikati talab qilinadi.",
+      "summary_en": "A manufacturer ISO 9001:2015 quality certificate is required.",
+      "quote": "Сертификат производителя на качество ISO 9001:2015"
+    }
+  ],
+  "flags": [
+    {
+      "type": "narrow_params",
+      "severity": "high",
+      "quote": "Dolby Atmos™ Harman Встроенное аудио HD Audio Senary SN6147 codec",
+      "explanation_uz": "Noutbuk talabida ichki audio mikrosxemasining (kodek) aniq nomi koʻrsatilgan. Bunday parametr funksional ehtiyojni emas, balki bitta modelning texnik varaqasini aks ettiradi va boshqa ishlab chiqaruvchilarning mos noutbuklarini chetlab oʻtishi mumkin.",
+      "explanation_en": "The laptop spec names an exact internal audio codec chip. This describes one model's datasheet rather than a functional need and may exclude comparable laptops from other manufacturers.",
+      "rewrite_uz": "Ichki audio: HD Audio kodek, kamida 2 x 2 W stereo dinamiklar, Dolby Atmos yoki ekvivalent.",
+      "rewrite_en": "Built-in audio: HD Audio codec, at least 2 x 2 W stereo speakers, Dolby Atmos or equivalent."
+    },
+    {
+      "type": "dealer_letter",
+      "severity": "medium",
+      "quote": "Авторизация от производителя оборудования (на официальном бланке производителя)",
+      "explanation_uz": "Kompyuter va noutbuklar keng sotiladigan tovar boʻlsa-da, ishtirokchidan ishlab chiqaruvchining oʻz blankasida avtorizatsiyasi talab qilinadi. Bu rasmiy distribyutor tarmogʻidan tashqaridagi, ammo yetkazib bera oladigan ta'minotchilarni chetlab oʻtishi mumkin.",
+      "explanation_en": "Computers and laptops are widely traded, yet a letter on the manufacturer's own letterhead is required. This may shut out capable suppliers that sit outside the official distributor network.",
+      "rewrite_uz": "Ishtirokchi uskunani yetkazib berish va kafolat xizmatini ta'minlay olishini tasdiqlovchi hujjat (ishlab chiqaruvchi yoki rasmiy distribyutor avtorizatsiyasi, yoki ishtirokchining oʻz kafolat majburiyati xati) taqdim etadi.",
+      "rewrite_en": "The bidder provides a document confirming it can supply the equipment and provide warranty service (manufacturer or official distributor authorisation, or the bidder's own warranty commitment letter)."
+    }
+  ],
+  "documents_needed_uz": [
+    "Tenderda ishtirok etish uchun ariza (1-shakl)",
+    "Ishtirokchi haqida umumiy ma'lumot (2-shakl)",
+    "Texnik taklif (5-shakl)",
+    "Texnik topshiriq bilan taqqoslash jadvali (6-shakl)",
+    "Ishlab chiqaruvchining avtorizatsiya xati",
+    "Oxirgi uch yildagi oxshash loyihalar haqida ma'lumotnoma va shartnomalar nusxalari",
+    "Ishlab chiqaruvchining Toshkentdagi ehtiyot qismlar ombori mavjudligini tasdiqlovchi hujjat",
+    "Servis markazlari va sertifikatlangan muhandislar mavjudligini tasdiqlovchi hujjatlar",
+    "Davlat royxatidan otganlik guvohnomasi",
+    "Soliq qarzdorligi yoqligi haqida ma'lumotnoma",
+    "Bankrotlik tartib-taomili yoqligi haqida ma'lumotnoma",
+    "Insofsiz ijrochilar reyestrida yoqligi haqida skrinshot",
+    "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yoqligi haqida skrinshot",
+    "Moliyaviy hisobotlar (2024-yil)",
+    "Buyurtmachi bilan sud yoki arbitraj jarayoni yoqligi haqida ma'lumot (3-shakl)",
+    "Qonunbuzarliklarga yol qoymaslik haqidagi ariza (4-shakl)",
+    "Manfaatlar toqnashuvi va aloqadorlik yoqligi haqida xat",
+    "Xodimlar sonini tasdiqlovchi ma'lumotnoma (my.gov.uz)"
+  ]
+}

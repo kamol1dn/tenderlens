@@ -1,0 +1,104 @@
+{
+  "lot_id": 524431,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Andijon shahar, Nayman ko'chasi 30-manzildagi \"Ishlab chiqarish\" binosining bozor qiymatini baholash xizmati",
+  "requirements": [
+    {
+      "kind": "delivery",
+      "summary_uz": "Baholash hisoboti shartnoma tuzilgandan keyin 7 ish kuni ichida tayyor bo'lishi kerak.",
+      "summary_en": "The valuation report must be ready within 7 working days of signing the contract.",
+      "quote": "shartnoma tuzilgandan so'ng 7 ish"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Baholashdan maqsad: bino-inshootning bozor qiymatini ommaviy savdolarga chiqarish va sotish uchun aniqlash.",
+      "summary_en": "Purpose: determine the market value of the building for public auction and sale.",
+      "quote": "ommaviy savdolarga chiqarish va sotish uchun bino-inshoot bozor bahosini aniqlash"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochi kamida 1 yil davomida baholash faoliyati bilan shugʻullangan boʻlishi kerak (litsenziya sanasidan hisoblanadi).",
+      "summary_en": "The contractor must have carried out valuation activity for at least 1 year, counted from the licence date.",
+      "quote": "Shartnoma tuzilgunga qadar (litsenziya berilgan sana bilan belgilanadi) k.amida 1 yil"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochi o'xshash loyihalar (jumladan xususiylashtirish) bo'yicha baholash tajribasini ko'rsatishi kerak.",
+      "summary_en": "The contractor must show experience with similar valuation projects (including privatisation).",
+      "quote": "o'xshash loyihani (shur jumladan xususiylashtirishni) amalga oshirgan"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi soliq va yig'imlar bo'yicha muddati o'tgan qarzga ega bo'lmasligi kerak.",
+      "summary_en": "The bidder must have no overdue tax debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reyestrida bo'lmasligi kerak.",
+      "summary_en": "The bidder must not be on the unified register of unfair contractors.",
+      "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mavjud texnik jihozlar fotosuratlari ilova qilinadi; 10 ball, kamchilik bo'lsa 5 ball.",
+      "summary_en": "Photos of available equipment must be attached; 10 points, 5 if documents are incomplete.",
+      "quote": "jihozlar fotosuratlari ilova qilinadi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholovchilar uyushmasiga a'zolik sertifikati ilova qilinadi (10 ball).",
+      "summary_en": "Membership certificate of the appraisers' association is attached (10 points).",
+      "quote": "baholovchilar uyushmasiga azolik sertifikati ilova qilinadi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Bajarilgan ishlar bo'yicha shartnomalar va hisob-fakturalar ilova qilinadi (10 ball).",
+      "summary_en": "Contracts and invoices for completed work are attached (10 points).",
+      "quote": "Bajarilgan ishlar bo‘yicha tuzilgan shartnomalar va xisob fakturalar ilova qilinadi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Malakali baholovchi haqida ma'lumot va sertifikat taqdim etiladi (eng ko'p, 15 ball).",
+      "summary_en": "Information and certificate of the qualified appraiser are provided (the largest item, 15 points).",
+      "quote": "Salohiyatli baholovchi to‘g‘risida ma’lumot (sertifikat) ilova qilinadi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Sug'urta polisi ilova qilinadi, sug'urta summasi ahamiyatga ega (5 ball).",
+      "summary_en": "An insurance policy is attached and the insured sum counts (5 points).",
+      "quote": "Sug‘urta polisi ilova qilinadi (sug‘urta summasi ahamiyatga ega)"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Hisobot sahifalari raqamlangan, muhrlangan va baholovchi hamda rahbar tomonidan imzolangan bo'lishi kerak.",
+      "summary_en": "The report must have numbered pages, be sealed and signed by the appraiser and the head of the contractor.",
+      "quote": "Hisobot sahifadan sahifaga raqamlangan, muhrlangan"
+    }
+  ],
+  "flags": [
+    {
+      "type": "irrelevant_requirement",
+      "severity": "low",
+      "quote": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+      "explanation_uz": "Mezon 2 sarlavhasi buyurtmachi xodimlarini texnik o'qitishga oid, lekin undan so'raladigan hujjat shartnoma muddatlari bo'yicha kafolat xati. Baholash xizmatida xodimlarni o'qitish nazarda tutilmagan, shuning uchun bu platformaning standart shablon matniga o'xshaydi va 10 ball shu mezonga bog'liq.",
+      "explanation_en": "The title of criterion 2 is about technical training of the customer's staff, yet the document asked for is a guarantee letter on contract deadlines. A valuation service involves no staff training, so this looks like standard template wording, and 10 points depend on it.",
+      "rewrite_uz": "Mezon nomini haqiqiy talabga moslashtiring: \"Xizmatni ko'rsatish muddatlariga rioya qilish bo'yicha kafolat xati\"; xat taqdim etilsa to'liq ball, kamchilik bo'lsa qisman ball beriladi.",
+      "rewrite_en": "Rename the criterion to match what is actually assessed: \"Guarantee letter on meeting the service deadlines\"; full points if the letter is provided, partial points if it has shortcomings."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat roʻyxatidan oʻtganlik guvohnomasi va ustav",
+    "Baholash faoliyatiga litsenziya",
+    "Soliq qarzi yoʻqligi toʻgʻrisida ma'lumotnoma",
+    "Mavjud texnik jihozlar fotosuratlari",
+    "Baholovchilar uyushmasiga a'zolik sertifikati va nizom",
+    "Bajarilgan ishlar bo'yicha shartnomalar va hisob-fakturalar",
+    "Malakali baholovchining sertifikati va ma'lumotlari",
+    "Sug'urta polisi",
+    "Shartnoma muddatlari bo'yicha kafolat xati",
+    "Kamida 3 ta o'xshash loyiha bo'yicha aloqa ma'lumotlari va mijozlar tavsiyalari"
+  ]
+}

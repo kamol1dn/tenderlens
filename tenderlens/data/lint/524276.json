@@ -1,0 +1,119 @@
+{
+  "lot_id": 524276,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "A1 formatdagi reklama posterlarini tayyorlash va Toshkent shahridagi ko'p xonadonli uylar kirish yo'laklarida joylashtirish xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Ishtirokchi 1500 dan 3000 gacha kirish yo'lagi va 3 dan 6 oygacha muddat nisbatidagi to'rt variantdan birini tanlaydi (jami 9000 podyezd-oy).",
+      "summary_en": "The bidder picks one of four options pairing 1,500 to 3,000 entrances with 3 to 6 months (9,000 entrance-months in total).",
+      "quote": "Ishtirokchi kirish yo'laklari soni va xizmat ko'rsatish muddatini mazkur Texnik topshiriqning 10-bandi 1.1-bandidagi jadvalda keltirilgan variantlardan biri bo'yicha taklif etadi."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Posterlar ijrochi hisobidan bosiladi (A1, to'liq rangli 4+0, so'lmaydigan bo'yoq), bosma xarajatlari narxga kiradi.",
+      "summary_en": "Posters are printed at the contractor's cost (A1, full colour 4+0, fade-resistant ink) and printing is included in the price.",
+      "quote": "Posterlarni ishlab chiqarish (bosma) xarajatlari xizmatlar narxi tarkibiga kiritiladi va alohida to'lanmaydi."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Poster poldan 1,4-1,8 m balandlikda, podyezd kirish qismida joylashtiriladi va uy-joy boshqaruvi (mulkdorlar shirkati) bilan kelishiladi.",
+      "summary_en": "Posters are placed 1.4 to 1.8 m above the floor at the entrance and agreed with the housing management body.",
+      "quote": "Poster podyezdning kirish qismida, yaxshi ko'rinadigan joyda, poldan 1,4–1,8 metr balandlikda joylashtiriladi."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Materiallar olingandan keyin 15 ish kuni ichida barcha kirish yo'laklarida posterlar ishlab chiqarilib joylashtirilishi kerak.",
+      "summary_en": "Posters must be produced and installed at all entrances within 15 working days of receiving the materials.",
+      "quote": "Ijrochi materiallarni qabul qilib olgan kundan boshlab 15 (o'n besh) ish kunidan kechiktirmasdan posterlarni ishlab chiqarish va barcha kirish yo'laklarida joylashtirishni to'liq yakunlaydi."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Shikastlangan yoki yulib olingan posterlar 3 ish kuni ichida ijrochi hisobidan almashtiriladi.",
+      "summary_en": "Damaged or torn-off posters are replaced at the contractor's cost within 3 working days.",
+      "quote": "Shikastlangan, yirtilgan yoki yulib olingan posterlar Ijrochi tomonidan, bu holat aniqlangan yoxud Buyurtmachi xabar bergan"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi manzillar ro'yxati va shu manzillarda reklama joylashtirish huquqini tasdiqlovchi hujjatlarni taklifda taqdim etishi shart; huquq hujjatlari xizmat muddatidan kam bo'lmagan muddatga amal qilishi kerak.",
+      "summary_en": "The bidder must submit the address list and proof of the right to place advertising at those addresses in the bid; the proof must be valid for at least the service period.",
+      "quote": "Ro‘yxat taqdim etilmagan yoki to‘liq bo‘lmasa, kirish yo‘laklari soni tanlangan variantdan kam bo‘lsa yoxud manzillarning bir qismi bo‘yicha huquqni tasdiqlovchi hujjatlar taqdim etilmagan bo‘lsa"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "So'nggi 2 yilda reklama joylashtirish bo'yicha kamida 2 ta shartnoma bajarilganligi dalolatnoma bilan tasdiqlanishi kerak.",
+      "summary_en": "At least 2 advertising-placement contracts performed in the last 2 years must be confirmed by completion acts.",
+      "quote": "So'nggi 2 (ikki) yil davomida reklama materiallarini joylashtirish (tashqi reklama, media-joylashtirish) bo'yicha kamida 2 (ikkita) shartnomani bajarganligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 1 (2 ball): 3 va undan ortiq tugallangan o'xshash shartnoma uchun 2 ball, 2 tagacha uchun 1 ball; o'xshash tajriba bo'lmasa ishtirokchi chetlashtiriladi.",
+      "summary_en": "Criterion 1 (2 points): 2 points for three or more completed similar contracts, 1 point for up to two; with no similar experience the bidder is excluded.",
+      "quote": "3 ta va undan ortiq yakunlangan loyiha (shartnoma)ni tashkil etsa = 2.0; 2 tagacha yakunlangan loyiha (shartnoma)ni tashkil etsa = 1.0"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 3 (1 ball): hisobotlarni onlayn tizim (shaxsiy kabinet) orqali berish imkoniyati va manzillar kesimida sanali foto hisobotlar.",
+      "summary_en": "Criterion 3 (1 point): ability to report through an online personal-cabinet system with dated photo reports by address.",
+      "quote": "Ijrochining ko‘rsatilgan xizmatlar bo‘yicha hisobotlarni onlayn tizim (shaxsiy kabinet) orqali taqdim etish imkoniyatining mavjudligi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik-malaka qismi 6 balldan iborat, o'tish bali 4; narx bo'yicha eng past narx g'olib.",
+      "summary_en": "The qualification-technical part has a maximum of 6 points with a pass mark of 4; the lowest price then wins.",
+      "quote": "Malaka-texnik qismi bo‘yicha o‘tish bali"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30 foiz avans 10 ish kuni ichida, qolgan 70 foiz har oy ko'rsatilgan xizmat qiymati bo'yicha 10 ish kuni ichida to'lanadi.",
+      "summary_en": "30 percent advance within 10 working days; the remaining 70 percent paid monthly against services rendered within 10 working days.",
+      "quote": "Shartnoma umumiy qiymatining 30 %(o‘ttiz) miqdorida oldindan to‘lov (avans) Shartnoma kuchga kirgan kundan boshlab 10 (o‘n) ish kuni ichida amalga oshiriladi."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklifni ta'minlash 3 foiz; taklif taklif muddati tugaganidan keyin kamida 60 kalendar kun amal qiladi.",
+      "summary_en": "Bid security is 3 percent; the bid must remain valid for at least 60 calendar days after the bid deadline.",
+      "quote": "Tanlovda ishtirokchilarning taklifi amal qilish muddati takliflarni taqdim etish muddati tugagan sanadan boshlab kamida 60 (oltmish) kalendar kunni tashkil etishi lozim."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Ro‘yxat taqdim etilmagan yoki to‘liq bo‘lmasa, kirish yo‘laklari soni tanlangan variantdan kam bo‘lsa yoxud manzillarning bir qismi bo‘yicha huquqni tasdiqlovchi hujjatlar taqdim etilmagan bo‘lsa",
+      "explanation_uz": "Ishtirokchi taklif bergan paytdayoq 1500 dan 3000 gacha podyezdning to'liq manzillar ro'yxatini va har bir manzil bo'yicha reklama joylashtirish huquqini tasdiqlovchi hujjatlarni taqdim etishi kerak; biror manzil bo'yicha hujjat yetishmasa, mezon bo'yicha 0 ball beriladi va ishtirokchi chetlashtiriladi. 6 balldan 4 ball o'tish bali bo'lgani uchun bu talabsiz o'tish imkonsiz, shunda faqat shunday huquqlarni oldindan to'plagan (mavjud tarmoqqa ega) ishtirokchilar qatnashishi mumkin. Huquqlarni yutuqdan keyin ta'minlash imkoni ko'rsatilmagan.",
+      "explanation_en": "At bid submission the bidder must already list 1,500 to 3,000 entrances and attach proof of the right to place advertising at every address; if proof is missing for any address, the criterion scores 0 and the bidder is excluded. With a pass mark of 4 out of 6 points, the requirement cannot be bypassed, so in practice only bidders who already hold an existing network of placement rights can take part. The document does not allow securing the rights after winning.",
+      "rewrite_uz": "Manzillar ro'yxati va huquqni tasdiqlovchi hujjatlarni ishtirokchi g'olib deb topilgandan keyin shartnoma imzolanishidan oldin (masalan, 15 ish kuni ichida) taqdim etishiga ruxsat bering; taklifda esa joylashtirish huquqini ta'minlash bo'yicha kafolat xati yetarli bo'lsin.",
+      "rewrite_en": "Allow the address list and proof of placement rights to be submitted after the bidder is selected and before contract signature (for example within 15 working days), with a guarantee letter on securing the rights sufficing at bid stage."
+    },
+    {
+      "type": "unrealistic_deadline",
+      "severity": "medium",
+      "quote": "Ijrochi materiallarni qabul qilib olgan kundan boshlab 15 (o'n besh) ish kunidan kechiktirmasdan posterlarni ishlab chiqarish va barcha kirish yo'laklarida joylashtirishni to'liq yakunlaydi.",
+      "explanation_uz": "15 ish kuni ichida barcha tanlangan podyezdlarda (1500 dan 3000 gacha) posterlarni bosib chiqarish va joylashtirish kerak, bu kuniga taxminan 100 dan 200 tagacha podyezdga to'g'ri keladi. Shuncha hajmga oldindan tayyor jamoasi va bosma quvvati bo'lmagan ishtirokchi bu muddatga ulgurmasligi mumkin.",
+      "explanation_en": "All chosen entrances (1,500 to 3,000) must be printed and fitted within 15 working days, roughly 100 to 200 entrances per working day. A bidder without an installation crew and print capacity ready in advance may not manage this period.",
+      "rewrite_uz": "Joylashtirish muddatini variant bo'yicha bosqichma-bosqich belgilang (masalan, 30 ish kuni yoki bir necha bosqichda) yoki muddat uchun alohida ball bering.",
+      "rewrite_en": "Set the installation period per option in stages (for example 30 working days or phased delivery), or score the period instead of making it a fixed condition."
+    }
+  ],
+  "documents_needed_uz": [
+    "Manfaatlar to'qnashuvi va affillanganlik mavjud emasligi haqida xat (1-shakl)",
+    "Qonunbuzarliklarga yo'l qo'ymaslik bo'yicha halollik arizasi (2-shakl)",
+    "Buyurtmachi bilan oldingi shartnomalar bo'yicha sud nizolari va bajarilmagan majburiyatlar yo'qligi haqida kafolat xati (3-shakl)",
+    "O'xshash ishlar bo'yicha ish tajribasi to'g'risida ma'lumot (4-shakl) va tasdiqlovchi shartnoma, dalolatnoma yoki hisob-faktura",
+    "Posterlar joylashtiriladigan manzillar ro'yxati (Excel va imzolangan nusxa) hamda reklama joylashtirish huquqini tasdiqlovchi hujjatlar",
+    "Reklama joylashtirish huquqi uchinchi shaxsga tegishli bo'lsa, u bilan tuzilgan shartnoma va uning huquqini tasdiqlovchi hujjatlar",
+    "Kafolat xati (5-shakl)",
+    "Kafolat xati (6-shakl)",
+    "Texnik taklif (7-shakl) va tanlangan variant jadvali",
+    "Onlayn hisobot tizimi tavsifi va shaxsiy kabinet skrinshotlari",
+    "Resurslar mavjudligi to'g'risida kafolat xati",
+    "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasi",
+    "Shartnoma tuzish huquqini tasdiqlovchi hujjat (ustav, buyruq yoki ishonchnoma)",
+    "Soliq qarzdorligi, bankrotlik, insofsiz ijrochilar reyestri va Majburiy ijro byurosi bazalari bo'yicha ma'lumotlar",
+    "So'nggi 2 yildagi kamida 2 ta reklama joylashtirish shartnomasi bajarilganligi dalolatnomalari",
+    "Taklifni ta'minlash (3 foiz)"
+  ]
+}

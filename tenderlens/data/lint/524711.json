@@ -1,0 +1,84 @@
+{
+  "lot_id": 524711,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "G'ovasoy soyi o'zanini tozalash va to'kma damba tiklash ishlariga atrof-muhitga ta'sirni baholash bo'yicha loyiha hujjatlarini ishlab chiqish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Atrof-muhitga ta'sirni baholash bo'yicha loyiha hujjatlari ishlab chiqiladi.",
+      "summary_en": "Environmental impact assessment project documents are to be prepared.",
+      "quote": "atrof-muhitga ta’sirni baholash bo‘yicha loyiha hujjatlarini ishlab chiqish"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Suv xo'jaligi va gidrotexnika sohasida tajribali mutaxassis doimiy xodimlar ro'yxatida bo'lsa 4 ball.",
+      "summary_en": "A specialist with water-management and hydro-engineering experience on the permanent staff list earns 4 points.",
+      "quote": "Doimiy ishlaydigan umumiy xodimlar ro‘yxati (Yagona milliy mehnat tizimidan) bunda, suv xo‘jaligi va gidrotexnika inshootlari soxasi bo‘yicha ish tajribasiga ega bo‘lgan mutaxassis mavjud bo‘lishi shart"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ustav, davlat ro'yxatidan o'tganlik guvohnomasi va rahbar tayinlanganligi buyrug'i to'liq bo'lsa 6 ball.",
+      "summary_en": "Charter, registration certificate and the director's appointment order, if complete, earn 6 points.",
+      "quote": "Tanlov ishtirokchisi tomonidan Korxona ustavi, Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnomasi va rahbar tayinlanganligi to‘g‘risidagi buyrug‘i nusxasi taqdim etilishi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Bankdan K-2 qarzdorlik yo'qligi ma'lumoti (oxirgi bir oy) bo'lsa 6 ball.",
+      "summary_en": "A bank K-2 certificate of no debts (last month) earns 6 points.",
+      "quote": "Qarzdorligi yo‘qligi bo‘yicha K-2 ma’lumoti (ohirgi bir oy muddatdagi)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "QR kodli soliq qarzi yo'qligi haqida ma'lumotnoma (oxirgi bir oy) bo'lsa 4 ball.",
+      "summary_en": "A QR-coded tax-debt certificate (last month) earns 4 points.",
+      "quote": "Yuridik shaxs-soliq to‘lovchining soliqlar va yig‘malardan soliq qarzi mavjud yoki mavjud emasligi haqidagi ma’lumotnoma (QR kodli va ohirgi bir oy muddatdagi)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "So'nggi 3 yilda 10 tadan ortiq obyekt bo'yicha ishlar va DEEM ijobiy xulosalari bo'lsa 10 ball, kam bo'lsa 0 ball.",
+      "summary_en": "More than 10 works in the last 3 years with positive DEEM opinions earn 10 points; fewer earn 0.",
+      "quote": "Mazkur e’longa doir obyektlarda ohirgi 3 yilda bajargan ishlar ro‘yxati hamda DEEMning ijobiy xulosalari: 10 dan ortiq bo‘lsa 10 ball, 10 dan kam bo‘lsa 0 ball"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Geodeziya, kartografiya va marksheyderlik ishlari uchun ruxsatnoma bo'lsa 5 ball.",
+      "summary_en": "A permit for geodesy, cartography and mine-surveying work earns 5 points.",
+      "quote": "Geodeziya, kartografiya va marksheyderlik ishlarini amalga oshirish uchun tasdiqnoma (ruxsatnoma) mavjud bo‘lsa 5 ball"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "GNSS, elektron taxeometr yoki 3D skanerdan biri va O'zstandart tekshiruvi ruxsatnomasi bo'lsa 10 ball.",
+      "summary_en": "One of GNSS, electronic total station or 3D scanner, with a valid Ozstandart verification, earns 10 points.",
+      "quote": "Geodezik, topografik va toposyomka ishlarini amalga oshirish uchun zaruriy asbob uskunalar hamda yuqori aniqlikda ishlovchi qurilmalardan (GNSS, elektron taxeometr va lazerli yoki uch o‘lchamli (3D) skaner) biri bo‘lishi lozim"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash 70/30 ball usulida: texnik qism 70 foiz, narx 30 foiz; o'tish bali 4.",
+      "summary_en": "Scoring is 70% technical and 30% price; pass mark is 4.",
+      "quote": "texnik qism 70.0%, narx 30.0%, o'tish bali 4"
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "Mazkur e’longa doir obyektlarda ohirgi 3 yilda bajargan ishlar ro‘yxati hamda DEEMning ijobiy xulosalari: 10 dan ortiq bo‘lsa 10 ball, 10 dan kam bo‘lsa 0 ball",
+      "explanation_uz": "Lot qiymati taxminan 89 mln so'm bo'lgan bitta hujjat uchun so'nggi 3 yilda 10 tadan ortiq xulosa talab qilinadi, kam bo'lsa ball umuman berilmaydi. Bu o'xshash ishni bajara oladigan, lekin kamroq loyiha tajribasiga ega tashkilotlarning ballini yo'qotishiga olib kelishi mumkin.",
+      "explanation_en": "For a single document worth about 89 m UZS, more than 10 projects with positive opinions in 3 years are needed for any points, and fewer score zero. Capable firms with a shorter track record may lose these points.",
+      "rewrite_uz": "So'nggi 3 yilda o'xshash atrof-muhitga ta'sirni baholash bo'yicha kamida 3 ta bajarilgan ish bo'lsa, to'liq ball beriladi; kamroq bo'lsa, ball nisbatan beriladi.",
+      "rewrite_en": "Full points for at least 3 comparable environmental impact assessments completed in the last 3 years, with proportionate points for fewer."
+    }
+  ],
+  "documents_needed_uz": [
+    "Korxona ustavi, davlat ro'yxatidan o'tganlik guvohnomasi, rahbar tayinlanganligi buyrug'i",
+    "Yagona milliy mehnat tizimidan doimiy xodimlar ro'yxati",
+    "Bankdan K-2 qarzdorlik yo'qligi ma'lumoti",
+    "QR kodli soliq qarzi yo'qligi haqida ma'lumotnoma",
+    "So'nggi 3 yilda bajarilgan ishlar ro'yxati va DEEM xulosalari",
+    "Geodeziya, kartografiya va marksheyderlik ishlari uchun ruxsatnoma",
+    "Asbob-uskunalar ro'yxati va O'zstandart tekshiruvi ruxsatnomasi",
+    "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ariza"
+  ]
+}

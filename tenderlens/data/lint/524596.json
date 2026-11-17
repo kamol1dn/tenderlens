@@ -1,0 +1,87 @@
+{
+  "lot_id": 524596,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Oybek tortish podstansiyasining tashqi elektr ta'minoti sxemasi bo'yicha loyiha-qidiruv ishlari (ishchi loyiha)",
+  "requirements": [
+    {
+      "kind": "delivery",
+      "summary_uz": "Loyihani ishlab chiqish muddati 75 kun.",
+      "summary_en": "The design period is 75 days.",
+      "quote": "Loyihani ishlab chiqish muddatlari 75 kun"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Topografik-geodezik, muhandislik-geologik va gidrogeologik tadqiqotlar loyihalash uchun kerakli hajmda bajariladi.",
+      "summary_en": "Topographic-geodetic, engineering-geological and hydrogeological surveys are to be done in the volume needed for design.",
+      "quote": "Topografik-geodezik, muhandislik-geologik va gidrogeologik tadqiqotlar loyihalash uchun kerakli hajmda bajarilsin"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Qurilishni tashkil etish loyihasi (QTEL) to'liq hajmda loyihachi tomonidan ishlab chiqiladi.",
+      "summary_en": "The construction organisation plan must be developed in full by the designer.",
+      "quote": "Qurilishni tashkil etish loyihasi (QTEL) muvofiq to'liq hajmda SHNQ 3.01.01-22 ga muvofiq loyihachi tashkilot tomonidan ishlab chiqiladi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Loyihada zamonaviy mikroprotsessorli rele himoyasi va avtomatika qurilmalari nazarda tutiladi.",
+      "summary_en": "The design must provide modern microprocessor-based relay protection and automation devices.",
+      "quote": "Loyihada zamonaviy mikroprotsessorli RHA qurilmalari o‘rnatilishi hamda RHA panellariga ikki tomonlama xizmat ko‘rsatish imkoniyati bo‘lishi ko‘zda tutilsin"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Loyiha-smeta hujjatlariga kichik o'zgartirishlar (material va uskunalarni almashtirish) loyihachi hisobidan kiritiladi.",
+      "summary_en": "Minor changes to the design and estimate documents (changing materials and equipment) are made at the designer's expense.",
+      "quote": "Biroq, loyiha-smeta hujjatlariga kichik o'zgartirishlar kiritish, masalan, materiallar va uskunalarni o'zgartirish (qo'shish, olib tashlash)"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Hujjatlar buyurtmachiga topshirilishidan oldin barcha aloqador tashkilotlar bilan kelishilishi kerak.",
+      "summary_en": "The documents must be agreed with all concerned bodies before they are handed to the customer.",
+      "quote": "loyiha hujjatlari buyurtmachiga taqdim etilishidan oldin barcha aloqador tashkilotlar bilan o’rnatilgan tartibdi kelishilishi talab etiladi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "O'xshash loyihalar tajribasi (1-shakl) ball beradi: 10 tadan ortiq 10 ball, 5 dan 9 gacha 5 ball, 5 tadan kam 0 ball.",
+      "summary_en": "Experience with similar projects (Form 1) is scored: more than 10 gives 10 points, 5 to 9 gives 5, fewer than 5 gives 0.",
+      "quote": "1-шаклга асосан -Ўхшаш товарни (иш, хизмат) етказиб бериш тажрибаси ҳақида маълумот"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Xodimlar mavjudligi ball beradi (15 va undan ko'pi 10 ball); har bir xodim uchun my.mehnat.uz ma'lumotnomasi talab qilinadi.",
+      "summary_en": "Staff numbers are scored (15 or more gives 10 points); a my.mehnat.uz record for each employee is required.",
+      "quote": "my.mehnat.uz дан ҳар бир ходимнинг маълумотномасини тақдим этиш талаб қилинади"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kamida 1 bosh muhandis va 1 bosh arxitektor sertifikatli mutaxassis bo'lishi ball beradi (10 ball).",
+      "summary_en": "Having at least one certified chief engineer and one chief architect is scored (10 points).",
+      "quote": "Камида 1 дона лойиҳа бош муҳандиси, 1 дона лойиҳа бош архитектори"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Loyihalash litsenziyasiga egalik to'g'risida ma'lumot ball beradi (10 ball).",
+      "summary_en": "Information on holding a design licence is scored (10 points).",
+      "quote": "Ишларни бажариш учун лицензияга эгалиги тўғрисида маълумот"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Eng qisqa ishlab chiqish muddatini ko'rsatgan ishtirokchi 10 ball, qolganlar 5 ball oladi.",
+      "summary_en": "The bidder offering the shortest design time gets 10 points, the others get 5.",
+      "quote": "5-шаклга асосан маълумот тақдим этган ва энг қисқа ишлаб чиқиш муддати кўрсатган иштирокчи"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "1-shakl: o'xshash bajarilgan loyihalar to'g'risida ma'lumot",
+    "2-shakl: loyihalash topshirig'i bo'yicha texnik tavsiflarning qiyosiy jadvali",
+    "3-shakl: xodimlar to'g'risida ma'lumot va har bir xodim uchun my.mehnat.uz ma'lumotnomasi",
+    "4-shakl: zarur uskunalar va dasturiy vositalar mavjudligi to'g'risida ma'lumot",
+    "5-shakl: bajarish muddati, yetkazib berish va to'lov shartlari to'g'risida ma'lumot",
+    "Loyiha bosh muhandisi, bosh arxitektori va shaharsozlik hujjatlari bo'yicha mutaxassislarning sertifikatlari",
+    "Loyihalash litsenziyasi to'g'risida ma'lumot",
+    "Taklif ta'minoti (lot narxining 3 foizi)",
+    "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik yo'qligi to'g'risida ma'lumotnoma"
+  ]
+}

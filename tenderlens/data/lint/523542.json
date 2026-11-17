@@ -1,0 +1,105 @@
+{
+  "lot_id": 523542,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Bolalar xospisida ijodiy-ijtimoiy tadbir va Toshkentdagi 10 ta maktabda ekologik-ma'rifiy dastur o'tkazish xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Loyiha ikki yo'nalishda: bolalar xospisida bir kunlik tadbir va 10 ta maktabda ekologik-ma'rifiy dastur.",
+      "summary_en": "Two parts: a one-day event at a children's hospice and an ecological education programme in 10 schools.",
+      "quote": "Лойиҳа икки йўналишда амалга оширилади: болалар хосписида бир кунлик ижодий-ижтимоий тадбирни ўтказиш ҳамда Тошкент шаҳридаги 10 та умумтаълим мактабида экологик-маърифий дастурни амалга ошириш."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat shartnoma imzolangan kundan 2026-yil 1-dekabrgacha ko'rsatilishi kerak.",
+      "summary_en": "Services run from contract signing until 1 December 2026.",
+      "quote": "Хизматни амалга ошириш муддати — шартнома имзоланган кундан бошлаб 2026 йил 1 декабргача."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Shartnomaning jami summasi 200 000 000 so'mdan oshmasligi kerak.",
+      "summary_en": "The total contract value must not exceed 200,000,000 UZS.",
+      "quote": "Шартноманинг жами суммаси — 200 000 000,0 сўмдан ошмаслиги лозим."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Bolalar, ijtimoiy va ekologik loyihalarni tashkil etish tajribasi talab qilinadi.",
+      "summary_en": "Experience organising children's, social and ecological projects is required.",
+      "quote": "Опыт работы в организации детских, социальных и экологических проектов"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijodiy va texnik xodimlar (boshlovchi, koordinator, mutaxassis, ekologiya murabbiyi) bo'lishi kerak.",
+      "summary_en": "Creative and technical staff (host, coordinator, specialist, ecology trainer) must be available.",
+      "quote": "Тадбирни ўтказиш учун зарур ижодий ва техник ходимларнинг (бошловчи, координатор, ижодий мутахассис, экология бўйича мураббий) мавжудлиги"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 1 (30 ball): xospis ma'muriyati bilan kelishuv xati yoki hududga kirish uchun rasmiy ruxsatnoma taqdim etilsa 30 ball, aks holda 0.",
+      "summary_en": "Criterion 1 (30 points): a signed agreement letter from the hospice or an official access permit gives 30 points, otherwise 0.",
+      "quote": "Болалар хосписи маъмурияти билан имзоланган келишув хати ёки ҳудудга кириш учун расмий рухсатнома тақдим этилса — 30 балл."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 3 (20 ball): texnik topshiriqqa muvofiq xizmat ko'rsatish bo'yicha kafolat xati taqdim etilsa 20 ball.",
+      "summary_en": "Criterion 3 (20 points): a guarantee letter to deliver services per the technical specification gives 20 points.",
+      "quote": "Иштирокчи томонидан техник топшириққа мувофиқ хизмат кўрсатиш бўйича кафолат хати тақдим этилса — 20 балл."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 4 (10 ball): tadbir ssenariysi, maydonchani bezash va brendlangan konteyner dizayn-maketlari taqdim etilsa to'liq ball.",
+      "summary_en": "Criterion 4 (10 points): full points for submitting the event script, venue design layout and branded container layout.",
+      "quote": "Тадбир сценарийси ва дастури, майдончани безаш дизайн-макети ва брендланган контейнернинг дизайн-макети тақдим этилса"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 5 (5 ball): shartnomadan birinchi tadbirgacha o'tadigan kunlar soni; 3 kungacha bo'lsa 5 ball.",
+      "summary_en": "Criterion 5 (5 points): days from signing to the first event; up to 3 days earns 5 points.",
+      "quote": "Шартнома имзоланган кундан бошлаб биринчи тадбир ўтказилгунга қадар бўлган кунлар сони"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 6 (10 ball): malakali xodimlar mavjudligi.",
+      "summary_en": "Criterion 6 (10 points): availability of qualified personnel.",
+      "quote": "Малакали ходимларнинг мавжудлиги Наличие квалифицированного персонала"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi soliq va yig'imlar bo'yicha muddati o'tgan qarzga ega bo'lmasligi kerak.",
+      "summary_en": "No overdue tax or levy debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Болалар хосписи маъмурияти билан имзоланган келишув хати ёки ҳудудга кириш учун расмий рухсатнома тақдим этилса — 30 балл.",
+      "explanation_uz": "Mezon 1 jami 100 balldan 30 tasini beradi, o'tish bali esa 70; hujjat bo'lmasa qolgan barcha mezonlardan to'liq ball olish ham zo'rg'a yetadi, ya'ni bu shart amalda majburiy. Xospis ma'muriyatidan xat shartnoma tuzilishidan oldin olinishi kerak, texnik topshiriqda esa kelishuvni ijrochi g'olib bo'lgandan keyin ta'minlashi yozilgan; shu sababli bunday xat avvaldan aloqasi bor tashkilotlarga qulay.",
+      "explanation_en": "Criterion 1 carries 30 of 100 points and the pass mark is 70, so without the document even full marks elsewhere only just reach the pass mark; in practice it is a mandatory gate. The letter must be obtained before the contract is awarded, while the technical specification says the contractor arranges access with the hospice after award, so the requirement favours organisations that already have a relationship with that hospice.",
+      "rewrite_uz": "Xospis bilan kelishuvni g'olib shartnoma tuzgandan keyin, tadbirdan oldin ta'minlash sharti sifatida yozing, yoki bu hujjatni ball emas, shartnoma bajarilishining sharti qilib belgilang.",
+      "rewrite_en": "Make arranging access with the hospice a duty of the winner after signing and before the event, or treat the document as a condition of performance rather than a scored criterion."
+    },
+    {
+      "type": "unrealistic_deadline",
+      "severity": "medium",
+      "quote": "Хизматни амалга ошириш муддати — шартнома имзоланган кундан бошлаб 2026 йил 1 декабргача.",
+      "explanation_uz": "Takliflar 19-noyabrda yopiladi, ko'rib chiqish 10 kungacha davom etishi mumkin va shartnoma undan keyin tuziladi; tadbirlar 1-dekabrgacha tugashi kerak. Shu oraliqda xospisdagi tadbir, 10 ta maktabda dars va brendlangan 10 ta konteynerni tayyorlab yetkazish kerak bo'lib, ish boshlashga 3 kungacha vaqt ko'rsatganga qo'shimcha ball beriladi. Bu muddat materiallar va jamoa oldindan tayyor bo'lmagan ishtirokchi uchun juda siqiq bo'lishi mumkin (lot sarlavhasida muddat 30 oy deb ko'rsatilgan, bu ham mos kelmaydi).",
+      "explanation_en": "Bids close on 19 November, evaluation may take up to 10 days and the contract follows; all events must finish by 1 December. In that window the winner must run the hospice event, lessons in 10 schools and make and deliver 10 branded containers, and extra points go to those promising to start within 3 days. This can be very tight for a bidder without materials and a team already prepared (the lot header also lists the term as 30 months, which does not match).",
+      "rewrite_uz": "Yakuniy muddatni shartnoma imzolangandan keyin kamida 30-45 kun qilib belgilang yoki tadbirlar sanasini g'olibni aniqlash sanasiga moslab yangilang.",
+      "rewrite_en": "Set the final date at least 30 to 45 days after contract signing, or move the end date to match the actual award date."
+    }
+  ],
+  "documents_needed_uz": [
+    "Xospis ma'muriyati bilan imzolangan kelishuv xati yoki hududga kirish uchun rasmiy ruxsatnoma",
+    "Bolalar, ijtimoiy va ekologik loyihalarni o'tkazish tajribasi: guvohnoma nusxasi va bajarilgan loyihalar ro'yxati (shartnoma yoki dalolatnomalar bilan)",
+    "Texnik topshiriqqa muvofiq xizmat ko'rsatish bo'yicha kafolat xati",
+    "Loyiha kontseptsiyasi va taqdimoti: ssenariy, dastur, maydonchani bezash va konteyner dizayn-maketlari",
+    "Ish boshlash muddati bo'yicha kafolat xati",
+    "Malakali xodimlar elektron ro'yxati (my.gov.uz orqali QR-kod bilan)",
+    "Kompaniya haqida umumiy ma'lumot (taqdimot)",
+    "Soliq va yig'imlar bo'yicha qarzi yo'qligi haqida ma'lumot"
+  ]
+}

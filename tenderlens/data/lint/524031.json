@@ -1,0 +1,116 @@
+{
+  "lot_id": 524031,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Universitet binolari tom qismlaridagi yog'och konstruksiyalarni yong'inga qarshi kimyoviy suyuqlik bilan ishlov berish (10 630 kv.m)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Toshkentdagi 4 ta manzildagi bino tomlarining jami 10 630 kv.m yog'och konstruksiyalariga yong'inga qarshi suyuqlik bilan ishlov beriladi.",
+      "summary_en": "Roof timber structures of university buildings at 4 Tashkent addresses, 10,630 sq m in total, are treated with fire-retardant liquid.",
+      "quote": "universitetning quyidagi mar-rzillardagi bino va inshoatlarga hizrTat ko'rsatish"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlarni bajarish muddati shartnoma imzolangan paytdan boshlab 10 ish kuni.",
+      "summary_en": "Completion within 10 working days from contract signing.",
+      "quote": "Tttgatish rnrrddati - shагtпоmа imzolangan paytdan boshlab l0 ish l<un i."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "G'olib kimyoviy moddalarni o'z hisobidan xarid qiladi, binolarni haftada 2-3 marta aylanib kamchiliklarni bartaraf etadi va ishlarni qayd daftariga yozib boradi.",
+      "summary_en": "Winner buys all chemicals at its own cost, inspects the buildings 2-3 times a week and logs the work in a register.",
+      "quote": "G'olib tashkilot xizmatlaгni ar-nalag oshirish davomida arnalga oshiгiladigan chora-tadbirlar rejasidagi baTcha kimyoviy rnoddalar o'z hisobidan xarid qilishirT"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30 foiz avans; qolgan qismi ish bajarilganligi bo'yicha dalolatnoma va hisob-faktura imzolangach 5 bank kuni ichida to'lanadi. Boshlang'ich narx 111 360 000 so'm.",
+      "summary_en": "30 percent advance; the balance is paid within 5 banking days after the completion act and invoice are signed. Start price 111,360,000 UZS.",
+      "quote": "oldindan lо'lоv"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Moliyaviy barqarorlik mezoni 18 ball: balans, moliyaviy natijalar hisoboti, bank ma'lumotnomasi va aylanma mablag' bo'yicha bank kafolat xati.",
+      "summary_en": "Financial stability criterion worth 18 points: balance sheet, financial results report, bank certificate and a bank letter on working capital.",
+      "quote": "Moliyaviy barqarorlik. Korxonaning so'nggi yillardagi moliyaviy natijalarini taqdim etish"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ish tajribasi mezoni 10 ball: shunday ishlar bo'yicha shartnomalar, hisob-fakturalar, dalolatnomalar va kamida bitta davlat tashkilotining tavsifnomasi.",
+      "summary_en": "Experience criterion worth 10 points: contracts, invoices and acts for the same kind of work, plus a reference from at least one state organisation.",
+      "quote": "Ishtirokchining ishlarni bajarish uchun ish tajribasi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Xodimlar mezoni 15 ball: xodimlar ro'yxati, ma'lumoti, tibbiy ma'lumotnomalari, SHJBPX hisobotlari va fuqarolik javobgarligini sug'urta qilish polisi.",
+      "summary_en": "Staff criterion worth 15 points: staff list, qualifications, medical certificates, social-tax reports and a civil-liability insurance policy.",
+      "quote": "Ish kuchi va ish tajribasi. Tajribali va malakali kadrlarning mavjudligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnika va jihozlar mezoni 7 ball: asosiy vositalar reestri, egalik yoki ijara shartnomalari, texnik pasport.",
+      "summary_en": "Equipment criterion worth 7 points: fixed-asset register, ownership or lease contracts and technical passports.",
+      "quote": "Ish/xizmatlarni bajarish uchun zarur vositalar va jihozlarning mavjudligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kafolat xatlari mezoni 10 ball: sifatli bajarish va sanitariya qoidalariga amal qilish (6 ball), yong'in va texnika xavfsizligi bo'yicha (4 ball).",
+      "summary_en": "Guarantee letters worth 10 points: timely quality work and sanitary rules (6), fire and safety rules (4).",
+      "quote": "Ushbu lotning texnik shartlarida ko‘rsatilgan ishlarning o‘z vaqtida, sifatli bajarilishi"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Texnik taklif paketida kafolat muddati ko'rsatilgan texnik taklif, muvofiqlik sertifikati va tovar namunalarini qabul qilish dalolatnomasi nusxasi bo'lishi kerak; o'tish bali 50.",
+      "summary_en": "The technical package must include a technical offer with warranty, a conformity certificate and a copy of a sample acceptance act; the pass mark is 50.",
+      "quote": "Ishtirokchi elektron tanlov e'lonida ko'rsatilgan muddatdan i<echiktiгmay"
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_financial",
+      "severity": "medium",
+      "quote": "Tanlash obyekti qiymatining kamida 20% miqdorida aylanma mablag'larning mavjudligi to‘g‘risida bankdan kafolat xati",
+      "explanation_uz": "Moliyaviy barqarorlik mezonida 18 ballning 6 balli (majburiy deb belgilangan) lot qiymatining kamida 20 foizi, ya'ni 22 272 000 so'm aylanma mablag'ni tasdiqlovchi bank kafolat xatiga bog'langan. Bank kafolati kichik ijrochilar uchun qo'shimcha xarajat va vaqt talab qiladi, shartnomada esa 30 foiz avans nazarda tutilgan.",
+      "explanation_en": "6 of the 18 financial-stability points (marked mandatory) depend on a bank letter confirming working capital of at least 20 percent of the lot value, i.e. 22,272,000 UZS. Obtaining a bank letter costs small contractors time and money, while the contract already provides a 30 percent advance.",
+      "rewrite_uz": "Aylanma mablag'lar mavjudligi ishtirokchining moliyaviy hisobotlari yoki bank ma'lumotnomasi bilan tasdiqlanishi mumkin; bank kafolat xati majburiy talab sifatida qo'yilmasin.",
+      "rewrite_en": "Availability of working capital may be shown by the bidder's financial statements or a bank certificate; a bank guarantee letter is not a mandatory requirement."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Tovar namunasini taqdim etmagan yoki namunaviy qabul qilish dalolatnomasining nusxasi joylashtirilmagan",
+      "explanation_uz": "Lot xizmat (ishlov berish) bo'lsa-da, namuna qabul qilish dalolatnomasi taqdim etilmasa ishtirokchi diskvalifikatsiya qilinishi yozilgan; qaysi namuna (masalan, kimyoviy suyuqlik), kimga va qaysi muddatda topshirilishi ko'rsatilmagan. Bu aniqlashtirish uchun savol arzigan band.",
+      "explanation_en": "Although the lot is a service, a bidder is disqualified if it does not attach a sample acceptance act; the document does not say which sample (for example the chemical liquid), to whom and by when it must be handed over. Worth a clarifying question.",
+      "rewrite_uz": "Namuna talab qilinsa, uning turi (masalan, ishlatiladigan yong'inga qarshi suyuqlik), miqdori, topshirish manzili va muddati aniq ko'rsatilsin; aks holda ushbu band olib tashlansin.",
+      "rewrite_en": "If a sample is required, state its type (for example the fire-retardant liquid to be used), quantity, delivery address and deadline; otherwise remove the clause."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "kamida bitta davlat tashkiloti tomonidan tavsifnoma taqdim etish",
+      "explanation_uz": "Tajriba mezonida (10 ball, majburiy deb belgilangan) 4 ball kamida bitta davlat tashkilotidan tavsifnoma taqdim etishga bog'langan va tajriba aynan tom yog'och konstruksiyalariga yong'inga qarshi ishlov berish bo'yicha bo'lishi kerak. Faqat xususiy buyurtmachilar bilan ishlagan malakali ijrochilar bu ballni ola olmaydi.",
+      "explanation_en": "In the 10-point experience criterion (marked mandatory), 4 points depend on a reference from at least one state organisation, and the experience must be for this exact kind of roof-timber fire-retardant treatment. Capable contractors who have worked only for private clients cannot earn those points.",
+      "rewrite_uz": "Tavsifnoma davlat yoki xususiy buyurtmachidan bo'lishi mumkin, tajriba esa yong'inga qarshi yoki o'xshash himoya ishlov berish ishlari bo'yicha qabul qilinsin.",
+      "rewrite_en": "Accept a reference from a state or private customer, and accept experience in fire-protective or comparable treatment works."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat reyestrida ro'yxatdan o'tganlik guvohnomasi va ustav",
+    "Ishtirokchi haqida umumiy ma'lumot (yuridik manzil, benefitsiarlar, OKED kodi, direktor tayinlash buyrug'i)",
+    "Buxgalteriya balansi (1-shakl) va moliyaviy natijalar hisoboti (2-shakl)",
+    "Bankdan kartoteka va kreditlar bo'yicha qarzdorlik yo'qligi to'g'risida ma'lumotnoma",
+    "Aylanma mablag'lar mavjudligi to'g'risida bank kafolat xati",
+    "Xodimlar ro'yxati, ma'lumoti, tibbiy ma'lumotnomalari va SHJBPX hisobotlari",
+    "Ish beruvchining fuqarolik javobgarligini majburiy sug'urta qilish polisi",
+    "Asosiy vositalar reestri va texnikaga egalik yoki ijara shartnomalari, texnik pasport",
+    "Oxirgi yillarda bajarilgan o'xshash ishlar bo'yicha shartnomalar, hisob-fakturalar va dalolatnomalar",
+    "Kamida bitta davlat tashkilotining tavsifnomasi",
+    "Kafolat muddati ko'rsatilgan texnik taklif (1-shakl) va miqdoriy jadval",
+    "Xizmatlarning normativ-texnik hujjatlarga muvofiqligini tasdiqlovchi sertifikat",
+    "Namunalarni qabul qilish dalolatnomasi nusxasi",
+    "Sifatli va o'z vaqtida bajarish hamda sanitariya qoidalariga rioya bo'yicha kafolat xati",
+    "Yong'in va texnika xavfsizligi qoidalariga rioya bo'yicha kafolat xati",
+    "Manfaatlar to'qnashuvi bo'lmaganligi va halollik majburiyati to'g'risida ariza"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lot_id": 524645,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Generatorlar (dizel va benzinli) hamda suv nasoslari xaridi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "1 dona dizel generator, quvvati 10 kVA (8,5 kVt), talab qilinadi.",
+      "summary_en": "One diesel generator set of 10 kVA (8.5 kW) is required.",
+      "quote": "2 (ikki) dona 10 KVA (8.5KW0 va shu quvatdagi 1 dona dizel agregat hamda"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Suv nasosi: soatiga 55-60 m3, daqiqasiga 7 litr, suvni 15-20 metr masofagacha uzatishi kerak.",
+      "summary_en": "Water pump must deliver 55-60 m3 per hour, 7 litres per minute, with a discharge distance of 15-20 m.",
+      "quote": "dona suv tortish (l soatiga 55-60m3, I daqiqada 7 litr, suv chiqarish 15-20 metr"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulot texnik parametrlarga mos holda taqdim etilishi kerak.",
+      "summary_en": "Goods must be supplied in line with the stated technical parameters.",
+      "quote": "Mahsulotni texnik parametrga asosan taqdim qilish"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Taklif texnik shartga muvofiqligi bo'yicha ekspert tomonidan 100 ballgacha baholanadi, o'tish bali 70.",
+      "summary_en": "The bid is scored by an expert on conformity to the technical condition, up to 100 points; pass mark is 70.",
+      "quote": "TEXNIK shartga asosan taklif taqdim qilish"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Faoliyat turi bilan shug'ullanish huquqini beruvchi hujjat nusxalari muhr bilan tasdiqlanib taqdim etilishi kerak.",
+      "summary_en": "Copies of documents giving the right to carry out this activity must be attached, certified with a seal.",
+      "quote": "tashkilotingizni ushbu faoliyat turi bilan shug'ilanish xuquqini beruvchi hujjatlar nusxalarini muxr bilan tasdiqlab"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchida shartnomani bajarish uchun texnik, moliyaviy, moddiy va kadrlar resurslari bo'lishi kerak.",
+      "summary_en": "The bidder must have the technical, financial, material and staff resources to perform the contract.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarz bo'lmasligi kerak.",
+      "summary_en": "No overdue tax or fee debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi insofsiz ijrochilar yagona reestrida qayd etilmagan bo'lishi kerak.",
+      "summary_en": "The bidder must not be listed in the single register of unfair suppliers.",
+      "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasi bo'lishi kerak.",
+      "summary_en": "Founding documents and a state registration certificate are required.",
+      "quote": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Faoliyat turi bilan shug'ullanish huquqini beruvchi hujjatlar nusxasi (muhr bilan tasdiqlangan)",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+    "Soliq qarzi yo'qligi haqida ma'lumotnoma",
+    "Texnik parametrlarga muvofiqlikni tasdiqlovchi hujjatlar (pasport, texnik tavsif)",
+    "Tijorat taklifi",
+    "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ma'lumot"
+  ]
+}

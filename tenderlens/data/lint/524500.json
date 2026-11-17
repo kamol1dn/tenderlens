@@ -1,0 +1,120 @@
+{
+ "lot_id": 524500,
+ "backend": "in-session",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "sector": "other",
+ "subject_uz": "Davlat muassasasida ISO 9001 va ISO 37001 standartlariga muvofiqlikni tekshirish va qayta sertifikatlash auditi xizmati",
+ "requirements": [
+  {
+   "kind": "qualification",
+   "summary_uz": "Sertifikatlash organi ISO 37001:2025 bo'yicha amaldagi milliy akkreditatsiyaga ega bo'lishi kerak (10 ball).",
+   "summary_en": "The certification body must hold current national accreditation for ISO 37001:2025 (10 points).",
+   "quote": "ISO37001:2025 bo‘yicha amaldagi milliy akkreditatsiyaga ega bo‘lish"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "ISO 37001 sertifikati beriladigan Yevropa sertifikatlash organi bilan rasmiy shartnoma yoki kelishuv, notarial nusxada (10 ball).",
+   "summary_en": "A formal contract or agreement with the European certification body issuing the ISO 37001 certificate, notarised copy (10 points).",
+   "quote": "ISO37001 sertifikati beriladigan Yevropa sertifikatlashtirish organi bilan rasmiy shartnoma/kelisuvga ega bo‘lishi"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Yevropa organining veb-saytida O'zbekiston sertifikatlash organi bilan hamkorlik tasdiqlanishi kerak (10 ball).",
+   "summary_en": "Cooperation with an Uzbekistan certification body must be confirmed on the European body's website (10 points).",
+   "quote": "Yevropa sertifikatlashtirish organi veb-saytida O‘zbekiston sertifikatlashtirish organi bilan hamkorlikni tasdiqlash"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Oxirgi 3 yilda ishtirokchiga nisbatan iqtisodiy sud ishlari bo'lmasligi kerak (kafolat xati va onlayn havola).",
+   "summary_en": "No economic court cases against the bidder in the last 3 years (guarantee letter and online link).",
+   "quote": "Oxirgi 3 yil ichida yetkazib beruvchiga nisbatan iqtisodiy sud jarayonlari bo‘yicha hech qanday qonuniy ish bo‘lmaganligi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "O'zbekistonda menejment tizimini sertifikatlash bo'yicha 5 yildan ortiq tajriba va kamida 5 ta ma'lumotnoma yoki tavsiya xati (10 ball).",
+   "summary_en": "More than 5 years of management-system certification experience in Uzbekistan with at least 5 reference letters (10 points).",
+   "quote": "Menejment tizimini sertifikatlash bo‘yicha O‘zbekistonda 5 yildan ortiq tajribaga ega bo‘lishi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "ISO 37001 bo'yicha dunyo bo'ylab sertifikatlangan kamida 3 ta tashkilot ro'yxati taqdim etiladi (10 ball).",
+   "summary_en": "A list of at least 3 organisations certified worldwide under ISO 37001 is provided (10 points).",
+   "quote": "Sertifikatlashtirish organidan ISO37001 boʻyicha dunyo boʻylab sertifikatlangan kamida 3 ta tashkilot roʻyxati taqdim etiladi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "ISO 37001 bo'yicha davlat korxonalarini muvaffaqiyatli sertifikatlash tajribasi 20 ball bilan baholanadi.",
+   "summary_en": "Experience successfully certifying state enterprises under ISO 37001 is scored at 20 points.",
+   "quote": "ISO37001 boʻyicha davlat korxonalarini muvaffaqiyatli sertifikatlash tajribasi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Xalqaro e'tirof etilgan malakali 3 tadan ortiq shtat auditorlari mavjud bo'lishi 10 ball bilan baholanadi.",
+   "summary_en": "More than 3 staff auditors with internationally recognised qualifications are scored at 10 points.",
+   "quote": "3 tadan ortiq bo‘lgan shtat auditorlarning mavjudligi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "ISO 37001:2025 bo'yicha amaldagi xalqaro tan olingan Yevropa akkreditatsiyasi talab qilinadi (10 ball).",
+   "summary_en": "Current internationally recognised European accreditation for ISO 37001:2025 is required (10 points).",
+   "quote": "ISO37001:2025 bo‘yicha amaldagi xalqaro tan olingan Yevropa akkreditatsiyasiga ega bo‘lishi"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadr resurslari mavjud bo'lishi kerak.",
+   "summary_en": "The bidder must have the technical, financial, material and staff resources to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги"
+  }
+ ],
+ "flags": [
+  {
+   "type": "other",
+   "severity": "medium",
+   "quote": "Yevropa sertifikatlashtirish organi veb-saytida O‘zbekiston sertifikatlashtirish organi bilan hamkorlikni tasdiqlash",
+   "explanation_uz": "Mezon 3 (10 ball) uchun Yevropa sertifikatlash organining o'z veb-saytida O'zbekiston organi bilan hamkorlik ko'rsatilgan bo'lishi kerak, 2-mezon esa shu Yevropa organi bilan notarial tasdiqlangan shartnomani talab qiladi. Bu shartlar birgalikda ballni juda tor doiradagi organlarga bog'laydi va boshqa malakali sertifikatlash organlarini 20 balldan mahrum qilishi mumkin; buning sababi aniqlashtirilishi kerak.",
+   "explanation_en": "Criterion 3 (10 points) requires the European certification body's own website to show cooperation with an Uzbekistan body, and criterion 2 requires a notarised contract with that European body. Together they tie the score to a very small set of bodies and may deprive other qualified certification bodies of 20 points; the reason should be clarified.",
+   "rewrite_uz": "Sertifikatlash organi ISO 37001 bo'yicha amaldagi xalqaro tan olingan akkreditatsiyaga ega ekanligini akkreditatsiya organi reyestri orqali tasdiqlasa, ball berilsin.",
+   "rewrite_en": "Award points if the certification body shows, through an accreditation body's register, that it holds current internationally recognised accreditation for ISO 37001.",
+   "first_pass_severity": "high",
+   "reviewed_by": "second pass"
+  },
+  {
+   "type": "other",
+   "severity": "medium",
+   "quote": "ISO37001 sertifikati beriladigan Yevropa sertifikatlashtirish organi bilan rasmiy shartnoma/kelisuvga ega bo‘lishi",
+   "explanation_uz": "Ishtirokchi o'zi sertifikat bermaydi, balki muayyan Yevropa organi bilan shartnomaga ega bo'lishi va uning notarial nusxasini ko'rsatishi kerak. Bu shartlar mustaqil akkreditatsiyaga ega bo'lgan, lekin bunday shartnomasi yo'q organlarning ballini kamaytiradi va 10 ballga ta'sir qiladi.",
+   "explanation_en": "The bidder must hold a contract with a European body and attach a notarised copy of it. This lowers the score of bodies that hold independent accreditation but have no such contract, and affects 10 points.",
+   "rewrite_uz": "Ishtirokchi ISO 37001 bo'yicha sertifikatlash vakolatini tasdiqlovchi akkreditatsiya guvohnomasini taqdim etsa, ball berilsin; uchinchi tomon bilan shartnoma talab qilinmasin.",
+   "rewrite_en": "Award points if the bidder provides an accreditation certificate proving its authority to certify under ISO 37001; do not require a contract with a third party."
+  },
+  {
+   "type": "excessive_experience",
+   "severity": "medium",
+   "quote": "Menejment tizimini sertifikatlash bo‘yicha O‘zbekistonda 5 yildan ortiq tajribaga ega bo‘lishi",
+   "explanation_uz": "5 yildan ortiq mahalliy tajriba va kamida 5 ta ma'lumotnoma talab qilinadi (10 ball), shuningdek davlat korxonalarini sertifikatlash tajribasi alohida 20 ball bilan baholanadi. Bu shartlar xalqaro tajribali, lekin O'zbekistonda yaqinda ishlay boshlagan organlarni chetlashtirishi mumkin; xizmat qiymati 212 mln so'm ekanligini hisobga olish kerak.",
+   "explanation_en": "More than 5 years of local experience and at least 5 reference letters are scored (10 points), and experience certifying state enterprises is scored separately at 20 points. This may exclude bodies with international experience that only recently started in Uzbekistan; the contract value is 212 million UZS.",
+   "rewrite_uz": "ISO 9001 yoki ISO 37001 bo'yicha oxirgi 5 yilda kamida 2 ta tashkilotni sertifikatlash tajribasi (mamlakatdan qat'i nazar) ball bersin.",
+   "rewrite_en": "Award points for certifying at least 2 organisations under ISO 9001 or ISO 37001 in the last 5 years, regardless of country."
+  }
+ ],
+ "documents_needed_uz": [
+  "Sertifikatlash organining milliy akkreditatsiyasi",
+  "Yevropa sertifikatlash organining xalqaro akkreditatsiyasi (doirasi ko'rsatilgan holda)",
+  "Yevropa sertifikatlash organi bilan shartnoma yoki kelishuvning notarial nusxasi",
+  "Yevropa organi veb-saytida hamkorlikni tasdiqlovchi onlayn havola",
+  "Iqtisodiy sud ishlari yo'qligi haqida kafolat xati va onlayn havola",
+  "3-shakl: tajriba, sertifikat nusxalari va kamida 5 ta ma'lumotnoma yoki tavsiya xati",
+  "ISO 37001 bo'yicha dunyo bo'ylab sertifikatlangan kamida 3 ta tashkilot ro'yxati",
+  "Shtat auditorlar haqida my.mehnat.uz ko'chirmasi",
+  "1, 2, 4 va 5-shakllar (ariza, kafolat xati, moliyaviy holat, manfaatlar to'qnashuvi arizasi)",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+  "Shartnoma imzolovchi shaxsning tayinlanganlik buyrug'i va ishonchnoma",
+  "Soliq tashkiloti ma'lumotnomasi"
+ ],
+ "first_pass_model": "claude-sonnet-5-5",
+ "second_pass": {
+  "model": "claude-fable-5-2",
+  "backend": "in-session",
+  "note": "website-listing criterion lowered from high to medium: 10 of 100 points, and recognition through a European body is a conceivable reason"
+ }
+}

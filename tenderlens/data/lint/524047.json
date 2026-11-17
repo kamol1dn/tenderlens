@@ -1,0 +1,100 @@
+{
+  "lot_id": 524047,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "food",
+  "subject_uz": "Tibbiyot birlashmasi bemorlari uchun uch mahal issiq ovqat tayyorlash va yetkazish xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Tayyorlangan ovqatlar Sog'liqni saqlash vazirligining tasdiqlangan me'yorlariga mos kelishi shart.",
+      "summary_en": "Prepared meals must meet the Ministry of Health approved norms.",
+      "quote": "Тайёрланган овкатларлар ССВнинг тасдикданган меъёларига мос келиши шарт"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ovqatni malakali oshpazlar gigiena qoidalariga rioya qilib tayyorlashi, kaloriyasi me'yorga mos bo'lishi kerak.",
+      "summary_en": "Meals must be cooked by qualified cooks under hygiene rules, with calories matching the norm.",
+      "quote": "озик-овкат махсулотларини малака ва куникмага эга булган ошпазлар томонидан гигеник коидаларга риоя килган холда таёрланиши керак"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Eng ko'p ball (30) ta'minotchining o'z balansida oshxonasi bo'lishi va birlashmaga yaqinligi uchun beriladi.",
+      "summary_en": "The largest score (30 points) goes to having a kitchen on the supplier's own balance sheet and proximity to the hospital.",
+      "quote": "Балансида ошхонаси мавжудлиги ҳамда масофаси (Беморларга хизмат курсатиш сифатли бўлиш мақсадида Денов ТТБ Бирлашмасига яқин корхонага авзалик берилади"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kafolat xati 5 ball: nuqson va kamchiliklar qisqa muddatda bartaraf etilishi kafolatlanadi.",
+      "summary_en": "Guarantee letter worth 5 points: defects must be remedied quickly at the customer's request.",
+      "quote": "уларни қисқа муддатда буюртмачи талабига асосан бартараф этилишини таъминлаш тўғрисида кафолат хати илова қилиниши шарт"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Soliq va majburiy to'lovlar bo'yicha qarzdorlik yo'qligi ma'lumotnomasi 10 ball bilan baholanadi.",
+      "summary_en": "Certificate of no tax or mandatory-payment debt is scored at 10 points.",
+      "quote": "Солиқ ва бошқа мажбурий тўловлардан қарздорлиги йўқлиги тўғрисида маълумотнома илова қилиниши шарт"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Umumiy ma'lumot (5 ball): ustav, guvohnoma, xodimlar, asbob-uskunalar, mahsulot sertifikatlari va oldingi buyurtmachilardan tavsiyanoma.",
+      "summary_en": "General information (5 points): charter, registration, staff, equipment list, product certificates and references from past customers.",
+      "quote": "Қайси ташкилотларда ишлаган бўлса уша ташкилотлардан тавсиянома."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi davlat ro'yxatidan o'tganiga 6 oydan ko'p vaqt o'tgan bo'lishi shart.",
+      "summary_en": "Participant must have been state-registered for more than 6 months.",
+      "quote": "Бунда иштирокчининг давлат рўйхатидан ўтганига 6 ойдан кўп вақт ўтган бўлиши шарт."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi bankrotlik, qayta tashkil etish yoki tugatish bosqichida emasligi haqida kafolat xati beradi.",
+      "summary_en": "Guarantee letter that the participant is not in bankruptcy, reorganisation or liquidation.",
+      "quote": "юскичида эмаслигини тасдикловчи кафолат хати"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnoma imzolangandan keyin qiymatning 30 foizi 5 ish kunida avans sifatida to'lanadi, qolgani yakunda.",
+      "summary_en": "30% of the contract value is paid as an advance within 5 working days of signing; the rest on completion.",
+      "quote": "шартнома кийматининг 30 % микдори 5 иш куни давомида тулаб берилади."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat hajmi 1800 birlikdan to'qqiz pozitsiya, yetkazish muddati 10 kun.",
+      "summary_en": "Nine line items of 1800 units each, delivery term 10 days.",
+      "quote": "Иштирокчилар куйидаги мезонларга жавоб бериши шарт"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "high",
+      "quote": "Балансида ошхонаси мавжудлиги ҳамда масофаси (Беморларга хизмат курсатиш сифатли бўлиш мақсадида Денов ТТБ Бирлашмасига яқин корхонага авзалик берилади",
+      "explanation_uz": "Ushbu mezon 30 ball beradi, ya'ni baholanadigan 50 ballning (30+5+10+5) 60 foizi, o'tish bali esa 20. O'z balansida oshxonasi bo'lmagan yoki birlashmadan uzoqroq joylashgan, lekin sifatli ovqatni yetkazib bera oladigan ta'minotchi bu ballarni deyarli ololmaydi. Xizmat sifati ovqat sifati va yetkazish muddati bilan ham tekshirilishi mumkin.",
+      "explanation_en": "This criterion carries 30 points, 60% of the 50 scorable points (30+5+10+5), against a pass mark of 20. A supplier that does not own a kitchen on its balance sheet, or is located farther away, but could still deliver good food on time, would score almost nothing on it. Service quality can also be checked through meal standards and delivery time.",
+      "rewrite_uz": "Ta'minotchi bemorlarga issiq ovqatni belgilangan vaqtda yetkazib bera olishini tasdiqlovchi hujjat (o'z yoki ijaradagi oshxona, transport, yetkazish jadvali) taqdim etadi; ball masofaga emas, yetkazish muddati va ovqat haroratini ta'minlash qobiliyatiga qarab beriladi.",
+      "rewrite_en": "The supplier provides evidence that it can deliver hot meals to patients on schedule (own or leased kitchen, transport, delivery schedule); points depend on ability to meet delivery times and serving temperature, not on distance or ownership."
+    },
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Бунда иштирокчининг давлат рўйхатидан ўтганига 6 ойдан кўп вақт ўтган бўлиши шарт.",
+      "explanation_uz": "Davlat ro'yxatidan o'tganiga 6 oydan kam bo'lgan korxona, hatto tajribali xodimlari va oshxonasi bo'lsa ham, shu mezon bo'yicha chetlashtirilishi mumkin. Talab oziq-ovqat xizmatining sifatiga bevosita bog'liq emas.",
+      "explanation_en": "A company registered less than 6 months ago may be excluded on this criterion even if it has experienced staff and a working kitchen. The requirement is not directly tied to the quality of a catering service.",
+      "rewrite_uz": "Ishtirokchining tegishli ovqat tayyorlash tajribasini (shartnomalar, xodimlar malakasi) tasdiqlovchi hujjatlar so'raladi; ro'yxatdan o'tish muddatiga cheklov qo'yilmaydi.",
+      "rewrite_en": "Ask for documents confirming relevant catering experience (contracts, staff qualifications) and do not set a minimum registration age."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ishtirokchining ustavi va davlat ro'yxatidan o'tganlik guvohnomasi",
+    "Xodimlar haqida ma'lumot va ishlatiladigan asbob-uskunalar ro'yxati",
+    "Oziq-ovqat mahsulotlari sertifikatlari",
+    "Oldingi buyurtmachilardan tavsiyanomalar",
+    "Balansdagi oshxona va masofa haqida ma'lumotnoma",
+    "Kafolat xati: bajarilgan ishlar va kamchiliklarni bartaraf etish bo'yicha",
+    "Soliq va majburiy to'lovlar bo'yicha qarzdorlik yo'qligi ma'lumotnomasi",
+    "Bankrotlik, qayta tashkil etish yoki tugatish bosqichida emasligi haqida kafolat xati",
+    "Tijorat taklifi"
+  ]
+}

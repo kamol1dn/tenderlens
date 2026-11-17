@@ -1,0 +1,94 @@
+{
+  "lot_id": 524524,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "Sanitar tozalash va chiqindi tashishni raqamlashtirish uchun haydovchi mobil ilovasi, mavjud GPS tizimini GIS xaritaga ulash va dispetcherlik-boshqaruv veb-platformasini ishlab chiqish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Haydovchilar uchun Android mobil ilova ishlab chiqilishi kerak.",
+      "summary_en": "An Android mobile app for drivers must be developed.",
+      "quote": "Android операцион тизимида ишлайдиган мобил илова ишлаб чикиш."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ijrochi mavjud GPS provayder va qurilmalarini almashtirmasdan ularni tizimga ulashi shart.",
+      "summary_en": "The contractor must integrate the existing GPS devices and provider without replacing them.",
+      "quote": "Mashinalarda o'rnatilgan GPS trackerlar almashtirilmaydi va ularning sozlamalari"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Maxsus GPS qurilmalari, SIM-kartalar va telefonlar sotib olish xaridga kirmaydi.",
+      "summary_en": "Purchase of GPS trackers, SIM cards and phones is outside the scope of the procurement.",
+      "quote": "GPS trekerlar, telefonlar va boshqa jihozlarni sotib olish"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ma'lumotlar O'zbekiston hududidagi serverlarda saqlanishi kerak.",
+      "summary_en": "Data must be stored on servers located in Uzbekistan.",
+      "quote": "Ma'lumotlar O'zbekiston hududidagi serverlarda saqlanadi; mexanizm loyiha"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kiberxavfsizlik ekspertizasi, attestatsiya va sertifikatlash xizmatlari va ularning to'lovlari ijrochi hisobiga loyiha doirasiga kiradi.",
+      "summary_en": "Cybersecurity expert review, attestation and certification services and their fees fall within the project scope.",
+      "quote": "kiberxavfsizlik ekspertizasi, attestatsiya va sertifikatlash xizmatlari hamda ularning to'lovlari loyiha doirasi ichiga kiradi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ishlab chiqilgan dasturning manba kodi to'liq to'lovdan keyin buyurtmachiga topshiriladi.",
+      "summary_en": "The source code is handed to the customer after full payment.",
+      "quote": "Manba kodi to'liq to'lov amalga oshirilgandan keyin buyurtrnachiga topshiriladi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Texnik topshiriq mavjud Tozalive platformasi ustiga yangi modullar qo'shishni nazarda tutadi (mavjud autentifikatsiya va API shlyuzi qayta ishlatiladi).",
+      "summary_en": "The specification builds new modules on top of the existing Tozalive platform, reusing its authentication and API gateway.",
+      "quote": "Loyiha noldan boshlanmaydi. Ijrochi tomonidan Tozalive platformasi ishlab chiqilgan"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Tizim qabul qilingan sanadan boshlab kamida 6 oy bepul kafolatli xizmat ko'rsatilishi kerak.",
+      "summary_en": "The system must be supported free of charge for at least 6 months from acceptance.",
+      "quote": "Тизим цабул цилинган санадан бошлаб камида б ой кафолат хак олмасдан хизмат к}рсатилиши."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Buyurtmachi bosqich demosini 7 ish kuni ichida qabul qilmasa yoki izoh bermasa, bosqich qabul qilingan hisoblanadi.",
+      "summary_en": "If the customer does not respond within 7 working days, a stage is deemed accepted.",
+      "quote": "7 ish kuni ichida javob kelmasa, bosqich qabul qilingan hisoblanadi"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklifda tizimning funksional tavsifi va arxitekturasi taqdim etilishi kerak.",
+      "summary_en": "The proposal must describe the system's functions and architecture.",
+      "quote": "Таклиф этилаётган тизимнинг функционал тавсифи ва архитектураси"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Loyiha noldan boshlanmaydi. Ijrochi tomonidan Tozalive platformasi ishlab chiqilgan",
+      "explanation_uz": "Texnik topshiriq yangi tizimni mavjud Tozalive platformasi ustiga quradi va bu platforma ijrochi tomonidan ishlab chiqilgani hamda ishlab turgani aytiladi; mavjud autentifikatsiya, API shlyuzi va joylashtirish jarayoni qayta ishlatilishi nazarda tutilgan. Bunday shartlarda boshqa ishlab chiquvchi loyihani noldan bajarishi va shu asosda raqobatlasha olishi qiyin bo'lishi mumkin.",
+      "explanation_en": "The specification builds the new system on the existing Tozalive platform and states it was developed by the contractor and is already in production, with its authentication, API gateway and deployment reused. Under these terms another developer may find it hard to deliver from scratch and compete on equal terms.",
+      "rewrite_uz": "Texnik topshiriqda mavjud tizim bilan integratsiya uchun zarur API va hujjatlar barcha ishtirokchilarga e'lon bilan birga taqdim etilsin va yangi tizim mustaqil, ochiq interfeyslar orqali ishlashi mumkinligi yozilsin.",
+      "rewrite_en": "State that the APIs and documentation of the existing system needed for integration are provided to all bidders with the notice, and that the new system may be built independently using open interfaces."
+    }
+  ],
+  "documents_needed_uz": [
+    "Texnik taklif: tizimning funksional tavsifi va arxitekturasi",
+    "Mavjud GPS tizimini ulash usuli, kerakli API va cheklovlar tavsifi",
+    "Ishlarni bajarish kalendar rejasi va har bir bosqich muddati",
+    "Loyiha jamoasi va mas'ul mutaxassislar haqida ma'lumot",
+    "Joriy etish, o'qitish va texnik qo'llab-quvvatlash rejasi",
+    "Server, xarita, litsenziya va uchinchi tomon xizmatlari bo'yicha qo'shimcha xarajatlar hisobi",
+    "Kafolat va keyingi texnik xizmat shartlari",
+    "Taklif narxiga kiritilgan ishlarning alohida hisob-kitobi",
+    "Malumotnoma (baholash mezonlari bo'yicha ilova qilinadigan ma'lumotlar)",
+    "Soliq qarzdorligi yo'qligi haqida ma'lumot",
+    "Bankrotlik jarayoni yo'qligini tasdiqlovchi hujjat",
+    "Insofsiz ijrochilar reyestrida yo'qligini tasdiqlovchi ma'lumot"
+  ]
+}

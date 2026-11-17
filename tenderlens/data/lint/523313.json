@@ -1,0 +1,98 @@
+{
+  "lot_id": 523313,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Ferroqotishmalar ishlab chiqarish uchun 200 tonna elektrod massasi yetkazib berish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Elektrod massasi elektr o'tkazuvchan briketlangan material bo'lib, termoantratsit, koks va pekdan iborat.",
+      "summary_en": "Electrode paste is an electrically conductive briquetted material of thermo-anthracite, coke and pitch.",
+      "quote": "Электродная масса – электропроводящий брикетированный"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulot begona aralashmalar bilan ifloslanmagan bo'lishi kerak.",
+      "summary_en": "The paste must not be contaminated with foreign impurities.",
+      "quote": "Загрязнение электродной массы посторонними примесями не допускается"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulot shartnoma tuzilgan sanadan oldingi uch oydan avval ishlab chiqarilmagan bo'lishi kerak.",
+      "summary_en": "The goods must have been made no earlier than three months before the contract date.",
+      "quote": "Не ранее трех месяцев до даты заключения договора на поставку"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Qadoqlash GOST 24717 yoki boshqa xalqaro standartlarga mos, big-bag qoplarda bo'lishi kerak.",
+      "summary_en": "Packaging must follow GOST 24717 or other international standards, in big-bags.",
+      "quote": "Упаковку производят в соответствии с ГОСТ 24717 и/или другими"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ta'minotchi taklif qilinayotgan mahsulot ishlatiladigan korxonalar ro'yxatini (referens-list) taqdim etishi kerak.",
+      "summary_en": "The supplier must provide a reference list of enterprises that use the offered product.",
+      "quote": "Поставщик должен предоставить референс лист предприятий,"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishlab chiqaruvchini tasdiqlovchi litsenziya mavjudligi baholanadi va u mezonlarda muhim (kritik) deb belgilangan.",
+      "summary_en": "A licence confirming the manufacturer is scored and marked as critical in the criteria.",
+      "quote": "Наличие лицензии, подтверждающей производителя продукции производственно-технического назначения"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Mahsulot buyurtma olingan sanadan 50 kalendar kun ichida yetkazib beriladi.",
+      "summary_en": "Delivery is within 50 calendar days of receiving the order.",
+      "quote": "Буюртма олинган санадан бошлаб 50 календарь куни"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish joyi: Bekobod, O'zmetkombinat, DAP shartlarida.",
+      "summary_en": "Delivery place: Bekabad, Uzmetkombinat, on DAP terms.",
+      "quote": "Место поставки – DAP АО «Узметкомбинат», 110502, Республика"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "To'lov yetkazib berish faktiga ko'ra, AQSh dollarida, 20 ish kuni ichida amalga oshiriladi.",
+      "summary_en": "Payment is on delivery, in USD, within 20 working days.",
+      "quote": "Товар етказиб берилган факт бўйича"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat muddati mahsulot yetkazilgan kundan kamida 12 oy.",
+      "summary_en": "Warranty of at least 12 months from delivery.",
+      "quote": "Не менее 12 месяцев со дня поставки товара"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik va malaka bosqichidan o'tgan eng past narx taklif qilgan ishtirokchi g'olib bo'ladi.",
+      "summary_en": "The bidder with the lowest price who passes the qualification and technical stages wins.",
+      "quote": "Участник с наименьшей ценой, который прошел квалификационный и технический отбор объявляется"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Наличие лицензии, подтверждающей производителя продукции производственно-технического назначения",
+      "explanation_uz": "Bu mezon \"kritik\" deb belgilangan: ball olinmasa keyingi baholash o'tkazilmaydi. Litsenziya turi aniq ko'rsatilmagan, ishlab chiqaruvchi va ishtirokchi turli yuridik shaxs bo'lsa, shartnoma bo'lmasa atigi 2 ball, bo'lsa 6 ball beriladi. Shu sababli ishlab chiqaruvchining o'zi bo'lmagan ta'minotchilar chetlatilishi yoki ball yo'qotishi mumkin.",
+      "explanation_en": "This criterion is marked critical: scoring zero stops further evaluation. The type of licence is not named, and a supplier that is not the manufacturer gets only 2 points without a cooperation contract and 6 with one. Suppliers who are not the manufacturer could be shut out or lose points.",
+      "rewrite_uz": "Ishlab chiqaruvchining sifat va muvofiqlik hujjatlari (sertifikat, pasport) yoki ishlab chiqaruvchi bilan shartnoma taqdim etilsa, to'liq ball beriladi; litsenziya talabi qaysi hujjatni nazarda tutishi aniq ko'rsatilsin.",
+      "rewrite_en": "Full points if the manufacturer's quality and conformity documents (certificate, passport) or a contract with the manufacturer are provided; name the exact licence or document intended."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ishtirokchi va uning ta'sischilari haqida umumiy ma'lumot (1-shakl)",
+    "Kafolat xati (2-shakl)",
+    "Halollik bo'yicha ariza (3-shakl)",
+    "Texnik taklif (4-shakl)",
+    "Yetkazib berish va to'lov shartlari haqida ma'lumot (5-shakl)",
+    "Soliq qarzi yo'qligi haqida soliq idorasi ma'lumotnomasi",
+    "Ishlab chiqaruvchini tasdiqlovchi litsenziya",
+    "Ish tajribasi, referens-list va buyurtmachilarning ijobiy fikrlari",
+    "Ishlab chiqaruvchining sifat nazorati tizimi hujjatlari",
+    "Ilgari o'tkazilgan sinov natijalari"
+  ]
+}

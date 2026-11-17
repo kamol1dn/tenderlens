@@ -1,0 +1,117 @@
+{
+  "lot_id": 524979,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Yangi Navoiy shaharchasidagi bog' hududiga temir to'siq (metall profil va profnastil) o'rnatish xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "3000 kv.m yer maydonini metall profil va 3500 kv.m profnastil bilan o'rash xizmati bajariladi.",
+      "summary_en": "Fence a 3000 sq.m plot using metal profile and 3500 sq.m of profiled sheet.",
+      "quote": "3000 квадрат метр ер майдонини 3000 квадрат метр метал профилга, 3500 квадрат метр профнастил билан ўраш хизмати"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Texnik topshiriqda to'siq uzunligi 1500 metr va balandligi 3,50 metr ko'rsatilgan.",
+      "summary_en": "The technical assignment states a fence length of 1500 m and a height of 3.50 m.",
+      "quote": "1500 метр узунлиги 3.50 метр баландлиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi shartnomani bajarish uchun texnik, moliyaviy, moddiy va kadrlar resurslariga ega bo'lishi kerak.",
+      "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 1 (5 ball): tegishli malakali yoki shartnoma asosida jalb etiladigan mutaxassislar mavjudligi baholanadi.",
+      "summary_en": "Criterion 1 (5 points): availability of qualified or contracted specialists is scored.",
+      "quote": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 2 (5 ball): ishlarni o'z vaqtida va sifatli bajarish bo'yicha kafolat xati taqdim etiladi.",
+      "summary_en": "Criterion 2 (5 points): a guarantee letter on timely, quality performance is submitted.",
+      "quote": "Ишларни ўз вақтида ва сифатли бажариш кафолат хати"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 3 (5 ball): obyektni ko'rganlik haqida Direksiya va talabgor imzolagan, muhrlangan dalolatnoma talab qilinadi.",
+      "summary_en": "Criterion 3 (5 points): an act of site inspection signed and sealed by both the Directorate and the bidder is required.",
+      "quote": "объектни келиб урганганлиги юзасидан Дирекция ва талабгор уртасида икки томонлама имзоланган ва мухирланган далолатномани"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 4 (5 ball): sug'urta polislari ilova qilinadi (uchinchi shaxslar oldidagi javobgarlikni sug'urtalash mezoni).",
+      "summary_en": "Criterion 4 (5 points): insurance policies are attached (third-party liability insurance criterion).",
+      "quote": "Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 5 (5 ball): soliq va bank qarzdorligi hamda K-2 kartotekasi bo'yicha ma'lumotnomalar taqdim etiladi.",
+      "summary_en": "Criterion 5 (5 points): certificates of no tax/bank debt and no K-2 card-file entries are submitted.",
+      "quote": "Қарздорлик ва картотека К-2 мавжуд эмаслиги маълумотномалари"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Ish qiymatining 30 foizi miqdorida oldindan to'lov beriladi.",
+      "summary_en": "An advance payment of 30 percent of the work value is made.",
+      "quote": "Tanlash takliflari bo’yicha belgilangan ish qiymatining 30%miqdorida oldindan to’lov"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Boshlang'ich narx 1 100 000 000 so'm, moliyalashtirish byudjet mablag'lari hisobidan.",
+      "summary_en": "Start price is 1,100,000,000 UZS, funded from the budget.",
+      "quote": "1 100 000 000 (bir milliard bir yuz million) so‘m."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Takliflar qabul qilish tugagach 3 kun ichida baholanadi.",
+      "summary_en": "Bids are evaluated within 3 days after the end of bid acceptance.",
+      "quote": "Tanlash takliflarini qabul qilish tugagan kundan boshlab 3 kun davomida"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "объектни келиб урганганлиги юзасидан Дирекция ва талабгор уртасида икки томонлама имзоланган ва мухирланган далолатномани",
+      "explanation_uz": "Mezon 3 (5 ball) buyurtmachi (Direksiya) ham imzolaydigan obyekt ko'rigi dalolatnomasini talab qiladi. Texnik qism bo'yicha o'tish bali 25, mezonlarning yig'indisi esa 5 x 5 = 25 ball, ya'ni har bir mezonda to'liq ball kerak bo'lib ko'rinadi; buyurtmachi imzosi bo'lmasa, ishtirokchi o'ta olmasligi mumkin. Takliflar e'londan 7 kun ichida qabul qilinadi, shu muddatda ko'rikdan o'tish va imzo olish barcha uchun ham oson emas.",
+      "explanation_en": "Criterion 3 (5 points) requires a site-inspection act that the customer's Directorate must also sign. The technical pass mark is 25 and the five criteria add up to 5 x 5 = 25 points, so full marks appear to be needed on every criterion; without the customer's signature a bidder may not pass. Bids are accepted for only 7 days after publication, which makes arranging the visit and signature hard for some bidders.",
+      "rewrite_uz": "Obyektni ko'rish ixtiyoriy bo'lsin; ko'rik o'tkazilsa, dalolatnoma buyurtmachi tomonidan ariza kelgan kundan boshlab 1 ish kuni ichida rasmiylashtirilsin va uning mavjudligi yoki yo'qligi sababli ishtirokchi texnik bosqichdan chetlashtirilmasin.",
+      "rewrite_en": "Make the site visit optional; if a visit is held, the customer issues the act within 1 working day of the request, and absence of the act does not remove a bidder from the technical stage."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "low",
+      "quote": "Қарздорлик ва картотека К-2 мавжуд эмаслиги маълумотномалари",
+      "explanation_uz": "Mezon 5 sarlavhasi xodimlarni o'qitish talabiga oid, lekin unga 5 ball soliq va bank qarzdorligi ma'lumotnomalari uchun beriladi. Bu platformaning standart shabloniga o'xshaydi va obyektni to'siq bilan o'rash xizmatiga bevosita aloqador emas; ballar umumiy 25 ballning 20 foizini tashkil qiladi.",
+      "explanation_en": "The title of Criterion 5 concerns training of the customer's staff, yet its 5 points are awarded for tax and bank debt certificates. This looks like standard platform template wording and is not tied to a fencing service; the points are 20 percent of the 25-point technical total.",
+      "rewrite_uz": "Mezon 5 ni xizmat predmetiga mos mezon bilan almashtiring (masalan, o'xshash ishlar tajribasi yoki ish bajarish jadvali), qarzdorlik ma'lumotnomalari esa malaka talabi sifatida (o'tdi/o'tmadi) qoldirilsin.",
+      "rewrite_en": "Replace Criterion 5 with one tied to the service (for example experience with similar works or a work schedule) and keep the debt certificates as a pass/fail qualification requirement."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "3000 квадрат метр ер майдонини 3000 квадрат метр метал профилга, 3500 квадрат метр профнастил билан ўраш хизмати. 1500 метр узунлиги 3.50 метр баландлиги.",
+      "explanation_uz": "Hajm raqamlari bir-biriga mos kelmaydi: 3000 kv.m yer, 3000 kv.m metall profil va 3500 kv.m profnastil ko'rsatilgan, 1500 m uzunlik va 3,50 m balandlik esa taxminan 5250 kv.m to'siqni bildiradi. Aniq hajm noma'lum bo'lsa, ishtirokchilar narxni bir xil asosda hisoblay olmaydi.",
+      "explanation_en": "The quantities do not agree: 3000 sq.m of land, 3000 sq.m of metal profile and 3500 sq.m of profiled sheet are listed, while 1500 m length at 3.50 m height implies about 5250 sq.m of fence. If the real quantity is unclear, bidders cannot price on the same basis.",
+      "rewrite_uz": "Texnik topshiriqqa to'siqning aniq uzunligi, balandligi va materiallar bo'yicha yagona hajm jadvalini kiriting.",
+      "rewrite_en": "Add a single quantity table with the exact fence length, height and quantity per material to the technical assignment."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+    "Shartnoma tuzish uchun qonuniy huquqni tasdiqlovchi hujjat",
+    "Texnik, moliyaviy, moddiy va kadrlar resurslari mavjudligi haqida ma'lumot",
+    "Malakali mutaxassislar mavjudligini tasdiqlovchi hujjatlar",
+    "Ishlarni o'z vaqtida va sifatli bajarish bo'yicha kafolat xati",
+    "Obyektni ko'rganlik haqidagi ikki tomonlama imzolangan va muhrlangan dalolatnoma",
+    "Sug'urta polislari",
+    "Soliq va bank qarzdorligi hamda K-2 kartotekasi mavjud emasligi haqidagi ma'lumotnomalar",
+    "Bankrotlik tartib-taomili mavjud emasligi haqida ma'lumot",
+    "Insofsiz ijrochilar reyestrida yo'qligi va Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+    "Taklifni ta'minlash (1 foiz)"
+  ]
+}

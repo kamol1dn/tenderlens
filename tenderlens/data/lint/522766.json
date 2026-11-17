@@ -1,0 +1,100 @@
+{
+  "lot_id": 522766,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Tayyor BYD avtomobillarini O'zbekiston hududlariga avtovozlarda tashish xizmatlari",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Yuk hajmi yiliga taxminan 20 ming avtomobil.",
+      "summary_en": "Cargo volume of roughly 20,000 cars per year.",
+      "quote": "Yuk hajmi — taxminan yiliga 20 ming avtomobil."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Tashuvchining o'z avtoparkida kamida 5 ta avtovoz bo'lishi shart.",
+      "summary_en": "The carrier must own at least 5 car-carrier trucks.",
+      "quote": "Tashuvchi tashishlarning uzluksiz bajarilishini ta'minlash uchun o'z avtoparkida kamida 5 (besh) ta avtovozga ega bo'lishi shart."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Tijorat yuk tashish uchun amaldagi litsenziya talab etiladi.",
+      "summary_en": "A valid commercial freight-transport licence is required.",
+      "quote": "Tashuvchi tijorat yuk avtomobil tashishlarini amalga oshirish uchun amaldagi litsenziyaga ega bo'lishi shart."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Transport vositalari va tashuvchining fuqarolik javobgarligi sug'urta polislari bo'lishi kerak.",
+      "summary_en": "Valid vehicle insurance and carrier liability insurance policies are required.",
+      "quote": "Tashuvchi amaldagi sug'urta polislariga ega bo'lishi shart: avtotransport vositalarini sug'urtalash va tashuvchining fuqarolik javobgarligini sug'urtalash."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Barcha transport vositalarida GPS-monitoring bo'lishi kerak.",
+      "summary_en": "All vehicles must have GPS monitoring.",
+      "quote": "Barcha transport vositalarida GPS-monitoring mavjudligi ta'minlanishi kerak."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Avtomobillar g'ildiraklaridan maxsus sintetik tasmalar bilan mahkamlanishi kerak.",
+      "summary_en": "Each car must be secured by the wheels with special synthetic straps.",
+      "quote": "Mahkamlash: har bir avtomobil g'ildiraklaridan maxsus sintetik tasmalar yordamida ishonchli mahkamlanishi kerak."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Haydovchilar xavfsizlik texnikasi va tayyor avtomobillarni tashish qoidalari bo'yicha yo'riqnomadan o'tishi kerak.",
+      "summary_en": "Drivers must be briefed on safety and rules for transporting finished cars.",
+      "quote": "Haydovchilar xavfsizlik texnikasi va tayyor avtomobillarni tashish qoidalari bo'yicha yo'riqnomadan o'tishlari kerak."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "To'lov xizmat ko'rsatilgan fakti bo'yicha, milliy valyutada amalga oshiriladi.",
+      "summary_en": "Payment is made after services are rendered, in national currency.",
+      "quote": "To'lov xizmatlar ko'rsatilgan fakti bo'yicha amalga oshiriladi."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Buyurtmachi uzoq muddatli tashish shartnomasi tuzishni mo'ljallagan.",
+      "summary_en": "The customer intends a long-term transport contract.",
+      "quote": "Xizmat ko'rsatish muddati: Buyurtmachi tashish xizmatlarini ko'rsatish bo'yicha uzoq muddatli shartnoma tuzishni mo'ljallamoqda."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oxirgi 3 yillik balanslar (2023-2025) QR kod bilan taqdim etiladi, 5 ball.",
+      "summary_en": "Annual balance sheets for 2023-2025 with QR code are scored, 5 points.",
+      "quote": "2023-2025 yillar uchun oxirgi 3 yil uchun QR kod bilan tasdiqlangan yillik balanslarni taqdim etish orqali tanlov ishtirokchisining moliyaviy holati."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oxirgi uch yildagi o'xshash hajmdagi ish tajribasi shartnoma va hisob-fakturalar bilan tasdiqlanadi, 5 ball.",
+      "summary_en": "Experience on similar volumes over the last three years, backed by contracts and invoices, 5 points.",
+      "quote": "Soʼngi uch yil davomida shunga oʼxshash obʼektlar va tanlov hajmlari boʼyicha ish tajribasi"
+    }
+  ],
+  "flags": [
+    {
+      "type": "irrelevant_requirement",
+      "severity": "low",
+      "quote": "Xizmat ko`rsatuvchining ishonchnomasi va muvofiqlik bayonati (Xizmat ko`rsatuvchining rasmiy dillerlari qatnashgan taqdirda Xizmat ko`rsatuvchidan tasdiqlovchi hujjatlar, rasmiy vakili ekanligini tasdiqlovchi hujjat mavjudligi)",
+      "explanation_uz": "Mezon 2 sarlavhasi bajarish muddatiga oid, lekin 5 ball ishonchnoma va rasmiy diller/vakil hujjatiga beriladi; bu standart shablon matniga o'xshaydi va yuk tashish xizmatiga kam aloqador. Umumiy 30 balldan 5 ball (o'tish bali 15) shu hujjatga bog'liq, shuning uchun ta'siri cheklangan.",
+      "explanation_en": "The criterion heading is about performance period, yet its 5 points go to a power of attorney and an official dealer or representative document. This looks like standard template wording and has little bearing on a freight service. It is 5 of 30 points with a pass mark of 15, so the effect is limited.",
+      "rewrite_uz": "Ishtirokchining vakolatli shaxsi nomidan ish yuritish huquqini tasdiqlovchi hujjat (ishonchnoma yoki ustav) taqdim etilishi lozim; rasmiy diller maqomi talab etilmaydi.",
+      "rewrite_en": "A document confirming the signatory's authority to act for the bidder (power of attorney or charter) must be provided; official-dealer status is not required."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ishonchnoma va muvofiqlik bayonoti",
+    "2023-2025 yillar uchun QR kodli yillik buxgalteriya balanslari",
+    "Oxirgi uch yildagi o'xshash tashish shartnomalari va hisob-fakturalar",
+    "Kompaniya haqida umumiy ma'lumot, ustav va my.mehnat.uz dan xodimlar to'g'risida ma'lumot",
+    "Tijorat yuk tashish litsenziyasi",
+    "Transport vositalari va fuqarolik javobgarligi sug'urta polislari",
+    "Avtovozlar ro'yxati va texnik ko'rik hujjatlari",
+    "DDQ va KYC shakli",
+    "Halollik va qonunchilikka rioya etish to'g'risida ariza",
+    "Davlat ro'yxatidan o'tganlik hujjati",
+    "Soliq qarzdorligi yo'qligi to'g'risida ma'lumotnoma",
+    "Insofsiz ijrochilar reyestrida yo'qligini tasdiqlovchi ma'lumot"
+  ]
+}

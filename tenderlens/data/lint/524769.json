@@ -1,0 +1,116 @@
+{
+  "lot_id": 524769,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "food",
+  "subject_uz": "Yuqumli kasalliklar shifoxonasi bemorlarini kuniga 3 mahal issiq ovqat bilan taʼminlash (autsorsing)",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "Sanitariya-epidemiologiya tasdiqlagan menyu 40 ballgacha baholanadi (eng katta mezon).",
+      "summary_en": "A menu approved by the sanitary-epidemiology service is scored up to 40 points, the largest criterion.",
+      "quote": "Tanlov ishtirokchisining 10 kunlik menyusi sanitariya epidemiologiyadan (tastiqlangan foto nusxasi bilan);"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oshpazlar ish staji haqidagi maʼlumotnoma 15 ball beradi.",
+      "summary_en": "A certificate on cooks' work experience earns up to 15 points.",
+      "quote": "oshpazlari kamida 2 yillik ish stajiga ega bo‘lganligi to‘g‘risidagi ma’lumotnoma mexnat uz saytidan tasdiklangan va sogligni saklash tizimida ishlagan"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Shartnoma summasining 40 foizidan kam boʻlmagan mablagʻ haqida bank maʼlumotnomasi 10 ball beradi, yetarli boʻlmasa 5 ball.",
+      "summary_en": "A bank statement showing at least 40% of the contract sum earns 10 points, or 5 if the amount is lower.",
+      "quote": "Tanlov ishtirokchisi shartnoma summasining 40 foizidan kam bo‘lmagan xisob raqamida mablag‘i borligi to‘g‘risida bank ko‘chirmasi yoki bank ma’lumotnomasi. 2026 yil yanvar oyi xolatiga"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Issiqxona, muzlatgich va omborxona haqida maʼlumot (kadastr va foto nusxasi bilan) 10 ball beradi.",
+      "summary_en": "Information on greenhouse, refrigeration and storage facilities (with cadastre and photo copies) earns 10 points.",
+      "quote": "Tanlov ishtirokchisining issiqxonasi, muzlatgich, omborxonasi to‘g‘risidagi ma’lumotlari (kadastr va foto nusxasi bilan);"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oziq-ovqat mahsulotlari boʻyicha sertifikatlar maʼlumoti 5 ball beradi.",
+      "summary_en": "Information on food-product certificates earns 5 points.",
+      "quote": "Tanlov ishtirokchisining oziq-ovqat maxsulotlari bo‘yicha sertifikatlari to‘g‘risidagi ma’lumotlari (tastiqlangan foto nusxasi bilan);"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishtirokchining avtomobillari haqida maʼlumot (foto nusxasi bilan) 5 ball beradi.",
+      "summary_en": "Information on the bidder's vehicles (with photo copies) earns 5 points.",
+      "quote": "Tanlov ishtirokchisining avtomabillari to‘g‘risidagi ma’lumotlar (foto nusxasi bilan);"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Bankdagi yillik aylanma mablagʻlari haqida maʼlumotnoma 5 ball beradi.",
+      "summary_en": "A certificate of annual bank turnover earns 5 points.",
+      "quote": "Tanlov ishtirokchisining bankdagi yillik aylanma mablag‘lari to‘g‘risida malumotnoma,"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reestrida boʻlmasligi kerak.",
+      "summary_en": "The bidder must not be listed in the unified register of unfair suppliers.",
+      "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat yotib davolanayotgan bemorlarni kuniga 3 mahal issiq ovqat bilan taʼminlashdan iborat.",
+      "summary_en": "The service is hot meals three times a day for inpatients.",
+      "quote": "davolanayotgan bemorlarni 3 mahal issiq ovqat bilan ta'minlash xizmatini"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Toʻlov akkreditiv orqali yoki yetkazib berilgandan soʻng, bank kafolati bilan oldindan toʻlash ham mumkin.",
+      "summary_en": "Payment is by letter of credit or after delivery; an advance is possible against a bank guarantee.",
+      "quote": "Akkreditiv yoki etkazib berilgandan so'ng, agar"
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_financial",
+      "severity": "medium",
+      "quote": "Tanlov ishtirokchisi shartnoma summasining 40 foizidan kam bo‘lmagan xisob raqamida mablag‘i borligi to‘g‘risida bank ko‘chirmasi yoki bank ma’lumotnomasi. 2026 yil yanvar oyi xolatiga",
+      "explanation_uz": "Shartnoma summasining 40 foizi (taxminan 178 mln soʻm) hisob raqamida boʻlishi va bu yanvar oyi holatiga koʻrsatilishi talab qilinadi. Hujjat uzoq oldingi sanaga bogʻlangani sababli yetarli xizmat tajribasiga ega boʻlgan, ammo aylanma mablagʻi boshqacha shakllangan taʼminotchi 10 balldan 5 ballgacha yoʻqotishi mumkin.",
+      "explanation_en": "The bidder must show at least 40% of the contract sum (about 178 million UZS) on its account, as at January. Because the document is tied to a date months before the bid, a capable caterer whose cash position is organised differently may lose up to 5 of 10 points.",
+      "rewrite_uz": "Ishtirokchining oxirgi hisobot davri uchun moliyaviy holatini tasdiqlovchi bank maʼlumotnomasi yoki moliyaviy hisobot (balans) taqdim etilishi; shartnomaning bir oylik qiymatiga teng aylanma mablagʻi yoki bank kafolati ham qabul qilinadi.",
+      "rewrite_en": "A bank certificate or financial statement (balance sheet) for the latest reporting period confirming the bidder's financial standing; working capital equal to one month of contract value, or a bank guarantee, is also accepted."
+    },
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "oshpazlari kamida 2 yillik ish stajiga ega bo‘lganligi to‘g‘risidagi ma’lumotnoma mexnat uz saytidan tasdiklangan va sogligni saklash tizimida ishlagan",
+      "explanation_uz": "Oshpazlar ish stajining sogʻliqni saqlash tizimida boʻlganligi talab qilinadi, bu mezon 15 ball beradi. Umumiy ovqatlanish yoki boshqa katta oshxonalarda tajribali oshpazlari bor taʼminlashchi ballni yoʻqotishi mumkin.",
+      "explanation_en": "The cooks' experience must have been gained in the health system, and this criterion carries 15 points. A caterer whose cooks are experienced in public catering or other large kitchens could lose those points.",
+      "rewrite_uz": "Oshpazlarning kamida 2 yillik ish stajini tasdiqlovchi maʼlumotnoma (mehnat daftarchasi yoki mehnat.uz maʼlumoti); tajriba umumiy ovqatlanish yoki tibbiyot muassasalarida boʻlishi mumkin.",
+      "rewrite_en": "A certificate confirming at least 2 years of work experience of the cooks (employment record or mehnat.uz data); the experience may come from public catering or medical institutions."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "low",
+      "quote": "Tanlov ishtirokchisining issiqxonasi, muzlatgich, omborxonasi to‘g‘risidagi ma’lumotlari (kadastr va foto nusxasi bilan);",
+      "explanation_uz": "Kadastr hujjati bilan tasdiqlangan oʻz issiqxona, muzlatgich va omborxonasi 10 ball beradi. Ijaraga olingan yoki shartnoma asosida foydalaniladigan omborxona bilan ham xizmatni sifatli bajarish mumkin; shuning uchun mezonni aniqlashtirish kerak.",
+      "explanation_en": "Own greenhouse, refrigeration and storage evidenced by cadastre documents earn 10 points. A caterer using rented or contracted storage could also perform well, so the criterion may need clarification.",
+      "rewrite_uz": "Ishtirokchining sovutish va saqlash imkoniyatlari (oʻz yoki ijara/shartnoma asosidagi, tegishli hujjatlar bilan) haqida maʼlumot.",
+      "rewrite_en": "Information on the bidder's refrigeration and storage capacity (owned, rented or contracted, with supporting documents)."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ishtirokchi va taʼsischilar haqida umumiy maʼlumot (1-shakl)",
+    "Qayta tashkil etish, tugatish, bankrotlik va sud jarayonida emasligi haqida kafolat xati (2-shakl)",
+    "Ariza (3-shakl)",
+    "Oʻxshash xizmat koʻrsatish tajribasi haqida maʼlumot (4-shakl)",
+    "Texnik taklif (5-shakl)",
+    "Yetkazib berish va toʻlov shartlari (6-shakl)",
+    "Bankdagi yillik aylanma mablagʻlari haqida maʼlumotnoma",
+    "Soliq qarzdorligi yoʻqligi haqida maʼlumotnoma",
+    "Insofsiz ijrochilar reestrida yoʻqligi haqida maʼlumot",
+    "Issiqxona, muzlatgich va omborxona haqida maʼlumot",
+    "Oziq-ovqat sertifikatlari",
+    "Sanitariya-epidemiologiya tasdiqlagan menyu",
+    "Oshpazlar ish staji haqida maʼlumotnoma",
+    "Avtomobillar haqida maʼlumot",
+    "Bank koʻchirmasi yoki bank maʼlumotnomasi",
+    "Kafolat shartlari boʻyicha hujjat (7-shakl)"
+  ]
+}

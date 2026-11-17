@@ -1,0 +1,107 @@
+{
+  "lot_id": 525127,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Teatr binosidagi qo'riqlash-yong'in signalizatsiyasi, yong'inni o'chirish va xabar berish tizimlariga 2026-yil uchun texnik xizmat ko'rsatish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Qo'riqlash-yong'in signalizatsiyasi va yong'inni o'chirish qurilmalariga har oy 1-sonli va 2-sonli reglament bo'yicha texnik xizmat ko'rsatiladi.",
+      "summary_en": "Monthly maintenance of the fire-alarm and fire-suppression equipment under Regulation No. 1 and No. 2.",
+      "quote": "1-sonli Reglament: qo‘riqlash-yong‘in signalizatsiyasi, yong‘inni o‘chirish va xabar berish qurilmalarini tashqi ko‘rikdan o‘tkazish"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Joriy texnik xizmat har oyning 30-sanasigacha ko'rsatiladi.",
+      "summary_en": "Monthly maintenance must be done by the 30th of each month.",
+      "quote": "xizmati har oyda joriy oyning 30-sanasigacha ko‘rsatiladi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochi sohada kamida 5 yillik tajribaga ega bo'lishi kerak.",
+      "summary_en": "The contractor must have at least 5 years of experience in the field.",
+      "quote": "ijrochi xizmat ko‘rsatish sohasida kamida 5 yillik tajribaga ega bo‘lishi kerak"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Texnik xizmat uchun uskunalar, asboblar va moslamalar mavjudligi to'g'risida ma'lumotnoma talab qilinadi.",
+      "summary_en": "A statement confirming the availability of the required equipment and tools is required.",
+      "quote": "uskunalar, asboblar va moslamalar mavjudligi to‘g‘risida ma'lumotnoma mavjudligi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlab chiqaruvchi tomonidan sertifikatlangan mutaxassislar va litsenziyalangan Simplex Dongle key talab qilinadi.",
+      "summary_en": "Manufacturer-certified specialists and a licensed Simplex Dongle key are required.",
+      "quote": "sertifikatlangan mutaxassislar (ishlab chiqaruvchi firmadan shaxsiy sertifikatga ega bo‘lgan) va litsenziyalangan Simplex Dongle key SafeNet-security kirish kaliti majburiy ravishda mavjud"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Sanoat xavfsizligi davlat qo'mitasining yong'inni o'chirish va signalizatsiya qurilmalarini montaj va xizmat ko'rsatishga ruxsatnomasi bo'lishi kerak.",
+      "summary_en": "A permit from the industrial safety state committee for installing and servicing fire-suppression and alarm systems is required.",
+      "quote": "Sanoat xavfsizligi davlat qo‘mitasining yong‘inni o‘chirish, qo‘riqlash-yong‘in signalizatsiyasi, ovozli xabar berish"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Xizmat turlarini ko'rsatish uchun litsenziya va ruxsatnoma nusxalari taqdim etiladi.",
+      "summary_en": "Copies of the licences and permits for the services must be submitted.",
+      "quote": "Ko‘rsatilgan xizmat turlarini ko‘rsatish uchun litsenziya va ruxsatnoma hujjatlarining nusxasi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchining moliyaviy ahvoli haqida vakolatli organ tasdiqlagan ma'lumot taqdim etiladi.",
+      "summary_en": "Information on the bidder's financial position, confirmed by an authorised body, must be submitted.",
+      "quote": "Vakolatli organ tomonidan tasdiqlangan ishtirokchining moliyaviy ahvoli haqida ma’lumot"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik topshiriqqa muvofiqlik uchun sertifikat yoki kafolat xati taqdim etiladi (20 ball).",
+      "summary_en": "A certificate or guarantee letter confirming conformity with the technical specification is provided (20 points).",
+      "quote": "Sertifikat yoki kafolat xatini taqdim etish (Предоставление сертификата или гарантийного письма)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Xizmat sifatiga kafolat muddati bo'yicha kafolat xati taqdim etiladi (30 ball, eng katta mezon).",
+      "summary_en": "A guarantee letter on the warranty period for service quality is provided (30 points, the largest criterion).",
+      "quote": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Kamida 30% oldindan to'lov shartnoma reyestriga kiritilgandan keyin 10 bank kuni ichida to'lanadi.",
+      "summary_en": "An advance payment of at least 30% is made within 10 bank days of the contract being registered.",
+      "quote": "kamida 30% miqdorida oldindan to‘lov amalga oshiriladi"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Xizmatlarning cheklangan qiymati QQS bilan 60 000 000 so'm; taklif narxi undan oshmasligi kerak.",
+      "summary_en": "The price cap is 60,000,000 UZS including VAT; bids may not exceed it.",
+      "quote": "Xizmatlarning cheklangan qiymati: 12% QQSni hisobga olgan holda 60 000 000 (Oltmish million) so‘mni tashkil etadi."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "sertifikatlangan mutaxassislar (ishlab chiqaruvchi firmadan shaxsiy sertifikatga ega bo‘lgan) va litsenziyalangan Simplex Dongle key SafeNet-security kirish kaliti majburiy ravishda mavjud",
+      "explanation_uz": "Shaxsiy sertifikat ishlab chiqaruvchining o'zidan olinishi va Simplex Dongle key litsenziyasi talab qilinadi. Bunday sertifikat va kalitni asosan ishlab chiqaruvchining vakillari ola oladi, shu sababli boshqa malakali tashkilotlar qatnashishi cheklanishi mumkin. O'rnatilgan uskunalar Simplex bo'lgani ehtimol bunga sabab, ammo buni tekshirish kerak.",
+      "explanation_en": "The clause requires personal certificates issued by the manufacturer and a licensed Simplex Dongle key. These are mostly available to the manufacturer's own partners, so other qualified service companies may be unable to bid. The installed equipment may well be Simplex, which could explain it, but it should be checked.",
+      "rewrite_uz": "Ijrochida o'rnatilgan uskunalarga xizmat ko'rsatish bo'yicha tegishli malakali mutaxassislar bo'lishi kerak (ishlab chiqaruvchi sertifikati yoki unga teng malaka tasdig'i, masalan o'qitish guvohnomasi); tizim dasturiy ta'minotiga kirish buyurtmachi tomonidan ijrochiga xizmat davrida taqdim etiladi.",
+      "rewrite_en": "The contractor must have qualified specialists to service the installed equipment (manufacturer certificate or equivalent proof of competence, such as a training certificate); access to the system software is provided by the customer to the contractor for the service period."
+    }
+  ],
+  "documents_needed_uz": [
+    "Tender komissiyasi raisi nomiga ariza (1-shakl)",
+    "Davlat roʻyxatidan oʻtganlik guvohnomasi nusxasi",
+    "Litsenziya va ruxsatnomalar nusxalari (Sanoat xavfsizligi qoʻmitasi ruxsatnomasi)",
+    "Direktorni tayinlash buyrugʻi yoki ishonchnoma va pasport nusxasi",
+    "Kafolat xati (2-shakl): qayta tashkil etish, tugatish yoki sud jarayonida emasligi",
+    "Ishtirokchi haqida umumiy ma'lumot (3-shakl)",
+    "Moliyaviy ahvol haqida ma'lumot (4-shakl)",
+    "Soliq qarzi yoʻqligi toʻgʻrisida ma'lumotnoma",
+    "Ishtirokchi ustavi",
+    "Uskunalar, asboblar va moslamalar mavjudligi haqida ma'lumotnoma",
+    "Sertifikatlangan mutaxassislar ro'yxati va sertifikatlari",
+    "5 yillik ish tajribasini tasdiqlovchi ma'lumot",
+    "Texnik topshiriqqa muvofiqlik va kafolat bo'yicha kafolat xatlari"
+  ]
+}

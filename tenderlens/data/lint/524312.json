@@ -1,0 +1,88 @@
+{
+  "lot_id": 524312,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Avtomobil yoʻllariga asfalt yotqizish uchun shagʻal-qum aralashmasini 180-288 km masofaga tashish xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Shagʻal-qum aralashmasini 288 km masofaga tashish: 474 725 tn/km, 700 soʻmdan, 332 307 500 soʻm.",
+      "summary_en": "Hauling gravel-sand mix over 288 km: 474,725 t-km at 700 UZS, 332,307,500 UZS.",
+      "quote": "Инерт материалларни шағал-қум аралашмасини 288 км га ташиб бериш хизмати 474725 тн/км х 700 сўм =332 307 500 сўм ҚҚС билан."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Shagʻal-qum aralashmasini 180 km masofaga tashish: 471 042 tn/km, 329 729 400 soʻm.",
+      "summary_en": "Hauling gravel-sand mix over 180 km: 471,042 t-km, 329,729,400 UZS.",
+      "quote": "Инерт материалларни шағал-қум аралашмасини 180 км га ташиб бериш хизмати 471042 тн/км х 700 сўм =329 729 400 сўм ҚҚС билан."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Jami chegaraviy qiymat 897 068 900 soʻm (QQS bilan); undan yuqori takliflar koʻrib chiqilmaydi.",
+      "summary_en": "Total ceiling 897,068,900 UZS incl. VAT; higher bids are not considered.",
+      "quote": "Танлов охирги қиймати – 897 068 900 сўм ҚҚС билан. Ушбу қийматдан ортиқ қийматдаги таклифлар қабул қилинмайди ва кўриб чиқилмайди."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnika hujjatlari (tex. pasport, shartnoma) boyicha 60 ball: 10 dan koʻp avtotransport boʻlsa va kamida 50% oʻz balansida.",
+      "summary_en": "Machinery documents earn up to 60 points: more than 10 vehicles, at least 50% on the bidder's own balance.",
+      "quote": "Корхонага тегишли бўлган машина-механизмлар хужжатлари (тех.паспорт шартнома ва шунга ўхшаш хужжатлар) Максимум балл – 60 (10 дан коп автотранспорт воситаси булса. Шундан уз балансида камида 50 фоиздан кам булмаслиги керак)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "8 ta va undan koʻp avtotransport (kamida 50% oʻz balansida) boʻlsa 50 ball; 2 ta boʻlsa 10 ball.",
+      "summary_en": "8 or more vehicles (at least 50% own) earn 50 points; 2 vehicles earn 10.",
+      "quote": "(8та ва ундан коп автотранспорт воситаси булса. Шундан уз балансида камида 50 фоиздан кам булмаслиги керак)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Xodimlar haqida ma'lumotnoma (my.mehnat.uz) 10 ball.",
+      "summary_en": "A staff certificate (my.mehnat.uz) earns 10 points.",
+      "quote": "Корхонанинг ишчи ходимлари тўғрисида маълумотнома -10 ball (my.mehnat.uz saytidan malumotnoma taqdim qilinishini kerak)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishlarni sifatli va oz vaqtida bajarish boyicha kafolat xati 10 ball.",
+      "summary_en": "A warranty letter on quality and timely execution earns 10 points.",
+      "quote": "Ишларни сифатли ва ўз вақтида бажарилиш учун кафолат хати"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Avval shu turdagi ishlarni bajarganlik haqida ma'lumot (shartnomalar, schyot-fakturalar) 20 ball.",
+      "summary_en": "Information on previous similar work (contracts, invoices) earns 20 points.",
+      "quote": "Avval ushbu turdagi ishlarni bajarganlik to'g'risida malumot (Shartnomalar, schet-fakturalar va shunga o'xshash malumotlar)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Mulkchilik shaklidan qat'i nazar, shu turdagi xizmatlarga ixtisoslashgan va kamida 2 yil tajribaga ega yuridik shaxslar ishtirok etishi mumkin.",
+      "summary_en": "Legal entities specialised in this type of service with at least 2 years' experience may take part.",
+      "quote": "камида 2 Йил таж?ибага эга бУлган барча юридик мацомга эга"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Tanlov predmeti qiymatining kamida 20 foizi miqdorida aylanma mablagʻ talab qilinadi.",
+      "summary_en": "Working capital of at least 20% of the lot value is required.",
+      "quote": "камида 20 фоизи микцоридаги айланма"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari mavjud boʻlishi kerak.",
+      "summary_en": "Technical, financial, material and staff resources needed for the contract must be available.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Korxonaning ishchi xodimlari toʻgʻrisida ma'lumotnoma (my.mehnat.uz)",
+    "Texnika (mashina-mexanizmlar) hujjatlari: texnik pasportlar, ijara yoki shartnomalar",
+    "Ishlarni sifatli va oz vaqtida bajarish boyicha kafolat xati",
+    "Avval shu turdagi ishlarni bajarganlik haqida ma'lumot: shartnomalar, hisob-fakturalar",
+    "Aylanma mablagʻlar mavjudligini tasdiqlovchi bank hujjati",
+    "Shartnoma tuzishning qonuniy huquqini tasdiqlovchi hujjat va davlat royxatidan otganlik guvohnomasi",
+    "Soliq va yigʻimlar boyicha qarzdorlik yoqligi haqida ma'lumotnoma",
+    "Bankrotlik tartib-taomili yoqligi haqida ma'lumot",
+    "Insofsiz ijrochilar reyestrida yoqligi haqida ma'lumot",
+    "Majburiy ijro byurosi bazalarida bajarilmagan majburiyatlar yoqligi haqida ma'lumot"
+  ]
+}

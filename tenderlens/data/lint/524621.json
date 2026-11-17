@@ -1,0 +1,71 @@
+{
+  "lot_id": 524621,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Chorvachilik obyektlarini ichimlik suvi bilan ta'minlash uchun suv inshootining loyiha-smeta hujjatlarini ishlab chiqish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Narpay tumanidagi 18 ta chorvachilik obyektini ichimlik suvi bilan ta'minlaydigan suv inshooti uchun loyiha-smeta hujjatlarini ishlab chiqish.",
+      "summary_en": "Prepare design and cost-estimate documents for a water facility supplying drinking water to 18 livestock facilities in Narpay district.",
+      "quote": "suv inshooti qurish obyekti uchun loyixa smeta xujjatlarini ishlab chiqish"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Bajarish muddati qisqa bo'lsa ko'proq ball beriladi: 15 kundan ortiq muddat deyarli ball bermaydi, 10 kungacha 20 ball.",
+      "summary_en": "Shorter completion time earns more points: over 15 days earns almost nothing, up to 10 days earns 20 points.",
+      "quote": "15 kundan ortik muddatga 0 baldan 1 ballgacha = 1.0; 13 kundan 15 kungacha – 10 ball = 10.0"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Hujjatlardagi kamchiliklar uchun javobgarlik va ularni bepul qayta ishlab chiqish haqida kafolat xati taqdim etish (15 ball).",
+      "summary_en": "Submit a guarantee letter to be liable for defects in the documents and to redo them free of charge (15 points).",
+      "quote": "Bajaruvchi loyiha-smeta hujjatlari kamchiliklar uchun, shu jumladan keyinchalik qurilish jarayonida"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kafolat xati taqdim etilsa 15 ball, etilmasa 1 ballgacha beriladi.",
+      "summary_en": "A guarantee letter earns 15 points; without it at most 1 point.",
+      "quote": "Kafolat xati taqdim etilganda 15 ball = 15.0"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Diplomli injener-texnik xodimlar (bosh muhandis, bosh arxitektor va boshqalar) mavjudligi tasdiqlanishi kerak (20 ball).",
+      "summary_en": "Diploma-holding engineering staff (chief engineer, chief architect, etc.) must be shown (20 points).",
+      "quote": "diplomga ega injener-texnik xodimlarni mavjudligi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Moddiy-texnik baza (ofis texnikasi, kompyuterlar, geodeziya asboblari) kadastr hujjati yoki ijara shartnomasi bilan tasdiqlanadi (15 ball).",
+      "summary_en": "Material and technical base (office equipment, computers, surveying instruments) is evidenced by a cadastre document or lease contract (15 points).",
+      "quote": "bino-inshoot kadastr hujjati nusxasi yoki ijara shartnomasi nusxasi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari mavjud bo'lishi shart.",
+      "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+      "summary_en": "No overdue tax or fee debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reyestrida bo'lmasligi kerak.",
+      "summary_en": "The bidder must not be on the single register of unfair suppliers.",
+      "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Soliq qarzdorligi yo'qligi va insofsiz ijrochilar reyestrida qayd etilmaganligi to'g'risida ma'lumotnoma",
+    "Hujjatlardagi kamchiliklar uchun javobgarlik va bepul qayta ishlab chiqish haqida kafolat xati",
+    "Diplomli injener-texnik xodimlar, loyiha bosh muhandisi va bosh arxitektori haqida ma'lumot, diplom va buyruq nusxalari",
+    "Moddiy-texnik baza bo'yicha ma'lumotnoma (kadastr hujjati yoki ijara shartnomasi, geodeziya asboblari)",
+    "Bajarish muddati bo'yicha taklif"
+  ]
+}

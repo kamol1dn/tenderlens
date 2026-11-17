@@ -1,0 +1,123 @@
+{
+  "lot_id": 524876,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Poliklinika binosini joriy ta'mirlash uchun alyuminiy mahsulotlar (kompozit panel, profil, deraza va eshik) sotib olish (15 170 000 so'm)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Alyuminiy kompozit panel (16 kv.m), alyuminiy profil 50x100x2,5 mm (62 m), alyumin eshik (11 kv.m) va deraza romi (1 kv.m) yetkazib beriladi; jami 15 170 000 so'm.",
+      "summary_en": "Supply of aluminium composite panel (16 sq m), profile 50x100x2.5 mm (62 m), aluminium doors (11 sq m) and a window frame (1 sq m); total 15,170,000 UZS.",
+      "quote": "aluminiy maxsulotlari sotib olish."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Bajarish muddati shartnoma imzolangan kundan 3 kun; mahsulot avans o'tkazilgan kundan boshlab olib kelinadi.",
+      "summary_en": "Completion within 3 days from contract signing; delivery counted from the advance payment date.",
+      "quote": "Ishlarni bajarish muddati: shartnoma imzolangan kundan boshlab 3 kun."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30% avans, qolgan 70% tovar to'liq topshirilgach to'lanadi.",
+      "summary_en": "30% advance; the remaining 70% after full delivery.",
+      "quote": "Oldindan avans (bo‘nak) 30% to‘lov amalga oshiriladi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Aylanma mablag'lar tanlov predmeti qiymatining kamida 20 foizi bo'lishi yoki bank kafolatnomasi taqdim etilishi kerak.",
+      "summary_en": "Turnover funds of at least 20 percent of the lot value, or a bank guarantee, are required.",
+      "quote": "Tanlov predmeti qiymatining kamida 20 foizi miqdoridagi aylanma"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchining omborida mahsulot mavjud bo'lishi shart.",
+      "summary_en": "The bidder must hold the product in its own warehouse.",
+      "quote": "Tanlov ishtirokchisining omborida maxsulot mavjudligi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Mahsulotga rasmiy ishlab chiqaruvchining sertifikati bo'lishi kerak.",
+      "summary_en": "A certificate of the official manufacturer for the product must exist.",
+      "quote": "Maxsulotga rasmiy ishlab chikaruvchining sertifikati"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Moddiy ta'minlanganlik: boshlang'ich summaning kamida 30 foizi miqdorida mablag'ga ega bo'lish.",
+      "summary_en": "Financial standing: funds of at least 30 percent of the starting amount.",
+      "quote": "(Tanlovning boshlang'ich summasining kamida 30% mablag'iga ega bo'lishi)"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Takliflarda mahsulotning texnik parametrlari va ishlab chiqaruvchisi ko'rsatilishi kerak.",
+      "summary_en": "The offer must state the product's technical parameters and manufacturer.",
+      "quote": "Maxsulotning texnik parametrlari va ishlab chiqaruvchisi"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Konsorsiumlar (yuridik shaxslar birlashmalari) tanlovda ishtirok eta olmaydi.",
+      "summary_en": "Consortia (associations of legal entities) may not take part.",
+      "quote": "Yuridik shaxslar birlashmalari (konsorsiumov) tanlovda"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Tovarlar ta'minotchi omborida mavjudligi (rasm bilan) kafolat bo'yicha mezonda baholanadi.",
+      "summary_en": "Goods being in the supplier's warehouse (with a photo) is scored under the warranty criterion.",
+      "quote": "Таварлар таъминотчининг омборида мавжудлиги (расм илова килиши керак)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Yetkazib berish muddatlari, kalendar grafik hamda ishchi kuchi, texnika va materiallar taqsimoti haqida ma'lumotnoma uchun ball beriladi (20 ball).",
+      "summary_en": "A statement with delivery dates, calendar schedule and distribution of labour, machinery and materials is scored (20 points).",
+      "quote": "Таварларни етказиб беришнинг аниқ муддатлари кўрсатилган, календарь графиги ҳамда ресурслар (ишчи кучи, машина ва техника, материаллар) тақсимоти тўғрисидаги маълумотнома тақдим этилади."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kamchilik aniqlansa qisqa muddatda almashtirish haqida kafolat xati taqdim etilishi shart.",
+      "summary_en": "A guarantee letter to replace defective goods quickly must be provided.",
+      "quote": "етказилган товарлардан камчилик аниқланса уни қисқа муддут ичида алмаштириб бериш тўғрисида кафолат хати тақдим қилиши шарт"
+    }
+  ],
+  "flags": [
+    {
+      "type": "irrelevant_requirement",
+      "severity": "medium",
+      "quote": "Таварларни етказиб беришнинг аниқ муддатлари кўрсатилган, календарь графиги ҳамда ресурслар (ишчи кучи, машина ва техника, материаллар) тақсимоти тўғрисидаги маълумотнома тақдим этилади.",
+      "explanation_uz": "Mezon 4 uchun 20 ball (jami 100 balldan) ishchi kuchi, mashina va materiallar taqsimoti jadvaliga beriladi. Bu qurilish ishlari uchun xos, 15 170 000 so'mlik alyuminiy mahsulot yetkazib berishga esa mos kelmaydi va platformaning standart andozasi so'zlariga o'xshaydi; tovarni yetkaza oladigan lekin bunday jadval tuzmagan ta'minotchi ballni yo'qotishi mumkin.",
+      "explanation_en": "Criterion 4 gives 20 of 100 points for a schedule distributing labour, machinery and materials. That fits construction works, not the delivery of about 15 million UZS of aluminium goods, and looks like standard template wording; a supplier able to deliver but without such a schedule may lose points.",
+      "rewrite_uz": "Ushbu mezonni yetkazib berish muddati va jadvali (partiyalar bo'yicha sana) bilan cheklang, ishchi kuchi va texnika taqsimotini so'ramang.",
+      "rewrite_en": "Limit this criterion to the delivery dates and schedule by consignment, and do not ask for a distribution of labour and machinery."
+    },
+    {
+      "type": "unrealistic_deadline",
+      "severity": "low",
+      "quote": "Ishlarni bajarish muddati: shartnoma imzolangan kundan boshlab 3 kun.",
+      "explanation_uz": "Mahsulotni 3 kun ichida topshirish, ishtirokchining omborida tayyor mahsulot bo'lishi talabi (sahifa 6) va omborda mavjudligi uchun beriladigan ball bilan birga, faqat tayyor zaxirasi bor ta'minotchilarga imkon beradi. Kesilgan alyuminiy kompozit panel yoki o'lchamli eshik buyurtma bo'yicha tayyorlanishi kerak bo'lsa, bu muddatga ulgurmaydi.",
+      "explanation_en": "A 3-day delivery period, together with the requirement to hold the goods in the bidder's own warehouse (page 6) and points for warehouse stock, favours suppliers with ready stock. Made-to-size composite panels or door units that must be produced to order would not fit this period.",
+      "rewrite_uz": "Yetkazib berish muddatini kamida 10-15 kalendar kun qilib belgilang yoki buyurtma bo'yicha tayyorlanadigan pozitsiyalar uchun alohida muddat bering.",
+      "rewrite_en": "Set delivery at no less than 10-15 calendar days, or give a separate period for items made to order."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "low",
+      "quote": "shu kabi ob'ektlar xujjatlarning dasturiy ta'minotini ishlab chiqish bo'yicha tajriba va ko'nikmaga",
+      "explanation_uz": "Ishtirokchilar \"shu kabi ob'ektlar hujjatlarining dasturiy ta'minotini ishlab chiqish\" bo'yicha tajribaga ega bo'lishi kerak, deyiladi. Bu alyuminiy mahsulot yetkazib berishga aloqador emas va boshqa hujjatdan ko'chirilgan matnga o'xshaydi; bir izohlovchi savol yetarli.",
+      "explanation_en": "Bidders are required to have experience in developing software for the documentation of similar objects. This has no connection with supplying aluminium products and looks like text carried over from another document; one clarifying question is enough.",
+      "rewrite_uz": "Ushbu bandni olib tashlang yoki \"o'xshash tovarlarni yetkazib berish tajribasi\" deb o'zgartiring.",
+      "rewrite_en": "Delete this clause or replace it with experience in supplying similar goods."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik guvohnomasi va ustav",
+    "Soliq va majburiy to'lovlar bo'yicha qarzdorlik yo'qligi to'g'risida ma'lumotnoma",
+    "Bankrotlik jarayonida emasligi va insofsiz ijrochilar reestrida yo'qligi haqida tasdiq",
+    "Texnik hujjatlar ro'yxati (broshyuralar, texnik pasportlar)",
+    "Rasmiy ishlab chiqaruvchining sertifikati",
+    "Mahsulotning ombordagi mavjudligi to'g'risida ma'lumotnoma va rasmlar",
+    "Aylanma mablag'lar yoki bank kafolatnomasi",
+    "Yetkazib berish muddatlari, kalendar grafik va resurslar taqsimoti bo'yicha ma'lumotnoma",
+    "Kamchilik aniqlansa mahsulotni almashtirish haqida kafolat xati",
+    "Xavfsizlik chora-tadbirlari va standartlarga rioya haqida ma'lumotnoma",
+    "Narx taklifi (jami 15 170 000 so'm doirasida)"
+  ]
+}

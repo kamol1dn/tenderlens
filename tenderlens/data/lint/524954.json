@@ -1,0 +1,92 @@
+{
+ "lot_id": 524954,
+ "backend": "in-session",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "sector": "construction",
+ "subject_uz": "Ohangaron suv omboridagi suv urilma qudug'ini ta'mirlash va tiklash bo'yicha ishchi loyiha, mualliflik nazorati",
+ "requirements": [
+  {
+   "kind": "technical",
+   "summary_uz": "Ishchi loyiha, mualliflik nazorati va ishlarni kuzatib borish xizmatlari bajariladi.",
+   "summary_en": "Working design, author supervision and monitoring of works are to be provided.",
+   "quote": "obyekti bo‘yicha loyiha ishlari, mualliflik nazorati hamda ishlarni bajarishni kuzatib borish xizmatlari"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Loyihani 60 kundan oshmagan muddatda bajarish bo'yicha kafolat xati 10 ball beradi.",
+   "summary_en": "A guarantee letter on completing the design within 60 days earns up to 10 points.",
+   "quote": "Loyihani bajarish bo‘yicha kafolat xatini taqdim etish"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Malakali muhandis-texnik xodimlar, ularning tajribasi va o'xshash loyihalardagi ishtiroki 30 ballgacha baholanadi.",
+   "summary_en": "Qualified engineering staff, their experience and similar projects are scored up to 30 points.",
+   "quote": "Ishtirokchida loyiha bo‘yicha ishlarni bajarish uchun zarur bo‘lgan malakali muhandis-texnik xodimlarning mavjudligi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "So'nggi 5 yilda kamida 3 ta yakunlangan shartnoma kerak, har biri boshlang'ich narxning kamida 20 foizi.",
+   "summary_en": "At least 3 completed contracts in the last 5 years are needed, each worth at least 20% of the start price.",
+   "quote": "kamida 3 (uch) ta shartnoma mavjud bo‘lishi lozim, bunda har bir shartnomaning qiymati tenderning boshlang‘ich qiymatining kamida 20 foizini tashkil etishi kerak"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Moliyaviy barqarorlik: o'rtacha yillik aylanma kamida 8 mlrd so'm va likvidlik koeffitsiyenti kamida 1,0.",
+   "summary_en": "Financial stability: average annual turnover of at least 8 bn UZS and a liquidity ratio of at least 1.0.",
+   "quote": "So‘nggi 3 yil uchun o‘rtacha yillik aylanma — kamida 8 mlrd so‘m."
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Kamida 10 ta kompyuter yoki ishchi stansiya va kamida 3 turdagi loyihalash va smeta dasturi ball beradi.",
+   "summary_en": "At least 10 computers or workstations and at least 3 kinds of design and estimating software earn points.",
+   "quote": "kompyuter va ishchi stansiyalar — kamida 10 ta, maxsus loyihalash va smeta dasturiy ta’minoti — kamida 3 turdagi"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Moliyaviy hisobotlar (buxgalteriya balansi) auditor tasdiqlagan yoki soliq organi qabul qilgan bo'lishi kerak.",
+   "summary_en": "Financial statements (balance sheet) must be audited or confirmed as accepted by the tax authority.",
+   "quote": "Молиявий ҳисоботлар* (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда)"
+  },
+  {
+   "kind": "delivery",
+   "summary_uz": "Mualliflik nazorati qurilish davrida amaldagi me'yoriy talablar va shartnoma shartlariga muvofiq amalga oshiriladi.",
+   "summary_en": "Author supervision is carried out during construction under the applicable norms and the contract.",
+   "quote": "amaldagi me'yoriy talablar va shartnoma shartlariga muvofiq mualliflik nazoratini amalga oshirishi shart."
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Narx 70/30 ball usulida baholanadi; texnik qism 70 foiz, o'tish bali 70.",
+   "summary_en": "Scoring is 70% technical and 30% price; pass mark is 70.",
+   "quote": "texnik qism 70.0%, narx 30.0%, o'tish bali 70"
+  }
+ ],
+ "flags": [
+  {
+   "type": "excessive_financial",
+   "severity": "high",
+   "quote": "So‘nggi 3 yil uchun o‘rtacha yillik aylanma — kamida 8 mlrd so‘m.",
+   "explanation_uz": "Moliyaviy barqarorlik mezoni (100 balldan 15 ball) so'nggi 3 yildagi o'rtacha yillik aylanma kamida 8 mlrd so'm bo'lishini so'raydi. Lotning boshlang'ich narxi 330,4 mln so'm, ya'ni talab lot qiymatidan taxminan 24 baravar katta. Texnik qismdan o'tish bali 70 bo'lgani uchun bu 15 ballni yo'qotgan ishtirokchiga xato qilish uchun deyarli joy qolmaydi. Loyihalash ishini bajara oladigan kichikroq tashkilotlar chetda qolishi mumkin.",
+   "explanation_en": "The financial-stability criterion (15 of 100 points) asks for average annual turnover of at least 8 bn UZS over the last 3 years. The lot's start price is 330.4 m UZS, so the threshold is about 24 times the lot value. The technical pass mark is 70, so a bidder who loses these 15 points has almost no margin left. Smaller design firms able to do the work may be left out.",
+   "rewrite_uz": "So'nggi 3 yil uchun o'rtacha yillik aylanma shartnoma boshlang'ich narxidan kam bo'lmasligi kerak.",
+   "rewrite_en": "Average annual turnover over the last 3 years must be not less than the contract start price.",
+   "first_pass_severity": "medium",
+   "reviewed_by": "second pass"
+  }
+ ],
+ "documents_needed_uz": [
+  "Loyihani 60 kundan oshmagan muddatda bajarish bo'yicha kafolat xati",
+  "Muhandis-texnik xodimlar ro'yxati, ma'lumoti va tajribasi bo'yicha hujjatlar",
+  "Yakunlangan shartnomalar va bajarilgan ishlar dalolatnomalari",
+  "Moliyaviy hisobotlar (buxgalteriya balansi)",
+  "Kompyuter texnikasi va dasturiy ta'minot ro'yxati",
+  "Soliq qarzi yo'qligi haqida ma'lumotnoma",
+  "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+  "Taklifni ta'minlash (bid security)"
+ ],
+ "first_pass_model": "claude-sonnet-5-5",
+ "second_pass": {
+  "model": "claude-fable-5-2",
+  "backend": "in-session",
+  "note": "severity raised from medium to high: 15 of 100 points with a pass mark of 70, threshold about 24 times the lot value, and the lot is a re-announcement"
+ }
+}

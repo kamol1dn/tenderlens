@@ -1,0 +1,80 @@
+{
+  "lot_id": 524803,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Uychi tumanidagi 21-umumiy o'rta ta'lim maktabida faollar zali qurilishi uchun topografik s'yomka ishlari",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "S'yomka amaldagi shaharsozlik normalari, qurilish me'yorlari va geodezik ishlarga oid normativ hujjatlar talablariga muvofiq bajarilishi kerak.",
+      "summary_en": "The survey must follow the current urban-planning norms, building codes and geodetic regulations.",
+      "quote": "Топографик съёмка амалдаги шаҳарсозлик нормалари, қурилиш меъёрлари ва геодезик ишларга оид норматив ҳужжатлар талабларига мувофиқ бажарилиши лозим."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Er osti muhandislik kommunikatsiyalari mavjud ijro chizmalari, tegishli tashkilotlar ma'lumotlari va zarur bo'lsa joyida tekshiruv asosida planga kiritiladi.",
+      "summary_en": "Underground utilities are shown on the plan from existing as-built drawings, utility owners' data and, where needed, on-site checks.",
+      "quote": "Ер ости муҳандислик коммуникациялари тўғрисидаги маълумотлар мавжуд ижро чизмалари, тегишли ташкилотлар маълумотлари ва зарур ҳолларда жойидаги текширув натижалари асосида киритилади."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Natijada belgilangan masshtabdagi topografik plan, elektron nusxa, koordinatalar va texnik hisobot tayyorlanadi.",
+      "summary_en": "Deliverables include a topographic plan at the set scale, an electronic copy, coordinate data and a technical report.",
+      "quote": "Бажарилган топографик съёмка ишлари натижасида қуйидаги ҳужжатлар тайёрланиши лозим:"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Natijalar buyurtmachiga qog'oz va elektron shaklda topshiriladi.",
+      "summary_en": "Results are handed to the customer on paper and in electronic form.",
+      "quote": "Иш натижалари буюртмачига қоғоз ва электрон шаклда тақдим этилади."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Elektron plan PDF hamda DWG yoki DXF formatida beriladi.",
+      "summary_en": "The electronic plan is supplied as PDF plus DWG or DXF.",
+      "quote": "Топографик план электрон шаклда PDF ҳамда лойиҳалашда фойдаланиш имконини берувчи DWG ёки DXF форматларида тақдим этилади."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Bajarish muddati shartnoma shartlariga ko'ra belgilanadi (hudud maydoni va murakkabligi hisobga olinadi).",
+      "summary_en": "The completion time is set in the contract, taking site area and complexity into account.",
+      "quote": "Топографик съёмка ишларини бажариш муддати шартнома шартларига мувофиқ белгиланади."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Buyurtmachi aniqlagan kamchiliklar shartnomada belgilangan tartibda ijrochi tomonidan bartaraf etiladi.",
+      "summary_en": "Defects found by the customer are fixed by the contractor as set out in the contract.",
+      "quote": "Буюртмачи томонидан аниқланган камчиликлар ва техник топшириқ талабларига номувофиқликлар ижрочи томонидан шартномада белгиланган тартибда бартараф этилади."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ball beriladigan mezonlardan biri: so'nggi uch yilda bajarilgan ish tajribasi (4-shakl).",
+      "summary_en": "One scored criterion is work experience over the last three years (form 4).",
+      "quote": "Tanlash ishtirokchisining oxirgi uch yilda bajargan ish tajribasi (4-shakl)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ball beriladigan mezonlardan biri: loyiha-smeta hujjatlarini tayyorlashda foydalaniladigan orgtexnika va mexanizmlar ro'yxati (6-shakl).",
+      "summary_en": "One scored criterion is the list of office equipment and machinery used (form 6).",
+      "quote": "foydalanadigan orgtexnika va mexanizmlari ro‘yxati (6-shakl)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliqlar va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+      "summary_en": "The bidder must have no overdue tax or levy debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Tanlash ishtirokchisi to'g'risida umumiy ma'lumot (1-shakl)",
+    "Umumiy axborot (2-shakl)",
+    "Ishtirokchining moliyaviy holati (3-shakl)",
+    "So'nggi uch yilda bajarilgan ish tajribasi (4-shakl)",
+    "Loyihani yakunlash va o'z vaqtida topshirish bo'yicha kafolat xati (5-shakl)",
+    "Orgtexnika va mexanizmlar ro'yxati (6-shakl)",
+    "Soliq qarzdorligi yo'qligi to'g'risida ma'lumotnoma",
+    "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi to'g'risida ma'lumot"
+  ]
+}

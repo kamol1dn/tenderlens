@@ -1,0 +1,102 @@
+{
+  "lot_id": 524582,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "food",
+  "subject_uz": "Nevroxirurgiya markazi bemorlari uchun kuniga 4 mahal issiq parhez taomlarni tayyorlash va yetkazib berish (autsorsing) xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Markaz bemorlari uchun maxsus parhez stollari bo'yicha issiq taomlar kuniga 4 mahal o'z vaqtida yetkazib berilishi kerak.",
+      "summary_en": "Hot meals for the centre's patients on special diet tables must be delivered four times a day on time.",
+      "quote": "беморлар учун махсус пархез столлари бўйича иссиқ пархез таомларини 4 махал ўз вақтида сифатли ва мазали қилиб етказиб бериш"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat ko'rsatish muddati 365 kun.",
+      "summary_en": "The service period is 365 days.",
+      "quote": "Ишларни бажариш Муддати 365 кун 5 Тўлов шартлари"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnomadan keyin 30 foiz avans to'lanadi, qolgan qismi dalolatnoma va hisob-fakturadan keyin 30 ish kuni ichida to'lanadi.",
+      "summary_en": "30 percent advance is paid after signing; the rest within 30 working days after acceptance acts and invoices.",
+      "quote": "Шартнома имзоланганидан сўнг 5 иш куни мобайнида 30 % аванс тўлови тўлаб берилади, қолган қисми хизмат кўрсатиш далолатномалари ва ҳисоб фактуралар расмийлаштирилганидан сўнг 30 иш куни ичида тўлаб берилади"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi oxirgi 3 yillik moliyaviy hisobotlar va balanslarni taqdim etishi kerak.",
+      "summary_en": "The bidder must submit financial reports and balance sheets for the last 3 years.",
+      "quote": "молиявий натижалари бўйича охирги 3 йиллик ҳисоботлари жадвал асосида,3 йиллик баланслари билан"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Parhez taomlarni tayyorlash texnologiyasi bo'yicha kamida 3 yillik tajribali muhandis-texnolog, dietolog va oshpazlar bo'lishi kerak.",
+      "summary_en": "Engineer-technologists, dieticians and cooks with at least 3 years of experience in diet meal preparation are required.",
+      "quote": "камида 3 йиллик иш тажрибасига эга бўлган малакали мутахассислар муҳандис- технолог, диетолог, ошпазлар"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Oshpazlarda Sog'liqni saqlash vazirligi bergan malaka sertifikatlari bo'lishi kerak.",
+      "summary_en": "Cooks must hold qualification certificates issued by the Ministry of Health.",
+      "quote": "Ошпазлар учун Ўзбекистон Республикаси Соғлиқни сақлаш вазирлиги томонидан берилган малака сертификатларининг хам мавжудлиги"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oxirgi 2 yillik autsorsing faoliyati bo'yicha shartnomalar, hisob-fakturalar va dalolatnomalar baholanadi (20 ball).",
+      "summary_en": "Contracts, invoices and acts from the last 2 years of outsourcing activity are scored (20 points).",
+      "quote": "Иштирокчининг охирги 2 йилик аутсорсинг фаолияти учун тузган шартномалар, фактуралар ва иш бажарилганлиги тўғрисидаги далолатномалар нусхаси"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishtirokchining o'ziga tegishli taom tayyorlash joyi yoki ijara shartnomasi va yetkazish avtotransporti ma'lumotlari baholanadi (20 ball).",
+      "summary_en": "An own or leased food preparation site and delivery vehicle details are scored (20 points).",
+      "quote": "Иштирокчининг ўзига тегишли таом тайёрлайдиган жойи ёки ижара шартномаси мавжудлиги"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oziq-ovqat mahsulotlari bo'yicha sanitariya-epidemiologik xulosa taqdim etilishi kerak (5 ball).",
+      "summary_en": "A sanitary-epidemiological conclusion for food products must be provided (5 points).",
+      "quote": "Озиқ-овқат ва қишлоқ хўжалиги маҳсулотларига санитария-эпидемиологик хулосаси"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Yetkazilgan oziq-ovqat mahsulotlarining qolgan yaroqlilik muddati ishlab chiqaruvchi belgilagan muddatning kamida 70 foizi bo'lishi kerak.",
+      "summary_en": "Delivered food must have at least 70 percent of the manufacturer's shelf life remaining.",
+      "quote": "Ишлаб чиқарувчи томонидан белгиланган яроқлилик муддатидан камида 70%"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Moliyaviy bosqichga malaka va texnik baholashda 80 va undan yuqori ball olganlar o'tkaziladi.",
+      "summary_en": "Only bidders scoring 80 or more in the qualification and technical scoring go on to the financial stage.",
+      "quote": "дастлабки малакавий ва техник баҳолаш мезонларидан 80 ва ундан юқори балл олган ташкилотлар ўтишига йўл қўйилади"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "дастлабки малакавий ва техник баҳолаш мезонларидан 80 ва ундан юқори балл олган ташкилотлар ўтишига йўл қўйилади",
+      "explanation_uz": "Xarid hujjatida narx bosqichiga o'tish uchun 80 ball talab qilinadi, platforma shaklida esa o'tish bali 50 ko'rsatilgan. Bitta hujjat yetishmasa ham (masalan, 20 ballik band) ishtirokchi narx bosqichiga o'tmay qolishi mumkin; qaysi chegara amal qilishini buyurtmachidan aniqlash kerak.",
+      "explanation_en": "The procurement document requires 80 points to reach the price stage, while the platform form states a pass score of 50. A single missing document (for example a 20-point item) could keep a bidder out of the price stage, so the customer should confirm which threshold applies.",
+      "rewrite_uz": "Narx bosqichiga o'tish uchun minimal ball platforma shaklida ko'rsatilgan 50 ball sifatida belgilansin va xarid hujjati bilan platforma shakli bir-biriga moslashtirilsin.",
+      "rewrite_en": "Set the minimum score to reach the price stage at the 50 points shown in the platform form, and align the procurement document with the platform form."
+    }
+  ],
+  "documents_needed_uz": [
+    "Qatnashish uchun ariza (1-namuna)",
+    "Ishtirokchi haqida umumiy ma'lumot (2-namuna)",
+    "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ariza (3-namuna)",
+    "Ishonchnoma (vakil orqali ishtirok etilsa, 4-namuna)",
+    "Kafolat xati: qayta tashkil etish, tugatish yoki bankrotlik jarayonida emasligi (5-namuna)",
+    "Shunga o'xshash xizmatlar bo'yicha tajriba ma'lumotnomasi (6-namuna)",
+    "Moliyaviy holat hisoboti va oxirgi 3 yillik balanslar (7-namuna)",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi nusxasi",
+    "Soliq qarzdorligi yo'qligi haqida ma'lumot",
+    "Oshpazlar diplomi va malaka sertifikatlari, mehnat daftarchasi ko'chirmalari, tibbiy daftarcha nusxalari",
+    "Namunaviy taomnoma va parhez taomlar kaloriyasi haqida ma'lumot",
+    "Taom tayyorlash joyi yoki ijara shartnomasi va yetkazish transporti ma'lumotlari",
+    "Oziq-ovqat mahsulotlari bo'yicha sanitariya-epidemiologik xulosa va sifat sertifikatlari",
+    "Parhez taomlar tayyorlash bo'yicha kafolat xati"
+  ]
+}

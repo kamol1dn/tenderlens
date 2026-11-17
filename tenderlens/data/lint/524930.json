@@ -1,0 +1,116 @@
+{
+  "lot_id": 524930,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Karotaj stansiyalari uchun geofizika uskunalari: optik va akustik televyuver, magnit sezgirlik zondi, quduq videokamerasi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulot yangi, ishlatilmagan va 2026-yilda ishlab chiqarilgan bo'lishi kerak; kafolat xati taqdim etiladi.",
+      "summary_en": "Goods must be new, unused and manufactured in 2026; a guarantee letter is submitted.",
+      "quote": "Махсулот янги, ишлатилмаган ва 2026 йил ишлаб чиқарилган бўлиши керак."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Uskuna O'zbekiston hududida foydalanishga ruxsat etilgan bo'lishi kerak.",
+      "summary_en": "The equipment must be permitted for use in Uzbekistan.",
+      "quote": "uskuna o'zbekiston Respublikasi hududida fbydalanishga ruxsat etilgan bo'lishi kerak."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulot tashqi va mexanik ta'sirlardan himoyalangan holda qadoqlanishi zarur.",
+      "summary_en": "Goods must be packed so as to be protected from external and mechanical impact.",
+      "quote": "Mahsulot tashqi va mexanik ta'sirlardan hirnoyalangan holda qadoqlangan bo'lishi zarur,"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Texnik topshiriq bandlariga muvofiqlik jadvali (Mos / Mos emas) taqdim etiladi; bitta nomuvofiqlik chetlatishga olib keladi.",
+      "summary_en": "A conformity table (Complies / Does not comply) against the technical specification is submitted; a single non-conformity leads to exclusion.",
+      "quote": "Техник топшириқнинг бандлари талабларига мувофиқлиги / Соответствие требованиям технического задания"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlab chiqaruvchidan diler sertifikati, ishonchnoma yoki avtorizatsiya xati (rangli asl nusxa skani) talab qilinadi; bo'lmasa ishtirokchi chetlatiladi.",
+      "summary_en": "A dealer certificate, power of attorney or authorisation letter from the manufacturer (colour scan of the original) is required; without it the bidder is excluded.",
+      "quote": "Наличие сертификата дилера или доверенность от завода-изготовителя (производителя) товара или авторизационное письмо от производителя"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Oldingi o'xshash yetkazib berishlar haqida ma'lumot va yakuniy foydalanuvchining tavsiya xati (aloqa ma'lumotlari bilan) kerak.",
+      "summary_en": "Information on prior similar supplies and a reference letter from the end user with contact details are required.",
+      "quote": "письма отзыва от предприятия, (конечного пользователя) с указанием контактных данных потребителя"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kamida 3 nafar tegishli mutaxassis mavjudligi haqida, familiyalari ko'rsatilgan hujjat taqdim etiladi.",
+      "summary_en": "A document naming at least 3 relevant specialists by surname is submitted.",
+      "quote": "Kamida 3 nafar tegishli mutaxassis mavjudligi haqida, ularning familiyalari ko‘rsatilgan holda hujjat taqdim etiladi."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Shefmontaj, ishga tushirish-sozlash ishlari va mutaxassislarni o'qitish talab etiladi.",
+      "summary_en": "Supervised installation, commissioning and staff training are required.",
+      "quote": "Shefmontaj, ishga tushirish-sozlash ishlari va mutaxassislarni o‘qitish."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish shartlari, muddatlari va to'lov shartlari bo'yicha ma'lumot beriladi; to'lov shartlariga mos kelmagan ishtirokchi chetlatiladi. Platformada yetkazish muddati 90 kun.",
+      "summary_en": "Delivery terms, deadlines and payment terms are stated; a bidder not matching the payment terms is excluded. The platform lists delivery in 90 days.",
+      "quote": "Етказиб бериш шартлари ва муддатлари, тўлов шартлари тўғрисида маълумот"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulotga 12 oydan kam bo'lmagan kafolat va nuqsonli mahsulotni almashtirish majburiyati talab etiladi.",
+      "summary_en": "A warranty of at least 12 months with an obligation to replace defective goods is required.",
+      "quote": "Етказиб бериладиган махсулот учун кафолат муддати камида 12 ойни ташкил етади, нуқсонли ёки сифатсиз махсулотни алмаштириш кафолати/мажбуриятлари мавжуд."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Sakkizta mezonning har biri 1 ball, o'tish bali 8: bitta mezon bo'yicha 0 ball ham taklifni o'tkazmaydi. Texnik 70% / narx 30%.",
+      "summary_en": "Eight criteria worth 1 point each with a pass mark of 8: a zero on any single criterion fails the bid. Technical 70% / price 30%.",
+      "quote": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги."
+    }
+  ],
+  "flags": [
+    {
+      "type": "dealer_letter",
+      "severity": "medium",
+      "quote": "Наличие сертификата дилера или доверенность от завода-изготовителя (производителя) товара или авторизационное письмо от производителя",
+      "explanation_uz": "Mezon 8 bo'yicha ishlab chiqaruvchidan diler sertifikati, ishonchnoma yoki avtorizatsiya xati majburiy, aks holda ishtirokchi chetlatiladi; o'tish bali 8 bo'lgani uchun bu mezon ham qolganlari kabi hal qiluvchi. Lot narxi 7 820 000 000 so'm. Mezon sarlavhasi esa foydalanilgan tovar haqida, shu sababli talab matni bilan mos kelmaydi. Ishlab chiqaruvchi bilan to'g'ridan-to'g'ri bog'lanmagan, lekin asl tovarni yetkaza oladigan ta'minotchilar chetda qolishi mumkin.",
+      "explanation_en": "Criterion 8 makes a dealer certificate, power of attorney or authorisation letter from the manufacturer mandatory, and the bidder is excluded without it; with a pass mark of 8 this criterion is as decisive as any other. The lot start price is 7,820,000,000 UZS. The criterion title is about used goods, so it does not match the requirement text. Suppliers who can deliver genuine goods without a direct tie to the manufacturer may be shut out.",
+      "rewrite_uz": "Ishtirokchi taklif qilinayotgan tovarning ishlab chiqaruvchisi, rasmiy dileri yoki boshqa qonuniy yetkazib beruvchisi ekanligini tasdiqlovchi hujjat (avtorizatsiya xati, ishonchnoma yoki yetkazib berish shartnomasi nusxasi) taqdim etadi.",
+      "rewrite_en": "The bidder provides a document confirming that it is the manufacturer, an official dealer or another lawful supplier of the offered goods (an authorisation letter, power of attorney or a copy of a supply contract)."
+    },
+    {
+      "type": "excessive_experience",
+      "severity": "low",
+      "quote": "письма отзыва от предприятия, (конечного пользователя) с указанием контактных данных потребителя",
+      "explanation_uz": "Mezon 5 bo'yicha oldingi o'xshash yetkazib berishlar haqida yakuniy foydalanuvchining tavsiya xati kerak, bo'lmasa ishtirokchi chetlatiladi (1 ball, o'tish bali 8). Hujjatda necha yetkazib berish yoki qaysi muddat kerakligi aytilmagan va tavsiya xatini boshqa tashkilotdan olish ishtirokchi nazoratida emas. Savol: o'tgan shartnoma va dalolatnoma nusxalari yetarlimi?",
+      "explanation_en": "Criterion 5 requires a reference letter from an end user for prior similar supplies, and the bidder is excluded without it (1 point, pass mark 8). The document does not say how many supplies or what period is needed, and getting a letter from another organisation is outside the bidder's control. Worth asking whether copies of past contracts and acceptance acts would be enough.",
+      "rewrite_uz": "Ishtirokchi oxirgi 3 yil ichida o'xshash tovarlarni yetkazib berganligi haqida ma'lumot va tasdiqlovchi hujjatlarni (shartnoma yoki qabul qilish dalolatnomasi nusxalari yoki tavsiya xati) taqdim etadi.",
+      "rewrite_en": "The bidder provides information on similar goods supplied in the last 3 years with supporting documents (copies of contracts or acceptance acts, or a reference letter)."
+    },
+    {
+      "type": "narrow_params",
+      "severity": "low",
+      "quote": "Tashqi diametri 58 rnrn oshmasligi kerak Ichki bosim 20 MRA Og'irligi 7.2kg dan oshtrrasligi",
+      "explanation_uz": "Optik televyuver uchun uzunlik, diametr, vazn, sensor o'lchami, yorug'lik oqimi va 4 tomirli kabel kabi ko'p parametr bir vaqtda juda aniq berilgan va mosligi qanday talab (mavjud Robertson Geo stansiyalari bilan ulanish) ekanligi matnda aniq yozilmagan. Bu kombinatsiya bitta modelga mos kelishi mumkin; mos keladigan ekvivalentlar qabul qilinishini aniqlash tavsiya etiladi.",
+      "explanation_en": "For the optical televiewer, many parameters (length, diameter, weight, sensor size, light output, 4-conductor cable) are given together with great precision, and the text does not state clearly that the real need is compatibility with the existing Robertson Geo stations. The combination may fit a single model; it is worth confirming that equivalents meeting the interface need are accepted.",
+      "rewrite_uz": "Uskuna mavjud karotaj stansiyalari bilan ulanishga mos bo'lishi va quyidagi chegaraviy ko'rsatkichlarga javob berishi kerak: tashqi diametr 58 mm dan oshmasligi, ish bosimi kamida 20 MPa, vazn 7,2 kg dan oshmasligi. Ekvivalent uskunalar qabul qilinadi.",
+      "rewrite_en": "The equipment must be compatible with the existing logging stations and meet these limits: outer diameter not above 58 mm, working pressure of at least 20 MPa, weight not above 7.2 kg. Equivalent equipment is accepted."
+    }
+  ],
+  "documents_needed_uz": [
+    "Texnik topshiriq bandlariga muvofiqlik jadvali (Mos / Mos emas), firma blankasida",
+    "Mahsulot yangi va 2026-yilda ishlab chiqarilganligi haqida kafolat xati",
+    "12 oydan kam bo'lmagan kafolat muddati va nuqsonli mahsulotni almashtirish majburiyati haqida xat",
+    "Yetkazib berish shartlari, muddatlari va to'lov shartlari haqida ma'lumot",
+    "Ishlab chiqaruvchidan diler sertifikati, ishonchnoma yoki avtorizatsiya xati (rangli skan)",
+    "Oldingi o'xshash yetkazib berishlar haqida ma'lumot va yakuniy foydalanuvchining tavsiya xati",
+    "Kamida 3 nafar mutaxassis mavjudligi haqida familiyalari ko'rsatilgan hujjat",
+    "Shefmontaj, ishga tushirish-sozlash va o'qitish bo'yicha xat",
+    "Sertifikatlar, pasport, yo'riqnomalar va tegishli tovar hujjatlari",
+    "Taklif ta'minoti (3 foiz) va umumiy malaka hujjatlari (soliq qarzdorligi yo'qligi, Insofsiz ijrochilar reyestrida yo'qligi)"
+  ]
+}

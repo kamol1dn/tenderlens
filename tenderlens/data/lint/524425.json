@@ -1,0 +1,83 @@
+{
+  "lot_id": 524425,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Maktabgacha ta'lim muassasasi uchun kir yuvish kukuni, suyuq sovun va idish yuvish geli xaridi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Qo'lda yuvish uchun kir yuvish kukuni, qadog'i 1 kg, jami 68 qadoq.",
+      "summary_en": "Hand-wash laundry powder in 1 kg packs, 68 packs in total.",
+      "quote": "Hdbir qadoq sofoe-irligi I kg bo'lishi kerani jmi 68 dom qadoq."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Suyuq sovun 1 litrli idishda, dozator bilan komplektda bo'lishi kerak.",
+      "summary_en": "Liquid soap in 1-litre containers supplied together with a dispenser.",
+      "quote": "H&bt idish hajhi I litr bo lishi va ishlatishga lat1or n6os1i doztor bild"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Idish yuvish geli 450 g li qadoqlarda, jami taxminan 100 kg yetkaziladi.",
+      "summary_en": "Dish-washing gel in 450 g packs, roughly 100 kg in total.",
+      "quote": "' He birqadoq sofog nligi 450 s bo'lishi kentj jDi ycrkziladigo niqdorkadid! 100"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Tovar g'olib aniqlangan kundan boshlab 30 ish kunidan kechiktirmay yetkaziladi.",
+      "summary_en": "Goods must be delivered within 30 working days of the winner being determined.",
+      "quote": "Yeikazib berish nuddari: tanlov mlijalei bojicha bayomonaEniylashtiilgm va joylashtiiilgd kmdm boshlab 30 (o1tiz) ish kuidd kechiktimay."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Yetkazib berishda yaroqlilik muddatining kamida 80 foizi qolgan bo'lishi kerak.",
+      "summary_en": "At delivery at least about 80 percent of the shelf life must remain.",
+      "quote": "Ye&azib bcrish vaqlida nansubn@ing yaoqlilik nDddlti lugmasm bo'lhhi, qolsm"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat muddati qabul qilingan kundan boshlab kamida 1 oy.",
+      "summary_en": "Warranty of at least 1 month from the date of acceptance.",
+      "quote": "Kafolat muddali tov&lr qabul qiline& kude boshlab kmida I (bn) oy clib"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mahsulotning ishlab chiqarilgan yiliga qo'yiladigan talab 20 ballgacha baholanadi (ekspert bahosi).",
+      "summary_en": "A criterion on the product's year of manufacture is scored up to 20 points by expert assessment.",
+      "quote": "Товарнинг ишлаб чиқарилган йилига қўйиладиган талаблар"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Taklif texnik shartga to'liq mos bo'lishi kerak, bu 20 ballgacha baholanadi.",
+      "summary_en": "The offer must match the technical specification; this is scored up to 20 points.",
+      "quote": "Texnik tomoni, yetkazib berilayotgan mahsulotlar texnik shartga asosan bo'lishi kerak"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ekologik va gigiyenik sertifikatlar, sinov bayonnomalari va sifat sertifikatlari talab etilishi mumkin.",
+      "summary_en": "Environmental and hygiene certificates, test reports and quality certificates may be required.",
+      "quote": "Экологик, гигиеник сертификатлаш, калибрлаш тўғрисидаги тегишли гувоҳномалар ёки синов баённомалари"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Texnik shart bandlariga aniq amal qilmagan taklif ko'rib chiqilmasligi yoki diskvalifikatsiya qilinishi mumkin.",
+      "summary_en": "An offer that does not follow the specification exactly may be rejected or disqualified.",
+      "quote": "Ishtirokchilarga talab: mazkur texnik shart bandlariga aniq va to'laqonli amal qilinsin."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Texnik taklif va mahsulotning texnik shartga mosligini tasdiqlovchi hujjatlar",
+    "Gigiyenik (sanitariya-epidemiologik) xulosa yoki sertifikat",
+    "Sifat sertifikati va mahsulot pasporti",
+    "Davlat ro'yxatidan o'tganlik to'g'risidagi guvohnoma",
+    "Soliq bo'yicha qarzdorlik yo'qligi to'g'risidagi ma'lumotnoma",
+    "Bankrotlik tartib-taomillari yo'qligini tasdiqlovchi hujjat",
+    "Insofsiz ijrochilar reyestrida yo'qligini tasdiqlovchi ma'lumot",
+    "Majburiy ijro byurosi bazalarida bajarilmagan majburiyatlar yo'qligi to'g'risida ma'lumot",
+    "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi to'g'risida ariza",
+    "Halollik va qonunchilikka rioya etish to'g'risida ariza",
+    "Zakalat kiritilganini tasdiqlovchi hujjat yoki bank kafolati"
+  ]
+}

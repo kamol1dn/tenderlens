@@ -1,0 +1,102 @@
+{
+  "lot_id": 524735,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Chirchiq va Bekobod shaharlarining transport va yo'l-transport infratuzilmasini rivojlantirish bosh rejalarini ishlab chiqish",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "O'xshash (shahar transport va yo'l infratuzilmasi bosh rejalari) xizmatlar bo'yicha shartnomalar: 4 va undan ko'pi uchun 30 ball, 1 ta uchun 5 ball.",
+      "summary_en": "Similar contracts (city transport and road infrastructure master plans): 30 points for 4 or more, 5 points for 1.",
+      "quote": "Tanlov mavzusiga oʻxshash (shahar transport va yoʼl infratuzilmasini rivojlantirishning bosh rejalari inobatga olinadi) tovarlar/xizmatlarni yetkazib berish tajribasi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Xodimlar va ularning malakasi (my.mehnat.uz): 3 va undan ko'p oliy ma'lumotli mutaxassis uchun 30 ball.",
+      "summary_en": "Staff and qualifications (my.mehnat.uz): 30 points for 3 or more specialists with higher education.",
+      "quote": "Ishtirokchining xodimlari va ularning malakasi(my.mexnat.uz) haqida maʼlumot(diplom, sertifikat va h.k)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Bosh rejalarni bajarish uchun zarur texnik jihozlar soniga qarab 0 dan 15 ballgacha beriladi.",
+      "summary_en": "Technical equipment needed for the master plans is scored from 0 to 15 points by quantity.",
+      "quote": "Texnik jihozlar(shahar transport va yoʼl infratuzilmasini rivojlantirish bosh rejalarini bajarish uchun zarur jihozlar)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchining moliyaviy ahvoli haqidagi hisobot (4-shakl) taqdim etiladi, to'liq bo'lsa 5 ball.",
+      "summary_en": "A financial standing statement (Form 4) is required, 5 points if complete.",
+      "quote": "ISHTIROKCHNING МОLIYАVГY AHVOLI"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kafolat xati (2-shakl): qayta tashkil etish, bankrotlik, sud nizolari va soliq qarzi yo'qligi tasdiqlanadi.",
+      "summary_en": "A guarantee letter (Form 2) confirms no reorganisation, bankruptcy, disputes with the customer or tax arrears.",
+      "quote": "soliq va yig'imlar bo'yicha muddati o'tgan qarzi bo'lmasa."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Yuridik shaxsning davlat ro'yxatidan o'tganligi guvohnomasi taqdim etilmasa, ishtirokchi keyingi bosqichga o'tmaydi.",
+      "summary_en": "Without the registration certificate the bidder does not advance to the next stage.",
+      "quote": "Hujj at bo'1m agan taqdkda, ishtirokchi keyingi bosqichga"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlarni bajarish muddati 210 kun (lot sarlavhasida 40 kun ko'rsatilgan).",
+      "summary_en": "Completion period is 210 days (the lot header shows 40 days).",
+      "quote": "Yetkazib berish 210 kun ichida"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Rezidentlar uchun 15 foiz avans, qolgan 85 foiz ish tugagach, dalolatnoma va hisob-faktura imzolangandan keyin to'lanadi.",
+      "summary_en": "For residents: 15% advance, the remaining 85% after completion, acceptance act and invoice.",
+      "quote": "Oldindan to'lov 15%, qolgan 85% ish tugagandan soong, qabul qilish dalolatnomalari va schyot-faktura imzolangandan keyin."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Saralash uchun minimal ball 60 (maksimal 100); tegishli hujjatsiz mezon bo'yicha 1 balldan ko'p berilmaydi.",
+      "summary_en": "Minimum pass score is 60 out of 100; without supporting documents a criterion earns at most 1 point.",
+      "quote": "Saralash uchun zarur boʻlgan minimal ball: 60 ball"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Texnik taklif ikki tilda (o'zbek yoki rus) tuziladi; taklif amal qilish muddati kamida 30 kun.",
+      "summary_en": "The bid is drawn up in Uzbek or Russian and must remain valid for at least 30 days.",
+      "quote": "Takliflar qabul qilingan kundan boshlab kamida 30 kun."
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "Tanlov mavzusiga oʻxshash (shahar transport va yoʼl infratuzilmasini rivojlantirishning bosh rejalari inobatga olinadi) tovarlar/xizmatlarni yetkazib berish tajribasi",
+      "explanation_uz": "Tajriba faqat shahar transport va yo'l infratuzilmasi bosh rejalari bo'yicha hisobga olinadi: 4 va undan ko'p shartnoma 30 ball, 1 ta shartnoma 5 ball. Saralash uchun minimal ball 60 (maksimal 100) bo'lgani uchun va boshqa mezonlardan olinadigan eng ko'p ball 70 bo'lgani uchun, bunday bosh rejalar ko'p bajarmagan, lekin shaharsozlik yoki transport rejalashtirishda tajribali ishtirokchilar saralashdan o'tmasligi mumkin.",
+      "explanation_en": "Only experience with city transport and road infrastructure master plans counts: 4 or more contracts earn 30 points, 1 contract earns 5. With a pass mark of 60 out of 100 and a maximum of 70 from the other criteria, bidders with solid urban-planning or transport-planning experience but few master plans of exactly this kind may fail the screening.",
+      "rewrite_uz": "Tajriba bo'yicha o'xshash ishlar sifatida shaharsozlik, transport va yo'l infratuzilmasini rejalashtirish bo'yicha loyihalar (bosh reja, kompleks transport sxemasi, konsepsiya) qabul qilinsin; to'liq ball 2 va undan ko'p shartnoma uchun berilsin.",
+      "rewrite_en": "Accept as similar work any urban-planning, transport-planning or road-infrastructure planning projects (master plans, comprehensive transport schemes, concepts); award full points for 2 or more contracts."
+    },
+    {
+      "type": "short_window",
+      "severity": "low",
+      "quote": "Takliflarni topshirishning 5 ish kuni oxirgi muddati",
+      "explanation_uz": "Ikki shahar uchun bosh reja taklifini (1 860 000 000 so'm) tayyorlash va ko'plab hujjatlar (tajriba, xodimlar, jihozlar, moliyaviy hisobot) to'plash uchun taklif topshirish muddati 5 ish kuni deb belgilangan. Bu yangi ishtirokchilar uchun qisqa bo'lishi mumkin.",
+      "explanation_en": "The time to submit bids for a two-city master plan worth 1,860,000,000 UZS is set at 5 working days, while many supporting documents (experience, staff, equipment, financial statements) must be assembled. This may be short for bidders who are not already prepared.",
+      "rewrite_uz": "Takliflarni topshirish muddati kamida 10 ish kuni etib belgilansin.",
+      "rewrite_en": "Set the bid submission period to at least 10 working days."
+    }
+  ],
+  "documents_needed_uz": [
+    "Tanlovda ishtirok etish uchun ariza (1-shakl)",
+    "Yuridik shaxsning davlat ro'yxatidan o'tganligi guvohnomasi va ustav",
+    "Kafolat xati (2-shakl)",
+    "Ishtirokchi haqida umumiy ma'lumot (3-shakl)",
+    "Ishtirokchining moliyaviy ahvoli haqida hisobot (4-shakl)",
+    "my.soliq.uz saytidan soliq va yig'imlar bo'yicha qarz yo'qligi haqida ma'lumotnoma",
+    "Xaridlarda halollikni ta'minlash to'g'risidagi bayonot (5-shakl)",
+    "Xodimlar va ularning malakasi haqida ma'lumot, diplomlar va sertifikatlar nusxalari (6-shakl, my.mehnat.uz)",
+    "Texnik taklif va texnik tavsiflarning qiyosiy jadvali (7-shakl)",
+    "O'xshash xizmatlar bo'yicha bajarilgan ishlar haqida ma'lumot, shartnomalar, hisob-fakturalar, qabul dalolatnomalari (8-shakl)",
+    "Ishtirokchining texnik jihozlari haqida ma'lumot va tasdiqlovchi hujjatlar (9-shakl)"
+  ]
+}

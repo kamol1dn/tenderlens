@@ -1,0 +1,129 @@
+{
+  "lot_id": 523646,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "Bank uchun 2 dona yagona (blok, fayl va obyekt) ma'lumotlarni saqlash tizimi, o'rnatish va ishga tushirish bilan",
+  "requirements": [
+    {
+      "kind": "delivery",
+      "summary_uz": "Uskuna oldindan to'lov kunidan boshlab 120 bank ish kunida yetkaziladi.",
+      "summary_en": "Equipment is delivered within 120 banking days of the advance payment.",
+      "quote": "Oldindan to‘lov amalga oshirilgan kundan boshlab 120 bank ish kuni"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "O'rnatish va ishga tushirish ishlari buyurtmachi xabaridan keyin 180 kalendar kun ichida bajariladi.",
+      "summary_en": "Installation and commissioning must be done within 180 calendar days after the customer's readiness notice.",
+      "quote": "Buyurtmachi tomonidan Ijrochiga tayyorligi yuzasidan yozma ravishda xabar berilgan kundan boshlab 180 kalendar kuni"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Foydali sig'im siqish va deduplikatsiyasiz kamida 120 TB bo'lishi kerak.",
+      "summary_en": "Usable capacity must be at least 120 TB before compression and deduplication.",
+      "quote": "Siqish (Compression) va deduplikatsiya (Deduplication) hisobga olinmagan holda foydali saqlash hajmi kamida 120 TB bo‘lishi lozim"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Unumdorlik kamida 600 000 IOPS, 5 GB/s va kechikish 1 ms dan oshmasligi kerak.",
+      "summary_en": "Performance must be at least 600,000 IOPS and 5 GB/s with latency not above 1 ms.",
+      "quote": "unumdorlik kamida 600 000 IOPS, o‘tkazuvchanlik qobiliyati kamida 5 GB/s, javob berish vaqti esa 1 ms dan oshmasligi lozim"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kamida 8 ta Fibre Channel 64/32 Gbit/s port optik modullar bilan.",
+      "summary_en": "At least 8 Fibre Channel 64/32 Gbit/s ports with optical modules.",
+      "quote": "Fibre Channel 64/32 Gbit/s – tizim uchun kamida 8 ta port, komplekt tarkibida mos SR optik modullari bilan"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Bir xil ma'lumotlarga S3, NFS va SMB orqali o'zgartirmasdan kirish imkoniyati bo'lishi shart.",
+      "summary_en": "The same data must be reachable over S3, NFS and SMB without conversion.",
+      "quote": "Ma’lumotlarni saqlash tizimi bir xil ma’lumotlarga S3, NFS va SMB protokollari orqali ularni o‘zgartirish yoki formatini almashtirish zaruratisiz kirish imkoniyatini ta’minlashi shart"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Uskuna 2026-yildan oldin ishlab chiqarilmagan, yangi va tiklanmagan bo'lishi kerak.",
+      "summary_en": "Equipment must be new, refurbished-free and not manufactured before 2026.",
+      "quote": "Ijrochi 2026-yildan oldin ishlab chiqarilmagan, yangi (ilgari foydalanilmagan), qayta tiklanmagan (refurbished bo‘lmagan), to‘liq komplektlangan"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kritik nosozliklarda texnik yordam dasturiy ta'minot ishlab chiquvchisi tomonidan vositachisiz ko'rsatiladi.",
+      "summary_en": "Critical-fault support must come directly from the storage software vendor without intermediaries.",
+      "quote": "Texnik qo‘llab-quvvatlash ma’lumotlarni saqlash tizimi (MST) dasturiy ta’minoti ishlab chiquvchisi tomonidan bevosita, kritik darajadagi nosozliklarni bartaraf etishda vositachi tashkilotlarni jalb qilmagan holda ko‘rsatilishi lozim"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Uskuna va dasturiy ta'minot ishlab chiqaruvchisining rasmiy vakolat hujjati (MAF) taqdim etiladi.",
+      "summary_en": "A Manufacturer Authorization Form (MAF) from the equipment and software maker must be provided.",
+      "quote": "taklif etilayotgan uskuna va dasturiy ta’minot ishlab chiqaruvchisining rasmiy vakolatini tasdiqlovchi Manufacturer Authorization Form (MAF) hujjati"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlab chiqaruvchining O'zbekistondagi vakolatli servis markazi va/yoki ehtiyot qismlar ombori to'g'risida ma'lumot talab qilinadi.",
+      "summary_en": "Information on the manufacturer's authorised service centre and/or spare-parts warehouse in Uzbekistan is required.",
+      "quote": "uskuna ishlab chiqaruvchisi tomonidan O‘zbekiston Respublikasi hududida kafolatli xizmat ko‘rsatishni ta’minlaydigan vakolatli servis markazi va/yoki ehtiyot qismlar ombori"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "So'nggi 3 yilda zarar ko'rgan ishtirokchi musobaqadan chetlatiladi.",
+      "summary_en": "A bidder with losses in the last 3 years is excluded.",
+      "quote": "ishtirokchining so‘nggi 3 yildagi moliyaviy ko‘rsatkichlari zarar bilan yakunlangan bo‘lsa, Xarid komissiyasi ishtirokchini musobaqadan chetlatadi"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat muddati uskuna yetkazilgan kundan 36 oy.",
+      "summary_en": "Warranty is 36 months from delivery of the equipment.",
+      "quote": "Kafolat muddati uskunalar yetkazib berilgan kundan boshlab 36 (o‘ttiz olti) oyni tashkil etishi lozim"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Qiymatning 30 foizi shartnomadan keyin 10 bank kunida avans sifatida to'lanadi.",
+      "summary_en": "30 percent of the value is paid as an advance within 10 banking days of signing.",
+      "quote": "Tovar qiymatining 30 foizi shartnoma imzolangan kundan boshlab 10 (o‘n) bank kuni ichida avans to‘lovi sifatida to‘lanadi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "G'olib texnik-malakaviy bosqichdan o'tgan eng past narx taklif qilgan ishtirokchi.",
+      "summary_en": "The winner is the lowest price among bidders who pass the technical and qualification stage.",
+      "quote": "Takliflarni baholash usuli Eng past narx usuli"
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_financial",
+      "severity": "medium",
+      "quote": "ishtirokchining so‘nggi 3 yildagi moliyaviy ko‘rsatkichlari zarar bilan yakunlangan bo‘lsa, Xarid komissiyasi ishtirokchini musobaqadan chetlatadi",
+      "explanation_uz": "Moliyaviy holat shakli (4-shakl) 2023-2025 yillarni qamraydi va zarar ko'rilgan holatda ishtirokchi chetlatiladi; hujjatda zararning chegarasi (necha yil, qancha miqdor) ko'rsatilmagan. Lot narxi 53 232 724 765 so'm bo'lgani uchun moliyaviy barqarorlikni tekshirish o'rinli, lekin bitta zarar yili tufayli chetlatish ijro qobiliyatiga ega, ammo yaqinda yo'qotish ko'rgan ta'minotchilarni (masalan, yangi yoki o'sib borayotgan kompaniyalarni) chiqarib yuborishi mumkin.",
+      "explanation_en": "The financial form (Form 4) covers 2023-2025 and a bidder with losses is excluded, but the document does not say how many loss years or what size of loss counts. For a lot of 53,232,724,765 UZS a financial check is reasonable, yet excluding any bidder with a loss may shut out capable suppliers (for example new or fast-growing companies) that had a single weak year.",
+      "rewrite_uz": "Moliyaviy talabni aniq ko'rsatkich bilan almashtiring (masalan, oxirgi yilda sof aktivlar musbat bo'lishi yoki oxirgi 3 yil uchun jami foyda zarar ko'rinishida bo'lmasligi) yoki ijro qobiliyatini boshqa tasdiq (bank kafolati) bilan ko'rsatishga ruxsat bering.",
+      "rewrite_en": "Replace the loss rule with a defined measure (for example positive net assets in the latest year, or no net loss over the 3-year total) or allow the bidder to show capacity through another proof such as a bank guarantee."
+    },
+    {
+      "type": "narrow_params",
+      "severity": "medium",
+      "quote": "alohida obyektli platformadan foydalanmasdan, ma’lumotlarni saqlash tizimi kontrollerlari tomonidan native (o‘rnatilgan) tarzda ta’minlanishi lozim",
+      "explanation_uz": "S3 obyektli kirish alohida obyektli platformasiz, aynan saqlash tizimi kontrollerlarining o'zida tabiiy ta'minlanishi talab qilinadi. Shu bilan birga bir xil tizim blok (FC), fayl va obyekt kirishini, NVMe disklarni, virtual saqlash tizimlariga bo'linishni, geografik taqsimlangan klasterni va AIX qo'llab-quvvatlashini bir vaqtning o'zida talab qiladi. Bunday kombinatsiya ishlab chiqaruvchilar doirasini juda torayishi mumkin; yagona maqsadni bajaruvchi muqobil arxitekturalar (masalan, alohida obyektli tugunlar) rad etiladi.",
+      "explanation_en": "S3 object access must be provided natively by the storage controllers themselves, without a separate object platform. The same system must also offer block (FC), file and object access, all-NVMe disks, virtual storage partitions, a geo-distributed cluster and AIX support. This combination may narrow the field to very few vendors and rules out alternative architectures (for example dedicated object nodes) that serve the same goal.",
+      "rewrite_uz": "S3 funksiyalari yagona boshqaruv va yagona kafolat doirasida taqdim etilishi kifoya, amalga oshirish usuli (kontrollerlarda yoki alohida tugunlarda) ishtirokchi tanloviga qoldirilsin; talablar uchun \"yoki ekvivalent\" ruxsatini qo'shing.",
+      "rewrite_en": "It is enough that S3 functions are delivered under one management interface and one warranty; leave the implementation (on controllers or on separate nodes) to the bidder and add 'or equivalent'."
+    }
+  ],
+  "documents_needed_uz": [
+    "1-shakl: xarid komissiyasi raisiga tenderda qatnashish uchun ariza",
+    "Tashkilotning davlat ro'yxatidan o'tganligi to'g'risidagi guvohnoma nusxasi",
+    "2-shakl: kafolat maktubi",
+    "3-shakl: tender ishtirokchisi haqida umumiy ma'lumot",
+    "4-shakl: moliyaviy holat to'g'risida ma'lumot (2023-2025 yillar, rus tilida)",
+    "5-shakl: halollik va manfaatlar to'qnashuvi yo'qligi to'g'risidagi bayonot",
+    "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik yo'qligi to'g'risida vakolatli organ ma'lumotnomasi (norezidentlar uchun bank ma'lumotnomasi)",
+    "6-shakl: texnik topshiriqqa muvofiqlik va texnik xususiyatlarning qiyosiy jadvali, texnik hujjatlar (risola, pasport, yo'riqnoma)",
+    "Ishlab chiqaruvchining rasmiy vakolat hujjati (MAF)",
+    "Ishlab chiqaruvchining O'zbekistondagi vakolatli servis markazi yoki ehtiyot qismlar ombori to'g'risida ma'lumot",
+    "Kamida 5 yillik TCO (egalik umumiy qiymati) usullari bo'yicha ma'lumot",
+    "Litsenziyalash tartibi va shartlari to'g'risida ma'lumot",
+    "Xizmatlar va obunalar to'g'risida ma'lumot",
+    "Taklif ta'minoti (boshlang'ich narxning 1 foizi)"
+  ]
+}

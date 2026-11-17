@@ -1,0 +1,102 @@
+{
+  "lot_id": 525121,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Farg'ona viloyatidagi 1991-yilgacha qurilgan ko'p xonadonli uylar uchun elektron texnik pasport hujjatlarini ishlab chiqish (subpudrat ishlari)",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "III toifali uy-joy qurilishi loyiha-smeta hujjatlarini ishlab chiqish va binolarning texnik holatini tekshirish uchun litsenziya kerak.",
+      "summary_en": "A category III licence for residential design/estimate documentation and for inspecting the technical condition of buildings is required.",
+      "quote": "III toifali “Uy-joy-xo‘jalik qurilishi uchun obektlar va komplekslar loyiha-smeta hujjatlarini ishlab chiqish, shu jumladan, ularning muhandislik tarmoqlari va tizimlarini loyihalashtirish” va “Binolar va inshootlarning texnik holatini tekshirish” uchun litsenziya"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "2-shakl: ishtirokchi qayta tashkil etish, tugatish yoki bankrotlik bosqichida bo'lmasligi kerak.",
+      "summary_en": "Form 2: the bidder must not be in reorganisation, liquidation or bankruptcy.",
+      "quote": "Ishtirokchi qayta tashkil etish (bo‘linish, qo‘shilish), tugatish yoki bankrotlik bosqichida"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Sohaviy loyiha-qidiruv tashkilotlari reytingida \"DDD\" bahosidan past bo'lmagan baho talab qilinadi.",
+      "summary_en": "A rating of at least \"DDD\" in the sector design-and-survey organisations rating is required.",
+      "quote": "Soxaviy loyixa-qidiruv tashlilotlar reytigida “DDD” bahosidan kam bo’lmagan bahoga ega bo'lishi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Loyiha tashkilotida qurilish sohasida kamida 15 nafar mutaxassis ishlashi kerak.",
+      "summary_en": "The design organisation must employ at least 15 construction specialists.",
+      "quote": "Loyiha tashkilotida faoliyat olib boruvchi qurilish sohasidagi mutaxassislar soni kamida 15 kishi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishtirokchi tuzilmasida bino konstruksiyalarining texnik holatini aniqlash laboratoriyasi mavjudligi (guvohnoma, shartnoma yoki boshqa hujjat bilan) ko'rsatiladi.",
+      "summary_en": "Information on a laboratory for determining the technical condition of building structures within the bidder's structure is required (certificate, contract or other proof).",
+      "quote": "Ishtirokchi tuzilmasida bino konstruksiyalarining texnik holatini aniqlash bo‘yicha laboratoriyasi mavjudligi haqida ma’lumot."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kafolat xati: qayta tashkil etish, tugatish, bankrotlik, sud nizolari yo'qligi va avvalgi shartnomalar to'liq bajarilganligi tasdiqlanadi.",
+      "summary_en": "A guarantee letter confirms no reorganisation, liquidation, bankruptcy or disputes with the customer, and full performance of earlier contracts.",
+      "quote": "shuningdek avval tuzilgan shartnomalar bo‘yicha majburiyatlarning to‘liq ijro etganligini tasdiqlovchi kafolat xati"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Namunaviy shartnomada shartnoma bahosining 15 foizi avans, 95 foizi joriy va 5 foizi yakuniy to'lov tariqasida to'lanadi.",
+      "summary_en": "In the model contract 15 percent is paid as an advance, with payment of 95 percent of completed work on delivery and the remaining 5 percent at the end.",
+      "quote": "10 (o’n) ish kuni ichida shartnoma bahosining (belgilangan ishlar qiymatidan) 15 foizi, yaʻni"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Muddatga rioya qilinmasa, bajarilmagan ish qiymatining 0,5 foizi miqdorida penya, umumiy hisobda 50 foizgacha.",
+      "summary_en": "Late performance carries a penalty of 0.5 percent of the unperformed work value, capped at 50 percent.",
+      "quote": "oʻz muddatida bajarilmagan ishlar hajmi qiymatining 0,5 foizga teng miqdorda penya toʻlaydi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Tayyorlangan pasportlar elektron platformaga (turarjoy.kommunal.uz) kiritiladi va buyurtmachiga elektron (pdf) shaklda topshiriladi.",
+      "summary_en": "Passports are entered into the electronic passport platform (turarjoy.kommunal.uz) and handed over to the customer in electronic (pdf) form.",
+      "quote": "Ishlarning natijalarini Buyurtmachi koʻrib chiqishi uchun bir nusxada elektron (pdf) shaklda topshirish;"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Ish bajaruvchi alohida ish hajmlari uchun yordamchi ijrochilarni jalb qilishi mumkin.",
+      "summary_en": "The contractor may involve auxiliary contractors for separate work volumes.",
+      "quote": "“Ish bajaruvchi” alohida ish hajmlari yoki ish turlarini bajarish uchun yordamchi “Ish bajaruvchi”larni jalb qilishi mumkin."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Soxaviy loyixa-qidiruv tashlilotlar reytigida “DDD” bahosidan kam bo’lmagan bahoga ega bo'lishi.",
+      "explanation_uz": "Talab sohaviy loyiha-qidiruv tashkilotlari reytingidagi bahoga bog'langan. Barcha 6 mezon 1 balldan, jami 6 ball va o'tish bali 6 bo'lgani uchun har bir mezon, jumladan bu reyting, to'liq bajarilishi kerak bo'lib ko'rinadi; reytingda bo'lmagan yoki bahosi past tashkilot litsenziyaga ega bo'lsa ham o'tmaydi. Reyting qanday baholanishi va kimlar qamrab olinishi hujjatda aytilmagan.",
+      "explanation_en": "The requirement depends on a grade in a sector design-and-survey organisations rating. All 6 criteria are worth 1 point each (6 in total) and the pass mark is 6, so every criterion, including this rating, appears to have to be met in full; a licensed organisation that is unrated or graded lower would not pass. The document does not say how the rating is assessed or who is covered.",
+      "rewrite_uz": "Reyting talabini olib tashlang yoki uni muqobil tasdiqlar bilan almashtiring: o'xshash pasportlashtirish ishlari bo'yicha tajriba va amaldagi litsenziya.",
+      "rewrite_en": "Remove the rating requirement or allow alternative proof, such as experience on similar passport work together with a valid licence."
+    },
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "Loyiha tashkilotida faoliyat olib boruvchi qurilish sohasidagi mutaxassislar soni kamida 15 kishi",
+      "explanation_uz": "Kamida 15 nafar mutaxassis talab qilinadi, o'tish bali esa jami 6 balldan 6 ball bo'lgani uchun bu talab to'liq bajarilishi kerak bo'lib ko'rinadi. Kichikroq, lekin litsenziyali va tajribali tashkilot yoki mutaxassislarni subpudratga jalb qiladigan ishtirokchi (shartnoma loyihasi bunga yo'l qo'yadi) shu sababli o'ta olmasligi mumkin. 2,1 mlrd so'mlik ishning hajmi bilan bu son o'rtasidagi bog'liqlik hujjatda ko'rsatilmagan.",
+      "explanation_en": "At least 15 specialists are required, and with a pass mark of 6 out of 6 points this appears to have to be met in full. A smaller licensed, experienced organisation, or one that brings in specialists through subcontracting (which the draft contract allows), could fail on this count. The document does not link the headcount to the size of the 2.1 bn UZS work.",
+      "rewrite_uz": "Mutaxassislar sonini ish hajmiga mos ravishda belgilang (masalan, ishlar jadvaliga yetarli kadrlar) va ularni mehnat shartnomasi yoki jalb qilish shartnomasi bilan tasdiqlashga ruxsat bering.",
+      "rewrite_en": "Set the headcount in proportion to the work schedule and allow it to be confirmed by employment or engagement contracts."
+    }
+  ],
+  "documents_needed_uz": [
+    "1-shakl: ishtirokchi to'g'risida umumiy ma'lumot (yuridik shaxs, affillanganlik, litsenziya, insofsiz ijrochilar reyestrida yo'qligi)",
+    "III toifali loyiha-smeta hujjatlarini ishlab chiqish va binolar texnik holatini tekshirish litsenziyasi",
+    "Sohaviy loyiha-qidiruv tashkilotlari reytingidagi baho haqida ma'lumot",
+    "2-shakl: qayta tashkil etish, tugatish, bankrotlik va sud nizolari yo'qligi hamda oldingi shartnomalar bajarilganligi haqida kafolat xati",
+    "3-shakl: halollik bo'yicha kafolat xati",
+    "4-shakl: loyiha tashkilotidagi kamida 15 nafar qurilish mutaxassislari haqida ma'lumot",
+    "5-shakl: bino konstruksiyalarining texnik holatini aniqlash laboratoriyasi mavjudligi (guvohnoma, shartnoma yoki boshqa hujjat)",
+    "Soliq qarzdorligi mavjud emasligi va bankrotlik jarayoni yo'qligi haqida ma'lumot",
+    "Davlat ro'yxatidan o'tganlik hujjatlari va shartnoma tuzish huquqini tasdiqlovchi hujjat",
+    "Majburiy ijro byurosi bazalarida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+    "Taklifni ta'minlash (1 foiz)"
+  ]
+}

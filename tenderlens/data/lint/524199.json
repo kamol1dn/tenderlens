@@ -1,0 +1,87 @@
+{
+  "lot_id": 524199,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Yo'l ta'mirlash uchun asfaltbeton mahsulotlarini 125, 158 va 185 km masofaga tashish xizmati",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnika bo'yicha ball: korxonaga tegishli mashina-mexanizmlar hujjatlari (texnik pasport, shartnoma) taqdim etiladi; eng ko'p 60 ball.",
+      "summary_en": "Fleet scoring: documents for the company's machinery (technical passports, contracts) are submitted; up to 60 points.",
+      "quote": "Корхонага тегишли бўлган машина-механизмлар хужжатлари (тех.паспорт шартнома ва шунга ўхшаш хужжатлар)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Xodimlar bo'yicha ma'lumotnoma my.mehnat.uz saytidan olinib taqdim etiladi (10 ball).",
+      "summary_en": "A staff certificate from my.mehnat.uz must be provided (10 points).",
+      "quote": "Корхонанинг ишчи ходимлари тўғрисида маълумотнома -10 ball (my.mehnat.uz saytidan malumotnoma taqdim qilinishini kerak)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Avval shunday ishlarni bajarganlik haqida ma'lumot (shartnoma, schet-faktura) taqdim etiladi (20 ball).",
+      "summary_en": "Information on previously performed similar work (contracts, invoices) is provided (20 points).",
+      "quote": "Avval ushbu turdagi ishlarni bajarganlik to'g'risida malumot (Shartnomalar, schet-fakturalar va shunga o'xshash malumotlar)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishlarni sifatli va o'z vaqtida bajarish uchun kafolat xati taqdim etiladi (10 ball).",
+      "summary_en": "A guarantee letter for quality and timely performance is provided (10 points).",
+      "quote": "Ишларни сифатли ва ўз вақтида бажарилиш учун кафолат хати"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Aylanma mablag' yoki bank kafolati tanlov predmeti qiymatining kamida 20 foizi miqdorida bo'lishi kerak (taxminan 126 mln so'm).",
+      "summary_en": "Working funds or a bank guarantee of at least 20 percent of the lot value are required (about 126 million UZS).",
+      "quote": "танлов предмети кийматининг камида 20 фоизи мицдоридаги айланма"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi shu yo'nalishda ixtisoslashgan va kamida 2 yil tajribaga ega yuridik shaxs bo'lishi kerak.",
+      "summary_en": "The bidder must be a legal entity specialised in this kind of work with at least 2 years of experience.",
+      "quote": "ихтисослашган, камида 2 йил тажрибага эга"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+      "summary_en": "No overdue tax or fee debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "158 km masofaga 450122 t/km tashish, 700 so'mdan: 315 085 400 so'm.",
+      "summary_en": "Haulage over 158 km, 450,122 t-km at 700 UZS: 315,085,400 UZS.",
+      "quote": "Асфальтобетон махсулотлариини 158 км га ташиб бериш хизмати 450122 тн/км х 700 сўм = 315 085 400 сўм ҚҚС билан."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Tanlovning yakuniy qiymati 630 100 800 so'm (QQS bilan); undan yuqori takliflar ko'rib chiqilmaydi.",
+      "summary_en": "The ceiling price is 630,100,800 UZS including VAT; higher offers are not considered.",
+      "quote": "Танлов охирги қиймати – 630 100 800 сўм ҚҚС билан. Ушбу қийматдан ортиқ қийматдаги таклифлар қабул қилинмайди ва кўриб чиқилмайди"
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "10 дан коп автотранспорт воситаси булса. Шундан уз балансида камида 50 фоиздан кам булмаслиги керак",
+      "explanation_uz": "Texnika sonidan 60 ball (jami 100 balldan, o'tish bali 50) bog'liq: 10 va undan ortiq avtotransport, shundan kamida yarmi o'z balansida bo'lishi kerak. Lotning umumiy hajmi taxminan 6 200 tonna (2 849 + 2 849 + 508 t), shuning uchun bunday katta park talab qilinishi hajmga nomutanosib ko'rinadi va ijaraga yoki shartnoma asosida texnika jalb qiladigan ishtirokchilar ball yo'qotishi mumkin.",
+      "explanation_en": "60 of the 100 points (pass mark 50) depend on fleet size: 10 or more vehicles, at least half of them on the bidder's own balance. The lot totals about 6,200 tonnes (2,849 + 2,849 + 508 t), so a fleet this large looks out of proportion to the volume, and bidders who use leased or contracted vehicles may lose points.",
+      "rewrite_uz": "Ballar ishtirokchi shartnoma hajmini bajarishi uchun yetarli avtotransportga (o'z, ijaraga olingan yoki shartnoma asosida jalb qilingan) ega ekanligiga qarab berilsin; texnika soni lot hajmiga mutanosib belgilansin.",
+      "rewrite_en": "Award points according to whether the bidder has enough vehicles (owned, leased or contracted) to carry the lot volume, with vehicle counts set in proportion to that volume."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik haqidagi hujjat va ta'sis hujjatlari",
+    "Soliq va yig'imlar bo'yicha qarzdorlik yo'qligi haqida ma'lumotnoma",
+    "Bankrotlik tartib-taomillari yo'qligi haqida ma'lumot",
+    "Insofsiz ijrochilar yagona reyestrida qayd etilmaganlik haqida ma'lumot",
+    "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+    "Mashina-mexanizmlar hujjatlari (texnik pasportlar, shartnomalar)",
+    "my.mehnat.uz saytidan xodimlar haqida ma'lumotnoma",
+    "Avval bajarilgan ishlar haqida ma'lumot (shartnomalar, schet-fakturalar)",
+    "Ishlarni sifatli va o'z vaqtida bajarish haqida kafolat xati",
+    "Aylanma mablag'lar yoki bank kafolati haqida hujjat",
+    "Taklif ta'minoti (zakalat) to'langanligi haqida tasdiq"
+  ]
+}

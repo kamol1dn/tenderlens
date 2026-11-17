@@ -1,0 +1,105 @@
+{
+  "lot_id": 516607,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Gaz ta'minoti filiallari uchun ekologik normativ hujjatlarni (PDV, PDO) ishlab chiqish va davlat ekologik ekspertizasidan o'tkazish",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kamida 2 nafar mutaxassis tegishli litsenziya yoki sertifikatga ega bo'lishi va akkreditatsiyalangan laboratoriya bilan shartnoma bo'lishi kerak (10 ball).",
+      "summary_en": "At least 2 specialists with a licence or certificate and a contract with an accredited laboratory are needed (10 points).",
+      "quote": "kamida 2 nafar mutaxassis ekologik normativ hujjatlarni ishlab chiqish xizmati uchun amaldagi litsenziya yoki sertifikatga ega boʻlishi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Moddiy-texnik resurslar (dron) va litsenziyalangan ArcGIS Pro 3.x dasturi bo'lsa 20 ball, boshqa dasturlar bilan 10 ball beriladi.",
+      "summary_en": "Technical resources (including a drone) and a licensed ArcGIS Pro 3.x give 20 points; other software gives 10 points.",
+      "quote": "Moddiy va texnik resurslar (jumladan dron) hamda litsenziyalangan “ArcGIS Pro 3.x” dasturiy taʼminoti uchun – 20 ball"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "So'nggi 2 yilda gaz ta'minoti bo'linmalari uchun PDV inventarizatsiyasi: 50 va undan ko'p tuman/shahar uchun 25 ball, 50 tagacha 5 ball.",
+      "summary_en": "PDV (air emission limits) inventories for gas-supply units in the last 2 years: 50 or more districts/cities earn 25 points, fewer than 50 earn 5.",
+      "quote": "50 ta (tuman va shahar kesimida) va undan ortiq – 25 ball; 50 tagacha (tuman va shahar kesimida) – 5 ball"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mutaxassislar neft-gaz sohasida kamida 5 yillik tajribaga ega bo'lishi va 50 va undan ko'p loyiha ro'yxatini berishi kerak (10 ball).",
+      "summary_en": "Specialists need at least 5 years in oil and gas and a list of 50 or more projects scores 10 points.",
+      "quote": "50 ta va undan ortiq loyiha – 10 ball; 50 tagacha loyiha – 5 ball"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "So'nggi 5 yilda I, II, III toifadagi neft va gaz sanoati obyektlari bo'yicha xuddi shunday xizmatlar tajribasi bo'lishi shart.",
+      "summary_en": "The bidder must have provided the same services for category I, II and III oil and gas facilities in the last 5 years.",
+      "quote": "I, II, III toifalar bo‘yicha neft va gaz sanoati obyektlari bo‘yicha so‘nggi 5 yil ichida xarid predmeti bo‘yicha xizmatlar ko‘rsatish tajribasining mavjudligi va yetarliligi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ifloslantiruvchi moddalar tarqalishini hisoblash va modellashtirish huquqini tasdiqlovchi sertifikat bo'lishi shart.",
+      "summary_en": "A certificate confirming the right to calculate and model pollutant dispersion is mandatory.",
+      "quote": "atmosfera havosiga ifloslantiruvchi moddalarning tarqalishini hisoblash va modellashtirish ishlarini bajarish huquqini tasdiqlovchi tegishli sertifikatga ega bo‘lishi shart"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ishlar jami 69 ta loyihani (Jizzax va Farg'ona filiallari) qamrab oladi: PDV va PDO inventarizatsiyasi va loyihalash.",
+      "summary_en": "The work covers 69 projects in total (Jizzakh and Fergana branches): PDV and PDO inventories and design.",
+      "quote": "chegaraviy normativlarini (PDV) inventarizatsiya qilish va loyihalash"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Jadvalda loyihalarni ishlab chiqish va kelishish muddati shartnoma imzolangandan keyin 1 hafta deb ko'rsatilgan.",
+      "summary_en": "The table gives the term for developing and agreeing projects as 1 week after signing the contract.",
+      "quote": "Sharnoma imzolangandan so‘ng 1 hafta muddatda"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Salbiy ekspertiza xulosasi olinsa, ijrochi keyingi xulosa uchun xarajatlarni o'z mablag'idan to'laydi.",
+      "summary_en": "If an expert opinion is negative, the contractor pays for a repeat opinion from its own funds.",
+      "quote": "Salbiy xulosa olinganda, Ishlab chiquvchi kelgusida xulosa olish uchun o‘z mablag‘larini to‘lashi shart."
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_experience",
+      "severity": "high",
+      "quote": "50 ta (tuman va shahar kesimida) va undan ortiq – 25 ball; 50 tagacha (tuman va shahar kesimida) – 5 ball",
+      "explanation_uz": "5-mezon bilan birga ikki mezon 100 balldan 50 ballni so'nggi 2 yilda aynan gaz ta'minoti filiallari uchun 50 dan ortiq tuman/shahar kesimida bajarilgan inventarizatsiyaga bog'laydi, holbuki lotning o'zi 69 ta loyihadan iborat. Yana 10 ball neft-gaz sohasida 50 ta loyiha tajribasiga beriladi. Shu tajribasiz ishtirokchi o'tish balli 70 ga yeta olmasligi mumkin, hatto ekologik loyihalashda malakali bo'lsa ham.",
+      "explanation_en": "Together with criterion 5, two criteria tie 50 of 100 points to inventories done in the last 2 years specifically for gas-supply branches in 50 or more districts/cities, although the lot itself is 69 projects. Another 10 points go to a 50-project oil and gas record. A bidder without this record may be unable to reach the pass mark of 70 even if qualified in environmental design.",
+      "rewrite_uz": "Tajriba so'nggi 5 yilda har qanday sanoat obyektlari uchun bajarilgan ekologik normativ loyihalar soni bo'yicha baholansin; ballar bosqichlari lot hajmiga (69 loyiha) mutanosib bo'lsin va umumiy balldagi ulushi 20 foizdan oshmasin.",
+      "rewrite_en": "Score experience by the number of environmental normative projects completed for any industrial facilities in the last 5 years; set point tiers proportional to the lot size (69 projects) and cap the share of total points at 20 percent."
+    },
+    {
+      "type": "brand_no_equivalent",
+      "severity": "medium",
+      "quote": "Moddiy va texnik resurslar (jumladan dron) hamda litsenziyalangan “ArcGIS Pro 3.x” dasturiy taʼminoti uchun – 20 ball",
+      "explanation_uz": "Eng yuqori ball (20 ga 10) aynan bitta mahsulot nomi bilan ko'rsatilgan litsenziyalangan ArcGIS Pro 3.x dasturiga bog'langan; teng imkoniyatli boshqa GIS dasturlari uchun faqat 10 ball beriladi. Texnik topshiriq ham situatsion rejalarni aynan shu dastur bilan tuzishni talab qiladi.",
+      "explanation_en": "The top score (20 versus 10) is tied to one named product, licensed ArcGIS Pro 3.x; other capable GIS software gets only 10 points. The technical task also requires site plans to be made with this exact program.",
+      "rewrite_uz": "Moddiy-texnik resurslar va litsenziyalangan GIS dasturiy ta'minoti (ArcGIS Pro yoki unga teng funksional dastur) mavjud bo'lsa – 20 ball.",
+      "rewrite_en": "Technical resources and licensed GIS software (ArcGIS Pro or a functionally equivalent program) – 20 points."
+    },
+    {
+      "type": "unrealistic_deadline",
+      "severity": "low",
+      "quote": "Sharnoma imzolangandan so‘ng 1 hafta muddatda",
+      "explanation_uz": "Jadvalda loyihalarni ishlab chiqish va kelishish muddati shartnoma imzolanganidan keyin 1 hafta deb yozilgan. Dala ma'lumotlarini yig'ish, inventarizatsiya va ekspertiza talab qiladigan loyihalar uchun bu muddat real emas ko'rinadi. Muddat qaysi qatorlarga tegishli ekani va haqiqiy muddat aniqlashtirilishi kerak.",
+      "explanation_en": "The table states one week after contract signing for developing and agreeing the projects. For work that needs field data, inventories and expert review this looks unrealistic. It should be clarified which rows it covers and what the real term is.",
+      "rewrite_uz": "Loyihalarni ishlab chiqish va kelishish muddati: har bir bosqich bo'yicha shartnoma imzolanganidan keyin kamida 90 kalendar kun (aniq muddat buyurtmachi tomonidan lot hajmiga mos belgilansin).",
+      "rewrite_en": "Term for developing and agreeing projects: at least 90 calendar days per stage after contract signing (the customer should set an exact term suitable for the lot volume)."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik guvohnomasi va ustav",
+    "Ishtirokchining kafolat xati",
+    "Kamida 2 nafar mutaxassisning litsenziya yoki sertifikati",
+    "Akkreditatsiyalangan laboratoriya bilan shartnoma",
+    "Moddiy-texnik resurslar (jumladan dron) va dasturiy ta'minot litsenziyasi (ArcGIS Pro 3.x) ro'yxati va xodimlar sertifikatlari",
+    "So'nggi 2 yildagi moliyaviy holat to'g'risida ma'lumot",
+    "Inventarizatsiya qilingan va loyihalashtirilgan gaz ta'minoti filial va bo'linmalari ro'yxati (tuman va shahar kesimida, tasdiqlangan)",
+    "Mutaxassislarning neft-gaz sohasidagi 5 yillik tajribasi va ishlab chiqilgan loyihalar ro'yxati (birinchi rahbar tasdiqlagan)",
+    "Atmosfera havosiga chiqindilar tarqalishini hisoblash va modellashtirish sertifikati",
+    "I, II, III toifa neft-gaz obyektlari bo'yicha xizmatlar ro'yxati, ijobiy xulosalar va xodimlarni o'qitish sertifikatlari",
+    "Majburiy ijro byurosi ma'lumotlar bazasidan ma'lumotnoma"
+  ]
+}

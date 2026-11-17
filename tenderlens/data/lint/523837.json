@@ -1,0 +1,118 @@
+{
+  "lot_id": 523837,
+  "backend": "in-session",
+  "model": "claude-fable-5-2",
+  "sector": "health",
+  "subject_uz": "Tibbiyot markazining PSA kislorod generatori tizimi havo kompressorini ta'mirlash xizmati (ehtiyot qismlar va moy bilan birga)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Ijrochi kompressorning tashqi va ichki texnik holatini diagnostika qilishi kerak.",
+      "summary_en": "The contractor must diagnose the external and internal technical condition of the compressor.",
+      "quote": "Компрессорнинг ташқи ва ички техник ҳолатини диагностика қилиш — 1 хизмат."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Aniqlangan nosoz detallar ta'mirlanishi yoki yaroqsiz detallar almashtirilishi kerak.",
+      "summary_en": "Faulty parts found must be repaired, or unusable parts replaced.",
+      "quote": "Аниқланган носоз деталларни таъмирлаш ёки техник жиҳатдан яроқсиз деталларни алмаштириш — 1 хизмат."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ta'mirdan so'ng kompressor yuklama ostida sinovdan o'tkaziladi, ishchi bosim va harorat ko'rsatkichlari tekshiriladi.",
+      "summary_en": "After repair the compressor is tested under load and working pressure and temperature readings are checked.",
+      "quote": "Юклама остида синовдан ўтказиш, ишчи босим ва ҳарорат кўрсаткичларини текшириш — 1 хизмат."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Barcha ehtiyot qismlar va sarf materiallarini ijrochi o'zi ta'minlaydi.",
+      "summary_en": "All spare parts and consumables are supplied by the contractor.",
+      "quote": "Таъмирлаш жараёнида фойдаланиладиган барча эҳтиёт қисмлар ва сарф материаллари Ижрочи томонидан таъминланади."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Faqat yangi, sifatli va sertifikatlangan ehtiyot qismlar hamda materiallardan foydalanish shart.",
+      "summary_en": "Only new, good-quality and certified spare parts and materials may be used.",
+      "quote": "фақат янги, сифатли ва сертификатланган эҳтиёт қисмлар ҳамда материаллардан фойдаланиш;"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Yetkazib beriladigan ehtiyot qismlar uchun muvofiqlik sertifikatlari va zarur hujjatlar taqdim etiladi.",
+      "summary_en": "Conformity certificates and the necessary documents must be provided for the supplied spare parts.",
+      "quote": "етказиб бериладиган эҳтиёт қисмлар учун мувофиқлик сертификатлари ва зарур ҳужжатларни тақдим этиш;"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Ehtiyot qismlar va materiallar qiymati xizmatning umumiy narxiga kiritilgan bo'lishi kerak.",
+      "summary_en": "The cost of spare parts and materials must be included in the total price of the service.",
+      "quote": "Зарур эҳтиёт қисмлар ва материаллар қиймати хизматларнинг умумий нархига киритилган бўлиши лозим."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ro'yxatda katalog raqamlari bilan ko'rsatilgan ehtiyot qism to'plamlari (har biri 2 to'plamdan) yetkazilishi kerak, masalan havo-moy filtri to'plami.",
+      "summary_en": "The spare-part kits listed by catalogue number (2 sets each) must be supplied, for example the air-oil filter kit.",
+      "quote": "2 | AIR-OIL FILTER KIT 8000 HRS / ҳаво-мой фильтри комплекти, 8000 соатлик | 3002602080 | 2 тўплам"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ta'mirlash ishlari 20 kun ichida bajarilishi kerak.",
+      "summary_en": "The repair work must be completed within 20 days.",
+      "quote": "5.1. Таъмирлаш ишлари 20 куни ичида бажарилиши лозим."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Bajarilgan ishlar va o'rnatilgan ehtiyot qismlar uchun kafolat muddati kamida 12 oy.",
+      "summary_en": "The warranty on the work done and the parts installed must be at least 12 months.",
+      "quote": "Бажарилган ишлар ва ўрнатилган эҳтиёт қисмлар учун кафолат муддати камида 12 ойни ташкил этиши лозим."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ta'mirlash ishlari ishlab chiqaruvchining texnik talablari va ekspluatatsiya hujjatlariga muvofiq bajariladi.",
+      "summary_en": "The repair must be carried out in line with the manufacturer's technical requirements and operating documents.",
+      "quote": "таъмирлаш ишлари ишлаб чиқарувчининг техник талаблари ва эксплуатация ҳужжатларига мувофиқ бажарилиши;"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochi barcha zarur asbob-uskunalar, maxsus jihozlar va ishchi kuchiga ega bo'lishi shart.",
+      "summary_en": "The contractor must have all the necessary tools, special equipment and workforce.",
+      "quote": "Ижрочи барча зарур асбоб-ускуналар, махсус жиҳозлар ва ишчи кучи билан таъминланган бўлиши шарт."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik taklif uchun eng ko'pi 20 ball beriladi; taklif qisman taqdim etilsa 10 ball.",
+      "summary_en": "The technical proposal scores up to 20 points; a partial proposal gets 10 points.",
+      "quote": "Макс. балл по критерию = 20.0; Таклиф кисман такдим килинса = 10.0"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Shunga o'xshash xizmatlar haqidagi ma'lumot bo'yicha ball ish faoliyati davriga qarab beriladi: 1 yildan kam bo'lsa 5, 1-2 yil 10, 2-3 yil 15, eng ko'pi 20 ball.",
+      "summary_en": "Points for information on similar services depend on the period of activity: under 1 year 5, 1-2 years 10, 2-3 years 15, maximum 20 points.",
+      "quote": "Иш фаолияти даври 2 йилдан 3 йилгача булса = 15.0; Иш фаолияти даври 1 йилдан 2 йилгача булса = 10.0; Иш фаолияти даври 1 йилдан кам булса = 5.0"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishni tugatish muddati hamda halollik (noqonuniy holatlarga yo'l qo'ymaslik) majburiyati haqidagi kafolat xati uchun eng ko'pi 20 ball beriladi; to'liq taqdim etilmasa 5 ball.",
+      "summary_en": "A guarantee letter on the completion time and an integrity undertaking (not permitting unlawful conduct) scores up to 20 points; 5 points if it is not submitted in full.",
+      "quote": "ballar: Мин. балл критерию = 0.0; Макс. балл по критерию = 20.0; Тулик такдим этилмаса = 5.0"
+    }
+  ],
+  "flags": [
+    {
+      "type": "brand_no_equivalent",
+      "severity": "medium",
+      "quote": "7 | OIL RS ULTRA 20 L / компрессор мойи, 20 литрлик идишда | 1630204120 | 40 литр",
+      "explanation_uz": "Ehtiyot qismlar ro'yxatida kompressor moyi aniq mahsulot nomi va katalog raqami bilan, qolgan to'plamlar ham bittadan katalog raqami bilan ko'rsatilgan, \"yoki ekvivalent\" degan ibora esa yo'q. Mavjud kompressorga mos kelishi zarurligi tushunarli, lekin texnik jihatdan mos keladigan muqobil moy yoki to'plamlarni taklif qiladigan ijrochi talabga javob bermaydi deb topilishi mumkin. Bu ishtirokchilar sonini cheklashi mumkin.",
+      "explanation_en": "The parts list names the compressor oil by a specific product name and catalogue number, and gives a single catalogue number for each of the other kits, with no \"or equivalent\" wording. The need to fit the existing compressor is understandable, but a contractor offering technically compatible alternative oil or kits could be treated as non-compliant. This may limit the number of bidders.",
+      "rewrite_uz": "OIL RS ULTRA 20 L yoki texnik xususiyatlari bo'yicha unga teng, kompressor ishlab chiqaruvchisining talablariga mos keladigan ekvivalent kompressor moyi — 40 litr. Ro'yxatdagi katalog raqamlari mos kelishni aniqlash uchun berilgan; texnik jihatdan to'liq mos keladigan ekvivalent ehtiyot qismlarga ruxsat etiladi.",
+      "rewrite_en": "OIL RS ULTRA 20 L or an equivalent compressor oil with the same technical characteristics that meets the compressor manufacturer's requirements — 40 litres. The catalogue numbers in the list are given to identify compatibility; fully compatible equivalent spare parts are accepted."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ishtirokchining texnik taklifi",
+    "Kafolat xati (ishlar va ehtiyot qismlar uchun kafolat muddati ko'rsatilgan holda)",
+    "Shunga o'xshash xizmatlar va ish faoliyati davri haqida ma'lumot",
+    "Ta'sischilar haqidagi ma'lumot bilan birga ishtirokchi to'g'risida umumiy ma'lumot",
+    "Ishni tugatish muddati hamda halollik (noqonuniy holatlarga yo'l qo'ymaslik) majburiyati haqida kafolat xati",
+    "Ehtiyot qismlar uchun muvofiqlik sertifikatlari (ijro bosqichida)"
+  ]
+}

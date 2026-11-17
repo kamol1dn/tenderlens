@@ -1,0 +1,65 @@
+{
+  "lot_id": 521609,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Yo'l-qurilish texnikasini ehtiyot qismlarini o'rnatgan holda ta'mirlash va texnik xizmat ko'rsatish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Ijrochi ishlarni tashkil etish uchun amaldagi sertifikat va litsenziyalarga ega bo'lishi kerak (qonun talab qilsa).",
+      "summary_en": "The contractor must hold valid certificates and licences for the work, where the law requires them.",
+      "quote": "Ижрочи юқорида кўрсатилган ишларни ташкил этиш ва амалга  ошириш учун амалдаги сертификат ва лицензияларга эга бўлиши керак (агар қонун талаб қилса)."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Talabgor ta'mirchilar soni (malakasi bilan), ko'targichlar, ko'rik chuqurlari va yopiq boksler haqida ma'lumot berishi kerak.",
+      "summary_en": "Bidders must provide data on repair staff (with qualifications), lifts, inspection pits and enclosed workshop bays.",
+      "quote": "Талабгорлар моддий-техник имкониятлари. Таъмирчи ходимларининг сони (малакасини кўрсатган ҳолда), мавжуд кўтариш мосламалари, текшириш чуқурлари"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ta'mirlash to'liq diagnostika va nosozliklar hamda tavsiyalar ko'rsatilgan hujjatni mijozga topshirishni o'z ichiga oladi.",
+      "summary_en": "Repairs include full diagnostics and a written defect report with recommendations for the customer.",
+      "quote": "тўлиқ диагностика, носозликлар ва уларни бартараф этишга қартилган тавсияларни, маълумотларни ўз ичига олган хужжатни тўлдириб Буюртмачига тақдим этиши керак."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Bajarilgan ishlar uchun qabul qilingan kundan boshlab kamida 6 oy kafolat beriladi.",
+      "summary_en": "Warranty of at least 6 months on completed work from the acceptance date.",
+      "quote": "Ижрочи бажарилган ишлар (кўрсатган хизматлар) учун, улар қабул қилинган кундан бошлаб 6 ойдан кам бўлмаган муддатга кафолат бериши керак."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Kerak bo'lsa ustalar diagnostika asboblari bilan buyurtmachi hududiga chiqishi kerak.",
+      "summary_en": "If needed, repair technicians with diagnostic equipment must travel to the customer's site.",
+      "quote": "Ижрочи, агар керак бўлса, таъмирчилари (усталари), ташхис қўйиш учун зарур бўлган диагностика ускуналари ва инвентарлари билан Буюртмачининг ҳудудига"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Ijrochi subpudratchilarni jalb qila olmaydi.",
+      "summary_en": "The contractor may not use subcontractors.",
+      "quote": "Ижрочи хизматларни бажаришга бошқа шахсларни (субпудратчиларни) жалб қила олмайди."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlar ijrochining Olmaliqdagi servisida yoki buyurtmachi hududida bajarilishi kerak.",
+      "summary_en": "Work must be done at the contractor's service station in Almalyk or on the customer's territory.",
+      "quote": "Ишлар/хизматлар Ижрочининг Олмалиқ шаҳридаги ТХКМда ёки Буюртмачининг ҳудудида кўрсатилиши керак."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Ishtirokchilar ehtiyot qismlar narxi va katalog raqamlarini 1-ilovaga muvofiq berishi shart (narxlar taxminiy, undan yuqori bo'lmasligi kerak).",
+      "summary_en": "Bidders must state spare-part prices and catalogue numbers per Annex 1; indicative prices may not be exceeded.",
+      "quote": "Иштирокчилар эҳтиёт қисмларнинг нарҳини ва каталог рақамларини кўрсатган ҳолда 1-иловага мувофиқ тақдим этишлари шарт."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Texnik topshiriq talablariga muvofiqlik hujjati",
+    "Amaldagi sertifikat va litsenziyalar (qonun talab qilsa)",
+    "Moddiy-texnik imkoniyatlar haqida ma'lumot: ta'mirchilar soni va malakasi, ko'targichlar, ko'rik chuqurlari, yopiq boksler",
+    "Ehtiyot qismlar narxi va katalog raqamlari (1-ilova bo'yicha)",
+    "Soliq qarzi yo'qligi va insofsiz ijrochilar reyestrida yo'qligi to'g'risidagi ma'lumotlar"
+  ]
+}

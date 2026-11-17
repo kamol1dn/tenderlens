@@ -1,0 +1,109 @@
+{
+  "lot_id": 523373,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Markaziy bank Farg'ona viloyat boshqarmasi binosidagi isitish, sovutish va havo almashtirish tizimining yaroqsiz qismlarini yangisiga almashtirib kapital ta'mirlash",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Uskunalarni yetkazib berish va kapital ta'mirlash ishlari tasdiqlangan loyiha-smeta hujjatlari asosida bajariladi.",
+      "summary_en": "Equipment supply and the major repair are done according to the approved design and estimate documents.",
+      "quote": "Uskunalarni yetkazib berish va kapital ta'mirlash ishlari tasdiqlangan loyiha-smeta hujjatlari asosida amalga oshiriladi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ma'muriy binolarda muhandislik tizimlariga texnik xizmat ko'rsatish bo'yicha kamida uch yillik ish tajribasi (xat bilan) talab qilinadi.",
+      "summary_en": "At least three years of experience maintaining engineering systems in administrative buildings (stated in a letter).",
+      "quote": "bo'yicha kamida uch yillik ish tajribasiga ega bo'lishi (xatda ko'rsatish)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlarni bajarish uchun kamida 10 nafar mutaxassis bo'lishi va buni xat yoki buyruqlar bilan tasdiqlash kerak.",
+      "summary_en": "At least 10 specialists must be available, confirmed by a letter or orders.",
+      "quote": "kamida 10 nafar mutaxassis bo'lishi (xatda tasdiqlash / buyruqlarni ilova qilish)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "ISO 9001 sertifikati mavjud bo'lishi talab qilinadi.",
+      "summary_en": "An ISO 9001 certificate is required.",
+      "quote": "ISO 9001 sertifikati mavjudligi. - Montaj ishlari davomida moddiy zarar yetkazilgan taqdirda"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ta'sis etilganiga 3 yildan kam bo'lgan ishtirokchi tenderdan chetlashtiriladi.",
+      "summary_en": "A bidder established less than 3 years ago is excluded.",
+      "quote": "ta'sis etilgan muddati 3 yildan kam bo'lsa"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30 foiz avans, 65 foiz bajarilgan ishlar dalolatnomasi bo'yicha; qolgan 5 foiz kafolat davridagi xizmatdan keyin to'lanadi.",
+      "summary_en": "30 percent advance, 65 percent on acceptance of completed work; the last 5 percent is paid after warranty service.",
+      "quote": "miqdori bo'nak summasini ushlab qolgan xolda bajarilgan ishlar dalolatnomasiga ko'ra amalga oshiriladi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Taklif kafolati sifatida boshlang'ich narxning 3 foizi (taxminan 104,7 mln so'm) talab qilinadi; g'olib shartnoma summasining 3 foizini ham o'tkazadi.",
+      "summary_en": "A bid guarantee of 3 percent of the start price (about 104.7 million UZS) is required; the winner also pays 3 percent of the contract sum.",
+      "quote": "summasining 3 foizi miqdorida mablag'lami XKKPning tegishli hisobraqamiga o'tkazib beradi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Barcha ishlar avans to'langan kundan boshlab 90 kalendar kun ichida tugallanishi kerak.",
+      "summary_en": "All work must be finished within 90 calendar days from the advance payment.",
+      "quote": "bo'nak (avans) to'lovi amalga oshirilgan kundan boshlab 90"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Bajarilgan ishlar va uskunalarga kamida 2 yil kafolat beriladi, kafolat davrida ehtiyot qismlar bepul almashtiriladi.",
+      "summary_en": "At least 2 years' warranty on work and equipment, with free replacement of parts during the warranty.",
+      "quote": "kamida 2 yil bo'lib, kafolat davrida ehtiyot qismlami bepul almashtirishni"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kafolat muddati uchun ball: 5 yil va undan ortiq 5 ball, 2 yil 2 ball, 2 yildan kam 0 ball.",
+      "summary_en": "Warranty length is scored: 5 years or more 5 points, 2 years 2 points, under 2 years 0.",
+      "quote": "Kafolat muddati (uskunalar va bajarilgan ishlar uchun)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "So'nggi 3 yilda bajarilgan o'xshash loyihalarning jami qiymati lot boshlang'ich narxiga nisbatan baholanadi (100% va undan ko'p 6 ball).",
+      "summary_en": "The total value of similar projects in the last 3 years is scored relative to the start price (100 percent or more gets 6 points).",
+      "quote": "Oxirgi 3 yilda bajarilgan o’xshash loyihalarning jami qiymati (3-shakl) (lotning boshlang’ich narxiga nisbatan)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "2026 yildagi bank hisobraqami aylanmasi lot narxiga nisbatan baholanadi (200% va undan ko'p 5 ball).",
+      "summary_en": "2026 bank-account turnover is scored relative to the lot price (200 percent or more gets 5 points).",
+      "quote": "2026-yilda bank asosiy hisobraqamidagi aylanma (lotning boshlang’ich narxiga nisbatan)"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "ta'sis etilgan muddati 3 yildan kam bo'lsa",
+      "explanation_uz": "Tender hujjatida ta'sis etilganiga 3 yildan kam bo'lgan ishtirokchi chetlashtirilishi yoziladi (ro'yxatdan o'tganlik guvohnomasi ham 3 yildan kam bo'lmasligi kerak). Yaqinda ochilgan, lekin tajribali mutaxassislari va resurslari bor korxona 3,49 mlrd so'mlik lotda ishtirok eta olmaydi. Tajriba va moliyaviy holat alohida baholanayotgani uchun bu cheklov zarurligini aniqlashtirish kerak.",
+      "explanation_en": "The tender document excludes bidders established less than 3 years ago (the registration certificate must also be at least 3 years old). A newer company with experienced staff and resources would be shut out of this 3.49 billion UZS lot. Since experience and finances are scored separately, a person should check why this extra gate is needed.",
+      "rewrite_uz": "Ishtirokchining tashkil etilgan muddatidan qat'i nazar, tajribasi va resurslari tegishli mezonlar (o'xshash loyihalar, xodimlar, moliyaviy holat) bo'yicha baholanadi.",
+      "rewrite_en": "Regardless of when the bidder was established, its experience and resources are assessed under the relevant criteria (similar projects, staff, financial position)."
+    }
+  ],
+  "documents_needed_uz": [
+    "Xarid komissiyasi raisi nomiga ishtirok etish arizasi (1-shakl)",
+    "Kafolat xati deklaratsiyasi (2-shakl)",
+    "Ishtirokchi to'g'risida umumiy ma'lumot va so'nggi 3 yillik tajriba (3-shakl)",
+    "Moliyaviy holat to'g'risida ma'lumot va soliq hisobotining 1 va 2-shakllari (4-shakl)",
+    "Qonunbuzarlikka yo'l qo'ymaslik bo'yicha ariza (5-shakl)",
+    "Texnik taklif va texnik tavsiflarning taqqoslama jadvali (6-shakl)",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi, nizom va ta'sischilar ro'yxati",
+    "Yangi uskuna va ehtiyot qismlarning to'liq tavsifi (texnik pasport, sertifikat, broshura)",
+    "Uskunalar va montaj ishlari uchun kafolat xati (7-shakl)",
+    "2026 yildagi bank hisobraqami aylanmasi to'g'risida bank ma'lumotnomasi",
+    "Soliq qarzi yo'qligi to'g'risida ma'lumotnoma (my.soliq.uz)",
+    "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi to'g'risida ma'lumotnoma",
+    "Bankrotlik jarayoni yo'qligi to'g'risida ma'lumotnoma (my.gov.uz)",
+    "Xodimlar ro'yxati to'g'risida QR-kodli ma'lumotnoma (my.mehnat.uz)",
+    "ISO 9001 sertifikati va kamida 10 mutaxassis hamda 3 yillik tajriba haqidagi xat"
+  ]
+}

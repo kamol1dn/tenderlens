@@ -1,0 +1,47 @@
+{
+  "lot_id": 525476,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "health",
+  "subject_uz": "Ikki dona 12 litrli tibbiy termosumka (termokonteyner) xaridi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Birinchi mahsulot: hajmi 12 litrli tibbiy termosumka, 1 dona.",
+      "summary_en": "Item 1: a medical thermal bag of 12 litres, 1 piece.",
+      "quote": "Tibbiy termosumka 12 litrli"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ikkinchi mahsulot: portativ termokonteyner (bio-eko muzlatgich), 12 litr, 1 dona.",
+      "summary_en": "Item 2: a portable thermal container (bio-eco cooler), 12 litres, 1 piece.",
+      "quote": "Portativ termokonteyner (bio -eko muzlatgich)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi shu faoliyat bilan shugʻullanish huquqini beruvchi hujjatlar (litsenziya, guvohnoma) nusxalarini muhr bilan tasdiqlab ilova qiladi.",
+      "summary_en": "The bidder attaches stamped copies of documents (licence, certificate) entitling it to carry out this type of activity.",
+      "quote": "faoliyat turi bilan shug'illanish huquqini beruvchi hujjatlarni (lisenziya, guvohnoma) nusxalarini muhr bilan tasdiqlab ilova qilib"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash faqat texnik shartga muvofiqlik boʻyicha (100 ball, ekspert baholashi); oʻtish bali 70.",
+      "summary_en": "Scoring is a single criterion, conformity to the technical specification (100 points, expert assessment); pass mark 70.",
+      "quote": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslariga ega boʻlishi kerak.",
+      "summary_en": "The bidder must have the technical, financial, material and staffing resources needed to perform the contract.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Texnik taklif (texnik shartga asosan)",
+    "Faoliyat turi bilan shugʻullanish huquqini beruvchi hujjatlar (litsenziya, guvohnoma) nusxalari, muhr bilan tasdiqlangan",
+    "Davlat roʻyxatidan oʻtganlik guvohnomasi va taʼsis hujjatlari",
+    "Soliq va yigʻimlar boʻyicha qarzdorlik yoʻqligi haqida maʼlumotnoma",
+    "Manfaatlar toʻqnashuvi va affillanganlik holatlari yoʻqligi haqida tasdiq"
+  ]
+}

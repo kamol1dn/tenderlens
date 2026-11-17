@@ -1,0 +1,105 @@
+{
+  "lot_id": 524846,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Toshkent shahridagi avtobus bekatlarida reklama joylashtirish xizmatlari (12 oy)",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Oxirgi 36 oy ichida kamida 1 ta o'xshash reklama joylashtirish xizmati ko'rsatilgan bo'lishi va shartnoma hamda elektron hisob-fakturalar taqdim etilishi kerak.",
+      "summary_en": "At least 1 similar advertising-placement service in the last 36 months, proven with contract copies and electronic invoices.",
+      "quote": "Ishtirokchi oxirgi 36 oy davomida kamida 1 ta shunga o‘xshash reklama joylashtirish xizmatlarini ko‘rsatgan bo‘lishi zarur."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi avtobus bekatlarida reklama joylashtirish imkonini beruvchi huquqiy kelishuvga ega bo'lishi va hujjat taqdim etishi shart.",
+      "summary_en": "The bidder must hold a legal agreement that allows advertising at the bus stops and attach the document.",
+      "quote": "Ishtirokchi loyiha doirasida taqdim etilgan avtobus bekatlarida reklama joylashtirish imkonini beruvchi huquqiy kelishuvga ega bo‘lishi kerak."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Reklama konstruksiyalarining 24/7 ishlashi, texnik sozligi va tozaligini ta'minlash majburiyati bo'yicha kafolat xati.",
+      "summary_en": "Guarantee letter committing to 24/7 operation, technical condition and cleanliness of the advertising structures.",
+      "quote": "Ishtirokchi reklama konstruksiyalarining 24/7 ishlashi, texnik sozligi va tozaligini ta’minlash majburiyatini olishi bo‘yicha kafolat xati taqdim etishi kerak."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "1-son shaklga muvofiq kafolat xati (to'lovga layoqatsizlik, sud, offshor va boshqalar bo'yicha) kerak.",
+      "summary_en": "A guarantee letter on Form 1 (no insolvency, litigation, offshore registration and similar) is required.",
+      "quote": "Ishtirokchi 1-son shaklga muvofiq kafolat xati taqdim etishi kerak."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "3-son shaklga muvofiq texnik taklif taqdim etilishi kerak.",
+      "summary_en": "A technical offer on Form 3 must be submitted.",
+      "quote": "Ishtirokchining 3-son shaklga muvofiq texnik taklifini taqdim etishi kerak."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik qism 0%, narx 100%: texnik baholashdan o'tgan (6 ballning hammasi) va eng past narx bergan ishtirokchi g'olib bo'ladi.",
+      "summary_en": "Technical share 0%, price 100%: the bidder that passes the technical check (all 6 points) and offers the lowest price wins.",
+      "quote": "Texnik baholashdan o‘tgan va eng past narxni taqdim etgan ishtirokchi g‘olib hisoblanadi."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "15% avans, qolgan 85% oylik abonent to'lovi asosida har oyda to'lanadi.",
+      "summary_en": "15 percent advance; the remaining 85 percent is paid monthly as a subscription fee.",
+      "quote": "Oldindan to‘lov (avans) 15%. Qolgan 85% to‘lov oylik obonent to‘lovi asosida har oyda"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat reklama mahsulotlari o'rnatilgandan keyin 12 oy davomida ko'rsatiladi.",
+      "summary_en": "The service runs for 12 months from the date the advertising products are installed.",
+      "quote": "Reklama mahsulotlarini o‘rnatgandan (topshirish qabul qilish dalolatnomasiga asosan) kundan boshlab 12 oy davomida."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "E'lon sanasida davlat ro'yxatidan o'tganiga olti oy to'lmagan tashkilotlar qatnasha olmaydi.",
+      "summary_en": "Organisations registered less than six months before the announcement date cannot take part.",
+      "quote": "tanlash o‘tkazish to‘g‘risidagi e’lon berilgan sanada davlat ro‘yxatidan o‘tganiga olti oy to‘lmagan;"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklif ta'minoti boshlang'ich narxning 2 foizi (taxminan 19 039 360 so'm).",
+      "summary_en": "Bid security is 2 percent of the start price (about 19,039,360 UZS).",
+      "quote": "Tanlash taklifi ta’minoti hajmi tanlash boshlang‘ich qiymatining 2 foizini tashkil qiladi."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "G'olib shartnoma summasining 2 foizi miqdorida bajarish kafolatini (zakalat yoki bank kafolati) taqdim etadi.",
+      "summary_en": "The winner provides a performance guarantee of 2 percent of the contract amount (deposit or bank guarantee).",
+      "quote": "Tanlash g‘olibi tuzilayotgan shartnomaning umumiy summasining 2 foizi miqdorida shartnoma majburiyatlarini bajarish kafolatini (zakalat yoki bank kafolati shaklida) taqdim etadi."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Ishtirokchi loyiha doirasida taqdim etilgan avtobus bekatlarida reklama joylashtirish imkonini beruvchi huquqiy kelishuvga ega bo‘lishi kerak.",
+      "explanation_uz": "Taklif topshirishdan oldin Toshkent avtobus bekatlarida reklama joylashtirish huquqini beruvchi tayyor huquqiy kelishuv talab qilinmoqda; hujjatda bu qaysi bekatlar ekani, kim bilan tuzilgan kelishuv ekani va ushbu xaridning o'zi bekatlarni taqdim etadimi-yo'qmi, aytilmagan. Bu mezon 1 ball, o'tish bali 6 (barcha mezonlar), narx esa 100% bo'lgani uchun, bekatlarga huquqi yo'q ta'minotchi taklifdan chetlashtiriladi. Lot narxi 951 968 000 so'm.",
+      "explanation_en": "A ready legal agreement allowing advertising at Tashkent bus stops is required before bidding, and the document does not say which stops, with whom the agreement must be, or whether this purchase itself provides the stops. The criterion is worth 1 point with a pass mark of 6 (all criteria) and price weighs 100%, so a supplier without rights to the stops is removed from the bid. The lot start price is 951,968,000 UZS.",
+      "rewrite_uz": "Ishtirokchi shartnoma bo'yicha xizmat ko'rsatish boshlanishiga qadar avtobus bekatlarida reklama joylashtirish huquqini (shartnoma, ijara yoki boshqa huquqiy asos) ta'minlash majburiyatini oladi; buyurtmachi bekatlar ro'yxati va huquq egasini xarid hujjatlarida ko'rsatadi.",
+      "rewrite_en": "The bidder undertakes to secure the right to place advertising at the bus stops (by contract, lease or another legal basis) before the service starts; the customer lists the stops and the rights holder in the procurement documents."
+    },
+    {
+      "type": "short_window",
+      "severity": "low",
+      "quote": "Tanlash takliflarini taqdim etish muddati | 5 ish kuni",
+      "explanation_uz": "Takliflarni tayyorlash va topshirish uchun 5 ish kuni berilgan (platformada 17 va 24-noyabr), 1-3-son shakllar, 36 oylik tajriba hujjatlari va bekatlarga huquqiy kelishuv hujjatini yig'ish uchun bu qisqa bo'lishi mumkin. Lot narxi 951 968 000 so'm.",
+      "explanation_en": "Only 5 working days are given to prepare and submit bids (17 to 24 November on the platform), which may be short for assembling Forms 1-3, 36-month experience documents and proof of an agreement over the bus stops. The lot start price is 951,968,000 UZS.",
+      "rewrite_uz": "Tanlash takliflarini taqdim etish muddati e'lon qilingan kundan boshlab kamida 10 ish kunini tashkil qiladi.",
+      "rewrite_en": "The deadline for submitting bids is at least 10 working days from the date of the announcement."
+    }
+  ],
+  "documents_needed_uz": [
+    "1-son shakl: ishtirokchi blankasida kafolat xati",
+    "2-son shakl: ishtirokchi to'g'risida umumiy ma'lumot va o'xshash xizmat tajribasi",
+    "3-son shakl: texnik taklif",
+    "Oxirgi 36 oy ichida o'xshash reklama xizmati ko'rsatilganini tasdiqlovchi shartnoma nusxalari va elektron QR kodli hisob-fakturalar",
+    "Avtobus bekatlarida reklama joylashtirish imkonini beruvchi huquqiy kelishuv hujjati",
+    "Reklama konstruksiyalarining 24/7 ishlashi, texnik sozligi va tozaligi bo'yicha kafolat xati",
+    "Ilovaga muvofiq ariza (Malaka 7 talabi)",
+    "Taklif ta'minoti (boshlang'ich narxning 2 foizi)"
+  ]
+}

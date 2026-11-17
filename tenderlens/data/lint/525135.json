@@ -1,0 +1,81 @@
+{
+  "lot_id": 525135,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "health",
+  "subject_uz": "Tibbiyot tashkilotini milliy akkreditatsiyaga tayyorlash bo'yicha o'qitish, konsultatsiya va tayyorgarlikni baholash xizmati (51 mln so'm)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Xizmat 100 o'ringacha shifoxonaga ega tibbiyot tashkilotini milliy akkreditatsiyaga tayyorlashga qaratilgan: xodimlarni o'qitish va konsultatsiya.",
+      "summary_en": "The service prepares a medical organisation with up to 100 beds for national accreditation through staff training and consulting.",
+      "quote": "Buyurtmachining 0 dan100 tagacha shifo o'miga ega ambulator yoki statsionar turdagi tibbiyot tashkilotini milliy akkreditatsiyadan o'tishga tayyorlash maqsadida"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ijrochi tayyorgarlik darajasini tashkilot joyiga borib baholaydi (hujjatlar tahlili, suhbat, kuzatuv).",
+      "summary_en": "The provider assesses readiness on site (document review, interviews, observation).",
+      "quote": "Ijrochi tibbiyot tashkilotining akkreditatsiyaga amaldagi tayyorgarlik darajasini joyiga chiqqan holda"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Xizmat rasmiy akkreditatsiyani o'tkazmaydi; tayyorlash, o'qitish, konsultatsiya, baholash va tavsiyalar bilan cheklanadi.",
+      "summary_en": "The service does not include the official accreditation; it is limited to preparation, training, consulting, assessment and recommendations.",
+      "quote": "Xizmat tayyorlash, o'qitish, konsultatsiya, diagnostik baholash va tavsiyalar berish bilan cheklanadi."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat shartnoma kuchga kirgach va boshlanish sanasi kelishilgach 5 ish kuni ichida ko'rsatiladi.",
+      "summary_en": "The service is delivered within 5 working days after the contract takes effect and the start date is agreed.",
+      "quote": "shartnoma kuchga kirganidan va xizmatm boshlash sanasi Buyurtmachi bilan kelishilganidan so'ng 5 ish kuni."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yakunda yozma hisobot (tayyorgarlik xulosasi, nomuvofiqliklar, xavflar, tavsiyalar) topshiriladi; shu bilan xizmat qabul qilinadi.",
+      "summary_en": "A written final report (readiness conclusion, non-conformities, risks, recommendations) is delivered and forms the basis for acceptance.",
+      "quote": "Xizmat yakunida Ijrochi Buyurtmachiga yozma yakuniy hisobot taqdim etadi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochi O'zbekiston qonunchiligiga muvofiq faoliyat yurituvchi xo'jalik yurituvchi subyekt bo'lishi kerak.",
+      "summary_en": "The provider must be a business entity operating under Uzbek law.",
+      "quote": "Ijrochi o'zbekiston Respublikasi qonunchiligiga muvofiq faoliyat yurituvchi xoJalik yurituvchi subyekt bo'lishi lozim."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Jalb etiladigan mutaxassislar tibbiyot tashkilotlari faoliyati va akkreditatsiya mezonlari bo'yicha yetarli bilim va kompetensiyaga ega bo'lishi kerak.",
+      "summary_en": "Specialists involved must have sufficient knowledge of healthcare operations and accreditation criteria.",
+      "quote": "xavfsizligi hamda akkreditatsiya mezonlari bo'yicha iizmatni lozim darajada uajarish uchun yetarli kasbiy bilim va kompetensiyaga egabo,lishi lozim."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mutaxassislar mavjudligi (ish tajribasi) mezoni ekspert tomonidan 5 ballgacha baholanadi; tasdiqlovchi hujjat majburiy.",
+      "summary_en": "Specialist availability (work experience) is scored by experts up to 5 points; a supporting document is mandatory.",
+      "quote": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Natijalar sifati va kafolati uchun kafolat xati 5 ballgacha baholanadi.",
+      "summary_en": "A guarantee letter on the quality and warranty of results is scored up to 5 points.",
+      "quote": "Иш хизматларнинг натиджалари ва кафолати учун кафолат хати"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Oldindan to'lov 30 foiz (20 kun ichida), to'liq to'lov 30 bank kunida; sahifadagi muddat sarlavhadagi 15 kundan farq qiladi.",
+      "summary_en": "30 percent advance (within 20 days) and full payment in 30 banking days; the page term differs from the 15 days shown in the lot header.",
+      "quote": "Oldindan to'lovni kiritish muddati 20 kun To'liq to'lov amalga oshirilish muddati 30 bank kuni"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik guvohnomasi va bank rekvizitlari",
+    "Soliq qarzdorligi yo'qligi va insofsiz ijrochilar reestrida yo'qligi bo'yicha ma'lumotlar",
+    "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi bo'yicha nusxa",
+    "Texnik taklif: xizmat ko'rsatish metodikasi va ish rejasi",
+    "Mutaxassislar ro'yxati, ularning malakasi va ish tajribasini tasdiqlovchi hujjatlar",
+    "Xodimlarni o'qitish bo'yicha tasdiqlovchi hujjatlar",
+    "Natijalar sifati va kafolati bo'yicha kafolat xati",
+    "Texnik shartlarga muvofiqlik tasdig'i",
+    "Malakaviy hujjatlar to'plami"
+  ]
+}

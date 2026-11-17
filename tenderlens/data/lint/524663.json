@@ -1,0 +1,24 @@
+{
+"lot_id": 524663, "backend": "in-session", "model": "claude-sonnet-5-5",
+"sector": "food",
+"subject_uz": "Ruhiy salomatlik markazi Surxondaryo filiali bemorlariga 2026 yil noyabr oyi uchun issiq ovqat tayyorlash va yetkazish (autsorsing, dieta stol №15)",
+"requirements": [
+{"kind":"technical","summary_uz":"Kuniga toʻrt mahal ovqat (nonushta, tushlik, poldnik, kechki ovqat) taomnoma kalkulyatsiyasiga muvofiq beriladi; bir bemorga oʻrtacha kunlik narx ustamalar bilan 35 609 soʻm.","summary_en":"Four meals a day per the menu calculation; average daily cost per patient with the outsourcing surcharge is 35,609 UZS.","quote":"Бир беморга уртача бир кунлик овкат пули устама маблағлари билан"},
+{"kind":"other","summary_uz":"Autsorsing xizmati ustamasi 19,5 foiz.","summary_en":"Outsourcing service surcharge is 19.5 percent.","quote":"Аутсорсинг хизмати курсатувчи | 19,5%"},
+{"kind":"delivery","summary_uz":"Xizmat muddati 30 kun.","summary_en":"Service period is 30 days.","quote":"Буюртмачи томонидан белгиланган ишларни бажариш (махсулот етказиб бериш) муддати | 30 кун"},
+{"kind":"payment","summary_uz":"Shartnoma qiymatining 30 foizi avans, dastlabki ikki oyga oyiga 30 foizdan teng ulushlarda.","summary_en":"A 30 percent advance is paid, in equal shares of 30 percent per month for the first two months.","quote":"кийматининг 30 % микдорида, дастлабки икки ойга тенг улушларда (ойига 30 фоиздан) аванс утказади"},
+{"kind":"qualification","summary_uz":"Obyekt qiymatining 40 foizi miqdorida aylanma mablagʻ mavjudligi haqida bank maʼlumoti yoki bank kafilligi talab etiladi; topshirmagan ishtirokchi chetlashtiriladi.","summary_en":"A bank statement of working capital equal to 40 percent of the object value (about 208 million UZS on a 519.5 million lot) or a bank guarantee is required; bidders without it are excluded.","quote":"Ушбу хужжатни тақдим килмаган иштирокчилар танловдан четлаштирилади."},
+{"kind":"qualification","summary_uz":"Litsenziya oʻrniga muvofiqlik sertifikatlari talab etiladi.","summary_en":"Conformity certificates are listed instead of a licence.","quote":"Мувофиклик сертификатлари"},
+{"kind":"qualification","summary_uz":"Shartnomani bajarish uchun texnik, moliyaviy, moddiy va kadrlar resurslari boʻlishi, soliq qarzi va bankrotlik boʻlmasligi kerak.","summary_en":"Technical, financial, material and staff resources, no tax debt and no bankruptcy proceedings.","quote":"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг хамда бошка ресурсларнинг мавжудлиги;"},
+{"kind":"evaluation","summary_uz":"Baholash: narx 100 foiz, oʻtish bali 60; meʼyorlar boʻyicha 25 balldan ekspert bahosi (kafolat, malakali oshpazlar, sanitariya xulosasi va boshqalar).","summary_en":"Evaluation: price 100 percent, pass mark 60; expert-scored criteria of 25 points each (quality, qualified cooks, sanitary conclusion and others).","quote":"Малакали ошпоз мутахасислари булиши шарт маззали таом тайёрлаш учун"}
+],
+"flags": [
+{"type":"excessive_financial","severity":"medium",
+"quote":"Объект кийматининг 40% микдорида айланма маблаглар мавжудлиги тугрисида банк маълумоти",
+"explanation_uz":"Hujjatda obyekt qiymatining 40 foizi miqdorida aylanma mablaʼgʻ yoki bank kafilligi talab etilgan, topshirmagan ishtirokchi esa chetlashtiriladi. Lot qiymati 519,5 mln soʻm boʻlgani uchun bu taxminan 208 mln soʻmni tashkil qiladi, bu esa avans (30 foiz) toʻlanishini hisobga olganda ham kichik yetkazib beruvchilar uchun yuqori boʻlishi mumkin. Talab sabablarini tekshirish tavsiya etiladi.",
+"explanation_en":"The document requires working capital (or a bank guarantee) equal to 40 percent of the object value, and bidders without it are excluded. On a 519.5 million UZS lot this is about 208 million UZS, which may be high for smaller suppliers even though a 30 percent advance is paid. The reason for the level should be checked.",
+"rewrite_uz":"Ishtirokchi shartnomaning bir oylik qiymatiga mutanosib aylanma mablagʻ mavjudligi haqida bank maʼlumotini yoki shartnoma bajarilishini taʼminlovchi bank kafilligini taqdim etadi.",
+"rewrite_en":"The bidder provides a bank statement of working capital proportionate to one month's contract value, or a bank guarantee securing performance."}
+],
+"documents_needed_uz": ["Aylanma mablagʻ mavjudligi haqida bank maʼlumoti yoki bank kafilligi","Muvofiqlik sertifikatlari","Sanitariya-epidemiologiya xulosasi va faoliyat guvohnomasi","Malakali oshpazlar (mutaxassislar) haqida maʼlumotnoma","Ishlatiladigan mahsulotlar sertifikatlari","Soliq qarzi yoʻqligi va bankrotlik jarayoni yoʻqligi haqida maʼlumot"]
+}

@@ -1,0 +1,151 @@
+{
+ "lot_id": 523908,
+ "backend": "in-session",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "sector": "it",
+ "subject_uz": "Masofaviy bank xizmati kanallarida onlayn aldovchilik va bot faolligining oldini oluvchi dasturiy yechim (litsenziya) xaridi",
+ "requirements": [
+  {
+   "kind": "technical",
+   "summary_uz": "Yechim veb va mobil kanallarda qurilmani aniqlashi, aldovchilik belgilarini topishi va xavfli sessiyalarni bloklashi kerak.",
+   "summary_en": "The solution must identify devices on web and mobile channels, detect scam indicators and block risky sessions.",
+   "quote": "SAT Tashkilotning raqamli resurslarida"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Xavflarga asoslangan autentifikatsiya qarori 1000 ms dan oshmaydigan vaqtda shakllantirilishi kerak.",
+   "summary_en": "The risk-based authentication verdict must be produced within 1000 ms.",
+   "quote": "verdiktni shakllantirish vaqti 1000 ms dan oslrmasligi kerak"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Tizim kamida ikkita maydonchada nosozlikka chidamli sxema bo'yicha ishlashi kerak.",
+   "summary_en": "The system must run in a fault-tolerant scheme across at least two sites.",
+   "quote": "bir nechta maydonchalar (kamida ikkita) doirasida nosozlikka clridamli sxema"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Haftasiga umumiy ruxsat etilgan to'xtab turish vaqti 1 soatdan oshmasligi kerak.",
+   "summary_en": "Total permitted downtime must not exceed 1 hour per week.",
+   "quote": "haftada umumiy ruxsat etilgan tooxtab turish vaqti 1 soatdan oshmasligi kerak"
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "Sessiya ma'lumotlari almashinuvi O'zbekiston hududida amalga oshirilishi kerak.",
+   "summary_en": "Exchange of session data must take place within Uzbekistan.",
+   "quote": "Sessiya ma'lumotlari'almashinuvi O'zbekiston Respublikasi hududida amalga oshirilishi kerak."
+  },
+  {
+   "kind": "technical",
+   "summary_uz": "SAT modullari ma'lumotlarni HTTPS (TLS va SSL) orqali uzatishi kerak.",
+   "summary_en": "SAT modules must transmit data over HTTPS (TLS and SSL).",
+   "quote": "SAT modullari ma'lumotlarini uzatish uchun HTTPS-ulanishdan (TLS va SSL)"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Ishtirokchi talab qilingan xususiyatli dasturiy ta'minotni ishlab chiqishi, o'rnatishi va sinov bilan topshirishi kerak (kafolat xati beriladi).",
+   "summary_en": "The bidder must develop, install and hand over the software with testing, supported by a guarantee letter.",
+   "quote": "Ishtirokchidan talab qilinadigan xususiyatlarga ega dasturiy ta'minotni va litsenziyaga muvofiq texnik yechimni ishlab chiqishi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Dasturiy ta'minot mualliflik huquqi yoki ishlab chiqaruvchining avtorizatsiya xati uchun 10 ball beriladi.",
+   "summary_en": "Copyright ownership or a manufacturer's authorisation letter scores 10 points.",
+   "quote": "Dasturiy ta'minot mualliflik huquqi yoki ishlab chiqaruvchidan antifrod tizimlari bo'yicha avtorizatsiya xati"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "O'zbekiston bank yoki to'lov tizimlarida antifrod tizimini joriy etganlik uchun 10 ball beriladi.",
+   "summary_en": "A previous anti-scam deployment in an Uzbek bank or payment system scores 10 points.",
+   "quote": "O'zbekiston Respublikasi bank tizimida yoki to’lov tizimlarida antifrod tizimini muvaffaqiyatli joriy etilganligi."
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Taklif etilayotgan dasturiy ta'minotning Forrester yoki Gartner reytingi uchun 10 ball beriladi.",
+   "summary_en": "A Forrester or Gartner rating for the proposed software scores 10 points.",
+   "quote": "taklif etilayotgan dasturiy ta'minot reyting mavjudligi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Texnik taklifda tizimda antivirus joriy etilganligi haqida kafolat xati uchun 10 ball beriladi.",
+   "summary_en": "A guarantee letter that antivirus is deployed in the system scores 10 points.",
+   "quote": "Texnik taklif bo'yicha tizimda antivirus joriy etilganlig. (kafolat xati)"
+  },
+  {
+   "kind": "other",
+   "summary_uz": "Boshlang'ich narx 1 857 000 000 so'm (QQS bilan), 300 000 jismoniy va 80 000 yuridik shaxs uchun, muddat 1 yil.",
+   "summary_en": "Start price is 1,857,000,000 UZS including VAT, covering 300,000 individuals and 80,000 legal entities, for 1 year.",
+   "quote": "1 857 000 000"
+  }
+ ],
+ "flags": [
+  {
+   "type": "other",
+   "severity": "medium",
+   "quote": "taklif etilayotgan dasturiy ta'minot reyting mavjudligi",
+   "explanation_uz": "Xalqaro reyting kompaniyalarida (Forrester yoki Gartner) reytingga ega bo'lish uchun 10 ball beriladi. Bunday reytingda faqat bir necha yirik xorijiy ishlab chiqaruvchilar bor, shuning uchun uni taqdim eta olmagan ishtirokchi 80 balldan 10 balidan ayriladi; o'tish bali 60 ekanini hisobga olsa, bu muhim.",
+   "explanation_en": "Holding a Forrester or Gartner rating scores 10 points. Only a few large foreign vendors appear in such ratings, so other bidders lose 10 of 80 points, which matters with a pass mark of 60.",
+   "rewrite_uz": "Taklif etilayotgan dasturiy ta'minotning mustaqil sinov, sertifikat yoki xalqaro reyting hisoboti mavjudligi (Gartner, Forrester yoki shunga teng) baholanadi; reytingga ega bo'lmagan mahsulotlar texnik moslik hujjatlari bilan baholanishi mumkin.",
+   "rewrite_en": "Availability of an independent test, certificate or international rating report (Gartner, Forrester or equivalent) is scored; products without a rating may be assessed on technical compliance documents.",
+   "first_pass_severity": "high",
+   "reviewed_by": "second pass"
+  },
+  {
+   "type": "dealer_letter",
+   "severity": "medium",
+   "quote": "Dasturiy ta'minot mualliflik huquqi yoki ishlab chiqaruvchidan antifrod tizimlari bo'yicha avtorizatsiya xati",
+   "explanation_uz": "Mualliflik huquqi yoki ishlab chiqaruvchining avtorizatsiya xati uchun 10 ball beriladi. Qonuniy yo'l bilan litsenziya sotib oladigan boshqa yetkazib beruvchi bu xatni olmasa, 10 balldan mahrum bo'ladi.",
+   "explanation_en": "Copyright ownership or a manufacturer authorisation letter scores 10 points. A supplier who legitimately resells a licence but has no such letter loses 10 points.",
+   "rewrite_uz": "Dasturiy ta'minotni taqdim etish huquqi ishlab chiqaruvchi avtorizatsiya xati yoki rasmiy distribyutor/hamkor guvohnomasi yoki litsenziya shartnomasi bilan tasdiqlanishi mumkin.",
+   "rewrite_en": "The right to supply the software may be confirmed by a manufacturer authorisation letter, an official distributor or partner certificate, or a licence agreement."
+  },
+  {
+   "type": "excessive_experience",
+   "severity": "medium",
+   "quote": "O'zbekiston Respublikasi bank tizimida yoki to’lov tizimlarida antifrod tizimini muvaffaqiyatli joriy etilganligi.",
+   "explanation_uz": "Faqat O'zbekiston bank yoki to'lov tizimlarida joriy etish tajribasi uchun 10 ball beriladi. Boshqa mamlakatlarda xuddi shunday loyihalarni bajargan ishtirokchilar bu ballni ololmaydi.",
+   "explanation_en": "Ten points go only for deployments in Uzbek banks or payment systems. Bidders with comparable projects in other countries cannot earn them.",
+   "rewrite_uz": "Bank yoki to'lov tizimlarida antifrod yechimini muvaffaqiyatli joriy etish tajribasi (mamlakatdan qat'i nazar) baholanadi.",
+   "rewrite_en": "Experience of successfully deploying an anti-scam solution in banks or payment systems (in any country) is scored."
+  },
+  {
+   "type": "irrelevant_requirement",
+   "severity": "low",
+   "quote": "Ishtirokchi korxonasining direktor va ta’sischilari to‘g‘risida ma’lumot",
+   "explanation_uz": "Direktor va ta'sischilar haqidagi ma'lumot uchun 10 ball beriladi, lekin bu dasturiy yechimning sifatiga aloqador emas. Mezon umumiy shablon matniga (texnik topshiriqqa muvofiqlik) tegishli bo'lib, ball qanday berilishi aniq ko'rsatilmagan.",
+   "explanation_en": "Information about the director and founders scores 10 points, yet it does not relate to the quality of the software. The criterion sits under standard template wording about technical conformity and no scoring rule is given.",
+   "rewrite_uz": "Ishtirokchi, direktor va ta'sischilar haqidagi ma'lumot ball berilmasdan, faqat talab qilinadigan hujjat sifatida (bor/yo'q) so'ralsin.",
+   "rewrite_en": "Information about the bidder, director and founders is requested only as a pass/fail document and carries no points.",
+   "first_pass_severity": "medium",
+   "reviewed_by": "second pass"
+  },
+  {
+   "type": "excessive_financial",
+   "severity": "low",
+   "quote": "Asosiy hisobvaraqlar harakatda ekanligi, tanlash e’lon qilingan sanadan oxirgi 6 oylik bank aylanmasi",
+   "explanation_uz": "Oxirgi 6 oylik bank aylanmasi va bank ma'lumotlari uchun 10 ball beriladi, soliq organi tasdiqlagan yillik balans uchun yana 10 ball. Aylanma yoki qarzdorlik uchun ballar chegarasi ko'rsatilmagan, shuning uchun yangi yoki kichik ishtirokchilar baholashda noaniq ustunlikka ega bo'lmasligi mumkin.",
+   "explanation_en": "Six months of bank turnover and bank data score 10 points, and a tax-approved annual balance sheet scores another 10. No scoring thresholds are given, so newer or smaller bidders may be scored in an unpredictable way.",
+   "rewrite_uz": "Bank ma'lumotnomasi va yillik balans ball berilmasdan, bajarish uchun yetarli moliyaviy imkoniyat mavjudligini tasdiqlovchi hujjat sifatida (mos/mos emas) talab qilinsin.",
+   "rewrite_en": "The bank statement and annual balance sheet are required as pass/fail evidence of sufficient financial capacity and carry no points."
+  }
+ ],
+ "documents_needed_uz": [
+  "Faoliyat yurituvchi bankdan ma'lumot (6 oylik aylanma, Kartoteka-2, hisobvaraq ta'qiqi, muddati o'tgan qarz)",
+  "Soliq idorasi tasdiqlagan so'nggi yillik moliyaviy hisobot (balans)",
+  "Ishtirokchi direktori va ta'sischilari haqida ma'lumot",
+  "Texnik taklif bo'yicha antivirus joriy etilganligi haqida kafolat xati",
+  "Dasturiy ta'minot mualliflik huquqi yoki ishlab chiqaruvchining avtorizatsiya xati",
+  "Dasturiy ta'minotni ishlab chiqish, o'rnatish va sinovdan o'tkazish bo'yicha kafolat xati",
+  "O'zbekiston bank yoki to'lov tizimida antifrod tizimini joriy etganlik haqida tasdiq",
+  "Forrester yoki Gartner reytingi to'g'risida ma'lumot",
+  "Insofsiz ijrochilar reyestrida yo'qligi bo'yicha tasdiq",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumot",
+  "Qoidabuzarliklarga yo'l qo'ymaslik bo'yicha ariza"
+ ],
+ "first_pass_model": "claude-sonnet-5-5",
+ "second_pass": {
+  "model": "claude-fable-5-2",
+  "backend": "in-session",
+  "note": "analyst-rating criterion lowered from high to medium: 10 of 80 points, pass mark 60; director-information criterion lowered to low: template wording, any bidder can supply it"
+ }
+}

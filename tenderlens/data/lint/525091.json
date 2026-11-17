@@ -1,0 +1,121 @@
+{
+  "lot_id": 525091,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Labirint halqasi teshigining o'rtacha diametri va shaklini nazorat qilish uchun o'lchov asbobi (1 dona), o'rnatish va o'qitish bilan",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Diametrni o'lchashning ruxsat etilgan absolyut xatoligi ± 0,002 mm dan oshmasligi kerak.",
+      "summary_en": "The permitted absolute error of diameter measurement must not exceed ± 0.002 mm.",
+      "quote": "Предел допускаемой абсолютной погрешности измерения диаметра, мм ± 0,002"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Asbob 2026-yildan oldin ishlab chiqarilmagan, yangi va ishlatilmagan bo'lishi kerak.",
+      "summary_en": "The instrument must be new, unused and made no earlier than 2026.",
+      "quote": "Прибор должно быть изготовлено не ранее 2026 года. Весь комплекс оборудований и все его узлы, детали должны быть новыми"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ma'lumot uzatish uchun Ethernet (RJ45) yoki unga teng interfeys bo'lishi kerak.",
+      "summary_en": "An Ethernet (RJ45) or equivalent data interface is required.",
+      "quote": "интерфейс Ethernet (RJ45) или эквивалент для передачи данных"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Komplektga ehtiyot qismlar va tayyorgarlik to'plami (ZIP) kiritilishi kerak.",
+      "summary_en": "The delivery set must include a spare parts and accessories kit.",
+      "quote": "Комплект ЗИП (запасных частей и принадлежностей) согласно ведомости."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Rezidentlar uchun yetkazish muddati oldindan to'lov olingandan keyin 90 kalendar kundan oshmasligi kerak.",
+      "summary_en": "For residents delivery must take place within 90 calendar days of receiving the advance payment.",
+      "quote": "не более 90 календарных дней с момента получения предоплаты за оборудование."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Montaj, ishga tushirish-sozlash, kalibrlash va xodimlarni o'qitish buyurtmachi hududida ijrochi tomonidan bajarilishi kerak.",
+      "summary_en": "Installation, commissioning, calibration and staff training must be done by the contractor at the customer's site.",
+      "quote": "Монтаж, пуско-наладочные работы (ПНР), калибровка, ввод оборудования в эксплуатацию и обучение персонала Заказчика должны выполняться Исполнителем"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Kamida 5 nafar buyurtmachi mutaxassisi o'qitilishi va sertifikat berilishi kerak.",
+      "summary_en": "At least 5 customer specialists must be trained and receive certificates.",
+      "quote": "Количество обучаемых — не менее 5 специалистов Заказчика."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kafolat muddati foydalanishga topshirilgandan boshlab kamida 12 oy.",
+      "summary_en": "Warranty of at least 12 months from commissioning.",
+      "quote": "Гарантийный срок и обязательства – не менее 12 месяцев с момента ввода в эксплуатацию оборудования."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kafolat chaqiruviga javob 48 soatdan oshmasligi kerak.",
+      "summary_en": "Response to a warranty call must be within 48 hours.",
+      "quote": "Реакция на гарантийный вызов – не более 48 часов."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Rezidentlarga shartnomadan keyin 15 foiz avans, 80 foiz o'rnatish va topshirishdan keyin, qolgan 5 foiz o'qitishdan keyin to'lanadi.",
+      "summary_en": "Residents receive a 15 percent advance, 80 percent after installation and handover and the last 5 percent after training.",
+      "quote": "Шартнома тузилгандан сўнг шартнома қийматининг 15 фоизи миқдорида аванс тўлови амалга оширилади."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishlab chiqaruvchi zavoddan ishonchnoma yoki dilerlik kelishuvi (5-shakl) majburiy; bo'lmasa ishtirokchi chetlashtiriladi.",
+      "summary_en": "A power of attorney or dealer agreement from the manufacturer (Form 5) is mandatory; without it the bidder is disqualified.",
+      "quote": "Ishlab chiqaruvchi zavod tomonidan berilgan ishonchnoma yoki dilerlik kelishuvi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Yetkazib berish tajribasining har bir yili kamida bitta shartnoma bilan tasdiqlanishi kerak (9-shakl).",
+      "summary_en": "Each year of delivery experience must be supported by at least one contract (Form 9).",
+      "quote": "Каждый год опыта необходимо потвердить как минимум одним контрактом и/или подтверждающим документом."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kompaniyaning moliyaviy holati 2023-2025-yillar bo'yicha 3-shakl asosida taqdim etilishi kerak.",
+      "summary_en": "The company's financial position for 2023-2025 must be provided on Form 3.",
+      "quote": "Участник должен предоставить информацию о финансовом положении компании согласно форме №3."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Minimal o'tish bali 10 ball (eng ko'pi 15).",
+      "summary_en": "The minimum pass score is 10 out of a maximum 15.",
+      "quote": "Tanlashdan o‘tish uchun minimal o‘tish bali — 10 ball."
+    }
+  ],
+  "flags": [
+    {
+      "type": "dealer_letter",
+      "severity": "medium",
+      "quote": "Ishlab chiqaruvchi zavod tomonidan berilgan ishonchnoma yoki dilerlik kelishuvi",
+      "explanation_uz": "Ishlab chiqaruvchidan ishonchnoma yoki dilerlik kelishuvi majburiy qilib qo'yilgan va u bo'lmasa ishtirokchi chetlashtiriladi. Bu talab, hatto tovarni boshqa yo'l bilan ishonchli yetkaza oladigan yetkazib beruvchilarni ham qatnashishdan chetlatishi mumkin. O'lchov asbobining o'ziga xosligi sababli talab o'rinli bo'lishi mumkin, shuning uchun buyurtmachidan sababini so'rash kerak.",
+      "explanation_en": "A manufacturer's power of attorney or dealer agreement is mandatory and its absence disqualifies the bidder. This may shut out suppliers who could deliver the instrument reliably by other means. Given the specialised nature of the instrument a reason may exist, so the customer should be asked.",
+      "rewrite_uz": "Ishtirokchi ishlab chiqaruvchidan ishonchnoma yoki dilerlik kelishuvini yoki tovarni yetkazib berish va kafolat xizmatini ta'minlashga qodirligini tasdiqlovchi boshqa hujjatni (masalan, ishlab chiqaruvchining tijorat taklifi yoki yetkazib berish shartnomasi) taqdim etishi mumkin; bunday hujjat bo'lmasligi o'z-o'zidan chetlashtirish asosi bo'lmaydi.",
+      "rewrite_en": "The bidder may provide a manufacturer's power of attorney or dealer agreement, or another document showing it can supply the instrument and provide warranty service (for example the manufacturer's commercial offer or a supply contract); the lack of such a letter alone is not a ground for disqualification."
+    }
+  ],
+  "documents_needed_uz": [
+    "Kafolat xati (1-shakl) va zarur resurslar mavjudligini tasdiqlovchi hujjatlar",
+    "Ishtirokchi haqida umumiy ma'lumot, tuzuvchilar va benefisiarlar (2-shakl)",
+    "Moliyaviy holat to'g'risida ma'lumot, 2023-2025-yillar (3-shakl)",
+    "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ariza (4-shakl)",
+    "Ishlab chiqaruvchidan ishonchnoma yoki dilerlik kelishuvi (5-shakl)",
+    "Texnik taklif va qiyosiy jadval (6-shakl)",
+    "Yetkazib berish miqdori, komplektatsiyasi, joyi va muddati bo'yicha shakl (7-shakl)",
+    "Texnik topshiriq talablariga muvofiqlik haqida kafolat xati (8-shakl)",
+    "Yetkazib berish tajribasi to'g'risida ma'lumot va shartnomalar nusxalari (9-shakl)",
+    "Texnik pasport, katalog yoki ishlab chiqaruvchining boshqa texnik hujjati",
+    "Muvofiqlik va/yoki sifat sertifikati yoki unga teng hujjat",
+    "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+    "Bankrotlik jarayoni yo'qligini tasdiqlovchi hujjat",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi nusxasi",
+    "Majburiy ijro byurosida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot"
+  ]
+}

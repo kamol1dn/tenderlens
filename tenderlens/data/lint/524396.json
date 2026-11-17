@@ -1,0 +1,73 @@
+{
+  "lot_id": 524396,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Ikkita yo'lovchi liftini (yuk ko'tarish 400 kg) ta'mirlash, sozlash va sinash xizmatlari",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlarni lift jihozlarini ta'mirlash va xizmat ko'rsatish huquqiga ega ixtisoslashgan tashkilot bajarishi kerak.",
+      "summary_en": "Works must be done by a specialised organisation entitled to service and repair lift equipment.",
+      "quote": "Работы должны выполняться специализированной организацией, имеющей право на"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Nosozlik qaydnomalari bo'yicha uzellar, elektr jihozlari va boshqaruv shkafini ta'mirlash yoki almashtirish.",
+      "summary_en": "Repair or replacement of components, electrical equipment and control cabinet per the defect lists.",
+      "quote": "Ремонт или замена изношенных и повреждённых узлов лифтов в соответствии с дефектными"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ishga tushirish-sozlash va qoidalarga muvofiq sinovlar o'tkazilishi, lift pasportiga yozuv kiritilishi kerak.",
+      "summary_en": "Commissioning, rule-based tests and a passport entry for each lift are required.",
+      "quote": "Проведение испытаний согласно «Правила устройства и безопасной эксплуатации лифтов»"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Barcha materiallar va ehtiyot qismlar yangi, yaroqli va jihoz xususiyatlariga mos bo'lishi kerak.",
+      "summary_en": "All materials and spare parts must be new, serviceable and compatible with the equipment.",
+      "quote": "Все применяемые материалы, запасные части и комплектующие должны быть новыми,"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishlar malakali, tegishli ruxsatnomalarga ega xodimlar tomonidan bajarilishi kerak.",
+      "summary_en": "Work must be done by qualified staff holding the relevant permits.",
+      "quote": "Выполнение работ квалифицированным персоналом, имеющим соответствующие допуски."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Ishlar uchun kafolat muddati kamida 12 oy, shu davrda texnik xizmat va ta'mirlash ham kiradi.",
+      "summary_en": "Warranty on the work is at least 12 months, including maintenance and repair during that period.",
+      "quote": "Гарантийный срок на выполненные работы и заменённые компоненты составляет не менее 12"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ish muddati shartnomada belgilanadi va obyekt pudratchiga topshirilgan sanadan hisoblanadi.",
+      "summary_en": "The completion term is set by the contract and counted from handing the site to the contractor.",
+      "quote": "Срок выполнения работ определяется договором и исчисляется с даты передачи объекта"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash faqat narx bo'yicha (100 foiz); texnik topshiriq bo'limlariga muvofiqlik bo'yicha o'tish bali 11.",
+      "summary_en": "Scoring is by price only (100 percent); the pass score on conformity to specification sections is 11.",
+      "quote": "Соответствие требованиям Технического задания раздела 3: наличие разрешительных документов для выполнения услуг"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Pudratchi dalolatnomalar, nosozlik qaydnomasi, sinov bayonnomalari va kafolatni taqdim etadi.",
+      "summary_en": "The contractor supplies completion acts, a defect list, test protocols and a warranty.",
+      "quote": "акты выполненных работ по двум лифтам;"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Lift jihozlarini ta'mirlash huquqini beruvchi ruxsat hujjatlari",
+    "Lift ta'mirlash bo'yicha mutaxassislar ro'yxati va malaka hujjatlari",
+    "Lift ta'mirlash bo'yicha ma'lumotlar (tajriba)",
+    "Davlat ro'yxatidan o'tganlik to'g'risidagi guvohnoma",
+    "Manfaatlar to'qnashuvi va affillanganlik yo'qligi haqida ma'lumot",
+    "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+    "Majburiy ijro byurosi bazasidan ma'lumot"
+  ]
+}

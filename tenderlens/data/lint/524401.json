@@ -1,0 +1,117 @@
+{
+ "lot_id": 524401,
+ "backend": "in-session",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "sector": "construction",
+ "subject_uz": "Toshkent shahri Bektemir tumanida 120 o'rinli maktabgacha ta'lim tashkiloti (MTT) binosini qurish",
+ "requirements": [
+  {
+   "kind": "qualification",
+   "summary_uz": "ISO 9001 sertifikatiga ega bo'lish va uni ilova qilish ball beradi (ISO 14001 va ISO 45001 ham shunday).",
+   "summary_en": "Holding and attaching an ISO 9001 certificate earns points (ISO 14001 and ISO 45001 likewise).",
+   "quote": "Xalqaro ISO 9001 sertifikatiga egaligi (Ilova qilinadi)"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Oxirgi 5 yildagi o'rtacha yillik aylanma 1 million AQSh dollari ekvivalentida bo'lishi baholanadi.",
+   "summary_en": "Average annual turnover over the last 5 years of USD 1 million equivalent is scored.",
+   "quote": "Oxirgi 5 yildagi o‘rtacha yillik aylanmasi 1 million AQSh dollari ekvivalentida"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Bankdan aylanma mablag'lar haqida ma'lumotnoma kerak; mablag' xarid qiymatining kamida 20 foiziga teng bo'lishi lozim.",
+   "summary_en": "A bank certificate of working funds is needed; the amount must be at least 20% of the procurement value.",
+   "quote": "mablag‘ miqdori xarid predmeti qiymatining kamida 20% teng bo‘lishi zarur"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Oxirgi 3 yilda bajarilgan obyektlar haqida ma'lumot davlat qabul hay'ati dalolatnomalari bilan taqdim etiladi.",
+   "summary_en": "Information on objects completed in the last 3 years is submitted with state acceptance commission acts.",
+   "quote": "Namuna jadvalga asosan oxirgi 3 yilda bajargan obyektlari to‘g‘risida ma’lumot"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Maydoni 5000 m2 va CAPEX 1 mln dollar bo'lgan 5 tadan ko'p obyekt tajribasi ball beradi (kafolat xati bilan).",
+   "summary_en": "Experience on more than 5 objects of 5,000 sq m and USD 1 million CAPEX earns points (with a guarantee letter).",
+   "quote": "Oxirgi 15 yilda 5 tadan ko‘p, maydoni 5000 m2 bo‘lgan, kapital xarajatlari (CAPEX) 1,0 mln. AQSh dollari ekvivalentida bo‘lgan"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Oxirgi 10 yilda 5 ta va undan ko'p obyektda qurilish-ta'mirlash ishlari (isitish, izolyatsiya, quyosh paneli) baholanadi.",
+   "summary_en": "Building and repair work on 5 or more objects in the last 10 years (heating, insulation, solar panels) is scored.",
+   "quote": "5 ta va undan ko‘p obyektlarda qurilish-taʼmirlash ishlarini bajarganligi"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Qurilish-pudrat tashkilotlari elektron reytingi: CCC va undan yuqori 10 ball.",
+   "summary_en": "Electronic contractor rating: CCC or higher earns 10 points.",
+   "quote": "Reyting darajasi: CCC va undan yuqori bo‘lsa – 10 ball"
+  },
+  {
+   "kind": "qualification",
+   "summary_uz": "Direktor kamida 5 yillik tajribali oliy ma'lumotli muhandis-quruvchi bo'lishi kerak; boshqa asosiy xodimlar ham ko'rsatiladi.",
+   "summary_en": "The director must be a higher-educated construction engineer with at least 5 years' experience; other key staff are also listed.",
+   "quote": "Direktor (Ish tajribasi 5 yil yoki undan yuqori bo‘lgan oliy ma’lumotga ega muhandis quruvchi)"
+  },
+  {
+   "kind": "evaluation",
+   "summary_uz": "Energiya samaradorligi bo'yicha milliy sertifikatga ega xodim ilova qilinadi.",
+   "summary_en": "An employee holding a national energy-efficiency certificate is to be attached.",
+   "quote": "Energiya samaradorligi bo‘yicha sertifikati (milliy) mavjud hodim (Ilova qilinadi)"
+  },
+  {
+   "kind": "other",
+   "summary_uz": "Qurilish obyektini ko'zdan kechirganlik haqida ma'lumotnoma (rasmlar bilan) taqdim etiladi.",
+   "summary_en": "A site-inspection certificate with photos of the object is submitted.",
+   "quote": "Qurilish (ta’mirlash) obyektini ko‘zdan kechirganlik to‘g‘risida ma’lumotnoma"
+  },
+  {
+   "kind": "delivery",
+   "summary_uz": "Ishlar shartnoma imzolangan kundan boshlab 210 kunda bajariladi.",
+   "summary_en": "Works must be completed within 210 days of contract signature.",
+   "quote": "Shartnoma imzolangan kundan boshlab 210 kun."
+  },
+  {
+   "kind": "payment",
+   "summary_uz": "Moliyalashtirish: 30 foiz avans, 65 foiz joriy moliyalashtirish, 5 foiz kafolat muddatidan keyin.",
+   "summary_en": "Financing: 30% advance, 65% progress payments, 5% after the warranty period.",
+   "quote": "65 % hajmda joriy moliyalashtirish"
+  },
+  {
+   "kind": "other",
+   "summary_uz": "Qurilish ishlarining kamida 50 foizi ishtirokchining o'z kuchi bilan bajarilishi kerak.",
+   "summary_en": "At least 50% of the construction work must be performed with the bidder's own resources.",
+   "quote": "qurilish ishlarining kamida 50 %ini oʻz kuchimiz bilan"
+  }
+ ],
+ "flags": [
+  {
+   "type": "excessive_experience",
+   "severity": "low",
+   "quote": "Oxirgi 15 yilda 5 tadan ko‘p, maydoni 5000 m2 bo‘lgan, kapital xarajatlari (CAPEX) 1,0 mln. AQSh dollari ekvivalentida bo‘lgan",
+   "explanation_uz": "Tajriba mezonining bir bandi maydoni 5000 m2 va undan katta, qiymati kamida 1 mln AQSh dollari bo'lgan obyektlarni bajarganlik uchun 5 ball, kichikroq obyektlar uchun 1 ball beradi. Quriladigan bog'cha binolarining umumiy maydoni taxminan 1 274 m2 (1 116 m2 va 158 m2), ya'ni so'ralgan obyektlardan to'rt baravar kichik. Farq 85 balldan 4 ballni tashkil etadi, shu sababli ta'siri cheklangan; talab lot hajmiga mosligini aniqlashtirish mumkin.",
+   "explanation_en": "One part of the experience criterion gives 5 points for completed objects of 5,000 sq m or more costing at least USD 1 million, and 1 point for smaller ones. The kindergarten buildings to be built total about 1,274 sq m (1,116 and 158), a quarter of that size. The gap is 4 points out of 85, so the effect is limited; it is worth asking whether the threshold fits the lot.",
+   "rewrite_uz": "Oxirgi 10 yilda umumiy maydoni kamida 1000 m2 bo'lgan, ijtimoiy yoki fuqarolik maqsadidagi kamida 2 ta obyektni qurish yoki ta'mirlash tajribasi (davlat qabul hay'ati dalolatnomalari bilan) ball beradi.",
+   "rewrite_en": "Experience building or renovating at least 2 social or civil objects of at least 1,000 sq m each in the last 10 years (with state acceptance acts) earns points.",
+   "first_pass_severity": "medium",
+   "reviewed_by": "second pass"
+  }
+ ],
+ "documents_needed_uz": [
+  "1-shakl: ishtirokchi haqida umumiy ma'lumot",
+  "ISO 9001, ISO 14001, ISO 45001 sertifikatlari",
+  "2-shakl: oxirgi 5 yillik moliyaviy ko'rsatkichlar, hisobot yoki audit xulosasi",
+  "Xizmat ko'rsatuvchi bankdan aylanma mablag'lar haqida ma'lumotnoma",
+  "3-shakl: bajarilgan obyektlar, davlat qabul hay'ati dalolatnomalari, kafolat xatlari",
+  "4-shakl: reyting.mc.uz saytidan reyting ma'lumotnomasi",
+  "5-shakl: xodimlar, elektron mehnat daftarchalari va diplom nusxalari, energiya samaradorligi sertifikati",
+  "6-shakl: obyektni ko'zdan kechirganlik haqida ma'lumotnoma (rasmlar bilan)",
+  "Soliq qarzi yo'qligi va insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumotlar"
+ ],
+ "first_pass_model": "claude-sonnet-5-5",
+ "second_pass": {
+  "model": "claude-fable-5-2",
+  "backend": "in-session",
+  "note": "severity lowered from medium to low: only 4 of 85 points depend on the threshold, and the lot itself is large (start price 9.68 bn UZS)"
+ }
+}

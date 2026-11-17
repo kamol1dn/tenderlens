@@ -1,0 +1,96 @@
+{
+  "lot_id": 525364,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "oilakredit.uz platformasi orqali beriladigan kreditlarning qaytmaslik xatarini sug'urtalash xizmati",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Sug'urta faoliyati uchun 14-klass bo'yicha litsenziya talab etiladi.",
+      "summary_en": "A class-14 insurance licence is required.",
+      "quote": "Ishtirokchi sug‘urta faoliyatini amalga oshirish uchun 14-klass bo‘yicha litsenziyaga ega ekanligi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kredit qaytmasligi xatarini sug'urtalash bo'yicha ish tajribasi ma'lumoti va kamida bitta tasdiqlovchi hujjat.",
+      "summary_en": "Information on credit-default insurance experience with supporting documents.",
+      "quote": "Ishtirokchining kredit qaytmasligi xatarini sug‘urtalash bo‘yicha ish tajribasi to‘g‘risida ma’lumot."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "So'nggi hisobot yili buxgalteriya hisoboti yoki auditorlik xulosasi.",
+      "summary_en": "Latest-year financial statements or an audit opinion.",
+      "quote": "So‘ngi hisobot yili uchun buxgalteriya hisoboti, Soliq organi tomonidan qabul qilingan QR-kodli ma’lumotnoma"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Birinchi sug'urta hodisasi: to'lovlar 60 kundan ortiq kechiksa.",
+      "summary_en": "First insured event: payments overdue by more than 60 days.",
+      "quote": "Birinchi sug‘urta hodisasi — to‘lov grafigi bo‘yicha to‘lovlar 60 kundan ortiq kechikishi."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Sug'urta polisi 100 mlrd so'm (rejalashtirilgan 80 mlrd kreditning 125 foizi) uchun rasmiylashtiriladi.",
+      "summary_en": "Policies totalling 100 billion UZS (125 percent of planned 80 billion UZS in loans).",
+      "quote": "Bunda, ajratilishi rejalashtirilgan kreditlar summasining 125 foizi miqdorida, ya’ni 100 000 000 000 (bir yuz milliard) so‘mlik sug‘urta polisi rasmiylashtirilishi rejalashtirilgan."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Sug'urta mukofoti E-polis rasmiylashtirilgandan keyin 5 bank ish kuni ichida to'lanadi.",
+      "summary_en": "Premium is paid within 5 banking days after the e-policy is issued.",
+      "quote": "Sug‘urta mukofoti E-polis elektron shaklda rasmiylashtirilgan kundan boshlab 5 (besh) bank ish kuni ichida"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Sug'urtalovchi hodisa dalolatnomasini 10 kalendar kun ichida tuzishi kerak.",
+      "summary_en": "The insurer must draw up the event report within 10 calendar days.",
+      "quote": "Sug‘urtalovchi hujjatlar asosida 10 (o‘n) kalendar kun ichida sug‘urta hodisasi dalolatnomasini tuzadi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "G'olib eng past narx usulida aniqlanadi; talablar \"ha/yo'q\" tarzida tekshiriladi.",
+      "summary_en": "Winner is the lowest price among bids that meet pass/fail requirements.",
+      "quote": "Takliflar 1-ilovada keltirilgan mezonlarga muvofiq hamda ishtirokchining taklifiga asosan bir bosqichda eng past narx usulida baholanadi."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklif ta'minoti 3 foiz zakalat (boshlang'ich narxning 3 foizi, 210 mln so'm).",
+      "summary_en": "Bid security of 3 percent (210 million UZS on the 7 billion UZS price).",
+      "quote": "etender.uzex.uz platformasiga e’londa belgilangan 3% miqdorda zakalat ko‘rinishida o‘z taklifi ta’minotining kafolatini taqdim etadi."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklifning amal qilish muddati kamida 20 ish kuni; takliflar e'londan 5 ish kuni ichida qabul qilinadi.",
+      "summary_en": "Bid validity of at least 20 working days; bids are accepted within 5 working days of announcement.",
+      "quote": "Taklifning amal qilish muddati takliflarni qabul qilinishi tugagan kundan boshlab kamida 20 ish kuni bo‘lishi kerak."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Xarid hujjatlarida belgilangan reyting, qayta sug‘urtalash, mustaqillik va boshqa qo‘shimcha mezonlar tasdiqlovchi hujjatlar bilan taqdim etiladi.",
+      "explanation_uz": "Texnik topshiriqda sug'urtalovchidan reyting, qayta sug'urtalash va mustaqillik bo'yicha \"qo'shimcha mezonlar\" so'raladi, lekin 1-ilovadagi 12 ta talab ichida ular aniqlanmagan. Ishtirokchi qanday reyting yoki qayta sug'urtalash darajasi kerakligini oldindan bilmaydi va talab keyin belgilanishi mumkin. Bir savol bilan aniqlashtirish kifoya.",
+      "explanation_en": "The specification asks the insurer for rating, reinsurance, independence and 'other additional criteria', but none of these is defined among the 12 requirements in Annex 1. A bidder cannot know what rating or reinsurance level is needed. One clarifying question should resolve it.",
+      "rewrite_uz": "Sug'urtalovchi kamida ... reyting (agentlik va daraja ko'rsatiladi), qayta sug'urtalash shartnomasi mavjudligi va ... minimal kapitalga ega bo'lishi kerak; aniq talablar 1-ilovada keltiriladi.",
+      "rewrite_en": "The insurer must hold at least a ... rating (agency and level stated), have a reinsurance arrangement and ... minimum capital; exact requirements are listed in Annex 1."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik to'g'risidagi hujjat va ustav yoki ta'sis hujjatlari nusxasi",
+    "Kontragent egaligi tuzilmasi ma'lumotnomasi (2-shakl)",
+    "Ishtirokchining kafolat xati (1-shakl)",
+    "Halollik va manfaatlar to'qnashuviga yo'l qo'ymaslik to'g'risida ariza (3-shakl)",
+    "Kredit qaytmasligi xatarini sug'urtalash bo'yicha ish tajribasi to'g'risida ma'lumot (4-shakl) va shartnoma, hisob-faktura yoki dalolatnoma nusxalari",
+    "So'nggi hisobot yili buxgalteriya balansi, moliyaviy natijalar hisoboti va QR-kodli ma'lumotnoma yoki auditorlik xulosasi",
+    "Soliq bo'yicha qarzdorlik yo'qligi to'g'risida ma'lumotnoma",
+    "Bankrotlik tartib-taomillari yo'qligi to'g'risida QR-kodli ma'lumotnoma",
+    "Insofsiz ijrochilar reyestridan skrinshot",
+    "Majburiy ijro byurosi bazalaridan nusxa (skrinshot)",
+    "Resurslar mavjudligi to'g'risida kafolat xati (5-shakl)",
+    "Texnik topshiriqqa to'liq muvofiqlik to'g'risida kafolat xati (6-shakl)",
+    "Sug'urta faoliyati uchun 14-klass litsenziyasi nusxasi",
+    "Reyting, qayta sug'urtalash va mustaqillikni tasdiqlovchi hujjatlar"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+"lot_id": 524384, "backend": "in-session", "model": "claude-sonnet-5-5",
+"sector": "other",
+"subject_uz": "30-sonli umumta'lim maktabi uchun isitish qozonini (koʻmir va gaz) yetkazib berish va oʻrnatish, 2 toʻplam",
+"requirements": [
+{"kind":"technical","summary_uz":"Ikki toʻplam isitish qozoni (koʻmir va gaz) yetkazib beriladi, birligi 160 000 000 soʻm.","summary_en":"Two sets of heating boilers (coal and gas) at 160,000,000 UZS each, 320,000,000 UZS in total.","quote":"Isitish qozoni | 2 | To'plam | (ko'mir va gaz) | 160000000 | 320000000"},
+{"kind":"delivery","summary_uz":"Yetkazib berish muddati 30 kun.","summary_en":"Delivery period is 30 days.","quote":"Byurtmachi tomonidan belgilangan ishlarni bajarish (maxsulot yetkazib berish) muddati | 30 kun"},
+{"kind":"payment","summary_uz":"Shartnoma qiymatining 30 foizi avans sifatida toʻlanadi.","summary_en":"A 30 percent advance of the contract value is paid.","quote":"shartnoma buyicha ishlar umumiy kiymatining 30% mikdorida avans utkazadi."},
+{"kind":"qualification","summary_uz":"Ishtirokchida texnik, moliyaviy, moddiy va kadrlar resurslari boʻlishi, soliq qarzi va bankrotlik boʻlmasligi kerak.","summary_en":"Bidder must have technical, financial, material and staff resources, no tax debt and no bankruptcy proceedings.","quote":"Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy, kadlar resurslarining xamda boshka resurslarning mavjudligi;"},
+{"kind":"qualification","summary_uz":"Ishtirokchi mashina, mexanizm va asbob-uskunalarga ega boʻlishi talab etiladi.","summary_en":"Bidder's machinery, mechanisms and equipment are required.","quote":"Talab etiladi."},
+{"kind":"evaluation","summary_uz":"Qozonni oʻrnatish va montaj ishlari uchun 30 ball beriladi (eng yuqori ball).","summary_en":"Installation and mounting work carries 30 points, the highest-weighted criterion.","quote":"ISITISH QOZONINI YETKAZIB BERISH VA ORNATISH ISHLARI, DEMONTASH ISHLARI"},
+{"kind":"evaluation","summary_uz":"Kafolatdan keyingi xizmat: 5 yil davomida muammo chiqsa 3 ish kuni ichida bartaraf etish yozma kafolati.","summary_en":"Post-warranty service: written guarantee to fix any problem within 3 working days over 5 years.","quote":"ISITISH QOZONINI 5 YIL MUDDAT DAVOMIDA BIROR BIR MUOMMOSI CHIQSA 3 KUN ISH KUNIDA KELIB BARTARAF ETISH UCHUN KAFOLAT BERISHI"},
+{"kind":"evaluation","summary_uz":"Qozon quvvati boʻyicha rasm ilova qilinishi kerak.","summary_en":"A picture/document of the boiler capacity must be attached.","quote":"ISITISH QOZONI BO`YICHA QUVVATI RASMI ILOVA QILINISHI"},
+{"kind":"other","summary_uz":"Taklif amal qilish muddati ochilgan kundan 5 kun.","summary_en":"Bid validity is 5 days from opening.","quote":"Tanlov takliflari ochilgan kundan boshlab 5 kun"}
+],
+"flags": [],
+"documents_needed_uz": ["Qozon quvvatini koʻrsatuvchi rasm/hujjat","Texnik hujjatlar va sertifikatlar","5 yillik xizmat koʻrsatish boʻyicha yozma kafolat xati","Mashina va asbob-uskunalar boʻyicha maʼlumot","Soliq qarzi yoʻqligi va bankrotlik jarayoni yoʻqligi haqida maʼlumot"]
+}

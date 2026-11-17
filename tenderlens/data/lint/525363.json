@@ -1,0 +1,105 @@
+{
+  "lot_id": 525363,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "health",
+  "subject_uz": "Tibbiyot muassasasida stomatologiya xizmatini autsorsing asosida tashkil etish",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "Taklif etilgan tushum ulushi asosiy mezon: Buyurtmachiga tushadigan tushumning eng kam ulushi kafolatlangan paketda 10 foiz, pulli xizmatlarda 20 foiz.",
+      "summary_en": "The share of revenue passed to the customer is the main criterion; minimums are 10% (guaranteed package) and 20% (paid services).",
+      "quote": "Buyurtmachiga tushadigan tushumlarning eng kam miqdori quyidagi ulushlarda taqsimlanadi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Davlat ro'yxatidan o'tganlik guvohnomasi va tibbiy faoliyat uchun litsenziya taqdim etiladi.",
+      "summary_en": "State registration certificate and a licence for medical activity must be submitted.",
+      "quote": "Ташкилотнинг давлат руйхатидан утказилганлиги тугрисидаги гувох,нома ва тиббий фаолият учун лицензия"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Tanlovda faqat O'zbekiston Respublikasi rezidenti bo'lgan yuridik shaxslar ishtirok etadi.",
+      "summary_en": "Only legal entities resident in Uzbekistan may participate.",
+      "quote": "Танлашда Узбекистон Республикаси резидента хисобланган юридик шахслар иштирок этади."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Stomatologik xizmat faqat autsorserning oʻzi tomonidan koʻrsatiladi, subpudratchi jalb qilish taqiqlanadi.",
+      "summary_en": "Services must be provided by the outsourcer alone; subcontractors are not allowed.",
+      "quote": "Бунда, субпудратчиларни жалб килинишига йул куйилмайди."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Autsorser stomatologiya xonasini jihozlash tabeli bo'yicha zarur bo'lgan boshqa tibbiy jihozlar bilan to'liq ta'minlaydi.",
+      "summary_en": "The outsourcer must fully equip the dental room with the other medical equipment required by the equipment standard.",
+      "quote": "Stomatologiya xonasini jihozlash tabeli asosida zarur bo‘lgan boshqa tibbiy jihozlar bilan (Buyurtmachi taqdim etgandan tashqari) to‘liq ta’minlash"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Barcha dori vositalari, tibbiy buyumlar va sarflov materiallarini autsorser o'z hisobidan ta'minlaydi; ular ro'yxatdan o'tgan bo'lishi kerak.",
+      "summary_en": "All medicines, medical items and consumables are supplied by the outsourcer and must be registered in Uzbekistan.",
+      "quote": "barcha dori vositalari, tibbiy buyumlar, sarflov materiallari autsorser tomonidan ta’minlanadi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Shartnoma kuchga kirgach 15 ish kunida kommunal to'lovlar hisobi uchun hisoblagichlar o'rnatiladi.",
+      "summary_en": "Utility meters must be installed within 15 working days of the contract taking effect.",
+      "quote": "Autsorser tomonidan Shartnoma kuchga kirgandan so‘ng 15 ish kunida kommunal to‘lovlarning hisobini alohida yuritish uchun hisoblagichlar (schetchik) o‘rnatiladi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Shartnoma tugagach 5 ish kunida xona va jihozlar ta'mirlangan, soz holda qaytariladi.",
+      "summary_en": "At the end of the contract, premises and equipment are returned in working, repaired condition within 5 working days.",
+      "quote": "Shartnoma muddati yakunlangandan so‘ng 5 ish kunida topshirish-qabul qilish dalolatnomasida"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Shartnoma bir yil amal qiladi; bekor qilish uchun Buyurtmachi kamida ikki oy oldin ogohlantiriladi.",
+      "summary_en": "The contract runs for one year; two months' notice is needed to terminate.",
+      "quote": "Ushbu shartnoma tomonlar o‘rtasida imzolangan kundan kuchga kiradi va bir yil amal qiladi."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Aholidan tushgan mablag'lardan autsorserga to'lov 5 ish kunida amalga oshiriladi; avans to'lovi nazarda tutilmaydi.",
+      "summary_en": "Payments to the outsourcer from collected funds are made within 5 working days; no advance payment is provided in the contract.",
+      "quote": "тушган маблаглар хисобидан Аутсорсерга 5 иш кунида тулаб беради"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklifni ta'minlash 3 foiz miqdorida (zakalat yoki bank kafolati).",
+      "summary_en": "Bid security of 3% (deposit or bank guarantee).",
+      "quote": "Таклифни таъминлаш кафолати суммаси (закалат ёки банк кафолати) 3%"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Soliq qarzdorligi yo'qligi haqidagi ma'lumotnoma e'lon davrida olingan bo'lsa to'liq ball, 8-30 kun oldin olingan bo'lsa yarim ball beriladi.",
+      "summary_en": "A tax-debt certificate obtained during the announcement period earns full points; one obtained 8-30 days before earns half.",
+      "quote": "Soliqdan qarzdorligi yoqligi to`g`risida ma`lumotnoma (my3.soliq.uz saytidan)"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Buyurtmachi tomonidan berilgan boshlang`ich narxdan 3% summadan tushib ketmaslik lozim, narx tushib ketgan taqdirda tanlovdan chetlashtiriladi",
+      "explanation_uz": "Boshlang'ich narxdan 3 foizdan ortiq past narx taklif qilgan ishtirokchi tanlovdan chetlashtiriladi. Bu narx bo'yicha raqobatni cheklashi va qulay narx bergan ishtirokchini baholanmasdan chiqarib yuborishi mumkin. Sifatni ta'minlash maqsadi tushunarli, shuning uchun bu band bo'yicha bitta aniqlashtiruvchi savol yetarli.",
+      "explanation_en": "A bidder offering more than 3% below the starting price is excluded. This may limit price competition and remove a bidder with a favourable price without evaluating it. The quality rationale is understandable, so one clarifying question on this clause is enough.",
+      "rewrite_uz": "Boshlang'ich narxdan sezilarli darajada past (masalan, 15 foizdan ortiq) taklif qilingan narx asoslab berilishi talab qilinadi; asoslangan taklif tanlovdan chetlashtirilmaydi.",
+      "rewrite_en": "A price substantially below the starting price (for example more than 15% lower) must be justified; a justified offer is not excluded from the selection."
+    }
+  ],
+  "documents_needed_uz": [
+    "Harid komissiyasi raisi nomiga ishtirok etish uchun ariza (1-shakl)",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi va tibbiy faoliyat uchun litsenziya",
+    "Ishtirokchi to'g'risida umumiy ma'lumot (2-shakl)",
+    "Moliyaviy holat to'g'risida ma'lumot (3-shakl)",
+    "Manfaatlar to'qnashuvi va halollik bo'yicha bayonot (4-shakl)",
+    "Malaka talablarining bajarilishi to'g'risida kafolat xati (5-shakl)",
+    "Tushum ulushini ko'rsatgan kafolat xati va tibbiy jihozlar ro'yxati",
+    "Soliq qarzdorligi yo'qligi to'g'risida ma'lumotnoma (my3.soliq.uz)",
+    "Qayta tashkil etish, tugatish, bankrotlik va sud nizolari yo'qligi haqida kafolat xati",
+    "Tadbirkorlik subyektlarining barqarorlik reytingi to'g'risida ma'lumot",
+    "Taklifni ta'minlash (zakalat yoki bank kafolati)"
+  ]
+}

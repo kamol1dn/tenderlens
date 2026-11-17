@@ -1,0 +1,69 @@
+{
+  "lot_id": 523642,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "health",
+  "subject_uz": "Pompe kasalligini davolash uchun alglyukozidaza-alfa 50 mg dori vositasi (726 flakon)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Dori vositasi infuziya eritmasi uchun liofilizat, 50 mg li 1 flakon o'lchov birligida bo'lishi kerak.",
+      "summary_en": "The medicine must be a lyophilisate for infusion solution concentrate, supplied as 50 mg vials.",
+      "quote": "1.6. O'Ichov birligi: 50 ms li 1 flakon"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Dori vositasi GMP talablari bo'yicha sertifikatlangan ishlab chiqarish maydonchasida ishlab chiqarilgan bo'lishi shart.",
+      "summary_en": "The medicine must be made at a manufacturing site certified to GMP requirements.",
+      "quote": "Dori vositasi GMP talablari bo'yicha seгtifi katlangan ishlab chiqarish maydonchasida"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ikkilamchi qadoqda 'Sotish taqiqlanadi' yozuvi, davlat va rus tillarida tamg'alash hamda raqamli markirovka bo'lishi kerak.",
+      "summary_en": "Secondary packaging must carry a 'not for sale' notice, labelling in Uzbek and Russian, and digital marking.",
+      "quote": "Ikkilamchi qadoqda: \"Sotish taqiqlanadi\""
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "2026 yil uchun ajratilgan mablag' asosida 732 dona flakon (50 mg) yetkazib beriladi; e'londa 726 dona ko'rsatilgan.",
+      "summary_en": "The specification states 732 vials (50 mg) for 2026, while the lot header lists 726 units.",
+      "quote": "2026 yil uсhuп ajratilgan mablag' asosida 732 dona flakon (50 mg) miqdori."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Yetkazib berish kunida qoldiq yaroqlilik muddati umumiy muddatdan belgilangan foizdan ko'proq qisqargan bo'lmasligi kerak (2 yilgacha 30%, 3 yilgacha 40%, undan ortiq 50%).",
+      "summary_en": "Remaining shelf life at delivery may not have shortened by more than 30% / 40% / 50% depending on total shelf life.",
+      "quote": "Yaroqlilik muddati yuqorida ko'rsatilgan"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ulgurji savdo qiluvchi ishtirokchi GDP muvofiqlik sertifikati va amaldagi litsenziyaga ega bo'lishi shart.",
+      "summary_en": "Wholesale participants must hold a GDP conformity certificate and a valid licence.",
+      "quote": "distribyutorlik amaliyoti (GDP) muvofi qlik"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Orfan preparatlar uchun ishlab chiqaruvchi mamlakat tartibga soluvchi organida ro'yxatdan o'tish talab qilinadi, O'zbekistonda ro'yxatdan o'tish majburiy emas.",
+      "summary_en": "Orphan medicines must be registered with the manufacturer country's regulator; Uzbek registration is not mandatory.",
+      "quote": "ushbu dori vositalari ishlab chiqaruvchi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Har bir partiya bilan seriya bo'yicha tahlil sertifikati, sifat pasporti va sinov uchun qo'shimcha namunalar taqdim etiladi.",
+      "summary_en": "Each batch must come with a certificate of analysis, quality passport and extra samples for certification testing.",
+      "quote": "Dori vositasining hаr Ьir рагtiуаsiпi yetkazib"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik hujjati yoki ishlab chiqaruvchi mamlakat regulyatorida ro'yxatdan o'tganlik tasdig'i",
+    "GMP sertifikati",
+    "GDP muvofiqlik sertifikati va amaldagi litsenziya (ulgurji sotuvchilar uchun)",
+    "Texnik talablarga muvofiqlikni asoslovchi hujjatlar",
+    "Yaroqlilik va saqlash muddati bo'yicha hujjatlar",
+    "Sifat kafolati sertifikatlari",
+    "Yetkazib berish davriyligi va miqdori bo'yicha hujjatlar",
+    "Namunalar soni va nomi ko'rsatilgan rasmiy rozilik xati",
+    "Soliq qarzi yo'qligi va insofsiz ijrochilar reyestrida yo'qligi to'g'risidagi ma'lumotlar"
+  ]
+}

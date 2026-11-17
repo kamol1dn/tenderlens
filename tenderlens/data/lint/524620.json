@@ -1,0 +1,83 @@
+{
+  "lot_id": 524620,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Qashqadaryo viloyati prokuraturasi xizmat uyi uchun pardalar va jalyuzilar (shtor) xarid qilish",
+  "requirements": [
+    {
+      "kind": "evaluation",
+      "summary_uz": "Manfaatlar to'qnashuviga yo'l qo'ymaslik bo'yicha kafolat uchun 20 ball beriladi (mezon 'kafolatdan keyingi xizmat' deb nomlangan).",
+      "summary_en": "20 points are given for a guarantee against conflicts of interest (the criterion is titled 'post-warranty service').",
+      "quote": "манфаатлар тўқнашувига йўл қўймаслик бўйича кафолат"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mahsulotlar texnik topshiriqqa mosligi va 10 kun ichida o'z vaqtida yetkazish kafolati 20 ball bilan baholanadi.",
+      "summary_en": "A guarantee that goods match the technical task and are delivered within 10 days is scored at 20 points.",
+      "quote": "ўз вақтида сифатли етказиб беришни таъминлаш бўйича кафолат ( 10 кун ичида)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Avval shunga o'xshash xizmatlarni bajarganlik haqida ma'lumot 20 ball bilan baholanadi.",
+      "summary_en": "Information on having performed similar services before is scored at 20 points.",
+      "quote": "Аввал шунга ўхшаш хизматларни бажарганлиги тўғрисида"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Nuqsonli mahsulot 5 ish kuni ichida yangisiga almashtirilishi haqida kafolat xati 20 ball bilan baholanadi.",
+      "summary_en": "A guarantee letter on replacing defective goods within 5 working days is scored at 20 points.",
+      "quote": "5 иш куни ичида янгисига алмаштириб бериш бўйича кафолат хати"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Barcha mahsulotlar yangi, 2026-yildan oldin ishlab chiqarilmagan va ishlatilmagan bo'lishi kerak (kafolat xati bilan, 20 ball).",
+      "summary_en": "All goods must be new, not made before 2026 and unused, with a guarantee letter (20 points).",
+      "quote": "Барча махсулотлар янги, 2026-йилдан аввал ишлаб чиқарилмаган, аввал фойдаланилмаган бўлиши зарур"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Qiyoslash uchun keltirilgan takliflarda shtor zich poliefir matodan (kamida 250 g/m2), 70-100 foiz xiralashtirish bilan tayyorlanadi.",
+      "summary_en": "Reference offers describe curtains of dense polyester fabric (at least 250 g/sq m) with 70-100% blackout.",
+      "quote": "штор из плотной полиэстеровой ткани (не менее 250 г/м²) с затемнением от 70% до 100%"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadr resurslari mavjud bo'lishi kerak.",
+      "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+      "summary_en": "There must be no overdue tax or levy debt.",
+      "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Buyurtmachining izohiga ko'ra, mahalliy takliflar sifat, kafolat va texnik parametrlar bo'yicha talabga mos kelmagan.",
+      "summary_en": "The customer's note says the local offers did not fit the required quality, warranty and technical parameters.",
+      "quote": "Tovar (ish, xizmat)ning sifati, kafolati, texnik parametrlari talab darajasiga muvofiq kelmasligi"
+    }
+  ],
+  "flags": [
+    {
+      "type": "irrelevant_requirement",
+      "severity": "medium",
+      "quote": "манфаатлар тўқнашувига йўл қўймаслик бўйича кафолат",
+      "explanation_uz": "1-mezon 'kafolatdan keyingi xizmat ko'rsatish' deb nomlangan, lekin 20 ball manfaatlar to'qnashuviga yo'l qo'ymaslik haqidagi kafolat xati uchun beriladi, bu esa pardalar xizmatiga yoki kafolat muddatiga aloqador emas. Bu platformaning standart shablon matniga o'xshaydi; 100 balldan 20 tasi shu hujjatga bog'liq.",
+      "explanation_en": "Criterion 1 is titled 'post-warranty service' but its 20 points are given for a guarantee letter about avoiding conflicts of interest, which has nothing to do with curtains or warranty terms. It looks like standard platform template wording; 20 points of the technical score depend on this one document.",
+      "rewrite_uz": "Kafolatdan keyingi xizmat mezoni bo'yicha ball yetkazib beruvchining kafolat muddati, nuqsonlarni bartaraf etish muddati va o'rnatib berish xizmatiga qarab berilsin.",
+      "rewrite_en": "Score the post-warranty service criterion on the supplier's warranty period, defect-repair time and installation service."
+    }
+  ],
+  "documents_needed_uz": [
+    "Manfaatlar to'qnashuviga yo'l qo'ymaslik bo'yicha kafolat (PDF)",
+    "Mahsulotlar texnik topshiriqqa mosligi va 10 kunda yetkazish kafolati (PDF)",
+    "Avval shunga o'xshash xizmatlar bajarilgani haqida ma'lumot (PDF)",
+    "Nuqsonli mahsulotni 5 ish kunida almashtirish kafolat xati (PDF)",
+    "Mahsulotlar yangi va 2026-yildan oldin ishlab chiqarilmaganligi haqida kafolat xati (PDF)",
+    "Soliq qarzi yo'qligi haqida ma'lumot",
+    "Bankrotlik jarayoni yo'qligi va insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumot"
+  ]
+}

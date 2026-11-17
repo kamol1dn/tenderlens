@@ -1,0 +1,111 @@
+{
+  "lot_id": 524982,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "\"Yangi zamon bino\" MChJ ustav kapitalidagi 50 foiz davlat ulushini baholash hisobotining haqqoniyligini ekspertizadan o'tkazish xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Baholash sanasi 2026-yil 1-sentabr holatiga belgilangan.",
+      "summary_en": "The valuation date is fixed as of 1 September 2026.",
+      "quote": "2026-yil 1-sentabr holatiga asosan."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ekspertiza shartnoma tuzilgan kundan 15 kun ichida yakunlanishi kerak.",
+      "summary_en": "The expert review must be completed within 15 days of the contract date.",
+      "quote": "Xizmatlarini ko‘rsatish bo‘yicha shartnoma tuzilgan kundan 15 kun."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochi baholash faoliyati bilan shug'ullanuvchi yuridik shaxs bo'lgan baholovchi tashkilot bo'lishi kerak.",
+      "summary_en": "The contractor must be a legal-entity valuation firm licensed for valuation activity.",
+      "quote": "baholash faoliyatini amalga oshiruvchi yuridik shaxs maqomiga ega"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Baholovchi tashkilot yuqori A reytingga ega bo'lishi shart.",
+      "summary_en": "The valuation firm must hold a high A rating.",
+      "quote": "baholovchi tashkilot yuqori A reytingga ega bo‘lishi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Tashkilot shtatida birinchi toifali baholovchi bo'lishi kerak.",
+      "summary_en": "The firm must employ a first-category valuer.",
+      "quote": "baholovchi tashkilotlar shtatida birinchi toifa baholovchi mavjud bo‘lishi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Milliy standartlar bo'yicha baholangan kamida 3 ta o'xshash loyiha (shu jumladan xususiylashtirish) tajribasi talab etiladi.",
+      "summary_en": "Experience of at least 3 similar projects valued under national standards (including privatisation) is required.",
+      "quote": "milliy standartlar bo‘yicha baholangan kamida 3 ta o‘xshash loyihani (shu jumladan xususiylashtirishni) amalga oshirgan bo‘lishi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnoma tuzilgunga qadar kamida 1 yil baholash faoliyati olib borilgan bo'lishi kerak.",
+      "summary_en": "At least 1 year of valuation activity before the contract is required.",
+      "quote": "Shartnoma tuzilgunga qadar (litsenziya berilgan sana bilan belgilanadi) kamida 1 yil davomida (aktivlarni) baholash faoliyatini amalga oshirish"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Tashkilot mulkni tekshirish (audit) jarayonida ishtirok etmasligi kerak.",
+      "summary_en": "The firm must not take part in auditing the property being valued.",
+      "quote": "Tashkilot mulkni tekshirish (audit jarayoni)da ishtirok etmasligi kerak"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Hisobot ikki nusxada, o'zbek va rus tillarida taqdim etiladi.",
+      "summary_en": "The report is delivered in two copies in Uzbek and Russian.",
+      "quote": "Ijrochi Buyurtmachiga ikki nusxada Hisobot va tegishli ilovalarni o‘zbek/rus tillarida taqdim etadi"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Hisob-kitoblar kompaniya faoliyatining kamida 3 yillik tahliliga asoslanishi kerak.",
+      "summary_en": "Calculations must rest on an analysis of the company's activity for at least the previous 3 years.",
+      "quote": "baholash sanasidan oldingi kamida 3 yil davomida kompaniya faoliyatini tahlil qilish to‘g‘risida"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholovchi tashkilotlar assotsiatsiyasiga a'zolik hujjatlari uchun 10 ball beriladi.",
+      "summary_en": "10 points are given for documents proving membership of a valuers' association.",
+      "quote": "Baxolovchi tashkilotlar asotsiatsiyasiga a’zoligi to‘g‘risidagi xujjatlar"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Minimal o'tish bali 30; texnik qism 50 ball, narx qismi 50 ball.",
+      "summary_en": "The minimum pass score is 30; technical part 50 points, price part 50 points.",
+      "quote": "Minimal o‘tish bali 30 ball etib belgilansin va 5 ish kuni muddati bilan"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Ijrochi 3 yil davomida buyurtmachidan olingan ma'lumotlarning maxfiyligini ta'minlashi kerak.",
+      "summary_en": "The contractor must keep information received from the customer confidential for 3 years.",
+      "quote": "3 yil davomida baholash davomida Buyurtmachidan olingan ma’lumotlarning maxfiyligini ta’minlash"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "baholovchi tashkilot yuqori A reytingga ega bo‘lishi",
+      "explanation_uz": "Yuqori A reyting majburiy talab sifatida qo'yilgan va shu bilan birga texnik qismda 15 ball bilan ham baholanadi. Bu talab nisbatan kichik summali xizmat uchun reytingi pastroq, ammo malakali baholash tashkilotlarining qatnashishini cheklashi mumkin; talabning sababini buyurtmachidan so'rab aniqlash maqsadga muvofiq.",
+      "explanation_en": "A high A rating is set as a mandatory condition and is also scored with 15 points in the technical part. For a fairly small-value service this may limit participation by qualified valuation firms with a lower rating, so it is worth asking the customer for the reason.",
+      "rewrite_uz": "Baholovchi tashkilot amaldagi qonunchilikka muvofiq baholash faoliyatini amalga oshirish huquqiga ega bo'lishi kerak; reyting yuqori bo'lsa, qo'shimcha ball berilishi mumkin, ammo u qatnashish sharti bo'lmaydi.",
+      "rewrite_en": "The valuation firm must hold the right to carry out valuation activity under the applicable rules; a higher rating may earn extra points but is not a condition for taking part."
+    }
+  ],
+  "documents_needed_uz": [
+    "Baholash faoliyatini amalga oshirish huquqini tasdiqlovchi hujjatlar (yuridik shaxs maqomi, litsenziya)",
+    "Baholovchi tashkilotning reytingi haqidagi hujjat",
+    "Birinchi toifali baholovchining malaka sertifikati va mehnat shartnomasi",
+    "Kamida 3 ta o'xshash loyiha bo'yicha tajriba ma'lumoti va mijozlarning yozma tavsiyalari",
+    "Baholovchilar professional birlashmasiga a'zolik hujjati",
+    "Fuqarolik javobgarligini sug'urtalash polisi",
+    "Jalb qilinayotgan mutaxassislar va kompaniya (konsultant) malakasi va tajribasi haqida ma'lumot",
+    "Baholashni amalga oshirish muddati bo'yicha taklif",
+    "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+    "Bankrotlik jarayoni yo'qligini tasdiqlovchi hujjat",
+    "Insofsiz ijrochilar reyestrida yo'qligini tasdiqlovchi ma'lumot"
+  ]
+}

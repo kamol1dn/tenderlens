@@ -1,0 +1,90 @@
+{
+  "lot_id": 519731,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "Maxam-Chirchiq AJda favqulodda vaziyatlar xavfi haqida aholiga xabar berish avtomatlashtirilgan tizimini (LXT) modernizatsiya qilish",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochi so'nggi 5 yilda kamida 2 ta shunga o'xshash loyihani amalga oshirgan bo'lishi va ularni ro'yxatda ko'rsatishi kerak.",
+      "summary_en": "The contractor must have completed at least 2 similar projects in the last 5 years and list them.",
+      "quote": "Ijrochi 5 (besh) yil davomida kamida 2 (ikki) ta shu kabi loyihani amalga oshirgan bo‘lishi kerak."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochida tizimni yaratish yoki modernizatsiya qilish uchun loyiha-smeta hujjatlarini ishlab chiqish tajribasi bo'lishi kerak.",
+      "summary_en": "The contractor needs experience developing design and cost documentation for creating or modernising such a system.",
+      "quote": "Ishlar ijrochisiga qo‘yiladigan talablar: LXTni yaratish (rekonstruksiya qilish, modernizatsiya qilish) uchun LSH ishlab chiqish tajribasining mavjudligi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochi ishlarni bajarish uchun zarur barcha litsenziya va ruxsat hujjatlariga ega ekanini kafolatlashi shart.",
+      "summary_en": "The contractor must guarantee it holds all licences and permits needed for the work.",
+      "quote": "Ijrochi ushbu Texnik topshiriq bo‘yicha majburiyatlarini qo‘llaniladigan qonunchilikka muvofiq bajarish uchun zarur bo‘lgan barcha litsenziyalar va boshqa ruxsat beruvchi hujjatlarga ega ekanini kafolatlashi shart."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Uskunalarni ishlab chiqarish va yetkazib berishni qo'shganda barcha ishlar ko'pi bilan 4 oyda bajarilishi kerak.",
+      "summary_en": "All work, including manufacture and delivery of equipment, must be finished within 4 months at most.",
+      "quote": "Uskunalarni ishlab chiqarish va yetkazib berish muddatini qo‘shgan holda, ko‘pi bilan 4 (to‘rt) oy."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Tizim viloyat va respublika darajasidagi Favqulodda vaziyatlar vazirligi tizimlari bilan to'liq uyg'unlashtirilishi kerak.",
+      "summary_en": "The system must be fully integrated with the regional and national emergency-ministry notification systems.",
+      "quote": "modernizatsiya qilinayotgan LXTni viloyatning mahalliy darajadagi AXAT DTVM bilan, u orqali esa respublika darajasidagi AXAT DTVM bilan to‘liq uyg‘unlashtirish"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Loyiha ishlab chiqilib, Favqulodda vaziyatlar vazirligi va boshqa tashkilotlar bilan kelishilishi hamda Davlat ekspertizasidan o'tkazilishi shart.",
+      "summary_en": "The design must be agreed with the emergency ministry and other bodies and pass state expert review.",
+      "quote": "Ishlab chiqilgan LXT loyihasi tasdiqlanishidan oldin O‘zbekiston Respublikasi FVV va boshqa tegishli tashkilotlar bilan kelishilishi, shuningdek, Davlat ekspertizasidan o‘tkazilishi shart."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ikkita o'ta xavfli obyektda SO2, NO2, NH3 gazlari uchun qo'shimcha datchiklar o'rnatilishi va korxona TJABT bilan ulanishi kerak.",
+      "summary_en": "Extra SO2, NO2 and NH3 gas sensors must be installed at two high-risk facilities and linked to the plant's process control system.",
+      "quote": "buyurtmachining 2 ta o‘ta xavfli obyektida (Ammiak-2 sexining izotermik qurilmasi, Ammiak ishlab chiqarish bo‘linmasining Ammiakni suyultirish sexidagi ammiak ombori) SO2, NO2, NH3"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Qurilmalarning kafolatli foydalanish muddati foydalanishga topshirilgandan kamida 36 oy bo'lishi kerak.",
+      "summary_en": "Equipment must have a guaranteed service life of at least 36 months from commissioning.",
+      "quote": "kafolatli foydalanish muddati – kamida 36 oy (foydalanishga topshirilgan paytdan boshlab)"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Tizim ishga tushirilgandan keyin kamida 24 oy davomida kafolatli texnik ko'mak ko'rsatilishi va kamida 3 xodim o'qitilishi kerak.",
+      "summary_en": "At least 24 months of warranty technical support after launch and training for at least 3 staff are required.",
+      "quote": "LXT to‘liq ishga tushirilgan kundan boshlab kamida 24 oy davomida LXT ADMga kafolatli texnik ko‘mak ko‘rsatish"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishtirokchi, tajriba, xodimlar, spetsifikatsiya va texnik taklif bo'yicha 5 ta xat topshiradi; har biri 10, 5 yoki 0 ball bilan baholanadi (jami 50 ball).",
+      "summary_en": "Bidders submit five letters (general info, experience, staff, specification, technical offer), each scored 10, 5 or 0 (50 points in total).",
+      "quote": "Tanlash ishtirokchisi to‘g‘risidagi umumiy ma’lumotni xat shaklida (1-sonli namuna keltirilgan) taqdim etish."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "uskuna va dasturiy ta’minot majmuasini taklif qilsa, uni qo‘llash to‘g‘risidagi qaror faqat O‘zbekiston Respublikasi FVV vakillari ishtirokidagi komissiya tomonidan",
+      "explanation_uz": "Yuqori darajadagi tizimda o'rnatilganidan farq qiladigan uskuna yoki dasturiy ta'minot taklif qilinsa, uni qabul qilish faqat Favqulodda vaziyatlar vazirligi vakillari komissiyasining real sharoitdagi sinovidan keyin mumkin. Bunday sinov muddati va mezonlari ko'rsatilmagan, 4 oylik umumiy muddat va 5,07 mlrd so'mlik lot uchun bu mavjud ishlab chiqaruvchidan boshqa ishtirokchilarga xavf tug'diradi. Boshqa ishlab chiqaruvchilarning oraliq uskunalarini ishlatmaslik talabi ham xuddi shunday ta'sir qilishi mumkin; muvofiqlik asoslangan bo'lishi mumkin, shuning uchun tekshirish tavsiya etiladi.",
+      "explanation_en": "If a bidder offers equipment or software that differs from what the higher-level system already uses, it can be accepted only after a real-conditions test by an emergency-ministry commission. No test duration or criteria are given, which for a 5.07 billion UZS lot with a 4-month overall term puts bidders other than the incumbent equipment maker at risk. The ban on intermediate equipment from other manufacturers may work the same way. Compatibility may justify it, so it should be checked.",
+      "rewrite_uz": "Taklif etilgan uskuna va dasturiy ta'minot yuqori darajadagi tizim bilan protokol bo'yicha muvofiqligi hujjat va namoyish bilan tasdiqlansa qabul qilinadi; sinov tartibi, muddati (15 kalendar kundan oshmaydi) va mezonlari xarid hujjatlarida oldindan ko'rsatiladi.",
+      "rewrite_en": "Offered equipment and software are accepted if protocol compatibility with the higher-level system is shown by documents and a demonstration; the test procedure, duration (no more than 15 calendar days) and criteria are stated in the procurement documents in advance."
+    }
+  ],
+  "documents_needed_uz": [
+    "Tanlash ishtirokchisi to'g'risida umumiy ma'lumot xati (1-sonli namuna)",
+    "Tajriba mavjudligi to'g'risida ma'lumot xati va bajarilgan loyihalar ro'yxati (2-sonli namuna)",
+    "Malakali xodimlar to'g'risida ma'lumot xati (3-sonli namuna)",
+    "Uskunalar, ishlar va xizmatlar spetsifikatsiyasi (4-sonli namuna)",
+    "Texnik taklif (imzo va muhr bilan tasdiqlangan, firma blankida)",
+    "Metrologik ta'minot to'g'risida hujjat",
+    "Zarur litsenziyalar va ruxsat beruvchi hujjatlar nusxalari",
+    "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi to'g'risida ma'lumot"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+"lot_id": 525029, "backend": "in-session", "model": "claude-sonnet-5-5",
+"sector": "health",
+"subject_uz": "Samarqand shahar Markaziy shifoxonasi va 1-son bolalar shifoxonasi tibbiyot chiqindilarini olib ketish va utilizatsiya qilish xizmati (24 734 kg)",
+"requirements": [
+{"kind":"technical","summary_uz":"24 734 kg tibbiyot chiqindisi haftasiga 6 kun (yakshanbadan tashqari) olib ketiladi.","summary_en":"24,734 kg of medical waste is collected 6 days a week (except Sunday).","quote":"Tibbiyot chiqindilarni olib ketib haftasiga 6 kuni (yakshanbadan tashqari) oshirilishi kerak."},
+{"kind":"payment","summary_uz":"1 kg chiqindi uchun 15 000 soʻm, jami 371 010 000 soʻm.","summary_en":"15,000 UZS per kg, 371,010,000 UZS in total.","quote":"Xizmat ko`rsatish qiymati – 1 kg tibbiyot chiqindisi 15 000 (o`n besh ming) so`m."},
+{"kind":"delivery","summary_uz":"Xizmat shartnoma tuzilgandan 2026-yil 31-dekabrgacha koʻrsatiladi.","summary_en":"Service runs from contract signing until 31 December 2026.","quote":"shartnoma tuzilgan paytdan boshlab 2026-yil 31-dekabrgacha."},
+{"kind":"technical","summary_uz":"Chiqindilar xavf guruhlari boʻyicha ajratib yigʻiladi, maxsus konteyner va maxsus transportdan foydalaniladi.","summary_en":"Waste is segregated by hazard group; special containers and dedicated transport are used.","quote":"Tibbiyot chiqindilarini tashish uchun maxsus ajratilgan transport vositalaridan foydalaniladi."},
+{"kind":"technical","summary_uz":"Transport kuzovi silliq, yuvish va dezinfeksiyaga chidamli materialdan boʻlishi kerak.","summary_en":"Vehicle body must be smooth and resistant to washing and disinfection.","quote":"Transport vositasining kuzovi silliq, yuvish va dezinfeksiya vositalariga chidamli materialdan tayyorlangan bo‘lishi kerak."},
+{"kind":"evaluation","summary_uz":"Dastlabki malakaviy baholash: jami 55 ball, 5 balldan kam toʻplagan ishtirokchi malakasiz hisoblanadi.","summary_en":"Preliminary qualification scoring totals 55 points; bidders scoring under 5 are treated as not technically qualified.","quote":"tanlov ishtirokchisi baholash yakunlariga ko‘ra 5 balldan kam ball to‘plasa"},
+{"kind":"evaluation","summary_uz":"Tajriba: 2024-2025 yillarda budjet tashkilotlari bilan tibbiyot chiqindilari boʻyicha shartnomalar soni (6-10 ta uchun 5 ball) va tavsiyanomalar.","summary_en":"Experience: number of 2024-2025 contracts with budget bodies for medical waste (6-10 contracts give 5 points) plus recommendation letters, 10 points.","quote":"6 tadan 10 tagacha bo‘lsa 5 bal, 4 tadan 8 tagacha bo‘lsa 4-bal"},
+{"kind":"evaluation","summary_uz":"Xodimlar: 15 va undan ortiq ishchi boʻlsa 5 ball; 15 ball maksimum.","summary_en":"Staff: 15 or more workers score 5 points; the criterion is worth up to 15 points.","quote":"Ishchilar soni 15 ta va undan ortiq bo'lsa 5-bal"},
+{"kind":"evaluation","summary_uz":"Korxona balansida maxsus texnika va chiqindi yigʻish jihozlari boʻlsa 10 ball, aks holda 1 ball.","summary_en":"Special vehicles and waste-collection equipment on the company's own balance sheet score 10 points, otherwise 1.","quote":"Mavjud va talab darajasida bo‘lsa 10-bal, aks holda 1-bal."},
+{"kind":"evaluation","summary_uz":"Sanitariya (SES) xulosalari va dezinfeksiya tashkilotlari bilan shartnomalar 15 ballgacha baholanadi.","summary_en":"Sanitary (SES) conclusions and contracts with disinfection organisations are scored up to 15 points.","quote":"dizenfeksiya tashkilotlari bilan qilingan shartnomalar guvoxnomalar."}
+],
+"flags": [
+{"type":"excessive_experience","severity":"medium",
+"quote":"aks holda 1-bal (boshqa yillardagi ma’lumotlar etiborga olinmaydi)",
+"explanation_uz":"Tajriba faqat 2024-2025 yillarda budjet tashkilotlari bilan tibbiyot chiqindilari boʻyicha tuzilgan 2-10 ta shartnoma bilan baholanadi, boshqa yillardagi tajriba hisobga olinmaydi. Bu talab yaqinda faoliyat boshlagan yoki xususiy mijozlar bilan ishlagan, ammo xizmatni uddalay oladigan ishtirokchilarning ball yoʻqotishiga olib kelishi mumkin.",
+"explanation_en":"Experience is scored only on 2-10 contracts with budget bodies for medical waste in 2024-2025, and other years are ignored. A capable supplier that started recently or served private clients could lose points for this reason.",
+"rewrite_uz":"Ishtirokchining oxirgi 3 yilda tibbiyot chiqindilari boʻyicha bajargan shartnomalari (davlat va xususiy mijozlar bilan) soni va hajmi hisobga olinadi.",
+"rewrite_en":"Count the number and volume of medical-waste contracts performed in the last 3 years, with both public and private clients."},
+{"type":"irrelevant_requirement","severity":"medium",
+"quote":"Talabgor tashkilotida tehnolog va dietolog xamshirasi mehnat.uz saytidan ro‘yxatdan o‘tganligi.",
+"explanation_uz":"Tibbiyot chiqindilarini olib ketish xizmati uchun texnolog va dietolog hamshira mavjudligi uchun 5 ballgacha beriladi. Dietolog hamshira chiqindilarni tashish va zararsizlantirishga aloqador emas, shuning uchun bu mezon ishtirokchilarni asossiz ajratishi mumkin.",
+"explanation_en":"Up to 5 points are given for having a technologist and a dietitian nurse, which has no evident link to collecting and disposing of medical waste. This could separate bidders on something unrelated to the service.",
+"rewrite_uz":"Ishtirokchida chiqindilar bilan ishlash boʻyicha tegishli tayyorgarlikdan oʻtgan xodimlar mavjudligi hisobga olinadi.",
+"rewrite_en":"Count the availability of staff trained in handling medical waste."},
+{"type":"other","severity":"medium",
+"quote":"Ishlarni sifatli bajarish uchun korxona balansida maxsus texnikalar",
+"explanation_uz":"Maxsus texnika korxona balansida boʻlishi va kadastr hujjatlari, texnik pasport ilova qilinishi talab etiladi; aks holda 10 oʻrniga 1 ball beriladi. Ijara yoki lizing asosida maxsus transportdan foydalanuvchi ishtirokchilar, ular xizmatni bajara olsa ham, 9 ball yoʻqotadi.",
+"explanation_en":"Special vehicles must be on the company's own balance sheet, with cadastral documents and technical passports attached; otherwise only 1 point instead of 10 is given. Bidders using leased or hired vehicles lose 9 points even if they can perform the service.",
+"rewrite_uz":"Ishtirokchi egalik, ijara yoki lizing asosida talab darajasidagi maxsus transport va jihozlardan foydalanish huquqini tasdiqlovchi hujjatlarni taqdim etadi.",
+"rewrite_en":"The bidder provides documents confirming the right to use suitable special vehicles and equipment, whether owned, rented or leased."}
+],
+"documents_needed_uz": ["Sifatli va oʻz vaqtida xizmat koʻrsatish haqida kafolat xati","SES xulosasi","Ishlab chiqaruvchi bilan shartnoma va uning SES xulosasi (agar mavjud boʻlsa)","Dezinfeksiya tashkilotlari bilan shartnomalar va guvohnomalar","Xodimlar roʻyxati, pasport nusxalari, INN maʼlumotlari, buyruqlar, mehnat.uz maʼlumotlari","Xodimlarning tibbiy daftarchalari va sugʻurta polislari","2024-2025 yillardagi shartnomalar va hisob-fakturalar, tavsiyanomalar","Maxsus texnikalar boʻyicha hujjatlar (kadastr hujjatlari, texnik pasport, rasmlar)","Manfaatlar toʻqnashuvi boʻlmasligi haqida ariza"]
+}

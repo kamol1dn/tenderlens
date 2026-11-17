@@ -1,0 +1,89 @@
+{
+  "lot_id": 525501,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "health",
+  "subject_uz": "Gazli MGQB 334 nafar xodimini davriy tibbiy ko'rikdan o'tkazish (shifokorlar, laboratoriya, UZI, rentgen)",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Tibbiy muassasada dastlabki va davriy ko'rik o'tkazish litsenziyasi va kasbiy tayyorgarlik ekspertizasi bo'lishi shart.",
+      "summary_en": "The medical institution must hold a licence for pre-employment and periodic examinations and a professional-fitness expertise.",
+      "quote": "nizom, dastlabki va davriy ko'rik o'tkazish litsenziyasi hamda kasbiy tayyorgarlik ekspertizasi bo'lishi shart."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Davriy ko'rik uchun doimiy harakatdagi shifokorlar komissiyasi shakllantirilgan bo'lishi kerak.",
+      "summary_en": "A standing commission of doctors must be formed for the periodic examinations.",
+      "quote": "Tibbiy muassasalarda davriy ko'rikni o'tkazish uchun Doimiy harakaldagi yrachlar komissiyasi shakllantirilean bo'lishi lozim."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Jalb etilgan barcha tibbiy xodimlarning o'z yo'nalishi bo'yicha kamida 5 yillik ish staji bo'lishi kerak.",
+      "summary_en": "All medical staff involved must have at least 5 years of experience in their field.",
+      "quote": "tibbiy xodimlar o'z yo'nalishi bo'yicha 5 yildan kam bo'lmagan ish stajiga (tajribasiga) ega bo'lishi kerak."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Tibbiy muassasa zamonaviy tibbiyot uskunalari bilan jihozlangan bo'lishi kerak.",
+      "summary_en": "The facility must be equipped with modern medical equipment.",
+      "quote": "Tibbiy muassasa zamonaviy tibbiyot uskunalari bilan jihozlangan bo'lishi kerak."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ko'rik tasdiqlangan jadval bo'yicha navbatsiz o'tkazilishi ta'minlanadi.",
+      "summary_en": "Examinations must be held without queues on an approved schedule.",
+      "quote": "Bajaruvchi tibbiy ko'rikni tasdiqlangan jadval asosida navb-atsiz o'tkazilishini ta'minlaydi."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ro'yxat olingandan keyin 10 kun ichida ko'rikning kalendar rejasi tuziladi va buyurtmachi bilan kelishiladi.",
+      "summary_en": "A calendar plan for the examinations is prepared within 10 days of receiving the staff list and agreed with the customer.",
+      "quote": "so'ng 10 kun muddatda ushbu ro'yxat asosida"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Xizmat uchinchi shaxs jalb etilmasdan, bajaruvchining o'zi tomonidan ko'rsatiladi.",
+      "summary_en": "The service must be performed by the contractor itself, without involving third parties.",
+      "quote": "Bajaruvchi xizmatni uchinchi shaxsni jalb etmasdan a'zi bajaradi."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat shartnoma imzolangandan keyin bir oy ichida ko'rsatiladi (Buxoro viloyati, 334 nafar xodim).",
+      "summary_en": "The service is to be completed within one month of the contract being signed (Bukhara region, 334 employees).",
+      "quote": "Xizmat ko'rsatish sharfnomasi ir;rzolangandan so'ng bir oy muddat ichida."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "15 foiz avans, qolgan qismi dalolatnoma asosida to'lanadi.",
+      "summary_en": "15% advance; the remainder is paid against the acceptance act.",
+      "quote": "Oldindan to'lov 15 o/s. Qolgan qismi pul ko'chirish yo'li bilan"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash faqat narx bo'yicha (100 foiz); ishtirokchi har bir talab bo'yicha tasdiqlovchi hujjat ilova qiladi.",
+      "summary_en": "Evaluation is on price only (100%); the bidder attaches supporting documents for each requirement.",
+      "quote": "Участники обязаны приложить подтверждающие документы по каждому требованию сравнительной таблицы (согласно технического задания)."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Moliyaviy natijalar hisobotlari (balans) soliq xizmati tomonidan qabul qilinganini tasdiqlovchi hujjat bilan taqdim etiladi.",
+      "summary_en": "Financial statements (balance sheets) must be supplied with proof of acceptance by the tax service.",
+      "quote": "Участник обязан приложить копии отчетов о финансовых результатах (балансовые отчеты), которые должны сопровождаться документом"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Ustav, davlat ro'yxatidan o'tganlik guvohnomasi, rahbarni tayinlash buyrug'i va rahbar pasporti nusxasi",
+    "Soliq organidan QR-kodli qarzdorlik yo'qligi ma'lumotnomasi",
+    "Bankrotlik tartib-taomili yo'qligi haqida hujjat (ilovadagi shakl bo'yicha)",
+    "Insofsiz ijrochilar reyestridan skrinshot",
+    "Majburiy ijro byurosi bazasidan skrinshot",
+    "Moliyaviy hisobotlar (balans) va ularning soliq xizmati tomonidan qabul qilinganligi haqida hujjat",
+    "Ish tajribasi va malakani tasdiqlovchi hujjat (8-talab bo'yicha shakl)",
+    "Halollik majburiyati to'g'risida ariza (10-talab bo'yicha shakl)",
+    "Texnik, moliyaviy, moddiy va kadrlar resurslari mavjudligi haqida firma blankidagi ma'lumot",
+    "Dastlabki va davriy ko'rik o'tkazish litsenziyasi hamda kasbiy tayyorgarlik ekspertizasi hujjati",
+    "Texnik shakllar (talablar bo'yicha taqqoslash jadvali)"
+  ]
+}

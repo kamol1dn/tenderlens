@@ -1,0 +1,98 @@
+{
+  "lot_id": 524214,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "construction",
+  "subject_uz": "Surxondaryo viloyati avtomobil yo'llarida 500 km gorizontal yo'l chiziqlarini chizish ishlari",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Ishlar Surxondaryo viloyatidagi xalqaro, davlat va mahalliy yo'llarda jami 500 km hajmda, O'zMSt 562:2025 talablariga muvofiq bajarilishi kerak.",
+      "summary_en": "Works cover 500 km of horizontal road markings on international, state and local roads in Surxondaryo, to standard O'zMSt 562:2025.",
+      "quote": "Umumiy hajmi — 500 km. Ishlar O‘zMSt 562:2025 va texnik topshiriq talablariga muvofiq bajarilishi lozim."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlar shartnoma kuchga kirgan kundan 2026-yil 31-dekabrgacha tugallanishi kerak.",
+      "summary_en": "Works must be completed from contract entry into force until 31 December 2026.",
+      "quote": "Ishlarni bajarish muddati — shartnoma kuchga kirgan kundan 2026-yil 31-dekabrgacha."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik talablarga muvofiqlik uchun 35 ball: O'zMSt 562:2025 bo'yicha texnik taklif, EN 1436, EN 1824, EN 1871, EN 13197 hisobotlari va ISO/IEC 17025 akkreditatsiyasi hujjati; hujjat bo'lmasa ball berilmaydi.",
+      "summary_en": "35 points for technical conformity: technical offer to O'zMSt 562:2025, EN 1436 / 1824 / 1871 / 13197 reports and an ISO/IEC 17025 accreditation document; no document, no points.",
+      "quote": "EN 1436, EN 1824, EN 1871, EN 13197 bo'yicha sinov hisobotlari, O'zMSt ISO/IEC 17025 bo'yicha akkreditatsiya hujjati"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnika va uskunalar mavjudligi uchun 15 ball (mulk, ijara yoki lizing hujjatlari bilan).",
+      "summary_en": "15 points for machinery and equipment held by ownership, rent or lease, with supporting documents.",
+      "quote": "Texnika va uskunalar ro'yxati va tasdiqlovchi hujjatlar"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Xodimlar va tajriba uchun jami 15 ball: xodimlar tarkibi 5 ballgacha, oxirgi 3 yilda 3 va undan ortiq shartnoma 10 ball.",
+      "summary_en": "15 points for staff and experience: staffing up to 5 points, 3 or more similar contracts in the last 3 years 10 points.",
+      "quote": "Xodimlar ro'yxati, diplom, mehnat shartnomalari, bajarilgan shartnomalar va dalolatnomalar"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kafolat va bajarish muddati taklifi uchun 5 ball.",
+      "summary_en": "5 points for the offered warranty and completion period.",
+      "quote": "kafolat muddati va ishlarni bajarish muddati bo'yicha taklif"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi O'zbekiston rezidenti yuridik shaxs bo'lib, tegishli faoliyat huquqi va tajribasiga ega bo'lishi kerak.",
+      "summary_en": "Bidder must be a resident legal entity of Uzbekistan with the right and experience to carry out the activity.",
+      "quote": "rezidenti boflgan ham da am aldagi qonunchilikka m uvofiq tegishli faoliyatni am alga oshirish huquqiga va tajribasiga ega boflgan yuridik shaxslar"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "15 foiz avans shartnoma ro'yxatdan o'tgach to'lanadi; yakuniy hisob-kitob dalolatnoma va hisob-faktura asosida, mablag' kelib tushgach amalga oshiriladi.",
+      "summary_en": "15 percent advance after contract registration; final settlement on acts and invoices, paid when funds arrive from the road authority.",
+      "quote": "Buyurtmachi tom onidan Surxondaryo viloyati Avtom obil yo‘llari bosh boshqarm asidan (AYBB) bajarilgan ishlar uchun m ablag‘lar kelib tushishi"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Majburiy hujjatlar: ro'yxatdan o'tish guvohnomasi, soliq va rekvizitlar, narx taklifi, material sertifikatlari va sinov hujjatlari, texnika ro'yxati, tajriba hujjatlari, halollik majburiyati arizasi.",
+      "summary_en": "Mandatory documents include registration certificate, tax and bank details, price offer, material certificates and test documents, equipment list, experience documents and an integrity statement.",
+      "quote": "m ateriallar b o ‘yicha sertifikatlar va sinov hujjatlari;"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "EN 1436, EN 1824, EN 1871, EN 13197 bo'yicha sinov hisobotlari, O'zMSt ISO/IEC 17025 bo'yicha akkreditatsiya hujjati",
+      "explanation_uz": "Texnik qismning 70 balidan 35 balli faqat bir nechta xalqaro sinov hisobotlari (EN 1436, 1824, 1871, 13197) va ISO/IEC 17025 akkreditatsiyasi hujjati mavjud bo'lganda beriladi; o'tish bali ham 35. Bunday hisobotlarni odatda bo'yoq ishlab chiqaruvchisi yoki akkreditatsiyalangan laboratoriya beradi, shuning uchun hisobotlarsiz ishtirokchi qolgan mezonlardan to'liq ball olsagina o'tish balining o'ziga yetadi.",
+      "explanation_en": "35 of the 70 technical points are awarded only if a set of international test reports (EN 1436, 1824, 1871, 13197) and an ISO/IEC 17025 accreditation document are attached, and the pass mark is also 35. These reports normally come from a paint maker or an accredited laboratory, so a capable marking contractor without them can only just reach the pass mark by scoring full points on every other criterion.",
+      "rewrite_uz": "O'zMSt 562:2025 talablariga muvofiqlik sinov hisobotlari (EN 1436 yoki unga teng standartlar bo'yicha), ishlatiladigan material ishlab chiqaruvchisi yoki akkreditatsiyalangan laboratoriya tomonidan berilgan bo'lsa, qabul qilinadi; hisobotlar ishtirokchining o'zida bo'lishi shart emas.",
+      "rewrite_en": "Test reports showing conformity with O'zMSt 562:2025 (EN 1436 or equivalent standards) are accepted if issued for the material to be used by its manufacturer or by an accredited laboratory; the bidder itself need not hold them."
+    },
+    {
+      "type": "unrealistic_deadline",
+      "severity": "medium",
+      "quote": "Ishlarni bajarish muddati — shartnoma kuchga kirgan kundan 2026-yil 31-dekabrgacha.",
+      "explanation_uz": "Takliflar 2026-yil 23-noyabrda yopiladi, shartnoma tuzilgach ishlar 31-dekabrgacha, ya'ni taxminan 5 haftada 500 km yo'lda yakunlanishi kerak (summa 2 500 000 000 so'm). Qish oldi sharoitida bu faqat tayyor texnika va materialga ega ishtirokchilar uchun real bo'lishi mumkin; lot ma'lumotlarida esa bajarish muddati 55 oy deb ko'rsatilgan, bu ikki ko'rsatkich bir-biriga mos kelmaydi.",
+      "explanation_en": "Bids close on 23 November 2026 and the works must finish by 31 December, roughly 5 weeks after contract signing, for 500 km of road in late autumn (lot value 2,500,000,000 UZS). This is realistic mainly for bidders who already hold crews, equipment and paint; the lot header also lists a 55-month term, which does not match the stated end date.",
+      "rewrite_uz": "Ishlarni bajarish muddati shartnoma kuchga kirgan kundan boshlab ob-havo sharoitini hisobga olgan holda belgilansin (masalan, 500 km uchun hajm bo'yicha bosqichlar va 2027-yil aprelgacha muddat), yoki muddat taklif etilgan texnika soniga qarab ishtirokchilar tomonidan taklif qilinsin.",
+      "rewrite_en": "Set the completion period from contract entry into force with weather conditions in mind (for example stages by volume and an end date in spring 2027), or let bidders propose the period according to the equipment they commit."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik guvohnomasi nusxasi",
+    "Soliq va bank rekvizitlari ma'lumotnomasi",
+    "Narx taklifi",
+    "O'zMSt 562:2025 ga mos texnik taklif",
+    "EN 1436, EN 1824, EN 1871, EN 13197 bo'yicha sinov hisobotlari",
+    "ISO/IEC 17025 akkreditatsiyasini tasdiqlovchi hujjat",
+    "Materiallar bo'yicha sertifikatlar va sinov hujjatlari",
+    "Texnika va uskunalar ro'yxati hamda ularga egalik, ijara yoki lizing hujjatlari",
+    "Xodimlar ro'yxati, diplomlar, mehnat shartnomalari va shtat jadvali ma'lumotnomasi",
+    "Oxirgi 3 yilda bajarilgan o'xshash ishlar bo'yicha shartnomalar, dalolatnomalar va hisob-fakturalar",
+    "Kafolat muddati va bajarish muddati bo'yicha taklif (kafolat xati)",
+    "Halollik majburiyati to'g'risida ariza",
+    "Benefitsiar to'g'risidagi ma'lumot (portal talab qilsa)"
+  ]
+}

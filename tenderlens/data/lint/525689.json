@@ -1,0 +1,101 @@
+{
+  "lot_id": 525689,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Aeroportda havo kemalariga yoqilgʻi quyish uchun 4 dona aerodrom yoqilgʻi quyish mashinasini (ATZ) 6 oyga ijaraga olish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Predmet: 4 dona aerodrom yoqilgʻi quyish mashinasi (ATZ), MAN, IVECO yoki VOLVO rusumlaridan bir xil rusumda, 6 oyga ijara.",
+      "summary_en": "Subject: 4 aerodrome refuelling vehicles (ATZ) of the same make chosen from MAN, IVECO or VOLVO, rented for 6 months.",
+      "quote": "MAN, IVECO yoki VOLVO rusumlaridan bir xil rusumdagi 4 dona aerodrom yoqilg‘i quyish mashinasini (ATZ) ijaraga olish xizmati"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mashina 2025-yildan oldin ishlab chiqarilmagan boʻlishi kerak; yangi yoki yurish masofasi kam foydalanilgan mashina ruxsat etiladi.",
+      "summary_en": "The vehicle must be made in 2025 or later; new or low-mileage used vehicles are allowed.",
+      "quote": "2025-yildan oldin bo‘lmasligi. Yangi yoki foydalanilgan, yurish masofasi kam va texnologik uskunalari kam ishlagan avtomobilga ruxsat etiladi."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Dizel dvigatel suyuq sovitish tizimi bilan, ekologik sinfi Euro-5 dan past emas.",
+      "summary_en": "Liquid-cooled diesel engine, emission class not lower than Euro-5.",
+      "quote": "Suyuq sovitish tizimiga ega dizel dvigatel; ekologik sinfi Euro-5 dan past bo‘lmasligi kerak."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Sisterna sigʻimi kamida 22 000 litr; materiali alyuminiy qotishmasi yoki zanglamaydigan poʻlat.",
+      "summary_en": "Tank capacity at least 22,000 litres, made of aluminium alloy or stainless steel.",
+      "quote": "Kamida 22 000 litr."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Nasos markazdan qochma turda, unumdorligi kamida 80 m3/soat.",
+      "summary_en": "Centrifugal pump with output of at least 80 m3/hour.",
+      "quote": "Markazdan qochma turdagi; unumdorligi kamida 80 m³/soat."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Xavfsizlik tizimlari (DEADMAN, INTERLOCK, favqulodda toʻxtatish) talab qilinadi.",
+      "summary_en": "Safety systems (DEADMAN, INTERLOCK, emergency stop) are required.",
+      "quote": "DEADMAN: uzunligi kamida 10 m bo‘lgan spiral kabel."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati shartnomada belgilangan sanadan boshlab 90 kalendar kundan oshmasligi kerak.",
+      "summary_en": "Delivery must take no more than 90 calendar days from the date set in the contract.",
+      "quote": "Shartnomada belgilangan sanadan boshlab 90 kalendar kundan oshmasligi kerak."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kichik ta'mirlash va texnik xizmat ijarachi hisobidan; katta ta'mirlash, ehtiyot qismlar va sugʻurta ijaraga beruvchi hisobidan.",
+      "summary_en": "Routine servicing and minor repair at the lessee's cost; major repair, spare parts and insurance at the lessor's cost.",
+      "quote": "Katta va kafolatli ta’mirlash, shuningdek, ehtiyot qismlar, akkumulyator batareyalari"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Yoqilgʻi tashishga moʻljallangan maxsus transport vositalari mavjudligini tasdiqlovchi hujjatlar (texnik pasport, mulk yoki ijara hujjati) talab qilinadi.",
+      "summary_en": "Documents proving the bidder has fuel-carrying special vehicles (technical passport, ownership or lease document) are required.",
+      "quote": "Yoqilg‘i tashishga mo‘ljallangan maxsus transport vositalari mavjudligini tasdiqlovchi hujjatlar (texnik pasport, mulk huquqini tasdiqlovchi hujjat yoki ijara shartnomasi)"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi yoqilgʻi tashish faoliyati uchun qonunchilikda talab etiladigan litsenziya va ruxsatnomalarga ega boʻlishi shart; aks holda chetlashtiriladi.",
+      "summary_en": "The bidder must hold the licence and permits required by law for fuel transport, otherwise it is excluded.",
+      "quote": "ishtirokchi yoqilg‘i tashish faoliyatini amalga oshirish uchun qonunchilikda talab etiladigan litsenziya va ruxsat beruvchi hujjatlarga ega bo‘lishi shart"
+    }
+  ],
+  "flags": [
+    {
+      "type": "brand_no_equivalent",
+      "severity": "medium",
+      "quote": "MAN, IVECO yoki VOLVO rusumlaridan bir xil rusumdagi 4 dona aerodrom yoqilg‘i quyish mashinasini (ATZ) ijaraga olish xizmati",
+      "explanation_uz": "Shassi uchun uchta rusum nomlangan va boshqa teng rusum yoki ekvivalent nazarda tutilmagan, shuningdek barcha 4 dona bir xil rusumda boʻlishi talab qilinadi. Bu boshqa ishlab chiqaruvchining shassisida mos ATZ taklif qila oladigan yetkazib beruvchilarni chetlab qolishi mumkin. Birlik parki yoki ehtiyot qismlar bilan bogʻliq asos boʻlishi mumkin, buni tekshirish kerak.",
+      "explanation_en": "Three chassis makes are named with no equivalent allowed, and all 4 units must be the same make. This may shut out suppliers who could offer a suitable ATZ on another manufacturer's chassis. A fleet or spare-parts reason is conceivable and should be checked.",
+      "rewrite_uz": "Yuk avtomobili shassisida (masalan, MAN, IVECO, VOLVO yoki ularga teng texnik koʻrsatkichli boshqa rusum) bir xil rusumdagi 4 dona aerodrom yoqilgʻi quyish mashinasini (ATZ) ijaraga olish xizmati.",
+      "rewrite_en": "Rental of 4 aerodrome refuelling vehicles (ATZ) of one make on a truck chassis (for example MAN, IVECO, VOLVO or another make with equivalent technical characteristics)."
+    },
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "2025-yildan oldin bo‘lmasligi. Yangi yoki foydalanilgan, yurish masofasi kam va texnologik uskunalari kam ishlagan avtomobilga ruxsat etiladi.",
+      "explanation_uz": "Mashina 2025-yildan oldin ishlab chiqarilmagan boʻlishi kerak, ijara muddati esa atigi 6 oy. Shu sababli mavjud va yaxshi holatdagi, lekin 2024-yil yoki undan oldingi ATZ ega yetkazib beruvchilar chetda qolishi mumkin va taklif qiluvchi 90 kun ichida deyarli yangi texnikani yetkazishi kerak boʻladi. Talabning bunday qatʼiyligi asoslanishi kerak.",
+      "explanation_en": "The vehicle must be made in 2025 or later, while the rental is only 6 months. Suppliers who hold good ATZ built in 2024 or earlier may be shut out, and a bidder essentially needs a near-new vehicle within the 90-day delivery period. The strictness of this requirement should be justified.",
+      "rewrite_uz": "Ishlab chiqarilgan yili 2020-yildan oldin boʻlmasligi; texnik holati soz va ishlab chiqaruvchi talablariga muvofiq ekanligi tasdiqlanishi kerak.",
+      "rewrite_en": "Year of manufacture not earlier than 2020; technical condition must be confirmed as serviceable and in line with the manufacturer's requirements."
+    }
+  ],
+  "documents_needed_uz": [
+    "Texnik taklif (4-shakl) va texnik parametrlar",
+    "Yetkazib berish va toʻlov shartlari haqida maʼlumot (5-shakl)",
+    "Ishtirokchi va uning taʼsischilari haqida umumiy maʼlumot (1-shakl)",
+    "Qayta tashkil etish, tugatish, bankrotlik yoki sud jarayonida emasligi haqida kafolat xati (2-shakl)",
+    "Halollik va manfaatlar toʻqnashuvi yoʻqligi haqida ariza (3-shakl)",
+    "Soliq va yigʻimlar boʻyicha muddati oʻtgan qarz yoʻqligi haqida maʼlumotnoma",
+    "Yoqilgʻi tashishga moʻljallangan maxsus transport vositalari mavjudligini tasdiqlovchi hujjatlar (texnik pasport, mulk yoki ijara hujjati)",
+    "Transport vositalarining texnik koʻrikdan oʻtganligi va soz holatda ekanligini tasdiqlovchi hujjatlar",
+    "Yoqilgʻi tashish faoliyati uchun litsenziya va ruxsat beruvchi hujjatlar",
+    "Intellektual mulk huquqlarini buyurtmachiga topshirish shartlari koʻrsatilgan kafolat xati"
+  ]
+}

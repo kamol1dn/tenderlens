@@ -1,0 +1,95 @@
+{
+  "lot_id": 524341,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Radar sath o'lchagichlar, issiqlik va suv hisoblagichlari hamda analizatorlarni davriy qiyoslashdan o'tkazish xizmati",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Xizmat ko'rsatuvchi tashkilot O'zDSt ISO 17025 yoki O'zDSt 3444 bo'yicha akkreditatsiyadan o'tgan kalibrlash laboratoriyasiga ega bo'lishi shart.",
+      "summary_en": "The provider must have a calibration laboratory accredited to ISO 17025 or the national standard 3444.",
+      "quote": "Xizmat ko`rsatuvchi tashkilot O`zDSt ISO 17025 yoki O`zDSt 3444 standarti asosida akkreditatsiyadan o`tgan"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ilovadagi o'lchash vositalari shartnomadan boshlab 90 kalendar kun ichida qiyoslanishi kerak.",
+      "summary_en": "The instruments listed in the annex must be verified within 90 calendar days.",
+      "quote": "1- Ilovadagi o`lchash vositalarini 90 kalendar kuni ichida qiyoslashdan o`tkazish."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Texnologik qurilmaga o'rnatilgan va katta hajmli asboblar zavod hududiga kelib qiyoslanadi.",
+      "summary_en": "Instruments installed in process units and large devices must be verified on the customer's plant site.",
+      "quote": "Texnologiyada o’rnatilgan, katta hajmli va tekshiruv uchun texnologik jarayondagi muhit (gaz, suyuqlik yoki boshqa modda) talab qilingan o’lchash vositlarini zavod hududiga kelib qiyoslash."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Mutaxassislarning kelib-ketishi va laboratoriyaga olib borilgan asboblarni tashish xarajati ijrochi hisobidan.",
+      "summary_en": "Travel of specialists and transport of instruments to the laboratory and back are at the contractor's cost.",
+      "quote": "Laboratoriyaga olib borilishi zarur bo`lgan o`lchash vositalari Bajaruvchi hisobidan olib ketilib qaytarib olib"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Har bir asbob uchun qiyoslash bayonnomalari va sertifikatlari qog'oz va elektron shaklda topshiriladi; yaroqsiz bo'lsa xabarnoma beriladi.",
+      "summary_en": "For each instrument, verification reports and certificates are handed over on paper and electronically; a failure notice is issued if it fails.",
+      "quote": "Kalibrlash natijalari, ya`ni har bor o`lchah vositasi uchun kalibrlash yoki qiyoslash bayonnomalari, kalibrlash sertifikatlari qog`oz va elektron shaklda buyurtmachiga topshirilishi."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ijrochi axborot xavfsizligi bo'yicha ISO 27001 talablariga rioya qilishi va risklarni boshqarish tartibiga ega bo'lishi lozim.",
+      "summary_en": "The contractor must follow ISO 27001 information-security requirements and have a risk-management procedure.",
+      "quote": "ISO 27001 standartining (Ilova A) 5.18–5.22-bandlari talablariga muvofiq, Ijrochi kompaniya axborot xavfsizligi talablariga rioya qilishi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Har bir tajriba yozuvi shartnoma yoki dalolatnoma bilan tasdiqlanishi va unga aniq mos kelishi shart.",
+      "summary_en": "Each experience entry must be backed by a contract or act and match it exactly.",
+      "quote": "Har bir ish kamida bitta tasdiqlovchi hujjat (shartnoma, dalolatnoma yoki boshqa hujjat) bilan tasdiqlanishi va unga aniq mos kelishi shart"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash faqat narx bo'yicha (100 foiz); texnik taklif va hujjatlar mos bo'lsa 1 ball, aks holda diskvalifikatsiya.",
+      "summary_en": "Evaluation is on price only (100 percent); a conforming technical offer and documents get 1 point, otherwise disqualification.",
+      "quote": "2-sonli shakl, 2-sonli shakl ilovasi va Texnik topshiriqda talab etilgan hujjatlar talablarga mos kelsa – 1 ball"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Shartnoma imzolashda g'olib har bir xizmat narxini taqdim etadi; narx birlik uchun boshlang'ich narxdan oshmasligi kerak.",
+      "summary_en": "At signing the winner states a price per service, which must not exceed the start price per unit.",
+      "quote": "taklif etilgan narx tegishli birlik uchun belgilangan boshlang‘ich narxdan oshmasligi kerak"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Davlat reyestri hujjatlari tekshiruv sanasidan kamida 30 kun oldin berilgan bo'lishi kerak.",
+      "summary_en": "Documents from state registers must have been issued at least 30 days before the check date.",
+      "quote": "davlat reestrlaridagi hujjatlar esa tekshirish sanasidan kamida 30 (o‘ttiz) kun oldin berilgan bo‘lishi kerak."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "1-izoh: zarurat bo‘lganda, tekshirish bosqichida talab qilinadigan hujjatlar ro‘yxati Buyurtmachi xodimining tashabbusi bilan kengaytirilishi mumkin.",
+      "explanation_uz": "Tekshirish bosqichida talab qilinadigan hujjatlar ro'yxati buyurtmachi xodimi tashabbusi bilan kengaytirilishi mumkin, 2-mezonda esa «salbiy xulosa» 0 ball va diskvalifikatsiyaga olib keladi. Takliflar muddatigacha ishtirokchi qaysi hujjat talab qilinishini bilmasligi va baholash mezoni noaniq bo'lishi mumkin. Lot narxi 900 094 000 so'm, narx bo'yicha baho 100 foiz.",
+      "explanation_en": "The list of documents required at the check stage may be extended at the initiative of a customer employee, and under criterion 2 a negative check result means 0 points and disqualification. A bidder cannot know in advance which documents will count, so the test is open-ended. The lot's start price is 900,094,000 UZS and evaluation is 100 percent on price.",
+      "rewrite_uz": "Tekshiruv uchun talab qilinadigan hujjatlar ro'yxati xarid hujjatida to'liq ko'rsatilsin; qo'shimcha hujjat talab qilinsa, ishtirokchiga kamida 3 ish kuni muddat berilsin.",
+      "rewrite_en": "List all documents required for the check in the procurement document; if an additional document is requested, give the bidder at least 3 working days to supply it."
+    }
+  ],
+  "documents_needed_uz": [
+    "2-sonli shakl bo'yicha texnik taklif va texnik xarakteristikalar solishtiruv jadvali",
+    "2-sonli shakl ilovasi: xizmatlar ro'yxati va o'xshash xizmat ko'rsatish tajribasi (shartnoma yoki dalolatnoma bilan)",
+    "1-sonli shakl: kontragent so'rovnomasi va unda belgilangan hujjatlar",
+    "Davlat ro'yxatidan o'tganlik guvohnomasi, STIR ma'lumoti, ustav va ta'sis hujjatlari",
+    "Rahbar tayinlanganligi buyrug'i yoki ishonchnoma va pasport nusxasi",
+    "Oxirgi hisobot davri buxgalteriya va soliq hisoboti",
+    "Malakali xodimlar mavjudligi haqida ma'lumot",
+    "O'zDSt ISO 17025 yoki O'zDSt 3444 bo'yicha akkreditatsiya guvohnomasi",
+    "Litsenziya va muvofiqlik sertifikatlari (kerak bo'lsa)",
+    "Soliq, bankrotlik, insofsiz ijrochilar reyestri va majburiy ijro bo'yicha ma'lumotnoma va skrinshotlar",
+    "Manfaatlar to'qnashuvi va affillanganlik yo'qligi haqida ma'lumot",
+    "Halollik majburiyati to'g'risida ariza",
+    "Narx taklifi (3-sonli shakl, har bir xizmat narxi bilan)"
+  ]
+}

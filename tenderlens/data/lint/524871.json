@@ -1,0 +1,111 @@
+{
+  "lot_id": 524871,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Xavfli ishlab chiqarish obyektlarida avariya uchun fuqarolik javobgarligini majburiy sug'urta qilish xizmati (lot nomi baholash xizmati deb ko'rsatilgan, hujjatlar sug'urta haqida)",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "Xavfli ishlab chiqarish obyektlarida fuqarolik javobgarligini majburiy sug'urta qilish bo'yicha tajribani tasdiqlovchi hujjat talab qilinadi.",
+      "summary_en": "A document proving experience in compulsory civil-liability insurance for hazardous production facilities is required.",
+      "quote": "uchun fuqarolik javobgarligini majburiy sug‘urta qilish bo‘yicha tajribani tasdiqlovchi hujjat"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnoma tuzish vaqtida SNS Reytings bo'yicha (uz)AA yoki undan yuqori, Ahbor-Reyting bo'yicha UzA+ yoki undan yuqori milliy reyting talab qilinadi.",
+      "summary_en": "A national rating of at least (uz)AA from SNS Reytings or UzA+ from Ahbor-Reyting is required at contract signing.",
+      "quote": "shartnoma tuzish vaqtida «SNS Reytings».agentligi bo‘yicha «(uz)AA» yoki undan yuqori"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Sug'urta kompaniyasining ustav fondi kamida 70 mlrd so'm bo'lishi kerak; aks holda ishtirokchi chetlatiladi.",
+      "summary_en": "The insurer's charter capital must be at least 70 billion UZS, otherwise the bidder is disqualified.",
+      "quote": "sug‘urta kompaniyasi ustav fondi 70 mlrd so‘mdan kam emasligini tasdiqlovchi hujjat"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Istiqbolli loyihalar milliy agentligi (NAPP) bergan kamida AA joriy milliy reyting talab qilinadi.",
+      "summary_en": "A current national rating of at least AA from the National Agency of Perspective Projects (NAPP) is required.",
+      "quote": "Istiqbolli loyihalar milliy agentligi (NAPP) tomonidan berilgan «AA»dan past bo‘lmagan joriy milliy reyting"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "So'nggi 3 yilda NAPP tomonidan jarima qo'llanilmaganligi to'g'risida kafolat xati taqdim etiladi.",
+      "summary_en": "A guarantee letter is needed that NAPP imposed no fines in the last 3 years.",
+      "quote": "so‘nggi 3 yil ichidaNAPP tomonidan jarimalar qo‘llanilmaganligi to‘g‘risida kafolat xati"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "2023-2025 yillar uchun tasdiqlangan F1 va F2 moliyaviy hisobotlari taqdim etiladi (10 ball).",
+      "summary_en": "Approved F1 and F2 financial statements for 2023-2025 are submitted (10 points).",
+      "quote": "Иштирокчи 2023-2025 йиллар учун тасдиқланган (қабул қилинган) йиллик Ф1 ва Ф2 молиявий ҳисоботларини тақдим этиши керак."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ustav fondi 110 mlrd so'mdan kam bo'lmasa 10 ball, 90 mlrd dan 5 ball, 70 mlrd dan 2 ball beriladi.",
+      "summary_en": "Charter capital of 110 billion UZS or more earns 10 points, 90 billion earns 5, 70 billion earns 2.",
+      "quote": "Суғурта компаниясининг устав фонди 110 млрд. сумдан паст бўлмаган Максимал 10 балл"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Narx 30%, texnik va malaka qismi 70% bilan baholanadi (platforma shaklida narx 100% deb ko'rsatilgan).",
+      "summary_en": "Price carries 30% and the technical part 70% in the procurement documents (the platform form shows price at 100%).",
+      "quote": "Narhlarni baxolash 30,0 %"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Boshlang'ich narx QQS bilan 450 000 000 so'm; shartnoma xizmat muddati 12 oy.",
+      "summary_en": "The starting price is 450,000,000 UZS including VAT; service period is 12 months.",
+      "quote": "450 000 000,00 (To’rt yuz ellik million ) so‘m QQS bilan"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "G'olib e'lon qilinganidan boshlab 10 ish kuni ichida shartnoma tuzilishi kerak.",
+      "summary_en": "The contract must be signed within 10 working days of the winner being announced.",
+      "quote": "etiboran 10 (o‘n) ish kunigacha shartnoma tuzishlari lozim"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklif kamida 30 kun amal qilishi kerak.",
+      "summary_en": "The bid must remain valid for at least 30 days.",
+      "quote": "Ishtirokchilaming takliflari amal qilish muddati taklifni taqdim etish muddati tugagan kundan boshlab kamida 30 kun bo‘lishi kerak."
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_financial",
+      "severity": "medium",
+      "quote": "sug‘urta kompaniyasi ustav fondi 70 mlrd so‘mdan kam emasligini tasdiqlovchi hujjat",
+      "explanation_uz": "Ishtirok uchun ustav fondi kamida 70 mlrd so'm bo'lishi shart, ball jadvalida esa 110 mlrd so'mgacha ustunlik beriladi. Shartnoma qiymati 450 mln so'm bo'lgani uchun bu talab litsenziyali, ammo kichikroq sug'urtachilarni chetlab o'tishi mumkin. Chegara qiymatining asosini tekshirish tavsiya etiladi.",
+      "explanation_en": "Taking part requires charter capital of at least 70 billion UZS, and the scoring table favours up to 110 billion. With a contract worth 450 million UZS, this may shut out licensed but smaller insurers. The basis for the threshold is worth checking.",
+      "rewrite_uz": "Sug'urtachi faoliyat uchun amaldagi qonunchilikda belgilangan minimal kapital va to'lov qobiliyati talablariga javob berishi kerak (lisenziya va to'lov qobiliyati to'g'risida ma'lumot taqdim etiladi).",
+      "rewrite_en": "The insurer must meet the minimum capital and solvency requirements that apply to its insurance licence (licence and solvency information to be provided)."
+    },
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "shartnoma tuzish vaqtida «SNS Reytings».agentligi bo‘yicha «(uz)AA» yoki undan yuqori",
+      "explanation_uz": "Talab nomlangan reyting agentliklariga (SNS Reytings, Ahbor-Reyting, NAPP) hamda xalqaro reytinglarga bog'langan; boshqa agentlikdan reyting olgan yoki hali reytingga ega bo'lmagan sug'urtachilar ishtirok eta olmaydi. Bir nechta reytingning birgalikda talab qilinishi ishtirokchilar sonini sezilarli qisqartirishi mumkin.",
+      "explanation_en": "The requirement is tied to named rating agencies (SNS Reytings, Ahbor-Reyting, NAPP) and to international ratings; insurers rated by another agency, or not yet rated, cannot take part. Asking for several ratings together may reduce the number of bidders considerably.",
+      "rewrite_uz": "Sug'urtachi kamida bitta tan olingan reyting agentligidan moliyaviy barqarorlik reytingiga ega bo'lishi kerak (agentliklar ro'yxati ochiq qoldiriladi); reyting yo'qligi diskvalifikatsiya emas, balki ball bilan hisobga olinadi.",
+      "rewrite_en": "The insurer must hold a financial-strength rating from at least one recognised rating agency (the list of agencies left open); lack of a rating should lower the score, not disqualify."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ishtirokchi va uning ta'sischilari haqida umumiy ma'lumot (1-shakl)",
+    "Kafolat xati (2-shakl): qayta tashkil etish, tugatish, bankrotlik yoki sud jarayonida emasligi",
+    "Manfaatlar to'qnashuvi va halol raqobat bo'yicha ariza (3-shakl)",
+    "O'xshash xizmatlar ko'rsatish tajribasi to'g'risida ma'lumot (4-shakl)",
+    "Texnik taklif (5-shakl)",
+    "2023-2025 yillar uchun F1 va F2 moliyaviy hisobotlari",
+    "Fuqarolik javobgarligini majburiy sug'urta qilish bo'yicha tajribani tasdiqlovchi hujjat",
+    "SNS Reytings va Ahbor-Reyting milliy reyting hujjatlari",
+    "Xalqaro reyting (Fitch, S&P, Moody's) hujjati",
+    "NAPP reyting hujjati va jarimalar yo'qligi to'g'risida kafolat xati",
+    "Sug'urta kompaniyasi ustavi (ustav fondini tasdiqlovchi)",
+    "Soliq qarzi yo'qligi to'g'risida Soliq qo'mitasi ma'lumotnomasi",
+    "Bankrotlik holati yo'qligini tasdiqlovchi ma'lumot",
+    "Buyurtmachi bilan sud jarayonida emasligi to'g'risida xat"
+  ]
+}

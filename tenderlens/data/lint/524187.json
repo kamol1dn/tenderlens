@@ -1,0 +1,93 @@
+{
+  "lot_id": 524187,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Kran xo'jaligi uchun ehtiyot qismlar: tishli g'ildirak m-20 z-75, val-shesterna m-20 z-15 va chiqish shesternyasi m=24 z=18",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Tishli g'ildirak tishlarining qattiqligi 35-38 HRC oralig'ida bo'lishi kerak.",
+      "summary_en": "Tooth hardness of the gear wheel must be within 35-38 HRC.",
+      "quote": "Твердесть зубьев должно быть в предела 35 - 38 HRC."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Chiqish shesternyasi buyurtmachi taqdim etgan chizmalarga to'liq mos bo'lishi kerak.",
+      "summary_en": "The output pinion must fully match the drawings supplied by the customer.",
+      "quote": "Шестерня выходная должна полностью соответствовать требованиям чертежей, предоставляемых заказчиком, указанных в приложение №1"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mahsulot yangi, tiklanmagan va joriy yildan oldin ishlab chiqarilmagan bo'lishi kerak.",
+      "summary_en": "Goods must be new, not refurbished, and manufactured no earlier than the current year.",
+      "quote": "не восстановленным, не бывшим в употреблении, а дата изготовления должно быть не ранее текущего года"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Quyma zagotovka uchun sifat sertifikati (GOST 7832-65) taqdim etiladi.",
+      "summary_en": "A quality certificate for the casting blank (GOST 7832-65) must accompany the gear.",
+      "quote": "сертификат качества на литье (заготовка зубчатого колеса по ГОСТ 7832-65)"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati shartnoma imzolanganidan 90 ish kuni.",
+      "summary_en": "Delivery within 90 working days of contract signing.",
+      "quote": "90 рабочих дней с даты подписания договора"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Tovar Bekobod shahridagi buyurtmachi omborigacha yetkaziladi.",
+      "summary_en": "Goods are delivered to the customer's warehouse in Bekabad.",
+      "quote": "Доставка до склада Покупателя. АО «Узметкомбинат», Республика Узбекистан, Ташкентская область, г. Бекабад, ул. Сирдарё, 1."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "To'lov yetkazib berilgandan keyin 100 foiz, 15 kun ichida; avans yo'q.",
+      "summary_en": "100 percent payment after delivery within 15 days; no advance.",
+      "quote": "Условия оплаты 100% по факту поставки товара"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat muddati foydalanishga topshirilgandan 12 oy, ammo jo'natish tugagandan keyin 18 oydan oshmaydi.",
+      "summary_en": "Warranty is 12 months from commissioning but no more than 18 months after the end of shipment.",
+      "quote": "Гарантийный срок эксплуатации запасных частей для кранового хозяйство 12 месяцев со дня ввода в эксплуатацию, но не более 18 месяцев после окончания отгрузки оборудования заказчику."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Taklif ta'minoti boshlang'ich narxning 1 foizi (taxminan 17,6 mln so'm).",
+      "summary_en": "Bid security is 1 percent of the limit price (about 17.6 million UZS).",
+      "quote": "1% от предельной стоимости конкурса"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kafolat xatida ishtirokchi buyurtmachi bilan sud yoki arbitraj jarayonida emasligini tasdiqlaydi.",
+      "summary_en": "A guarantee letter confirms the bidder is not in court or arbitration proceedings.",
+      "quote": "не находится в состоянии судебного или арбитражного разбирательства"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Soliq inspeksiyasidan soliq va yig'imlar bo'yicha muddati o'tgan qarz yo'qligi haqida ma'lumotnoma kerak.",
+      "summary_en": "A tax-inspectorate certificate of no overdue tax debt is required.",
+      "quote": "Предоставление справки от налоговой инспекции о том, что участник не имеет просроченной задолженности по уплате налогов и сборов."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash eng past narx usulida: malaka va texnik tanlovdan o'tgan eng arzon ishtirokchi g'olib bo'ladi.",
+      "summary_en": "Lowest-price method: the cheapest bidder passing the qualification and technical checks wins.",
+      "quote": "Участник с наименьшей ценой, который прошел квалификационный и технический отбор объявляется победителем."
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Tanlash ishtirokchisi va uning ta'sischilari haqida umumiy ma'lumot (1-shakl)",
+    "Kafolat xati: qayta tashkil etish, bankrotlik, sud yoki arbitraj jarayoni, muddati o'tgan qarz, offshor hududlar, insofsiz ijrochilar reyestri va oldingi shartnomalar bo'yicha (2-shakl)",
+    "Halollik majburiyatlari bayonoti (3-shakl)",
+    "Taklifning texnik qismi, texnik parametrlar bilan (4-shakl)",
+    "Yetkazib berish shartlari va muddatlari, to'lov shartlari to'g'risida ma'lumot (5-shakl)",
+    "Soliq inspeksiyasidan soliq va yig'imlar bo'yicha qarzi yo'qligi haqida ma'lumotnoma",
+    "Tashkilotning davlat ro'yxatidan o'tganligi guvohnomasi va rahbar pasporti nusxasi (ixtiyoriy)",
+    "Taklifni ta'minlash (boshlang'ich narxning 1 foizi)",
+    "Yetkazib berishda: muvofiqlik va sifat sertifikati, mahsulot pasporti, kelib chiqish sertifikati (CT-1)"
+  ]
+}

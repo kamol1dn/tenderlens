@@ -1,0 +1,109 @@
+{
+  "lot_id": 524928,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "Urganch shahar Olimpiya mahallasida «Aqlli mahalla / aqlli dom» boshqaruv tizimini joriy etish (dasturiy majmua, sensorlar, aqlli ustun va ko'zoynak integratsiyasi)",
+  "requirements": [
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish muddati 15 kun deb belgilangan.",
+      "summary_en": "Delivery time is set at 15 days.",
+      "quote": "1.3. Etkazib berish muddati – 15 kun."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Sensor moduli 30 ta ko'p qavatli uyda xavfsizlik va kommunal holatni kuzatish uchun sensor va aloqa qurilmalarini ulashni o'z ichiga oladi.",
+      "summary_en": "The sensor module covers connecting sensor and communication devices in 30 multi-storey buildings.",
+      "quote": "Mazkur modul 30 ta ko‘p qavatli uyda xavfsizlik, kommunal holat va umumiy hudud"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Qurilmalarni o'rnatish va sotib olish dasturiy ta'minot bilan birga bajarilmaydi, ular alohida kelishuv bilan olinadi.",
+      "summary_en": "Installing and buying the devices is not done together with the software; devices are bought under a separate arrangement.",
+      "quote": "Qurilmalarni o’rnatish, sotib olish dasturiy ta’minot bilan birga bajarilmaydi, barcha qurilmalar alohida kelishuv orqali sotib olinadi yoki o’rnatiladi."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Tizim va texnik topshiriq loyihasi vakolatli davlat organining kiberxavfsizlik ekspertizasidan o'tkazilishi kerak.",
+      "summary_en": "The system and the technical assignment must pass the cybersecurity expert review of the authorised state body.",
+      "quote": "tizim va texnik topshiriq loyihasi vakolatli davlat organi ekspertizasidan o‘tkazilishi;"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Manba kodi va mulk huquqi buyurtmachiga o'tadi, manba kodi to'liq topshiriladi.",
+      "summary_en": "Ownership and source code pass to the customer; the source code is handed over in full.",
+      "quote": "mulk huquqi va manba kodi buyurtmachiga tegishliligi shartnomada belgilanishi;"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Tizimga kamida 12 oy kafolat, kafolat davrida kamchiliklar bepul bartaraf etiladi.",
+      "summary_en": "At least 12 months' warranty; defects are fixed free of charge during the warranty.",
+      "quote": "yetkazib berilgan tizimga kamida 12 oy kafolat;"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30% avans 5 ish kuni ichida, qolgan 70% to'liq yetkazilgandan keyin 5 ish kuni ichida to'lanadi.",
+      "summary_en": "30% advance within 5 working days, remaining 70% within 5 working days after full delivery.",
+      "quote": "Tanlash g‘olibiga shartnoma qiymatining 30 % miqdorida oldindan to‘lov 5 ish kun ichida"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "3-mezon (20 ball): 3 yil xizmat ko'rsatish va yordam berish bo'yicha kafolat xati — 20 ball, 3 yildan kam — 10 ball, xat yo'q — 0 ball.",
+      "summary_en": "Criterion 3 (20 points): guarantee letter for 3 years of service and support gets 20 points, less than 3 years 10, none 0.",
+      "quote": "Agar tovarga (dasturiy majmuaga) kamida 3 yil xizmat ko‘rsatish va uni ekspluatatsiya qilishga 3 yil davomida yordam berishga kafolat xati berilsa maksimal 20 ball beriladi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "4-mezon (20 ball): eng qisqa yetkazish muddatini ko'rsatgan ishtirokchi 20 ball, eng uzun muddatli — 0 ball oladi.",
+      "summary_en": "Criterion 4 (20 points): the bidder with the shortest delivery time gets 20 points, the longest gets 0.",
+      "quote": "Agar tovarga (dasturiy majmuani) yetkazib berish muddatti eng kam vaqt ko‘rsatilgan xo‘jalik sub’ektiga maksimal 20 ball beriladi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "5-mezon (20 ball): zarur malakali xodimlar haqida har biri bo'yicha ma'lumot; malakali xodimlari ko'p ishtirokchi 20 ball oladi.",
+      "summary_en": "Criterion 5 (20 points): details of each qualified employee; the bidder with many qualified staff gets 20 points.",
+      "quote": "Yuqori malakaga ega xodimlari ko‘p bo‘lgan xo‘jalik sub’ektiga maksimal 20 ball beriladi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik qism 70%, narx 30%; texnik qismdan o'tish bali 50 (5 mezon, har biri 20 ball).",
+      "summary_en": "70% technical, 30% price; technical pass mark 50 (five criteria of 20 points each).",
+      "quote": "Texnik qismdan o‘tishning minimal bali 50 balni tashkil qiladi."
+    }
+  ],
+  "flags": [
+    {
+      "type": "unrealistic_deadline",
+      "severity": "high",
+      "quote": "1.3. Etkazib berish muddati – 15 kun.",
+      "explanation_uz": "1 mlrd so'mlik lot dasturiy majmua ishlab chiqish, 30 ta uyda sensorlar, aqlli ko'zoynak va aqlli ustun integratsiyasi, kiberxavfsizlik ekspertizasi va qabul sinovlarini o'z ichiga oladi, muddat esa 15 kun. Tayyor yechimga ega bo'lmagan ishtirokchi bunday muddatga ulgurmaydi; 4-mezon esa eng qisqa muddatga 20 ball beradi, bu bosimni yanada oshiradi.",
+      "explanation_en": "The 1 billion UZS lot covers building a software platform, sensors in 30 buildings, smart-glasses and smart-pillar integration, a cybersecurity review and acceptance tests, all within 15 days. A bidder without a ready-made solution cannot meet this, and criterion 4 awards 20 points for the shortest time, adding more pressure.",
+      "rewrite_uz": "Yetkazib berish va joriy etish muddati texnik topshiriqning 28-bo'limidagi bosqichlarga mos ravishda belgilanadi (har bir bosqich uchun alohida kalendar muddat), umumiy muddat ishlar hajmini hisobga olib asoslanadi.",
+      "rewrite_en": "The delivery and implementation period is set per phase following section 28 of the technical assignment, with a total term justified by the scope of work."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Yuqori malakaga ega xodimlari ko‘p bo‘lgan xo‘jalik sub’ektiga maksimal 20 ball beriladi.",
+      "explanation_uz": "5-mezonda 20 ball «xodimlari ko'p» ishtirokchiga beriladi, ammo xodimlar soni yoki malaka darajasining aniq chegarasi yo'q. Bu 20 ball (jami 100 balldan) baholash bo'yicha mulohazaga bog'liq va kichik, lekin malakali jamoaga ega ishtirokchini noaniq holatda qoldirishi mumkin.",
+      "explanation_en": "Criterion 5 gives 20 points to the bidder with 'many' highly qualified staff, but sets no headcount or qualification threshold. These 20 points depend on judgement and may leave a small but skilled team uncertain of its score.",
+      "rewrite_uz": "Ball aniq shkala bo'yicha beriladi: masalan, talab qilingan malakaga ega xodimlar soni (N nafargacha, N dan ko'p) bo'yicha belgilangan ballar, har bir xodim uchun tasdiqlovchi hujjat ko'rsatiladi.",
+      "rewrite_en": "Points follow a clear scale, for example set scores by the number of staff holding the stated qualification, each backed by a supporting document."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ishtirokchi to'g'risida umumiy ma'lumot (1-shakl)",
+    "Ro'yxatdan o'tganlik guvohnomasi nusxasi",
+    "Soliq inspeksiyasidan qarzdorlik yo'qligi haqida ma'lumotnoma (e'lon qilingan kundan keyin olingan)",
+    "Bankrotlik, tugatish yoki qayta tashkil etish tartibida emasligi haqida kafolat xati (2-shakl)",
+    "Insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumot (3-shakl)",
+    "Majburiy ijro byurosi bo'yicha ijro etilmagan hujjatlar yo'qligi haqida kafolat xati (4-shakl)",
+    "Texnik topshiriqqa muvofiqlikni tasdiqlovchi asoslovchi hujjatlar (7-ilova)",
+    "Sifat talablariga javob berishini tasdiqlovchi sertifikatlar va patent hujjatlari",
+    "Kamida 3 yil xizmat ko'rsatish va yordam berish bo'yicha kafolat xati",
+    "Yetkazib berish muddatlari haqida kafolat xati",
+    "Zarur malakali xodimlar haqida har biri bo'yicha ma'lumot",
+    "Taklif kafolati (3%)"
+  ]
+}

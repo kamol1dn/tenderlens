@@ -1,0 +1,114 @@
+{
+  "lot_id": 524998,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Nasos agregatlarining energetik samaradorligini baholash va energiya tejash bo'yicha ilmiy tadqiqot ishi",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Natija sifatida energoaudit natijalarini baholash bo'yicha tahliliy hisobot va nasos agregatlarining energetik balansi taqdim etiladi.",
+      "summary_en": "Deliverables include an analytical report evaluating energy-audit results and the energy balance of the pump units.",
+      "quote": "Tadqiqot yakunida energoaudit natijalarini baholash bo‘yicha tahliliy hisobot, nasos agregatlarining energetik balansi"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Ishlarni tugallash muddati 20 kalendar ish kuni.",
+      "summary_en": "Completion within 20 calendar working days.",
+      "quote": "Ishlami tugallash muddati: 20 kalendar ish kuni."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishda texnika fanlari doktori (DSc) va falsafa doktori (PhD) ishtirok etishi shart.",
+      "summary_en": "Doctors of technical sciences (DSc) and PhDs must take part in the work.",
+      "quote": "Soha ixtisosliklari bo‘yicha texnika fanlari doktori (DSc) va texnika fanlari bo‘yicha falsafa doktor (PhD)’ lari ishtirok etishi shart."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Tashkilotda DSc va PhD'lardan iborat ilmiy kengash bo'lishi hamda shu sohada ilmiy-tadqiqot ishlari bajarilgan bo'lishi kerak.",
+      "summary_en": "The organisation must have a scientific council of DSc and PhD holders and have completed research in this field.",
+      "quote": "tashkilotga texnika fanlari doktori (DSc) va texnika fanlari bo‘yicha falsafa doktorlaridan(PhD) iborat ilmiy kengash mavjudligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "DSc/PhD xodimlarni ishga qabul qilish buyrug'idan ko'chirma uchun mutaxassislar mezonida 21 ballgacha beriladi.",
+      "summary_en": "Up to 21 points on the specialists criterion for an extract of the hiring orders of DSc/PhD staff.",
+      "quote": "malakali mutaxassislarni ishga qabul qilish to'g'risidagi buyruq nusxasidan ko‘chirma"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Barcha o'lchov asboblarining metrologik qiyoslov sertifikatlari uchun 5 ball beriladi.",
+      "summary_en": "5 points for metrological verification certificates of all measuring instruments.",
+      "quote": "Barcha o‘lchov asbob-uskunalarining amaldagi Metrologik qiyoslovdan o'tganlik sertifikatlari nusxalari taqdim qilishi kerak."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "E'lon qilinguncha bajarilgan ishlar bo'yicha imzolangan shartnomalardan ko'chirma uchun 8 ball beriladi.",
+      "summary_en": "8 points for an extract of signed contracts for work done before the announcement.",
+      "quote": "E’longa qo‘yilgunga qadar bajargan ishlari bo’yicha imzolangan shartnomalardan ko’chirma"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mijozlarning rasmiy blankadagi tavsiyanomalari uchun 5 ball beriladi.",
+      "summary_en": "5 points for customer recommendation letters on official letterhead.",
+      "quote": "mijozlarning ijobiy fikr-mulohazalari to’g’risida rasmiy blankada berilgan tavsiyanomalar nusxalarini taqdim qilishi kerak"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Elektr xavfsizligi va mehnat muhofazasiga rioya qilish bo'yicha kafolat xati taqdim etilishi kerak (4 ball).",
+      "summary_en": "A guarantee letter on compliance with electrical and occupational safety rules is required (4 points).",
+      "quote": "Elektr xavfsizligi hamda Mehnat va texnika xavfsizligi qoidalariga rioya qilish bo’yicha kafolat xati taqdim etishi kerak"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Bajarilgan ishlar bo'yicha shartnoma muddatida 1 yil kafolat beriladi.",
+      "summary_en": "A one-year warranty on the performed work during the contract.",
+      "quote": "Ishtirokchi bajariladigan ishlar bo‘yicha shartnoma muddatida 1 yil kafolat berishi shart;"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30 foiz avans, qolgan 70 foiz ish yakunlari bo'yicha hujjatlar asosida to'lanadi.",
+      "summary_en": "30 percent advance; the remaining 70 percent is paid on the basis of confirming documents on completion.",
+      "quote": "Avans to‘lovlari 30%, bajariladigan ish yakunlari bo‘yicha tasdiqlovchi hujjatlar asosida qolgan 70% to‘lov amalga"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik qism 65 foiz, narx 35 foiz; o'tish bali 35.",
+      "summary_en": "Technical part 65 percent, price 35 percent; pass mark 35.",
+      "quote": "texnik qism 65.0%, narx 35.0%, o'tish bali 35"
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "tashkilotga texnika fanlari doktori (DSc) va texnika fanlari bo‘yicha falsafa doktorlaridan(PhD) iborat ilmiy kengash mavjudligi",
+      "explanation_uz": "Ishtirokchi tashkilotda DSc va PhD'lardan tashkil topgan ilmiy kengash bo'lishi shart qilib qo'yilgan. Bunday kengash faqat ilmiy-tadqiqot institutlari va universitetlarda bo'ladi, shu sababli tegishli mutaxassislari bor boshqa layoqatli tashkilotlar qatnasha olmasligi mumkin. Talabning zarurligini tekshirish tavsiya etiladi.",
+      "explanation_en": "The bidding organisation must have a scientific council made up of DSc and PhD holders. Such councils exist mainly in research institutes and universities, so other capable organisations with qualified specialists may be unable to bid. The need for this requirement is worth checking.",
+      "rewrite_uz": "Ishtirokchi jamoasida texnika fanlari doktori (DSc) yoki falsafa doktori (PhD) ilmiy darajasiga ega mutaxassislar bo'lishi va shu sohada ilmiy-tadqiqot yoki ekspert ishlarini bajargan bo'lishi.",
+      "rewrite_en": "The bidder's team must include specialists holding a DSc or PhD in technical sciences and the bidder must have completed research or expert work in this field."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "low",
+      "quote": "Raqamli texnologiyalardagi dasturiy ta’minotni o‘matish, qayta o‘matish, yangilash va modernizatsiya qiluvchi malakali ishchi kuchi bilan ta’minlanganligi.",
+      "explanation_uz": "Talab dasturiy ta'minot o'rnatish va yangilash xodimlarini so'raydi, lekin ish energetik samaradorlikni baholashga oid ilmiy tadqiqotdir. Bu standart shablon matniga o'xshaydi; qaysi ishga taalluqli ekanini aniqlashtirish kerak.",
+      "explanation_en": "The clause asks for staff who install and update software, but the work is a research study on energy efficiency. It looks like standard template wording; it should be clarified which task it relates to.",
+      "rewrite_uz": "Ma'lumotlarni tahlil qilish va hisob-kitoblarni bajarish uchun zarur malakali xodimlar bilan ta'minlanganlik.",
+      "rewrite_en": "Availability of qualified staff needed to analyse data and perform the calculations."
+    }
+  ],
+  "documents_needed_uz": [
+    "Texnika fanlari doktorlari (DSc) va PhD xodimlarni ishga qabul qilish buyrug'idan ko'chirma",
+    "Yagona milliy mehnat tizimidan (my.mehnat.uz) xodimlar ro'yxati ko'chirmasi",
+    "Ilmiy kengash mavjudligini tasdiqlovchi hujjat",
+    "O'lchov asboblari, laboratoriya anjomlari balansda borligi haqida ma'lumotnoma va fotosuratlar",
+    "O'lchov asboblarining metrologik qiyoslov sertifikatlari",
+    "Bajarilgan ishlar bo'yicha shartnomalar va hisob-fakturalardan ko'chirma",
+    "Mijozlarning tavsiyanomalari (rasmiy blankada)",
+    "Texnik topshiriq va xavfsizlik qoidalariga rioya qilish bo'yicha kafolat xatlari",
+    "1 yillik sifat kafolati xati",
+    "Moliyaviy hisobotlar",
+    "Davlat ro'yxatidan o'tganlik va ta'sis hujjatlari"
+  ]
+}

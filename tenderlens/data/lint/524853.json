@@ -1,0 +1,114 @@
+{
+  "lot_id": 524853,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "food",
+  "subject_uz": "Respublika akademik litseyi oʻquvchilari uchun kuniga uch mahal issiq ovqat tashkil etish (autsorsing) xizmati",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Ijrochi oʻquvchilarni kuniga 3 mahal (nonushta, tushlik, kechki ovqat) sifatli issiq ovqat bilan ta'minlaydi.",
+      "summary_en": "The contractor provides students with three hot meals a day (breakfast, lunch, dinner).",
+      "quote": "Ижрочи ўқувчиларни кунига 3 маҳал (нонушта, тушлик ва кечки овқат) сифатли иссиқ овқат билан таъминлаш мажбуриятини олади."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Har bir mahalda ikki xil issiq taom (suyuq, quyuq) va salat; taomnoma sanitariya normalari asosida tuziladi.",
+      "summary_en": "Each meal has two hot dishes (liquid, thick) and a salad; the menu follows sanitary norms.",
+      "quote": "Икки хил иссиқ таом: суюқ,қуюқ., салат, таомнома ( САНПИН меъёрлари асосида тузилади."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Shartnoma tuzish va faoliyat yuritish uchun barcha qonuniy huquqlar (guvohnoma, ruxsatnoma) boʻlishi kerak.",
+      "summary_en": "All legal rights to operate (registration certificate, permits) are required.",
+      "quote": "Шартнома тузиш ва соҳада фаолият юритиш учун барча қонуний ҳуқуқларга (гувоҳнома, рухсатнома) эга бўлиши."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ishlatiladigan mahsulotlar sertifikatlangan, xodimlar tibbiy koʻrikdan oʻtgan boʻlishi shart.",
+      "summary_en": "Products used must be certified and staff must have passed medical checks.",
+      "quote": "Сифат назорати: Ишлатиладиган маҳсулотлар сертификатланган ва ходимлар тиббий кўрикдан ўтган бўлиши шарт."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash: texnik-malaka qismi 70%, narx 30%, oʻtish bali 30.",
+      "summary_en": "Evaluation: technical-qualification 70%, price 30%, pass mark 30.",
+      "quote": "malaka-texnik qism - 70 ball, narx qismi - 30 ball"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Kamida uch oylik xizmat qiymatini qoplaydigan aylanma mablagʻ bank ma'lumotnomasi bilan tasdiqlansa 10 ball.",
+      "summary_en": "Working capital covering at least three months of service, shown by a bank certificate, earns 10 points.",
+      "quote": "Kamida uç oylik xizmat körsatiş qiymatini qoplaşga yetarli aylanma mablağlar mavjudligini tasdiqlovçi bank maʼlumotnomasi yoki moliyaviy hisobotlar (10 ball)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "SanQvaN talablariga mos, chiqish vazni va kaloriyasi koʻrsatilgan tasdiqlangan taomnoma va menyu-kalkulyatsiya (20 ball).",
+      "summary_en": "An approved menu and menu-costing sheet compliant with sanitary rules, showing portion weight and calories (20 points).",
+      "quote": "SanQvaN talablariga muvofiq tuzilgan, çiqiş vazni, tarkibi va kaloriyalilik körsatkiçlari aniq körsatilgan tasdiqlangan taomnoma va menyu-kalkulyatsiya"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oshxona uchun kadrlar mavjudligi, ularning diplomi, tibbiy daftari va guvohnomalari (my.mehnat.uz orqali) tasdiqlanishi kerak (10 ball).",
+      "summary_en": "Kitchen staff with diplomas, medical books and certificates (via my.mehnat.uz) must be shown (10 points).",
+      "quote": "Oşxona işlarini taşkil etiş uçun kadrlar mavjudligi, ularning diplomi, tibbiy daftari va guvohnomalari"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oshxona jihozlari, ombor, sovutgichlar, transport va inventar roʻyxati, foto va tasdiqlovchi hujjatlar (10 ball).",
+      "summary_en": "A list, photos and proof of kitchen equipment, storage, refrigerators, transport and inventory (10 points).",
+      "quote": "Oşxona jihozlari, omborxona, sovitkiçlar, transport vositalari va inventarlar mavjudligi"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Xizmat koʻrsatilgan tashkilotlar jadvali va tavsiyanomalar taqdim etilishi kerak (10 ball).",
+      "summary_en": "A table of served organisations and their recommendation letters must be supplied (10 points).",
+      "quote": "Xizmat körsatilgan taşkilotlar röyxati (jadval şaklida) va xizmat körsatgan muassasalarning tavsiyanomalari"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Gʻolib shartnoma summasining kamida 1 foizi miqdorida buyurtmachi muassasasiga investitsiya (uskuna, inventar, ta'mirlash) kiritishi shart.",
+      "summary_en": "The winner must invest at least 1% of the contract value in the customer institution (equipment, inventory, repairs).",
+      "quote": "kamida 1 foizidan kam bolmagan miqdorda (uskunalar, inventar, ta’mirlaç va boçqalar) investitsiya kiritiçi §art."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Oldingi oyda amalga oshirilgan haqiqiy ovqatlanish xarajatlarining 30 foizi miqdorida avans toʻlanadi.",
+      "summary_en": "An advance of 30% of the actual meal costs of the previous month is paid.",
+      "quote": "avvalgi oyda ovqatlaniç uçun amalga oçirilgan haqiqiy xarajatlarning 30 foizi miqdorida oldindan tölov (avans) amalga oçiriladi;"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Shartnoma 4-chorak (noyabr-dekabr) uchun tuziladi: 2026-yil 1-noyabrdan 31-dekabrgacha.",
+      "summary_en": "The contract covers Q4 (November-December): 1 November to 31 December 2026.",
+      "quote": "Autsorsing çartnomasi 4-çorak (noyabr oyi) uçun tuziladi. (2026-yil 1-noyabrdan 2026-yil 31-dekabrgaça)."
+    }
+  ],
+  "flags": [
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "kamida 1 foizidan kam bolmagan miqdorda (uskunalar, inventar, ta’mirlaç va boçqalar) investitsiya kiritiçi §art.",
+      "explanation_uz": "Gʻolib shartnoma summasining kamida 1 foizini buyurtmachi muassasasi uchun uskuna, inventar yoki ta'mirlash shaklida investitsiya qilishi shart, va bu majburiyatga 5 ball ham beriladi. Bu qoʻshimcha xarajat narx taklifini oshirishi mumkin va xizmat predmetiga bevosita bogʻliq emas.",
+      "explanation_en": "The winner must invest at least 1% of the contract value in the customer institution (equipment, inventory, repairs), and 5 points are also tied to it. This extra cost may raise the price offer and is not directly tied to the catering service itself.",
+      "rewrite_uz": "Shartnoma narxi buyurtmachi muassasasiga qoʻshimcha investitsiya majburiyatini oʻz ichiga olmaydi; kerakli uskunalar roʻyxati texnik topshiriqda aniq koʻrsatiladi va narx taklifida hisobga olinadi.",
+      "rewrite_en": "The contract price does not include a separate investment obligation toward the customer; any equipment needed is listed in the technical task and priced in the offer."
+    }
+  ],
+  "documents_needed_uz": [
+    "Soliq qarzdorligi, majburiy toʻlovlar va sanksiyalar yoqligi hamda insofsiz ijrochilar reyestrida yoqligi haqida rahbariyat tasdiqlagan ma'lumotnoma",
+    "Shartnoma summasining kamida 1 foizi miqdorida investitsiya kiritishga rozilik kafolat xati",
+    "Aylanma mablagʻlar mavjudligini tasdiqlovchi bank ma'lumotnomasi yoki moliyaviy hisobotlar (kamida 3 oylik)",
+    "Texnik topshiriq talablariga muvofiq xizmat koʻrsatishga tayyorlik kafolat xati",
+    "Faoliyat uchun ruxsatnomalar, sanitariya-epidemiologiya xulosalari va muvofiqlik sertifikatlari",
+    "SanQvaN talablariga mos tasdiqlangan taomnoma va menyu-kalkulyatsiya",
+    "Oshxona xodimlari haqida ma'lumot (my.mehnat.uz), diplomlar, tibbiy daftarlar va guvohnomalar",
+    "Oshxona jihozlari, ombor, sovutgichlar, transport va inventar roʻyxati, fotosuratlar va tasdiqlovchi hujjatlar",
+    "Xizmat koʻrsatilgan tashkilotlar jadvali va tavsiyanomalar",
+    "Moddiy-texnik baza va logistika haqida ma'lumot",
+    "Moliyaviy imkoniyatlar haqida ma'lumot (aylanma mablagʻ, bank qoldigʻi)",
+    "Qonunbuzarliklarga yol qoymaslik haqidagi ariza",
+    "Ishtirokchi haqida umumiy ma'lumot",
+    "Davlat royxatidan otganlik guvohnomasi"
+  ]
+}

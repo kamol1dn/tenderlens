@@ -1,0 +1,99 @@
+{
+  "lot_id": 524753,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "food",
+  "subject_uz": "\"Uzbekistan GTL\" MChJ Chinoz terminali xodimlari uchun tushlik tashkil etish xizmati (taxminan 13 oy, 23 752 porsiya va 900 ta tadbir porsiyasi)",
+  "requirements": [
+    {
+      "kind": "qualification",
+      "summary_uz": "So'nggi 3 yil davomida xodimlarga kuniga 3 mahal issiq ovqat bilan ta'minlash tajribasi va tasdiqlovchi shartnoma hamda dalolatnomalar talab qilinadi.",
+      "summary_en": "Experience in the last 3 years of feeding staff three hot meals a day, proven with contracts and acceptance acts.",
+      "quote": "xodimlarga kuniga 3 mahal issiq ovqat (nonushta, tushlik va kechki ovqat) bilan ta’minlash bo‘yicha umumiy ovqatlanish xizmatlarini ko‘rsatish tajribasiga ega bo‘lishi shart"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Tushlik kaloriyasi 1300-1500 kkal bo'lishi kerak; ishtirokchi ikki haftalik menyu taqdim etadi.",
+      "summary_en": "Lunch must provide 1300-1500 kcal; the bidder submits a two-week menu.",
+      "quote": "Tushlik kaloriya 1300 Kkal dan1500 Kkal gachabo‘lishi kerak."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Muzlatilgan go'sht ishlatilmaydi; go'sht yangi so'yilgan va mutaxassis xulosasiga ega bo'lishi kerak.",
+      "summary_en": "Frozen meat may not be used; meat must be freshly slaughtered and carry a specialist's inspection conclusion.",
+      "quote": "Muzlatilgan go‘sht mahsulotlari ishlatilishi mumkin emas."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Minimal go'sht me'yorlari belgilangan: palovda kamida 70 g, sho'rvada kamida 50 g, mol/qo'y go'shtli taomlarda 80-120 g netto.",
+      "summary_en": "Minimum meat norms apply: at least 70 g in plov, 50 g in soup, 80-120 g net in beef or lamb dishes.",
+      "quote": "palov taomida go‘sht — kamida 70 gramm netto;"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Tushlik har kuni soat 12:00-14:00 oralig'ida beriladi; xizmat mijozning jihozlangan oshxonasida ko'rsatiladi.",
+      "summary_en": "Lunch is served daily between 12:00 and 14:00 in the customer's equipped kitchen.",
+      "quote": "Tushlik har kuni soat12:00–14:00"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat muddati 13 oy (mablag'lar tugagunga qadar), 2026-yil 4-chorakdan boshlanadi; 20 824 + 2 928 = 23 752 tushlik porsiyasi.",
+      "summary_en": "Service period is 13 months (until the funds run out), starting in Q4 2026; 20,824 + 2,928 = 23,752 lunch portions.",
+      "quote": "Xizmat ko‘rsatish davomiyligi: 13 oy (shartnoma majburiyatlari yakunlangunga qadarya’ni"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Mijoz so'rovi bo'yicha korporativ tadbirlar uchun ovqat tashkil etiladi (900 porsiya); so'rov 72 soat oldin beriladi.",
+      "summary_en": "On the customer's request, food is arranged for corporate events (900 portions); the request comes 72 hours ahead.",
+      "quote": "Mijoz korporativ tadbirlarni ovqatlanish bilan ta’minlash uchun so‘rovni bundayxizmatlar uchun"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kommunal to'lovlar buyurtmachi tomonidan to'lanadi; ijrochi esa jihozlarni saqlaydi, ta'mirlaydi va yo'qolgan idishlarni almashtiradi.",
+      "summary_en": "Utilities are paid by the customer; the contractor maintains and repairs equipment and replaces lost tableware.",
+      "quote": "Kommunal to’lovlar Buyurtmachi tomonidan to’lanadi."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Sifat va muddat buzilishlari uchun jarima qo'llaniladi; sifatsiz mahsulot shartnomani bir tomonlama bekor qilishga olib kelishi mumkin.",
+      "summary_en": "Penalties apply for late meals and short portions; unfit products can lead to unilateral termination.",
+      "quote": "Ovqat kechikib berilgan har bir holatuchun jarima qo'llaniladi."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Texnik qism 0%, narx 100%; uchta mezon 1 balldan, o'tish bali 3 (diskvalifikatsiya tizimi): eng past narx berganlar orasidan g'olib aniqlanadi.",
+      "summary_en": "Technical share 0%, price 100%; three criteria of 1 point each with a pass mark of 3 (pass/fail disqualification), then the lowest price wins.",
+      "quote": "Ishtirokchining taklifi Texnik topshiriq talablariga muvofiqligi"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Kontragent anketasi (1-son shakl) va talab qilingan hujjatlar taqdim etilishi, tekshiruv natijasi ijobiy bo'lishi kerak.",
+      "summary_en": "A counterparty questionnaire (Form 1) with the required documents must be submitted and the vetting result must be positive.",
+      "quote": "Kontragent anketasi shaklini va talab etilgan hujjatlarni taqdim etish"
+    }
+  ],
+  "flags": [
+    {
+      "type": "excessive_experience",
+      "severity": "medium",
+      "quote": "xodimlarga kuniga 3 mahal issiq ovqat (nonushta, tushlik va kechki ovqat) bilan ta’minlash bo‘yicha umumiy ovqatlanish xizmatlarini ko‘rsatish tajribasiga ega bo‘lishi shart",
+      "explanation_uz": "Mezon 3 bo'yicha so'nggi 3 yilda xodimlarga kuniga uch mahal (nonushta, tushlik, kechki ovqat) ovqat berish tajribasi majburiy; tajriba tasdiqlanmasa 0 ball va diskvalifikatsiya (o'tish bali 3 dan 3). Xarid esa faqat tushlikni qamrab oladi (23 752 porsiya, har biri 51 000 so'm, 1 211 352 000 so'm; tadbirlar bilan jami 1 310 352 000 so'm). Faqat tushlik tajribasiga ega yoki ikki mahal ovqat bergan tajribali oshxona ishtirokchi chetlashtirilishi mumkin.",
+      "explanation_en": "Criterion 3 requires proven experience in the last 3 years of providing staff with three meals a day (breakfast, lunch, dinner); without it the bidder scores 0 and is disqualified (pass mark 3 out of 3). The purchase itself covers lunch only (23,752 portions at 51,000 UZS each, 1,211,352,000 UZS; 1,310,352,000 UZS with events). A caterer with extensive lunch-only or two-meal experience could be shut out.",
+      "rewrite_uz": "Ishtirokchi so'nggi 3 yil davomida xodimlar uchun umumiy ovqatlanish xizmatlarini (kamida bitta issiq ovqat, kuniga kamida 76 porsiya hajmida) ko'rsatish tajribasiga ega bo'lishi shart.",
+      "rewrite_en": "The bidder has experience in the last 3 years of providing catering services for staff (at least one hot meal a day, at a volume of at least 76 portions per day)."
+    }
+  ],
+  "documents_needed_uz": [
+    "1-son shakl: kontragent so'rovnomasi va ilovada ko'rsatilgan hujjatlar (davlat ro'yxatidan o'tganlik guvohnomasi, STIR, ustav nusxasi, vakolat hujjati va boshqalar)",
+    "Egalik tuzilmasi, shu jumladan yakuniy benefitsiar mulkdorlar haqida ma'lumotnoma",
+    "Oxirgi hisobot davri uchun buxgalteriya va soliq hisoboti",
+    "Malakali xodimlar mavjudligi haqida ma'lumot",
+    "2-son shakl: texnik taklif, texnik topshiriq bilan qiyosiy jadval, o'xshash xizmat tajribasi va ishlatiladigan mahsulotlar jadvali",
+    "Ikki haftalik taomnoma (menyu)",
+    "Oxirgi 3 yil davomida kuniga 3 mahal ovqat bilan ta'minlash tajribasini tasdiqlovchi shartnomalar va qabul qilish-topshirish dalolatnomalari",
+    "Ta'sis hujjatlari va litsenziya, sanitariya va sifat hujjatlari, mavjud bo'lsa ISO 9001/22000 sertifikatlari",
+    "Moliyaviy hisobotlar: buxgalteriya balansi",
+    "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida hamda Malaka 11 bo'yicha ilovaga muvofiq ariza",
+    "Taklif ta'minoti (3 foiz)"
+  ]
+}

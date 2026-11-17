@@ -1,0 +1,66 @@
+{
+  "lot_id": 522656,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "food",
+  "subject_uz": "Tushlik (ovqatlanish) tadbirini tashkil etish xizmati, 350 birlik",
+  "requirements": [
+    {
+      "kind": "other",
+      "summary_uz": "Xizmat Buxoro shahri markazida, kirish-chiqishi qulay joyda o'tkaziladigan tadbir uchun taqdim etiladi.",
+      "summary_en": "The service is for an event held in the centre of Bukhara city with convenient access.",
+      "quote": "Тадбир ўтказиладиган жой шахар марказида жойлашган бўлиши керак"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Xizmat 5 ish kuni ichida ko'rsatilishi kerak.",
+      "summary_en": "The service must be delivered within 5 working days.",
+      "quote": "Етказиб бериш 5 иш куни"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "30 foiz oldindan to'lov nazarda tutilgan.",
+      "summary_en": "A 30 percent advance payment is provided.",
+      "quote": "Олдиндан тўлов 30%"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Umumiy ovqatlanish xizmatida ish tajribasi to'g'risidagi ma'lumotnoma baholanadi (10 ballgacha).",
+      "summary_en": "A reference on experience in catering services is scored (up to 10 points).",
+      "quote": "Умумий овқатланиш хизматида иш тажрибаси тўғрисида маълумотлар"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Oldingi tadbirlar fotosuratlari va sanitariya-epidemiologiya xulosasi baholanadi (10 ballgacha).",
+      "summary_en": "Photos of previous events and a sanitary-epidemiological conclusion are scored (up to 10 points).",
+      "quote": "Олдинги тадбирлар қилинганни тўғрисида фото суратлар ва санитария-эпидемиология хулосаси"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchida shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari bo'lishi kerak.",
+      "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+      "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги."
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reyestrida bo'lmasligi kerak.",
+      "summary_en": "The bidder must not be listed in the unified register of unfair suppliers.",
+      "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги."
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Boshlang'ich narx QQS bilan 104 193 600 so'm.",
+      "summary_en": "The start price is 104,193,600 UZS including VAT.",
+      "quote": "104 193 600 (бир юз тўрт миллион бир юз тўқсон уч минг олти юз) сўм"
+    }
+  ],
+  "flags": [],
+  "documents_needed_uz": [
+    "Umumiy ovqatlanish xizmatida ish tajribasi to'g'risida ma'lumotnoma",
+    "Oldingi tadbirlar fotosuratlari",
+    "Sanitariya-epidemiologiya xulosasi",
+    "Resurslar mavjudligi to'g'risida ma'lumot",
+    "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+    "Majburiy ijro byurosi bazasidan ma'lumot"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "lot_id": 524260,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "health",
+  "subject_uz": "Qon xizmati markazlari uchun tibbiy uskunalar: 27 ta qon komponentlari muzlatgichi va 30 ta past haroratli (-40 C gacha) muzlatkich",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Past haroratli muzlatkichning umumiy hajmi kamida 590 litr bo'lishi kerak.",
+      "summary_en": "The low-temperature freezer must have a total volume of at least 590 litres.",
+      "quote": "Общий объём не менше 590 л"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Muzlatkich elektr o'chganda haroratni kamida 2,5 soat ushlab turishi kerak.",
+      "summary_en": "The freezer must hold temperature for at least 2.5 hours after a power cut.",
+      "quote": "Время удержания температуры при отключении питания Не менее 2.5 ч"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Qon komponentlari sovutgichining foydali hajmi kamida 510 litr bo'lishi kerak.",
+      "summary_en": "The blood-component refrigerator must have a usable volume of at least 510 litres.",
+      "quote": "Полезный объём не менее 510 л"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Uskunalar yangi bo'lishi, ishlab chiqarilgan yili 2026 yildan oldin bo'lmasligi kerak.",
+      "summary_en": "Equipment must be new, with a manufacture year not earlier than 2026.",
+      "quote": "Год выпуска товара - не ранее 2026 года"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Mahalliy ijrochilar uchun yetkazib berish muddati oldindan to'lov kunidan 90 kun.",
+      "summary_en": "For domestic suppliers, delivery is within 90 days of the advance payment.",
+      "quote": "Для отечественных исполнителей: 90 дней со дня проведения предоплаты."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kafolat muddati foydalanishga topshirilgandan kamida 24 oy.",
+      "summary_en": "Warranty of at least 24 months from commissioning.",
+      "quote": "Гарантийный срок со дня сдачи в эксплуатацию: не менее 24 месяцев"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Taklif topshirish paytida Dori vositalari xavfsizligi markazining amaldagi ro'yxatdan o'tish guvohnomasi (yoki ro'yxatdan o'tish boshlanganligi haqida xat) bo'lishi kerak.",
+      "summary_en": "At the time of bidding a valid registration certificate from the pharmaceutical safety centre (or a letter that registration has started) is required.",
+      "quote": "На момент подачи предложения наличие действующего регистрационного удостоверения, выданного Государственным Учреждением"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Ishtirokchi o'z servis markazi yoki ishlab chiqaruvchi vakolat bergan servis markazi bilan kelishuv nusxasini taqdim etishi kerak.",
+      "summary_en": "The bidder must show its own service centre or a copy of an agreement with a manufacturer-authorised service centre.",
+      "quote": "Участник торгов в рамках своего предложения должен предоставить информацию о наличии своего сервис центра"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Ishlab chiqaruvchi zavod avtorizatsiyasi mavjud bo'lsa 1 ball beriladi; yo'q bo'lsa ishlab chiqaruvchi bo'lmagan ishtirokchi chetlashtiriladi.",
+      "summary_en": "Manufacturer authorisation earns 1 point; a non-manufacturer without it is excluded.",
+      "quote": "Ишлаб чиқарувчи завод авторизациясининг мавжудлиги (харид иштирокчиси таклиф этилаётган товар ишлаб чиқарувчиси бўлмаган тақдирда)"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Yetkazib berish muddatini 75 foizga qisqartirish 2 ball beradi (ballarning jami 19 dan 2 tasi).",
+      "summary_en": "Shortening the delivery term by 75 percent gives 2 points (2 of 19 in total).",
+      "quote": "Етказиб бериш муддатлари белгиланган муддатнинг камида 75 фоизга қисқартирилганда 2 балл"
+    }
+  ],
+  "flags": [
+    {
+      "type": "narrow_params",
+      "severity": "medium",
+      "quote": "Точность поддержания температуры при +25 °C окружающей среды ±2.2 °C при -41 °C и +25 °C",
+      "explanation_uz": "Past haroratli muzlatkich uchun ish harorati diapazoni -40...-32 C deb berilgan, ammo aniqlik -41 C da ±2,2 C ko'rsatilgan, ya'ni diapazondan tashqarida. Shovqin darajasi ham ikki tomonlama tor oraliqda (60-61 dB) belgilangan, sovutgich uchun 47-51 dB. Bunday kombinatsiya bitta modelning pasportidan olinganga o'xshaydi va talabga mos boshqa uskunalarni chetlatishi mumkin; hujjatning o'zi mahalliy takliflar texnik talablarga mos kelmaydi deb qayd etgan.",
+      "explanation_en": "For the low-temperature freezer the operating range is -40 to -32 C, yet accuracy is stated at -41 C, outside that range. Noise is fixed in a two-sided narrow band (60-61 dB, and 47-51 dB for the refrigerator). The combination looks lifted from one model's data sheet and may exclude otherwise suitable devices; the document itself notes that local offers do not match the technical requirements.",
+      "rewrite_uz": "Harorat bir xilligi va aniqligi: ish diapazonida (-40...-32 C) ±3 C dan oshmasligi; shovqin darajasi: 65 dB(A) dan oshmasligi (sovutgich uchun 55 dB(A) dan oshmasligi).",
+      "rewrite_en": "Temperature uniformity and accuracy: no worse than ±3 C within the working range (-40 to -32 C); noise level: not above 65 dB(A) (not above 55 dB(A) for the refrigerator)."
+    },
+    {
+      "type": "dealer_letter",
+      "severity": "medium",
+      "quote": "Харид иштирокчиси таклиф этилаётган товар ишлаб чиқарувчиси бўлмаган тақдирда 5-шаклга мувофиқ расмийлаштирилади. Агар мавжуд бўлмаса, иштирокчи тендерда қатнашишдан четлаштирилади.",
+      "explanation_uz": "Ishlab chiqaruvchi bo'lmagan ishtirokchi uchun zavod avtorizatsiyasi 1 ball beradi, lekin uni topshirmaslik tenderdan chetlatishga olib keladi. Ya'ni 1 ballli mezon amalda majburiy talabga aylangan va 10,66 mlrd so'mlik lotda mustaqil yetkazib beruvchilar chetlashishi mumkin. Servis va kafolat boshqa hujjatlar bilan ham tasdiqlanishi mumkin.",
+      "explanation_en": "For a bidder that is not the manufacturer, factory authorisation earns 1 point, yet omitting it means exclusion from the tender. The one-point criterion thus acts as a mandatory condition, and independent suppliers on this 10.66 billion UZS lot could be shut out. Service and warranty could also be proved by other documents.",
+      "rewrite_uz": "Ishtirokchi ishlab chiqaruvchi bo'lmasa, avtorizatsiya xatini yoki kafolat va servis majburiyatlarini tasdiqlovchi boshqa hujjatni (masalan, servis markazi bilan shartnoma) topshirishi mumkin; avtorizatsiya xati bo'lmasa, ishtirokchi chetlashtirilmaydi, faqat 1 ball olmaydi.",
+      "rewrite_en": "If the bidder is not the manufacturer, it may submit an authorisation letter or another document proving warranty and service commitments (for example a contract with a service centre); lack of an authorisation letter does not lead to exclusion, only to losing the 1 point."
+    }
+  ],
+  "documents_needed_uz": [
+    "4 va 4a shakllari (texnik topshiriqqa muvofiqlik)",
+    "Taklif etilayotgan modelning texnik hujjatlari (broshyura, pasport, foydalanish qo'llanmasi) va har bir band bo'yicha asoslovchi havola",
+    "Dori vositalari xavfsizligi markazining ro'yxatdan o'tish guvohnomasi yoki ro'yxatdan o'tish boshlanganligi haqida xat",
+    "ISO 13485 sertifikati nusxasi (va mavjud bo'lsa CE sertifikati)",
+    "Ishlab chiqaruvchi avtorizatsiyasi (5-shakl), agar ishtirokchi ishlab chiqaruvchi bo'lmasa",
+    "Servis markazi to'g'risida ma'lumot yoki servis markazi bilan shartnoma",
+    "Kafolat muddatini va yetkazib berish muddatini tasdiqlovchi kafolat xatlari",
+    "Soliq organlariga topshirilgan oxirgi moliyaviy hisobotlar (balans, moliyaviy natijalar)",
+    "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasi",
+    "Soliq qarzi yo'qligi, insofsiz ijrochilar reestrida yo'qligi va majburiy ijro byurosi bo'yicha ma'lumotlar",
+    "1-shakl, 2-shakl va 2a-shakl, 3-shakl bo'yicha arizalar va ma'lumotlar"
+  ]
+}

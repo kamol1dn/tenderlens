@@ -1,0 +1,108 @@
+{
+  "lot_id": 524992,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "other",
+  "subject_uz": "Maktab-internat oshxonasi uchun stol anjomlari: vilka, qoshiq, chinni likopcha, piyola va kosa (har biridan 200 dona)",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "Maktab-internat oshxonasi uchun: 200 dona zanglamaydigan po'lat vilka va qoshiq (uzunligi 200-220 mm, qalinligi 2,5-3 mm), uch xil hajmdagi (0,9, 0,7, 0,6 l) oq chinni likopcha, piyola va kosa, har biridan 200 dona.",
+      "summary_en": "For the boarding-school canteen: 200 stainless-steel forks and spoons (200-220 mm, 2.5-3 mm thick), white porcelain plates in three volumes (0.9, 0.7, 0.6 l), tea bowls and bowls, 200 of each.",
+      "quote": "ошхонасини сифатли овқатланиш идишлари билан таъминлаш мақсадида ошхона жиҳозлари ва дастурхон буюмларини харид қилиш"
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Tovar yuqori sifat talablariga to'liq mos bo'lishi va o'z vaqtida yetkazilishi kerak; yetkazish muddati lot ma'lumotida 7 (birligi \"yil\" deb ko'rsatilgan, aniqlashtirish kerak).",
+      "summary_en": "Goods must fully meet the high-quality requirements and be delivered on time; the lot header gives the delivery term as 7 with the unit shown as years, which needs clarification.",
+      "quote": "Сифат жихатдан юқори булган талабларга тула мос , ўз вақтида сифатли тарзда амалга ошириш."
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Boshlang'ich narx 26 000 000 so'm; 30 foiz avans; to'lov hisob-faktura asosida byudjet mablag'laridan.",
+      "summary_en": "Start price 26,000,000 UZS; 30 percent advance; payment on invoice from budget funds.",
+      "quote": "Белгиланган тартибда счёт фактура асосида"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 2 (35 ball): korxona umumiy ma'lumotlari hujjatlari (guvohnoma, nizom, rahbar pasporti nusxasi, buyruq, bank ma'lumoti, statistik ma'lumot, reyestrdan ko'chirma), har biri uchun 5 ball.",
+      "summary_en": "Criterion 2 (35 points): general company documents (certificate, charter, director passport copy, order, bank details, statistics, register extract), 5 points per document.",
+      "quote": "Гувохнома. Низом. Рахбар паспорт нусхаси.. Рахбарнинг буйруғи. банк маълумоти. статистик маълумоти."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 4 (25 ball): affillanganlik va manfaatlar to'qnashuvi bo'yicha kafolat xatlari, offshor hisobraqamlari va arbitraj yo'qligi, har bir ma'lumot uchun 5 ball.",
+      "summary_en": "Criterion 4 (25 points): letters on affiliation and conflict of interest, no offshore accounts, no arbitration, 5 points each.",
+      "quote": "Аффиланганлик мавжуд эмаслиги тўғрисидаги кафолат хати. • оффшор зоналарда банк ҳисоб рақамларига эга эмаслиги. арбитраж муҳокамасида эмаслиги."
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 5 (20 ball): bankdan qarzdorlik yo'qligi va to'lovga qobiliyati haqida ishonchli manbadan ma'lumotnoma, har biri 10 ball.",
+      "summary_en": "Criterion 5 (20 points): proof of no bank debt and solvency from a reliable source, 10 points each.",
+      "quote": "Иштирокчининг банкдан К2 қарздорлиги ва муддати қаздорлиги йуқлиги.. Туловга қобилятлиги туғрисида ишончли манбадан маълумотнома"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 3 (10 ball): ishtirokchining omborida talab qilingan tovarlar mavjudligi fotosurat va tasdiqlangan xat bilan.",
+      "summary_en": "Criterion 3 (10 points): goods physically in the bidder's warehouse, shown by photos and a confirmed letter.",
+      "quote": "Иштирокчининг омборида хақиқатдан таълаб қилинган товарларнинг мавжудлиги фото ва тасдиқланган хати"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Mezon 1 (10 ball): muddatida bajarish kafolat xati va halollik majburiyati xati, har biri 5 ball; hujjatlar PDF shaklda.",
+      "summary_en": "Criterion 1 (10 points): guarantee letter on on-time delivery and a separate integrity letter, 5 points each; documents in PDF.",
+      "quote": "Танлов иштирокчиси хизматларни белгиланган муддатдан кечиктирмаган холда амалга ошириш тугрисида кафолат хати"
+    }
+  ],
+  "flags": [
+    {
+      "type": "irrelevant_requirement",
+      "severity": "medium",
+      "quote": "Аффиланганлик мавжуд эмаслиги тўғрисидаги кафолат хати. • оффшор зоналарда банк ҳисоб рақамларига эга эмаслиги. арбитраж муҳокамасида эмаслиги.",
+      "explanation_uz": "Mezon 4 platformaning standart shabloni bo'lib, yetkazib berish davriyligi va miqdoriga tegishli, lekin bu yerda 25 ball tovarga emas, affillanganlik, offshor hisobraqamlari va arbitraj yo'qligi haqidagi xatlar soniga (har biri 5 ball) beriladi. Bu ball ishtirokchi tovar yetkaza olish qobiliyatini emas, hujjatlar to'plamini baholaydi va stol anjomlarining sifat yoki narx jihatdan eng yaxshi taklifini aniqlashga xizmat qilmaydi.",
+      "explanation_en": "Criterion 4 is standard platform template wording about delivery frequency and quantity, but here its 25 points are awarded for the number of letters (affiliation, offshore accounts, no arbitration, 5 points each), not for anything about the tableware or the ability to deliver it. The points reward paperwork rather than the best offer for the goods.",
+      "rewrite_uz": "Mezon 4 bo'yicha ball tovarni yetkazib berish muddati va jadvali taklifiga qarab berilsin; manfaatlar to'qnashuvi va affillanganlik bo'yicha tasdiqlar ball emas, malaka talabi sifatida (bor/yo'q) tekshirilsin.",
+      "rewrite_en": "Score criterion 4 on the offered delivery schedule and lead time; check conflict-of-interest and affiliation statements as pass/fail qualification items, not as scored points."
+    },
+    {
+      "type": "irrelevant_requirement",
+      "severity": "medium",
+      "quote": "Иштирокчининг банкдан К2 қарздорлиги ва муддати қаздорлиги йуқлиги.. Туловга қобилятлиги туғрисида ишончли манбадан маълумотнома",
+      "explanation_uz": "Mezon 5 shablon bo'yicha kafolatdan keyingi xizmatga tegishli, lekin bu yerda 20 ball bankdagi K2 va muddati o'tgan qarzdorlik yo'qligi hamda to'lovga qobiliyati haqidagi ma'lumotnomalarga beriladi. Bu 20 ball tovar yoki xizmat sifatiga emas, ishtirokchining bank holatiga bog'langan, 26 000 000 so'mlik oddiy xarid uchun nomutanosib bo'lishi mumkin.",
+      "explanation_en": "Criterion 5 is template wording about after-warranty service, yet here its 20 points are awarded for bank certificates showing no K2 or overdue bank debt and solvency. The points depend on the bidder's banking position rather than on the goods or service, which looks out of proportion for a 26,000,000 UZS purchase.",
+      "rewrite_uz": "Mezon 5 bo'yicha ball kafolat sharoitlariga (muddat, almashtirish tartibi) berilsin; bank ma'lumotnomasi zarur bo'lsa, malaka talabi sifatida bor/yo'q tarzida so'ralsin.",
+      "rewrite_en": "Score criterion 5 on warranty terms (period, replacement procedure); if a bank certificate is needed, request it as a pass/fail qualification item."
+    },
+    {
+      "type": "other",
+      "severity": "low",
+      "quote": "Иштирокчининг омборида хақиқатдан таълаб қилинган товарларнинг мавжудлиги фото ва тасдиқланган хати",
+      "explanation_uz": "Mezon 3 da 10 ball ishtirokchining omborida talab qilingan tovarlar bor ekanini fotosurat bilan ko'rsatishga bog'langan. Bu tovarni buyurtma bo'yicha yetkazib bera oladigan, ammo hozir omborida zaxirasi bo'lmagan ishtirokchini kamsitishi mumkin.",
+      "explanation_en": "In criterion 3, 10 points depend on showing by photo that the required goods are already in the bidder's warehouse. This may disadvantage a supplier who can deliver to order but does not hold stock today.",
+      "rewrite_uz": "Tovarni belgilangan muddatda yetkazib berish imkoniyati yetkazib beruvchi bilan shartnoma, ombor yoki ishlab chiqarish quvvati orqali tasdiqlanishi mumkin.",
+      "rewrite_en": "Ability to deliver in time may be shown by a supply contract, warehouse or production capacity, not only by stock already held."
+    },
+    {
+      "type": "other",
+      "severity": "medium",
+      "quote": "Акварел қоғози (Торшон) харид қилиш буйича техник топшириқ",
+      "explanation_uz": "Texnik topshiriq hujjati sarlavhasida akvarel qog'ozi (Torshon) xaridi ko'rsatilgan, summalar esa 20 910 000 va 21 892 000 so'm deb yozilgan, lot esa stol anjomlari bo'yicha 26 000 000 so'm. Hujjatdagi mahsulot va summalar lotga mos kelmaydi, shuning uchun ishtirokchi nimani taklif qilishi aniq emas.",
+      "explanation_en": "The technical-specification document is titled for purchasing watercolour paper and quotes amounts of 20,910,000 and 21,892,000 UZS, while the lot is for tableware at 26,000,000 UZS. The product and sums in the document do not match the lot, so it is unclear what bidders must offer against.",
+      "rewrite_uz": "Texnik topshiriq sarlavhasi va summalari lot predmetiga (stol anjomlari, 26 000 000 so'm) moslashtirilsin yoki tegishli versiya joylansin.",
+      "rewrite_en": "Align the specification title and amounts with the lot subject (tableware, 26,000,000 UZS) or upload the correct version."
+    }
+  ],
+  "documents_needed_uz": [
+    "Davlat ro'yxatidan o'tganlik guvohnomasi",
+    "Korxona nizomi",
+    "Rahbar pasporti nusxasi va rahbarni tayinlash buyrug'i",
+    "Bank ma'lumotlari va statistik ma'lumot",
+    "Davlat reyestridan yuridik shaxs to'g'risida ko'chirma",
+    "Xizmat/tovarni belgilangan muddatda yetkazish bo'yicha kafolat xati",
+    "Halollik majburiyati to'g'risida alohida kafolat xati",
+    "Affillanganlik va manfaatlar to'qnashuvi mavjud emasligi to'g'risida kafolat xati",
+    "Offshor zonalarda bank hisobraqami yo'qligi va arbitrajda emasligi to'g'risida ma'lumot",
+    "Bankdan K2 va muddati o'tgan qarzdorlik yo'qligi hamda to'lovga qobiliyati to'g'risida ma'lumotnoma",
+    "Omborda tovarlar mavjudligini ko'rsatuvchi fotosuratlar va tasdiqlangan xat"
+  ]
+}

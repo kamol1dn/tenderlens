@@ -1,0 +1,31 @@
+{
+"lot_id": 524217, "backend": "in-session", "model": "claude-sonnet-5-5",
+"sector": "food",
+"subject_uz": "1-oktyabr Ustoz va murabbiylar kuni tadbiri uchun oziq-ovqat, ichimlik va boshqa mahsulotlar yetkazib berish va tadbirni tashkil etish xizmati (Mirishkor tumani maktab va DMTTlari)",
+"requirements": [
+{"kind":"technical","summary_uz":"Ro'yxatda 63 xil mahsulot (goʻsht 100 kg, guruch, mevalar, shirinliklar, ichimliklar, salfetkalar va boshqalar) va 15 foiz xizmat haqi koʻrsatilgan; jami 60 000 000 soʻm.","summary_en":"The list has 63 products (meat 100 kg, rice, fruit, sweets, drinks, napkins and others) plus a 15 percent service fee; total 60,000,000 UZS.","quote":"64 | Хизмат 15% | фоиз | | | 7 140 000"},
+{"kind":"delivery","summary_uz":"Xizmatlar shartnoma imzolanganidan keyin 10 kungacha yetkazib beriladi.","summary_en":"Services are delivered within 10 days after the contract is signed.","quote":"Хизматлар етказиб бериш муддати шартнома имзоланганидан сўнг 10 кунгача"},
+{"kind":"payment","summary_uz":"Shartnoma kuchga kirgach 30 foiz avans, mahsulot toʻliq yetkazilgach qolgan 70 foiz.","summary_en":"30 percent advance after the contract takes effect; the remaining 70 percent after full delivery.","quote":"Шартнома кучга кирганидан сўнг 30 фоиз миқдорида олдиндан тўлов амалга оширилади"},
+{"kind":"qualification","summary_uz":"Ishtirokchi tovarlar sifati va muddati boʻyicha rasmiy kafolat xati, oʻz aylanma mablagʻlari bilan taʼminlanganligi va moliyaviy hisobotlarini taqdim etadi.","summary_en":"Bidder provides an official guarantee letter on quality and timing, proof of own working capital and financial statements.","quote":"Товарлар сифати ва муддати бўйича расмий кафолат хати; Ўз айланма маблағлари билан таъминланганлиги;"},
+{"kind":"qualification","summary_uz":"Hujjatlar asl nusxasi rangli skanerda, rahbar imzosi va muhri bilan tasdiqlangan boʻlishi shart; notoʻgʻri maʼlumot kiritganlar chetlashtiriladi.","summary_en":"Documents must be colour scans of originals confirmed by the manager's signature and seal; bidders submitting false data are excluded.","quote":"Хужжатлар асл нусхалари рангли сканер холатида жойлаштирилади."},
+{"kind":"evaluation","summary_uz":"Baholash: texnik qism 70 foiz, narx 30 foiz; minimal oʻtish bali 56.","summary_en":"Evaluation: technical 70 percent, price 30 percent; minimum pass mark 56 points.","quote":"Техник қисм кўрсаткич нисбати | 70% | 56 балл"},
+{"kind":"evaluation","summary_uz":"Ish tajribasi 24 ball: avvalgi shartnomalar, hisob-fakturalar va buyurtmachilardan ijobiy tavsiyanomalar.","summary_en":"Experience is worth 24 points: previous contracts, invoices and positive references from customers.","quote":"Аввалги шартномалари бўйича тегишли буюртмачилар томонидан бир неча ижобий тавсияномалар, ёки хулосалар"},
+{"kind":"evaluation","summary_uz":"Xodimlar soni va tajribasi 14 ball, mehnat.uz maʼlumotlari bilan tasdiqlanishi shart.","summary_en":"Staff numbers and experience carry 14 points and must be confirmed by data from mehnat.uz.","quote":"Маълумотлар ҳаққоний ва мехнат.уз сайтидан олинган бўлиши шарт."},
+{"kind":"evaluation","summary_uz":"Moliyaviy holat 24 ball: bir yillik bank aylanmasi, hisobraqamdagi qoldiq, kredit va soliq qarzi yoʻqligi.","summary_en":"Financial standing carries 24 points: one-year bank turnover, account balance, no loan or tax debt.","quote":"1.Тўловга қодирлиги (бир йиллик банк айланмаси); 2.Банк хисоб рақамидаги маблағлар қолдиғи;"}
+],
+"flags": [
+{"type":"brand_no_equivalent","severity":"low",
+"quote":"34 | Кока-кола 1,5л | дона | 30 | 18 000 | 540 000",
+"explanation_uz":"Roʻyxatda Koka-kola, Fanta, Pepsi, Borjomi, Chortoq kabi aniq brend nomlari koʻrsatilgan, ekvivalent mahsulot ruxsat etilishi aytilmagan. Shu sababli boshqa brenddagi oʻxshash ichimlik taklif qilmoqchi boʻlgan yetkazib beruvchi mos kelmaydigan deb topilishi mumkin. Bir aniqlashtiruvchi savol berish tavsiya etiladi.",
+"explanation_en":"The list names specific brands (Coca-Cola, Fanta, Pepsi, Borjomi, Chortoq) and does not say equivalents are allowed, so a supplier offering a similar drink of another brand may be treated as non-compliant. One clarifying question is suggested.",
+"rewrite_uz":"Gazlangan ichimlik 1,5 l (Koka-kola, Fanta, Pepsi yoki ekvivalent), 30 dona.",
+"rewrite_en":"Carbonated soft drink 1.5 l (Coca-Cola, Fanta, Pepsi or equivalent), 30 pieces."},
+{"type":"irrelevant_requirement","severity":"low",
+"quote":"Ижара асосида курсатилётган Автобусларни расми ва ижара шартномалри асосида куриб чикиш",
+"explanation_uz":"Ishtirokchilarni tekshirish tartibida ijaraga olingan avtobuslarning rasmi va ijara shartnomalarini koʻrib chiqish keltirilgan, lekin xarid predmeti oziq-ovqat va tadbir xizmati boʻlib, unda avtobus talab qilinmaydi. Bu band boshqa xarid hujjatidan olingan boʻlishi mumkin; uni aniqlashtirish yoki olib tashlash tavsiya etiladi.",
+"explanation_en":"The participant review procedure mentions photos of rented buses and rental contracts, but the purchase is food and event services and no buses are required. The line may have been carried over from another document and should be clarified or removed.",
+"rewrite_uz":"Bandni olib tashlash yoki tadbir uchun zarur transport boʻlsa, uning talab etiladigan turini koʻrsatish.",
+"rewrite_en":"Remove the line or, if transport is needed for the event, state the type of transport required."}
+],
+"documents_needed_uz": ["Harid komissiyasi raisi nomiga ariza","Davlat roʻyxatidan oʻtganlik guvohnomasi nusxasi (muhr bilan)","Kafolat xati va talabnoma","Zakalat toʻlov topshiriqnomasi yoki bank kafolati (talab qilinganda)","Moliyaviy hisobotlar (auditor tasdiqlagan yoki QR kodli)","Ishbilarmonlik obroʻsini tasdiqlovchi hujjatlar","Soliq qarzi yoʻqligi haqida maʼlumotnoma va bank maʼlumotlari","Ustav, guvohnoma, taʼsis hujjatlari va rahbar pasporti nusxalari","Oldingi shartnomalar, hisob-fakturalar va tavsiyanomalar","Xodimlar soni va tajribasi haqida mehnat.uz maʼlumotlari"]
+}

@@ -1,0 +1,104 @@
+{
+  "lot_id": 522594,
+  "backend": "in-session",
+  "model": "claude-sonnet-5-5",
+  "sector": "it",
+  "subject_uz": "LED ekran (9,60 x 3,84 m, GOB, qadam 1,25 mm) yetkazib berish, montaj va ishga tushirish",
+  "requirements": [
+    {
+      "kind": "technical",
+      "summary_uz": "GOB turidagi LED ekran, oʻlchami 9,60 x 3,84 m, piksel qadami 1,25 mm, ruxsat 7680 x 3072.",
+      "summary_en": "GOB-type LED screen, 9.60 x 3.84 m, pixel pitch 1.25 mm, resolution 7680 x 3072.",
+      "quote": "Разрешение экрана: 7680 × 3072 пикс."
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Ekran 30 x 24 modul (720 modul) konfiguratsiyasida boʻlishi kerak.",
+      "summary_en": "The screen must be built as 30 x 24 modules (720 modules).",
+      "quote": "30 × 24 модулей (720 модулей)"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Elektr taʼminoti (N+1) va signal yoʻli (Dual Backup) rezervlanishi, 24x7x365 rejimida ishlash talab qilinadi.",
+      "summary_en": "Power (N+1) and signal path (Dual Backup) redundancy and 24x7x365 operation are required.",
+      "quote": "резервирование сигнального тракта (Dual Backup);"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "NovaStar qabul qiluvchi va uzatuvchi kartalarning toʻliq toʻplami talab qilinadi.",
+      "summary_en": "A full set of NovaStar receiving and sending cards is required.",
+      "quote": "полный комплект приёмных и передающих карт NovaStar;"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "NovaStar H5 dan past boʻlmagan videoprotsessor (yoki ekvivalent) va DH-3208 qabul kartalari (yoki ekvivalent).",
+      "summary_en": "NovaStar video processor not lower than H5 (or equivalent) and DH-3208 receiving cards (or equivalent).",
+      "quote": "видеопроцессор NovaStar не ниже H5 (или эквивалент);"
+    },
+    {
+      "kind": "technical",
+      "summary_uz": "Kamida 6 manbadan signal va kamida 6 operator uchun boshqaruv dasturi litsenziyalari.",
+      "summary_en": "Input from at least 6 sources and control-software licences for at least 6 operators.",
+      "quote": "лицензии на ПО управления не менее чем на 6 пользователей."
+    },
+    {
+      "kind": "delivery",
+      "summary_uz": "Yetkazib berish va ishga tushirish muddati shartnoma imzolangan kundan 15 kun.",
+      "summary_en": "Delivery period is 15 days from the date of signing the contract.",
+      "quote": "Срок поставки товара (выполнения работы, оказания услуги) (указать в днях) 15 дней с даты подписания договора"
+    },
+    {
+      "kind": "payment",
+      "summary_uz": "Toʻlov: 20% avans, yetkazilgandan keyin 60%, oʻrnatish va ishga tushirishdan keyin 20%; toʻlov muddati 10 ish kuni.",
+      "summary_en": "Payment: 20% advance, 60% after delivery, 20% after installation and commissioning; payment within 10 working days.",
+      "quote": "20 % аванс 60% после поставки товара 20% после установки и пусконаладки"
+    },
+    {
+      "kind": "other",
+      "summary_uz": "Kafolat muddati foydalanishga topshirilgan kundan 12 oy.",
+      "summary_en": "Warranty is 12 months from commissioning.",
+      "quote": "12 месяцев с даты ввода в эксплуатацию"
+    },
+    {
+      "kind": "qualification",
+      "summary_uz": "Mol yetkazib berish bilan birga muvofiqlik sertifikati, sifat sertifikati, mahsulot pasporti va kelib chiqish sertifikati (CT-1) topshiriladi.",
+      "summary_en": "Delivery must be accompanied by a conformity certificate, quality certificate, product passport and certificate of origin (CT-1).",
+      "quote": "При поставки товара поставщик объязан предоставить Сертификат соответствия,"
+    },
+    {
+      "kind": "evaluation",
+      "summary_uz": "Baholash eng past narx usulida; texnik taklif ayrim hujjatlar bilan birga oʻtish/oʻtmaslik tartibida tekshiriladi.",
+      "summary_en": "Evaluation is by lowest price; the technical offer is a pass/fail check alongside the other documents.",
+      "quote": "Метод оценки предложений – Метод наименьшей цены"
+    }
+  ],
+  "flags": [
+    {
+      "type": "unrealistic_deadline",
+      "severity": "medium",
+      "quote": "Срок поставки товара (выполнения работы, оказания услуги) (указать в днях) 15 дней с даты подписания договора",
+      "explanation_uz": "Katta formatli (720 modul) GOB LED ekranni yetkazish, montaj, sozlash va ishga tushirish uchun shartnoma imzolangandan keyin atigi 15 kun berilgan; toʻlovning 60 foizi yetkazilgandan keyin boʻladi. Bunday muddatga omborida tayyor modul va karta zaxirasi boʻlgan yetkazib beruvchilargina ulgura oladi, qolgan imkoniyatli ishtirokchilar chetda qolishi mumkin. Lot boshlangʻich narxi 1 110 096 000 soʻm.",
+      "explanation_en": "Only 15 days from signing are given to supply, install, configure and commission a large-format (720-module) GOB LED screen, with 60% of payment due after delivery. Only suppliers holding ready module and card stock could meet this, so other capable bidders may be shut out. The lot's start price is 1,110,096,000 UZS.",
+      "rewrite_uz": "Yetkazib berish, montaj va ishga tushirish muddati shartnoma imzolangan kundan boshlab 45-60 kalendar kun.",
+      "rewrite_en": "Delivery, installation and commissioning within 45 to 60 calendar days from the date of signing the contract."
+    },
+    {
+      "type": "brand_no_equivalent",
+      "severity": "low",
+      "quote": "полный комплект приёмных и передающих карт NovaStar;",
+      "explanation_uz": "Boshqa bandlarda (videoprotsessor, qabul kartalari) NovaStar uchun ekvivalent ruxsat etilgan, lekin kartalar toʻplami uchun bunday qayd yoʻq. Bu bandni bir xil ravishda aniqlashtirish kerak.",
+      "explanation_en": "Elsewhere (video processor, receiving cards) NovaStar allows an equivalent, but this line about the full set of cards has no such note. One clarifying question would resolve the inconsistency.",
+      "rewrite_uz": "Qabul qiluvchi va uzatuvchi kartalarning toʻliq toʻplami (NovaStar yoki ekvivalent).",
+      "rewrite_en": "Full set of receiving and sending cards (NovaStar or equivalent)."
+    }
+  ],
+  "documents_needed_uz": [
+    "Ishtirokchi va uning taʼsischilari haqida umumiy maʼlumot (1-shakl)",
+    "Qayta tashkil etish, tugatish, bankrotlik yoki sud jarayonida emasligi va avvalgi shartnomalar bajarilganligi haqida kafolat xati (2-shakl)",
+    "Halollik va manfaatlar toʻqnashuvi yoʻqligi haqida ariza (3-shakl)",
+    "Texnik taklif (4-shakl), texnik parametrlar bilan",
+    "Yetkazib berish va toʻlov shartlari haqida maʼlumot (5-shakl)",
+    "Soliq inspeksiyasidan muddati oʻtgan qarz yoʻqligi haqida maʼlumotnoma",
+    "Davlat roʻyxatidan oʻtganlik guvohnomasi va rahbar pasporti nusxasi (afzal)"
+  ]
+}
