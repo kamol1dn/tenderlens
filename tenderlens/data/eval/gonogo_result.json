@@ -1,0 +1,435 @@
+{
+ "run_at": "2026-11-17",
+ "backend": "in-session (no ANTHROPIC_API_KEY): claude-sonnet-5-5 subagents; demo lots re-read by claude-fable-5-2",
+ "random_sample": {
+  "specs": 27,
+  "specs_with_high_or_medium": 13,
+  "high": 4,
+  "medium": 15,
+  "low": 7,
+  "dropped_unverified": 1
+ },
+ "preselected_demo_lots": {
+  "specs": 3,
+  "specs_with_high_or_medium": 3,
+  "high": 0,
+  "medium": 4,
+  "low": 1
+ },
+ "note": "Flags are model-proposed with code-verified quotes. None has been confirmed by a human yet.",
+ "lots": {
+  "sample": {
+   "524645": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "523313": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "other",
+      "page": 34,
+      "quote": "Наличие лицензии, подтверждающей производителя продукции производственно-технического назначения",
+      "explanation_en": "This criterion is marked critical: scoring zero stops further evaluation. The type of licence is not named, and a supplier that is not the manufacturer gets only 2 points without a cooperation contract and 6 with one. Suppliers who are not the manufacturer could be shut out or lose points.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524621": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "524500": {
+    "flags": [
+     {
+      "severity": "high",
+      "type": "other",
+      "page": 0,
+      "quote": "Yevropa sertifikatlashtirish organi veb-saytida O‘zbekiston sertifikatlashtirish organi bilan hamkorlikni tasdiqlash",
+      "explanation_en": "Criterion 3 (10 points) requires the European certification body's own website to show cooperation with an Uzbekistan body, and criterion 2 requires a notarised contract with that European body. Together they tie the score to a very small set of bodies and may deprive other qualified certification bodies of 20 points; the reason should be clarified.",
+      "second_pass": false
+     },
+     {
+      "severity": "medium",
+      "type": "other",
+      "page": 0,
+      "quote": "ISO37001 sertifikati beriladigan Yevropa sertifikatlashtirish organi bilan rasmiy shartnoma/kelisuvga ega bo‘lishi",
+      "explanation_en": "The bidder must hold a contract with a European body and attach a notarised copy of it. This lowers the score of bodies that hold independent accreditation but have no such contract, and affects 10 points.",
+      "second_pass": false
+     },
+     {
+      "severity": "medium",
+      "type": "excessive_experience",
+      "page": 0,
+      "quote": "Menejment tizimini sertifikatlash bo‘yicha O‘zbekistonda 5 yildan ortiq tajribaga ega bo‘lishi",
+      "explanation_en": "More than 5 years of local experience and at least 5 reference letters are scored (10 points), and experience certifying state enterprises is scored separately at 20 points. This may exclude bodies with international experience that only recently started in Uzbekistan; the contract value is 212 million UZS.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524998": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "other",
+      "page": 6,
+      "quote": "tashkilotga texnika fanlari doktori (DSc) va texnika fanlari bo‘yicha falsafa doktorlaridan(PhD) iborat ilmiy kengash mavjudligi",
+      "explanation_en": "The bidding organisation must have a scientific council made up of DSc and PhD holders. Such councils exist mainly in research institutes and universities, so other capable organisations with qualified specialists may be unable to bid. The need for this requirement is worth checking.",
+      "second_pass": false
+     },
+     {
+      "severity": "low",
+      "type": "irrelevant_requirement",
+      "page": 7,
+      "quote": "Raqamli texnologiyalardagi dasturiy ta’minotni o‘matish, qayta o‘matish, yangilash va modernizatsiya qiluvchi malakali ishchi kuchi bilan ta’minlanganligi.",
+      "explanation_en": "The clause asks for staff who install and update software, but the work is a research study on energy efficiency. It looks like standard template wording; it should be clarified which task it relates to.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "525192": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "irrelevant_requirement",
+      "page": 3,
+      "quote": "ИСО-9001, 14001, 45001, 50001 сертификатлари, халкаро тан олинган лабораториялар ва синов марказларининг сифат сертификатини такдим этиш зарур.",
+      "explanation_en": "The start price is only about 5.3 million UZS, yet four ISO certificates (quality, environment, occupational safety, energy) are required. This looks out of proportion to the lot and may shut out small suppliers. A clarification on which certificate is truly needed is advisable.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524954": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "excessive_financial",
+      "page": 0,
+      "quote": "So‘nggi 3 yil uchun o‘rtacha yillik aylanma — kamida 8 mlrd so‘m.",
+      "explanation_en": "The required annual turnover (8 bn UZS) is roughly 24 times the lot start price (330.4 m UZS). A capable design firm with smaller turnover could lose points or be shut out. It is worth asking for the threshold to be tied to the lot value.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524664": {
+    "flags": [
+     {
+      "severity": "low",
+      "type": "other",
+      "page": 0,
+      "quote": "Aviakompaniyaning ijobiy tavsiyasi yoki sharhi mavjudligi; bo'lsa 5- ball",
+      "explanation_en": "The same airline-recommendation criterion appears twice (criteria 1 and 3), so 10 of the 20 points depend on it. A small or new cargo agent may find such a letter hard to obtain. A clarifying question is worthwhile.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 1
+   },
+   "524396": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "524815": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "524422": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "524224": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "irrelevant_requirement",
+      "page": 0,
+      "quote": "Аффиланганлик мавжуд эмаслиги тўғрисидаги кафолат хати",
+      "explanation_en": "Criterion 5 (25 points) is titled 'quality guarantees' but is scored on letters about affiliation, offshore accounts, arbitration and conflict of interest, not on the quality of the flags. It looks like standard platform template wording; the same pattern appears in criteria 1, 3 and 4, so much of the technical score depends on paperwork unrelated to the goods.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524401": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "excessive_experience",
+      "page": 0,
+      "quote": "Oxirgi 15 yilda 5 tadan ko‘p, maydoni 5000 m2 bo‘lgan, kapital xarajatlari (CAPEX) 1,0 mln. AQSh dollari ekvivalentida bo‘lgan",
+      "explanation_en": "The experience criterion asks for more than 5 objects, each of 5,000 sq m and at least USD 1 million, while the building to be built has a total area of about 1,116 sq m. This may lower the score of mid-sized contractors who could still do this kind of work; it is worth asking the customer for the reason.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524769": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "excessive_financial",
+      "page": 0,
+      "quote": "Tanlov ishtirokchisi shartnoma summasining 40 foizidan kam bo‘lmagan xisob raqamida mablag‘i borligi to‘g‘risida bank ko‘chirmasi yoki bank ma’lumotnomasi. 2026 yil yanvar oyi xolatiga",
+      "explanation_en": "The bidder must show at least 40% of the contract sum (about 178 million UZS) on its account, as at January. Because the document is tied to a date months before the bid, a capable caterer whose cash position is organised differently may lose up to 5 of 10 points.",
+      "second_pass": false
+     },
+     {
+      "severity": "medium",
+      "type": "other",
+      "page": 0,
+      "quote": "oshpazlari kamida 2 yillik ish stajiga ega bo‘lganligi to‘g‘risidagi ma’lumotnoma mexnat uz saytidan tasdiklangan va sogligni saklash tizimida ishlagan",
+      "explanation_en": "The cooks' experience must have been gained in the health system, and this criterion carries 15 points. A caterer whose cooks are experienced in public catering or other large kitchens could lose those points.",
+      "second_pass": false
+     },
+     {
+      "severity": "low",
+      "type": "irrelevant_requirement",
+      "page": 0,
+      "quote": "Tanlov ishtirokchisining issiqxonasi, muzlatgich, omborxonasi to‘g‘risidagi ma’lumotlari (kadastr va foto nusxasi bilan);",
+      "explanation_en": "Own greenhouse, refrigeration and storage evidenced by cadastre documents earn 10 points. A caterer using rented or contracted storage could also perform well, so the criterion may need clarification.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524494": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "524711": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "excessive_experience",
+      "page": 0,
+      "quote": "Mazkur e’longa doir obyektlarda ohirgi 3 yilda bajargan ishlar ro‘yxati hamda DEEMning ijobiy xulosalari: 10 dan ortiq bo‘lsa 10 ball, 10 dan kam bo‘lsa 0 ball",
+      "explanation_en": "For a single document worth about 89 m UZS, more than 10 projects with positive opinions in 3 years are needed for any points, and fewer score zero. Capable firms with a shorter track record may lose these points.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524108": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "excessive_experience",
+      "page": 0,
+      "quote": "O‘zbekistonda islomiy moliya bo‘yicha o‘xshash loyihalarda ishtiroki (shartnoma)",
+      "explanation_en": "Up to 15 points depend on Islamic finance projects delivered inside Uzbekistan. Because this field is only now being introduced in the country, capable consultants with strong experience abroad may not be able to earn these points. Worth a check by the commission.",
+      "second_pass": false
+     },
+     {
+      "severity": "low",
+      "type": "irrelevant_requirement",
+      "page": 0,
+      "quote": "Ishtirokchi korxonasining direktor va ta’sischilari to‘g‘risida ma’lumot",
+      "explanation_en": "10 points are given for information about the director and founders, which does not measure ability to deliver consulting services. The wording looks like standard platform template text (placed under a safety criterion).",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524530": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "524156": {
+    "flags": [
+     {
+      "severity": "low",
+      "type": "excessive_experience",
+      "page": 16,
+      "quote": "Xizmat ko‘rsatgan tashkilotlardan kamida 5 ta tavsiyanoma ilova qilinadi. Ma’lumotlar jadval shaklida tasdiqlangan bo‘lishi lozim.",
+      "explanation_en": "Requiring at least 5 reference letters, with 15 points depending on them, may make it harder for newer or smaller suppliers to score. A check on whether this is proportionate to a lot of this value is suggested.",
+      "second_pass": false
+     },
+     {
+      "severity": "medium",
+      "type": "irrelevant_requirement",
+      "page": 15,
+      "quote": "10 ball – 20 tadan ortiq. 5 ball – 11dan 19 tagacha. 3 ball – 10 tagacha.",
+      "explanation_en": "Scoring by the number of permits and certificates rewards quantity rather than relevance or quality. Because the set of documents needed for catering in one kindergarten is limited, a fully qualified supplier could still receive few points.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "510100": {
+    "flags": [
+     {
+      "severity": "high",
+      "type": "irrelevant_requirement",
+      "page": 35,
+      "quote": "5 йил иш стажига эга дипломли 1 та лойиҳа бош архитекторини мавжудлиги.",
+      "explanation_en": "Points are given for a chief architect, architecture and construction specialists and a chief engineer, although the work is repair of solar-panel software. The tender document appears to come from a design-estimate template, so a capable software company could lose points or be rejected. The platform form shows 0 percent technical weight, so the mismatch between the two should also be clarified.",
+      "second_pass": false
+     },
+     {
+      "severity": "medium",
+      "type": "irrelevant_requirement",
+      "page": 35,
+      "quote": "Лойиҳани бажариш учун зарур бўлган 10 бирликдан кам бўлмаган моддий-техник воситалари (компьютер, принтер, плоттер ва ҳ.к.)нинг мавжудлиги",
+      "explanation_en": "The document gives up to 20 points for premises of 36-72 sq m or more and at least 10 units of equipment (including a plotter). A small team that repairs software remotely may not need this and would lose points.",
+      "second_pass": false
+     },
+     {
+      "severity": "medium",
+      "type": "excessive_financial",
+      "page": 35,
+      "quote": "Асосий воситаларнинг қолдиқ қиймати 100 млн. сўм ва ундан кўп.",
+      "explanation_en": "For a lot with a start price of 19 million UZS, points are given for fixed assets of at least 100 million UZS and a prior-year profit of 20 million UZS. These are well above the lot value and may cost young or small companies points.",
+      "second_pass": false
+     },
+     {
+      "severity": "high",
+      "type": "irrelevant_requirement",
+      "page": 38,
+      "quote": "Жорий таъмирлаш ишлари хужжатлари ушбу топшириқ талабларига биноан ишлаб чиқилади ва лойиҳа ташкилоти томонидан давлат экспертизасидан ўтказилиб",
+      "explanation_en": "The technical task is not about solar-panel software but about current-repair design-estimate documents, state expertise and road indicators. A bidder cannot tell exactly what must be delivered or priced, which may discourage capable companies from bidding.",
+      "second_pass": false
+     },
+     {
+      "severity": "low",
+      "type": "irrelevant_requirement",
+      "page": 18,
+      "quote": "Бажариладиган ишларга лицензия талаб",
+      "explanation_en": "The licence is not named. Software repair and support may not need a separate licence, so one clarifying question is worthwhile.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524213": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "522656": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "524076": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "524639": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "524637": {
+    "flags": [],
+    "dropped_flags": 0
+   },
+   "525196": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "other",
+      "page": 17,
+      "quote": "“A” toifasi bo‘yicha reyting bahosi (A/AA/AAA) uchun - 60 ball",
+      "explanation_en": "60 of the 61 technical points depend solely on the construction rating category, so the content of the offer is hardly scored. Smaller contractors with a lower rating who could do the job are capped at 15 points, which may be disproportionate for a routine repair of about 75.7 million UZS.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524620": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "irrelevant_requirement",
+      "page": 0,
+      "quote": "манфаатлар тўқнашувига йўл қўймаслик бўйича кафолат",
+      "explanation_en": "Criterion 1 is titled 'post-warranty service' but its 20 points are given for a guarantee letter about avoiding conflicts of interest, which has nothing to do with curtains or warranty terms. It looks like standard platform template wording; 20 points of the technical score depend on this one document.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   }
+  },
+  "preselected": {
+   "524784": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "irrelevant_requirement",
+      "page": 1,
+      "quote": "Мувофиклиги бахоланиши лозим булган давлат ветеринария хизмати назорати остидаги махсулотлар",
+      "explanation_en": "The lot buys three-cone drill bits, yet criterion 5 scores a conformity document for products under state veterinary control: 5 points if attached, 1 if not. No such document can exist for drill bits, so a bidder may lose 4 points. The wording appears to come from the platform's standard template.",
+      "second_pass": true
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "523196": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "excessive_financial",
+      "page": 7,
+      "quote": "камида 3 (уч) ойлик шартнома суммасига тенг айланма маблагларининг",
+      "explanation_en": "A scored criterion asks for a bank statement showing working capital equal to at least 3 months of the contract sum (10 points, 20 for more, 0 otherwise). The contract itself covers one quarter, so in effect the bidder must hold the whole contract value in cash. That is heavy for small caterers and may cost them points.",
+      "second_pass": true
+     },
+     {
+      "severity": "medium",
+      "type": "excessive_experience",
+      "page": 0,
+      "quote": "10 тадан кўп ошпаз, диетолог, шофёр ва хизматчилар учун 20 балл",
+      "explanation_en": "The lot is worth about 23.4 m UZS for a limited number of diners, yet the top score goes to bidders with more than 10 cooks, dietitians, drivers and staff, and much less to 3-5 people. This may cost points for smaller suppliers who could do the job.",
+      "second_pass": false
+     }
+    ],
+    "dropped_flags": 0
+   },
+   "524116": {
+    "flags": [
+     {
+      "severity": "medium",
+      "type": "excessive_financial",
+      "page": 9,
+      "quote": "asosiy turdagi oziq-ovqat mahsulotlarining kamida uch oylik zaxirasini shakllantirish va uni doimiy ravishda saqlab borishni ta'minlash",
+      "explanation_en": "The contract covers November and December 2026, two months, yet it requires building and keeping a three-month stock of staple food. This exceeds the contract period and needs large working capital and warehouse space, which may keep smaller suppliers out. The proportion to the contract size is worth checking.",
+      "second_pass": false
+     },
+     {
+      "severity": "low",
+      "type": "excessive_financial",
+      "page": 0,
+      "quote": "Autsorsing xizmati bo‘yicha kamida uch oylik shartnoma summasiga teng aylanma mablag‘larga ega bo‘lish",
+      "explanation_en": "The contract runs for only two months (November-December), yet bidders must show working capital equal to at least three months of the contract value, and points are scored on it. That is more than the whole contract and may shut out smaller operators. The customer could clarify that the amount matches the contract term.",
+      "second_pass": true
+     }
+    ],
+    "dropped_flags": 0
+   }
+  }
+ },
+ "sampling_note": "Drawn at about 23:19 on 17 Nov when 336 specs (the earliest-closing half) had been extracted; one spec per template and per customer; seed 17 with PYTHONHASHSEED=0. The list is frozen in gonogo_lots.json; re-running select sample overwrites it.",
+ "random_sample_first_pass": {
+  "specs": 27,
+  "specs_with_high_or_medium": 14,
+  "high": 3,
+  "medium": 17,
+  "low": 6
+ },
+ "random_sample_after_second_read": {
+  "specs": 27,
+  "specs_with_high_or_medium": 13,
+  "high": 4,
+  "medium": 15,
+  "low": 7
+ },
+ "preselected_demo_lots_first_pass": {
+  "specs": 3,
+  "specs_with_high_or_medium": 2,
+  "high": 0,
+  "medium": 2,
+  "low": 0
+ },
+ "second_read_note": "Severities changed on second read by claude-fable-5-2 for sampled lots 524401 (medium to low), 524954 and 525192 (medium to high), 524500 (one flag high to medium). The first-pass figures are what the bulk model produced on its own."
+}
