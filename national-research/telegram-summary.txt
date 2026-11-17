@@ -1,0 +1,23 @@
+done. full report is in the next message, every number has a source and a verified/reported mark.
+
+top pick: TenderLens
+AI that reads public tender specs (uz cyrillic, uz latin, ru). for small suppliers: is this tender winnable, which clauses are written for one bidder, and a drafted clarification request. for the new procurement agency and the competition committee: all open lots ranked by risk (clause flags x the customer's bidding history).
+
+why it wins:
+- competition committee, 2025: 28,300 anti-competitive actions in 16,100 of the 23,000 procedures it analysed. 8,647 of them were "advantages created for a specific bidder" (kun.uz, 10 mar 2026)
+- accounts chamber, jan-sep 2026: 18,788 procurement violations, 10.2 trn soum
+- median of 2 bidders on the last 2,002 tenders (our own calc from the public uzex api)
+- data is live with no login: open lots, lot details, the spec PDFs themselves. tested tonight
+- the state's AI checks prices and e-shop offers. nothing we found reads the spec text
+- real flag already found: a drill bit tender (lot 524784) scores bidders on a state veterinary certificate
+
+5 candidates, ranked:
+1. TenderLens, procurement spec checker (entrepreneurship), 18/20
+2. pharmacy price compliance (pharma), 17/20. biggest numbers (686k overpricing cases) but the state already auto-monitors 12,500+ pharmacies, so it's plan B
+3. inspection shield + business ombudsman triage, 16/20. new ombudsman duties from jan 2027 under decree PF-175
+4. kindergarten subsidy integrity (education), 16/20. 4.7 trn soum in 2026, real ghost-children fraud cases, but we'd demo on fake data
+5. customs TN VED code classifier, 16/20. customs already showed its own AI tool in october
+
+go/no-go tonight: run the extractor on 30 specs. if it finds fewer than ~5 flags we'd defend in front of the customer, switch to plan B.
+
+reply to this message or start with /claude if you want to dig into any of it.
