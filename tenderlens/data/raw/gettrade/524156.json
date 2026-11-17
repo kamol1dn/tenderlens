@@ -1,0 +1,666 @@
+{
+ "id": 524156,
+ "display_no": "26110012524156",
+ "start_date": "2026-11-11T18:08:29",
+ "end_date": "2026-11-18T18:08:29",
+ "clarific_date": "2026-11-18T18:08:29",
+ "start_cost": 42120000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2080216,\"Order_Num\":1,\"Category_Id\":125805,\"Plangraph_Detail_Id\":24461697,\"Product_Id\":647862,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":182000,\"Cost\":10920000,\"Description\":\"Иссиқ озиқ овқат билан таъминлаш\",\"Expenditure_Id\":44252300,\"Expenditure_Name\":\"Продуктов питания\",\"Plan_Id\":0,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"56.29.19.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":20000,\"Days_Per_Unit\":21,\"Coef_Per_Unit\":1.3,\"Category_Name\":\"Умумий овқатланиш хизматлари\",\"Product_Name\":\"Озиқ-овқат тайёрлаш аутсорсинги хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"порция\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080217,\"Order_Num\":2,\"Category_Id\":125805,\"Plangraph_Detail_Id\":24461698,\"Product_Id\":647862,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":520000,\"Cost\":31200000,\"Description\":\"Иссиқ озиқ овқат билан таъминлаш\",\"Expenditure_Id\":44252300,\"Expenditure_Name\":\"Продуктов питания\",\"Plan_Id\":0,\"Plan_Position_Id\":0,\"Month_Id\":12,\"Month_Name\":\"Dekabr\",\"Product_Code\":\"56.29.19.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":20,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":20000,\"Days_Per_Unit\":21,\"Coef_Per_Unit\":1.3,\"Category_Name\":\"Умумий овқатланиш хизматлари\",\"Product_Name\":\"Озиқ-овқат тайёрлаш аутсорсинги хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"порция\",\"User_Value_Id\":1,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 30,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Бошқарма бошлиғи\",\"Fullname\":\"Ходжиев Иброхим Икрамович\"}]",
+ "rest_time": 68742,
+ "customer_name": "2-Сонли мактабгача таълим ташкилоти",
+ "customer_tin": "207009324",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611051551586302.pdf",
+ "tech_file_path": "/files/2026/11/5/202611051551586302.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 1795158.0,
+ "tech_doc_file_name": "20261211092425524156.pdf",
+ "tech_doc_file_path": "files/2026/11/12/20261211092425524156.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 247461.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611051551942685.docx",
+ "contract_proform_file_path": "/files/2026/11/5/202611051551942685.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 41575.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 11,
+ "nonauthorized_count": 2316,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2768284,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "зарур",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Ishtirokchi shartnoma umumiy summasining kamida 1 foizi miqdorida investitsiya kiritishga roziligi haqida kafolat xatini taqdim etadi.\r\nKafolat xatida investitsiya yo‘nalishlari \r\n(jihoz, inventar, ta’mirlash, moddiy-texnik baza mustahkamlash va boshqalar) hamda taxminiy qiymatlar ko‘rsatiladi.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "kafolat xati taqdim etilgan, biroq investitsiya yo‘nalishlari yoki taxminiy qiymatlari  to‘liq ko‘rsatilmagan bo‘lsa."
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768285,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "зарур",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Ishtirokchi kamida uch oylik xizmat ko‘rsatish qiymatini qoplashga yetarli aylanma mablag‘lari mavjudligini tasdiqlovchi hujjatlarni taqdim etadi.\r\nBunda bank hisobvaraqlaridagi qoldiq to‘g‘risida bank ma’lumotnomasi, moliyaviy hisobotlar, pul oqimi to‘g‘risidagi ma’lumotnoma yoki boshqa moliyaviy tasdiqlovchi hujjatlar ilova qilinadi. Hujjatda summa aniq ko‘rsatilishi lozim. (Bank malumotomasi sanasiga etibor berish kerak)\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "3-5 oylikdan ko‘p qoplaydi"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768286,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "зарур",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 5.0,
+   "description": "Ishtirokchi buyurtmachi tomonidan joylashtirilgan texnik topshiriq talablariga muvofiq xizmat ko‘rsatishga tayyorligi haqida kafolat xatini taqdim etadi. Taklifda xizmat ko‘rsatish tartibi, hajmi, muddati, sifat talablari va texnik topshiriqda belgilangan boshqa shartlarga mosligi aks ettiriladi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "kafolat xati taqdim etilgan, biroq taklifda texnik topshiriq talablariga nisbatan ayrim noaniqlik yoki kamchiliklar mavjud bo‘lsa."
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768287,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "зарур",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Ishtirokchi faoliyat turi uchun talab etiladigan ruxsat etuvchi hujjatlar, sanitariya-epidemiologiya xulosalari, muvofiqlik sertifikatlari, sifat va xavfsizlikni tasdiqlovchi hujjatlarni taqdim etadi. Hujjatlar amal qilish muddati tugamagan bo‘lishi shart hamda eng kamida 2025 yildan keyin tasdiqlangan boʻlishi shart.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "10 tagacha."
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "11dan 19 tagacha"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768288,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "зарур",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Ishtirokchi so‘nggi 3 yil davomida xizmat ko‘rsatgan tashkilotlar ro‘yxatini taqdim etadi (nomi, manzili, xizmat turi, muddati, shartnoma summasi bilan).\r\nXizmat ko‘rsatgan tashkilotlardan kamida 5 ta tavsiyanoma ilova qilinadi. Ma’lumotlar jadval shaklida tasdiqlangan bo‘lishi lozim\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "1-2 tа."
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "3-4 ta."
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768289,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 25.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "зарур",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 25.0,
+   "description": "Ishtirokchi amaldagi SanQvaN talablariga muvofiq taomnoma, menyu-kalkulyatsiya, har bir taom bo‘yicha chiqish vazni, tarkibi, mahsulot sarfi, zarur hollarda yosh toifalari kesimidagi me’yorlar, ozuqaviy qiymat va kaloriyalilik ko‘rsatkichlarini taqdim etadi. Hujjatlar jadval shaklida, tashkilot raxbari tomonidan tasdiqlangan va imzolangan bo‘lishi lozim.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 25.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "taomnoma va menyu-kalkulyatsiya SanQvaN talablariga to‘liq mos emas, masalan, ayrim ma’lumotlar, jumladan chiqish vazni, ozuqaviy qiymat, kaloriyalilik yoki yosh toifalari bo‘yicha ma’lumotlar qisman to‘liq bo‘lmasa, shuningdek ayrim mahsulotlar noto‘g‘ri kiritilgan, mahsulot nomlarida xatoliklar mavjud yoki mahsulotlar taom tarkibiga mos ravishda ko‘rsatilmagan bo‘lsa"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "taomnoma va menyu-kalkulyatsiya SanQvaN talablariga to‘liq mos  bo‘lsa, lekin tashkilot raxbari tomonidan tasdiqlanmagan bo‘lsa."
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768290,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 25.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "зарур",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 25.0,
+   "description": "Ishtirokchi autsorsing xizmatini bajarish uchun mavjud moddiy-texnik baza, oshxona va ishlab chiqarish jihozlari, omborxona, sovitkich uskunalari, transport vositalari, inventarlar hamda xodimlar tarkibi to‘g‘risidagi ma’lumotnomani taqdim etadi.\r\nMazkur ma’lumotlar ro‘yxat shaklida, iloji bo‘lsa foto hamda tasdiqlovchi hujjatlar bilan asoslantiriladi.\r\nKadrlar bo‘yicha shtat ro‘yxati tashkilot raxbari tomonidan tasdiqlangan bo’lishi xamda diplom va malaka hujjatlari nusxalari ilova qilinadi\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 25.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "asosiy resurslarning kamida 1–2 tasi mavjud bo‘lsa, biroq ayrim jihozlar, transport, inventar yoki kadrlar bo‘yicha kamchiliklar mavjud bo‘lsa yoxud tasdiqlovchi hujjatlar to‘liq taqdim etilmagan bo‘lsa."
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "asosiy resurslarning kamida 3–4 tasi mavjud bo‘lsa, biroq ayrim jihozlar, transport, inventar yoki kadrlar bo‘yicha kamchiliklar mavjud bo‘lsa yoxud tasdiqlovchi hujjatlar to‘liq taqdim etilmagan bo‘lsa."
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2768284,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"зарур\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Ishtirokchi shartnoma umumiy summasining kamida 1 foizi miqdorida investitsiya kiritishga roziligi haqida kafolat xatini taqdim etadi.\\r\\nKafolat xatida investitsiya yo‘nalishlari \\r\\n(jihoz, inventar, ta’mirlash, moddiy-texnik baza mustahkamlash va boshqalar) hamda taxminiy qiymatlar ko‘rsatiladi.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"kafolat xati taqdim etilgan, biroq investitsiya yo‘nalishlari yoki taxminiy qiymatlari  to‘liq ko‘rsatilmagan bo‘lsa.\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768285,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"зарур\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Ishtirokchi kamida uch oylik xizmat ko‘rsatish qiymatini qoplashga yetarli aylanma mablag‘lari mavjudligini tasdiqlovchi hujjatlarni taqdim etadi.\\r\\nBunda bank hisobvaraqlaridagi qoldiq to‘g‘risida bank ma’lumotnomasi, moliyaviy hisobotlar, pul oqimi to‘g‘risidagi ma’lumotnoma yoki boshqa moliyaviy tasdiqlovchi hujjatlar ilova qilinadi. Hujjatda summa aniq ko‘rsatilishi lozim. (Bank malumotomasi sanasiga etibor berish kerak)\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"3-5 oylikdan ko‘p qoplaydi\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768286,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"зарур\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":5.0,\"Description\":\"Ishtirokchi buyurtmachi tomonidan joylashtirilgan texnik topshiriq talablariga muvofiq xizmat ko‘rsatishga tayyorligi haqida kafolat xatini taqdim etadi. Taklifda xizmat ko‘rsatish tartibi, hajmi, muddati, sifat talablari va texnik topshiriqda belgilangan boshqa shartlarga mosligi aks ettiriladi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"kafolat xati taqdim etilgan, biroq taklifda texnik topshiriq talablariga nisbatan ayrim noaniqlik yoki kamchiliklar mavjud bo‘lsa.\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768287,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"зарур\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Ishtirokchi faoliyat turi uchun talab etiladigan ruxsat etuvchi hujjatlar, sanitariya-epidemiologiya xulosalari, muvofiqlik sertifikatlari, sifat va xavfsizlikni tasdiqlovchi hujjatlarni taqdim etadi. Hujjatlar amal qilish muddati tugamagan bo‘lishi shart hamda eng kamida 2025 yildan keyin tasdiqlangan boʻlishi shart.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"10 tagacha.\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"11dan 19 tagacha\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768288,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"зарур\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Ishtirokchi so‘nggi 3 yil davomida xizmat ko‘rsatgan tashkilotlar ro‘yxatini taqdim etadi (nomi, manzili, xizmat turi, muddati, shartnoma summasi bilan).\\r\\nXizmat ko‘rsatgan tashkilotlardan kamida 5 ta tavsiyanoma ilova qilinadi. Ma’lumotlar jadval shaklida tasdiqlangan bo‘lishi lozim\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"1-2 tа.\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"3-4 ta.\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768289,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":25.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"зарур\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":25.0,\"Description\":\"Ishtirokchi amaldagi SanQvaN talablariga muvofiq taomnoma, menyu-kalkulyatsiya, har bir taom bo‘yicha chiqish vazni, tarkibi, mahsulot sarfi, zarur hollarda yosh toifalari kesimidagi me’yorlar, ozuqaviy qiymat va kaloriyalilik ko‘rsatkichlarini taqdim etadi. Hujjatlar jadval shaklida, tashkilot raxbari tomonidan tasdiqlangan va imzolangan bo‘lishi lozim.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":25.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"taomnoma va menyu-kalkulyatsiya SanQvaN talablariga to‘liq mos emas, masalan, ayrim ma’lumotlar, jumladan chiqish vazni, ozuqaviy qiymat, kaloriyalilik yoki yosh toifalari bo‘yicha ma’lumotlar qisman to‘liq bo‘lmasa, shuningdek ayrim mahsulotlar noto‘g‘ri kiritilgan, mahsulot nomlarida xatoliklar mavjud yoki mahsulotlar taom tarkibiga mos ravishda ko‘rsatilmagan bo‘lsa\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"taomnoma va menyu-kalkulyatsiya SanQvaN talablariga to‘liq mos  bo‘lsa, lekin tashkilot raxbari tomonidan tasdiqlanmagan bo‘lsa.\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768290,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":25.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"зарур\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":25.0,\"Description\":\"Ishtirokchi autsorsing xizmatini bajarish uchun mavjud moddiy-texnik baza, oshxona va ishlab chiqarish jihozlari, omborxona, sovitkich uskunalari, transport vositalari, inventarlar hamda xodimlar tarkibi to‘g‘risidagi ma’lumotnomani taqdim etadi.\\r\\nMazkur ma’lumotlar ro‘yxat shaklida, iloji bo‘lsa foto hamda tasdiqlovchi hujjatlar bilan asoslantiriladi.\\r\\nKadrlar bo‘yicha shtat ro‘yxati tashkilot raxbari tomonidan tasdiqlangan bo’lishi xamda diplom va malaka hujjatlari nusxalari ilova qilinadi\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":25.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"asosiy resurslarning kamida 1–2 tasi mavjud bo‘lsa, biroq ayrim jihozlar, transport, inventar yoki kadrlar bo‘yicha kamchiliklar mavjud bo‘lsa yoxud tasdiqlovchi hujjatlar to‘liq taqdim etilmagan bo‘lsa.\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"asosiy resurslarning kamida 3–4 tasi mavjud bo‘lsa, biroq ayrim jihozlar, transport, inventar yoki kadrlar bo‘yicha kamchiliklar mavjud bo‘lsa yoxud tasdiqlovchi hujjatlar to‘liq taqdim etilmagan bo‘lsa.\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1107436,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107437,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107438,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107439,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107440,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107441,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1107436,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107437,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107438,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107439,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107440,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107441,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 52347,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Наманганская область",
+ "delivering_district_name": "Туракурганский район",
+ "delivering_address": "Турукургон тумани Исвахон мфй",
+ "delivering_phone": "994389188",
+ "addon_description": "2025-yil 22-dekabrdagi 810-son qarori bilan tasdiqlangan “Oʻz Res Prezidenti huzuridagi Ijtimoiy himoya milliy agentligi tizimdagi tashkilotlarda ayrim xizmatlarni koʻrsatishni autsorsing usuliga o'tkazish",
+ "technical_description": "Танлов хужжатлари",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 523977,
+ "customer_region_name": "Namangan viloyati",
+ "customer_district_name": "Namangan viloyati",
+ "customer_street": "Туракургон шахри Туракургон куча",
+ "customer_zip": "00000",
+ "min_point": 40,
+ "financing_source": "Давлат бюджети маблағлари",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 289404.97,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080216,
+     "converted_price": 1250.51,
+     "converted_cost": 75030.91
+    },
+    {
+     "lot_detail_id": 2080217,
+     "converted_price": 3572.9,
+     "converted_cost": 214374.05
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 42120000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080216,
+     "converted_price": 182000.0,
+     "converted_cost": 10920000.0
+    },
+    {
+     "lot_detail_id": 2080217,
+     "converted_price": 520000.0,
+     "converted_cost": 31200000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 3503.1,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080216,
+     "converted_price": 15.13,
+     "converted_cost": 908.21
+    },
+    {
+     "lot_detail_id": 2080217,
+     "converted_price": 43.24,
+     "converted_cost": 2594.89
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 3182.04,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080216,
+     "converted_price": 13.74,
+     "converted_cost": 824.97
+    },
+    {
+     "lot_detail_id": 2080217,
+     "converted_price": 39.28,
+     "converted_cost": 2357.06
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

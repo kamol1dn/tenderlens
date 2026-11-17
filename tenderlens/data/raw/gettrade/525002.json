@@ -1,0 +1,438 @@
+{
+ "id": 525002,
+ "display_no": "26120012525002",
+ "start_date": "2026-11-17T09:47:41",
+ "end_date": "2026-11-24T09:47:41",
+ "clarific_date": "2026-11-24T09:47:41",
+ "start_cost": 396600000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2084393,\"Order_Num\":1,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24406869,\"Product_Id\":716104,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":396600000,\"Cost\":396600000,\"Description\":\"Temir yo'l tarozisi xerid qilish va o'rnatish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":10038098,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"28.29.31.111-00003\",\"Guarantee_Term\":60,\"Delivery_Term\":10,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Вагон тарозиси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 0.0,
+ "term_payment_days": 20,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":4,\"Name\":\"Узбекский К\"}]",
+ "contacts": "[{\"Job_title\":\"Директорнинг биринчи ўринбосари-бош муҳандис\",\"Fullname\":\"Абдуллаев Фарход Фатуллаевич\"}]",
+ "rest_time": 556924,
+ "customer_name": "ООО BUXORO   NEFT    BAZASI",
+ "customer_tin": "204587384",
+ "payment_type_name": "Оплата по факту",
+ "tech_file_name": "202611115333767717.pdf",
+ "tech_file_path": "/files/2026/11/11/202611115333767717.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 914958.0,
+ "tech_doc_file_name": "20261711152401525002.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711152401525002.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 225577.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611115333858565.doc",
+ "contract_proform_file_path": "/files/2026/11/11/202611115333858565.doc",
+ "contract_proform_file_ext": "DOC",
+ "contract_proform_file_sizes": 177664.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 4,
+ "nonauthorized_count": 315,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2773035,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 40.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Техник топшириққа мувофиқлик тўғрисидаги кафолат хати ва техник паспорти» ёки «7-иловага мувофиқ тўлдирилган техник таклиф",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 40.0,
+   "description": "Товарни ўрнатиш, ишга тушириш-созлаш ва дастурлаш ишларини амалга ошириш ҳамда техник топшириқ талабларига тўлиқ мувофиқлигини тасдиқловчи ҳужжатларни тақдим этиш.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 40.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2773036,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+   "min_score": 0.0,
+   "max_score": 30.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "контрагентлар томонидан тақдим этиладиган ҳужжатлар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 30.0,
+   "description": "контрагентлар томонидан тақдим этиладиган ҳужжатлар",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 30.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2773037,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Кафолат хати ва сервис хизмати кўрсатиш мажбурияти",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Ускунани ишлатиш (эксплуатация) жараёнида зарур бўладиган материаллар, қўшимча эҳтиёт қисмлар ҳамда кафолат муддати давомида бепул техник хизмат кўрсатиш мажбуриятини олиш.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2773038,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ходимларни ўқитиш бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Мувофиқлик сертификати ва ходимларни ўқитиш бўйича кафолат хати»",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Ускунадан фойдаланиш бўйича буюртмачи ходимларини ўқитиш, йўриқнома билан таъминлаш ҳамда товарнинг келиб чиқиш ва мувофиқлик сертификатларини тақдим этиш",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2773035,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":40.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Техник топшириққа мувофиқлик тўғрисидаги кафолат хати ва техник паспорти» ёки «7-иловага мувофиқ тўлдирилган техник таклиф\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":40.0,\"Description\":\"Товарни ўрнатиш, ишга тушириш-созлаш ва дастурлаш ишларини амалга ошириш ҳамда техник топшириқ талабларига тўлиқ мувофиқлигини тасдиқловчи ҳужжатларни тақдим этиш.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":40.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2773036,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.\",\"Min_Score\":0.0,\"Max_Score\":30.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"контрагентлар томонидан тақдим этиладиган ҳужжатлар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":30.0,\"Description\":\"контрагентлар томонидан тақдим этиладиган ҳужжатлар\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":30.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2773037,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Кафолат хати ва сервис хизмати кўрсатиш мажбурияти\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Ускунани ишлатиш (эксплуатация) жараёнида зарур бўладиган материаллар, қўшимча эҳтиёт қисмлар ҳамда кафолат муддати давомида бепул техник хизмат кўрсатиш мажбуриятини олиш.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2773038,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ходимларни ўқитиш бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Мувофиқлик сертификати ва ходимларни ўқитиш бўйича кафолат хати»\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Ускунадан фойдаланиш бўйича буюртмачи ходимларини ўқитиш, йўриқнома билан таъминлаш ҳамда товарнинг келиб чиқиш ва мувофиқлик сертификатларини тақдим этиш\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1113498,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113499,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113500,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113501,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113502,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113503,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1113498,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113499,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113500,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113501,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113502,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113503,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 4651,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Бухарская область",
+ "delivering_district_name": "Каганский район",
+ "delivering_address": "Tutkunda MFY",
+ "delivering_phone": "905010076",
+ "addon_description": null,
+ "technical_description": "Texnik topshiriq",
+ "tech_coef": 50.0,
+ "cost_coef": 50.0,
+ "old_id": 524806,
+ "customer_region_name": "Buxoro viloyati",
+ "customer_district_name": "Buxoro viloyati",
+ "customer_street": "Tutkunda KFY",
+ "customer_zip": "100090",
+ "min_point": 80,
+ "financing_source": "не бюджет",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 32985.1,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084393,
+     "converted_price": 32985.1,
+     "converted_cost": 32985.1
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 29961.94,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084393,
+     "converted_price": 29961.94,
+     "converted_cost": 29961.94
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 396600000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084393,
+     "converted_price": 396600000.0,
+     "converted_cost": 396600000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 2725024.04,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084393,
+     "converted_price": 2725024.04,
+     "converted_cost": 2725024.04
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

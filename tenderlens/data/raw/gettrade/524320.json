@@ -1,0 +1,1236 @@
+{
+ "id": 524320,
+ "display_no": "26120012524320",
+ "start_date": "2026-11-11T15:22:03",
+ "end_date": "2026-11-18T15:22:03",
+ "clarific_date": "2026-11-18T15:22:03",
+ "start_cost": 81181960.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2081102,\"Order_Num\":1,\"Category_Id\":115349,\"Plangraph_Detail_Id\":24409358,\"Product_Id\":709589,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":158724,\"Cost\":158724,\"Description\":\"Dori qutisi\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"21.32.26.100-00003\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Офис учун тиббий дори қутиси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081139,\"Order_Num\":38,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409395,\"Product_Id\":718505,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":3838303,\"Cost\":3838303,\"Description\":\"Futbol darvozasi\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.113-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Футбол дарвозаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2081138,\"Order_Num\":37,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409394,\"Product_Id\":463616,\"Product_Type_Id\":1,\"Quantity\":15,\"Price\":23563,\"Cost\":353445,\"Description\":\"Yengil atletika uchun estafeta tayoqchasi\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.113-00007\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Эстафета таёқчаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081137,\"Order_Num\":36,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409393,\"Product_Id\":718557,\"Product_Type_Id\":1,\"Quantity\":3,\"Price\":350000,\"Cost\":1050000,\"Description\":\"Tosh (girya) 16 kg\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.119-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гантель\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081136,\"Order_Num\":35,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409392,\"Product_Id\":718557,\"Product_Type_Id\":1,\"Quantity\":3,\"Price\":165000,\"Cost\":495000,\"Description\":\"Tosh (girya) 8 kg\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.119-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гантель\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081135,\"Order_Num\":34,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409391,\"Product_Id\":718744,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":1616029,\"Cost\":1616029,\"Description\":\"Armrestling uchun stol\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.299-00006\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Армрестлинг учун стол\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081134,\"Order_Num\":33,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409390,\"Product_Id\":475385,\"Product_Type_Id\":1,\"Quantity\":100,\"Price\":3232,\"Cost\":323200,\"Description\":\"Stol tennisi to'pi\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.115-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Стол тенниси коптоги\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081133,\"Order_Num\":32,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409389,\"Product_Id\":718794,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":2052512,\"Cost\":8210048,\"Description\":\"Tennis stoli (raketka va to'r bilan)\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.115-00002\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Стол тенниси учун стол\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2081132,\"Order_Num\":31,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409388,\"Product_Id\":718763,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":64657,\"Cost\":258628,\"Description\":\"Shashka\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.40.42.191-00002\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Шашка ўйнаш учун тўплам\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081131,\"Order_Num\":30,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409387,\"Product_Id\":718774,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":161719,\"Cost\":646876,\"Description\":\"Shaxmat\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.40.42.191-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Шахмат ўйнаш учун тўплам\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2081130,\"Order_Num\":29,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409386,\"Product_Id\":718500,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":1659192,\"Cost\":3318384,\"Description\":\"Basketbol nishoni (halqa va to'r bilan)\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.111-00002\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Баскетбол ўйини учун устун\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081129,\"Order_Num\":28,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409385,\"Product_Id\":467734,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":389353,\"Cost\":1557412,\"Description\":\"Shaxmat soatlari\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.40.42.191-00003\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Шахмат соати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081128,\"Order_Num\":27,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409384,\"Product_Id\":666473,\"Product_Type_Id\":1,\"Quantity\":3,\"Price\":90761,\"Cost\":272283,\"Description\":\"Nasos\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.111-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Коптокни шишириш учун универсал насос\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2081127,\"Order_Num\":26,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409383,\"Product_Id\":718551,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":1620894,\"Cost\":3241788,\"Description\":\"Voleybol ustunlari to'ri bilan\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.112-00003\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Волейбол устуни\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2081126,\"Order_Num\":25,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409382,\"Product_Id\":462336,\"Product_Type_Id\":1,\"Quantity\":15,\"Price\":107000,\"Cost\":1605000,\"Description\":\"Gandbol to'pi\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.231-00003\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гандбол коптоги\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081125,\"Order_Num\":24,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409381,\"Product_Id\":472749,\"Product_Type_Id\":1,\"Quantity\":15,\"Price\":103000,\"Cost\":1545000,\"Description\":\"Voleybol to'pi\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.231-00002\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Волейбол коптоги\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081124,\"Order_Num\":23,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409380,\"Product_Id\":462288,\"Product_Type_Id\":1,\"Quantity\":15,\"Price\":120000,\"Cost\":1800000,\"Description\":\"Basketbol to'pi\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.231-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Баскетбол коптоги\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081123,\"Order_Num\":22,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409379,\"Product_Id\":463603,\"Product_Type_Id\":1,\"Quantity\":15,\"Price\":110000,\"Cost\":1650000,\"Description\":\"Futbol to'pi\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.231-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Футбол коптоги\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081122,\"Order_Num\":21,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409378,\"Product_Id\":464891,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":531416,\"Cost\":1062832,\"Description\":\"Yengil atletika dastaklari\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.113-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Енгил атлетика гранатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081121,\"Order_Num\":20,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409376,\"Product_Id\":462205,\"Product_Type_Id\":1,\"Quantity\":15,\"Price\":31449,\"Cost\":471735,\"Description\":\"Gimnastik tayoq\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гимнастика таёқчаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081120,\"Order_Num\":19,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409375,\"Product_Id\":462347,\"Product_Type_Id\":1,\"Quantity\":15,\"Price\":51531,\"Cost\":772965,\"Description\":\"Gimnastik gardish\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.112-00010\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гимнастика ҳалқаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081119,\"Order_Num\":18,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409374,\"Product_Id\":718557,\"Product_Type_Id\":1,\"Quantity\":8,\"Price\":213054,\"Cost\":1704432,\"Description\":\"Gantel 8 kg\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.119-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гантель\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081118,\"Order_Num\":17,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409373,\"Product_Id\":718557,\"Product_Type_Id\":1,\"Quantity\":8,\"Price\":175748,\"Cost\":1405984,\"Description\":\"Gantel 6 kg\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.119-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гантель\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081117,\"Order_Num\":16,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409372,\"Product_Id\":718557,\"Product_Type_Id\":1,\"Quantity\":8,\"Price\":137486,\"Cost\":1099888,\"Description\":\"Gantel 4 kg\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.119-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гантель\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081116,\"Order_Num\":15,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409371,\"Product_Id\":718557,\"Product_Type_Id\":1,\"Quantity\":8,\"Price\":100404,\"Cost\":803232,\"Description\":\"Gantel 2 kg\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.119-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гантель\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081115,\"Order_Num\":14,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409370,\"Product_Id\":461732,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":725895,\"Cost\":7258950,\"Description\":\"Gimnastik mat (to'shak)\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.129-00007\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гимнастика мати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081114,\"Order_Num\":13,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409369,\"Product_Id\":696921,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":1455200,\"Cost\":5820800,\"Description\":\"Shved devori\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.129-00018\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Швед нарвони\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081113,\"Order_Num\":12,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409368,\"Product_Id\":462479,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":567674,\"Cost\":1135348,\"Description\":\"Lazaniya uchun arqon\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.15.299-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Юқорига кўтарилиш арқони\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081112,\"Order_Num\":11,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409367,\"Product_Id\":718562,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":1114369,\"Cost\":2228738,\"Description\":\"Arqonli gimnastik halqalar\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.112-00016\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гимнастика ҳалқалари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2081111,\"Order_Num\":10,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409366,\"Product_Id\":535282,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":1253600,\"Cost\":1253600,\"Description\":\"Yugurib kelib sakrash uchun ko'prikcha\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.112-00006\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Пружинали гимнастика кўприги мосламаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081110,\"Order_Num\":9,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409365,\"Product_Id\":450062,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":4022327,\"Cost\":4022327,\"Description\":\"Gimnastik xoda\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.129-00009\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гимнастика ходаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081109,\"Order_Num\":8,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409364,\"Product_Id\":458706,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":5800000,\"Cost\":5800000,\"Description\":\"Parallel brus\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.112-00007\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гимнастик бруслар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081108,\"Order_Num\":7,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409363,\"Product_Id\":689306,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":2690590,\"Cost\":2690590,\"Description\":\"Gimnastika turnigi (perekladina)\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.112-00017\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гимнастика турниги\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"тўплам\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081107,\"Order_Num\":6,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409362,\"Product_Id\":464213,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":1069153,\"Cost\":4276612,\"Description\":\"Gimnastika o'tirgichi\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.112-00003\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гимнастика курсиси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081106,\"Order_Num\":5,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409361,\"Product_Id\":718519,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":2554355,\"Cost\":2554355,\"Description\":\"Gimnastik eshak (kozel)\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.112-00011\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гимнастика эшаги\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081105,\"Order_Num\":4,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409360,\"Product_Id\":718569,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":2749852,\"Cost\":2749852,\"Description\":\"Dastakli gimnastik eshak\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.112-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Эшак (гимнастика)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081104,\"Order_Num\":3,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24409359,\"Product_Id\":718569,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":1978346,\"Cost\":1978346,\"Description\":\"Tayanib sakrash uchun gimnastika eshagi\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.112-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Эшак (гимнастика)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2081103,\"Order_Num\":2,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24409377,\"Product_Id\":475542,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":75627,\"Cost\":151254,\"Description\":\"Sekundomer elektron\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10039483,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"26.52.12.140-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Электрон секундомер\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 15.0,
+ "term_payment_days": 30,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Marketing va xaridlar bo‘limi boshlig‘i o‘rinbosari \",\"Fullname\":\"G.Nizomova\"}]",
+ "rest_time": 58775,
+ "customer_name": "\"TA’MINOT VA LOGISTIKA XIZMATI\" MCHJ",
+ "customer_tin": "310014790",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611060126805894.pdf",
+ "tech_file_path": "/files/2026/11/6/202611060126805894.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 1484085.0,
+ "tech_doc_file_name": "20261611102406524320.pdf",
+ "tech_doc_file_path": "files/2026/11/16/20261611102406524320.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 572507.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611065728691797.docx",
+ "contract_proform_file_path": "/files/2026/11/6/202611065728691797.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 43145.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 8,
+ "nonauthorized_count": 2386,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2769328,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi xujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 2.86,
+   "description": "Xarid hujjatlarining 2-ilova, 2-jadvaliga muvofiq texnik qismini baholash. 2-jadvalga muvofiq tegishli organlarning hujjatlar to'plami va texnik qismning boshqa hujjatlari taqdim etilmagan taqdirda, ishtirokchiga 0 ball beriladi va ushbu ishtirokchi, qolgan me’zonlar bo‘yicha baxolanmasdan xarid qilish tartib-taomillarida ishtirok etishdan chetlatiladi. (Noto'g'ri ma'lumotlar aniqlanda, yoki kerakli hujjatlar noto'g'ri taqdim etilganda / to'ldirilganda)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2769329,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 68.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi xujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 97.14,
+   "description": "Xarid hujjatlarining 2-ilova, 3-jadvaliga muvofiq texnik qismni baholash. Agar 3-jadvalga muvofiq namunalar texnik me’zonlarga javob bermasa, ishtirokchiga 0 ball beriladi va ushbu ishtirokchi xarid qilish tartib-taomillarida ishtirok etishdan chetlatiladi. (Noto'g'ri ma'lumotlar aniqlanganda, yoki texnik talablarga mos kelmaydigan namunalar taqdim etilganda)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 68.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 36.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 37.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 38.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 39.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 40.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 41.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 42.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 43.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 44.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 45.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 46.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 47.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 48.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 49.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 50.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 51.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 52.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 53.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 54.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 55.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 56.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 57.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 58.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 59.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 60.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 61.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 62.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 63.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 64.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 65.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 66.0,
+     "description": "-"
+    },
+    {
+     "field_id": null,
+     "value": 67.0,
+     "description": "-"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2769328,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi xujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":2.86,\"Description\":\"Xarid hujjatlarining 2-ilova, 2-jadvaliga muvofiq texnik qismini baholash. 2-jadvalga muvofiq tegishli organlarning hujjatlar to'plami va texnik qismning boshqa hujjatlari taqdim etilmagan taqdirda, ishtirokchiga 0 ball beriladi va ushbu ishtirokchi, qolgan me’zonlar bo‘yicha baxolanmasdan xarid qilish tartib-taomillarida ishtirok etishdan chetlatiladi. (Noto'g'ri ma'lumotlar aniqlanda, yoki kerakli hujjatlar noto'g'ri taqdim etilganda / to'ldirilganda)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2769329,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":68.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi xujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":97.14,\"Description\":\"Xarid hujjatlarining 2-ilova, 3-jadvaliga muvofiq texnik qismni baholash. Agar 3-jadvalga muvofiq namunalar texnik me’zonlarga javob bermasa, ishtirokchiga 0 ball beriladi va ushbu ishtirokchi xarid qilish tartib-taomillarida ishtirok etishdan chetlatiladi. (Noto'g'ri ma'lumotlar aniqlanganda, yoki texnik talablarga mos kelmaydigan namunalar taqdim etilganda)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":68.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":36.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":37.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":38.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":39.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":40.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":41.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":42.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":43.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":44.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":45.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":46.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":47.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":48.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":49.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":50.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":51.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":52.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":53.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":54.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":55.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":56.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":57.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":58.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":59.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":60.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":61.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":62.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":63.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":64.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":65.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":66.0,\"Description\":\"-\"},{\"Field_Id\":null,\"Value\":67.0,\"Description\":\"-\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1108642,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108643,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108644,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108645,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108646,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108647,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1108642,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108643,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108644,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108645,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108646,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108647,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 293875,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Юнусабадский район",
+ "delivering_address": "Yunusobod tumani 13kv 49b uy",
+ "delivering_phone": "555013370",
+ "addon_description": "Qamashi tumanidagi 4-sonli maktabni zarur sport anjomlarini xarid qilish ",
+ "technical_description": "Qamashi tumanidagi 4-sonli maktabni zarur sport anjomlarini xarid qilish ",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "13-квартал, дом 49Б",
+ "customer_zip": "100090",
+ "min_point": 36,
+ "financing_source": "Homiylik mablag'lari",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 6133.05,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081102,
+     "converted_price": 11.99,
+     "converted_cost": 11.99
+    },
+    {
+     "lot_detail_id": 2081103,
+     "converted_price": 5.71,
+     "converted_cost": 11.42
+    },
+    {
+     "lot_detail_id": 2081104,
+     "converted_price": 149.45,
+     "converted_cost": 149.45
+    },
+    {
+     "lot_detail_id": 2081105,
+     "converted_price": 207.74,
+     "converted_cost": 207.74
+    },
+    {
+     "lot_detail_id": 2081106,
+     "converted_price": 192.97,
+     "converted_cost": 192.97
+    },
+    {
+     "lot_detail_id": 2081107,
+     "converted_price": 80.77,
+     "converted_cost": 323.08
+    },
+    {
+     "lot_detail_id": 2081108,
+     "converted_price": 203.26,
+     "converted_cost": 203.26
+    },
+    {
+     "lot_detail_id": 2081109,
+     "converted_price": 438.17,
+     "converted_cost": 438.17
+    },
+    {
+     "lot_detail_id": 2081110,
+     "converted_price": 303.87,
+     "converted_cost": 303.87
+    },
+    {
+     "lot_detail_id": 2081111,
+     "converted_price": 94.7,
+     "converted_cost": 94.7
+    },
+    {
+     "lot_detail_id": 2081112,
+     "converted_price": 84.18,
+     "converted_cost": 168.37
+    },
+    {
+     "lot_detail_id": 2081113,
+     "converted_price": 42.88,
+     "converted_cost": 85.77
+    },
+    {
+     "lot_detail_id": 2081114,
+     "converted_price": 109.93,
+     "converted_cost": 439.74
+    },
+    {
+     "lot_detail_id": 2081115,
+     "converted_price": 54.83,
+     "converted_cost": 548.39
+    },
+    {
+     "lot_detail_id": 2081116,
+     "converted_price": 7.58,
+     "converted_cost": 60.68
+    },
+    {
+     "lot_detail_id": 2081117,
+     "converted_price": 10.38,
+     "converted_cost": 83.09
+    },
+    {
+     "lot_detail_id": 2081118,
+     "converted_price": 13.27,
+     "converted_cost": 106.21
+    },
+    {
+     "lot_detail_id": 2081119,
+     "converted_price": 16.09,
+     "converted_cost": 128.76
+    },
+    {
+     "lot_detail_id": 2081120,
+     "converted_price": 3.89,
+     "converted_cost": 58.39
+    },
+    {
+     "lot_detail_id": 2081121,
+     "converted_price": 2.37,
+     "converted_cost": 35.63
+    },
+    {
+     "lot_detail_id": 2081122,
+     "converted_price": 40.14,
+     "converted_cost": 80.29
+    },
+    {
+     "lot_detail_id": 2081123,
+     "converted_price": 8.31,
+     "converted_cost": 124.65
+    },
+    {
+     "lot_detail_id": 2081124,
+     "converted_price": 9.06,
+     "converted_cost": 135.98
+    },
+    {
+     "lot_detail_id": 2081125,
+     "converted_price": 7.78,
+     "converted_cost": 116.72
+    },
+    {
+     "lot_detail_id": 2081126,
+     "converted_price": 8.08,
+     "converted_cost": 121.25
+    },
+    {
+     "lot_detail_id": 2081127,
+     "converted_price": 122.45,
+     "converted_cost": 244.9
+    },
+    {
+     "lot_detail_id": 2081128,
+     "converted_price": 6.85,
+     "converted_cost": 20.57
+    },
+    {
+     "lot_detail_id": 2081129,
+     "converted_price": 29.41,
+     "converted_cost": 117.65
+    },
+    {
+     "lot_detail_id": 2081130,
+     "converted_price": 125.34,
+     "converted_cost": 250.69
+    },
+    {
+     "lot_detail_id": 2081131,
+     "converted_price": 12.21,
+     "converted_cost": 48.86
+    },
+    {
+     "lot_detail_id": 2081132,
+     "converted_price": 4.88,
+     "converted_cost": 19.53
+    },
+    {
+     "lot_detail_id": 2081133,
+     "converted_price": 155.06,
+     "converted_cost": 620.24
+    },
+    {
+     "lot_detail_id": 2081134,
+     "converted_price": 0.24,
+     "converted_cost": 24.41
+    },
+    {
+     "lot_detail_id": 2081135,
+     "converted_price": 122.08,
+     "converted_cost": 122.08
+    },
+    {
+     "lot_detail_id": 2081136,
+     "converted_price": 12.46,
+     "converted_cost": 37.39
+    },
+    {
+     "lot_detail_id": 2081137,
+     "converted_price": 26.44,
+     "converted_cost": 79.32
+    },
+    {
+     "lot_detail_id": 2081138,
+     "converted_price": 1.78,
+     "converted_cost": 26.7
+    },
+    {
+     "lot_detail_id": 2081139,
+     "converted_price": 289.97,
+     "converted_cost": 289.97
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 81181960.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081102,
+     "converted_price": 158724.0,
+     "converted_cost": 158724.0
+    },
+    {
+     "lot_detail_id": 2081103,
+     "converted_price": 75627.0,
+     "converted_cost": 151254.0
+    },
+    {
+     "lot_detail_id": 2081104,
+     "converted_price": 1978346.0,
+     "converted_cost": 1978346.0
+    },
+    {
+     "lot_detail_id": 2081105,
+     "converted_price": 2749852.0,
+     "converted_cost": 2749852.0
+    },
+    {
+     "lot_detail_id": 2081106,
+     "converted_price": 2554355.0,
+     "converted_cost": 2554355.0
+    },
+    {
+     "lot_detail_id": 2081107,
+     "converted_price": 1069153.0,
+     "converted_cost": 4276612.0
+    },
+    {
+     "lot_detail_id": 2081108,
+     "converted_price": 2690590.0,
+     "converted_cost": 2690590.0
+    },
+    {
+     "lot_detail_id": 2081109,
+     "converted_price": 5800000.0,
+     "converted_cost": 5800000.0
+    },
+    {
+     "lot_detail_id": 2081110,
+     "converted_price": 4022327.0,
+     "converted_cost": 4022327.0
+    },
+    {
+     "lot_detail_id": 2081111,
+     "converted_price": 1253600.0,
+     "converted_cost": 1253600.0
+    },
+    {
+     "lot_detail_id": 2081112,
+     "converted_price": 1114369.0,
+     "converted_cost": 2228738.0
+    },
+    {
+     "lot_detail_id": 2081113,
+     "converted_price": 567674.0,
+     "converted_cost": 1135348.0
+    },
+    {
+     "lot_detail_id": 2081114,
+     "converted_price": 1455200.0,
+     "converted_cost": 5820800.0
+    },
+    {
+     "lot_detail_id": 2081115,
+     "converted_price": 725895.0,
+     "converted_cost": 7258950.0
+    },
+    {
+     "lot_detail_id": 2081116,
+     "converted_price": 100404.0,
+     "converted_cost": 803232.0
+    },
+    {
+     "lot_detail_id": 2081117,
+     "converted_price": 137486.0,
+     "converted_cost": 1099888.0
+    },
+    {
+     "lot_detail_id": 2081118,
+     "converted_price": 175748.0,
+     "converted_cost": 1405984.0
+    },
+    {
+     "lot_detail_id": 2081119,
+     "converted_price": 213054.0,
+     "converted_cost": 1704432.0
+    },
+    {
+     "lot_detail_id": 2081120,
+     "converted_price": 51531.0,
+     "converted_cost": 772965.0
+    },
+    {
+     "lot_detail_id": 2081121,
+     "converted_price": 31449.0,
+     "converted_cost": 471735.0
+    },
+    {
+     "lot_detail_id": 2081122,
+     "converted_price": 531416.0,
+     "converted_cost": 1062832.0
+    },
+    {
+     "lot_detail_id": 2081123,
+     "converted_price": 110000.0,
+     "converted_cost": 1650000.0
+    },
+    {
+     "lot_detail_id": 2081124,
+     "converted_price": 120000.0,
+     "converted_cost": 1800000.0
+    },
+    {
+     "lot_detail_id": 2081125,
+     "converted_price": 103000.0,
+     "converted_cost": 1545000.0
+    },
+    {
+     "lot_detail_id": 2081126,
+     "converted_price": 107000.0,
+     "converted_cost": 1605000.0
+    },
+    {
+     "lot_detail_id": 2081127,
+     "converted_price": 1620894.0,
+     "converted_cost": 3241788.0
+    },
+    {
+     "lot_detail_id": 2081128,
+     "converted_price": 90761.0,
+     "converted_cost": 272283.0
+    },
+    {
+     "lot_detail_id": 2081129,
+     "converted_price": 389353.0,
+     "converted_cost": 1557412.0
+    },
+    {
+     "lot_detail_id": 2081130,
+     "converted_price": 1659192.0,
+     "converted_cost": 3318384.0
+    },
+    {
+     "lot_detail_id": 2081131,
+     "converted_price": 161719.0,
+     "converted_cost": 646876.0
+    },
+    {
+     "lot_detail_id": 2081132,
+     "converted_price": 64657.0,
+     "converted_cost": 258628.0
+    },
+    {
+     "lot_detail_id": 2081133,
+     "converted_price": 2052512.0,
+     "converted_cost": 8210048.0
+    },
+    {
+     "lot_detail_id": 2081134,
+     "converted_price": 3232.0,
+     "converted_cost": 323200.0
+    },
+    {
+     "lot_detail_id": 2081135,
+     "converted_price": 1616029.0,
+     "converted_cost": 1616029.0
+    },
+    {
+     "lot_detail_id": 2081136,
+     "converted_price": 165000.0,
+     "converted_cost": 495000.0
+    },
+    {
+     "lot_detail_id": 2081137,
+     "converted_price": 350000.0,
+     "converted_cost": 1050000.0
+    },
+    {
+     "lot_detail_id": 2081138,
+     "converted_price": 23563.0,
+     "converted_cost": 353445.0
+    },
+    {
+     "lot_detail_id": 2081139,
+     "converted_price": 3838303.0,
+     "converted_cost": 3838303.0
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 6751.87,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081102,
+     "converted_price": 13.2,
+     "converted_cost": 13.2
+    },
+    {
+     "lot_detail_id": 2081103,
+     "converted_price": 6.28,
+     "converted_cost": 12.57
+    },
+    {
+     "lot_detail_id": 2081104,
+     "converted_price": 164.53,
+     "converted_cost": 164.53
+    },
+    {
+     "lot_detail_id": 2081105,
+     "converted_price": 228.7,
+     "converted_cost": 228.7
+    },
+    {
+     "lot_detail_id": 2081106,
+     "converted_price": 212.44,
+     "converted_cost": 212.44
+    },
+    {
+     "lot_detail_id": 2081107,
+     "converted_price": 88.92,
+     "converted_cost": 355.68
+    },
+    {
+     "lot_detail_id": 2081108,
+     "converted_price": 223.77,
+     "converted_cost": 223.77
+    },
+    {
+     "lot_detail_id": 2081109,
+     "converted_price": 482.38,
+     "converted_cost": 482.38
+    },
+    {
+     "lot_detail_id": 2081110,
+     "converted_price": 334.53,
+     "converted_cost": 334.53
+    },
+    {
+     "lot_detail_id": 2081111,
+     "converted_price": 104.26,
+     "converted_cost": 104.26
+    },
+    {
+     "lot_detail_id": 2081112,
+     "converted_price": 92.68,
+     "converted_cost": 185.36
+    },
+    {
+     "lot_detail_id": 2081113,
+     "converted_price": 47.21,
+     "converted_cost": 94.42
+    },
+    {
+     "lot_detail_id": 2081114,
+     "converted_price": 121.02,
+     "converted_cost": 484.11
+    },
+    {
+     "lot_detail_id": 2081115,
+     "converted_price": 60.37,
+     "converted_cost": 603.72
+    },
+    {
+     "lot_detail_id": 2081116,
+     "converted_price": 8.35,
+     "converted_cost": 66.8
+    },
+    {
+     "lot_detail_id": 2081117,
+     "converted_price": 11.43,
+     "converted_cost": 91.47
+    },
+    {
+     "lot_detail_id": 2081118,
+     "converted_price": 14.61,
+     "converted_cost": 116.93
+    },
+    {
+     "lot_detail_id": 2081119,
+     "converted_price": 17.71,
+     "converted_cost": 141.75
+    },
+    {
+     "lot_detail_id": 2081120,
+     "converted_price": 4.28,
+     "converted_cost": 64.28
+    },
+    {
+     "lot_detail_id": 2081121,
+     "converted_price": 2.61,
+     "converted_cost": 39.23
+    },
+    {
+     "lot_detail_id": 2081122,
+     "converted_price": 44.19,
+     "converted_cost": 88.39
+    },
+    {
+     "lot_detail_id": 2081123,
+     "converted_price": 9.14,
+     "converted_cost": 137.22
+    },
+    {
+     "lot_detail_id": 2081124,
+     "converted_price": 9.98,
+     "converted_cost": 149.7
+    },
+    {
+     "lot_detail_id": 2081125,
+     "converted_price": 8.56,
+     "converted_cost": 128.49
+    },
+    {
+     "lot_detail_id": 2081126,
+     "converted_price": 8.89,
+     "converted_cost": 133.48
+    },
+    {
+     "lot_detail_id": 2081127,
+     "converted_price": 134.8,
+     "converted_cost": 269.61
+    },
+    {
+     "lot_detail_id": 2081128,
+     "converted_price": 7.54,
+     "converted_cost": 22.64
+    },
+    {
+     "lot_detail_id": 2081129,
+     "converted_price": 32.38,
+     "converted_cost": 129.52
+    },
+    {
+     "lot_detail_id": 2081130,
+     "converted_price": 137.99,
+     "converted_cost": 275.98
+    },
+    {
+     "lot_detail_id": 2081131,
+     "converted_price": 13.45,
+     "converted_cost": 53.8
+    },
+    {
+     "lot_detail_id": 2081132,
+     "converted_price": 5.37,
+     "converted_cost": 21.51
+    },
+    {
+     "lot_detail_id": 2081133,
+     "converted_price": 170.7,
+     "converted_cost": 682.82
+    },
+    {
+     "lot_detail_id": 2081134,
+     "converted_price": 0.26,
+     "converted_cost": 26.88
+    },
+    {
+     "lot_detail_id": 2081135,
+     "converted_price": 134.4,
+     "converted_cost": 134.4
+    },
+    {
+     "lot_detail_id": 2081136,
+     "converted_price": 13.72,
+     "converted_cost": 41.16
+    },
+    {
+     "lot_detail_id": 2081137,
+     "converted_price": 29.1,
+     "converted_cost": 87.32
+    },
+    {
+     "lot_detail_id": 2081138,
+     "converted_price": 1.95,
+     "converted_cost": 29.39
+    },
+    {
+     "lot_detail_id": 2081139,
+     "converted_price": 319.23,
+     "converted_cost": 319.23
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 557798.26,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081102,
+     "converted_price": 1090.58,
+     "converted_cost": 1090.58
+    },
+    {
+     "lot_detail_id": 2081103,
+     "converted_price": 519.63,
+     "converted_cost": 1039.26
+    },
+    {
+     "lot_detail_id": 2081104,
+     "converted_price": 13593.14,
+     "converted_cost": 13593.14
+    },
+    {
+     "lot_detail_id": 2081105,
+     "converted_price": 18894.13,
+     "converted_cost": 18894.13
+    },
+    {
+     "lot_detail_id": 2081106,
+     "converted_price": 17550.87,
+     "converted_cost": 17550.87
+    },
+    {
+     "lot_detail_id": 2081107,
+     "converted_price": 7346.11,
+     "converted_cost": 29384.44
+    },
+    {
+     "lot_detail_id": 2081108,
+     "converted_price": 18486.94,
+     "converted_cost": 18486.94
+    },
+    {
+     "lot_detail_id": 2081109,
+     "converted_price": 39851.58,
+     "converted_cost": 39851.58
+    },
+    {
+     "lot_detail_id": 2081110,
+     "converted_price": 27637.26,
+     "converted_cost": 27637.26
+    },
+    {
+     "lot_detail_id": 2081111,
+     "converted_price": 8613.43,
+     "converted_cost": 8613.43
+    },
+    {
+     "lot_detail_id": 2081112,
+     "converted_price": 7656.78,
+     "converted_cost": 15313.57
+    },
+    {
+     "lot_detail_id": 2081113,
+     "converted_price": 3900.46,
+     "converted_cost": 7800.93
+    },
+    {
+     "lot_detail_id": 2081114,
+     "converted_price": 9998.62,
+     "converted_cost": 39994.5
+    },
+    {
+     "lot_detail_id": 2081115,
+     "converted_price": 4987.59,
+     "converted_cost": 49875.97
+    },
+    {
+     "lot_detail_id": 2081116,
+     "converted_price": 689.87,
+     "converted_cost": 5518.97
+    },
+    {
+     "lot_detail_id": 2081117,
+     "converted_price": 944.66,
+     "converted_cost": 7557.29
+    },
+    {
+     "lot_detail_id": 2081118,
+     "converted_price": 1207.55,
+     "converted_cost": 9660.46
+    },
+    {
+     "lot_detail_id": 2081119,
+     "converted_price": 1463.88,
+     "converted_cost": 11711.08
+    },
+    {
+     "lot_detail_id": 2081120,
+     "converted_price": 354.06,
+     "converted_cost": 5311.01
+    },
+    {
+     "lot_detail_id": 2081121,
+     "converted_price": 216.08,
+     "converted_cost": 3241.27
+    },
+    {
+     "lot_detail_id": 2081122,
+     "converted_price": 3651.33,
+     "converted_cost": 7302.67
+    },
+    {
+     "lot_detail_id": 2081123,
+     "converted_price": 755.8,
+     "converted_cost": 11337.08
+    },
+    {
+     "lot_detail_id": 2081124,
+     "converted_price": 824.51,
+     "converted_cost": 12367.73
+    },
+    {
+     "lot_detail_id": 2081125,
+     "converted_price": 707.7,
+     "converted_cost": 10615.63
+    },
+    {
+     "lot_detail_id": 2081126,
+     "converted_price": 735.19,
+     "converted_cost": 11027.89
+    },
+    {
+     "lot_detail_id": 2081127,
+     "converted_price": 11137.1,
+     "converted_cost": 22274.2
+    },
+    {
+     "lot_detail_id": 2081128,
+     "converted_price": 623.61,
+     "converted_cost": 1870.84
+    },
+    {
+     "lot_detail_id": 2081129,
+     "converted_price": 2675.23,
+     "converted_cost": 10700.92
+    },
+    {
+     "lot_detail_id": 2081130,
+     "converted_price": 11400.24,
+     "converted_cost": 22800.49
+    },
+    {
+     "lot_detail_id": 2081131,
+     "converted_price": 1111.16,
+     "converted_cost": 4444.66
+    },
+    {
+     "lot_detail_id": 2081132,
+     "converted_price": 444.25,
+     "converted_cost": 1777.02
+    },
+    {
+     "lot_detail_id": 2081133,
+     "converted_price": 14102.73,
+     "converted_cost": 56410.93
+    },
+    {
+     "lot_detail_id": 2081134,
+     "converted_price": 22.2,
+     "converted_cost": 2220.69
+    },
+    {
+     "lot_detail_id": 2081135,
+     "converted_price": 11103.67,
+     "converted_cost": 11103.67
+    },
+    {
+     "lot_detail_id": 2081136,
+     "converted_price": 1133.7,
+     "converted_cost": 3401.12
+    },
+    {
+     "lot_detail_id": 2081137,
+     "converted_price": 2404.83,
+     "converted_cost": 7214.51
+    },
+    {
+     "lot_detail_id": 2081138,
+     "converted_price": 161.9,
+     "converted_cost": 2428.5
+    },
+    {
+     "lot_detail_id": 2081139,
+     "converted_price": 26372.83,
+     "converted_cost": 26372.83
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

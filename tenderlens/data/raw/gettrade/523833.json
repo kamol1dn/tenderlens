@@ -1,0 +1,448 @@
+{
+ "id": 523833,
+ "display_no": "26120012523833",
+ "start_date": "2026-11-17T14:29:30",
+ "end_date": "2026-11-24T14:29:30",
+ "clarific_date": "2026-11-24T14:29:30",
+ "start_cost": 9000000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2078596,\"Order_Num\":1,\"Category_Id\":124049,\"Plangraph_Detail_Id\":24168270,\"Product_Id\":670484,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":9000000000,\"Cost\":9000000000,\"Description\":\"Andijon suv ombori to‘g‘onining 13, 14, 16, 18-seksiyalaridagi avariya-ta’mirlash zatvorlari (ATZ) va gidromexanik uskunalarni kapital ta’mirlash, 13, 14, 21-seksiyalarda o‘rnatilgan axlat ushlagich panjaralarga korroziyaga qarshi ishlov berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9912193,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"42.91.20.190-00002\",\"Guarantee_Term\":5,\"Delivery_Term\":90,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Фуқаролик қурилиши соҳасидаги иншоотлар ва қурилиш ишлари\",\"Product_Name\":\"Гидротехника иншоотларини таъмирлаш хизматлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Гидроиншоот тури\",\"User_Value\":\"Тўғон (Плотина)\",\"User_Value_Id\":0,\"Pnum\":3},{\"Property_Name\":\"Таъмир тури\",\"User_Value\":\"Капитал\",\"User_Value_Id\":1,\"Pnum\":4}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 0.5,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 20,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Departament boshlig'i\",\"Fullname\":\"Fozilov Allomjon Karimovich\"}]",
+ "rest_time": 573816,
+ "customer_name": "\"O`ZBEKGIDROENERGO\" AJ",
+ "customer_tin": "304952767",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611040040987974.rar",
+ "tech_file_path": "/files/2026/11/4/202611040040987974.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 7732135.0,
+ "tech_doc_file_name": "20261611062452523833.pdf",
+ "tech_doc_file_path": "files/2026/11/16/20261611062452523833.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 290183.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611040041728555.docx",
+ "contract_proform_file_path": "/files/2026/11/4/202611040041728555.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 26416.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 3,
+ "nonauthorized_count": 243,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2766407,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 30.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Xarid hujjatlarida belgilangan 1, 3, 4, 6 va 11-sonli shakllarga muvofiq to‘ldirilgan, vakolatli shaxs tomonidan tegishli tartibda tasdiqlangan hujjatlar hamda ularda nazarda tutilgan tasdiqlovchi ma’lumotlar va ilovalar",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 30.0,
+   "description": "Ishtirokchining xarid tartib-taomilida ishtirok etish va shartnomaviy majburiyatlarni bajarish uchun belgilangan tashkiliy-huquqiy, moliyaviy, texnik hamda shartnomaviy talablarga muvofiqligi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 30.0,
+     "description": "Xarid hujjatlarida belgilangan 1, 3, 4, 6 va 11-sonli shakllar hamda ularga tegishli tasdiqlovchi hujjatlar to‘liq va belgilangan talablarga muvofiq taqdim etilgan bo‘lsa "
+    }
+   ],
+   "form_name": "Xarid hujjatlarida belgilangan 1, 3, 4, 6 va 11-sonli shakllarga muvofiq to‘ldirilgan, vakolatli shaxs tomonidan tegishli tartibda tasdiqlangan hujjatlar hamda ularda nazarda tutilgan tasdiqlovchi ma’lumotlar va ilovalar",
+   "form_file_path": "tender/user-files/2026/11/4/439c582d-ab80-41a2-a47e-f72e904afbea.docx"
+  },
+  {
+   "id": 2766408,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 30.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "8-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, o‘xshash shartnomalar nusxalari hamda ularning bajarilganligini tasdiqlovchi hujjatlar (hisobvaraq-fakturalar, bajarilgan ishlar dalolatnomalari)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 30.0,
+   "description": "Ishtirokchining xarid predmetiga o‘xshash ishlarni bajarish bo‘yicha tajribaga ega ekanligi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "3 tadan 5 tagacha shartnoma bo‘lsa "
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "6 tadan 9 tagacha shartnoma bo‘lsa"
+    },
+    {
+     "field_id": null,
+     "value": 30.0,
+     "description": "10 ta va undan ortiq shartnoma bo‘lsa "
+    }
+   ],
+   "form_name": "8-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, o‘xshash shartnomalar nusxalari hamda ularning bajarilganligini tasdiqlovchi hujjatlar (hisobvaraq-fakturalar, bajarilgan ishlar dalolatnomalari)",
+   "form_file_path": "tender/user-files/2026/11/4/70f18ead-5794-460d-a646-c7214542833c.docx"
+  },
+  {
+   "id": 2766409,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "9-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, xodimlarning tegishli kasbiy malakasini tasdiqlovchi hujjatlar, shtatdagi xodimlar bo‘yicha my.mehnat.uz tizimidan ma’lumotlar, shartnoma asosida jalb etiladigan mutaxassislar bo‘yicha tegishli shartnomalar",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Ishtirokchining shartnoma doirasidagi ishlarni bajarishga jalb etiladigan texnik hamda ishlab chiqarish mutaxassislari to‘g‘risidagi ma’lumotlarni taqdim etishi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Xarid hujjatlarida belgilangan 9-sonli shakl va tegishli tasdiqlovchi hujjatlar to‘liq hamda belgilangan talablarga muvofiq taqdim etilgan bo‘lsa"
+    }
+   ],
+   "form_name": "9-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, xodimlarning tegishli kasbiy malakasini tasdiqlovchi hujjatlar, shtatdagi xodimlar bo‘yicha my.mehnat.uz tizimidan ma’lumotlar, shartnoma asosida jalb etiladigan mutaxassislar bo‘yicha tegishli shartnomalar",
+   "form_file_path": "tender/user-files/2026/11/4/56130045-2a42-4fbf-8993-8292a1200cd9.docx"
+  },
+  {
+   "id": 2766410,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "10-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, moddiy-texnik resurslarga egalik qilish yoki ulardan foydalanish huquqini tasdiqlovchi hujjatlar (texnik pasportlar, inventar hisob hujjatlari, ijara, lizing yoki boshqa tegishli shartnomalar)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Ishtirokchining shartnoma doirasidagi ishlarni sifatli va belgilangan muddatlarda bajarish uchun zarur moddiy-texnik resurslar, maxsus texnikalar, mashina-mexanizmlar hamda asbob-uskunalarga ega ekanligi yoki ulardan qonuniy asosda foydalanish imkoniyati mavjudligi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Xarid hujjatlarida belgilangan 10-sonli shakl va moddiy-texnik resurslarga egalik qilish yoki ulardan qonuniy asosda foydalanish huquqini tasdiqlovchi tegishli hujjatlar to‘liq hamda belgilangan talablarga muvofiq taqdim etilgan bo‘lsa"
+    }
+   ],
+   "form_name": "10-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, moddiy-texnik resurslarga egalik qilish yoki ulardan foydalanish huquqini tasdiqlovchi hujjatlar (texnik pasportlar, inventar hisob hujjatlari, ijara, lizing yoki boshqa tegishli shartnomalar)",
+   "form_file_path": "tender/user-files/2026/11/4/27c1ce79-9986-41d0-9c8c-bbfc52deee38.docx"
+  }
+ ],
+ "fields": "[{\"Id\":2766407,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":30.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Xarid hujjatlarida belgilangan 1, 3, 4, 6 va 11-sonli shakllarga muvofiq to‘ldirilgan, vakolatli shaxs tomonidan tegishli tartibda tasdiqlangan hujjatlar hamda ularda nazarda tutilgan tasdiqlovchi ma’lumotlar va ilovalar\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":30.0,\"Description\":\"Ishtirokchining xarid tartib-taomilida ishtirok etish va shartnomaviy majburiyatlarni bajarish uchun belgilangan tashkiliy-huquqiy, moliyaviy, texnik hamda shartnomaviy talablarga muvofiqligi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":30.0,\"Description\":\"Xarid hujjatlarida belgilangan 1, 3, 4, 6 va 11-sonli shakllar hamda ularga tegishli tasdiqlovchi hujjatlar to‘liq va belgilangan talablarga muvofiq taqdim etilgan bo‘lsa \"}],\"Form_Name\":\"Xarid hujjatlarida belgilangan 1, 3, 4, 6 va 11-sonli shakllarga muvofiq to‘ldirilgan, vakolatli shaxs tomonidan tegishli tartibda tasdiqlangan hujjatlar hamda ularda nazarda tutilgan tasdiqlovchi ma’lumotlar va ilovalar\",\"Form_File_Path\":\"tender/user-files/2026/11/4/439c582d-ab80-41a2-a47e-f72e904afbea.docx\"},{\"Id\":2766408,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":30.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"8-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, o‘xshash shartnomalar nusxalari hamda ularning bajarilganligini tasdiqlovchi hujjatlar (hisobvaraq-fakturalar, bajarilgan ishlar dalolatnomalari)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":30.0,\"Description\":\"Ishtirokchining xarid predmetiga o‘xshash ishlarni bajarish bo‘yicha tajribaga ega ekanligi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"3 tadan 5 tagacha shartnoma bo‘lsa \"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"6 tadan 9 tagacha shartnoma bo‘lsa\"},{\"Field_Id\":null,\"Value\":30.0,\"Description\":\"10 ta va undan ortiq shartnoma bo‘lsa \"}],\"Form_Name\":\"8-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, o‘xshash shartnomalar nusxalari hamda ularning bajarilganligini tasdiqlovchi hujjatlar (hisobvaraq-fakturalar, bajarilgan ishlar dalolatnomalari)\",\"Form_File_Path\":\"tender/user-files/2026/11/4/70f18ead-5794-460d-a646-c7214542833c.docx\"},{\"Id\":2766409,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"9-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, xodimlarning tegishli kasbiy malakasini tasdiqlovchi hujjatlar, shtatdagi xodimlar bo‘yicha my.mehnat.uz tizimidan ma’lumotlar, shartnoma asosida jalb etiladigan mutaxassislar bo‘yicha tegishli shartnomalar\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Ishtirokchining shartnoma doirasidagi ishlarni bajarishga jalb etiladigan texnik hamda ishlab chiqarish mutaxassislari to‘g‘risidagi ma’lumotlarni taqdim etishi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Xarid hujjatlarida belgilangan 9-sonli shakl va tegishli tasdiqlovchi hujjatlar to‘liq hamda belgilangan talablarga muvofiq taqdim etilgan bo‘lsa\"}],\"Form_Name\":\"9-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, xodimlarning tegishli kasbiy malakasini tasdiqlovchi hujjatlar, shtatdagi xodimlar bo‘yicha my.mehnat.uz tizimidan ma’lumotlar, shartnoma asosida jalb etiladigan mutaxassislar bo‘yicha tegishli shartnomalar\",\"Form_File_Path\":\"tender/user-files/2026/11/4/56130045-2a42-4fbf-8993-8292a1200cd9.docx\"},{\"Id\":2766410,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"10-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, moddiy-texnik resurslarga egalik qilish yoki ulardan foydalanish huquqini tasdiqlovchi hujjatlar (texnik pasportlar, inventar hisob hujjatlari, ijara, lizing yoki boshqa tegishli shartnomalar)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Ishtirokchining shartnoma doirasidagi ishlarni sifatli va belgilangan muddatlarda bajarish uchun zarur moddiy-texnik resurslar, maxsus texnikalar, mashina-mexanizmlar hamda asbob-uskunalarga ega ekanligi yoki ulardan qonuniy asosda foydalanish imkoniyati mavjudligi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Xarid hujjatlarida belgilangan 10-sonli shakl va moddiy-texnik resurslarga egalik qilish yoki ulardan qonuniy asosda foydalanish huquqini tasdiqlovchi tegishli hujjatlar to‘liq hamda belgilangan talablarga muvofiq taqdim etilgan bo‘lsa\"}],\"Form_Name\":\"10-sonli shaklga muvofiq to‘ldirilgan ma’lumotnoma, moddiy-texnik resurslarga egalik qilish yoki ulardan foydalanish huquqini tasdiqlovchi hujjatlar (texnik pasportlar, inventar hisob hujjatlari, ijara, lizing yoki boshqa tegishli shartnomalar)\",\"Form_File_Path\":\"tender/user-files/2026/11/4/27c1ce79-9986-41d0-9c8c-bbfc52deee38.docx\"}]",
+ "js_qualification_fields": [
+  {
+   "id": 1105045,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105046,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105047,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105048,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105049,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105050,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1105045,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105046,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105047,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105048,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105049,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105050,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 8718,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Андижанская область",
+ "delivering_district_name": "Ханабад",
+ "delivering_address": "Andijon viloyati, Xonobod shahri, Kampirravot dahasi",
+ "delivering_phone": "974442146",
+ "addon_description": "Qo‘shimcha ma’lumotlar xarid hujjatlarida batafsil bayon etilgan",
+ "technical_description": "Andijon suv ombori to‘g‘onining 13, 14, 16 va 18-seksiyalaridagi avariya-ta’mirlash zatvorlari (ATZ) hamda gidromexanik uskunalarni kapital ta’mirlash, 13, 14 va 21-seksiyalardagi axlat ushlagich panjaralarga korroziyaga qarshi ishlov berish ishlarini xarid qilish bo‘yicha eng yaxshi takliflarni tanlash hujjatlari",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Toshkent shahri, Shayxontohur tumani, Navoiy ko‘chasi, 22-uy",
+ "customer_zip": "100090",
+ "min_point": 80,
+ "financing_source": "“O‘zbekgidroenergo” AJning o‘z mablag‘lari hisobidan",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 61838669.78,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078596,
+     "converted_price": 61838669.78,
+     "converted_cost": 61838669.78
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 748527.27,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078596,
+     "converted_price": 748527.27,
+     "converted_cost": 748527.27
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 9000000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078596,
+     "converted_price": 9000000000.0,
+     "converted_cost": 9000000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 679923.15,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078596,
+     "converted_price": 679923.15,
+     "converted_cost": 679923.15
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

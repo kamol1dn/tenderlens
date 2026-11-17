@@ -1,0 +1,685 @@
+{
+ "id": 515301,
+ "display_no": "26120012515301",
+ "start_date": "2026-10-09T14:45:44",
+ "end_date": "2026-11-20T18:25:10",
+ "clarific_date": "2026-11-20T18:25:10",
+ "start_cost": 10752000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2044823,\"Order_Num\":1,\"Category_Id\":126287,\"Plangraph_Detail_Id\":23718280,\"Product_Id\":719806,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":10752000000,\"Cost\":10752000000,\"Description\":\"“UMS” MChJ kompaniyasining korporativ ma’lumotlarni saqlash axborot tizimi va hisobotlarini avtomatlashtirish uchun tahliliy platformani xarid qilish/Приобретение информационной системы корпоративного хранилища данных и аналитической платформа для автоматизации отчетности компании ООО “UMS”\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9672023,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"62.01.29.000-00003\",\"Guarantee_Term\":12,\"Delivery_Term\":210,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Дастурий маҳсулотлар ва дастурий таъминотни ишлаб чиқиш хизматлари; ахборот технологиялари соҳасидаги маслаҳат ва шунга ўхшаш хизматлар\",\"Product_Name\":\"Ахборот тизими\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 0.0,
+ "advance_payment_perc": 15.0,
+ "term_payment_days": 10,
+ "term_online_days": 15,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Ekspert\",\"Fullname\":\"Jukova Tamara \"}]",
+ "rest_time": 242440,
+ "customer_name": "UNIVERSAL MOBILE SYSTEMS MCHJ",
+ "customer_tin": "303020732",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202609254818203835.rar",
+ "tech_file_path": "/files/2026/9/25/202609254818203835.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 6553956.0,
+ "tech_doc_file_name": "20261611062422515301.pdf",
+ "tech_doc_file_path": "files/2026/11/16/20261611062422515301.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 321772.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202609254818617932.docx",
+ "contract_proform_file_path": "/files/2026/9/25/202609254818617932.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 130543.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 80,
+ "nonauthorized_count": 23319,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2737139,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 50.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "To‘ldirilgan muvofiqlik jadvali (SoC) va tasdiqlovchi ma’lumotlar",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 50.0,
+   "description": "Tizimga qo‘yiladigan talablar (majburiy): Texnik topshiriq talablariga to‘liq javob berishi.\r\nTexnik baholashni o‘tkazish uchun Ishtirokchi to‘liq to‘ldirilgan muvofiqlik jadvalini (texnik topshiriqqa 1-ilova SoC jadvali) taqdim etishi va SoC (Majburiy) bo‘limida ko‘rsatilgan barcha majburiy talablarga javob berishi shart.\r\nHujjat taqdim etilmaganda, shuningdek, hujjat tegishli shaklda taqdim etilmaganda, shu jumladan majburiy talablardan hech bo‘lmaganda bittasiga mos kelmaganda, ko‘rsatilgan havolalar noto‘g‘ri bo‘lganda/talab bo‘yicha muvofiqlikni o‘tkazish uchun havolalar mavjud bo‘lmaganda, talabga muvofiqlik noto‘g‘ri ko‘rsatilgan taqdirda, ishtirokchi umumiy mezon bo‘yicha 0 ball oladi va diskvalifikatsiya qilinadi.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 50.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "To‘ldirilgan muvofiqlik jadvali (SoC) va tasdiqlovchi ma’lumotlar",
+   "form_file_path": "tender/user-files/2026/9/25/2b4509bc-9613-4c12-9709-7e7d8427313b.rar"
+  },
+  {
+   "id": 2737140,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 34.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "To‘ldirilgan muvofiqlik jadvali (SoC) va tasdiqlovchi ma’lumotlar/ Заполненная таблица соответствия (SoC) и подтверждающая информация",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 34.0,
+   "description": "Tizim talablari (Majburiy emas): Texnik topshiriq talablariga muvofiqlik\r\nTexnik baholashni o‘tkazish uchun Ishtirokchi to‘ldirilgan muvofiqlik jadvalini taqdim etishi lozim (SoC jadvali - Texnik topshiriqqa 1-ilova, SoC (majburiy bo‘lmagan) bo‘limi).\r\nUshbu mezon bo‘yicha baholash:\r\nMajburiy bo‘lmagan talablarning umumiy soni - 17 ta talab.\r\nHar bir talab uchun baho:\r\n- Majburiy bo‘lmagan har bir talabga muvofiqlik - 2 ball bilan baholanadi;\r\n- Majburiy bo‘lmagan talabga javob bermasa, ishtirokchi - 0 ball oladi.\r\nMezon bo‘yicha baholash (yakuniy ball) = Har bir talab uchun baholar yig‘indisi\r\nHujjat taqdim etilmagan, shuningdek, hujjat tegishli shaklda taqdim etilmagan taqdirda, ishtirokchi umumiy mezon bo‘yicha 0 ball oladi, shuningdek, talabga muvofiqlikni o‘tkazish uchun havolalar noto‘g‘ri ko‘rsatilgan/havolalar mavjud bo‘lmagan, talab bo‘yicha muvofiqliklar noto‘g‘ri ko‘rsatilgan taqdirda, ishtirokchi har bir bunday talab uchun 0 ball oladi.\r\nТребования к системе (необязательные): Соответствие требованиям технического задания \r\nДля проведения технической оценки, Участник должен предоставить заполненную таблицу соответствия (таблица SoC-Приложение №1 к техническому заданию, вкладка SoC (Не обязаельные).\r\nОценка по данному критерию:\r\nОбщее количество необятельных требований - 17 требований. \r\nОценка за каждое из требований: \r\n-Каждое соответствие необязательного требования оценивается - 2 балл;\r\n- При несоответствии необязательного требования участник получает - 0 баллов.\r\nОценка по критерию (итоговый балл) = Сумма оценок за каждое требование\r\nВ случае не предоставления документа, а также предоставление документа в ненадлежащей форме участник получает 0 баллов по критерию в целом, а также в случае некорректно указанных ссылок/отсутствия ссылок для проведения соответствия требования, некорректно указанных соответствий по требованию участник получает за каждое такое требование 0 баллов. \r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 34.0,
+     "description": "Majburiy bo‘lmagan 17 ta talabga muvofiqligi uchun/За соответствие 17 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 32.0,
+     "description": "Majburiy bo‘lmagan 16 ta talabga muvofiqligi uchun/За соответствие 16 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 30.0,
+     "description": "Majburiy bo‘lmagan 15 ta talabga muvofiqligi uchun/За соответствие 15 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 28.0,
+     "description": "Majburiy bo‘lmagan 14 ta talabga muvofiqligi uchun/За соответствие 14 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 26.0,
+     "description": "Majburiy bo‘lmagan 13 ta talabga muvofiqligi uchun/За соответствие 13 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 24.0,
+     "description": "Majburiy bo‘lmagan 12 ta talabga muvofiqligi uchun/За соответствие 12 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 22.0,
+     "description": "Majburiy bo‘lmagan 11 ta talabga muvofiqligi uchun/За соответствие 11 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Majburiy bo‘lmagan 10 ta talabga muvofiqligi uchun/За соответствие 10 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 18.0,
+     "description": "Majburiy bo‘lmagan 9 ta talabga muvofiqligi uchun/За соответствие 9 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 16.0,
+     "description": "Majburiy bo‘lmagan 8 ta talabga muvofiqligi uchun/За соответствие 8 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 14.0,
+     "description": "Majburiy bo‘lmagan 7 ta talabga muvofiqligi uchun/За соответствие 7 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 12.0,
+     "description": "Majburiy bo‘lmagan 6 ta talabga muvofiqligi uchun/За соответствие 6 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Majburiy bo‘lmagan5 ta talabga muvofiqligi uchun/За соответствие 5 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Majburiy bo‘lmagan 4 ta talabga muvofiqligi uchun/За соответствие 4 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "Majburiy bo‘lmagan 3 ta talabga muvofiqligi uchun/За соответствие 3 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Majburiy bo‘lmagan 2 ta talabga muvofiqligi uchun/За соответствие 2 необязательным требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "1 ta ixtiyoriy talabga javob bergani uchun/За соответствие 1 необязательному требованию"
+    }
+   ],
+   "form_name": "To‘ldirilgan muvofiqlik jadvali (SoC) va tasdiqlovchi ma’lumotlar/ Заполненная таблица соответствия (SoC) и подтверждающая информация",
+   "form_file_path": "tender/user-files/2026/9/25/199bc74a-eb4e-4773-926b-74c5bb48d471.rar"
+  },
+  {
+   "id": 2737141,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 4.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Kafolat xati/ Гарантийное письмо",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 4.0,
+   "description": "Texnik qo‘llab-quvvatlash talablar, SLA.\r\nTexnik baholashni o‘tkazish uchun Ishtirokchi quyidagilarni taqdim etishi kerak:\r\nTexnik topshiriqning 7.2.2.-bo‘limida ko‘rsatilgan texnik qo‘llab-quvvatlash darajasi va SLA bo‘yicha barcha talablarga muvofiqligini tasdiqlovchi kafolat xati.\r\nAgar hujjatdan taqdim etilmasa, ishtirokchi diskvalifikatsiya qilinadi\r\nТребования к Технической поддержке, SLA: соответствие всем требованиям по уровню технической поддержки и SLA, указанным в разделе 7.2.2. Техническом задании.\r\nДля проведения технической оценки, Участник должен представить: \r\nГарантийное письмо с подтверждением соответствия всем требованиям по уровню технической поддержки и SLA, указанным в разделе 7.2.2. Техническом задании.\r\nВ случае не предоставления документа участник дисквалифицируется\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2737142,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ходимларни ўқитиш бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Sertifikatlangan mutaxassislarining sertifikatlari; / Действующие Сертификаты сертифицированных специалистов ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 5.0,
+   "description": "Malakali xodimlarning mavjudligi: texnik mutaxassislarda sertifikatlarning mavjudligi*.\r\n*Ko‘rib chiqish uchun Mutaxassislar sertifikatlari qabul qilinadi: bitta mutaxassisga bitta sertifikat.\r\nTexnik baholashni o‘tkazish uchun Ishtirokchi quyidagilarni taqdim etishi lozim:\r\nMBBT vendorining sertifikatlashtirish markazidan texnik mutaxassislarning amaldagi sertifikatlarini skanerlash;\r\nUshbu mezon bo‘yicha baholash:\r\nSertifikat taqdim etilmagan taqdirda - 0 ball;\r\nBitta mutaxassis uchun 1 ta sertifikat -1 ball;\r\nIkkita mutaxassis uchun 2 ta sertifikat - 2 ball;\r\n3 nafar mutaxassisga 3 ta sertifikat - 3 ball;\r\n4 nafar mutaxassisga 4 ta sertifikat - 4 ball;\r\n5 va undan ortiq mutaxassislardan - 5 ball.\r\n/Наличие квалифицированного персонала: наличие сертификатов у технических специалистов*. \r\n*К рассмотрению принимаются Сертификаты специалистов: один сертификат на одного специалиста.\r\nДля проведения технической оценки Участник должен представить: \r\nСканы действующих сертификатов технических специалистов от центра сертификации вендора СУБД;\r\nОценка по данному критерию:\r\nВ случае не предоставления сертификата – 0 баллов;\r\n1 сертификат на одного специалиста -1 балл;\r\n2 сертификата на двух специалистов - 2 балла;\r\n3 сертификата на трех специалистов - 3 балла;\r\n4 сертификата на четырех специалистов - 4 балла;\r\nот 5 и более специалистов - 5 баллов.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "5 va undan ortiq mutaxassisga 5 tadan sertifikat/от 5 сертификатов  на 5 и более специалистов "
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "To‘rt nafar mutaxassisga 4 ta sertifikat/4 сертификата на четырех специалистов"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Uchta mutaxassisga 3 ta sertifikat/3 сертификата на трех специалистов "
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Ikkita mutaxassis uchun 2 ta sertifikat/2 сертификата на двух специалистов"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Har bir mutaxassisga 1 ta sertifikat/1 сертификат на одного специалиста"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2737143,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Avtorizatsiya xati/Авторизационное письмо",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 2.0,
+   "description": "Ishtirokchi talablari: avtorizatsiya xati mavjudligi\r\nTexnik baholashni o‘tkazish uchun Ishtirokchi quyidagilarni taqdim etishi shart:\r\n- MBBT ishlab chiqaruvchisidan avtorizatsiya xati;\r\nQo‘shimcha hujjatlardan biri taqdim etilmagan, shuningdek, hujjat tegishli shaklda taqdim etilmagan taqdirda, ishtirokchi diskvalifikatsiya qilinadi.\r\n\r\nТребования к участнику: наличие авторизационного письма\r\nДля проведения технической оценки,Участник должен предоставить:\r\n-\tавторизационное письмо от производителя СУБД;\r\nВ случае не предоставления одного из докудокумента, а также предоставление документа в ненадлежащей форме участник дисквалифицируется.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2737144,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "- Texnik taklif (Spetsifikatsiya);/ - Техническое предложение (Спецификация)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 5.0,
+   "description": "TT doirasida yetkazib beriladigan dasturiy ta’minot ro‘yxati\r\nTexnik baholashni o‘tkazish uchun, Ishtirokchi quyidagilarni taqdim etishi kerak:\r\n- Texnik topshiriqqa 2-ilovaga muvofiq yetkazib beriladigan dasturiy ta’minot ro‘yxati ko‘rsatilgan texnik taklif (narxlar ko‘rsatilmagan spetsifikatsiya);\r\nAgar hujjatdan taqdim etilmasa, ishtirokchi diskvalifikatsiya qilinadi/\r\nПеречень поставляемого ПО в рамках ТЗ \r\nДля проведения технической оценки, Участник должен представить: \r\n- Техническое предложение (спецификация, без указания цен), с перечнем поставляемого ПО в соответствие с Техническим заданием согласно Приложению №2 к Техническому заданию;\r\nВ случае не предоставления документа участник дисквалифицируется\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2737139,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":50.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"To‘ldirilgan muvofiqlik jadvali (SoC) va tasdiqlovchi ma’lumotlar\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":50.0,\"Description\":\"Tizimga qo‘yiladigan talablar (majburiy): Texnik topshiriq talablariga to‘liq javob berishi.\\r\\nTexnik baholashni o‘tkazish uchun Ishtirokchi to‘liq to‘ldirilgan muvofiqlik jadvalini (texnik topshiriqqa 1-ilova SoC jadvali) taqdim etishi va SoC (Majburiy) bo‘limida ko‘rsatilgan barcha majburiy talablarga javob berishi shart.\\r\\nHujjat taqdim etilmaganda, shuningdek, hujjat tegishli shaklda taqdim etilmaganda, shu jumladan majburiy talablardan hech bo‘lmaganda bittasiga mos kelmaganda, ko‘rsatilgan havolalar noto‘g‘ri bo‘lganda/talab bo‘yicha muvofiqlikni o‘tkazish uchun havolalar mavjud bo‘lmaganda, talabga muvofiqlik noto‘g‘ri ko‘rsatilgan taqdirda, ishtirokchi umumiy mezon bo‘yicha 0 ball oladi va diskvalifikatsiya qilinadi.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":50.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"To‘ldirilgan muvofiqlik jadvali (SoC) va tasdiqlovchi ma’lumotlar\",\"Form_File_Path\":\"tender/user-files/2026/9/25/2b4509bc-9613-4c12-9709-7e7d8427313b.rar\"},{\"Id\":2737140,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":34.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"To‘ldirilgan muvofiqlik jadvali (SoC) va tasdiqlovchi ma’lumotlar/ Заполненная таблица соответствия (SoC) и подтверждающая информация\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":34.0,\"Description\":\"Tizim talablari (Majburiy emas): Texnik topshiriq talablariga muvofiqlik\\r\\nTexnik baholashni o‘tkazish uchun Ishtirokchi to‘ldirilgan muvofiqlik jadvalini taqdim etishi lozim (SoC jadvali - Texnik topshiriqqa 1-ilova, SoC (majburiy bo‘lmagan) bo‘limi).\\r\\nUshbu mezon bo‘yicha baholash:\\r\\nMajburiy bo‘lmagan talablarning umumiy soni - 17 ta talab.\\r\\nHar bir talab uchun baho:\\r\\n- Majburiy bo‘lmagan har bir talabga muvofiqlik - 2 ball bilan baholanadi;\\r\\n- Majburiy bo‘lmagan talabga javob bermasa, ishtirokchi - 0 ball oladi.\\r\\nMezon bo‘yicha baholash (yakuniy ball) = Har bir talab uchun baholar yig‘indisi\\r\\nHujjat taqdim etilmagan, shuningdek, hujjat tegishli shaklda taqdim etilmagan taqdirda, ishtirokchi umumiy mezon bo‘yicha 0 ball oladi, shuningdek, talabga muvofiqlikni o‘tkazish uchun havolalar noto‘g‘ri ko‘rsatilgan/havolalar mavjud bo‘lmagan, talab bo‘yicha muvofiqliklar noto‘g‘ri ko‘rsatilgan taqdirda, ishtirokchi har bir bunday talab uchun 0 ball oladi.\\r\\nТребования к системе (необязательные): Соответствие требованиям технического задания \\r\\nДля проведения технической оценки, Участник должен предоставить заполненную таблицу соответствия (таблица SoC-Приложение №1 к техническому заданию, вкладка SoC (Не обязаельные).\\r\\nОценка по данному критерию:\\r\\nОбщее количество необятельных требований - 17 требований. \\r\\nОценка за каждое из требований: \\r\\n-Каждое соответствие необязательного требования оценивается - 2 балл;\\r\\n- При несоответствии необязательного требования участник получает - 0 баллов.\\r\\nОценка по критерию (итоговый балл) = Сумма оценок за каждое требование\\r\\nВ случае не предоставления документа, а также предоставление документа в ненадлежащей форме участник получает 0 баллов по критерию в целом, а также в случае некорректно указанных ссылок/отсутствия ссылок для проведения соответствия требования, некорректно указанных соответствий по требованию участник получает за каждое такое требование 0 баллов. \\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":34.0,\"Description\":\"Majburiy bo‘lmagan 17 ta talabga muvofiqligi uchun/За соответствие 17 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":32.0,\"Description\":\"Majburiy bo‘lmagan 16 ta talabga muvofiqligi uchun/За соответствие 16 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":30.0,\"Description\":\"Majburiy bo‘lmagan 15 ta talabga muvofiqligi uchun/За соответствие 15 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":28.0,\"Description\":\"Majburiy bo‘lmagan 14 ta talabga muvofiqligi uchun/За соответствие 14 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":26.0,\"Description\":\"Majburiy bo‘lmagan 13 ta talabga muvofiqligi uchun/За соответствие 13 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":24.0,\"Description\":\"Majburiy bo‘lmagan 12 ta talabga muvofiqligi uchun/За соответствие 12 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":22.0,\"Description\":\"Majburiy bo‘lmagan 11 ta talabga muvofiqligi uchun/За соответствие 11 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Majburiy bo‘lmagan 10 ta talabga muvofiqligi uchun/За соответствие 10 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":18.0,\"Description\":\"Majburiy bo‘lmagan 9 ta talabga muvofiqligi uchun/За соответствие 9 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":16.0,\"Description\":\"Majburiy bo‘lmagan 8 ta talabga muvofiqligi uchun/За соответствие 8 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":14.0,\"Description\":\"Majburiy bo‘lmagan 7 ta talabga muvofiqligi uchun/За соответствие 7 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":12.0,\"Description\":\"Majburiy bo‘lmagan 6 ta talabga muvofiqligi uchun/За соответствие 6 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Majburiy bo‘lmagan5 ta talabga muvofiqligi uchun/За соответствие 5 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Majburiy bo‘lmagan 4 ta talabga muvofiqligi uchun/За соответствие 4 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"Majburiy bo‘lmagan 3 ta talabga muvofiqligi uchun/За соответствие 3 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Majburiy bo‘lmagan 2 ta talabga muvofiqligi uchun/За соответствие 2 необязательным требованиям\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"1 ta ixtiyoriy talabga javob bergani uchun/За соответствие 1 необязательному требованию\"}],\"Form_Name\":\"To‘ldirilgan muvofiqlik jadvali (SoC) va tasdiqlovchi ma’lumotlar/ Заполненная таблица соответствия (SoC) и подтверждающая информация\",\"Form_File_Path\":\"tender/user-files/2026/9/25/199bc74a-eb4e-4773-926b-74c5bb48d471.rar\"},{\"Id\":2737141,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":4.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Kafolat xati/ Гарантийное письмо\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":4.0,\"Description\":\"Texnik qo‘llab-quvvatlash talablar, SLA.\\r\\nTexnik baholashni o‘tkazish uchun Ishtirokchi quyidagilarni taqdim etishi kerak:\\r\\nTexnik topshiriqning 7.2.2.-bo‘limida ko‘rsatilgan texnik qo‘llab-quvvatlash darajasi va SLA bo‘yicha barcha talablarga muvofiqligini tasdiqlovchi kafolat xati.\\r\\nAgar hujjatdan taqdim etilmasa, ishtirokchi diskvalifikatsiya qilinadi\\r\\nТребования к Технической поддержке, SLA: соответствие всем требованиям по уровню технической поддержки и SLA, указанным в разделе 7.2.2. Техническом задании.\\r\\nДля проведения технической оценки, Участник должен представить: \\r\\nГарантийное письмо с подтверждением соответствия всем требованиям по уровню технической поддержки и SLA, указанным в разделе 7.2.2. Техническом задании.\\r\\nВ случае не предоставления документа участник дисквалифицируется\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2737142,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ходимларни ўқитиш бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Sertifikatlangan mutaxassislarining sertifikatlari; / Действующие Сертификаты сертифицированных специалистов \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":5.0,\"Description\":\"Malakali xodimlarning mavjudligi: texnik mutaxassislarda sertifikatlarning mavjudligi*.\\r\\n*Ko‘rib chiqish uchun Mutaxassislar sertifikatlari qabul qilinadi: bitta mutaxassisga bitta sertifikat.\\r\\nTexnik baholashni o‘tkazish uchun Ishtirokchi quyidagilarni taqdim etishi lozim:\\r\\nMBBT vendorining sertifikatlashtirish markazidan texnik mutaxassislarning amaldagi sertifikatlarini skanerlash;\\r\\nUshbu mezon bo‘yicha baholash:\\r\\nSertifikat taqdim etilmagan taqdirda - 0 ball;\\r\\nBitta mutaxassis uchun 1 ta sertifikat -1 ball;\\r\\nIkkita mutaxassis uchun 2 ta sertifikat - 2 ball;\\r\\n3 nafar mutaxassisga 3 ta sertifikat - 3 ball;\\r\\n4 nafar mutaxassisga 4 ta sertifikat - 4 ball;\\r\\n5 va undan ortiq mutaxassislardan - 5 ball.\\r\\n/Наличие квалифицированного персонала: наличие сертификатов у технических специалистов*. \\r\\n*К рассмотрению принимаются Сертификаты специалистов: один сертификат на одного специалиста.\\r\\nДля проведения технической оценки Участник должен представить: \\r\\nСканы действующих сертификатов технических специалистов от центра сертификации вендора СУБД;\\r\\nОценка по данному критерию:\\r\\nВ случае не предоставления сертификата – 0 баллов;\\r\\n1 сертификат на одного специалиста -1 балл;\\r\\n2 сертификата на двух специалистов - 2 балла;\\r\\n3 сертификата на трех специалистов - 3 балла;\\r\\n4 сертификата на четырех специалистов - 4 балла;\\r\\nот 5 и более специалистов - 5 баллов.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"5 va undan ortiq mutaxassisga 5 tadan sertifikat/от 5 сертификатов  на 5 и более специалистов \"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"To‘rt nafar mutaxassisga 4 ta sertifikat/4 сертификата на четырех специалистов\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Uchta mutaxassisga 3 ta sertifikat/3 сертификата на трех специалистов \"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Ikkita mutaxassis uchun 2 ta sertifikat/2 сертификата на двух специалистов\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Har bir mutaxassisga 1 ta sertifikat/1 сертификат на одного специалиста\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2737143,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Avtorizatsiya xati/Авторизационное письмо\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":2.0,\"Description\":\"Ishtirokchi talablari: avtorizatsiya xati mavjudligi\\r\\nTexnik baholashni o‘tkazish uchun Ishtirokchi quyidagilarni taqdim etishi shart:\\r\\n- MBBT ishlab chiqaruvchisidan avtorizatsiya xati;\\r\\nQo‘shimcha hujjatlardan biri taqdim etilmagan, shuningdek, hujjat tegishli shaklda taqdim etilmagan taqdirda, ishtirokchi diskvalifikatsiya qilinadi.\\r\\n\\r\\nТребования к участнику: наличие авторизационного письма\\r\\nДля проведения технической оценки,Участник должен предоставить:\\r\\n-\\tавторизационное письмо от производителя СУБД;\\r\\nВ случае не предоставления одного из докудокумента, а также предоставление документа в ненадлежащей форме участник дисквалифицируется.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2737144,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"- Texnik taklif (Spetsifikatsiya);/ - Техническое предложение (Спецификация)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":5.0,\"Description\":\"TT doirasida yetkazib beriladigan dasturiy ta’minot ro‘yxati\\r\\nTexnik baholashni o‘tkazish uchun, Ishtirokchi quyidagilarni taqdim etishi kerak:\\r\\n- Texnik topshiriqqa 2-ilovaga muvofiq yetkazib beriladigan dasturiy ta’minot ro‘yxati ko‘rsatilgan texnik taklif (narxlar ko‘rsatilmagan spetsifikatsiya);\\r\\nAgar hujjatdan taqdim etilmasa, ishtirokchi diskvalifikatsiya qilinadi/\\r\\nПеречень поставляемого ПО в рамках ТЗ \\r\\nДля проведения технической оценки, Участник должен представить: \\r\\n- Техническое предложение (спецификация, без указания цен), с перечнем поставляемого ПО в соответствие с Техническим заданием согласно Приложению №2 к Техническому заданию;\\r\\nВ случае не предоставления документа участник дисквалифицируется\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1063471,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": "Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 1-bandida keltirilgan. Baholash quyidagi taqdim etilgan hujjatlariga muvofiq amalga oshiriladi:\r\n\r\n- Kafolat xati – 4-ilova shakli bo‘yicha;\r\n- Bankdan xat – 5-ilova shakli bo‘yicha**\r\nShu bilan birga, bankdan olingan ma’lumotnoma (bank xati) berilgan sana takliflarni topshirish muddati yakunlanishidan kamida 30 kun oldin berilgan bo‘lishi kerak (ya’ni 30 kundan eski bo‘lmasligi lozim).\r\nAgar talablar bajarilmasa (hujjatlardan biri taqdim etilmagan yoki hujjat belgilangan tartibda taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/9/25/e956a373-4197-469b-8b8f-c24dbb2ccdc1.rar",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1063472,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": "Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 2-bandida keltirilgan. Baholash 1-ilova (Ishtirokchi to‘g‘risida umumiy ma’lumot) shaklidagi Ishtirokchi so‘rovnomasiga muvofiq amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/9/25/84b7abb0-47f2-448b-8d67-ecf03472a523.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1063473,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": "Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 3-bandida keltirilgan. Baholash soliq organining amaldagi ma’lumotnomasiga muvofiq amalga oshiriladi, bunda ma’lumotnoma berilgan sana takliflar berish muddati tugashidan kamida 30 kun oldin bo‘lishi kerak. Ma’lumotnoma mavjud bo‘lmagan taqdirda, baholash DSQ veb-saytidagi ma’lumotlarga muvofiq amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1063474,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 4-bandida keltirilgan. Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati hamda vakolatli organlarning ochiq ma’lumotlari asosida amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/9/25/92b86ebb-457e-43ba-9359-aca95b37d419.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1063475,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 5-bandida keltirilgan. Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati hamda Yagona insofsiz ijrochilar reyestri ma’lumotlari asosida amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/9/25/e82f3f62-0c3d-4d87-a4f8-518c8dec6c62.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1063476,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": "Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 6-bandida keltirilgan. Baholash O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosi (MIB) rasmiy saytidan olingan skrinshot (ekran tasviri) asosida amalga oshiriladi. Skrinshot taqdim etilmagan taqdirda, baholash MIB rasmiy saytidagi ma’lumotlarga muvofiq amalga oshiriladi.\r\nAgar talab bajarilmasa (ishtirokchi O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosi ma’lumotlar bazasida sud qarori bo‘yicha bajarilmagan majburiyatga ega bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1063477,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 7,
+   "description": "Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 7-bandida keltirilgan. Baholash 3-ilova shakliga muvofiq korrupsiyaviy holatlarga yo‘l qo‘ymaslik to‘g‘risidagi ariza asosida amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/9/25/5614726e-ada8-4c7e-80a0-30cbf34107c4.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1063478,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 8,
+   "description": "Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 8-bandida keltirilgan. Baholash 2-ilova shaklidagi kafolat xatiga va ochiq manbalardan olingan ma’lumotlarga muvofiq amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), shuningdek ishtirokchilar o‘rtasida o‘zaro manfaatdorlik aniqlansa, jumladan ishtirokchilar orasida IP-manzillarning mos kelishi holatlari aniqlangan taqdirda, bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/9/25/56135229-e080-4562-af6a-13b8abae4e69.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1063479,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 9,
+   "description": "Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 9-bandida keltirilgan. Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati va/yoki Buyurtmachining vakolatli bo‘linmasi hisoboti asosida amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa yoki ilgari Buyurtmachi bilan tuzilgan shartnomalar bo‘yicha o‘z majburiyatlarini bajarmagan yoki lozim darajada bajarmaganligi yuzasidan sudda ko‘rib chiqilgan ish mavjud bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/9/25/91ed16fb-dd8f-4b8b-a2ab-cff04c451e1a.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1063480,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 10,
+   "description": "Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 10-bandida keltirilgan. Baholash 2-ilova va/yoki Buyurtmachining vakolatli bo‘linmasi hisoboti shaklidagi kafolat xatiga muvofiq amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa yoki ishtirokchi va uning bank hisoblari moliyaviy operatsiyalarni amalga oshirishda ma’lumotlarni oshkor qilish va taqdim etishni talab qilmaydigan mamlakatlar yoki hududlarda (offshor hududlarda) ro‘yxatdan o‘tkazilganligi aniqlansa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/9/25/779f7299-ed58-4528-b608-200eaffa19a2.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1063481,
+   "name": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.",
+   "order_num": 11,
+   "description": "Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 11-bandida keltirilgan. Baholash taqdim etilgan o‘xshash xizmatlar ro‘yxatiga muvofiq amalga oshiriladi. \r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (diskvalifikatsiya qilinadi) (mazkur lotda keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1063471,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":\"Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 1-bandida keltirilgan. Baholash quyidagi taqdim etilgan hujjatlariga muvofiq amalga oshiriladi:\\r\\n\\r\\n- Kafolat xati – 4-ilova shakli bo‘yicha;\\r\\n- Bankdan xat – 5-ilova shakli bo‘yicha**\\r\\nShu bilan birga, bankdan olingan ma’lumotnoma (bank xati) berilgan sana takliflarni topshirish muddati yakunlanishidan kamida 30 kun oldin berilgan bo‘lishi kerak (ya’ni 30 kundan eski bo‘lmasligi lozim).\\r\\nAgar talablar bajarilmasa (hujjatlardan biri taqdim etilmagan yoki hujjat belgilangan tartibda taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/9/25/e956a373-4197-469b-8b8f-c24dbb2ccdc1.rar\",\"File\":null,\"Is_Disq\":null},{\"Id\":1063472,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":\"Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 2-bandida keltirilgan. Baholash 1-ilova (Ishtirokchi to‘g‘risida umumiy ma’lumot) shaklidagi Ishtirokchi so‘rovnomasiga muvofiq amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/9/25/84b7abb0-47f2-448b-8d67-ecf03472a523.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1063473,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 3-bandida keltirilgan. Baholash soliq organining amaldagi ma’lumotnomasiga muvofiq amalga oshiriladi, bunda ma’lumotnoma berilgan sana takliflar berish muddati tugashidan kamida 30 kun oldin bo‘lishi kerak. Ma’lumotnoma mavjud bo‘lmagan taqdirda, baholash DSQ veb-saytidagi ma’lumotlarga muvofiq amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1063474,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 4-bandida keltirilgan. Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati hamda vakolatli organlarning ochiq ma’lumotlari asosida amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/9/25/92b86ebb-457e-43ba-9359-aca95b37d419.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1063475,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 5-bandida keltirilgan. Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati hamda Yagona insofsiz ijrochilar reyestri ma’lumotlari asosida amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/9/25/e82f3f62-0c3d-4d87-a4f8-518c8dec6c62.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1063476,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 6-bandida keltirilgan. Baholash O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosi (MIB) rasmiy saytidan olingan skrinshot (ekran tasviri) asosida amalga oshiriladi. Skrinshot taqdim etilmagan taqdirda, baholash MIB rasmiy saytidagi ma’lumotlarga muvofiq amalga oshiriladi.\\r\\nAgar talab bajarilmasa (ishtirokchi O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosi ma’lumotlar bazasida sud qarori bo‘yicha bajarilmagan majburiyatga ega bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1063477,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":7,\"Description\":\"Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 7-bandida keltirilgan. Baholash 3-ilova shakliga muvofiq korrupsiyaviy holatlarga yo‘l qo‘ymaslik to‘g‘risidagi ariza asosida amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/9/25/5614726e-ada8-4c7e-80a0-30cbf34107c4.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1063478,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":8,\"Description\":\"Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 8-bandida keltirilgan. Baholash 2-ilova shaklidagi kafolat xatiga va ochiq manbalardan olingan ma’lumotlarga muvofiq amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), shuningdek ishtirokchilar o‘rtasida o‘zaro manfaatdorlik aniqlansa, jumladan ishtirokchilar orasida IP-manzillarning mos kelishi holatlari aniqlangan taqdirda, bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/9/25/56135229-e080-4562-af6a-13b8abae4e69.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1063479,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":9,\"Description\":\"Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 9-bandida keltirilgan. Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati va/yoki Buyurtmachining vakolatli bo‘linmasi hisoboti asosida amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa yoki ilgari Buyurtmachi bilan tuzilgan shartnomalar bo‘yicha o‘z majburiyatlarini bajarmagan yoki lozim darajada bajarmaganligi yuzasidan sudda ko‘rib chiqilgan ish mavjud bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/9/25/91ed16fb-dd8f-4b8b-a2ab-cff04c451e1a.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1063480,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":10,\"Description\":\"Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 10-bandida keltirilgan. Baholash 2-ilova va/yoki Buyurtmachining vakolatli bo‘linmasi hisoboti shaklidagi kafolat xatiga muvofiq amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa yoki ishtirokchi va uning bank hisoblari moliyaviy operatsiyalarni amalga oshirishda ma’lumotlarni oshkor qilish va taqdim etishni talab qilmaydigan mamlakatlar yoki hududlarda (offshor hududlarda) ro‘yxatdan o‘tkazilganligi aniqlansa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/9/25/779f7299-ed58-4528-b608-200eaffa19a2.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1063481,\"Name\":\"Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.\",\"Order_Num\":11,\"Description\":\"Talablarning batafsil tavsifi mazkur lotga “Yuklab olish uchun fayllar” (texnik hujjatlar) bo‘limida biriktirilgan xarid hujjatlarining 6-ilovasidagi 1-jadvalning 11-bandida keltirilgan. Baholash taqdim etilgan o‘xshash xizmatlar ro‘yxatiga muvofiq amalga oshiriladi. \\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (diskvalifikatsiya qilinadi) (mazkur lotda keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 37369,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Юнусабадский район",
+ "delivering_address": "Toshkent shahri, A.Temur shoh ko‘chasi, 24-uy.",
+ "delivering_phone": "974038254",
+ "addon_description": "Xarid qilish tartib-taomillarini quyidagi mezonlarga javob berishi kerak: \r\n- shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy, kadrlar resurslarining hamda boshqa resurslarning mavjudligi; \r\n- shartnoma tuzish uchun qonuniy huquqqa egalik; \r\n- soliqlar va yigʻimlarni toʻlash boʻyicha muddati oʻtgan qarzdorlikning mavjud emasligi; \r\n- Oʻzbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining maʼlumotlar bazalarida ishtirokchining sud qarorlari boʻyicha bajarilmagan majburiyatlari mavjud emasligi; \r\n- oʻziga nisbatan joriy etilgan toʻlovga qobiliyatsizlik tartib-taomillarining mavjud emasligi; \r\n- Insofsiz ijrochilarning yagona reyestrida qayd etilmaganligi.",
+ "technical_description": "“UMS” MChJ kompaniyasining korporativ ma’lumotlarni saqlash axborot tizimi va hisobotlarini avtomatlashtirish uchun tahliliy platformani xarid qilish/Приобретение информационной системы корпоративного хранилища данных и аналитической платформа для автоматизации отчетности компании ООО “UMS”.",
+ "tech_coef": 60.0,
+ "cost_coef": 40.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "г.Ташкент, Проспект А.Темура, 24",
+ "customer_zip": "100090",
+ "min_point": 90,
+ "financing_source": "O‘z mablag‘lari/Собственные средства",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": true,
+ "prolong_date": "2026-11-05T18:25:10",
+ "prolonged_days": 10,
+ "prolong_file_name": "202611052453375720.pdf",
+ "prolong_file_path": "/files/2026/11/5/202611052453375720.pdf",
+ "prolong_file_ext": "PDF",
+ "prolong_file_sizes": 231521.0,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 10752000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2044823,
+     "converted_price": 10752000000.0,
+     "converted_cost": 10752000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 73876597.49,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2044823,
+     "converted_price": 73876597.49,
+     "converted_cost": 73876597.49
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 894240.58,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2044823,
+     "converted_price": 894240.58,
+     "converted_cost": 894240.58
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 812281.52,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2044823,
+     "converted_price": 812281.52,
+     "converted_cost": 812281.52
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

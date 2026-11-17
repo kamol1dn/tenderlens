@@ -1,0 +1,452 @@
+{
+ "id": 524114,
+ "display_no": "26120012524114",
+ "start_date": "2026-11-10T15:44:05",
+ "end_date": "2026-11-20T15:37:39",
+ "clarific_date": "2026-11-20T15:37:39",
+ "start_cost": 662064885.5,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2080024,\"Order_Num\":2,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24099974,\"Product_Id\":683883,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":2252500,\"Cost\":22525000,\"Description\":\"Monitor 27 dyuymdan kam bo‘lmasligi kerak.\\r\\nIPS.\\r\\n1920×1080 pikseldan kam bo‘lmasligi kerak.\\r\\n100 Gts dan kam bo‘lmasligi kerak.\\r\\n300 kd/m² dan kam bo‘lmasligi kerak.\\r\\nKamida 1 ta HDMI + ikkinchi HDMI/DP/VGA\\r\\nQiyalik burchagini sozlash; VESA 100×100 mm yoki mos keluvchi standartdagi mahkamlagichlarni qo‘llab-quvvatlash; o‘rnatilgan dinamiklarga ruxsat etiladi va ma’qul ko‘riladi.\\r\\nElektr ta’minoti kabeli va kompyuterga raqamli ulanish uchun kamida bitta kabel.\\r\\n\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9875347,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"26.20.17.110-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":90,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Компьютерга уланадиган монитор\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Матрица турлари\",\"User_Value\":\"IPS\",\"User_Value_Id\":1,\"Pnum\":1},{\"Property_Name\":\"Деворга мустаҳкамлаш имкониятининг мавжудлиги\",\"User_Value\":\"Йўқ\",\"User_Value_Id\":1,\"Pnum\":11},{\"Property_Name\":\"Диагонал ўлчами\",\"User_Value\":\"≥ 27\",\"User_Value_Id\":3,\"Pnum\":17},{\"Property_Name\":\"Ёрқинлик, кд/м2\",\"User_Value\":\"≥ 300  и  < 350\",\"User_Value_Id\":2,\"Pnum\":22},{\"Property_Name\":\"Экранни 90 градусга буриш имкони\",\"User_Value\":\"Йўқ\",\"User_Value_Id\":1,\"Pnum\":23},{\"Property_Name\":\"Максимал янгиланиш частотаси (кадр тезлиги)\",\"User_Value\":\"≥ 100\",\"User_Value_Id\":4,\"Pnum\":25},{\"Property_Name\":\"Экраннинг ўлчами, пиксель\",\"User_Value\":\"1920x1080\",\"User_Value_Id\":7,\"Pnum\":28},{\"Property_Name\":\"Тасвирлаш шакли\",\"User_Value\":\"0.672916666666667\",\"User_Value_Id\":2,\"Pnum\":29}]},{\"Id\":2080031,\"Order_Num\":9,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24099981,\"Product_Id\":722448,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":26702593.77,\"Cost\":26702593.77,\"Description\":\"Planshet.\\r\\nQurilma klassi\\tYetkazib berish sanasida amaldagi avlodga mansub zamonaviy, yuqori unumdorlikka ega biznes-klass plansheti.\\r\\nDispley\\tDiagonali 14,6 dyuymdan kam bo‘lmagan; tasvir aniqligi 2960×1848 pikseldan kam bo‘lmagan; AMOLED, OLED yoxud shunga o‘xshash tasvir sifatiga ega funksional jihatdan ekvivalent texnologiya; yangilanish chastotasi 120 Gs dan kam bo‘lmagan; yuqori yorqinlik rejimida yorqinligi 1 000 kd/m² dan kam bo‘lmagan yoki ishlab chiqaruvchi tomonidan tasdiqlangan ekvivalent ko‘rsatkich; sensorli kiritish va ishlab chiqaruvchi tomonidan nazarda tutilgan raqamli qalamni qo‘llab-quvvatlash.\\r\\nProtsessor\\tAmaldagi avlodga mansub 64-bitli yuqori unumdorlikka ega mobil protsessor; hisoblash yadrolari soni 8 tadan kam bo‘lmagan; maksimal takt chastotasi 3,7 GGs dan kam bo‘lmagan; 3 nm klassidagi yoki undan zamonaviyroq texnologik jarayon; sun’iy intellekt vazifalarini tezlashtiruvchi apparat bloki (NPU/AI accelerator) yoki funksional jihatdan ekvivalent yechim mavjudligi\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9875347,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"26.20.11.110-00003\",\"Guarantee_Term\":1,\"Delivery_Term\":90,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Планшет компьютер\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Симсиз алоқа\",\"User_Value\":\"Wi-Fi\",\"User_Value_Id\":4,\"Pnum\":1},{\"Property_Name\":\"Процессор ядролари сони, дона\",\"User_Value\":\"> 8\",\"User_Value_Id\":0,\"Pnum\":4},{\"Property_Name\":\"ГЛОНАСС мавжудлиги\",\"User_Value\":\"Йўқ\",\"User_Value_Id\":1,\"Pnum\":6},{\"Property_Name\":\"Ўрнатилган хотиранинг ҳажми, Гб\",\"User_Value\":\"256\",\"User_Value_Id\":1,\"Pnum\":10},{\"Property_Name\":\"Оператив хотиранинг ҳажми, Гб\",\"User_Value\":\"12\",\"User_Value_Id\":8,\"Pnum\":11},{\"Property_Name\":\"Экран ўлчами, Дюйм (25,4 мм)\",\"User_Value\":\"> 12  ва  ≤ 13\",\"User_Value_Id\":7,\"Pnum\":12},{\"Property_Name\":\"Матрица турлари\",\"User_Value\":\"AMOLED\",\"User_Value_Id\":0,\"Pnum\":14},{\"Property_Name\":\"Тип\",\"User_Value\":\"Портатив\",\"User_Value_Id\":8,\"Pnum\":20}]},{\"Id\":2080028,\"Order_Num\":6,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24099978,\"Product_Id\":698685,\"Product_Type_Id\":1,\"Quantity\":3,\"Price\":53031326.67,\"Cost\":159093980.01,\"Description\":\"Universal ish o‘rni.\\r\\nTo‘plam tarkibi: Noutbuk — 1 dona; dok-stansiya — 1 dona; klaviatura — 1 dona; sichqoncha — 1 dona; egri ekranli monitor — 1 dona; kabellar va adapterlar to‘plami. \\r\\nNoutbukning quvvat bloki hisobga olinmagandagi vazni — 1,4 kg dan oshmasligi (o‘ta yupqa toifa); korpusning yopiq holatdagi qalinligi — 20 mm dan oshmasligi kerak. Bu ko‘rsatkichlar ishlab chiqaruvchining rasmiy texnik hujjatlari bilan tasdiqlanishi lozim.\\r\\nAmaldagi avlodga mansub 64-bitli mobil protsessor. Kamida 10 ta fizik yadro va 12 ta oqim, maksimal chastotasi 4,8 GGs dan kam bo‘lmasligi kerak.\\r\\nTezkor xotira hajmi 32 GB dan kam bo‘lmagan DDR5 yoki LPDDR5X.\\r\\nHajmi 512 GB dan kam bo‘lmagan M.2 NVMe turidagi SSD.\\r\\n\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9875347,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"26.20.11.110-00012\",\"Guarantee_Term\":1,\"Delivery_Term\":90,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Ултра мобил компютер\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Экран ўлчами, дюйм\",\"User_Value\":\"7\",\"User_Value_Id\":6,\"Pnum\":1},{\"Property_Name\":\"Оператив хотира, ГБ\",\"User_Value\":\"16 дан ортиқ\",\"User_Value_Id\":3,\"Pnum\":2},{\"Property_Name\":\"Операцион тизим\",\"User_Value\":\"Windows\",\"User_Value_Id\":1,\"Pnum\":4},{\"Property_Name\":\"Тури\",\"User_Value\":\"Трансформер\",\"User_Value_Id\":3,\"Pnum\":7},{\"Property_Name\":\"Экран аниқлиги\",\"User_Value\":\"Full HD (1920×1080)дан юқори\",\"User_Value_Id\":3,\"Pnum\":8}]},{\"Id\":2080026,\"Order_Num\":4,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24099976,\"Product_Id\":713838,\"Product_Type_Id\":1,\"Quantity\":16,\"Price\":817500,\"Cost\":13080000,\"Description\":\"Klaviatura + sichqoncha to‘plami. \\r\\nTo‘liq o‘lchamli, raqamli blokli; ruscha va inglizcha harf terimlari; kamida 104 ta klavish. Ulanish: simli USB yoki to‘plamdagi USB-qabul qilgich orqali simsiz 2,4 GGs. Klaviatura ishlab chiqaruvchining rasmiy tavsifnomasiga ega seriyali zavod modeli bo‘lishi kerak.\\r\\nOptik; aylantirish g‘ildiragini hisobga olganda kamida 3 ta tugma; sensorning aniqligi kamida 1000 dpi. Ulanish: simli USB yoki to‘plamdagi USB-qabul qilgich orqali simsiz 2,4 GGs. Sichqoncha ishlab chiqaruvchining rasmiy tavsifnomasiga ega seriyali zavod modeli bo‘lishi kerak.\\r\\nKorporativ ofisda foydalanish; konstruksiyasi kundalik ishlatishga mo‘ljallangan.\\r\\nAsosiy funksiyalarni bajarish uchun maxsus drayverlarni majburiy o‘rnatmasdan ulanishi; simsiz variantda to‘plamda standart komplektatsiyada ko‘zda tutilgan barcha zarur USB-qabul qilgichlar va quvvat manbalari/akkumulyatorlar bo‘lishi kerak.\\r\\n\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9875347,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"26.20.16.110-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":90,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Клавиатура\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"тўплам\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Уланиш тури\",\"User_Value\":\"Симсиз\",\"User_Value_Id\":0,\"Pnum\":1}]},{\"Id\":2080023,\"Order_Num\":1,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24099973,\"Product_Id\":712197,\"Product_Type_Id\":1,\"Quantity\":13,\"Price\":22786253.33,\"Cost\":296221293.29,\"Description\":\"Korporativ ish o‘rni uchun mo‘ljallangan monoblok (All-in-One).\\r\\nHisoblash yadrolari soni 10 tadan va oqimlari soni 12 tadan kam bo‘lmagan, chastotasi ≥4,8 GGs (Turbo/Boost).\\r\\nKamida 32 GB DDR5; tizimli platani almashtirmasdan operativ xotirani standart tartibda kengaytirish imkoniyati.\\r\\nSSD, hajmi 512 GB dan kam bo‘lmagan, M.2 NVMe\\r\\nDiagonali 27 dyuymdan kam bo‘lmagan; IPS yoki unga tenglashtirilgan texnologiya; tasvir aniqligi 1920×1080 dan kam bo‘lmagan; jiloga qarshi qoplama; yorqinligi 250 kd/m² dan kam bo‘lmagan.\\r\\nIchki displeyning barqaror ishlashini va kamida bitta qo‘shimcha tashqi monitorni ulash imkonini beruvchi integratsiyalashgan yoki diskret grafik tizim.\\r\\nSimli Ethernet interfeysi kamida 1 Gbit/s; Wi-Fi standarti IEEE 802.11ax dan past bo‘lmagan; Bluetooth versiyasi 5.2 dan past bo‘lmagan.\\r\\nO‘rnatilgan Full HD veb-kamera; o‘rnatilgan mikrofonlar va stereodinamiklar.\\r\\n\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9875347,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"26.20.13.000-00003\",\"Guarantee_Term\":1,\"Delivery_Term\":90,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Моноблок\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Процессорнинг учинчи даражаси (L3) кеш хотира ҳажми, Мегабайт\",\"User_Value\":\"≥ 4\",\"User_Value_Id\":3,\"Pnum\":27},{\"Property_Name\":\"SSD тўплагичи ҳажми, Гигабайт\",\"User_Value\":\"≥ 512\",\"User_Value_Id\":4,\"Pnum\":29}]},{\"Id\":2080030,\"Order_Num\":8,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24099980,\"Product_Id\":712685,\"Product_Type_Id\":1,\"Quantity\":16,\"Price\":606326.67,\"Cost\":9701226.72,\"Description\":\"Simli kompyuter garniturasi.\\r\\nIkkita quloqchinli va sozlanadigan boshbog‘li simli stereogarnitura. Bitta quloqchinli monofonik modellarga yo‘l qo‘yilmaydi.\\r\\nUSB-A yoki USB-C. USB-C dan foydalanilganda jamlanmadagi USB-C/USB-A adapteriga ruxsat etiladi.\\r\\nChastota diapazoni 20 Gs – 20 kGs dan tor bo‘lmasligi kerak.\\r\\nFon shovqinini pasaytirish funksiyasiga ega sozlanadigan, buriluvchi mikrofon.\\r\\nKabel yoki korpusga o‘rnatilgan ovoz balandligini sozlash va mikrofonni o‘chirish boshqaruvi.\\r\\nUzunligi 1,5 m dan kam bo‘lmasligi kerak.\\r\\nMaxsus dasturiy ta’minotni majburiy o‘rnatmasdan “Plug and Play” tamoyili asosida ishlash.\\r\\n \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9875347,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"26.40.42.120-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":90,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Гарнитура\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2080029,\"Order_Num\":7,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24099979,\"Product_Id\":712348,\"Product_Type_Id\":1,\"Quantity\":9,\"Price\":771151.67,\"Cost\":6940365.03,\"Description\":\"IP-telefon apparati. \\r\\nSIP v2’ni qo‘llab-quvvatlash.\\r\\nKamida 2 ta SIP qayd yozuvi va kamida 2 ta liniya.\\r\\nOrqa yoritgichli grafik LCD-displey; tasvir aniqligi kamida 132×48 piksel.\\r\\nKamida 2 ta 10/100/1000 Mbit/s Gigabit Ethernet porti: korporativ tarmoqqa ulanish uchun alohida LAN porti va ish kompyuterini ulash uchun alohida PC porti. Har ikkala port 1 Gbit/s tezlikni qo‘llab-quvvatlashi kerak, shunda kompyuter telefon orqali ulanganda tarmoq tezligi 100 Mbit/s bilan cheklanmaydi.\\r\\nIEEE 802.3af yoki undan yangiroq mos standart bo‘yicha Power over Ethernet (PoE) texnologiyasini qo‘llab-quvvatlash.\\r\\nGo‘shak va spikerfon uchun HD-audio; asosiy SIP-audiokodeklar, jumladan G.711 va G.722’ni qo‘llab-quvvatlash.\\r\\nSpikerfon, qo‘ng‘iroqni ushlab turish, qo‘ng‘iroqni o‘tkazish, konferensiya, qayta terish, qo‘ng‘iroqlar jurnali, telefon daftarchasi.\\r\\nVLAN IEEE 802.1Q, QoS’ni qo‘llab-quvvatlash; o‘rnatilgan veb-interfeys orqali boshqaruv; markazlashtirilgan sozlash imkoniyati.\\r\\n\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9875347,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"26.30.11.110-00002\",\"Guarantee_Term\":1,\"Delivery_Term\":90,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"ИП телефония терминали\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"SIP протоколини қўллаб-қувватлаш\",\"User_Value\":\"Ҳа\",\"User_Value_Id\":0,\"Pnum\":16},{\"Property_Name\":\"Қурилма тури\",\"User_Value\":\"Стационар телефон\",\"User_Value_Id\":3,\"Pnum\":21}]},{\"Id\":2080027,\"Order_Num\":5,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24099977,\"Product_Id\":711961,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":19478226.67,\"Cost\":38956453.34,\"Description\":\"Noutbuk\\r\\nAmaldagi avlodga mansub 64-bitli mobil protsessor. Kamida 10 ta fizik yadro va 12 ta oqim, maksimal chastotasi kamida 4,7 GGs.\\r\\nKamida 32 GB DDR5 yoki LPDDR5X.\\r\\nSSD hajmi kamida 512 GB, M.2 NVMe, PCIe 4.0 x4 yoki undan yuqori.\\r\\nDiagonali kamida 13 dyuym; IPS/OLED yoki unga tenglashtirilgan texnologiya; tasvir aniqligi kamida 1920×1200; jiloga qarshi qoplama yoki ishlab chiqaruvchi tomonidan tasdiqlangan jiloga qarshi ishlov; yorqinligi kamida 400 kd/m².\\r\\nZamonaviy ofis va multimedia ilovalarining apparat tezlashtirishini qo‘llab-quvvatlaydigan integratsiyalashgan yoki diskret videokarta.\\r\\nWi-Fi standarti IEEE 802.11ax dan past bo‘lmasligi; Bluetooth versiyasi 5.3 dan past bo‘lmasligi.\\r\\nKamida 2 ta USB port, shu jumladan ma’lumotlarni uzatish, quvvatlantirish va video signal chiqarishni qo‘llab-quvvatlaydigan kamida bitta USB-C/USB4/Thunderbolt porti; raqamli video chiqish yoki uni to‘plamdagi USB-C orqali amalga oshirish imkoniyati; audiointerfeys.\\r\\n\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9875347,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"26.20.11.110-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":90,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Ноутбук\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Оператив хотиранинг ҳажми, Гигабайт\",\"User_Value\":\"≥ 32\",\"User_Value_Id\":0,\"Pnum\":4},{\"Property_Name\":\"Экран ўлчами\",\"User_Value\":\"Full HD\",\"User_Value_Id\":0,\"Pnum\":7},{\"Property_Name\":\"Тўплагич ҳажми, Гигабайт\",\"User_Value\":\"≥ 500\",\"User_Value_Id\":2,\"Pnum\":11},{\"Property_Name\":\"Диагонал ўлчами, Дюйм (25,4 мм)\",\"User_Value\":\"≥ 13\",\"User_Value_Id\":4,\"Pnum\":12}]},{\"Id\":2080025,\"Order_Num\":3,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24099975,\"Product_Id\":712181,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":44421986.67,\"Cost\":88843973.34,\"Description\":\"Shaxsiy kompyuter 64-bitli yuqori unumdorlikka ega protsessor; kamida 12 ta fizik yadro va 20 ta oqim; maksimal chastotasi kamida 5,4 GGs.\\r\\nKamida ikkita modulda o‘rnatilgan, hajmi kamida 64 GB bo‘lgan DDR5; samarali chastotasi kamida 5600 MT/s; hajmini kamida 128 GB gacha kengaytirish imkoniyati.\\r\\nSSD hajmi kamida 512 GB, M.2 NVMe\\r\\nO‘rnatilgan protsessor va DDR5 ni qo‘llab-quvvatlashi; kamida 4 ta xotira sloti; saqlagichlar uchun kamida 2 ta M.2 ulagichi; simli Ethernet kamida 2,5 Gbit/s; Wi-Fi standarti IEEE 802.11ax dan past bo‘lmagan; Bluetooth versiyasi 5.3 dan past bo‘lmagan.\\r\\nIntegratsiyalashgan yoki diskret grafik quyi tizim komplektdagi monitorning raqamli interfeys orqali nominal 5120×1440 piksel tasvir aniqligida, yangilanish chastotasi kamida 60 Gs bo‘lgan holda barqaror ishlashini ta’minlashi kerak. Agar ushbu talab integratsiyalashgan grafik quyi tizim tomonidan ta’minlansa, diskret grafik adapterning mavjudligi shart emas.\\r\\nQuvvati kamida 650 Vt, 80 PLUS Gold\\r\\n\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9875347,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"26.20.13.000-00006\",\"Guarantee_Term\":1,\"Delivery_Term\":90,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Шахсий компьютер\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Оператив хотира ҳажми, гб\",\"User_Value\":\"64\",\"User_Value_Id\":8,\"Pnum\":4},{\"Property_Name\":\"Процессор частотаси (ГГц)\",\"User_Value\":\"5 дан ортиқ\",\"User_Value_Id\":5,\"Pnum\":7},{\"Property_Name\":\"Таъминот блоки қуввати (Вт)\",\"User_Value\":\"1000 гача\",\"User_Value_Id\":7,\"Pnum\":9}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 0.0,
+ "advance_payment_perc": 50.0,
+ "term_payment_days": 10,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Xaridlar menejeri\",\"Fullname\":\"Komila Jumayeva\"}]",
+ "rest_time": 232406,
+ "customer_name": "\"O`ZBEKISTON IPOTEKANI QAYTA MOLIYALASHTIRISH KOMPANIYASI\" AJ",
+ "customer_tin": "306834286",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611050718637601.zip",
+ "tech_file_path": "/files/2026/11/5/202611050718637601.zip",
+ "tech_file_ext": "ZIP",
+ "tech_file_sizes": 767363.0,
+ "tech_doc_file_name": "20261611112424524114.pdf",
+ "tech_doc_file_path": "files/2026/11/16/20261611112424524114.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 361150.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611050718735203.docx",
+ "contract_proform_file_path": "/files/2026/11/5/202611050718735203.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 24769.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 56,
+ "nonauthorized_count": 5485,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2768009,
+   "type_name": "BINARY_VALUE",
+   "label_type_name": "Бинарное значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 100.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Texnik parametrlar",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": "Утверждения",
+    "type_name": null,
+    "yes_text": "Да",
+    "no_text": "Нет"
+   },
+   "gravity": 100.0,
+   "description": "Taklif qilingan tovarlar texnik parametrlarining texnik topshiriq talablariga muvofiqligi.  \r\nTakliflarni texnik baholash mezonlari alohida batafsil texnik baholash jadvalida aks ettirilgan.\r\nTo‘ldirilgan 7-shakl va tegishli tasdiqlovchi hujjatlar ilova qilinadi. Texnik baholash AT va raqamlashtirish bo‘limi tomonidan takliflarni texnik baholash mezonlari jadvalida belgilangan ballar asosida amalga oshiriladi.   \r\nTaklif TTga to‘liq muvofiq – 80 ball,\r\nQo’shimcha afzalliklar uchun – 20 ball,\r\nTaklif TTga to‘liq muvofiq emas – ishtirokchi chetlashtiriladi\r\n                        . Taklif TTga to‘liq muvofiq – 80 ball,\r\nQo’shimcha afzalliklar uchun – 20 ball,\r\nTaklif TTga to‘liq muvofiq emas – ishtirokchi chetlashtiriladi\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": "Texnik parametrlar",
+   "form_file_path": "tender/user-files/2026/11/5/91deba82-d1ce-46fe-ba5b-a0e50d8892c6.docx"
+  }
+ ],
+ "fields": "[{\"Id\":2768009,\"Type_Name\":\"BINARY_VALUE\",\"Label_Type_Name\":\"Бинарное значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":100.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Texnik parametrlar\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":\"Утверждения\",\"Type_name\":null,\"Yes_text\":\"Да\",\"No_text\":\"Нет\"},\"Gravity\":100.0,\"Description\":\"Taklif qilingan tovarlar texnik parametrlarining texnik topshiriq talablariga muvofiqligi.  \\r\\nTakliflarni texnik baholash mezonlari alohida batafsil texnik baholash jadvalida aks ettirilgan.\\r\\nTo‘ldirilgan 7-shakl va tegishli tasdiqlovchi hujjatlar ilova qilinadi. Texnik baholash AT va raqamlashtirish bo‘limi tomonidan takliflarni texnik baholash mezonlari jadvalida belgilangan ballar asosida amalga oshiriladi.   \\r\\nTaklif TTga to‘liq muvofiq – 80 ball,\\r\\nQo’shimcha afzalliklar uchun – 20 ball,\\r\\nTaklif TTga to‘liq muvofiq emas – ishtirokchi chetlashtiriladi\\r\\n                        . Taklif TTga to‘liq muvofiq – 80 ball,\\r\\nQo’shimcha afzalliklar uchun – 20 ball,\\r\\nTaklif TTga to‘liq muvofiq emas – ishtirokchi chetlashtiriladi\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":\"Texnik parametrlar\",\"Form_File_Path\":\"tender/user-files/2026/11/5/91deba82-d1ce-46fe-ba5b-a0e50d8892c6.docx\"}]",
+ "js_qualification_fields": [
+  {
+   "id": 1107110,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": "To‘ldirilgan 1-shakl  hamda mazkur shaklda belgilangan tasdiqlovchi hujjatlar ilova qilinadi                            ",
+   "file_path": "tender/user-files/2026/11/5/88e05ef2-60db-4277-8689-dc0212c73af1.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107111,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": "2-shakl bo‘yicha kafolat xati, Guvohnoma, rahbar tayinlanganligi buyrug‘i yoki ishonchnoma, Ustav hujjatlari ilova qilinadi",
+   "file_path": "tender/user-files/2026/11/5/f2793cab-2317-49ca-84c9-ae8e0a9c7fd3.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107112,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": "https://my.soliq.uz/  saytidan qarzdorlik yo‘qligi to‘g‘risida ma’lumotnoma ilova qilinadi",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107113,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "https://my.gov.uz/  saytidan to‘lov qobiliyati bo‘yicha ma’lumotnoma ilova qilinadi",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107114,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "https://xarid.uzex.uz/ saytidan reyestr skrinshoti ilova qilinadi ",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107115,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": "https://mib.uz/  saytidan qarzdorlikni tekshirish natijasi skrinshoti ilova qilinadi",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107116,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 7,
+   "description": "4-shakl ilova qilinadi",
+   "file_path": "tender/user-files/2026/11/5/e5c35c94-746f-46ce-a887-97a86fa66a03.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107117,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 8,
+   "description": "5-shakl ilova qilinadi",
+   "file_path": "tender/user-files/2026/11/5/ffa817c3-d416-4033-9e36-c16d2f0ed729.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1107110,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":\"To‘ldirilgan 1-shakl  hamda mazkur shaklda belgilangan tasdiqlovchi hujjatlar ilova qilinadi                            \",\"File_Path\":\"tender/user-files/2026/11/5/88e05ef2-60db-4277-8689-dc0212c73af1.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107111,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":\"2-shakl bo‘yicha kafolat xati, Guvohnoma, rahbar tayinlanganligi buyrug‘i yoki ishonchnoma, Ustav hujjatlari ilova qilinadi\",\"File_Path\":\"tender/user-files/2026/11/5/f2793cab-2317-49ca-84c9-ae8e0a9c7fd3.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107112,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"https://my.soliq.uz/  saytidan qarzdorlik yo‘qligi to‘g‘risida ma’lumotnoma ilova qilinadi\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107113,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"https://my.gov.uz/  saytidan to‘lov qobiliyati bo‘yicha ma’lumotnoma ilova qilinadi\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107114,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"https://xarid.uzex.uz/ saytidan reyestr skrinshoti ilova qilinadi \",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107115,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"https://mib.uz/  saytidan qarzdorlikni tekshirish natijasi skrinshoti ilova qilinadi\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107116,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":7,\"Description\":\"4-shakl ilova qilinadi\",\"File_Path\":\"tender/user-files/2026/11/5/e5c35c94-746f-46ce-a887-97a86fa66a03.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107117,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":8,\"Description\":\"5-shakl ilova qilinadi\",\"File_Path\":\"tender/user-files/2026/11/5/ffa817c3-d416-4033-9e36-c16d2f0ed729.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 6419,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Юнусабадский район",
+ "delivering_address": "Oloy bozori berk ko'chasi, 64-uy",
+ "delivering_phone": "781483000",
+ "addon_description": "Texnik topshiriq shartlariga muvofiq kompyuter jihozlari va ofis texnikalarini yetkazish.  ",
+ "technical_description": "Xarid qilish hujjatlari, texnik topshiriq, to'ldiriladigan shakllar, ekoplatforma ma'lumotnomasi.",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Buyuk Turon MFY, Oloy bozori berk ko'chasi, 64-uy",
+ "customer_zip": "100090",
+ "min_point": 80,
+ "financing_source": "O'z mablag'lari",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": true,
+ "prolong_date": "2026-11-17T15:37:39",
+ "prolonged_days": 3,
+ "prolong_file_name": "202611173720225874.pdf",
+ "prolong_file_path": "/files/2026/11/17/202611173720225874.pdf",
+ "prolong_file_ext": "PDF",
+ "prolong_file_sizes": 717237.0,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 55063.73,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080024,
+     "converted_price": 187.33,
+     "converted_cost": 1873.39
+    },
+    {
+     "lot_detail_id": 2080025,
+     "converted_price": 3694.56,
+     "converted_cost": 7389.12
+    },
+    {
+     "lot_detail_id": 2080027,
+     "converted_price": 1619.99,
+     "converted_cost": 3239.99
+    },
+    {
+     "lot_detail_id": 2080029,
+     "converted_price": 64.13,
+     "converted_cost": 577.22
+    },
+    {
+     "lot_detail_id": 2080030,
+     "converted_price": 50.42,
+     "converted_cost": 806.84
+    },
+    {
+     "lot_detail_id": 2080023,
+     "converted_price": 1895.12,
+     "converted_cost": 24636.63
+    },
+    {
+     "lot_detail_id": 2080026,
+     "converted_price": 67.99,
+     "converted_cost": 1087.85
+    },
+    {
+     "lot_detail_id": 2080028,
+     "converted_price": 4410.59,
+     "converted_cost": 13231.79
+    },
+    {
+     "lot_detail_id": 2080031,
+     "converted_price": 2220.84,
+     "converted_cost": 2220.84
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 662064885.5,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080024,
+     "converted_price": 2252500.0,
+     "converted_cost": 22525000.0
+    },
+    {
+     "lot_detail_id": 2080025,
+     "converted_price": 44421986.67,
+     "converted_cost": 88843973.34
+    },
+    {
+     "lot_detail_id": 2080027,
+     "converted_price": 19478226.67,
+     "converted_cost": 38956453.34
+    },
+    {
+     "lot_detail_id": 2080029,
+     "converted_price": 771151.67,
+     "converted_cost": 6940365.03
+    },
+    {
+     "lot_detail_id": 2080030,
+     "converted_price": 606326.67,
+     "converted_cost": 9701226.72
+    },
+    {
+     "lot_detail_id": 2080023,
+     "converted_price": 22786253.33,
+     "converted_cost": 296221293.29
+    },
+    {
+     "lot_detail_id": 2080026,
+     "converted_price": 817500.0,
+     "converted_cost": 13080000.0
+    },
+    {
+     "lot_detail_id": 2080028,
+     "converted_price": 53031326.67,
+     "converted_cost": 159093980.01
+    },
+    {
+     "lot_detail_id": 2080031,
+     "converted_price": 26702593.77,
+     "converted_cost": 26702593.77
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 4549023.53,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080024,
+     "converted_price": 15476.84,
+     "converted_cost": 154768.44
+    },
+    {
+     "lot_detail_id": 2080025,
+     "converted_price": 305221.84,
+     "converted_cost": 610443.68
+    },
+    {
+     "lot_detail_id": 2080027,
+     "converted_price": 133834.18,
+     "converted_cost": 267668.36
+    },
+    {
+     "lot_detail_id": 2080029,
+     "converted_price": 5298.55,
+     "converted_cost": 47686.99
+    },
+    {
+     "lot_detail_id": 2080030,
+     "converted_price": 4166.04,
+     "converted_cost": 66656.77
+    },
+    {
+     "lot_detail_id": 2080023,
+     "converted_price": 156563.51,
+     "converted_cost": 2035325.63
+    },
+    {
+     "lot_detail_id": 2080026,
+     "converted_price": 5617.01,
+     "converted_cost": 89872.2
+    },
+    {
+     "lot_detail_id": 2080028,
+     "converted_price": 364376.29,
+     "converted_cost": 1093128.89
+    },
+    {
+     "lot_detail_id": 2080031,
+     "converted_price": 183472.54,
+     "converted_cost": 183472.54
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 50017.02,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080024,
+     "converted_price": 170.16,
+     "converted_cost": 1701.69
+    },
+    {
+     "lot_detail_id": 2080025,
+     "converted_price": 3355.94,
+     "converted_cost": 6711.89
+    },
+    {
+     "lot_detail_id": 2080027,
+     "converted_price": 1471.52,
+     "converted_cost": 2943.04
+    },
+    {
+     "lot_detail_id": 2080029,
+     "converted_price": 58.25,
+     "converted_cost": 524.32
+    },
+    {
+     "lot_detail_id": 2080030,
+     "converted_price": 45.8,
+     "converted_cost": 732.89
+    },
+    {
+     "lot_detail_id": 2080023,
+     "converted_price": 1721.43,
+     "converted_cost": 22378.63
+    },
+    {
+     "lot_detail_id": 2080026,
+     "converted_price": 61.75,
+     "converted_cost": 988.15
+    },
+    {
+     "lot_detail_id": 2080028,
+     "converted_price": 4006.35,
+     "converted_cost": 12019.07
+    },
+    {
+     "lot_detail_id": 2080031,
+     "converted_price": 2017.3,
+     "converted_cost": 2017.3
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

@@ -1,0 +1,830 @@
+{
+ "id": 524131,
+ "display_no": "26120012524131",
+ "start_date": "2026-11-17T16:34:10",
+ "end_date": "2026-11-24T16:34:10",
+ "clarific_date": "2026-11-24T16:34:10",
+ "start_cost": 570244000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2080127,\"Order_Num\":1,\"Category_Id\":126746,\"Plangraph_Detail_Id\":24331366,\"Product_Id\":453599,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":145084000,\"Cost\":145084000,\"Description\":\"Услуга по организации и проведения сертификации по управлению проектами (IPMA)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9995901,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"70.22.11.000-00005\",\"Guarantee_Term\":1,\"Delivery_Term\":80,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бош офислар хизмати; корхоналарни бошқариш соҳасидаги маслаҳат хизматлари\",\"Product_Name\":\"Сертификатлаштириш бўйича ташкилотни аккредитацияга тайёрлаш учун маслаҳат хизматлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2080128,\"Order_Num\":2,\"Category_Id\":126746,\"Plangraph_Detail_Id\":24331367,\"Product_Id\":453599,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":425160000,\"Cost\":425160000,\"Description\":\"Услуга по организации и проведения обучения и подготовки к сертификации по управлению проектами (IPMA)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9995901,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"70.22.11.000-00005\",\"Guarantee_Term\":1,\"Delivery_Term\":80,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бош офислар хизмати; корхоналарни бошқариш соҳасидаги маслаҳат хизматлари\",\"Product_Name\":\"Сертификатлаштириш бўйича ташкилотни аккредитацияга тайёрлаш учун маслаҳат хизматлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 20.0,
+ "term_payment_days": 30,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Заместитель директора ЕПОКИ\",\"Fullname\":\"Александр Калиновский\"}]",
+ "rest_time": 581287,
+ "customer_name": "АО OLMALIQ KON-METALLURGIYA KOMBINATI",
+ "customer_tin": "202328794",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611021035922686.pdf",
+ "tech_file_path": "/files/2026/11/2/202611021035922686.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 267456.0,
+ "tech_doc_file_name": "20261711172455524131.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711172455524131.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 257951.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611021036031587.docx",
+ "contract_proform_file_path": "/files/2026/11/2/202611021036031587.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 70273.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 1,
+ "nonauthorized_count": 179,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2768134,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Информация об оказании аналогичных услуг ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Информация об оказании аналогичных услуг по подготовке, организации и проведению\r\nмеждународной сертификации по управлению проектами по системе IPMA и/или\r\nаналогичных, с бюджетом не менее 30 тыс долларов США./Budjeti kamida 30 ming AQSH dollari bo‘lgan, IPMA tizimi asosida loyihalarni boshqarish bo‘yicha xalqaro sertifikatlashtirishga tayyorgarlik ko‘rish, uni tashkil etish va o‘tkazish bo‘yicha shunga o‘xshash xizmatlar ko‘rsatilganligi to‘g‘risida ma’lumot.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Есть опыт 30 и более тыс. долларов\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Есть опыт менее 30 тыс. долларов"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Нет опыта "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768135,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Информация о международном опыте ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Информация о международном опыте сотрудничества, участии проектах за пределами страны резидентства или меморандуме с участием иностранных организаций. Наличие и опыт ведения фасилитационных воркшопов и/или бизнес игр по управлению проектами в корпоративном формате./Xalqaro hamkorlik tajribasi, xorijiy loyihalardagi ishtiroki yoki xorijiy tashkilotlar bilan tuzilgan memorandum haqida ma’lumot. Korporativ formatda loyihalarni boshqarish bo‘yicha fasilitatsion seminarlar va/yoki biznes o‘yinlari mavjudligi hamda ularni o‘tkazish tajribasi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Есть достаточный опыт, а также опыт в РУз"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Есть достаточный опыт\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Недостаточный опыт\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Нет опыта"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768136,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Информация о сроках и условиях поставки, а также условиях оплаты",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Информация о сроках и условиях поставки, а также условиях оплаты/Yetkazib berish muddatlari va shartlari, shuningdek, to‘lov shartlari haqida ma’lumot",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Полное соответствие требованиям"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Незначительное отклонение по одному из критериев (сроки, ТЗ, оплата)\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Частичное  несоответствие по нескольким (два и более) критериям (сроки, ТЗ, оплата)\r\n"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768137,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 4.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Наличие подтвержденного права на проведение программ ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Наличие подтвержденного права на проведение программ подготовки к международной сертификации специалистов по управлению проектами по системе IPMA по модели IPMA 4_L_C на уровни IPMA-D, IPMA-C, IPMA-B, IPMA-A/IPMA tizimi asosida loyihalarni boshqarish bo‘yicha mutaxassislarni IPMA 4_L_C modeli bo‘yicha IPMA-D, IPMA-C, IPMA-B, IPMA-A darajalariga xalqaro sertifikatlashga tayyorlash dasturlarini o‘tkazish uchun tasdiqlangan huquqning mavjudligi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Полное подтверждение по всем уровням"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Частичное подтверждение, не по всем уровням\r\n"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768138,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 4.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Наличие подтвержденного права сертификационного органа ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Наличие подтвержденного права сертификационного органа с подтверждением пройденной валидации IPMA и подтвержденным правом проводить сертификационные сессии с выдачей международного сертификата специалистам на уровни IPMA-D, IPMA-C, IPMA-B, IPMA-A по системе IPMA 4_L_C/Sertifikatlash organi huquqi tasdiqlangani, shu bilan birga IPMA validatsiyasidan o‘tgani hamda IPMA 4_L_C tizimi bo‘yicha mutaxassislarga IPMA-D, IPMA-C, IPMA-B, IPMA-A darajalarida xalqaro sertifikat beruvchi sertifikatlash sessiyalarini o‘tkazish huquqi tasdiqlangani",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Полное подтверждение по всем уровням\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Частичное подтверждение, не по всем уровням "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768139,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 4.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Состав асессоров по системе IPMA ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Подтвержденный состав асессоров по системе IPMA 4-L-C для оценки компетентности кандидатов на уровни IPMA-D, IPMA-C и IPMA-B/IPMA-D, IPMA-C va IPMA-B darajalariga nomzodlarning malakasini baholash uchun IPMA 4-L-C tizimi bo‘yicha tasdiqlangan asessorlar tarkibi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Полное подтверждение по всем уровням\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Частичное подтверждение, не по всем уровням\r\n"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768140,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Опыт проведения программ подготовки ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Опыт проведения программ подготовки к международной сертификации специалистов по управлению проектами по системе IPMA./IPMA tizimi asosida loyihalarni boshqarish bo‘yicha mutaxassislarni xalqaro sertifikatlashga tayyorlash dasturlarini o‘tkazish bo‘yicha kamida 5 yillik tajriba.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "5 и более лет"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "4 года"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "3 года"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "2 года"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "до года"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768141,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Наличие сертификатов",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 7.5,
+   "description": "Наличие у руководителя команды действующего сертификата уровня IPMA-A, у членов команды - преподавателей и специалистов действующего сертификата с минимумом уровня IPMA-D/Jamoa rahbarida IPMA-A darajasidagi amaldagi sertifikat, jamoa a’zolari — o‘qituvchilar va mutaxassislarda esa kamida IPMA-D darajasidagi amaldagi sertifikat borligi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Наличие всех сертификатов.\r\n\r\nЖелательны степени кандидата наук и \r\nсертификаты по зеленому управлению проектами Green Project Management или аналогичному"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Руководитель ниже IPMA-A, команда с сертификатами "
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Руководитель ниже IPMA-A, команда без сертификатов "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768142,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Наличие штата/ заключенных соглашений",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Наличие у организации заключенных соглашений / договоров на оказание услуг по подготовке к сертификации с преподавателями, имеющими действующие сертификаты IPMA/Tashkilotda amaldagi IPMA sertifikatlariga ega bo‘lgan o‘qituvchilar bilan sertifikatlashga tayyorlash bo‘yicha xizmatlar ko‘rsatishga oid tuzilgan bitimlar/shartnomalarning mavjudligi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "При наличии в штате или наличии всех соглашений"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "При отсутствии в штате и наличии части соглашений"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "При отсутствии в штате и отсутствии соглашений\r\n"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2768134,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Информация об оказании аналогичных услуг \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Информация об оказании аналогичных услуг по подготовке, организации и проведению\\r\\nмеждународной сертификации по управлению проектами по системе IPMA и/или\\r\\nаналогичных, с бюджетом не менее 30 тыс долларов США./Budjeti kamida 30 ming AQSH dollari bo‘lgan, IPMA tizimi asosida loyihalarni boshqarish bo‘yicha xalqaro sertifikatlashtirishga tayyorgarlik ko‘rish, uni tashkil etish va o‘tkazish bo‘yicha shunga o‘xshash xizmatlar ko‘rsatilganligi to‘g‘risida ma’lumot.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Есть опыт 30 и более тыс. долларов\\r\\n\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Есть опыт менее 30 тыс. долларов\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Нет опыта \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768135,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Информация о международном опыте \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Информация о международном опыте сотрудничества, участии проектах за пределами страны резидентства или меморандуме с участием иностранных организаций. Наличие и опыт ведения фасилитационных воркшопов и/или бизнес игр по управлению проектами в корпоративном формате./Xalqaro hamkorlik tajribasi, xorijiy loyihalardagi ishtiroki yoki xorijiy tashkilotlar bilan tuzilgan memorandum haqida ma’lumot. Korporativ formatda loyihalarni boshqarish bo‘yicha fasilitatsion seminarlar va/yoki biznes o‘yinlari mavjudligi hamda ularni o‘tkazish tajribasi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Есть достаточный опыт, а также опыт в РУз\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Есть достаточный опыт\\r\\n\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Недостаточный опыт\\r\\n\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Нет опыта\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768136,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Информация о сроках и условиях поставки, а также условиях оплаты\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Информация о сроках и условиях поставки, а также условиях оплаты/Yetkazib berish muddatlari va shartlari, shuningdek, to‘lov shartlari haqida ma’lumot\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Полное соответствие требованиям\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Незначительное отклонение по одному из критериев (сроки, ТЗ, оплата)\\r\\n\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Частичное  несоответствие по нескольким (два и более) критериям (сроки, ТЗ, оплата)\\r\\n\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768137,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":4.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Наличие подтвержденного права на проведение программ \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Наличие подтвержденного права на проведение программ подготовки к международной сертификации специалистов по управлению проектами по системе IPMA по модели IPMA 4_L_C на уровни IPMA-D, IPMA-C, IPMA-B, IPMA-A/IPMA tizimi asosida loyihalarni boshqarish bo‘yicha mutaxassislarni IPMA 4_L_C modeli bo‘yicha IPMA-D, IPMA-C, IPMA-B, IPMA-A darajalariga xalqaro sertifikatlashga tayyorlash dasturlarini o‘tkazish uchun tasdiqlangan huquqning mavjudligi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Полное подтверждение по всем уровням\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Частичное подтверждение, не по всем уровням\\r\\n\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768138,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":4.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Наличие подтвержденного права сертификационного органа \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Наличие подтвержденного права сертификационного органа с подтверждением пройденной валидации IPMA и подтвержденным правом проводить сертификационные сессии с выдачей международного сертификата специалистам на уровни IPMA-D, IPMA-C, IPMA-B, IPMA-A по системе IPMA 4_L_C/Sertifikatlash organi huquqi tasdiqlangani, shu bilan birga IPMA validatsiyasidan o‘tgani hamda IPMA 4_L_C tizimi bo‘yicha mutaxassislarga IPMA-D, IPMA-C, IPMA-B, IPMA-A darajalarida xalqaro sertifikat beruvchi sertifikatlash sessiyalarini o‘tkazish huquqi tasdiqlangani\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Полное подтверждение по всем уровням\\r\\n\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Частичное подтверждение, не по всем уровням \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768139,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":4.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Состав асессоров по системе IPMA \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Подтвержденный состав асессоров по системе IPMA 4-L-C для оценки компетентности кандидатов на уровни IPMA-D, IPMA-C и IPMA-B/IPMA-D, IPMA-C va IPMA-B darajalariga nomzodlarning malakasini baholash uchun IPMA 4-L-C tizimi bo‘yicha tasdiqlangan asessorlar tarkibi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Полное подтверждение по всем уровням\\r\\n\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Частичное подтверждение, не по всем уровням\\r\\n\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768140,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Опыт проведения программ подготовки \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Опыт проведения программ подготовки к международной сертификации специалистов по управлению проектами по системе IPMA./IPMA tizimi asosida loyihalarni boshqarish bo‘yicha mutaxassislarni xalqaro sertifikatlashga tayyorlash dasturlarini o‘tkazish bo‘yicha kamida 5 yillik tajriba.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"5 и более лет\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"4 года\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"3 года\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"2 года\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"до года\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768141,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Наличие сертификатов\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":7.5,\"Description\":\"Наличие у руководителя команды действующего сертификата уровня IPMA-A, у членов команды - преподавателей и специалистов действующего сертификата с минимумом уровня IPMA-D/Jamoa rahbarida IPMA-A darajasidagi amaldagi sertifikat, jamoa a’zolari — o‘qituvchilar va mutaxassislarda esa kamida IPMA-D darajasidagi amaldagi sertifikat borligi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Наличие всех сертификатов.\\r\\n\\r\\nЖелательны степени кандидата наук и \\r\\nсертификаты по зеленому управлению проектами Green Project Management или аналогичному\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Руководитель ниже IPMA-A, команда с сертификатами \"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Руководитель ниже IPMA-A, команда без сертификатов \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768142,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Наличие штата/ заключенных соглашений\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Наличие у организации заключенных соглашений / договоров на оказание услуг по подготовке к сертификации с преподавателями, имеющими действующие сертификаты IPMA/Tashkilotda amaldagi IPMA sertifikatlariga ega bo‘lgan o‘qituvchilar bilan sertifikatlashga tayyorlash bo‘yicha xizmatlar ko‘rsatishga oid tuzilgan bitimlar/shartnomalarning mavjudligi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"При наличии в штате или наличии всех соглашений\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"При отсутствии в штате и наличии части соглашений\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"При отсутствии в штате и отсутствии соглашений\\r\\n\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1107237,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107238,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107239,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107240,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107241,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107242,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107243,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 7,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107244,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 8,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107245,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 9,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1107237,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107238,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107239,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107240,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107241,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107242,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107243,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":7,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107244,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":8,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107245,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":9,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 4903,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Ташкентская область",
+ "delivering_district_name": "Алмалык",
+ "delivering_address": "ул. Амира Темура, 53",
+ "delivering_phone": "501902573",
+ "addon_description": "В отборе могут принять участие как отечественные производители (поставщики), так и иностранные производители (поставщики), которым законодательством Республики Узбекистан не запрещено участвовать в осуществлении аналогичных поставок в Узбекистан, выполнившие предъявляемые условия для участия в них, имеющие опыт поставки соответствующего товара, закупаемого на конкурентной основе/Tanlovda mahalliy ishlab chiqaruvchilar (yetkazib beruvchilar) bilan bir qatorda, O‘zbekiston Respublikasi qonunchiligi bilan O‘zbekistonga shu kabi mahsulotlarni yetkazib berishda ishtirok etishi taqiqlanmagan, tanlovda qatnashish uchun qo‘yilgan shartlarni bajargan hamda raqobat asosida xarid qilinadigan tegishli tovarni yetkazib berish tajribasiga ega bo‘lgan xorijiy ishlab chiqaruvchilar (yetkazib beruvchilar) ham ishtirok etishlari mumkin",
+ "technical_description": "Техническое задание/Texnik topshiriq",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 523513,
+ "customer_region_name": "Toshkent viloyati",
+ "customer_district_name": "Toshkent viloyati",
+ "customer_street": "ул. Амира Темура, 53",
+ "customer_zip": "100090",
+ "min_point": 25,
+ "financing_source": "собственные средства",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 570244000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080127,
+     "converted_price": 145084000.0,
+     "converted_cost": 145084000.0
+    },
+    {
+     "lot_detail_id": 2080128,
+     "converted_price": 425160000.0,
+     "converted_cost": 425160000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 47427.02,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080127,
+     "converted_price": 12066.59,
+     "converted_cost": 12066.59
+    },
+    {
+     "lot_detail_id": 2080128,
+     "converted_price": 35360.42,
+     "converted_cost": 35360.42
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 43080.23,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080127,
+     "converted_price": 10960.66,
+     "converted_cost": 10960.66
+    },
+    {
+     "lot_detail_id": 2080128,
+     "converted_price": 32119.56,
+     "converted_cost": 32119.56
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 3918125.6,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080127,
+     "converted_price": 996866.84,
+     "converted_cost": 996866.84
+    },
+    {
+     "lot_detail_id": 2080128,
+     "converted_price": 2921258.76,
+     "converted_cost": 2921258.76
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

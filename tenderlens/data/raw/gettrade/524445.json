@@ -1,0 +1,791 @@
+{
+ "id": 524445,
+ "display_no": "26110012524445",
+ "start_date": "2026-11-12T14:52:29",
+ "end_date": "2026-11-19T14:52:29",
+ "clarific_date": "2026-11-19T14:52:29",
+ "start_cost": 332000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2081735,\"Order_Num\":1,\"Category_Id\":125805,\"Plangraph_Detail_Id\":24270062,\"Product_Id\":647862,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":83000000,\"Cost\":83000000,\"Description\":\"Жиззах политехника институти академик лицейи ўқувчилари учун аутсорсинг хизматини ташкил этиш\",\"Expenditure_Id\":44252300,\"Expenditure_Name\":\"Продуктов питания\",\"Plan_Id\":9965481,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"56.29.19.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Умумий овқатланиш хизматлари\",\"Product_Name\":\"Озиқ-овқат тайёрлаш аутсорсинги хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":2,\"Pnum\":0}]},{\"Id\":2081736,\"Order_Num\":2,\"Category_Id\":125805,\"Plangraph_Detail_Id\":24270065,\"Product_Id\":647862,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":83000000,\"Cost\":83000000,\"Description\":\"Жиззах политехника институти академик лицейи ўқувчилари учун аутсорсинг хизматини ташкил этиш\",\"Expenditure_Id\":44252300,\"Expenditure_Name\":\"Продуктов питания\",\"Plan_Id\":9965481,\"Plan_Position_Id\":0,\"Month_Id\":12,\"Month_Name\":\"Dekabr\",\"Product_Code\":\"56.29.19.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Умумий овқатланиш хизматлари\",\"Product_Name\":\"Озиқ-овқат тайёрлаш аутсорсинги хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":2,\"Pnum\":0}]},{\"Id\":2081737,\"Order_Num\":3,\"Category_Id\":125805,\"Plangraph_Detail_Id\":24270064,\"Product_Id\":647862,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":83000000,\"Cost\":83000000,\"Description\":\"Жиззах политехника институти академик лицейи ўқувчилари учун аутсорсинг хизматини ташкил этиш\",\"Expenditure_Id\":44252300,\"Expenditure_Name\":\"Продуктов питания\",\"Plan_Id\":9965481,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"56.29.19.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Умумий овқатланиш хизматлари\",\"Product_Name\":\"Озиқ-овқат тайёрлаш аутсорсинги хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":2,\"Pnum\":0}]},{\"Id\":2081738,\"Order_Num\":4,\"Category_Id\":125805,\"Plangraph_Detail_Id\":24270063,\"Product_Id\":647862,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":83000000,\"Cost\":83000000,\"Description\":\"Жиззах политехника институти академик лицейи ўқувчилари учун аутсорсинг хизматини ташкил этиш\",\"Expenditure_Id\":44252300,\"Expenditure_Name\":\"Продуктов питания\",\"Plan_Id\":9965481,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"56.29.19.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Умумий овқатланиш хизматлари\",\"Product_Name\":\"Озиқ-овқат тайёрлаш аутсорсинги хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":2,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 5,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"рахбар\",\"Fullname\":\"Баракаев Лазизхон\"}]",
+ "rest_time": 143341,
+ "customer_name": "Жиззах политехника институти академик лицейи",
+ "customer_tin": "202566626",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611090916099792.pdf",
+ "tech_file_path": "/files/2026/11/9/202611090916099792.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 1316716.0,
+ "tech_doc_file_name": "20261511062424524445.pdf",
+ "tech_doc_file_path": "files/2026/11/15/20261511062424524445.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 264967.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610284852864140.docx",
+ "contract_proform_file_path": "/files/2026/10/28/202610284852864140.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 43955.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 16,
+ "nonauthorized_count": 2153,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2770020,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "ПДФ шаклда",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Танлов иштирокчисининг техникалари рўйхати, майда механизмлар рўйхати, озиқ овқат махсулотларининг сифат ва гигиена сертификати мавжудлиги, буюртмачи манзилига якин бўлган худудда тез айнувчи махсулотларни сифатли сақлаш учун махсус ускуналар (музлатгичлар) билан жихозланган омбори мавжудлиги ва ускуналар рўйхати талаб этилади. (тасдисловчи фотосуратлар, кадастр маьлумотлари ва тех пасспортлар, ПДФ шаклда \"бундай маълумоти ёқ иштирокчи ўйиндан четлаштирилади\")",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Талабгор ташкилот тақдим етган ҳужжат сўралган 4 та маълумотномадан 4 тасига тўлиқ жавоб берса "
+    },
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Талабгор ташкилот тақдим етган ҳужжат сўралган 4 та маълумотномадан 1 тасига тўлиқ жавоб берса "
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Талабгор ташкилот тақдим етган ҳужжат сўралган 4 та маълумотномадан 2 тасига тўлиқ жавоб берса "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770021,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Махсулотларнинг сертификатлари ПДП шаклда",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Озиқ овқат махсулотларининг сифат ва гигиена сертификати мавжудлиги\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Талабгор ташкилот махсулотарнинг сифат сертификати ва гигиеник сертификатларини тўлиқ тақдим этса "
+    },
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "Талабгор ташкилот махсулотарнинг сифат сертификати ва гигиеник сертификатларини қисман тақдим этса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770022,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Бош ошпаз ва ишчи ходимлар пўйхати (ПДП шаклда)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Ташкилот ишчи ходим ва ошпазлар руйхати, Бош ошпаз маълумоти - мутахасис бўлиши, ўқувчилари билан минимал таълабда мулоқот қила оладиган даражада бўлиши учун камида ушбу тоифадаги ташкилотда иш стажига эга бўлиши шарт.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Бош ошпаз айнан шунга ўхшаш ташкилотлардаги камида икки йиллик иш тажрибаси маьлумоти, бош ошпазнинг ва ёрдамчи ошпазларнинг дипломи ва шу каби маълумотлар тўлиқ мавжуд бўлса"
+    },
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Қисман тақдим этилса ёки бош ошпаз айнан шунга ўхшаш ташкилотлардаги камида икки йиллик иш тажрибасига ега бўлмаси "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770023,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Иштирокчи маълумоти (ПДП шаклда)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Танлов иштирокчилари манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги, иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши шу жумладан, арбитраж муносабатлари мавжуд эмаслиги тўғрисидв кафолат хати ва танлов иштирокчиси тўловга қобилиятлилиги тўғрисида давлат активлари маълумоти - (малумот эьлон жойлаштирилган санадан кейинги сана билан бўлиши шарт).",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Сўралган барча маълумотлар тўлиқ тақдим этилса"
+    },
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Талабгор ташкилот тақдим етган ҳужжат сўралган 5 та маълумотномадан 1 тасига тўлиқ жавоб берса "
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Талабгор ташкилот тақдим етган ҳужжат сўралган 5 та маълумотномадан 2 тасига тўлиқ жавоб берса "
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "Талабгор ташкилот тақдим етган ҳужжат сўралган 5 та маълумотномадан 3 тасига тўлиқ жавоб берса "
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Талабгор ташкилот тақдим етган ҳужжат сўралган 5 та маълумотномадан 4 тасига тўлиқ жавоб берса "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770024,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Таомнома (ПДП шаклда)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Ўн кунлик таомнома ва уларга технологик харита таълим муассалари тарбияланувчилари учун кундалик озиқ овқат махсулотлари нормаси асосида колорияси оқсил ёғи углеводлар ва микро нутриентлар тақсимланиши хилма-хиллиги (мезонга тўлиқ жавоб бериши керак чунки талабдаги витаминлар тарбияланувчилар истеъмоли учун шарт)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Танлов иштирокчиси таомнома ва уларга технологик харита маьлумотларини  тўлиқ тақдим этилса"
+    },
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Танлов иштирокчиси таомнома ва уларга технологик харита маьлумотларини қисман тақдим этилса "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770025,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Буюртмачи ташкилот раҳбари номига кафолат хати  (ПДП шаклда)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Танлов иштирокчиси хизматарни белгиланган муддатда бажарилишини таьминлаш учун кафолат хати ва коррупция холатларига йул  кўйилмаслиги тўгрисида алохида алохида буюртмачи ташкилот раҳбари номига кафолат хати такдим килиши шарт.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Иккита кафолат хатини хам буюртмачи ташкилот раҳбари номига тўлиқ тақдим этса "
+    },
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Фақат битта кафолат хатини тақдим этса ёки буюртмачи ташкилот раҳбари номига берилмаса "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770026,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Иштирокчи маълумоти (ПДФ шаклда)(Zarur)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": " (Тадбиркорлик субектларини руйхатга олиш реестрдан кўчирма, Устав, ИФУТ коди, рахбар пасспорт нусхаси, буйруғи,  тулик банк реквизитлари ҚҚС гувохномаси (агар бўлса) ва шу каби хужжатлар)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Талабгор ташкилот сўралган барча маълутонларни тўғри ва тўлиқ\r\nтақдим этса \r\n"
+    },
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса "
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Талабгор ташкилот сўралган маълутонларни қисман 20 % тақдим этса"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Талабгор ташкилот сўралган маълутонларни қисман 40 % тақдим этса"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "Талабгор ташкилот сўралган маълутонларни қисман 60 % тақдим этса"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Талабгор ташкилот сўралган маълутонларни қисман 80 % тақдим этса "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770027,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "ПДФ шаклда",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Танлов иштирокчисининг мажбурий тўловларан тақиқлари ва қарздорлиги мавжуд эмаслигини ҳавида маълумотномасини танлов эълон қилинган санадан кейинги сана билан тақдим этиши шарт. Танлов иштирокчисининг хизмат кўрсатувчи\r\nбанки томонидан К2 ва бошқа қарздорликлари мавжуд эмаслиги\r\nтўғрисида маълумоннома, танлов эълон қилинган санадан кейинги сана билан\r\nтақдим этиши шарт.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "МИБ ва банкдан\r\nмаълумотларни хаммасини тўлиқ ва эълон жойлаштирилган санадан кейинги сана билан\r\nтақдим этса \r\n"
+    },
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб\r\nучун мос бўлмаган маълумотларни тақдим этса"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Талабгор ташкилот тақдим етган ҳужжат сўралган 3 та маълумотномадан 1 тасига тўлиқ жавоб берса \r\n"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Талабгор ташкилот тақди етган ҳужжат сўралган 3 та\r\nмаълумотномадан 2 тасига тўлиқ жавоб берса \r\n"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2770020,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"ПДФ шаклда\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Танлов иштирокчисининг техникалари рўйхати, майда механизмлар рўйхати, озиқ овқат махсулотларининг сифат ва гигиена сертификати мавжудлиги, буюртмачи манзилига якин бўлган худудда тез айнувчи махсулотларни сифатли сақлаш учун махсус ускуналар (музлатгичлар) билан жихозланган омбори мавжудлиги ва ускуналар рўйхати талаб этилади. (тасдисловчи фотосуратлар, кадастр маьлумотлари ва тех пасспортлар, ПДФ шаклда \\\"бундай маълумоти ёқ иштирокчи ўйиндан четлаштирилади\\\")\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Талабгор ташкилот тақдим етган ҳужжат сўралган 4 та маълумотномадан 4 тасига тўлиқ жавоб берса \"},{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Талабгор ташкилот тақдим етган ҳужжат сўралган 4 та маълумотномадан 1 тасига тўлиқ жавоб берса \"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Талабгор ташкилот тақдим етган ҳужжат сўралган 4 та маълумотномадан 2 тасига тўлиқ жавоб берса \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770021,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Махсулотларнинг сертификатлари ПДП шаклда\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Озиқ овқат махсулотларининг сифат ва гигиена сертификати мавжудлиги\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Талабгор ташкилот махсулотарнинг сифат сертификати ва гигиеник сертификатларини тўлиқ тақдим этса \"},{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"Талабгор ташкилот махсулотарнинг сифат сертификати ва гигиеник сертификатларини қисман тақдим этса\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770022,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Бош ошпаз ва ишчи ходимлар пўйхати (ПДП шаклда)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Ташкилот ишчи ходим ва ошпазлар руйхати, Бош ошпаз маълумоти - мутахасис бўлиши, ўқувчилари билан минимал таълабда мулоқот қила оладиган даражада бўлиши учун камида ушбу тоифадаги ташкилотда иш стажига эга бўлиши шарт.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Бош ошпаз айнан шунга ўхшаш ташкилотлардаги камида икки йиллик иш тажрибаси маьлумоти, бош ошпазнинг ва ёрдамчи ошпазларнинг дипломи ва шу каби маълумотлар тўлиқ мавжуд бўлса\"},{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Қисман тақдим этилса ёки бош ошпаз айнан шунга ўхшаш ташкилотлардаги камида икки йиллик иш тажрибасига ега бўлмаси \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770023,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Иштирокчи маълумоти (ПДП шаклда)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Танлов иштирокчилари манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги, иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши шу жумладан, арбитраж муносабатлари мавжуд эмаслиги тўғрисидв кафолат хати ва танлов иштирокчиси тўловга қобилиятлилиги тўғрисида давлат активлари маълумоти - (малумот эьлон жойлаштирилган санадан кейинги сана билан бўлиши шарт).\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Сўралган барча маълумотлар тўлиқ тақдим этилса\"},{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Талабгор ташкилот тақдим етган ҳужжат сўралган 5 та маълумотномадан 1 тасига тўлиқ жавоб берса \"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Талабгор ташкилот тақдим етган ҳужжат сўралган 5 та маълумотномадан 2 тасига тўлиқ жавоб берса \"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"Талабгор ташкилот тақдим етган ҳужжат сўралган 5 та маълумотномадан 3 тасига тўлиқ жавоб берса \"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Талабгор ташкилот тақдим етган ҳужжат сўралган 5 та маълумотномадан 4 тасига тўлиқ жавоб берса \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770024,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Таомнома (ПДП шаклда)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Ўн кунлик таомнома ва уларга технологик харита таълим муассалари тарбияланувчилари учун кундалик озиқ овқат махсулотлари нормаси асосида колорияси оқсил ёғи углеводлар ва микро нутриентлар тақсимланиши хилма-хиллиги (мезонга тўлиқ жавоб бериши керак чунки талабдаги витаминлар тарбияланувчилар истеъмоли учун шарт)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Танлов иштирокчиси таомнома ва уларга технологик харита маьлумотларини  тўлиқ тақдим этилса\"},{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Танлов иштирокчиси таомнома ва уларга технологик харита маьлумотларини қисман тақдим этилса \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770025,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Буюртмачи ташкилот раҳбари номига кафолат хати  (ПДП шаклда)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Танлов иштирокчиси хизматарни белгиланган муддатда бажарилишини таьминлаш учун кафолат хати ва коррупция холатларига йул  кўйилмаслиги тўгрисида алохида алохида буюртмачи ташкилот раҳбари номига кафолат хати такдим килиши шарт.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Иккита кафолат хатини хам буюртмачи ташкилот раҳбари номига тўлиқ тақдим этса \"},{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Фақат битта кафолат хатини тақдим этса ёки буюртмачи ташкилот раҳбари номига берилмаса \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770026,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Иштирокчи маълумоти (ПДФ шаклда)(Zarur)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\" (Тадбиркорлик субектларини руйхатга олиш реестрдан кўчирма, Устав, ИФУТ коди, рахбар пасспорт нусхаси, буйруғи,  тулик банк реквизитлари ҚҚС гувохномаси (агар бўлса) ва шу каби хужжатлар)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Талабгор ташкилот сўралган барча маълутонларни тўғри ва тўлиқ\\r\\nтақдим этса \\r\\n\"},{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб учун мос бўлмаган маълумотларни тақдим этса \"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Талабгор ташкилот сўралган маълутонларни қисман 20 % тақдим этса\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Талабгор ташкилот сўралган маълутонларни қисман 40 % тақдим этса\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"Талабгор ташкилот сўралган маълутонларни қисман 60 % тақдим этса\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Талабгор ташкилот сўралган маълутонларни қисман 80 % тақдим этса \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770027,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"ПДФ шаклда\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Танлов иштирокчисининг мажбурий тўловларан тақиқлари ва қарздорлиги мавжуд эмаслигини ҳавида маълумотномасини танлов эълон қилинган санадан кейинги сана билан тақдим этиши шарт. Танлов иштирокчисининг хизмат кўрсатувчи\\r\\nбанки томонидан К2 ва бошқа қарздорликлари мавжуд эмаслиги\\r\\nтўғрисида маълумоннома, танлов эълон қилинган санадан кейинги сана билан\\r\\nтақдим этиши шарт.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"МИБ ва банкдан\\r\\nмаълумотларни хаммасини тўлиқ ва эълон жойлаштирилган санадан кейинги сана билан\\r\\nтақдим этса \\r\\n\"},{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Ҳеч қандай ҳужжат тақдим етилмаса ёки айнан ушбу талаб\\r\\nучун мос бўлмаган маълумотларни тақдим этса\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Талабгор ташкилот тақдим етган ҳужжат сўралган 3 та маълумотномадан 1 тасига тўлиқ жавоб берса \\r\\n\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Талабгор ташкилот тақди етган ҳужжат сўралган 3 та\\r\\nмаълумотномадан 2 тасига тўлиқ жавоб берса \\r\\n\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1109535,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109536,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109537,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109538,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109539,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109540,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109541,
+   "name": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.",
+   "order_num": 7,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1109535,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109536,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109537,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109538,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109539,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109540,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109541,\"Name\":\"Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.\",\"Order_Num\":7,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 561839,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Джизакская область",
+ "delivering_district_name": "Джизак",
+ "delivering_address": "Jizzax shaxar Obod mahalla I.Karimov ko`chasi 24-uy 4A xonadon ",
+ "delivering_phone": "995530427",
+ "addon_description": "Жиззах политехника институти академик лицейини иссиқ овқат билан таминлаш хизмати\r\n\r\n",
+ "technical_description": "Texnik topshiriq va tanlov hujjatlari",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 524257,
+ "customer_region_name": "Jizzax viloyati",
+ "customer_district_name": "Jizzax viloyati",
+ "customer_street": "Жиззах шахар, И,Каримой кучаси",
+ "customer_zip": "00000",
+ "min_point": 60,
+ "financing_source": "Буджет маблағлари ҳисобидан\r\n\r\n",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 332000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081735,
+     "converted_price": 83000000.0,
+     "converted_cost": 83000000.0
+    },
+    {
+     "lot_detail_id": 2081736,
+     "converted_price": 83000000.0,
+     "converted_cost": 83000000.0
+    },
+    {
+     "lot_detail_id": 2081737,
+     "converted_price": 83000000.0,
+     "converted_cost": 83000000.0
+    },
+    {
+     "lot_detail_id": 2081738,
+     "converted_price": 83000000.0,
+     "converted_cost": 83000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 25081.6,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081735,
+     "converted_price": 6270.4,
+     "converted_cost": 6270.4
+    },
+    {
+     "lot_detail_id": 2081736,
+     "converted_price": 6270.4,
+     "converted_cost": 6270.4
+    },
+    {
+     "lot_detail_id": 2081737,
+     "converted_price": 6270.4,
+     "converted_cost": 6270.4
+    },
+    {
+     "lot_detail_id": 2081738,
+     "converted_price": 6270.4,
+     "converted_cost": 6270.4
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 2281159.81,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081735,
+     "converted_price": 570289.95,
+     "converted_cost": 570289.95
+    },
+    {
+     "lot_detail_id": 2081736,
+     "converted_price": 570289.95,
+     "converted_cost": 570289.95
+    },
+    {
+     "lot_detail_id": 2081737,
+     "converted_price": 570289.95,
+     "converted_cost": 570289.95
+    },
+    {
+     "lot_detail_id": 2081738,
+     "converted_price": 570289.95,
+     "converted_cost": 570289.95
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 27612.33,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081735,
+     "converted_price": 6903.08,
+     "converted_cost": 6903.08
+    },
+    {
+     "lot_detail_id": 2081736,
+     "converted_price": 6903.08,
+     "converted_cost": 6903.08
+    },
+    {
+     "lot_detail_id": 2081737,
+     "converted_price": 6903.08,
+     "converted_cost": 6903.08
+    },
+    {
+     "lot_detail_id": 2081738,
+     "converted_price": 6903.08,
+     "converted_cost": 6903.08
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

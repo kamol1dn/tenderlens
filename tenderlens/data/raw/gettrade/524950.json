@@ -1,0 +1,804 @@
+{
+ "id": 524950,
+ "display_no": "26120012524950",
+ "start_date": "2026-11-17T09:02:01",
+ "end_date": "2026-11-24T09:02:01",
+ "clarific_date": "2026-11-24T09:02:01",
+ "start_cost": 190000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2084209,\"Order_Num\":1,\"Category_Id\":127859,\"Plangraph_Detail_Id\":24273193,\"Product_Id\":719999,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":190000000,\"Cost\":190000000,\"Description\":\"Услуга по организации и проведению мероприятий\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9967156,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"93.29.29.000-00002\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Спорт билан боғлиқ бўлган хизматлар, кўнгил очар ва дам олиш бўйича хизматлар\",\"Product_Name\":\"Тадбирларни ташкиллаштириш ва ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":1,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 60,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Kotib\",\"Fullname\":\"ADASHBAYEVA DONO AXMAD QIZI\"}]",
+ "rest_time": 554187,
+ "customer_name": "\"UZAVTOMOTOSERVIS\" MCHJ",
+ "customer_tin": "300944193",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611114646754210.pdf",
+ "tech_file_path": "/files/2026/11/11/202611114646754210.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 9266106.0,
+ "tech_doc_file_name": "20261711062434524950.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711062434524950.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 245628.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611114647219554.docx",
+ "contract_proform_file_path": "/files/2026/11/11/202611114647219554.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 22954.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 3,
+ "nonauthorized_count": 320,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2772765,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 4.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tanlov predmetiga o‘xshash tovarlar/xizmatlarni yetkazib berish tajribasi ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.38,
+   "description": "Tanlov predmetiga o‘xshash tovarlar/xizmatlarni yetkazib berish tajribasi ",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772766,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+   "min_score": 0.0,
+   "max_score": 4.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "ilova",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.38,
+   "description": "Texnik taklif ",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772767,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+   "min_score": 0.0,
+   "max_score": 4.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Texnik jihozlanganlik ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.38,
+   "description": "Texnik jihozlanganlik ",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772768,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларда суғурталашга қўйиладиган талаблар ",
+   "min_score": 0.0,
+   "max_score": 4.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "ilova",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.38,
+   "description": "Ishtirokchining xodimlari va ularning malakasi to‘g‘risidagi ma’lumotlar ",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772769,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 4.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Balans hamda moliyaviy natijalar 2023, 2024 va 2025 yillarФин отчеты",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.38,
+   "description": "Ishtirokchining moliyaviy holati\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772770,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Требуется файл",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.85,
+   "description": "Ishtirokchi to‘g‘risida umumiy ma’lumot",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772771,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Требуется файл",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.85,
+   "description": "Shartnoma tuzish vakolatiga egalik (yuridik shaxsning ro‘yxatdan o‘tganligi to‘g‘risidagi guvohnoma)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772772,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Заявление на участие",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.85,
+   "description": "Ishtirok etish uchun ariza",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772773,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Kafolat xati",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.85,
+   "description": "Kafolat xati",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772774,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Ma'lumotnova my.soliq.uz saytidan",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.85,
+   "description": "Soliqlar bo‘yicha muddati o‘tgan qarzdorlik mavjud emasligi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772775,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "fayl to'ldirish",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.85,
+   "description": "Korrupsiyaga qarshi kurashish to‘g‘risidagi ariza",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Ilova",
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2772765,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":4.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tanlov predmetiga o‘xshash tovarlar/xizmatlarni yetkazib berish tajribasi \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.38,\"Description\":\"Tanlov predmetiga o‘xshash tovarlar/xizmatlarni yetkazib berish tajribasi \",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772766,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари\",\"Min_Score\":0.0,\"Max_Score\":4.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"ilova\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.38,\"Description\":\"Texnik taklif \",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772767,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари\",\"Min_Score\":0.0,\"Max_Score\":4.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Texnik jihozlanganlik \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.38,\"Description\":\"Texnik jihozlanganlik \",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772768,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларда суғурталашга қўйиладиган талаблар \",\"Min_Score\":0.0,\"Max_Score\":4.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"ilova\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.38,\"Description\":\"Ishtirokchining xodimlari va ularning malakasi to‘g‘risidagi ma’lumotlar \",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772769,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":4.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Balans hamda moliyaviy natijalar 2023, 2024 va 2025 yillarФин отчеты\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.38,\"Description\":\"Ishtirokchining moliyaviy holati\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772770,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Требуется файл\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.85,\"Description\":\"Ishtirokchi to‘g‘risida umumiy ma’lumot\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772771,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Требуется файл\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.85,\"Description\":\"Shartnoma tuzish vakolatiga egalik (yuridik shaxsning ro‘yxatdan o‘tganligi to‘g‘risidagi guvohnoma)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772772,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Заявление на участие\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.85,\"Description\":\"Ishtirok etish uchun ariza\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772773,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Kafolat xati\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.85,\"Description\":\"Kafolat xati\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772774,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Ma'lumotnova my.soliq.uz saytidan\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.85,\"Description\":\"Soliqlar bo‘yicha muddati o‘tgan qarzdorlik mavjud emasligi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772775,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"fayl to'ldirish\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.85,\"Description\":\"Korrupsiyaga qarshi kurashish to‘g‘risidagi ariza\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Ilova\",\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1113123,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113124,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113125,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113126,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113127,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113128,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113129,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 7,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1113123,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113124,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113125,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113126,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113127,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113128,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113129,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":7,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 118788,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Чиланзарский район",
+ "delivering_address": "Toshkent shahri, Chilonzor tumani, Tirsakobod MFY, Gavxar ko'chasi, 151a-uy",
+ "delivering_phone": "977013557",
+ "addon_description": "Ovqatlanish xizmatini tashkil etish va tantanali tadbirni o‘tkazish bo‘yicha ijrochini tanlash",
+ "technical_description": "Техник шартлар",
+ "tech_coef": 30.0,
+ "cost_coef": 70.0,
+ "old_id": 524864,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Tirsakobod MFY, Gavxar ko'chasi, 151a-uy",
+ "customer_zip": "100090",
+ "min_point": 11,
+ "financing_source": "Xo'jalik mablag'lari xisobidan",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 15802.24,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084209,
+     "converted_price": 15802.24,
+     "converted_cost": 15802.24
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 14353.93,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084209,
+     "converted_price": 14353.93,
+     "converted_cost": 14353.93
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 1305483.02,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084209,
+     "converted_price": 1305483.02,
+     "converted_cost": 1305483.02
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 190000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084209,
+     "converted_price": 190000000.0,
+     "converted_cost": 190000000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

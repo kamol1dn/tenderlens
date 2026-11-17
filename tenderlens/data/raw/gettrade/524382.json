@@ -1,0 +1,312 @@
+{
+ "id": 524382,
+ "display_no": "26120012524382",
+ "start_date": "2026-11-12T10:32:21",
+ "end_date": "2026-11-19T10:32:21",
+ "clarific_date": "2026-11-19T10:32:21",
+ "start_cost": 140000000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2081491,\"Order_Num\":1,\"Category_Id\":127309,\"Plangraph_Detail_Id\":24189148,\"Product_Id\":654371,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":140000000,\"Cost\":140000000,\"Description\":\"Газли МГКБошқармаси ҳудудида ҳамда бошқарма тасарруфидаги объектлардаги ёнғин сигнализацияси тизимларини таъмирлаш .Пудратчи барча сарфланадиган зарур материалларни  ва ускуналарни буюртмачининг техник талабларига тўлиқ мувофиқ равишда тақдим етиши шарт.Ўрнатилган хар бир  материаллар ва ускуналар учун 3 (уч) йил давомида бепул сервис хизмати кўрсатилиши шарт.Сервис маркази буюртмачи томонидан ариза берилган вақтдан бошлаб, 4 соат ичида мутахассисларни обектга етказиб келиши шарт .Хар қандай носозлик ёки ишдан чиққан ускуна ариза тушган пайтдан бошлаб 24 соат ичида пудратчи томонид бепул таъмирланиши ёки янгисига алмаштирилиши шарт.\\r\\n1.Бошқарув блоки ППСУ-20\\t-4 дона\\r\\n2.Бошқарув блоки ППСУ-10 - 8 дона\\r\\n3.Бошқарув блоки ППСУ-4 -  4 дона\\r\\n4.Бошқарув блоки ППСУ-2-  4 дона\\r\\n5.Монтаж проводи ТРБН 2х0,9 оқ - 3 000 метр\\r\\n6.Кабель канали 10х15 - 1 500 метр\\r\\n7.Уланиш сими (полевой провод) -  1 000 метр\\r\\n8.Овозли ва ёруғлик хабар берувчи СУЗ SL-100 - 21  дона\\r\\n9.утун сезувчи (димовой извещатель) РУБЕЖ ИП \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9923607,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"80.20.10.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Хавфсизликни таъминлаш ва тергов бўйича хизматлар\",\"Product_Name\":\"Автоматик ёнғин сигнализациясига техник хизмат кўрсатиш\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 10,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Mehnatni muhofaza qilish va sanoat xavfsizligi bo‘limi bosh muhandisi\",\"Fullname\":\"Imomov I\"}]",
+ "rest_time": 127742,
+ "customer_name": "\"O`ZTRANSGAZ\" AJ (филиал \"Ўзтрансгаз\" АЖ Газли магистрал газ кувурлари бошкармаси)",
+ "customer_tin": "200626188",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611092310019623.PDF",
+ "tech_file_path": "/files/2026/11/9/202611092310019623.PDF",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 3972558.0,
+ "tech_doc_file_name": "20261711172454524382.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711172454524382.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 233917.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610285252313497.docx",
+ "contract_proform_file_path": "/files/2026/10/28/202610285252313497.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 47905.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 18,
+ "nonauthorized_count": 3400,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2769659,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Техник шакллар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 100.0,
+   "description": "Участники обязаны приложить подтверждающие документы по каждому требованию сравнительной таблицы (согласно технического задания). Иштирокчилар таққослаш жадвалидаги (техник топшириққа мувофиқ) ҳар бир талаблари бўйича тасдиқловчи ҳужжатларни илова қилишлари шарт.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2769659,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Техник шакллар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":100.0,\"Description\":\"Участники обязаны приложить подтверждающие документы по каждому требованию сравнительной таблицы (согласно технического задания). Иштирокчилар таққослаш жадвалидаги (техник топшириққа мувофиқ) ҳар бир талаблари бўйича тасдиқловчи ҳужжатларни илова қилишлари шарт.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1109085,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": "Участник должен предоставить информацию о наличие технических, финансовых, материальных, кадровых ресурсов или других ресурсов на фирменном бланке участнике в произвольной форме. Иштирокчи техник, молиявий, моддий, кадрлар ёки бошқа ресурслар мавжудлиги тўғрисидаги маълумотни иштирокчининг фирма бланкида ихтиёрий шаклда тақдим этиши шарт.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109086,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": "Участник должен прикрепить Устав, Гувохнома (свидетельство о гос. регистрации), приказ о назначении руководителя и копия паспорта руководителя. Иштирокчи қуйидаги ҳужжатларни илова қилиши шарт: Низом, Гувоҳнома , раҳбарни тайинлаш тўғрисидаги буйруқ ҳамда раҳбар паспорти нусхаси",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109087,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": "Участник должен прикрепить справку об отсутствии налоговой задолженности от Налогового органа с QR-кодом. Иштирокчи Солиқ органи томонидан берилган, QR-кодга эга бўлган солиқ қарздорлиги мавжуд эмаслиги тўғрисидаги маълумотномани илова қилиши шарт",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109088,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "Ishtirokchi biriktirilgan hujjatni ilova qilishi shart. (4-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi) Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 4).",
+   "file_path": "tender/user-files/2026/11/9/6510baf0-9bf8-44a9-b66e-f7e578dd1c7d.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109089,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "Ishtirokchi https: //xarid.uzex.uz/info/unfair-executor saytdan Skrinshot biriktirish kerak (norezidentlar uchun – vakolatli organdan hujjat/saytidan skrinshot/ishtirokchining kafolat xati) Участник должен приложить скриншот с сайта https://xarid.uzex.uz/info/unfair-executor (для нерезидентов — документ от уполномоченного органа / скриншот с официального сайта / гарантийное письмо участника).",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109090,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": "Ishtirokchi https://mib.uz/6EG6yY_VtJY3GfyqeN3BgFH0LKyhTtwWB5sLiKaXTvw8F53Ng-Z5Tn9X3rQ0en46WpTw4n4hSGkRPWKldCGhhTtWK_8Uyzv7-WQnxKs0Ms4f2-uFeT8uYA/6EG17/Y_Vef saytdan Skrinshot biriktirish kerak (norezidentlar uchun – vakolatli organdan hujjat/saytidan skrinshot/ishtirokchining kafolat xati). Участник должен приложить скриншот с сайта https://mib.uz/6EG6yY_VtJY3GfyqeN3BgFH0LKyhTtwWB5sLiKaXTvw8F53Ng-Z5Tn9X3rQ0en46WpTw4n4hSGkRPWKldCGhhTtWK_8Uyzv7-WQnxKs0Ms4f2-uFeT8uYA/6EG17/Y_Vef (для нерезидентов — документ от уполномоченного органа / скриншот с официального сайта / гарантийное письмо участника).",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109091,
+   "name": "Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги",
+   "order_num": 7,
+   "description": "Ishtirokchi ilovaga moliyaviy natijalar bo‘yicha hisobotlar (balans hisobotlari) nusxalarini ilova qilishi shart, ular Soliq xizmati (yoki chet-el yuridik shaxslari uchun boshqa vakolatli organlar, shu jumladan hisobotlarni audit hulosasi) tomonidan elektron shaklda qabul qilinganini tasdiqlovchi hujjat bilan birga bo‘lishi lozim. (Ishtirokchini baholash usuli ilova ichida bayon etilgan, 7-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi) Участник обязан приложить копии отчетов о финансовых результатах (балансовые отчеты), которые должны сопровождаться документом, подтверждающим их принятие в электронной форме Налоговой службой (или иным уполномоченным органом для иностранных юридических лиц, включая аудиторское заключение по отчетности). (Метод оценки участника изложен в приложении и оформляется в соответствии с формой, указанной в требовании № 7)",
+   "file_path": "tender/user-files/2026/11/9/382ba2be-9438-47fb-a07e-447b4927464d.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109092,
+   "name": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.",
+   "order_num": 8,
+   "description": "Ishtirokchi biriktirilgan hujjatni to‘ldirib ilova qilishi shart (8-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан заполнить и приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 8).",
+   "file_path": "tender/user-files/2026/11/9/4435bda0-e735-4035-b585-0ded0d553f15.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109093,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 9,
+   "description": "Ishtirokchi biriktirilgan hujjatni ilova qilishi shart (10-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 10).",
+   "file_path": "tender/user-files/2026/11/9/7fc35cd8-de6e-40a8-a697-00a36bdf8938.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1109085,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":\"Участник должен предоставить информацию о наличие технических, финансовых, материальных, кадровых ресурсов или других ресурсов на фирменном бланке участнике в произвольной форме. Иштирокчи техник, молиявий, моддий, кадрлар ёки бошқа ресурслар мавжудлиги тўғрисидаги маълумотни иштирокчининг фирма бланкида ихтиёрий шаклда тақдим этиши шарт.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109086,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":\"Участник должен прикрепить Устав, Гувохнома (свидетельство о гос. регистрации), приказ о назначении руководителя и копия паспорта руководителя. Иштирокчи қуйидаги ҳужжатларни илова қилиши шарт: Низом, Гувоҳнома , раҳбарни тайинлаш тўғрисидаги буйруқ ҳамда раҳбар паспорти нусхаси\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109087,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"Участник должен прикрепить справку об отсутствии налоговой задолженности от Налогового органа с QR-кодом. Иштирокчи Солиқ органи томонидан берилган, QR-кодга эга бўлган солиқ қарздорлиги мавжуд эмаслиги тўғрисидаги маълумотномани илова қилиши шарт\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109088,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"Ishtirokchi biriktirilgan hujjatni ilova qilishi shart. (4-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi) Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 4).\",\"File_Path\":\"tender/user-files/2026/11/9/6510baf0-9bf8-44a9-b66e-f7e578dd1c7d.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109089,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"Ishtirokchi https: //xarid.uzex.uz/info/unfair-executor saytdan Skrinshot biriktirish kerak (norezidentlar uchun – vakolatli organdan hujjat/saytidan skrinshot/ishtirokchining kafolat xati) Участник должен приложить скриншот с сайта https://xarid.uzex.uz/info/unfair-executor (для нерезидентов — документ от уполномоченного органа / скриншот с официального сайта / гарантийное письмо участника).\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109090,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"Ishtirokchi https://mib.uz/6EG6yY_VtJY3GfyqeN3BgFH0LKyhTtwWB5sLiKaXTvw8F53Ng-Z5Tn9X3rQ0en46WpTw4n4hSGkRPWKldCGhhTtWK_8Uyzv7-WQnxKs0Ms4f2-uFeT8uYA/6EG17/Y_Vef saytdan Skrinshot biriktirish kerak (norezidentlar uchun – vakolatli organdan hujjat/saytidan skrinshot/ishtirokchining kafolat xati). Участник должен приложить скриншот с сайта https://mib.uz/6EG6yY_VtJY3GfyqeN3BgFH0LKyhTtwWB5sLiKaXTvw8F53Ng-Z5Tn9X3rQ0en46WpTw4n4hSGkRPWKldCGhhTtWK_8Uyzv7-WQnxKs0Ms4f2-uFeT8uYA/6EG17/Y_Vef (для нерезидентов — документ от уполномоченного органа / скриншот с официального сайта / гарантийное письмо участника).\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109091,\"Name\":\"Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги\",\"Order_Num\":7,\"Description\":\"Ishtirokchi ilovaga moliyaviy natijalar bo‘yicha hisobotlar (balans hisobotlari) nusxalarini ilova qilishi shart, ular Soliq xizmati (yoki chet-el yuridik shaxslari uchun boshqa vakolatli organlar, shu jumladan hisobotlarni audit hulosasi) tomonidan elektron shaklda qabul qilinganini tasdiqlovchi hujjat bilan birga bo‘lishi lozim. (Ishtirokchini baholash usuli ilova ichida bayon etilgan, 7-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi) Участник обязан приложить копии отчетов о финансовых результатах (балансовые отчеты), которые должны сопровождаться документом, подтверждающим их принятие в электронной форме Налоговой службой (или иным уполномоченным органом для иностранных юридических лиц, включая аудиторское заключение по отчетности). (Метод оценки участника изложен в приложении и оформляется в соответствии с формой, указанной в требовании № 7)\",\"File_Path\":\"tender/user-files/2026/11/9/382ba2be-9438-47fb-a07e-447b4927464d.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109092,\"Name\":\"Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.\",\"Order_Num\":8,\"Description\":\"Ishtirokchi biriktirilgan hujjatni to‘ldirib ilova qilishi shart (8-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан заполнить и приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 8).\",\"File_Path\":\"tender/user-files/2026/11/9/4435bda0-e735-4035-b585-0ded0d553f15.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109093,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":9,\"Description\":\"Ishtirokchi biriktirilgan hujjatni ilova qilishi shart (10-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 10).\",\"File_Path\":\"tender/user-files/2026/11/9/7fc35cd8-de6e-40a8-a697-00a36bdf8938.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 4934,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Бухарская область",
+ "delivering_district_name": "Ромитанский район",
+ "delivering_address": "Бухарской область Ромитанской район город Газли ул А.Темура №1",
+ "delivering_phone": "939606328",
+ "addon_description": "Газли МГКБошқармаси ҳудудида ҳамда бошқарма тасарруфидаги объектлардаги ёнғин сигнализацияси тизимларини таъмирлаш .Пудратчи барча сарфланадиган зарур материалларни  ва ускуналарни буюртмачининг техник талабларига тўлиқ мувофиқ равишда тақдим етиши шарт.Ўрнатилган хар бир  материаллар ва ускуналар учун 3 (уч) йил давомида бепул сервис хизмати кўрсатилиши шарт.Сервис маркази буюртмачи томонидан ариза берилган вақтдан бошлаб, 4 соат ичида мутахассисларни обектга етказиб келиши шарт .Хар қандай носозлик ёки ишдан чиққан ускуна ариза тушган пайтдан бошлаб 24 соат ичида пудратчи томонид бепул таъмирланиши ёки янгисига алмаштирилиши шарт.\r\n1.Бошқарув блоки ППСУ-20\t-4 дона\r\n2.Бошқарув блоки ППСУ-10 - 8 дона\r\n3.Бошқарув блоки ППСУ-4 -  4 дона\r\n4.Бошқарув блоки ППСУ-2-  4 дона\r\n5.Монтаж проводи ТРБН 2х0,9 оқ - 3 000 метр\r\n6.Кабель канали 10х15 - 1 500 метр\r\n7.Уланиш сими (полевой провод) -  1 000 метр\r\n8.Овозли ва ёруғлик хабар берувчи СУЗ SL-100 - 21  дона\r\n9.утун сезувчи (димовой извещатель) РУБЕЖ ИП 212-141 - 20 дона\r\n10.Ёнғиндан хабар берувчи иссиқлик датчиги ИП-103 - 50 дона\r\n11.Қўлда хабар берувчи ИПР-513-10 - 40 дона",
+ "technical_description": "Газли МГКБошқармаси ҳудудида ҳамда бошқарма тасарруфидаги объектлардаги ёнғин сигнализацияси тизимларини таъмирлаш .Пудратчи барча сарфланадиган зарур материалларни  ва ускуналарни буюртмачининг техник талабларига тўлиқ мувофиқ равишда тақдим етиши шарт.Ўрнатилган хар бир  материаллар ва ускуналар учун 3 (уч) йил давомида бепул сервис хизмати кўрсатилиши шарт.Сервис маркази буюртмачи томонидан ариза берилган вақтдан бошлаб, 4 соат ичида мутахассисларни обектга етказиб келиши шарт .Хар қандай носозлик ёки ишдан чиққан ускуна ариза тушган пайтдан бошлаб 24 соат ичида пудратчи томонид бепул таъмирланиши ёки янгисига алмаштирилиши шарт.\r\n1.Бошқарув блоки ППСУ-20\t-4 дона\r\n2.Бошқарув блоки ППСУ-10 - 8 дона\r\n3.Бошқарув блоки ППСУ-4 -  4 дона\r\n4.Бошқарув блоки ППСУ-2-  4 дона\r\n5.Монтаж проводи ТРБН 2х0,9 оқ - 3 000 метр\r\n6.Кабель канали 10х15 - 1 500 метр\r\n7.Уланиш сими (полевой провод) -  1 000 метр\r\n8.Овозли ва ёруғлик хабар берувчи СУЗ SL-100 - 21  дона\r\n9.утун сезувчи (димовой извещатель) РУБЕЖ ИП 212-141 - 20 дона\r\n10.Ёнғиндан хабар берувчи иссиқлик датчиги ИП-103 - 50 дона\r\n11.Қўлда хабар берувчи ИПР-513-10 - 40 дона",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": 522882,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "A.Temur ko'chasi 1 uy",
+ "customer_zip": "201002",
+ "min_point": 2,
+ "financing_source": "Uztransgaz АJ mablaglari xisobidan",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 961934.86,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081491,
+     "converted_price": 961934.86,
+     "converted_cost": 961934.86
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 11643.75,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081491,
+     "converted_price": 11643.75,
+     "converted_cost": 11643.75
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 10576.58,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081491,
+     "converted_price": 10576.58,
+     "converted_cost": 10576.58
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 140000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081491,
+     "converted_price": 140000000.0,
+     "converted_cost": 140000000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": "\"Ўзтрансгаз\" АЖ Газли магистрал газ кувурлари бошкармаси",
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

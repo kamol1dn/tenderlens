@@ -1,0 +1,530 @@
+{
+ "id": 524276,
+ "display_no": "26120012524276",
+ "start_date": "2026-11-17T17:22:06",
+ "end_date": "2026-11-24T17:22:06",
+ "clarific_date": "2026-11-24T17:22:06",
+ "start_cost": 738000000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2080874,\"Order_Num\":1,\"Category_Id\":126986,\"Plangraph_Detail_Id\":24048946,\"Product_Id\":610339,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":738000000,\"Cost\":738000000,\"Description\":\" Bir dona reklama materialining o'lchami — A1 format (594 × 841 mm). # Podyezdlarda joylashtiriladigan posterlar Ijrochining o'zi tomonidan, o'z kuchi, vositalari va mablag'lari hisobidan ishlab chiqariladi (bosib chiqariladi). Posterlarni ishlab chiqarish (bosma) xarajatlari xizmatlar narxi tarkibiga kiritiladi va alohida to'lanmaydi. Buyurtmachi Ijrochiga faqat posterlar uchun tasdiqlangan dizayn maketni elektron shaklda (PDF yoki AI formati, CMYK, kamida 150 dpi) taqdim etadi. 3. Bosmaga va materialga qo'yiladigan talablar: to'liq rangli bosma (4+0), rangi barqaror (so'lmaydigan) bo'yoq. Poster quyidagi ikki usuldan biri bo'yicha ishlab chiqarilishi mumkin: ## a) *qog**'oz poster* — zichligi kamida 150 g/m² bo'lgan qog'ozga bosiladi, yuza qismi yupqa mat laminat plyonka bilan qoplanadi va chetlari ramka (stend) profili ichiga kiritilgan holda mahkamlanadi; ## b) *o**'zi yopishuvchi plyonka* — qalinligi kamida 80 mikron bo'lgan plyonkaga bosiladi va qalinligi kamida 3 mm bo'lgan qatt\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9846674,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"73.11.11.000-00002\",\"Guarantee_Term\":12,\"Delivery_Term\":180,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Реклама хизматлари ва бозор конъюктурасини тадқиқ қилиш бўйича хизматлар\",\"Product_Name\":\"Реклама жойлаштириш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Реклама хизматларини жойлаштириш воситалари\",\"User_Value\":\"Полиграфия маҳсулоти\",\"User_Value_Id\":12,\"Pnum\":3},{\"Property_Name\":\"Реклама хизматлари тури\",\"User_Value\":\"Матнли хабар\",\"User_Value_Id\":2,\"Pnum\":4}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 10,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Xaridlar bo'yicha mutaxassis\",\"Fullname\":\"O. Azizov\"}]",
+ "rest_time": 584154,
+ "customer_name": "\"O`ZBEKTELEKOM \" AJ",
+ "customer_tin": "203366731",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611064807322607.rar",
+ "tech_file_path": "/files/2026/11/6/202611064807322607.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 644600.0,
+ "tech_doc_file_name": "20261511152429524276.pdf",
+ "tech_doc_file_path": "files/2026/11/15/20261511152429524276.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 298134.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611064807406302.docx",
+ "contract_proform_file_path": "/files/2026/11/6/202611064807406302.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 41620.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 2,
+ "nonauthorized_count": 175,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2769120,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "4-sonli shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 33.33,
+   "description": "Ishtirokchining ko‘p xonadonli turar joy majmualarining kirish yo‘laklarida (podyezdlarida) reklama materiallarini joylashtirish bo‘yicha ish tajribasining mavjudligi.\r\nIzoh: Ishtirokchining quyidagi yo‘nalishlardagi o‘xshash ish tajribasi inobatga olinadi: - ko‘p xonadonli turar joy majmualarining kirish yo‘laklarida (podyezdlarida) reklama posterlari, stendlar va boshqa reklama materiallarini joylashtirish; - ko‘p xonadonli turar joy majmualarining lift kabinalarida reklama materiallarini (posterlar, stendlar, videomonitorlar) joylashtirish; - ko‘p xonadonli turar joy majmualarining umumiy foydalanishdagi joylarida (kirish guruhlari, foye, axborot stendlari) reklama materiallarini joylashtirish. Ilova qilingan 4-sonli shaklga muvofiq rasmiylashtiriladi Ishtirokchilarning tajribasi faqat tasdiqlovchi hujjatlar (ikki tomonlama rasmiylashtirilgan shartnoma, bajarilgan ishlar dalolatnomasi va/yoki hisob-faktura) taqdim etilganda hisobga olinadi (baholanadi).\r\nAgar mavjud bo‘lmasa yoki mos kelmasa, ishtirokchi tanlovdan chetlashtiriladi.\r\n\r\nAgar ishtirokchining ish tajribasi tanlov predmetiga o‘xshash loyihalar bo‘yicha bo‘lmasa – 0 ball.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "3 ta va undan ortiq yakunlangan loyiha (shartnoma)ni tashkil etsa"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "2 tagacha yakunlangan loyiha (shartnoma)ni tashkil etsa"
+    }
+   ],
+   "form_name": "4-sonli shakl",
+   "form_file_path": "tender/user-files/2026/11/6/ff0ef99a-fcf6-4152-a210-51ec7acfcc87.docx"
+  },
+  {
+   "id": 2769121,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": false,
+   "file_name": "5-sonli shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 16.67,
+   "description": "Ishtirokchi Texnik topshiriqda belgilangan talablarga muvofiq A1 formatdagi reklama posterlarida reklama joylashtirish huquqiga ega ekanligini tasdiqlashi hamda reklama joylashtirish manzillari haqidagi ma’lumotlarni taqdim qilishi shart.\r\nHar bir reklama joyi (obyekt) bo‘yicha quyidagi hujjatlar majburiy ravishda birgalikda taqdim etilishi lozim: 1. Posterlar joylashtiriladigan manzillar (tuman, ko‘cha, uy, podyezd) ro‘yxati elektron jadval (Excel) va imzolangan nusxada. 2. Ro‘yxatdagi manzillarda reklama joylashtirish huquqini tasdiqlovchi hujjatlar. Quyidagi ikki hujjatdan biri: • reklama joyiga nisbatan reklama joylashtirish huquqini tasdiqlovchi hujjat; yoki • reklama joylashtirish huquqi uchinchi shaxsga tegishli bo‘lsa — ushbu shaxs bilan tuzilgan amaldagi shartnoma (kelishuv) nusxasi va uchinchi shaxs huquqini tasdiqlovchi hujjatlar.\r\nRo‘yxat taqdim etilmagan yoki to‘liq bo‘lmasa, kirish yo‘laklari soni tanlangan variantdan kam bo‘lsa yoxud manzillarning bir qismi bo‘yicha huquqni tasdiqlovchi hujjatlar taqdim etilmagan bo‘lsa  — ishtirokchi ushbu baholash mezoni bo‘yicha nomuvofiq deb topiladi va 0 ball bilan baholanadi.\r\nIzoh: huquqni tasdiqlovchi hujjatlarning amal qilish muddati xizmat ko‘rsatish muddatidan kam bo‘lmasligi kerak.\r\nIlova qilingan 5-sonli shaklga muvofiq rasmiylashtirilgan kafolat xatini taqdim etishi shart Ishtirokchi mezonda belgilgangan barcha tegishli hujjatlarni taqdim etishi lozim. Agar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Ro‘yxat taqdim etilgan, undagi kirish yo‘laklari soni tanlangan variantdan kam bo‘lmasa va barcha manzillar bo‘yicha huquqni tasdiqlovchi hujjatlar to‘liq taqdim etilgan bo‘lsa"
+    }
+   ],
+   "form_name": "5-sonli shakl",
+   "form_file_path": "tender/user-files/2026/11/6/537179a3-901e-407a-a859-979d13ce901f.xlsx"
+  },
+  {
+   "id": 2769122,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi hujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 16.67,
+   "description": "Ijrochining ko‘rsatilgan xizmatlar bo‘yicha hisobotlarni onlayn tizim (shaxsiy kabinet) orqali taqdim etish imkoniyatining mavjudligi. \r\nbunday tizim mavjud bo‘lmasa yoki uning mavjudligi tasdiqlanmagan bo‘lsa — 0 ball.\r\nTizimning mavjudligi texnik taklif tarkibida taqdim etiladigan tizim tavsifi va shaxsiy kabinet interfeysining skrinshotlari bilan tasdiqlanishi lozim.\r\nXarid komissiyasi zarur hollarda tizimga test (demo) kirish huquqini yoki uning namoyishini talab qilish huquqiga ega.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Ishtirokchida Buyurtmachi uchun shaxsiy kabinetga ega onlayn tizim mavjud bo‘lsa, unda manzillar kesimida sanasi ko‘rsatilgan foto hisobotlar yuklanib, Buyurtmachi ularni ko‘rib chiqa va tekshira olsa, va bu tasdiqlangan bo‘lsa"
+    }
+   ],
+   "form_name": "Tasdiqlovchi hujjat",
+   "form_file_path": null
+  },
+  {
+   "id": 2769123,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "6-sonli shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 16.67,
+   "description": "Kafolat xati (6-sonli shaklga muvofiq).\r\nIlova qilingan 6-sonli shaklga muvofiq rasmiylashtirilgan kafolat xatini taqdim etishi shart.\r\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\r\nKafolat xati taqdim etilmagan bo‘lsa – 0 ball.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Kafolat xati taqdim etilgan bo‘lsa "
+    }
+   ],
+   "form_name": "6-sonli shakl",
+   "form_file_path": "tender/user-files/2026/11/6/1a49cc44-e7f1-44b7-bf66-bb3643fb0492.docx"
+  },
+  {
+   "id": 2769124,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "7-sonli shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 16.67,
+   "description": "Ishtirokchining tanlov bo‘yicha taklifi xarid hujjatlari va texnik topshiriq talablariga to‘liq muvofiqligini tasdiqlovchi taklifi. (7-sonli shakl va 7-sonli shaklga ilovaga muvofiq). 7-sonli shaklga muvofiq rasmiylashtiriladi.\r\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\r\nTalabga muvofiq bo‘lmasa – 0 ball.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Talabga muvofiq bo‘lsa"
+    }
+   ],
+   "form_name": "7-sonli shakl",
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2769120,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"4-sonli shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":33.33,\"Description\":\"Ishtirokchining ko‘p xonadonli turar joy majmualarining kirish yo‘laklarida (podyezdlarida) reklama materiallarini joylashtirish bo‘yicha ish tajribasining mavjudligi.\\r\\nIzoh: Ishtirokchining quyidagi yo‘nalishlardagi o‘xshash ish tajribasi inobatga olinadi: - ko‘p xonadonli turar joy majmualarining kirish yo‘laklarida (podyezdlarida) reklama posterlari, stendlar va boshqa reklama materiallarini joylashtirish; - ko‘p xonadonli turar joy majmualarining lift kabinalarida reklama materiallarini (posterlar, stendlar, videomonitorlar) joylashtirish; - ko‘p xonadonli turar joy majmualarining umumiy foydalanishdagi joylarida (kirish guruhlari, foye, axborot stendlari) reklama materiallarini joylashtirish. Ilova qilingan 4-sonli shaklga muvofiq rasmiylashtiriladi Ishtirokchilarning tajribasi faqat tasdiqlovchi hujjatlar (ikki tomonlama rasmiylashtirilgan shartnoma, bajarilgan ishlar dalolatnomasi va/yoki hisob-faktura) taqdim etilganda hisobga olinadi (baholanadi).\\r\\nAgar mavjud bo‘lmasa yoki mos kelmasa, ishtirokchi tanlovdan chetlashtiriladi.\\r\\n\\r\\nAgar ishtirokchining ish tajribasi tanlov predmetiga o‘xshash loyihalar bo‘yicha bo‘lmasa – 0 ball.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"3 ta va undan ortiq yakunlangan loyiha (shartnoma)ni tashkil etsa\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"2 tagacha yakunlangan loyiha (shartnoma)ni tashkil etsa\"}],\"Form_Name\":\"4-sonli shakl\",\"Form_File_Path\":\"tender/user-files/2026/11/6/ff0ef99a-fcf6-4152-a210-51ec7acfcc87.docx\"},{\"Id\":2769121,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":false,\"File_Name\":\"5-sonli shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":16.67,\"Description\":\"Ishtirokchi Texnik topshiriqda belgilangan talablarga muvofiq A1 formatdagi reklama posterlarida reklama joylashtirish huquqiga ega ekanligini tasdiqlashi hamda reklama joylashtirish manzillari haqidagi ma’lumotlarni taqdim qilishi shart.\\r\\nHar bir reklama joyi (obyekt) bo‘yicha quyidagi hujjatlar majburiy ravishda birgalikda taqdim etilishi lozim: 1. Posterlar joylashtiriladigan manzillar (tuman, ko‘cha, uy, podyezd) ro‘yxati elektron jadval (Excel) va imzolangan nusxada. 2. Ro‘yxatdagi manzillarda reklama joylashtirish huquqini tasdiqlovchi hujjatlar. Quyidagi ikki hujjatdan biri: • reklama joyiga nisbatan reklama joylashtirish huquqini tasdiqlovchi hujjat; yoki • reklama joylashtirish huquqi uchinchi shaxsga tegishli bo‘lsa — ushbu shaxs bilan tuzilgan amaldagi shartnoma (kelishuv) nusxasi va uchinchi shaxs huquqini tasdiqlovchi hujjatlar.\\r\\nRo‘yxat taqdim etilmagan yoki to‘liq bo‘lmasa, kirish yo‘laklari soni tanlangan variantdan kam bo‘lsa yoxud manzillarning bir qismi bo‘yicha huquqni tasdiqlovchi hujjatlar taqdim etilmagan bo‘lsa  — ishtirokchi ushbu baholash mezoni bo‘yicha nomuvofiq deb topiladi va 0 ball bilan baholanadi.\\r\\nIzoh: huquqni tasdiqlovchi hujjatlarning amal qilish muddati xizmat ko‘rsatish muddatidan kam bo‘lmasligi kerak.\\r\\nIlova qilingan 5-sonli shaklga muvofiq rasmiylashtirilgan kafolat xatini taqdim etishi shart Ishtirokchi mezonda belgilgangan barcha tegishli hujjatlarni taqdim etishi lozim. Agar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Ro‘yxat taqdim etilgan, undagi kirish yo‘laklari soni tanlangan variantdan kam bo‘lmasa va barcha manzillar bo‘yicha huquqni tasdiqlovchi hujjatlar to‘liq taqdim etilgan bo‘lsa\"}],\"Form_Name\":\"5-sonli shakl\",\"Form_File_Path\":\"tender/user-files/2026/11/6/537179a3-901e-407a-a859-979d13ce901f.xlsx\"},{\"Id\":2769122,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi hujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":16.67,\"Description\":\"Ijrochining ko‘rsatilgan xizmatlar bo‘yicha hisobotlarni onlayn tizim (shaxsiy kabinet) orqali taqdim etish imkoniyatining mavjudligi. \\r\\nbunday tizim mavjud bo‘lmasa yoki uning mavjudligi tasdiqlanmagan bo‘lsa — 0 ball.\\r\\nTizimning mavjudligi texnik taklif tarkibida taqdim etiladigan tizim tavsifi va shaxsiy kabinet interfeysining skrinshotlari bilan tasdiqlanishi lozim.\\r\\nXarid komissiyasi zarur hollarda tizimga test (demo) kirish huquqini yoki uning namoyishini talab qilish huquqiga ega.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Ishtirokchida Buyurtmachi uchun shaxsiy kabinetga ega onlayn tizim mavjud bo‘lsa, unda manzillar kesimida sanasi ko‘rsatilgan foto hisobotlar yuklanib, Buyurtmachi ularni ko‘rib chiqa va tekshira olsa, va bu tasdiqlangan bo‘lsa\"}],\"Form_Name\":\"Tasdiqlovchi hujjat\",\"Form_File_Path\":null},{\"Id\":2769123,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"6-sonli shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":16.67,\"Description\":\"Kafolat xati (6-sonli shaklga muvofiq).\\r\\nIlova qilingan 6-sonli shaklga muvofiq rasmiylashtirilgan kafolat xatini taqdim etishi shart.\\r\\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\\r\\nKafolat xati taqdim etilmagan bo‘lsa – 0 ball.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Kafolat xati taqdim etilgan bo‘lsa \"}],\"Form_Name\":\"6-sonli shakl\",\"Form_File_Path\":\"tender/user-files/2026/11/6/1a49cc44-e7f1-44b7-bf66-bb3643fb0492.docx\"},{\"Id\":2769124,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"7-sonli shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":16.67,\"Description\":\"Ishtirokchining tanlov bo‘yicha taklifi xarid hujjatlari va texnik topshiriq talablariga to‘liq muvofiqligini tasdiqlovchi taklifi. (7-sonli shakl va 7-sonli shaklga ilovaga muvofiq). 7-sonli shaklga muvofiq rasmiylashtiriladi.\\r\\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\\r\\nTalabga muvofiq bo‘lmasa – 0 ball.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Talabga muvofiq bo‘lsa\"}],\"Form_Name\":\"7-sonli shakl\",\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1108338,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108339,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108340,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108341,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108342,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108343,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108344,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 7,
+   "description": "1-sonli shakl",
+   "file_path": "tender/user-files/2026/11/6/6cdcd0db-2cf2-4eb5-b6e8-26fafa187d23.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108345,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 8,
+   "description": "2-sonli shakl",
+   "file_path": "tender/user-files/2026/11/6/0b17f0c2-6f9f-4239-a03e-8fa1c063d092.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108346,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 9,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108347,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 10,
+   "description": "3-sonli shakl",
+   "file_path": "tender/user-files/2026/11/6/898efe24-552d-4f23-858c-2f0b827052ce.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1108338,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108339,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108340,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108341,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108342,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108343,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108344,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":7,\"Description\":\"1-sonli shakl\",\"File_Path\":\"tender/user-files/2026/11/6/6cdcd0db-2cf2-4eb5-b6e8-26fafa187d23.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1108345,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":8,\"Description\":\"2-sonli shakl\",\"File_Path\":\"tender/user-files/2026/11/6/0b17f0c2-6f9f-4239-a03e-8fa1c063d092.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1108346,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":9,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108347,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":10,\"Description\":\"3-sonli shakl\",\"File_Path\":\"tender/user-files/2026/11/6/898efe24-552d-4f23-858c-2f0b827052ce.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 16221,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Мирзо-Улугбекский район",
+ "delivering_address": " Muminov ko'chasi 4/2",
+ "delivering_phone": "711000192",
+ "addon_description": "«O‘zbektelekom» AK xizmatlarini A1 formatdagi reklama posterlarini tayyorlash va Toshkent shahridagi ko‘p xonadonli uylar kirish yo‘laklarida joylashtirish orqali targ‘ib qilish xizmatlari",
+ "technical_description": "Xarid hujjatlari va texnik topshiriq",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Mo'minova 4/2",
+ "customer_zip": "100090",
+ "min_point": 4,
+ "financing_source": "O'z mablag'lari",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 738000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080874,
+     "converted_price": 738000000.0,
+     "converted_cost": 738000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 55753.69,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080874,
+     "converted_price": 55753.69,
+     "converted_cost": 55753.69
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 61379.23,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080874,
+     "converted_price": 61379.23,
+     "converted_cost": 61379.23
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 5070770.92,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080874,
+     "converted_price": 5070770.92,
+     "converted_cost": 5070770.92
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

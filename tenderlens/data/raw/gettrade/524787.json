@@ -1,0 +1,744 @@
+{
+ "id": 524787,
+ "display_no": "26120012524787",
+ "start_date": "2026-11-17T11:30:00",
+ "end_date": "2026-11-24T11:30:00",
+ "clarific_date": "2026-11-24T11:30:00",
+ "start_cost": 530000000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2083029,\"Order_Num\":1,\"Category_Id\":124491,\"Plangraph_Detail_Id\":24436367,\"Product_Id\":492800,\"Product_Type_Id\":3,\"Quantity\":20,\"Price\":26500000,\"Cost\":530000000,\"Description\":\"Услуга по установке газовых баллонов на автомобили\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":10055172,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"45.20.11.511-00002\",\"Guarantee_Term\":12,\"Delivery_Term\":30,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Улгуржи ва чакана савдо хизматлари ва автотранспорт воситалари ва мотоциклларни таъмирлаш хизматлари\",\"Product_Name\":\"Автомобилларга газ баллонларини ўрнатиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 1.0,
+ "advance_payment_perc": 15.0,
+ "term_payment_days": 30,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":4,\"Name\":\"Узбекский К\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Мухандис\",\"Fullname\":\"Тошпулатов Акмал\"}]",
+ "rest_time": 563056,
+ "customer_name": "\"O'ZBEKNEFTGAZ\" AJ",
+ "customer_tin": "200837914",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611110423725228.pdf",
+ "tech_file_path": "/files/2026/11/11/202611110423725228.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 2955278.0,
+ "tech_doc_file_name": "20261211042415524787.pdf",
+ "tech_doc_file_path": "files/2026/11/12/20261211042415524787.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 314221.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611110423888672.docx",
+ "contract_proform_file_path": "/files/2026/11/11/202611110423888672.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 58587.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 4,
+ "nonauthorized_count": 266,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2771925,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "1-shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.0,
+   "description": "1-ilova, 1-shaklga muvofiq hujjatlar ro‘yxati — Xarid komissiyasi raisi nomiga elektron tanlovda ishtirok etish uchun ariza,tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "1-shakl",
+   "form_file_path": null
+  },
+  {
+   "id": 2771926,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "2-shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.0,
+   "description": "1-ilova, 2-shaklga muvofiq hujjatlar ro‘yxati — tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq kafolat xati. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "2-shakl",
+   "form_file_path": null
+  },
+  {
+   "id": 2771927,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "3-shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.0,
+   "description": "1-ilova, 3-shaklga muvofiq hujjatlar ro‘yxati — tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq tanlov ishtirokchisi to‘g‘risidagi umumiy ma’lumotlar. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi. (Yuridik bo'lim xulosasi asosida.)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "3-shakl",
+   "form_file_path": null
+  },
+  {
+   "id": 2771928,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "4-shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.0,
+   "description": "1-ilova, 4-shaklga muvofiq hujjatlar ro‘yxati — tanlov ishtirokchisining moliyaviy holati to‘g‘risidagi ma’lumotlar, tasdiqlovchi hujjatlar, tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi.(Buxgalteriya bo'limining xulosasi asosida.)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "4-shakl",
+   "form_file_path": null
+  },
+  {
+   "id": 2771929,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "5-shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.0,
+   "description": "1-ilova, 5-shaklga muvofiq hujjatlar ro‘yxati — tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq korrupsiyaga oid harakatlarning sodir etilmasligi bo‘yicha ariza. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi. (Komplayens bosh inspektorlarining xulosasi asosida.)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "5-shakl",
+   "form_file_path": null
+  },
+  {
+   "id": 2771930,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "6-shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 3.0,
+   "description": "1-ilova, 6-shaklga muvofiq hujjatlar ro‘yxati — tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq kontragent anketasi. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "6-shakl",
+   "form_file_path": null
+  },
+  {
+   "id": 2771931,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnoma ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 2.0,
+   "description": "Tashkilotning Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnoma nusxasi. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnoma ",
+   "form_file_path": null
+  },
+  {
+   "id": 2771932,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 50.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "7-shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 50.0,
+   "description": "Buyurtmachining texnik topshirig‘iga muvofiqligi. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi. (Tegishli mutaxassisning yozma xulosasi asosida)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 50.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "7-shakl",
+   "form_file_path": null
+  },
+  {
+   "id": 2771933,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Kafolat xati",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Yetkazib beruvchi o'rnatilgan uskunalar hamda bajarilgan qayta jihozlash (montaj va kalibrovka) ishlari uchun kamida 1 yil yoki 50 000 km bosib o'tish masofasi bo'yicha kafolat berishi shart. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi. ",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Kafolat xati",
+   "form_file_path": null
+  },
+  {
+   "id": 2771934,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Kafolat xati",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Xizmat ko’rsatish, uskunalarni o'rnatish muddati 30 kalendar kunida bajarilishi shart. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi. ",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Kafolat xati",
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2771925,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"1-shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.0,\"Description\":\"1-ilova, 1-shaklga muvofiq hujjatlar ro‘yxati — Xarid komissiyasi raisi nomiga elektron tanlovda ishtirok etish uchun ariza,tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"1-shakl\",\"Form_File_Path\":null},{\"Id\":2771926,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"2-shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.0,\"Description\":\"1-ilova, 2-shaklga muvofiq hujjatlar ro‘yxati — tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq kafolat xati. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"2-shakl\",\"Form_File_Path\":null},{\"Id\":2771927,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"3-shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.0,\"Description\":\"1-ilova, 3-shaklga muvofiq hujjatlar ro‘yxati — tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq tanlov ishtirokchisi to‘g‘risidagi umumiy ma’lumotlar. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi. (Yuridik bo'lim xulosasi asosida.)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"3-shakl\",\"Form_File_Path\":null},{\"Id\":2771928,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"4-shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.0,\"Description\":\"1-ilova, 4-shaklga muvofiq hujjatlar ro‘yxati — tanlov ishtirokchisining moliyaviy holati to‘g‘risidagi ma’lumotlar, tasdiqlovchi hujjatlar, tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi.(Buxgalteriya bo'limining xulosasi asosida.)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"4-shakl\",\"Form_File_Path\":null},{\"Id\":2771929,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"5-shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.0,\"Description\":\"1-ilova, 5-shaklga muvofiq hujjatlar ro‘yxati — tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq korrupsiyaga oid harakatlarning sodir etilmasligi bo‘yicha ariza. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi. (Komplayens bosh inspektorlarining xulosasi asosida.)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"5-shakl\",\"Form_File_Path\":null},{\"Id\":2771930,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"6-shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":3.0,\"Description\":\"1-ilova, 6-shaklga muvofiq hujjatlar ro‘yxati — tanlov bo‘yicha ilova qilinadigan xarid hujjatlariga muvofiq kontragent anketasi. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"6-shakl\",\"Form_File_Path\":null},{\"Id\":2771931,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnoma \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":2.0,\"Description\":\"Tashkilotning Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnoma nusxasi. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnoma \",\"Form_File_Path\":null},{\"Id\":2771932,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":50.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"7-shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":50.0,\"Description\":\"Buyurtmachining texnik topshirig‘iga muvofiqligi. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi. (Tegishli mutaxassisning yozma xulosasi asosida)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":50.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"7-shakl\",\"Form_File_Path\":null},{\"Id\":2771933,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Kafolat xati\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Yetkazib beruvchi o'rnatilgan uskunalar hamda bajarilgan qayta jihozlash (montaj va kalibrovka) ishlari uchun kamida 1 yil yoki 50 000 km bosib o'tish masofasi bo'yicha kafolat berishi shart. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi. \",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Kafolat xati\",\"Form_File_Path\":null},{\"Id\":2771934,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Kafolat xati\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Xizmat ko’rsatish, uskunalarni o'rnatish muddati 30 kalendar kunida bajarilishi shart. Hujjatlar belgilangan tartibda topshirilganda - Maksimal ball beriladi, agar hujjatlarda kamchiliklar bo‘lsa yoki ular umuman taqdim etilmasa - Minimal ball beriladi. \",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Kafolat xati\",\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1111942,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111943,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111944,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111945,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111946,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111947,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1111942,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111943,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111944,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111945,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111946,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111947,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 16533,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Кашкадарьинская область",
+ "delivering_district_name": "Гузарский район",
+ "delivering_address": "Поселок Шуртан",
+ "delivering_phone": "902883500",
+ "addon_description": "Ishtirokchilar, agar quyidagilarni taqdim etmagan bo‘lsalar: texnik topshiriqqa muvofiq texnik taklif, ilova qilingan fayllarga muvofiq tasdiqlovchi hujjatlar bilan to‘liq malaka hujjatlari, narx takliflarini baholash bosqichiga qabul qilinmaydi. Shu sababli, barcha ishtirokchilar talab qilinadigan hujjatlarni (malaka hujjatlari, texnik taklif, zavod ishlab chiqaruvchidan vakolatnoma, sertifikatlar va boshqa hujjatlar) to‘liq va talablar bo‘yicha taqdim etishlari lozim. E’tibor bering, yetishmayotgan hujjatlar uchun qayta so‘rov yuborilmaydi. Shuningdek, takliflar eng minimal narx bilan taqdim etilishi kerak, chunki ushbu portalda chegirma so‘rashi ko‘zda tutilmagan.",
+ "technical_description": "Texnik shart shartnomaning ajralmas qismi hisoblanadi",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "ул. Истикбол 21",
+ "customer_zip": "100090",
+ "min_point": 70,
+ "financing_source": "\"O'ZBEKNEFTGAZ\" AJ",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 44079.93,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2083029,
+     "converted_price": 2203.99,
+     "converted_cost": 44079.93
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 530000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2083029,
+     "converted_price": 26500000.0,
+     "converted_cost": 530000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 40039.91,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2083029,
+     "converted_price": 2001.99,
+     "converted_cost": 40039.91
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 3641610.55,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2083029,
+     "converted_price": 182080.52,
+     "converted_cost": 3641610.55
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

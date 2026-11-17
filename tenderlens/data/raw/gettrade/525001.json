@@ -1,0 +1,608 @@
+{
+ "id": 525001,
+ "display_no": "26110012525001",
+ "start_date": "2026-11-17T15:39:25",
+ "end_date": "2026-11-24T15:39:25",
+ "clarific_date": "2026-11-24T15:39:25",
+ "start_cost": 199017000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2084383,\"Order_Num\":1,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23643266,\"Product_Id\":718559,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":12453750,\"Cost\":12453750,\"Description\":\"Ochiq havoda kuch mashqlari uchun uskunalar: Ko‘krak uchun press\\r\\nТренажер силовой уличный Жим к груди\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":9632790,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.30.14.121-00005\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Кўкракка тортувчи куч тренажери\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2084391,\"Order_Num\":9,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23643265,\"Product_Id\":463932,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":10388250,\"Cost\":10388250,\"Description\":\"Elliptik trenajyor\\r\\nТренажер эллиптический\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":9632790,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.30.14.129-00003\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Эллиптик тренажёр\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тренажёрнинг қўлланиши бўйича даражаси\",\"User_Value\":\"I\",\"User_Value_Id\":1,\"Pnum\":1},{\"Property_Name\":\"Тренажёрнинг аниқлик бўйича даражаси \",\"User_Value\":\"B (Ўрта)\",\"User_Value_Id\":1,\"Pnum\":2}]},{\"Id\":2084390,\"Order_Num\":8,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23643264,\"Product_Id\":718554,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":25150500,\"Cost\":25150500,\"Description\":\"Ko‘p funksiyali mashq tizimi\\r\\nКомплекс тренажерный многофункциональный\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":9632790,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.30.14.121-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Кўп функцияли тренажер комплекси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тренажёрнинг қўлланиши бўйича даражаси\",\"User_Value\":\"I\",\"User_Value_Id\":1,\"Pnum\":3},{\"Property_Name\":\"Тренажёрнинг аниқлик бўйича даражаси\",\"User_Value\":\"B (Ўрта)\",\"User_Value_Id\":1,\"Pnum\":4}]},{\"Id\":2084389,\"Order_Num\":7,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23643263,\"Product_Id\":718552,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":35538750,\"Cost\":35538750,\"Description\":\"Yugurish yo‘lagi\\r\\nБеговая дорожка\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":9632790,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.30.14.122-00002\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Югуриш йўлакчаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Моторлаштирилган\",\"User_Value_Id\":1,\"Pnum\":1}]},{\"Id\":2084388,\"Order_Num\":6,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23643262,\"Product_Id\":463926,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":32622750,\"Cost\":32622750,\"Description\":\"Ochiq havoga mo‘ljallangan \\\"stepper\\\" trenajyori\\r\\nУличный тренажер \\\"Степпер\\\"\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":9632790,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.30.14.121-00029\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Кўчага ўрнатиладиган “Степпер” тренажёри\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тренажёр тури\",\"User_Value\":\"Бир позицияли\",\"User_Value_Id\":1,\"Pnum\":5}]},{\"Id\":2084387,\"Order_Num\":5,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23643270,\"Product_Id\":718530,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":10631250,\"Cost\":10631250,\"Description\":\"Ajralmaydigan tayoq\\r\\nШтанга неразборная\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":9632790,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.30.14.115-00008\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Ажралмайдиган штанга\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Қоплама тури\",\"User_Value\":\"Резинали\",\"User_Value_Id\":1,\"Pnum\":1},{\"Property_Name\":\"Тури\",\"User_Value\":\"Эгилган (EZ ва W шаклидаги)\",\"User_Value_Id\":2,\"Pnum\":2}]},{\"Id\":2084386,\"Order_Num\":4,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23643269,\"Product_Id\":462513,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":26304750,\"Cost\":26304750,\"Description\":\"\\\"Eğimli ko'krak qafasi uchun press\\\" mashinasi\\r\\nТренажер «Наклонный жим от груди»\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":9632790,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.30.14.121-00021\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"«Кўкракдан қия кўтариб туриш» тренажёр\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2084385,\"Order_Num\":3,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23643268,\"Product_Id\":463944,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":26730000,\"Cost\":26730000,\"Description\":\"\\\"Gorizontal tortish\\\" trenajyori\\r\\nТренажер «Горизонтальная тяга»\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":9632790,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.30.14.121-00019\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"«Горизонтал тортиш» тренажёри\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тренажёрнинг қўлланиши бўйича даражаси\",\"User_Value\":\"I\",\"User_Value_Id\":1,\"Pnum\":1},{\"Property_Name\":\"Тренажёрнинг аниқлик бўйича даражаси \",\"User_Value\":\"B (Ўрта)\",\"User_Value_Id\":1,\"Pnum\":2}]},{\"Id\":2084384,\"Order_Num\":2,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23643267,\"Product_Id\":462510,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":19197000,\"Cost\":19197000,\"Description\":\"Ochiq havoga mo‘ljallangan «eshkak tortish» trenajyori\\r\\nУличный тренажер \\\"Гребная тяга\\\"\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":9632790,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.30.14.121-00028\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Кўчага ўрнатиладиган «Эшкак тортиш» тренажёри\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тренажёр тури\",\"User_Value\":\"Блокли\",\"User_Value_Id\":0,\"Pnum\":3}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 5,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Direktor\",\"Fullname\":\"Saydullo Kadirov Obidovich\"}]",
+ "rest_time": 578006,
+ "customer_name": "Спортнинг якка кураш турларига Ихтисослаштирилган Болалар-ўсмирлар спорт мактаби",
+ "customer_tin": "207238934",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611064837000892.pdf",
+ "tech_file_path": "/files/2026/11/6/202611064837000892.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 2306926.0,
+ "tech_doc_file_name": "202611123428774956.pdf",
+ "tech_doc_file_path": "tender/user-files/2026/11/12/202611123428774956.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 100618.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202609232505467128.docx",
+ "contract_proform_file_path": "/files/2026/9/23/202609232505467128.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 42145.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 2,
+ "nonauthorized_count": 189,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2773031,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Етказиб бериш",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 21.51,
+   "description": "Етказиладиган маҳсулотларга кафолат муддати (Кафолат хати)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2773032,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг ишлаб чиқарилган йилига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 35.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Сертификат",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 37.63,
+   "description": "Маҳсулотларга сертификат тақдим қилиниши керак",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 35.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2773033,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 18.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Умумий маълумот",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 19.35,
+   "description": "Корхонаси низоми, гувохномаси, рахбар паспорти тўлиқ жойлаштирилиши керак",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 18.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2773034,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Иш тажриба ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 21.51,
+   "description": "иштирокчи корхонанинг шу сохада етарли иш тажрибаси\r\n- 3 йил ва ундан кўп бўлса 20 балл\r\n- 1 дан 3 йилгача бўлса 10 балл\r\n- 1 йилгача бўлса 1 балл",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": " 1 йилгача бўлса 1 балл"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": " 1 дан 3 йилгача бўлса 10 балл\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": " 3 йил ва ундан кўп бўлса 20 балл\r\n"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2773031,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Етказиб бериш\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":21.51,\"Description\":\"Етказиладиган маҳсулотларга кафолат муддати (Кафолат хати)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2773032,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг ишлаб чиқарилган йилига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":35.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Сертификат\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":37.63,\"Description\":\"Маҳсулотларга сертификат тақдим қилиниши керак\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":35.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2773033,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":18.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Умумий маълумот\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":19.35,\"Description\":\"Корхонаси низоми, гувохномаси, рахбар паспорти тўлиқ жойлаштирилиши керак\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":18.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2773034,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Иш тажриба \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":21.51,\"Description\":\"иштирокчи корхонанинг шу сохада етарли иш тажрибаси\\r\\n- 3 йил ва ундан кўп бўлса 20 балл\\r\\n- 1 дан 3 йилгача бўлса 10 балл\\r\\n- 1 йилгача бўлса 1 балл\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\" 1 йилгача бўлса 1 балл\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\" 1 дан 3 йилгача бўлса 10 балл\\r\\n\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\" 3 йил ва ундан кўп бўлса 20 балл\\r\\n\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1113492,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113493,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113494,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113495,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113496,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113497,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1113492,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113493,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113494,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113495,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113496,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113497,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 66065,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Андижанская область",
+ "delivering_district_name": "Андижан",
+ "delivering_address": "Mustaqillik MFY, X.Xakimzoda ko'chasi bolalar bog'i hududi",
+ "delivering_phone": "994721734",
+ "addon_description": "тренажер сотиб олиш",
+ "technical_description": "Texnik vazifa va topshiriq",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 524879,
+ "customer_region_name": "Andijon viloyati",
+ "customer_district_name": "Andijon viloyati",
+ "customer_street": "Андижон ш. Шимолий кичик да&#1203;а 22",
+ "customer_zip": "00000",
+ "min_point": 15,
+ "financing_source": "Byudjetdan tashqari mablag'lar hisobidan",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 199017000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084383,
+     "converted_price": 12453750.0,
+     "converted_cost": 12453750.0
+    },
+    {
+     "lot_detail_id": 2084384,
+     "converted_price": 19197000.0,
+     "converted_cost": 19197000.0
+    },
+    {
+     "lot_detail_id": 2084385,
+     "converted_price": 26730000.0,
+     "converted_cost": 26730000.0
+    },
+    {
+     "lot_detail_id": 2084386,
+     "converted_price": 26304750.0,
+     "converted_cost": 26304750.0
+    },
+    {
+     "lot_detail_id": 2084387,
+     "converted_price": 10631250.0,
+     "converted_cost": 10631250.0
+    },
+    {
+     "lot_detail_id": 2084388,
+     "converted_price": 32622750.0,
+     "converted_cost": 32622750.0
+    },
+    {
+     "lot_detail_id": 2084389,
+     "converted_price": 35538750.0,
+     "converted_cost": 35538750.0
+    },
+    {
+     "lot_detail_id": 2084390,
+     "converted_price": 25150500.0,
+     "converted_cost": 25150500.0
+    },
+    {
+     "lot_detail_id": 2084391,
+     "converted_price": 10388250.0,
+     "converted_cost": 10388250.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 15035.14,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084383,
+     "converted_price": 940.84,
+     "converted_cost": 940.84
+    },
+    {
+     "lot_detail_id": 2084384,
+     "converted_price": 1450.27,
+     "converted_cost": 1450.27
+    },
+    {
+     "lot_detail_id": 2084385,
+     "converted_price": 2019.37,
+     "converted_cost": 2019.37
+    },
+    {
+     "lot_detail_id": 2084386,
+     "converted_price": 1987.24,
+     "converted_cost": 1987.24
+    },
+    {
+     "lot_detail_id": 2084387,
+     "converted_price": 803.15,
+     "converted_cost": 803.15
+    },
+    {
+     "lot_detail_id": 2084388,
+     "converted_price": 2464.55,
+     "converted_cost": 2464.55
+    },
+    {
+     "lot_detail_id": 2084389,
+     "converted_price": 2684.84,
+     "converted_cost": 2684.84
+    },
+    {
+     "lot_detail_id": 2084390,
+     "converted_price": 1900.04,
+     "converted_cost": 1900.04
+    },
+    {
+     "lot_detail_id": 2084391,
+     "converted_price": 784.8,
+     "converted_cost": 784.8
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 1367438.5,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084383,
+     "converted_price": 85569.25,
+     "converted_cost": 85569.25
+    },
+    {
+     "lot_detail_id": 2084384,
+     "converted_price": 131901.88,
+     "converted_cost": 131901.88
+    },
+    {
+     "lot_detail_id": 2084385,
+     "converted_price": 183660.84,
+     "converted_cost": 183660.84
+    },
+    {
+     "lot_detail_id": 2084386,
+     "converted_price": 180738.97,
+     "converted_cost": 180738.97
+    },
+    {
+     "lot_detail_id": 2084387,
+     "converted_price": 73046.92,
+     "converted_cost": 73046.92
+    },
+    {
+     "lot_detail_id": 2084388,
+     "converted_price": 224149.71,
+     "converted_cost": 224149.71
+    },
+    {
+     "lot_detail_id": 2084389,
+     "converted_price": 244185.44,
+     "converted_cost": 244185.44
+    },
+    {
+     "lot_detail_id": 2084390,
+     "converted_price": 172808.16,
+     "converted_cost": 172808.16
+    },
+    {
+     "lot_detail_id": 2084391,
+     "converted_price": 71377.28,
+     "converted_cost": 71377.28
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 16552.18,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084383,
+     "converted_price": 1035.77,
+     "converted_cost": 1035.77
+    },
+    {
+     "lot_detail_id": 2084384,
+     "converted_price": 1596.6,
+     "converted_cost": 1596.6
+    },
+    {
+     "lot_detail_id": 2084385,
+     "converted_price": 2223.12,
+     "converted_cost": 2223.12
+    },
+    {
+     "lot_detail_id": 2084386,
+     "converted_price": 2187.75,
+     "converted_cost": 2187.75
+    },
+    {
+     "lot_detail_id": 2084387,
+     "converted_price": 884.19,
+     "converted_cost": 884.19
+    },
+    {
+     "lot_detail_id": 2084388,
+     "converted_price": 2713.22,
+     "converted_cost": 2713.22
+    },
+    {
+     "lot_detail_id": 2084389,
+     "converted_price": 2955.74,
+     "converted_cost": 2955.74
+    },
+    {
+     "lot_detail_id": 2084390,
+     "converted_price": 2091.75,
+     "converted_cost": 2091.75
+    },
+    {
+     "lot_detail_id": 2084391,
+     "converted_price": 863.98,
+     "converted_cost": 863.98
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

@@ -1,0 +1,545 @@
+{
+ "id": 523690,
+ "display_no": "26120012523690",
+ "start_date": "2026-11-09T15:57:13",
+ "end_date": "2026-11-23T15:57:13",
+ "clarific_date": "2026-11-23T15:57:13",
+ "start_cost": 949236756.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2077879,\"Order_Num\":1,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24217648,\"Product_Id\":712509,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":949236756,\"Cost\":949236756,\"Description\":\"“Aeronavigatsiya axborotini boshqarish raqamli tizimi” uchun butlovchi qismlarni xarid qilish, Texnik topshiriqqa muvofiq.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9938377,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"26.30.30.000-00019\",\"Guarantee_Term\":36,\"Delivery_Term\":60,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Коммуникацион ускуна тизими\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 15.0,
+ "term_payment_days": 10,
+ "term_online_days": 10,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Директор\",\"Fullname\":\"Джумаев Дониер Ибрагимович\"},{\"Job_title\":\"Начальник службы\",\"Fullname\":\"Рева Андрей Игоревич\"}]",
+ "rest_time": 492724,
+ "customer_name": "\"O‘ZAERONAVIGATSIYA MARKAZI\" MCHJ",
+ "customer_tin": "201052000",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611031253104299.rar",
+ "tech_file_path": "/files/2026/11/3/202611031253104299.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 1461863.0,
+ "tech_doc_file_name": "20261611112457523690.pdf",
+ "tech_doc_file_path": "files/2026/11/16/20261611112457523690.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 300217.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611031253182915.doc",
+ "contract_proform_file_path": "/files/2026/11/3/202611031253182915.doc",
+ "contract_proform_file_ext": "DOC",
+ "contract_proform_file_sizes": 155648.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 20,
+ "nonauthorized_count": 3304,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2765694,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Tajriba to'g'risidagi ma'lumot",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 14.29,
+   "description": "O‘xshash tovarlarni yetkazib berish sohasidagi tajriba to‘g‘risidagi ma’lumotlarni firma blankida rasmiylashtirilgan, rahbar tomonidan imzolangan va muhr bilan tasdiqlangan holda taqdim etilishi lozim. Mavjud emas – 0 ball; Mavjud (2 yilgacha) – 5 ball; Mavjud (2 yil va undan ortiq) – 10 ball; / Предоставление информации об опыте в сфере поставки аналогичных товаров, оформленной на фирменном бланке, подписанной руководителем и заверенной печатью. Не имеется – 0 балл; Имеется (до до 2 лет) – 5 баллов; Имеется (2 года и более) – 10 баллов;",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Mavjud (2 yil va undan ortiq)/Имеется (2 года и более)"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Mavjud (2 yilgacha)/Имеется (до до 2 лет)"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2765695,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Korrupsiyaga qarshi xat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 7.14,
+   "description": "Tanlov ishtirokchilari tomonidan korrupsiyaga yo‘l qo‘yilmasligi haqidagi arizani taqdim etish majburiydir. Shuningdek, ijrochi tashkilotning rasmiy blankasida, rahbar imzosi va korxona muhr bilan tasdiqlangan “korrupsiyaga qarshi” bandining mavjudligi talab etiladi. Rahbar tomonidan imzolanmagan va muhr bilan tasdiqlanmagan rasmiy blankadagi hujjat mavjud bo‘lmasa, ishtirokchi diskvalifikatsiya qilinadi./Обязательное предоставлении участниками отбора заявления по недопущению коррупционных проявлений. Обязательное наличие антикоррупционной оговорки, представленной на официальном бланке Исполнителя, заверенной подписью руководителя и печатью предприятия. В случае отсутствия документа на фирменном бланке, подписанного руководителем и заверенного печатью участник дисквалифицируется.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2765696,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Kafolat xati hamda taklif etilayotgan uskuna texnik tavsifi",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 28.57,
+   "description": "Texnik topshiriq talablariga muvofiqlik (kafolat xati shaklida) hamda taklif etilayotgan uskuna texnik tavsifi taqdim etilish. Rahbar tomonidan imzolangan va muhr bilan tasdiqlangan rasmiy blankadagi hujjat taqdim etilmagan taqdirda yoki taqdim etilgan taklif texnik topshiriq talablaridan kamida bittasiga mos kelmagan hollarda, ishtirokchi diskvalifikatsiya qilinadi./Соответствие требованиям технического задания (в виде гарантийного письма) с предоставлением технического описания предлагаемого оборудования. В случае отсутствия документа на фирменном бланке, подписанного руководителем и заверенного печатью или не соответствия поданного предложения хотя бы одному из требований технического задания, участник дисквалифицируется.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2765697,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi hujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 14.29,
+   "description": "Majburiy sertifikatlash talab etilganda O‘zbekiston Respublikasi muvofiqlik sertifikati taqdim etiladi. Agar sertifikatlash talab etilmasa – tasdiqlovchi hujjat taqdim etiladi. Sertifikat mavjud bo‘lmasa, yetkazib berish muddati davomida uni taqdim etish bo‘yicha kafolat xati beriladi. Hujjatlar mavjud bo‘lmasa, ishtirokchi diskvalifikatsiya qilinadi./При обязательной сертификации предоставляется сертификат соответствия Республики Узбекистан. Если сертификация не требуется – предоставляется подтверждающий документ. При отсутствии сертификата выдается гарантийное письмо о его предоставлении в срок поставки. В случае отсутствия документов участник дисквалифицируется",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2765698,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi hujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 21.43,
+   "description": "Ishlab chiqaruvchidan (MAF – Manufacturer Authorization Form) yoki uskunaning rasmiy distribyutoridan (DAF – Distributor Authorization Form) berilgan avtorizatsiya xati. (Agar elektron tanlov ishtirokchisi taklif etilayotgan uskunaning ishlab chiqaruvchisi bo‘lmasa, u ishlab chiqaruvchi yoki uning rasmiy distribyutori tomonidan ishtirokchi nomiga rasmiylashtirilgan, mazkur uskunani yetkazib berish vakolatini tasdiqlovchi avtorizatsiya xatini taqdim etishi lozim. Mazkur xat tashkilot raxbari va muhr (mavjud bo‘lsa) bilan tasdiqlangan bo‘lishi kerak). Hujjatlar mavjud bo‘lmasa, ishtirokchi diskvalifikatsiya qilinadi./Авторизационное письмо от производителя (MAF) или официального дистрибьютора оборудования (DAF) (Если участник электронного конкурса не является производителем предлагаемого оборудования, он должен предоставить авторизационное письмо, оформленное на имя участника производителем либо его официальным дистрибьютором, подтверждающее полномочия на поставку данного оборудования. Указанное письмо должно быть подписано руководителем организации и заверено печатью (при наличии). В случае отсутствия документов участник дисквалифицируется.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2765699,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Kafolat xati yoki tasdiqlovchi hujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 14.29,
+   "description": "O‘zbekiston Respublikasi hududida servis markazining mavjudligi kafolat xati yoki boshqa tasdiqlovchi hujjat bilan tasdiqlangan bo‘lishi lozim. O‘zbekiston Respublikasi hududida rasmiy servis markazining mavjudligi kafolat xati yoki boshqa tasdiqlovchi hujjat bilan tasdiqlangan bo‘lishi lozim (ishtirokchi rasmiy servis markazining ish tartibi, murojaatlarga javob berish muddatlari, manzili, aloqa ma’lumotlari hamda yuridik rekvizitlari to‘g‘risidagi ma’lumotlarni taqdim etishi shart). Hujjatlar mavjud bo‘lmasa, ishtirokchi diskvalifikatsiya qilinadi./Наличие сервисного центра на территории Республики Узбекистан в виде гарантийного письма или подтверждающего документа (участник должен предоставить режим работы, сроки реагирования, адреса, контакты и юридические реквизиты официального сервисного центра оборудования). В случае отсутствия документов участник дисквалифицируется.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2765694,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Tajriba to'g'risidagi ma'lumot\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":14.29,\"Description\":\"O‘xshash tovarlarni yetkazib berish sohasidagi tajriba to‘g‘risidagi ma’lumotlarni firma blankida rasmiylashtirilgan, rahbar tomonidan imzolangan va muhr bilan tasdiqlangan holda taqdim etilishi lozim. Mavjud emas – 0 ball; Mavjud (2 yilgacha) – 5 ball; Mavjud (2 yil va undan ortiq) – 10 ball; / Предоставление информации об опыте в сфере поставки аналогичных товаров, оформленной на фирменном бланке, подписанной руководителем и заверенной печатью. Не имеется – 0 балл; Имеется (до до 2 лет) – 5 баллов; Имеется (2 года и более) – 10 баллов;\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Mavjud (2 yil va undan ortiq)/Имеется (2 года и более)\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Mavjud (2 yilgacha)/Имеется (до до 2 лет)\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2765695,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг сифат кафолатларига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Korrupsiyaga qarshi xat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":7.14,\"Description\":\"Tanlov ishtirokchilari tomonidan korrupsiyaga yo‘l qo‘yilmasligi haqidagi arizani taqdim etish majburiydir. Shuningdek, ijrochi tashkilotning rasmiy blankasida, rahbar imzosi va korxona muhr bilan tasdiqlangan “korrupsiyaga qarshi” bandining mavjudligi talab etiladi. Rahbar tomonidan imzolanmagan va muhr bilan tasdiqlanmagan rasmiy blankadagi hujjat mavjud bo‘lmasa, ishtirokchi diskvalifikatsiya qilinadi./Обязательное предоставлении участниками отбора заявления по недопущению коррупционных проявлений. Обязательное наличие антикоррупционной оговорки, представленной на официальном бланке Исполнителя, заверенной подписью руководителя и печатью предприятия. В случае отсутствия документа на фирменном бланке, подписанного руководителем и заверенного печатью участник дисквалифицируется.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2765696,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Kafolat xati hamda taklif etilayotgan uskuna texnik tavsifi\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":28.57,\"Description\":\"Texnik topshiriq talablariga muvofiqlik (kafolat xati shaklida) hamda taklif etilayotgan uskuna texnik tavsifi taqdim etilish. Rahbar tomonidan imzolangan va muhr bilan tasdiqlangan rasmiy blankadagi hujjat taqdim etilmagan taqdirda yoki taqdim etilgan taklif texnik topshiriq talablaridan kamida bittasiga mos kelmagan hollarda, ishtirokchi diskvalifikatsiya qilinadi./Соответствие требованиям технического задания (в виде гарантийного письма) с предоставлением технического описания предлагаемого оборудования. В случае отсутствия документа на фирменном бланке, подписанного руководителем и заверенного печатью или не соответствия поданного предложения хотя бы одному из требований технического задания, участник дисквалифицируется.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2765697,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг сифат кафолатларига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi hujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":14.29,\"Description\":\"Majburiy sertifikatlash talab etilganda O‘zbekiston Respublikasi muvofiqlik sertifikati taqdim etiladi. Agar sertifikatlash talab etilmasa – tasdiqlovchi hujjat taqdim etiladi. Sertifikat mavjud bo‘lmasa, yetkazib berish muddati davomida uni taqdim etish bo‘yicha kafolat xati beriladi. Hujjatlar mavjud bo‘lmasa, ishtirokchi diskvalifikatsiya qilinadi./При обязательной сертификации предоставляется сертификат соответствия Республики Узбекистан. Если сертификация не требуется – предоставляется подтверждающий документ. При отсутствии сертификата выдается гарантийное письмо о его предоставлении в срок поставки. В случае отсутствия документов участник дисквалифицируется\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2765698,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi hujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":21.43,\"Description\":\"Ishlab chiqaruvchidan (MAF – Manufacturer Authorization Form) yoki uskunaning rasmiy distribyutoridan (DAF – Distributor Authorization Form) berilgan avtorizatsiya xati. (Agar elektron tanlov ishtirokchisi taklif etilayotgan uskunaning ishlab chiqaruvchisi bo‘lmasa, u ishlab chiqaruvchi yoki uning rasmiy distribyutori tomonidan ishtirokchi nomiga rasmiylashtirilgan, mazkur uskunani yetkazib berish vakolatini tasdiqlovchi avtorizatsiya xatini taqdim etishi lozim. Mazkur xat tashkilot raxbari va muhr (mavjud bo‘lsa) bilan tasdiqlangan bo‘lishi kerak). Hujjatlar mavjud bo‘lmasa, ishtirokchi diskvalifikatsiya qilinadi./Авторизационное письмо от производителя (MAF) или официального дистрибьютора оборудования (DAF) (Если участник электронного конкурса не является производителем предлагаемого оборудования, он должен предоставить авторизационное письмо, оформленное на имя участника производителем либо его официальным дистрибьютором, подтверждающее полномочия на поставку данного оборудования. Указанное письмо должно быть подписано руководителем организации и заверено печатью (при наличии). В случае отсутствия документов участник дисквалифицируется.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2765699,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Kafolat xati yoki tasdiqlovchi hujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":14.29,\"Description\":\"O‘zbekiston Respublikasi hududida servis markazining mavjudligi kafolat xati yoki boshqa tasdiqlovchi hujjat bilan tasdiqlangan bo‘lishi lozim. O‘zbekiston Respublikasi hududida rasmiy servis markazining mavjudligi kafolat xati yoki boshqa tasdiqlovchi hujjat bilan tasdiqlangan bo‘lishi lozim (ishtirokchi rasmiy servis markazining ish tartibi, murojaatlarga javob berish muddatlari, manzili, aloqa ma’lumotlari hamda yuridik rekvizitlari to‘g‘risidagi ma’lumotlarni taqdim etishi shart). Hujjatlar mavjud bo‘lmasa, ishtirokchi diskvalifikatsiya qilinadi./Наличие сервисного центра на территории Республики Узбекистан в виде гарантийного письма или подтверждающего документа (участник должен предоставить режим работы, сроки реагирования, адреса, контакты и юридические реквизиты официального сервисного центра оборудования). В случае отсутствия документов участник дисквалифицируется.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1103863,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1103864,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1103865,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": "O‘zbekiston Respublikasi Soliq qo‘mitasi tomonidan berilgan soliqlar va yig‘imlarni to‘lash bo‘yicha muddati o‘tgan qarzdorlik mavjud emasligi to‘g‘risidagi ma’lumotnoma.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1103866,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1103867,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1103868,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi to‘g‘risidagi ma’lumot.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1103863,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1103864,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1103865,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"O‘zbekiston Respublikasi Soliq qo‘mitasi tomonidan berilgan soliqlar va yig‘imlarni to‘lash bo‘yicha muddati o‘tgan qarzdorlik mavjud emasligi to‘g‘risidagi ma’lumotnoma.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1103866,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1103867,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1103868,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi to‘g‘risidagi ma’lumot.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 10913,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Мирабадский район",
+ "delivering_address": "Eski Sarakul ko'chasi 103-uy",
+ "delivering_phone": "781402711",
+ "addon_description": "Quyidagi ishtirokchilar tanlovda ishtirok etishiga yo‘l qo‘yilmaydi: - qayta tashkil etish, tugatish jarayonida bo‘lganlar; - «Buyurtmachi» bilan sud yoki arbitraj jarayonida bo‘lganlar; - vijdonsiz bajaruvchilar yagona reestriga kiritilganlar; - soliq va yig‘imlarni to‘lash bo‘yicha muddati o‘tgan qarzdorligi mavjud bo‘lganlar.",
+ "technical_description": "Техник топшириқ (ТЗ)",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "ул.Локомотивная, 13",
+ "customer_zip": "100090",
+ "min_point": 60,
+ "financing_source": "O‘z mablag‘lari.",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 78947.73,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2077879,
+     "converted_price": 78947.73,
+     "converted_cost": 78947.73
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 71712.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2077879,
+     "converted_price": 71712.0,
+     "converted_cost": 71712.0
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 6522170.92,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2077879,
+     "converted_price": 6522170.92,
+     "converted_cost": 6522170.92
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 949236756.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2077879,
+     "converted_price": 949236756.0,
+     "converted_cost": 949236756.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

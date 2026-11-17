@@ -1,0 +1,519 @@
+{
+ "id": 524322,
+ "display_no": "26110012524322",
+ "start_date": "2026-11-12T10:33:56",
+ "end_date": "2026-11-19T10:33:56",
+ "clarific_date": "2026-11-19T10:33:56",
+ "start_cost": 121362043.75,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2081143,\"Order_Num\":1,\"Category_Id\":125374,\"Plangraph_Detail_Id\":24350917,\"Product_Id\":646918,\"Product_Type_Id\":3,\"Quantity\":173913.48,\"Price\":697.83,\"Cost\":121362043.75,\"Description\":\"   ЩПС махсулотини ташиб бериш хизмати\",\"Expenditure_Id\":44299990,\"Expenditure_Name\":\"Прочие расходы на приобретение товаров и услуг\",\"Plan_Id\":10005643,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"49.41.19.900-00002\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Қуруқлик ва қувурли транспорт хизматлари\",\"Product_Name\":\"Юкларни ташиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"тонна/километр\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/йўқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3},{\"Property_Name\":\"Тури\",\"User_Value\":\"Ички\",\"User_Value_Id\":2,\"Pnum\":4}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 10,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":4,\"Name\":\"Узбекский К\"}]",
+ "contacts": "[{\"Job_title\":\"Директор\",\"Fullname\":\"Рзабаев Баубек Аскарович\"}]",
+ "rest_time": 127836,
+ "customer_name": "Шуманай ТЙФДМ",
+ "customer_tin": "200954833",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611075703954506.PDF",
+ "tech_file_path": "/files/2026/11/7/202611075703954506.PDF",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 777386.0,
+ "tech_doc_file_name": "20261311072450524322.pdf",
+ "tech_doc_file_path": "files/2026/11/13/20261311072450524322.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 278211.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611075704075345.docx",
+ "contract_proform_file_path": "/files/2026/11/7/202611075704075345.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 18641.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 6,
+ "nonauthorized_count": 2056,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2769337,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Маълумотнома",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Корхона тўғрисида маълумот (банк реквизитлари, корхона ишчилари сони, корхона гувохномаси, фаолият муддати, фаолият тури (ушбу маълумотлар тўлиқ бўлиши шарт! Хужжатлар имзо ва муҳр билан тасдикланган бўлиши шарт)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Хужжатлар тулик бириктирилмаса"
+    }
+   ],
+   "form_name": "7-ilova",
+   "form_file_path": null
+  },
+  {
+   "id": 2769338,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Маълумотнома",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Корхона балансидаги махсус техникалар (Шартнома асосида) руйхати",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Хужжатлар тулик бириктирилмаса"
+    }
+   ],
+   "form_name": "7-ilova",
+   "form_file_path": null
+  },
+  {
+   "id": 2769339,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Маълумотнома",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Ушбу танлаб олишда голиб корхонага тегишли хайдовчиларнинг малакали мутахассис булиши (хайдовчилик гувохномалари)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Суралган хужжатлар тулик бириктирилмаса"
+    }
+   ],
+   "form_name": "7-ilova",
+   "form_file_path": null
+  },
+  {
+   "id": 2769340,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Маълумотнома",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Курсатилган хизматларни канча аник муддатда ташиб бериш буйича Кафолат хати",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Агар техник булимда курсатилган муддатдан куп муддатда ташиб бериш буйича Кафолат хати берилса"
+    }
+   ],
+   "form_name": "7-ilova",
+   "form_file_path": null
+  },
+  {
+   "id": 2769341,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "20",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "техник параметрда курсатилган техникаларни тулик хажмда ва техник параметрда курсатилган жойга йетказиб бериш талаби куйилади. Шу ишларни бажариш учун кафолат берилиши шарт ва Иштирокчи ва буюртмачи уртасида Карз йуклиги (Акт сверка)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Техник булимда курсатилган муддатда куп вактда ташиб бериш буйича кафолат хати берилса"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Буюртмачи ва иштирокчи уртасида карз мавжуд булса"
+    }
+   ],
+   "form_name": "7-ilova",
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2769337,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Маълумотнома\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Корхона тўғрисида маълумот (банк реквизитлари, корхона ишчилари сони, корхона гувохномаси, фаолият муддати, фаолият тури (ушбу маълумотлар тўлиқ бўлиши шарт! Хужжатлар имзо ва муҳр билан тасдикланган бўлиши шарт)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Хужжатлар тулик бириктирилмаса\"}],\"Form_Name\":\"7-ilova\",\"Form_File_Path\":null},{\"Id\":2769338,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Маълумотнома\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Корхона балансидаги махсус техникалар (Шартнома асосида) руйхати\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Хужжатлар тулик бириктирилмаса\"}],\"Form_Name\":\"7-ilova\",\"Form_File_Path\":null},{\"Id\":2769339,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Маълумотнома\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Ушбу танлаб олишда голиб корхонага тегишли хайдовчиларнинг малакали мутахассис булиши (хайдовчилик гувохномалари)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Суралган хужжатлар тулик бириктирилмаса\"}],\"Form_Name\":\"7-ilova\",\"Form_File_Path\":null},{\"Id\":2769340,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Маълумотнома\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Курсатилган хизматларни канча аник муддатда ташиб бериш буйича Кафолат хати\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Агар техник булимда курсатилган муддатдан куп муддатда ташиб бериш буйича Кафолат хати берилса\"}],\"Form_Name\":\"7-ilova\",\"Form_File_Path\":null},{\"Id\":2769341,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"20\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"техник параметрда курсатилган техникаларни тулик хажмда ва техник параметрда курсатилган жойга йетказиб бериш талаби куйилади. Шу ишларни бажариш учун кафолат берилиши шарт ва Иштирокчи ва буюртмачи уртасида Карз йуклиги (Акт сверка)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Техник булимда курсатилган муддатда куп вактда ташиб бериш буйича кафолат хати берилса\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Буюртмачи ва иштирокчи уртасида карз мавжуд булса\"}],\"Form_Name\":\"7-ilova\",\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1108654,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108655,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108656,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108657,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108658,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108659,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1108654,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108655,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108656,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108657,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108658,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108659,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 493242,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Республика Каракалпакстан",
+ "delivering_district_name": "Ходжейлийский район",
+ "delivering_address": "Хужайли тумани Кун нуры МФЙ ички кучалари",
+ "delivering_phone": "912654343",
+ "addon_description": "+998912654343",
+ "technical_description": "Маълумотнома",
+ "tech_coef": 60.0,
+ "cost_coef": 40.0,
+ "old_id": null,
+ "customer_region_name": "Qoraqalpog`iston Respublikasi",
+ "customer_district_name": "Qoraqalpog`iston Respublikasi",
+ "customer_street": "Шуманай р.         Ул  Ажинияз 83",
+ "customer_zip": "00000",
+ "min_point": 60,
+ "financing_source": "Бюджет",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 121362043.75,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081143,
+     "converted_price": 697.83,
+     "converted_cost": 121362043.75
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 9168.54,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081143,
+     "converted_price": 0.05,
+     "converted_cost": 9168.54
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 10093.64,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081143,
+     "converted_price": 0.05,
+     "converted_cost": 10093.64
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 833874.14,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081143,
+     "converted_price": 4.79,
+     "converted_cost": 833874.14
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

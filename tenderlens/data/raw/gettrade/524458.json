@@ -1,0 +1,595 @@
+{
+ "id": 524458,
+ "display_no": "26120012524458",
+ "start_date": "2026-11-13T15:45:18",
+ "end_date": "2026-11-20T15:45:18",
+ "clarific_date": "2026-11-20T15:45:18",
+ "start_cost": 190000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2081775,\"Order_Num\":1,\"Category_Id\":126700,\"Plangraph_Detail_Id\":24267565,\"Product_Id\":464371,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":190000000,\"Cost\":190000000,\"Description\":\"Услуга общего аудита согласно тз / Shartnomaga muvofiq umumiy audit xizmati\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9964288,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"69.20.10.000-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":30,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Юридик ва бухгалтерия хизматлари\",\"Product_Name\":\"Умумий аудит хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 30,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Shartnomalar va xaridlar bo‘limi boshlig‘i\",\"Fullname\":\"MUXITDINOV ANVAR OMANULLAYEVICH\"}]",
+ "rest_time": 232863,
+ "customer_name": "\"YAGONA INTEGRATOR-UZINFOCOM\" MCHJ",
+ "customer_tin": "204118319",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611040442065885.pdf",
+ "tech_file_path": "/files/2026/11/4/202611040442065885.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 4043687.0,
+ "tech_doc_file_name": "20261711082426524458.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711082426524458.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 247954.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611040442207974.doc",
+ "contract_proform_file_path": "/files/2026/11/4/202611040442207974.doc",
+ "contract_proform_file_ext": "DOC",
+ "contract_proform_file_sizes": 76800.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 14,
+ "nonauthorized_count": 1580,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2770098,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Davlat ulushi mavjud tashkilotlarda auditorlik tekshiruvlarini o'tkazish tajribasi / Опыт проведения аудита организаций с государственным участием",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Ishtirokchi so'nggi 3 yil davomida davlat ulushi 50 foizdan ortiq bo'lgan tashkilotlarda audit o'tkazganlik tajribasini tasdiqlashi lozim. Yakunlangan shartnomalar reyestri, shartnomalar nusxalari va imzolangan xizmat ko'rsatish dalolatnomalari yuklanishi kerak. / Участник должен подтвердить опыт проведения аудита организаций с государственной долей более 50% за последние 3 года. Необходимо загрузить реестр завершённых договоров, копии договоров и подписанные акты оказанных услуг.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "3 завершённых договора / 3 ta yakunlangan shartnoma"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "4 завершённых договора / 4 ta yakunlangan shartnoma"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "5 и более завершённых договоров /5 ta va undan ortiq yakunlangan shartnoma"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2770099,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": false,
+   "file_name": "IT-sohasidagi tashkilotlarda auditorlik tekshiruvlarini o'tkazish tajribasi / ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Ishtirokchi dasturiy ta'minot ishlab chiqish, IT-konsalting, texnik qo'llab-quvvatlash yoki boshqa IT-xizmatlarni ko'rsatuvchi tashkilotlarda audit o'tkazganlik tajribasini tasdiqlashi lozim. So'nggi 3 yilda yakunlangan shartnomalar reyestri, shartnomalar, dalolatnomalar va buyurtmachilarning IT-faoliyatini tasdiqlovchi ma'lumotlar yuklanishi kerak. / Участник должен подтвердить опыт аудита организаций, осуществляющих разработку программного обеспечения, IT-консалтинг, техническую поддержку или другие IT-услуги. Необходимо загрузить реестр завершённых договоров за последние 3 года, договоры, акты и сведения, подтверждающие IT-деятельность заказчиков. ",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "3 завершённых договора / 3 ta yakunlangan shartnoma"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "4 завершённых договора / 4 ta yakunlangan shartnoma"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "5 и более завершённых договоров / 5 ta va undan ortiq yakunlangan shartnoma"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2770100,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": false,
+   "file_name": "Auditorlik guruhining malakasi va tarkibi /  Квалификация и состав аудиторской группы",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Ishtirokchi auditorlik guruhi tarkibini, guruh rahbari va auditorlarning malakasi, tajribasi hamda vazifalar taqsimotini taqdim etishi lozim. Mutaxassislar ro'yxati, rezyumelar, malaka sertifikatlari va ularning loyihadagi ishtirokini tasdiqlovchi hujjatlar yuklanishi kerak. /Участник должен представить состав аудиторской группы с указанием руководителя, аудиторов, их квалификации, опыта и распределения обязанностей. Необходимо загрузить список специалистов, резюме, квалификационные сертификаты и документы, подтверждающие их участие в проекте.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Представлены специалисты и сертификаты, но роли распределены не полностью / Mutaxassislar va sertifikatlar taqdim etilgan, biroq vazifalar to'liq taqsimlanmagan"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Подтверждены квалификация, участие специалистов и распределение обязанностей / Malaka, mutaxassislarning ishtiroki va vazifalar taqsimoti tasdiqlangan"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Дополнительно подтверждена профильная профессиональная квалификация по финансовой отчётности, аудиту или налогообложению / Qo'shimcha ravishda moliyaviy hisobot, audit yoki soliqqa tortish bo'yicha kasbiy malaka tasdiqlangan"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770101,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "BHMS bo'yicha moliyaviy auditni o'tkazish metodologiyasi /  Методология проведения финансового аудита по НСБУ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Ishtirokchi BHMS bo'yicha oraliq va yillik moliyaviy audit dasturini taqdim etishi lozim. Dastur IT-shartnomalar bo'yicha daromadlarni tan olish, IT-mahsulotlari tannarxi, nomoddiy aktivlar, valyuta va eksport operatsiyalari, auditni rejalashtirish va moliyaviy hisobotlarni tahlil qilishni qamrab olishi kerak. Har bir yo'nalish bo'yicha tekshiruv amallari, hujjatlar va kutilayotgan natijalar ko'rsatilishi lozim. / Участник должен представить программу промежуточного и годового финансового аудита по НСБУ, охватывающую признание выручки по IT-контрактам, себестоимость IT-продуктов, нематериальные активы, валютные и экспортные операции, а также планирование проверки и анализ финансовой отчётности. По каждому направлению должны быть указаны проверочные процедуры, документы и ожидаемые результаты.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Раскрыты 3–4 направления аудита / Auditning 3–4 ta yo'nalishi yoritilgan"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Раскрыты все 5 направлений без подробных проверочных процедур / Barcha 5 ta yo'nalish batafsil tekshiruv amallarisiz yoritilgan"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Все 5 направлений раскрыты с конкретными процедурами, документами и ожидаемыми результатами / Barcha 5 ta yo'nalish aniq amallar, hujjatlar va kutilayotgan natijalar bilan yoritilgan"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2770102,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": false,
+   "file_name": "IT Park rezidentligi talablariga rioya etilishi bo'yicha maxsus audit metodologiyasi /  Методология специального аудита соблюдения требований IT Park",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Ishtirokchi IT Park rezidentligi talablariga rioya etilishi bo'yicha maxsus audit dasturini taqdim etishi lozim. Dastur faoliyatning ruxsat etilgan yo'nalishlarga muvofiqligi, daromadlar tarkibi, sohaviy tushum, eksport operatsiyalari, alohida hisob va IT Park Direksiyasiga majburiy ajratmalarni tekshirish hamda maxsus xulosa tayyorlash tartibini qamrab olishi kerak. / Участник должен представить программу специального аудита соблюдения требований резидентства IT Park. Программа должна включать проверку соответствия деятельности разрешённым направлениям, структуры доходов, профильной выручки, экспортных операций, раздельного учёта и обязательных отчислений Дирекции IT Park, а также порядок подготовки специального заключения.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Раскрыто одно из трёх направлений / Uchta yo'nalishdan bittasi yoritilgan"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Раскрыты два направления либо все три без конкретных процедур / Ikki yo'nalish yoki aniq amallarsiz barcha uchta yo'nalish yoritilgan"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Все три направления раскрыты с проверочными процедурами, документами и ожидаемыми результатами / Barcha uchta yo'nalish tekshiruv amallari, hujjatlar va kutilayotgan natijalar bilan yoritilgan"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770103,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": false,
+   "file_name": "IT-operatsiyalari bo'yicha soliq auditi metodologiyasi /  Методология налогового аудита IT-операций",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Ishtirokchi IT-operatsiyalari bo'yicha soliq auditi metodikasini taqdim etishi lozim. Metodika soliq imtiyozlarini qo'llash, norezidentlardan xizmatlar, bulutli servislar, API va litsenziyalarni xarid qilishda soliq majburiyatlari, daromadlarni to'g'ri tan olish va soliq xatarlarini aniqlashni qamrab olishi kerak. Tekshiruv dasturi va soliq xatarlari matritsasi ilova qilinishi lozim. / Участник должен представить методику налогового аудита IT-операций, включающую проверку применения налоговых льгот, налоговых обязательств при приобретении услуг у нерезидентов, облачных сервисов, API и лицензий, правильности признания доходов и выявления налоговых рисков. Необходимо приложить программу проверки и матрицу налоговых рисков.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Представлено общее описание налогового аудита без полного раскрытия процедур / Soliq auditi bo'yicha amallar to'liq yoritilmagan umumiy tavsif taqdim etilgan"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Представлена подробная методика налогового аудита с процедурами, перечнем документов и матрицей налоговых рисков /  Aniq tekshiruv amallari, hujjatlar ro'yxati va soliq xatarlari matritsasini o'z ichiga olgan batafsil metodika taqdim etilgan"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2770098,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Davlat ulushi mavjud tashkilotlarda auditorlik tekshiruvlarini o'tkazish tajribasi / Опыт проведения аудита организаций с государственным участием\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Ishtirokchi so'nggi 3 yil davomida davlat ulushi 50 foizdan ortiq bo'lgan tashkilotlarda audit o'tkazganlik tajribasini tasdiqlashi lozim. Yakunlangan shartnomalar reyestri, shartnomalar nusxalari va imzolangan xizmat ko'rsatish dalolatnomalari yuklanishi kerak. / Участник должен подтвердить опыт проведения аудита организаций с государственной долей более 50% за последние 3 года. Необходимо загрузить реестр завершённых договоров, копии договоров и подписанные акты оказанных услуг.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"3 завершённых договора / 3 ta yakunlangan shartnoma\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"4 завершённых договора / 4 ta yakunlangan shartnoma\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"5 и более завершённых договоров /5 ta va undan ortiq yakunlangan shartnoma\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2770099,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":false,\"File_Name\":\"IT-sohasidagi tashkilotlarda auditorlik tekshiruvlarini o'tkazish tajribasi / \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Ishtirokchi dasturiy ta'minot ishlab chiqish, IT-konsalting, texnik qo'llab-quvvatlash yoki boshqa IT-xizmatlarni ko'rsatuvchi tashkilotlarda audit o'tkazganlik tajribasini tasdiqlashi lozim. So'nggi 3 yilda yakunlangan shartnomalar reyestri, shartnomalar, dalolatnomalar va buyurtmachilarning IT-faoliyatini tasdiqlovchi ma'lumotlar yuklanishi kerak. / Участник должен подтвердить опыт аудита организаций, осуществляющих разработку программного обеспечения, IT-консалтинг, техническую поддержку или другие IT-услуги. Необходимо загрузить реестр завершённых договоров за последние 3 года, договоры, акты и сведения, подтверждающие IT-деятельность заказчиков. \",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"3 завершённых договора / 3 ta yakunlangan shartnoma\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"4 завершённых договора / 4 ta yakunlangan shartnoma\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"5 и более завершённых договоров / 5 ta va undan ortiq yakunlangan shartnoma\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2770100,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":false,\"File_Name\":\"Auditorlik guruhining malakasi va tarkibi /  Квалификация и состав аудиторской группы\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Ishtirokchi auditorlik guruhi tarkibini, guruh rahbari va auditorlarning malakasi, tajribasi hamda vazifalar taqsimotini taqdim etishi lozim. Mutaxassislar ro'yxati, rezyumelar, malaka sertifikatlari va ularning loyihadagi ishtirokini tasdiqlovchi hujjatlar yuklanishi kerak. /Участник должен представить состав аудиторской группы с указанием руководителя, аудиторов, их квалификации, опыта и распределения обязанностей. Необходимо загрузить список специалистов, резюме, квалификационные сертификаты и документы, подтверждающие их участие в проекте.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Представлены специалисты и сертификаты, но роли распределены не полностью / Mutaxassislar va sertifikatlar taqdim etilgan, biroq vazifalar to'liq taqsimlanmagan\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Подтверждены квалификация, участие специалистов и распределение обязанностей / Malaka, mutaxassislarning ishtiroki va vazifalar taqsimoti tasdiqlangan\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Дополнительно подтверждена профильная профессиональная квалификация по финансовой отчётности, аудиту или налогообложению / Qo'shimcha ravishda moliyaviy hisobot, audit yoki soliqqa tortish bo'yicha kasbiy malaka tasdiqlangan\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770101,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"BHMS bo'yicha moliyaviy auditni o'tkazish metodologiyasi /  Методология проведения финансового аудита по НСБУ\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Ishtirokchi BHMS bo'yicha oraliq va yillik moliyaviy audit dasturini taqdim etishi lozim. Dastur IT-shartnomalar bo'yicha daromadlarni tan olish, IT-mahsulotlari tannarxi, nomoddiy aktivlar, valyuta va eksport operatsiyalari, auditni rejalashtirish va moliyaviy hisobotlarni tahlil qilishni qamrab olishi kerak. Har bir yo'nalish bo'yicha tekshiruv amallari, hujjatlar va kutilayotgan natijalar ko'rsatilishi lozim. / Участник должен представить программу промежуточного и годового финансового аудита по НСБУ, охватывающую признание выручки по IT-контрактам, себестоимость IT-продуктов, нематериальные активы, валютные и экспортные операции, а также планирование проверки и анализ финансовой отчётности. По каждому направлению должны быть указаны проверочные процедуры, документы и ожидаемые результаты.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Раскрыты 3–4 направления аудита / Auditning 3–4 ta yo'nalishi yoritilgan\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Раскрыты все 5 направлений без подробных проверочных процедур / Barcha 5 ta yo'nalish batafsil tekshiruv amallarisiz yoritilgan\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Все 5 направлений раскрыты с конкретными процедурами, документами и ожидаемыми результатами / Barcha 5 ta yo'nalish aniq amallar, hujjatlar va kutilayotgan natijalar bilan yoritilgan\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2770102,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":false,\"File_Name\":\"IT Park rezidentligi talablariga rioya etilishi bo'yicha maxsus audit metodologiyasi /  Методология специального аудита соблюдения требований IT Park\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Ishtirokchi IT Park rezidentligi talablariga rioya etilishi bo'yicha maxsus audit dasturini taqdim etishi lozim. Dastur faoliyatning ruxsat etilgan yo'nalishlarga muvofiqligi, daromadlar tarkibi, sohaviy tushum, eksport operatsiyalari, alohida hisob va IT Park Direksiyasiga majburiy ajratmalarni tekshirish hamda maxsus xulosa tayyorlash tartibini qamrab olishi kerak. / Участник должен представить программу специального аудита соблюдения требований резидентства IT Park. Программа должна включать проверку соответствия деятельности разрешённым направлениям, структуры доходов, профильной выручки, экспортных операций, раздельного учёта и обязательных отчислений Дирекции IT Park, а также порядок подготовки специального заключения.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Раскрыто одно из трёх направлений / Uchta yo'nalishdan bittasi yoritilgan\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Раскрыты два направления либо все три без конкретных процедур / Ikki yo'nalish yoki aniq amallarsiz barcha uchta yo'nalish yoritilgan\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Все три направления раскрыты с проверочными процедурами, документами и ожидаемыми результатами / Barcha uchta yo'nalish tekshiruv amallari, hujjatlar va kutilayotgan natijalar bilan yoritilgan\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770103,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":false,\"File_Name\":\"IT-operatsiyalari bo'yicha soliq auditi metodologiyasi /  Методология налогового аудита IT-операций\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Ishtirokchi IT-operatsiyalari bo'yicha soliq auditi metodikasini taqdim etishi lozim. Metodika soliq imtiyozlarini qo'llash, norezidentlardan xizmatlar, bulutli servislar, API va litsenziyalarni xarid qilishda soliq majburiyatlari, daromadlarni to'g'ri tan olish va soliq xatarlarini aniqlashni qamrab olishi kerak. Tekshiruv dasturi va soliq xatarlari matritsasi ilova qilinishi lozim. / Участник должен представить методику налогового аудита IT-операций, включающую проверку применения налоговых льгот, налоговых обязательств при приобретении услуг у нерезидентов, облачных сервисов, API и лицензий, правильности признания доходов и выявления налоговых рисков. Необходимо приложить программу проверки и матрицу налоговых рисков.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Представлено общее описание налогового аудита без полного раскрытия процедур / Soliq auditi bo'yicha amallar to'liq yoritilmagan umumiy tavsif taqdim etilgan\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Представлена подробная методика налогового аудита с процедурами, перечнем документов и матрицей налоговых рисков /  Aniq tekshiruv amallari, hujjatlar ro'yxati va soliq xatarlari matritsasini o'z ichiga olgan batafsil metodika taqdim etilgan\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1109624,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109625,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109626,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109627,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109628,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109629,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1109624,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109625,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109626,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109627,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109628,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109629,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 138775,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Шайхантахурский район",
+ "delivering_address": "Toshkent shahri, Shayxontohur tumani, A.Navoiy ko‘chasi, 28-B uy",
+ "delivering_phone": "712022202",
+ "addon_description": "Eng yaxshi taklifni tanlashda ishtirok etishi mumkin: • mahalliy ishlab chiqaruvchilar yoki yetkazib beruvchilar (ijrochilar), shuningdek, O‘zbekiston Respublikasi qonunchiligi ularga O‘zbekistonga shunday yetkazib berishlarni amalga oshirishga ruxsat bergan xorijiy ishlab chiqaruvchilar yoki yetkazib beruvchilar (ijrochilar), ular quyidagi shartlarni bajargan bo‘lishi kerak: • tenderga ishtirok etish uchun belgilangan talablarni bajarish, • raqobat asosida xarid qilinayotgan tegishli xizmatni yetkazib berish tajribasiga ega bo‘lish. В отборе наилучших предложений могут участвовать как отечественные производители или поставщики (исполнители), так и иностранные производители или поставщики (исполнители), которым законодательством Республики Узбекистан не запрещено участвовать в осуществлении аналогичных поставок в Республики Узбекистан, выполнившие предъявляемые условия для участия в них, имеющие опыт поставки соответствующей услуги, закупаемого на конкурентной основе.\r\n\r\n",
+ "technical_description": "Texnik Topshriq",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 523933,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "улица А.Навоий, дом 28-Б",
+ "customer_zip": "100090",
+ "min_point": 45,
+ "financing_source": "Byudjet emas/Не бюджет\r\n\r\n",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 14353.93,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081775,
+     "converted_price": 14353.93,
+     "converted_cost": 14353.93
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 1305483.02,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081775,
+     "converted_price": 1305483.02,
+     "converted_cost": 1305483.02
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 15802.24,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081775,
+     "converted_price": 15802.24,
+     "converted_cost": 15802.24
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 190000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081775,
+     "converted_price": 190000000.0,
+     "converted_cost": 190000000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

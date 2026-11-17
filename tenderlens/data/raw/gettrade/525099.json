@@ -1,0 +1,642 @@
+{
+ "id": 525099,
+ "display_no": "26120012525099",
+ "start_date": "2026-11-12T15:38:20",
+ "end_date": "2026-11-23T15:38:20",
+ "clarific_date": "2026-11-23T15:38:20",
+ "start_cost": 188500.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2085043,\"Order_Num\":1,\"Category_Id\":120735,\"Plangraph_Detail_Id\":23441088,\"Product_Id\":715222,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":188500,\"Cost\":188500,\"Description\":\"Насосный агрегат без электродвигателя (10Р04)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9523370,\"Plan_Position_Id\":0,\"Month_Id\":8,\"Month_Name\":\"Avgust\",\"Product_Code\":\"28.13.10.000-00001\",\"Guarantee_Term\":2,\"Delivery_Term\":180,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Агрегат насоси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 1.0,
+ "advance_payment_perc": 0.0,
+ "term_payment_days": 30,
+ "term_online_days": 7,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Bo'lim boshlig'i\",\"Fullname\":\"Baqoyev M.M.\"}]",
+ "rest_time": 491600,
+ "customer_name": "\"BUXORO NEFTNI QAYTA ISHLASH ZAVODI\" MCHJ",
+ "customer_tin": "202080378",
+ "payment_type_name": "Оплата по факту",
+ "tech_file_name": "202609150128820860.rar",
+ "tech_file_path": "/files/2026/9/15/202609150128820860.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 30311027.0,
+ "tech_doc_file_name": "20261410072420514816.pdf",
+ "tech_doc_file_path": "files/2026/10/14/20261410072420514816.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 240514.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202609093151657987.docx",
+ "contract_proform_file_path": "/files/2026/9/9/202609093151657987.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 43926.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 29,
+ "nonauthorized_count": 2398,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2773591,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tegishli hujjatlar (Соответствующие документы) ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Ishtirokchi tomonidan asosiy benefitsiar mulkdor to‘g‘risidagi ma’lumotlarni taqdim etishi (Предоставление участником сведений об основном бенефициаром собственнике)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Форма №1",
+   "form_file_path": "tender/user-files/2026/9/24/4eed4b21-7d34-493e-8ffe-010896c4fdf5.docx"
+  },
+  {
+   "id": 2773592,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Соответствующие документы ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Tanlov ishtirokchisi tomonidan 2021-yil 22-apreldagi O‘RQ-684-son Qonunning 10-, 14- va 23-moddalariga muvofiq manfaatlar to‘qnashuviga yo‘l qo‘ymaslik, shu jumladan ishtirokchilarning IP manzillari bir xil bo‘lishiga yo‘l qo‘ymaslik to‘g‘risida firma blankasida rasmiylashtirilgan arizani taqdim etish. (Предоставление участником отбора заявление на фирменном бланке о недопущении конфликта интересов согласно статьям 10,14,23 ЗРУ 684 от 22.04.2021 года, в том  числе недопущения участника в совпадении IP адресов. )",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2773593,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tegishli hujjatlar (Соответствующие документы) ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Tanlov ishtirokchisi tomonidan korrupsion holatlarga yo‘l qo‘ymaslik to‘g‘risida ariza taqdim etilishi. (Предоставление участником отбора заявления по недопущению коррупционных проявлений.)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Форма №2",
+   "form_file_path": "tender/user-files/2026/9/24/97425a36-b16a-4db8-aa47-2febfc0c1a06.docx"
+  },
+  {
+   "id": 2773594,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарни етказиб бериш муддати бўйича талаблар (норезидент ва резидентлар учун алоҳида манзиллар белгиланиши мумкин)",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Tegishli hujjatlar (Соответствующие документы) ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Xarid qilinayotgan tovarni ishlab chiqarish va/yoki yetkazib berish tajribasi (Опыт производства и / илипоставки закупаемого Товара)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Форма №3",
+   "form_file_path": "tender/user-files/2026/9/24/080f85a9-5bd0-4958-9c8b-3f09d3c16126.docx"
+  },
+  {
+   "id": 2773595,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tegishli hujjatlar (Соответствующие документы) ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Tovar texnik xususiyatlarining Texnik topshiriqqa muvofiqligi (Соответствие технических характеристик товара Техническому Заданию)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Форма №4",
+   "form_file_path": "tender/user-files/2026/9/24/61e29dce-bce7-44d8-8dbd-d7e04023f6c2.docx"
+  },
+  {
+   "id": 2773596,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tegishli hujjatlar (Соответствующие документы) ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Yetkazib berish shartlari va muddatlariga, to‘lov shartlariga muvofiqligi (Соответствие условиям и срокам поставки, условиям оплаты)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Форма №5",
+   "form_file_path": "tender/user-files/2026/9/24/6ad0efe4-aa77-458c-9614-f33159736305.docx"
+  },
+  {
+   "id": 2773597,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tegishli hujjatlar (Соответствующие документы) ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Kontragent anketasi shakli (Форма анкеты контрагента)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Форма №6",
+   "form_file_path": "tender/user-files/2026/9/24/2bcd1631-0566-4fff-87ac-b88ebd6f42ba.docx"
+  },
+  {
+   "id": 2773598,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tegishli hujjatlar (Соответствующие документы) ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Korxonada sanksiya ro‘yxatlariga kiritilgan, korxonani bevosita yoki bilvosita nazorat qilishi yoki korxona ustav kapitalining kamida 50 foiz ulushiga egalik qilishi mumkin bo‘lgan korxonalar yoki vakillar mavjud emasligini tasdiqlovchi hujjat. (Подтверждающий документ об отсутствии предприятия или представителей, которые могут прямо или косвенно контролировать или владеть не менее 50% долями капитала в предприятии в санкционных списках)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Форма №7",
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2773591,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tegishli hujjatlar (Соответствующие документы) \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Ishtirokchi tomonidan asosiy benefitsiar mulkdor to‘g‘risidagi ma’lumotlarni taqdim etishi (Предоставление участником сведений об основном бенефициаром собственнике)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Форма №1\",\"Form_File_Path\":\"tender/user-files/2026/9/24/4eed4b21-7d34-493e-8ffe-010896c4fdf5.docx\"},{\"Id\":2773592,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Соответствующие документы \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Tanlov ishtirokchisi tomonidan 2021-yil 22-apreldagi O‘RQ-684-son Qonunning 10-, 14- va 23-moddalariga muvofiq manfaatlar to‘qnashuviga yo‘l qo‘ymaslik, shu jumladan ishtirokchilarning IP manzillari bir xil bo‘lishiga yo‘l qo‘ymaslik to‘g‘risida firma blankasida rasmiylashtirilgan arizani taqdim etish. (Предоставление участником отбора заявление на фирменном бланке о недопущении конфликта интересов согласно статьям 10,14,23 ЗРУ 684 от 22.04.2021 года, в том  числе недопущения участника в совпадении IP адресов. )\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2773593,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tegishli hujjatlar (Соответствующие документы) \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Tanlov ishtirokchisi tomonidan korrupsion holatlarga yo‘l qo‘ymaslik to‘g‘risida ariza taqdim etilishi. (Предоставление участником отбора заявления по недопущению коррупционных проявлений.)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Форма №2\",\"Form_File_Path\":\"tender/user-files/2026/9/24/97425a36-b16a-4db8-aa47-2febfc0c1a06.docx\"},{\"Id\":2773594,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарни етказиб бериш муддати бўйича талаблар (норезидент ва резидентлар учун алоҳида манзиллар белгиланиши мумкин)\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Tegishli hujjatlar (Соответствующие документы) \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Xarid qilinayotgan tovarni ishlab chiqarish va/yoki yetkazib berish tajribasi (Опыт производства и / илипоставки закупаемого Товара)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Форма №3\",\"Form_File_Path\":\"tender/user-files/2026/9/24/080f85a9-5bd0-4958-9c8b-3f09d3c16126.docx\"},{\"Id\":2773595,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tegishli hujjatlar (Соответствующие документы) \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Tovar texnik xususiyatlarining Texnik topshiriqqa muvofiqligi (Соответствие технических характеристик товара Техническому Заданию)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Форма №4\",\"Form_File_Path\":\"tender/user-files/2026/9/24/61e29dce-bce7-44d8-8dbd-d7e04023f6c2.docx\"},{\"Id\":2773596,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tegishli hujjatlar (Соответствующие документы) \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Yetkazib berish shartlari va muddatlariga, to‘lov shartlariga muvofiqligi (Соответствие условиям и срокам поставки, условиям оплаты)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Форма №5\",\"Form_File_Path\":\"tender/user-files/2026/9/24/6ad0efe4-aa77-458c-9614-f33159736305.docx\"},{\"Id\":2773597,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tegishli hujjatlar (Соответствующие документы) \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Kontragent anketasi shakli (Форма анкеты контрагента)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Форма №6\",\"Form_File_Path\":\"tender/user-files/2026/9/24/2bcd1631-0566-4fff-87ac-b88ebd6f42ba.docx\"},{\"Id\":2773598,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tegishli hujjatlar (Соответствующие документы) \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Korxonada sanksiya ro‘yxatlariga kiritilgan, korxonani bevosita yoki bilvosita nazorat qilishi yoki korxona ustav kapitalining kamida 50 foiz ulushiga egalik qilishi mumkin bo‘lgan korxonalar yoki vakillar mavjud emasligini tasdiqlovchi hujjat. (Подтверждающий документ об отсутствии предприятия или представителей, которые могут прямо или косвенно контролировать или владеть не менее 50% долями капитала в предприятии в санкционных списках)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Форма №7\",\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1114322,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1114323,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1114324,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1114325,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1114326,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1114327,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1114322,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1114323,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1114324,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1114325,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1114326,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1114327,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 1982,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Бухарская область",
+ "delivering_district_name": "Караулбазарский район",
+ "delivering_address": "ул. Мустакиллик №1",
+ "delivering_phone": "653641092",
+ "addon_description": "на закупку насосного агрегата для нужд ООО \"Бухарского НПЗ\"",
+ "technical_description": "Техническое задание ",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 514816,
+ "customer_region_name": "Buxoro viloyati",
+ "customer_district_name": "Buxoro viloyati",
+ "customer_street": "Бухарская область Караулбазарский район, ул. Мустакиллик 1..",
+ "customer_zip": "100090",
+ "min_point": 7,
+ "financing_source": null,
+ "currency_id": 15,
+ "currency_name": "Evro",
+ "currency_code123": "978",
+ "currency_codeabc": "EUR",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 188500.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085043,
+     "converted_price": 188500.0,
+     "converted_cost": 188500.0
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 207519.61,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085043,
+     "converted_price": 207519.61,
+     "converted_cost": 207519.61
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 17143980.45,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085043,
+     "converted_price": 17143980.45,
+     "converted_cost": 17143980.45
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 2495134915.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085043,
+     "converted_price": 2495134915.0,
+     "converted_cost": 2495134915.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 0,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

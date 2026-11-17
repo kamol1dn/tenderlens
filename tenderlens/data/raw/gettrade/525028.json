@@ -1,0 +1,529 @@
+{
+ "id": 525028,
+ "display_no": "26120012525028",
+ "start_date": "2026-11-12T11:47:10",
+ "end_date": "2026-11-19T11:47:10",
+ "clarific_date": "2026-11-19T11:47:10",
+ "start_cost": 325000000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2084505,\"Order_Num\":1,\"Category_Id\":126040,\"Plangraph_Detail_Id\":24020040,\"Product_Id\":461046,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":325000000,\"Cost\":325000000,\"Description\":\"“O‘zbektelekom” AKning ESG strategiyasi, 2025-yil uchun Korporativ Ijtimoiy Mas’uliyat (CSR) va Barqaror rivojlanish hisobotlari bo‘yicha kontent tayyorlash va dizayn xizmatlarini xarid qilish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9830708,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"59.12.14.000-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":60,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кинофильмлар, видеофильмлар ва телевизион кўрсатувлар, овоз ёзиш ва мусиқий ёзувларни нашр этишга доир хизматлар\",\"Product_Name\":\"Видеоролик контентини тайёрлаш\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 15.0,
+ "term_payment_days": 10,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Xaridlar bo'yicha mutaxassis\",\"Fullname\":\"Ablatayeva X.D.\"}]",
+ "rest_time": 132227,
+ "customer_name": "\"O`ZBEKTELEKOM \" AJ",
+ "customer_tin": "203366731",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202610195957074318.rar",
+ "tech_file_path": "/files/2026/10/19/202610195957074318.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 18282418.0,
+ "tech_doc_file_name": "20261011092417520424.pdf",
+ "tech_doc_file_path": "files/2026/11/10/20261011092417520424.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 314754.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610195957547839.docx",
+ "contract_proform_file_path": "/files/2026/10/19/202610195957547839.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 41620.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 14,
+ "nonauthorized_count": 2423,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2773187,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Ilova qilingan 4-shaklga muvofiq rasmiylashtiriladi",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Ishtirokchining Korporativ Ijtimoiy Mas’uliyat (CSR) va Barqaror rivojlanish hisobotlari bo‘yicha kontent tayyorlash va dizayn xizmatlarini xarid qilish bo‘yicha ish tajribasining mavjudligi.\r\n\r\nIzoh: Ishtirokchining faqat Korporativ Ijtimoiy Mas’uliyat (CSR) va Barqaror rivojlanish hisobotlari bo‘yicha kontent tayyorlash va dizayn xizmatlarini xarid qilish xizmatlari bo‘yicha ish tajribasi inobatga olinadi.\r\nAgar ishtirokchining ish tajribasi:\r\n\r\n2 tagacha yakunlangan shartnomalarni tashkil etsa — \r\n1 ball;\r\n\r\n3 tadan 4 tagacha yakunlangan shartnomalarni tashkil etsa — 2 ball;\r\n\r\n5 ta va undan ortiq yakunlangan shartnomalarni tashkil etsa — 3 ball (maksimal ball).\r\n\r\nAgar ishtirokchining ish tajribasi tanlov predmetiga o‘xshash loyihalar bo‘yicha bo‘lmasa – 0 ball.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "5 ta va undan ortiq yakunlangan shartnomalarni tashkil etsa "
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "3 tadan 4 tagacha yakunlangan shartnomalarni tashkil etsa "
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "2 tagacha yakunlangan shartnomalarni tashkil etsa "
+    }
+   ],
+   "form_name": "4-sonli shakl",
+   "form_file_path": "tender/user-files/2026/10/19/8c649fe9-a90e-4396-b04a-38b67e780376.docx"
+  },
+  {
+   "id": 2773188,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Tasdiqlovchi hujjat taqdim etilishi lozim",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 6.67,
+   "description": "Ishtirokchining O‘zbekiston Respublikasi hududida Korporativ ijtimoiy mas’uliyat (CSR) va Barqaror rivojlanish hisobotlari bo‘yicha kontent tayyorlash va dizayn xizmatlarini ko‘rsatish bo‘yicha ish tajribasining mavjudligi.\r\n\r\nIzoh: ishtirokchining faqat Korporativ ijtimoiy mas’uliyat (CSR) va Barqaror rivojlanish hisobotlari bo‘yicha kontent tayyorlash va dizayn xizmatlarini ko‘rsatish tajribasi inobatga olinadi.\r\nAgar ishtirokchining ish tajribasi mavjud bo‘lmasa – \r\n0 ball;\r\nAgar ishtirokchining ish tajribasi mavjud bo‘lsa – maksimal ball (1 ball).\r\nIshtirokchi ish tajribasi haqida ma’lumotni tashkilotning rasmiy blankasida taqdim qilishi lozim.\r\n\r\nIshtirokchining tajribasi faqat tasdiqlovchi hujjatlar (imzolangan bajarilgan ishlar dalolatnomasi, imzolangan hisob-faktura) yoki tavsiya xatlari taqdim etilganda hisobga olinadi (baholanadi).\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Agar ishtirokchining ish tajribasi mavjud bo‘lsa "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2773189,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi hujjat taqdim etilishi lozim",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 66.67,
+   "description": "Quyidagi mutaxassislarning mavjudligi portfolio, tegishli sertifikatlar va/yoki oliy ma’lumot to‘g‘risidagi diplomlar ilova qilingan holda talab etiladi:\r\n1.\tMuharrir;\r\n2.\tGrafik dizayner;\r\n3.\tTarjimon mutaxassislar;\r\n4.\tKontent mutaxassisi/muharrir;\r\n5.\tVeb-saytlar ishlab chiqish bo‘yicha mutaxassis (UI/UX).\r\nEslatma: Mutaxassislar ishtirokchining shtat birligida bo‘lishi yoki ular amaldagi shartnoma (shu jumladan, fuqarolik tusdagi) asosida jalb etilgan bo‘lishi lozim.\r\nMutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\n\r\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \r\n(ishtirokchi tanlovdan chetlatiladi)\r\n\r\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\r\n\r\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \r\n\r\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\r\n\r\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\r\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\n\r\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \r\n(ishtirokchi tanlovdan chetlatiladi)\r\n\r\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\r\n\r\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \r\n\r\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\r\n\r\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 9.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\n\r\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \r\n(ishtirokchi tanlovdan chetlatiladi)\r\n\r\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\r\n\r\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \r\n\r\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\r\n\r\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\n\r\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \r\n(ishtirokchi tanlovdan chetlatiladi)\r\n\r\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\r\n\r\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \r\n\r\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\r\n\r\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\n\r\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \r\n(ishtirokchi tanlovdan chetlatiladi)\r\n\r\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\r\n\r\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \r\n\r\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\r\n\r\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\n\r\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \r\n(ishtirokchi tanlovdan chetlatiladi)\r\n\r\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\r\n\r\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \r\n\r\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\r\n\r\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\n\r\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \r\n(ishtirokchi tanlovdan chetlatiladi)\r\n\r\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\r\n\r\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \r\n\r\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\r\n\r\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\n\r\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \r\n(ishtirokchi tanlovdan chetlatiladi)\r\n\r\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\r\n\r\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \r\n\r\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\r\n\r\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\n\r\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \r\n(ishtirokchi tanlovdan chetlatiladi)\r\n\r\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\r\n\r\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \r\n\r\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\r\n\r\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\n\r\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \r\n(ishtirokchi tanlovdan chetlatiladi)\r\n\r\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\r\n\r\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \r\n\r\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\r\n\r\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\n\r\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \r\n(ishtirokchi tanlovdan chetlatiladi)\r\n\r\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\r\n\r\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \r\n\r\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\r\n\r\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\r\n"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2773190,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi hujjat taqdim etilishi lozim",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 6.67,
+   "description": "Ishtirokchining tanlov bo‘yicha taklifi xarid hujjatlari va texnik topshiriq talablariga to‘liq muvofiqligini tasdiqlovchi kafolat xati hamda, texnik jihatdan qiyoslash jadvali taqdim etishi shart (5-shakl va \r\n5-shaklga ilovaga muvofiq).\r\nAgar qiyoslash jadvali taqdim etilmagan bo‘lsa yoki \r\nunda ko‘rsatilgan ma’lumotlar texnik topshiriq \r\ntalablariga muvofiq bo‘lmasa – 0 ball; \r\n \r\nQiyoslash jadvalida ko‘rsatilgan ma’lumotlar texnik \r\ntopshiriq talablariga muvofiq bo‘lsa – 1 ball.\r\n5-shaklga muvofiq \r\nrasmiylashtiriladi.  \r\n \r\nAgar mavjud bo‘lmasa / \r\nnomuvofiq bo‘lsa, \r\nishtirokchi tanlovdan \r\nchetlashtiriladi.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Qiyoslash jadvalida ko‘rsatilgan ma’lumotlar texnik \r\ntopshiriq talablariga muvofiq bo‘lsa \r\n"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": "tender/user-files/2026/10/19/30d78a19-7b32-423c-8555-f8ca3b85972d.docx"
+  }
+ ],
+ "fields": "[{\"Id\":2773187,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Ilova qilingan 4-shaklga muvofiq rasmiylashtiriladi\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Ishtirokchining Korporativ Ijtimoiy Mas’uliyat (CSR) va Barqaror rivojlanish hisobotlari bo‘yicha kontent tayyorlash va dizayn xizmatlarini xarid qilish bo‘yicha ish tajribasining mavjudligi.\\r\\n\\r\\nIzoh: Ishtirokchining faqat Korporativ Ijtimoiy Mas’uliyat (CSR) va Barqaror rivojlanish hisobotlari bo‘yicha kontent tayyorlash va dizayn xizmatlarini xarid qilish xizmatlari bo‘yicha ish tajribasi inobatga olinadi.\\r\\nAgar ishtirokchining ish tajribasi:\\r\\n\\r\\n2 tagacha yakunlangan shartnomalarni tashkil etsa — \\r\\n1 ball;\\r\\n\\r\\n3 tadan 4 tagacha yakunlangan shartnomalarni tashkil etsa — 2 ball;\\r\\n\\r\\n5 ta va undan ortiq yakunlangan shartnomalarni tashkil etsa — 3 ball (maksimal ball).\\r\\n\\r\\nAgar ishtirokchining ish tajribasi tanlov predmetiga o‘xshash loyihalar bo‘yicha bo‘lmasa – 0 ball.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"5 ta va undan ortiq yakunlangan shartnomalarni tashkil etsa \"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"3 tadan 4 tagacha yakunlangan shartnomalarni tashkil etsa \"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"2 tagacha yakunlangan shartnomalarni tashkil etsa \"}],\"Form_Name\":\"4-sonli shakl\",\"Form_File_Path\":\"tender/user-files/2026/10/19/8c649fe9-a90e-4396-b04a-38b67e780376.docx\"},{\"Id\":2773188,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Tasdiqlovchi hujjat taqdim etilishi lozim\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":6.67,\"Description\":\"Ishtirokchining O‘zbekiston Respublikasi hududida Korporativ ijtimoiy mas’uliyat (CSR) va Barqaror rivojlanish hisobotlari bo‘yicha kontent tayyorlash va dizayn xizmatlarini ko‘rsatish bo‘yicha ish tajribasining mavjudligi.\\r\\n\\r\\nIzoh: ishtirokchining faqat Korporativ ijtimoiy mas’uliyat (CSR) va Barqaror rivojlanish hisobotlari bo‘yicha kontent tayyorlash va dizayn xizmatlarini ko‘rsatish tajribasi inobatga olinadi.\\r\\nAgar ishtirokchining ish tajribasi mavjud bo‘lmasa – \\r\\n0 ball;\\r\\nAgar ishtirokchining ish tajribasi mavjud bo‘lsa – maksimal ball (1 ball).\\r\\nIshtirokchi ish tajribasi haqida ma’lumotni tashkilotning rasmiy blankasida taqdim qilishi lozim.\\r\\n\\r\\nIshtirokchining tajribasi faqat tasdiqlovchi hujjatlar (imzolangan bajarilgan ishlar dalolatnomasi, imzolangan hisob-faktura) yoki tavsiya xatlari taqdim etilganda hisobga olinadi (baholanadi).\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Agar ishtirokchining ish tajribasi mavjud bo‘lsa \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2773189,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi hujjat taqdim etilishi lozim\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":66.67,\"Description\":\"Quyidagi mutaxassislarning mavjudligi portfolio, tegishli sertifikatlar va/yoki oliy ma’lumot to‘g‘risidagi diplomlar ilova qilingan holda talab etiladi:\\r\\n1.\\tMuharrir;\\r\\n2.\\tGrafik dizayner;\\r\\n3.\\tTarjimon mutaxassislar;\\r\\n4.\\tKontent mutaxassisi/muharrir;\\r\\n5.\\tVeb-saytlar ishlab chiqish bo‘yicha mutaxassis (UI/UX).\\r\\nEslatma: Mutaxassislar ishtirokchining shtat birligida bo‘lishi yoki ular amaldagi shartnoma (shu jumladan, fuqarolik tusdagi) asosida jalb etilgan bo‘lishi lozim.\\r\\nMutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\n\\r\\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \\r\\n(ishtirokchi tanlovdan chetlatiladi)\\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\\r\\n\\r\\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\\r\\n\\r\\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\\r\\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\n\\r\\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \\r\\n(ishtirokchi tanlovdan chetlatiladi)\\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\\r\\n\\r\\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\\r\\n\\r\\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\\r\\n\"},{\"Field_Id\":null,\"Value\":9.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\n\\r\\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \\r\\n(ishtirokchi tanlovdan chetlatiladi)\\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\\r\\n\\r\\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\\r\\n\\r\\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\\r\\n\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\n\\r\\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \\r\\n(ishtirokchi tanlovdan chetlatiladi)\\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\\r\\n\\r\\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\\r\\n\\r\\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\\r\\n\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\n\\r\\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \\r\\n(ishtirokchi tanlovdan chetlatiladi)\\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\\r\\n\\r\\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\\r\\n\\r\\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\\r\\n\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\n\\r\\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \\r\\n(ishtirokchi tanlovdan chetlatiladi)\\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\\r\\n\\r\\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\\r\\n\\r\\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\\r\\n\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\n\\r\\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \\r\\n(ishtirokchi tanlovdan chetlatiladi)\\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\\r\\n\\r\\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\\r\\n\\r\\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\\r\\n\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\n\\r\\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \\r\\n(ishtirokchi tanlovdan chetlatiladi)\\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\\r\\n\\r\\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\\r\\n\\r\\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\\r\\n\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\n\\r\\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \\r\\n(ishtirokchi tanlovdan chetlatiladi)\\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\\r\\n\\r\\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\\r\\n\\r\\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\\r\\n\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\n\\r\\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \\r\\n(ishtirokchi tanlovdan chetlatiladi)\\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\\r\\n\\r\\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\\r\\n\\r\\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\\r\\n\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\n\\r\\nBiror bir toifada ko‘rsatilgan mutaxassis mavjud bo‘lmasa – 0 ball \\r\\n(ishtirokchi tanlovdan chetlatiladi)\\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud bo‘lsa, biroq portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilmagan bo‘lsa – ushbu toifa 1 ball bilan baholanadi,\\r\\n\\r\\nIzoh: baholash ishtirokchi tomonidan mutaxassislar haqida ma’lumot taqdim etilgan, lekin malakasini tasdiqlovchi hujjati taqdim etilmagan hollarda qo‘llaniladi \\r\\n\\r\\nBarcha toifadagi mutaxassislar mavjud va portfolio hamda ko‘chirma yoki amaldagi shartnoma (shu jumladan, fuqarolik tusdagi)lar taqdim etilgan bo‘lsa - 2 balldan jami 10 ball.\\r\\n\\r\\nIzoh: maksimal baho ishtirokchi mutaxassislarning har bir toifasi bo‘yicha belgilangan talablarga to‘liq mos kelgan taqdirda beriladi.\\r\\n\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2773190,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi hujjat taqdim etilishi lozim\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":6.67,\"Description\":\"Ishtirokchining tanlov bo‘yicha taklifi xarid hujjatlari va texnik topshiriq talablariga to‘liq muvofiqligini tasdiqlovchi kafolat xati hamda, texnik jihatdan qiyoslash jadvali taqdim etishi shart (5-shakl va \\r\\n5-shaklga ilovaga muvofiq).\\r\\nAgar qiyoslash jadvali taqdim etilmagan bo‘lsa yoki \\r\\nunda ko‘rsatilgan ma’lumotlar texnik topshiriq \\r\\ntalablariga muvofiq bo‘lmasa – 0 ball; \\r\\n \\r\\nQiyoslash jadvalida ko‘rsatilgan ma’lumotlar texnik \\r\\ntopshiriq talablariga muvofiq bo‘lsa – 1 ball.\\r\\n5-shaklga muvofiq \\r\\nrasmiylashtiriladi.  \\r\\n \\r\\nAgar mavjud bo‘lmasa / \\r\\nnomuvofiq bo‘lsa, \\r\\nishtirokchi tanlovdan \\r\\nchetlashtiriladi.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Qiyoslash jadvalida ko‘rsatilgan ma’lumotlar texnik \\r\\ntopshiriq talablariga muvofiq bo‘lsa \\r\\n\"}],\"Form_Name\":null,\"Form_File_Path\":\"tender/user-files/2026/10/19/30d78a19-7b32-423c-8555-f8ca3b85972d.docx\"}]",
+ "js_qualification_fields": [
+  {
+   "id": 1113722,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113723,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113724,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113725,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113726,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113727,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113728,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 7,
+   "description": "1-sonli ilova",
+   "file_path": "tender/user-files/2026/10/19/2425a387-6acb-43c9-a138-c28b9ab2d91c.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113729,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 8,
+   "description": "2-sonli ilova",
+   "file_path": "tender/user-files/2026/10/19/bc27f43c-80ef-4123-ba11-4347e99d7dc2.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113730,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 9,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1113731,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 10,
+   "description": "3-sonli ilova",
+   "file_path": "tender/user-files/2026/10/19/8bf151f7-b0be-45a7-bdee-afdbd9a35ae3.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1113722,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113723,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113724,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113725,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113726,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113727,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113728,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":7,\"Description\":\"1-sonli ilova\",\"File_Path\":\"tender/user-files/2026/10/19/2425a387-6acb-43c9-a138-c28b9ab2d91c.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1113729,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":8,\"Description\":\"2-sonli ilova\",\"File_Path\":\"tender/user-files/2026/10/19/bc27f43c-80ef-4123-ba11-4347e99d7dc2.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1113730,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":9,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1113731,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":10,\"Description\":\"3-sonli ilova\",\"File_Path\":\"tender/user-files/2026/10/19/8bf151f7-b0be-45a7-bdee-afdbd9a35ae3.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 16221,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Мирзо-Улугбекский район",
+ "delivering_address": "Mo'minov ko'chasi, 4/2",
+ "delivering_phone": "711000175",
+ "addon_description": "“O‘zbektelekom” AKning ESG strategiyasi, 2025-yil uchun Korporativ Ijtimoiy Mas’uliyat (CSR) va Barqaror rivojlanish hisobotlari bo‘yicha kontent tayyorlash va dizayn xizmatlarini xarid qilish",
+ "technical_description": "“O‘zbektelekom” AKning ESG strategiyasi, 2025-yil uchun Korporativ Ijtimoiy Mas’uliyat (CSR) va Barqaror rivojlanish hisobotlari bo‘yicha kontent tayyorlash va dizayn xizmatlarini xarid qilish",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": 520424,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Mo'minova 4/2",
+ "customer_zip": "100090",
+ "min_point": 9,
+ "financing_source": null,
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 325000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084505,
+     "converted_price": 325000000.0,
+     "converted_cost": 325000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 24552.78,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084505,
+     "converted_price": 24552.78,
+     "converted_cost": 24552.78
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 27030.15,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084505,
+     "converted_price": 27030.15,
+     "converted_cost": 27030.15
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 2233063.07,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084505,
+     "converted_price": 2233063.07,
+     "converted_cost": 2233063.07
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 0,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

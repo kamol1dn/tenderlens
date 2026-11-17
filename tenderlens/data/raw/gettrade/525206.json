@@ -1,0 +1,468 @@
+{
+ "id": 525206,
+ "display_no": "26110012525206",
+ "start_date": "2026-11-17T15:24:37",
+ "end_date": "2026-11-24T15:24:37",
+ "clarific_date": "2026-11-24T15:24:37",
+ "start_cost": 28475000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2085877,\"Order_Num\":1,\"Category_Id\":123457,\"Plangraph_Detail_Id\":24492550,\"Product_Id\":609959,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":28475000,\"Cost\":28475000,\"Description\":\"ПНС-7,5 №59 насос станцияси 2-агрегати 315 кВт АКВ 2-07-39 русумли электродвигателини тўла таъмирлаш\",\"Expenditure_Id\":44333900,\"Expenditure_Name\":\"Прочие машины, оборудование и техника\",\"Plan_Id\":10086534,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"33.14.11.000-00008\",\"Guarantee_Term\":6,\"Delivery_Term\":10,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Машина ва ускуналарни таъмирлаш ва ўрнатиш бўйича хизматлар\",\"Product_Name\":\"Электр двигательни капитал таъмирлаш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 90,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"ИЧТС бўлими бошлиғи\",\"Fullname\":\"Ж.Садиков\"}]",
+ "rest_time": 577120,
+ "customer_name": "Коракалпогистон Республикаси Сув хужалиги вазирлиги хузуридаги Беруний Насос станциялари ва энергетика бошкармаси",
+ "customer_tin": "200937552",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611131202535388.PDF",
+ "tech_file_path": "/files/2026/11/13/202611131202535388.PDF",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 630913.0,
+ "tech_doc_file_name": "202611131205825178.pdf",
+ "tech_doc_file_path": "tender/user-files/2026/11/13/202611131205825178.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 99182.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611124819980149.docx",
+ "contract_proform_file_path": "/files/2026/11/12/202611124819980149.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 20348.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 1,
+ "nonauthorized_count": 181,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2774223,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 25.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "ПДФ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 25.0,
+   "description": "Корхона устави, Юридик шахснинг давлат рўйхатидан ўтказилганлиги гувоҳномаси, Корхона раҳбарининг паспорт нусхаси (PDF) шаклда юкланиши лозим",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 25.0,
+     "description": "Сўралган маълумотлар тўғри ва тўлиқ юкланса"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Сўралган маълумотлар нотўғри ёки тўлиқ юкланмаса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2774224,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 25.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "ПДФ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 25.0,
+   "description": "Шартнома талабларини ва таъмирлаш ишларини ўз вақтида ва сифатли бажариш бўйича кафолат хати",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 25.0,
+     "description": "Сўралган маълумотлар тўғри ва тўлиқ юкланса"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Сўралган маълумотлар нотўғри ёки тўлиқ юкланмаса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2774225,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 25.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "ПДФ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 25.0,
+   "description": "Танловда иштирок этувчи корхона томонидан корхонада ишловчи ёки ёлланма асосида фаолият юритувчи ишчи-ходим тўғрисида my.mehnat.uz электрон тизимидан олинган QR кодли расмий маълумот тақдим этилиши шарт",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 25.0,
+     "description": "Сўралган маълумотлар тўғри ва тўлиқ юкланса"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Сўралган маълумотлар нотўғри ёки тўлиқ юкланмаса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2774226,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 25.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "ПДФ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 25.0,
+   "description": "Иштирокчи шу ва шу каби ишларни илгари бажаргани тўғрисида маълумотнома тақдим этиши (шартномалар, топшириш ва қабул қилиш далолатномаларидан нусхасини) тақдим этиши керак. Тақдим этилган 1-3 дона иш учун -10 балл, Тақдим этилган 3-5 дона иш учун -20 балл, Тақдим этилган 5 ва ундан ортиқ иш учун -25 балл. Маълумот нотўғри ёки умуман тақдим этилмаса -1 балл билан баҳоланади. (Иштирокчига эслатма: фақат талаб этилган хужжатлар бириктирилсин, ортиқча ҳужжатлар билан биргаликда бириктирилиши комиссияни чалғитиш деб ҳисобланади)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 25.0,
+     "description": "Тақдим этилган 5 ва ундан ортиқ иш учун -25 балл"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Тақдим этилган 3-5 дона иш учун -20 балл"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Тақдим этилган 1-3 дона иш учун -10 балл"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Сўралган маълумотлар нотўғри ёки тўлиқ юкланмаса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2774223,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":25.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"ПДФ\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":25.0,\"Description\":\"Корхона устави, Юридик шахснинг давлат рўйхатидан ўтказилганлиги гувоҳномаси, Корхона раҳбарининг паспорт нусхаси (PDF) шаклда юкланиши лозим\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":25.0,\"Description\":\"Сўралган маълумотлар тўғри ва тўлиқ юкланса\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Сўралган маълумотлар нотўғри ёки тўлиқ юкланмаса\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2774224,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":25.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"ПДФ\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":25.0,\"Description\":\"Шартнома талабларини ва таъмирлаш ишларини ўз вақтида ва сифатли бажариш бўйича кафолат хати\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":25.0,\"Description\":\"Сўралган маълумотлар тўғри ва тўлиқ юкланса\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Сўралган маълумотлар нотўғри ёки тўлиқ юкланмаса\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2774225,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":25.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"ПДФ\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":25.0,\"Description\":\"Танловда иштирок этувчи корхона томонидан корхонада ишловчи ёки ёлланма асосида фаолият юритувчи ишчи-ходим тўғрисида my.mehnat.uz электрон тизимидан олинган QR кодли расмий маълумот тақдим этилиши шарт\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":25.0,\"Description\":\"Сўралган маълумотлар тўғри ва тўлиқ юкланса\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Сўралган маълумотлар нотўғри ёки тўлиқ юкланмаса\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2774226,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":25.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"ПДФ\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":25.0,\"Description\":\"Иштирокчи шу ва шу каби ишларни илгари бажаргани тўғрисида маълумотнома тақдим этиши (шартномалар, топшириш ва қабул қилиш далолатномаларидан нусхасини) тақдим этиши керак. Тақдим этилган 1-3 дона иш учун -10 балл, Тақдим этилган 3-5 дона иш учун -20 балл, Тақдим этилган 5 ва ундан ортиқ иш учун -25 балл. Маълумот нотўғри ёки умуман тақдим этилмаса -1 балл билан баҳоланади. (Иштирокчига эслатма: фақат талаб этилган хужжатлар бириктирилсин, ортиқча ҳужжатлар билан биргаликда бириктирилиши комиссияни чалғитиш деб ҳисобланади)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":25.0,\"Description\":\"Тақдим этилган 5 ва ундан ортиқ иш учун -25 балл\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Тақдим этилган 3-5 дона иш учун -20 балл\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Тақдим этилган 1-3 дона иш учун -10 балл\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Сўралган маълумотлар нотўғри ёки тўлиқ юкланмаса\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1115071,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1115072,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1115073,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1115074,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1115075,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1115076,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1115071,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1115072,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1115073,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1115074,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1115075,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1115076,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 43718,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Республика Каракалпакстан",
+ "delivering_district_name": "Берунийский район",
+ "delivering_address": "Беруний тумани КАТ кўчаси 84-уй",
+ "delivering_phone": "907367396",
+ "addon_description": "ПНС-7,5 №59 насос станцияси 2-агрегати 315 кВт АКВ 2-07-39 русумли электродвигателини тўла таъмирлаш",
+ "technical_description": "Нуқсонлар далолатномаси ва Техник хужжатлар",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 525057,
+ "customer_region_name": "Qoraqalpog`iston Respublikasi",
+ "customer_district_name": "Qoraqalpog`iston Respublikasi",
+ "customer_street": "Коракалпогистон Республикаси Беруний шахри Кат кучаси 84-уй",
+ "customer_zip": "00000",
+ "min_point": 50,
+ "financing_source": "Бюджет",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 195650.68,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085877,
+     "converted_price": 195650.68,
+     "converted_cost": 195650.68
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 28475000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085877,
+     "converted_price": 28475000.0,
+     "converted_cost": 28475000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 2151.2,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085877,
+     "converted_price": 2151.2,
+     "converted_cost": 2151.2
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 2368.25,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085877,
+     "converted_price": 2368.25,
+     "converted_cost": 2368.25
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

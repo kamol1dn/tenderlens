@@ -1,0 +1,570 @@
+{
+ "id": 524217,
+ "display_no": "26110012524217",
+ "start_date": "2026-11-12T10:22:17",
+ "end_date": "2026-11-19T10:22:17",
+ "clarific_date": "2026-11-19T10:22:17",
+ "start_cost": 60000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2080478,\"Order_Num\":1,\"Category_Id\":127859,\"Plangraph_Detail_Id\":24357086,\"Product_Id\":719999,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":60000000,\"Cost\":60000000,\"Description\":\"Услуга по организации и проведению мероприятий\\r\\n(Tadbirlarni tashkil etish va o‘tkazish xizmatlari)\",\"Expenditure_Id\":44821190,\"Expenditure_Name\":\"Прочие расходы\",\"Plan_Id\":10009045,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"93.29.29.000-00002\",\"Guarantee_Term\":20,\"Delivery_Term\":7,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Спорт билан боғлиқ бўлган хизматлар, кўнгил очар ва дам олиш бўйича хизматлар\",\"Product_Name\":\"Тадбирларни ташкиллаштириш ва ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"йўқ\",\"User_Value_Id\":1,\"Pnum\":3}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 10,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Boshliq\",\"Fullname\":\"Jalilov Temurbek\"}]",
+ "rest_time": 127139,
+ "customer_name": "Миришкор туман Халк таълими булими",
+ "customer_tin": "200701356",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611055903293814.zip",
+ "tech_file_path": "/files/2026/11/5/202611055903293814.zip",
+ "tech_file_ext": "ZIP",
+ "tech_file_sizes": 5096961.0,
+ "tech_doc_file_name": "20261211102449524217.pdf",
+ "tech_doc_file_path": "files/2026/11/12/20261211102449524217.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 238585.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611055903526793.zip",
+ "contract_proform_file_path": "/files/2026/11/5/202611055903526793.zip",
+ "contract_proform_file_ext": "ZIP",
+ "contract_proform_file_sizes": 5096961.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 1,
+ "nonauthorized_count": 2173,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2768749,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+   "min_score": 0.0,
+   "max_score": 24.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Танлаш иштирокчисининг иш тажрибаси ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 24.0,
+   "description": "1.Аввалги иш фаолияти, ёки маиший техникалар етказиб бериш бўйича тузилган шартномалари ва ҳисобварақ фактуралари; 2.Аввалги шартномалари бўйича тегишли буюртмачилар томонидан бир неча ижобий тавсияномалар, ёки хулосалар\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 24.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768750,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+   "min_score": 0.0,
+   "max_score": 14.0,
+   "is_required": true,
+   "is_file_required": false,
+   "file_name": "Танлов иштирокчисининг ишчи ходимлари тўғрисидаги маълумотлар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 14.0,
+   "description": "Ходимлар сони ва тажрибаси тугрисидаги маълумотлар. (Ишчи ходимлар сони ва тажрибаси тенг улушларга бўлинган мезонда бахоланади). Маълумотлар хаққоний ва мехнат.уз сайтидан олинган булиши шарт. Маълумотларни аниқ кўриниши ва штрих код орқали онлайн текшириш имконияти бўлиши лозим\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 14.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768751,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 14.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Танлов иштирокчиси ҳақида умумий маълумотлар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 14.0,
+   "description": "Танлов иштирокчиси ҳақида умумий маълумотлар",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 14.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768752,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 24.0,
+   "is_required": true,
+   "is_file_required": false,
+   "file_name": "Танлов иштирокчиси томонидан, танловда иштирок этишини таъминлайдиган малака хужжатлари мавжудлиги ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 24.0,
+   "description": "Танлашда иштирок этиши учун малака хужжатлари (1.Танлашда иштирок этиш учун харид комиссияси раиси номига ёзилган ариза; 2.Танлашда иштирок этиш (иштирокчи реквизитлари ва бошқа зарурий маълумотлар кўрсатилган) талабномаси; 3.Молиявий ҳисоботлар; 4.Иштирокчининг қайта ташкил этиш, тугатиш ёки банкротлик ҳолатларида эмаслиги тўғрисида маълумот; 5.Кафолат хати; 6.Харид комиссияси раиси номига ёзилган Коррупция кўринишларига йўл қўймаслик бўйича ариза)\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 24.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768753,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+   "min_score": 0.0,
+   "max_score": 24.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Танлов иштирокчисининг молиявий холатини кўрсатувчи маълумотлар жамланмаси",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 24.0,
+   "description": "1.Тўловга қодирлиги (бир йиллик банк айланмаси); 2.Банк хисоб рақамидаги маблағлар қолдиғи; ",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 24.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2768749,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари\",\"Min_Score\":0.0,\"Max_Score\":24.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Танлаш иштирокчисининг иш тажрибаси \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":24.0,\"Description\":\"1.Аввалги иш фаолияти, ёки маиший техникалар етказиб бериш бўйича тузилган шартномалари ва ҳисобварақ фактуралари; 2.Аввалги шартномалари бўйича тегишли буюртмачилар томонидан бир неча ижобий тавсияномалар, ёки хулосалар\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":24.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768750,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.\",\"Min_Score\":0.0,\"Max_Score\":14.0,\"Is_Required\":true,\"Is_File_Required\":false,\"File_Name\":\"Танлов иштирокчисининг ишчи ходимлари тўғрисидаги маълумотлар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":14.0,\"Description\":\"Ходимлар сони ва тажрибаси тугрисидаги маълумотлар. (Ишчи ходимлар сони ва тажрибаси тенг улушларга бўлинган мезонда бахоланади). Маълумотлар хаққоний ва мехнат.уз сайтидан олинган булиши шарт. Маълумотларни аниқ кўриниши ва штрих код орқали онлайн текшириш имконияти бўлиши лозим\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":14.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768751,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":14.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Танлов иштирокчиси ҳақида умумий маълумотлар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":14.0,\"Description\":\"Танлов иштирокчиси ҳақида умумий маълумотлар\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":14.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768752,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":24.0,\"Is_Required\":true,\"Is_File_Required\":false,\"File_Name\":\"Танлов иштирокчиси томонидан, танловда иштирок этишини таъминлайдиган малака хужжатлари мавжудлиги \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":24.0,\"Description\":\"Танлашда иштирок этиши учун малака хужжатлари (1.Танлашда иштирок этиш учун харид комиссияси раиси номига ёзилган ариза; 2.Танлашда иштирок этиш (иштирокчи реквизитлари ва бошқа зарурий маълумотлар кўрсатилган) талабномаси; 3.Молиявий ҳисоботлар; 4.Иштирокчининг қайта ташкил этиш, тугатиш ёки банкротлик ҳолатларида эмаслиги тўғрисида маълумот; 5.Кафолат хати; 6.Харид комиссияси раиси номига ёзилган Коррупция кўринишларига йўл қўймаслик бўйича ариза)\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":24.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768753,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари\",\"Min_Score\":0.0,\"Max_Score\":24.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Танлов иштирокчисининг молиявий холатини кўрсатувчи маълумотлар жамланмаси\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":24.0,\"Description\":\"1.Тўловга қодирлиги (бир йиллик банк айланмаси); 2.Банк хисоб рақамидаги маблағлар қолдиғи; \",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":24.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1107873,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107874,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107875,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107876,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107877,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107878,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107879,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 7,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107880,
+   "name": "Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги",
+   "order_num": 8,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107881,
+   "name": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.",
+   "order_num": 9,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107882,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 10,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107883,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 11,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107884,
+   "name": "Закалат киритилганлигини тасдиқловчи ҳужжат ёки банк кафолатининг асл нусхаси (харид қилиш ҳужжатларига мувофиқ талаб қилинганда).",
+   "order_num": 12,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107885,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 13,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107886,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 14,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107887,
+   "name": "Молиявий ҳисоботлар*\n(ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда): \n1. Бухгалтерия баланси\n",
+   "order_num": 15,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1107873,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107874,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107875,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107876,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107877,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107878,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107879,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":7,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107880,\"Name\":\"Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги\",\"Order_Num\":8,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107881,\"Name\":\"Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.\",\"Order_Num\":9,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107882,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":10,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107883,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":11,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107884,\"Name\":\"Закалат киритилганлигини тасдиқловчи ҳужжат ёки банк кафолатининг асл нусхаси (харид қилиш ҳужжатларига мувофиқ талаб қилинганда).\",\"Order_Num\":12,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107885,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":13,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107886,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":14,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107887,\"Name\":\"Молиявий ҳисоботлар*\\n(ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда): \\n1. Бухгалтерия баланси\\n\",\"Order_Num\":15,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 75959,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Кашкадарьинская область",
+ "delivering_district_name": "Миришкорский район",
+ "delivering_address": "Qashqadaryo Viloyati Mirishkor tumani",
+ "delivering_phone": "907227475",
+ "addon_description": "Mirishkor tumani Maktabgacha va maktab ta’limi bo‘limi tasarrufidagi maktab va DMTTlarni 1-oktyabr ustoz va murabbiylar kuni tadbirini o‘tkazish bo‘yicha",
+ "technical_description": "Миришкор тумани Мактабгача ва мактаб таълими бўлими тасарруфидаги мактаб ва ДМТТларни 1-октябр устоз ва мураббийлар куни тадбирини ўтказиш бўйича \"Энг яхши таклифни танлаш\" электрон тизимида жойлаштириладиган эълон талабномасида\t\t\t",
+ "tech_coef": 30.0,
+ "cost_coef": 70.0,
+ "old_id": 524051,
+ "customer_region_name": "Qashqadaryo viloyati",
+ "customer_district_name": "Qashqadaryo viloyati",
+ "customer_street": "Миришкор туман маркази",
+ "customer_zip": "00000",
+ "min_point": 70,
+ "financing_source": "Byudjet",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 4532.82,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080478,
+     "converted_price": 4532.82,
+     "converted_cost": 4532.82
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 412257.79,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080478,
+     "converted_price": 412257.79,
+     "converted_cost": 412257.79
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 60000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080478,
+     "converted_price": 60000000.0,
+     "converted_cost": 60000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 4990.18,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080478,
+     "converted_price": 4990.18,
+     "converted_cost": 4990.18
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

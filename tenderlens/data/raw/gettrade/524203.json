@@ -1,0 +1,634 @@
+{
+ "id": 524203,
+ "display_no": "26120012524203",
+ "start_date": "2026-11-13T09:31:45",
+ "end_date": "2026-11-20T09:31:45",
+ "clarific_date": "2026-11-20T09:31:45",
+ "start_cost": 247200000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2080364,\"Order_Num\":1,\"Category_Id\":127546,\"Plangraph_Detail_Id\":24403047,\"Product_Id\":668165,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":247200000,\"Cost\":247200000,\"Description\":\"Услуга по повышению профессиональной квалификации\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":10035610,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"85.42.19.900-00001\",\"Guarantee_Term\":30,\"Delivery_Term\":30,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Таълим соҳасидаги хизматлар\",\"Product_Name\":\"Касбий малакани ошириш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 0.0,
+ "advance_payment_perc": 100.0,
+ "term_payment_days": 10,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":3,\"Name\":\"Английский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"директор\",\"Fullname\":\"Мирзаев Сайфулло\"}]",
+ "rest_time": 210475,
+ "customer_name": "\"O`ZBEKINVEST EKSPORT-IMPORT SUG`URTA KOMPANIYASI\" AJ ST",
+ "customer_tin": "201222058",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611061038344848.pdf",
+ "tech_file_path": "/files/2026/11/6/202611061038344848.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 2120777.0,
+ "tech_doc_file_name": "20261411142408524203.pdf",
+ "tech_doc_file_path": "files/2026/11/14/20261411142408524203.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 303070.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611061038468188.docx",
+ "contract_proform_file_path": "/files/2026/11/6/202611061038468188.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 19937.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 9,
+ "nonauthorized_count": 1706,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2768609,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "\"malaka oshirish va o'quv programmasi haqida batafsil ma'lumot                       Detailed information about the seminar and training program \"",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "\"Malaka oshirish va o'quv jarayonlarini tashkil qilish uchun tashrif buyuriladigan tashkilotlar soni\r\n\r\nNumber of organizations to be visited for organizing training and educational programs            Количество организаций, посещаемых для организации процессов повышения квалификации и обучения\"\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "15 va undan ko'p tashkilot,  More than 15 organizations"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "10-14 tashkilot, 10-14 organizations"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "5-9 tashkilot,5-9 organizations"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "1-4 tashkilot, 1-4 organizations"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768610,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "\"Rasmiy xат (tashkilotlar ro'yhati) Official letter (list of organizations)\"",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "\"Malaka oshirish va o'quv jarayonlarini tashkil qilish uchun tashrif buyuriladigan sug'urta, qayta sug'urta tashkilotlar soni\r\n\r\nNumber of insurance and reinsurance organizations to be visited for organizing training and educational programs                                                      Количество страховых и перестраховочных организаций, посещаемых для организации процессов повышения квалификации и обучения\"\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Taqdim etilmasa,Not provided"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "7 va undan ko'p tashkilot,More than 7 organizations"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "4-6 tashkilot,4-6 organizations"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "1-3 tashkilot,1-3 organizations"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768611,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Rasmiy xат (tashkilotlar ro'yhati) Official letter (list of organizations)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "\"Malaka oshirish va o'quv jarayonlarini tashkil qilish uchun tashrif buyuriladigan sug'urta, qayta sug'urta tashkilotlar (davlat tashkiloti) soni\r\n\r\nNumber of insurance and reinsurance (government) organizations  to be visited for organizing training and educational programs                  Количество страховых, перестраховочных организаций (государственных организаций), которые будут посещены для организации процессов повышения квалификации и обучения\"\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "2 va undan ko'p tashkilot, More than 2 organizations "
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "1 ta tashkilot,  1 organization"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768612,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Rasmiy xат (tashkilotlar ro'yhati) Official letter (list of organizations)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "\"Malaka oshirish va o'quv jarayonlarini tashkil qilish uchun tashrif buyuriladigan sug'urta, qayta sug'urta tashkilotlar (sof sug'urta mukofoti yig'imi 2023 yil xisobot bo'yicha jahon top 25 taligiga kiradigan) soni\r\n(List of largest insurance companies - Wikipedia)\r\nNumber of insurance and reinsurance organizations (among the world’s top 25 by net premium written volume, based on the 2023 report) to be visited for organizing training and educational programs\r\n(List of largest insurance companies - Wikipedia)  (Список крупнейших страховых компаний - Википедия)й, которые будут посещены для организации процессов повышения квалификации и обучения (входящие в топ-25 мировых по объему чистых страховых премий по состоянию на 2023 год)\r\n(Список крупнейших страховых компаний - Википедия)\"\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "2 va undan ko'p tashkilot,More than 2 organizations"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "1 ta tashkilot,1 organization "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768613,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "\"Rasmiy xат (tashkilotlar ro'yhati) Official letter (list of organizations)\"",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "\"Malaka oshirish va o'quv jarayonlarini tashkil qilish uchun tashrif buyuriladigan sug'urta, qayta sug'urta tashkilotlar soni (sof raqamli sug'urta)\r\nNumber of insurance and reinsurance (digital-insurtech) organizations  to be visited for organizing training and educational programs                                            Количество страховых и перестраховочных организаций, посещаемых для организации процессов повышения квалификации и обучения (чистое количество страховых организаций)\"\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "2 va undan ko'p tashkilot More than 2 organizations "
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "1 ta tashkilot 1 organization "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768614,
+   "type_name": "BINARY_VALUE",
+   "label_type_name": "Бинарное значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "\"kafolat xati  Guarantee letter\"",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": "Утверждения",
+    "type_name": null,
+    "yes_text": "Да",
+    "no_text": "Нет"
+   },
+   "gravity": 20.0,
+   "description": "\"Texnik topshiriqning 3-bandida ko'rsatilgan talablar bajarilishining kafolati\r\n\r\nGuarantee of compliance with the requirements specified in Clause 3 of the Technical Specification    Гарантия выполнения требований, указанных в пункте 3 технического задания\"\r\n. \"Bajarilmasa – 0 ball;\r\nBajarilsa  – 20 ball;\r\nNot provided – 0  points\r\nProvided – 20 points\"\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768615,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Xodimlar ro'yxati  List of employees",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "\"Shartnomani bajarish uchun mutaxassisning mavjudligi va tajribasi \r\n\r\nAvailability of qualified specialists required \r\nfor contract                                                Наличие и опыт специалиста для выполнения договора\"\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "3–4 specialists 3-4 mutaxassislar "
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "1-2 mutaxassislar  1–2 specialists"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2768609,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"\\\"malaka oshirish va o'quv programmasi haqida batafsil ma'lumot                       Detailed information about the seminar and training program \\\"\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"\\\"Malaka oshirish va o'quv jarayonlarini tashkil qilish uchun tashrif buyuriladigan tashkilotlar soni\\r\\n\\r\\nNumber of organizations to be visited for organizing training and educational programs            Количество организаций, посещаемых для организации процессов повышения квалификации и обучения\\\"\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"15 va undan ko'p tashkilot,  More than 15 organizations\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"10-14 tashkilot, 10-14 organizations\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"5-9 tashkilot,5-9 organizations\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"1-4 tashkilot, 1-4 organizations\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768610,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"\\\"Rasmiy xат (tashkilotlar ro'yhati) Official letter (list of organizations)\\\"\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"\\\"Malaka oshirish va o'quv jarayonlarini tashkil qilish uchun tashrif buyuriladigan sug'urta, qayta sug'urta tashkilotlar soni\\r\\n\\r\\nNumber of insurance and reinsurance organizations to be visited for organizing training and educational programs                                                      Количество страховых и перестраховочных организаций, посещаемых для организации процессов повышения квалификации и обучения\\\"\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Taqdim etilmasa,Not provided\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"7 va undan ko'p tashkilot,More than 7 organizations\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"4-6 tashkilot,4-6 organizations\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"1-3 tashkilot,1-3 organizations\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768611,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Rasmiy xат (tashkilotlar ro'yhati) Official letter (list of organizations)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"\\\"Malaka oshirish va o'quv jarayonlarini tashkil qilish uchun tashrif buyuriladigan sug'urta, qayta sug'urta tashkilotlar (davlat tashkiloti) soni\\r\\n\\r\\nNumber of insurance and reinsurance (government) organizations  to be visited for organizing training and educational programs                  Количество страховых, перестраховочных организаций (государственных организаций), которые будут посещены для организации процессов повышения квалификации и обучения\\\"\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"2 va undan ko'p tashkilot, More than 2 organizations \"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"1 ta tashkilot,  1 organization\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768612,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Rasmiy xат (tashkilotlar ro'yhati) Official letter (list of organizations)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"\\\"Malaka oshirish va o'quv jarayonlarini tashkil qilish uchun tashrif buyuriladigan sug'urta, qayta sug'urta tashkilotlar (sof sug'urta mukofoti yig'imi 2023 yil xisobot bo'yicha jahon top 25 taligiga kiradigan) soni\\r\\n(List of largest insurance companies - Wikipedia)\\r\\nNumber of insurance and reinsurance organizations (among the world’s top 25 by net premium written volume, based on the 2023 report) to be visited for organizing training and educational programs\\r\\n(List of largest insurance companies - Wikipedia)  (Список крупнейших страховых компаний - Википедия)й, которые будут посещены для организации процессов повышения квалификации и обучения (входящие в топ-25 мировых по объему чистых страховых премий по состоянию на 2023 год)\\r\\n(Список крупнейших страховых компаний - Википедия)\\\"\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"2 va undan ko'p tashkilot,More than 2 organizations\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"1 ta tashkilot,1 organization \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768613,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"\\\"Rasmiy xат (tashkilotlar ro'yhati) Official letter (list of organizations)\\\"\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"\\\"Malaka oshirish va o'quv jarayonlarini tashkil qilish uchun tashrif buyuriladigan sug'urta, qayta sug'urta tashkilotlar soni (sof raqamli sug'urta)\\r\\nNumber of insurance and reinsurance (digital-insurtech) organizations  to be visited for organizing training and educational programs                                            Количество страховых и перестраховочных организаций, посещаемых для организации процессов повышения квалификации и обучения (чистое количество страховых организаций)\\\"\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"2 va undan ko'p tashkilot More than 2 organizations \"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"1 ta tashkilot 1 organization \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768614,\"Type_Name\":\"BINARY_VALUE\",\"Label_Type_Name\":\"Бинарное значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"\\\"kafolat xati  Guarantee letter\\\"\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":\"Утверждения\",\"Type_name\":null,\"Yes_text\":\"Да\",\"No_text\":\"Нет\"},\"Gravity\":20.0,\"Description\":\"\\\"Texnik topshiriqning 3-bandida ko'rsatilgan talablar bajarilishining kafolati\\r\\n\\r\\nGuarantee of compliance with the requirements specified in Clause 3 of the Technical Specification    Гарантия выполнения требований, указанных в пункте 3 технического задания\\\"\\r\\n. \\\"Bajarilmasa – 0 ball;\\r\\nBajarilsa  – 20 ball;\\r\\nNot provided – 0  points\\r\\nProvided – 20 points\\\"\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768615,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Xodimlar ro'yxati  List of employees\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"\\\"Shartnomani bajarish uchun mutaxassisning mavjudligi va tajribasi \\r\\n\\r\\nAvailability of qualified specialists required \\r\\nfor contract                                                Наличие и опыт специалиста для выполнения договора\\\"\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"3–4 specialists 3-4 mutaxassislar \"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"1-2 mutaxassislar  1–2 specialists\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1107771,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107772,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107773,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107774,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107775,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107776,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107777,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 7,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1107771,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107772,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107773,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107774,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107775,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107776,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107777,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":7,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 6980,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Чиланзарский район",
+ "delivering_address": "квартал Ц, ул. Чупон-ота,6",
+ "delivering_phone": "909997301",
+ "addon_description": null,
+ "technical_description": "Ташкилотлар ва қўшма корхоналар диққатига!\r\n\r\n“Ўзбекинвест” экспорт-импорт суғурта компанияси” акциядорлик жамияти 2026 йил ноябрь ойининг 7 куни мобайнида 16 кишидан иборат ходимларини малакасини ошириш хизматларини кўрсатиш бўйича энг яхши таклифларни танлаш ўтказади.\r\nХизматларни молиялаштириш компания ўз маблағлари ҳисобидан амалга оширилади.\r\nБуюртмачи томонидан белгиланган ишни бажариш муддати - ижрочининг банк ҳисобварағига тўлов тўланган кундан бошлаб 30 кун.\r\nХизматларнинг умумий қиймати 20 600 АҚШ долларидан ошмаслиги керак.\r\nТанловда таклиф этилган шартлар бўйича танловда қатнашиш ниятини билдирган ташкилотлар ва қўшма корхоналар иштирок этишлари мумкин.\r\nТанлов электрон шаклда онлайн тарзда амалга оширилади.\r\nТанланган таклифларни кўриб чиқиш ва бахолаш – таклифларни тақдим этиш муддати тугаганидан кейин 10 кун ичида амалга оширилади.\r\nТанловда иштирок этувчи ташкилотлар қуйидаги мезонларга жавоб бериши керак:\r\n•\tСуғурта, қайта суғурта, брокерлик компанияларида, суғурта, молия, иқтисодиёт йўналишидаги йирик олийгоҳларда белгиланган вақт (малака ошириш муддати) оралиғида малака ошириш курсларини, ўқишларини ташкил қилиши (корхоналарнинг номини, ташриф вақтини кўрсатган ҳолда). \r\n•\tХизматлар таркиби:\r\no\tСеминар давомида ўқитувчилар хизмати, бинолар ижараси ва таржима хизматлари (рус тили) учун тўловлар; \r\no\tСеминар давомида маҳаллий транспорт харажатлари (тезюрар поезд, автобус ижараси); \r\no\tСеминар давомида овқатланиш харажатлари (кутлаш кечаси ва ёпилиш маросими); \r\no\tМеҳмонхона: камида уч юлдузли меҳмонхоналарни (стандарт икки кишилик хоналар) брон қилади; \r\no\tДастур доирасидаги кириш чипталари ва расмий тадбирларни ташкил этиш харажатлари.\r\n•\tШартномани бажариш учун зарур молиявий, моддий, инсоний ва бошқа ресурсларнинг мавжудлиги;\r\n•\tШартнома тузиш хуқуқи.\r\nAttention to organizations and enterprises!\r\n\r\nUzbekinvest Export-Import Insurance Company will conduct selection of the best proposals for professional development services for its 15 employees over a 7-day period in October 2026.\r\nThe services will be financed at the company’s own expense.\r\nThe deadline for completing the assigned work is 30 days from the date the payment is transferred to the contractor’s bank account.\r\nThe total value of the services must not exceed USD 20 600.\r\nCompanies and joint ventures that express their intention to participate under the proposed terms are eligible to take part in the tender.\r\nThe tender will be conducted electronically in an online format.\r\nReview and evaluation of submitted proposals will be carried out within 10 day after the submission deadline.\r\nParticipating organizations must meet the following criteria:\r\n•\tOrganization of training courses and educational programs within the specified (seminar) period at insurance, reinsurance, and brokerage companies, as well as at major higher education institutions specializing in insurance, finance, and economics (with indication of the names of organizations and visit dates).\r\n•\tService included:\r\no\tInstructor fees, venue rental fees, and translation fees (Russian) during the seminar period;\r\no\tLocal transportation fees (bus rental, train) during the seminar period;\r\no\tCatering expenses (welcome dinner and closing ceremony) during the seminar period;\r\no\tAccommodation: will book three-star or above standard hotels (standard twin rooms);\r\no\tEntrance fees and official activity arrangement fees within the itinerary.\r\n•\tAvailability of sufficient financial, material, human, and other resources necessary for contract execution;\r\n•\tLegal right to enter into contracts.\r\n\r\n",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "квартал Ц, ул. чупон-ота,6",
+ "customer_zip": "100090",
+ "min_point": 60,
+ "financing_source": "не бюджет",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 18675.22,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080364,
+     "converted_price": 18675.22,
+     "converted_cost": 18675.22
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 20559.54,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080364,
+     "converted_price": 20559.54,
+     "converted_cost": 20559.54
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 1698502.12,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080364,
+     "converted_price": 1698502.12,
+     "converted_cost": 1698502.12
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 247200000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080364,
+     "converted_price": 247200000.0,
+     "converted_cost": 247200000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

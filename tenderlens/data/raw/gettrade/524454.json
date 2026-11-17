@@ -1,0 +1,550 @@
+{
+ "id": 524454,
+ "display_no": "26120012524454",
+ "start_date": "2026-11-17T13:11:42",
+ "end_date": "2026-11-24T13:11:42",
+ "clarific_date": "2026-11-24T13:11:42",
+ "start_cost": 1948800000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2081767,\"Order_Num\":1,\"Category_Id\":126746,\"Plangraph_Detail_Id\":24289977,\"Product_Id\":645901,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":1948800000,\"Cost\":1948800000,\"Description\":\"“O‘zbektelekom” AK uchun SPO/IPOga tayyorgarlik darajasini baholash bo‘yicha konsalting xizmatlarini xarid qilish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9975978,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"70.22.12.000-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":40,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бош офислар хизмати; корхоналарни бошқариш соҳасидаги маслаҳат хизматлари\",\"Product_Name\":\"Консалтинг хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3},{\"Property_Name\":\"Даврийлик\",\"User_Value\":\"Сўров бўйича\",\"User_Value_Id\":5,\"Pnum\":4},{\"Property_Name\":\"Хизматни бажариш муддати, иш куни\",\"User_Value\":\"10 гача\",\"User_Value_Id\":2,\"Pnum\":5},{\"Property_Name\":\"Тури\",\"User_Value\":\"Ёзма\",\"User_Value_Id\":2,\"Pnum\":6}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 15.0,
+ "term_payment_days": 10,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Xaridlar bo'yicha mutaxassis\",\"Fullname\":\"Ablatayeva X.D.\"}]",
+ "rest_time": 569153,
+ "customer_name": "\"O`ZBEKTELEKOM \" AJ",
+ "customer_tin": "203366731",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611093918732295.rar",
+ "tech_file_path": "/files/2026/11/9/202611093918732295.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 7542782.0,
+ "tech_doc_file_name": "20261711122420524454.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711122420524454.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 314071.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611093919052174.docx",
+ "contract_proform_file_path": "/files/2026/11/9/202611093919052174.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 41620.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 7,
+ "nonauthorized_count": 273,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2770081,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi hujjat taqdim etilishi lozim",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 30.0,
+   "description": "Ishtirokchi yoki uning ijrochi jamoasining SPO/IPOga tayyorgarlik, SPO/IPO bo‘yicha konsalting va/yoki kapital bozorlari sohasida tasdiqlangan ish tajribasining mavjudligi.\r\n(4-shaklga muvofiq rasmiylashtiriladi). Izoh: Baholashda faqat ishtirokchining tanlov predmetiga o‘xshash yakunlangan ish tajribasi inobatga olinadi.\r\nIlova qilingan 4-shaklga muvofiq rasmiylashtiriladi\r\n\r\nIshtirokchilarning tajribasi faqat tasdiqlovchi hujjatlar (shartnoma va tasdiqlangan hisob-faktura) taqdim etilganda hisobga olinadi (baholanadi).\r\n\r\nAgar mavjud bo‘lmasa yoki mos kelmasa, ishtirokchi tanlovdan chetlashtiriladi\r\nAgar ishtirokchining ish tajribasi:\r\n2 tagacha yakunlangan shartnomalarni tashkil etsa — \r\n1 ball;\r\n3 tadan 4 tagacha yakunlangan shartnomalarni tashkil etsa — 2 ball;\r\n5 ta va undan ortiq yakunlangan shartnomalarni tashkil etsa — 3 ball (maksimal ball).\r\n\r\nAgar ishtirokchining ish tajribasi tanlov predmetiga o‘xshash loyihalar bo‘yicha bo‘lmasa – 0 ball.\r\n\r\nBaholashda faqat tanlov predmetiga o‘xshash xizmatlarni ko‘rsatish bo‘yicha Ishtirokchining yakunlangan tajribasi hisobga olinadi.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "5 ta va undan ortiq yakunlangan shartnomalarni tashkil etsa "
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "3 tadan 4 tagacha yakunlangan shartnomalarni tashkil etsa "
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "2 tagacha yakunlangan shartnomalarni tashkil etsa "
+    }
+   ],
+   "form_name": "4-sonli ilova",
+   "form_file_path": "tender/user-files/2026/11/9/e0702acf-b0a1-4725-8eca-f445b1c396dd.docx"
+  },
+  {
+   "id": 2770082,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Tasdiqlovchi hujjat taqdim etilishi lozim",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "1. Ishtirokchi yoki uning ijrochi jamoasining takliflarni topshirish muddati tugaydigan sanadan oldingi so‘nggi 10 (o‘n) yil ichida taqqoslanadigan kapital bozorlarida kamida 3 (uchta) SPO/IPO loyihasini yakunlagan bo‘lishi afzal hisoblanadi.\r\n\r\nTaqqoslanadigan kapital bozorlari deganda rivojlanayotgan (emerging) va shakllanayotgan (frontier) kapital bozorlari, shu jumladan Markaziy Osiyo davlatlarining kapital bozorlari tushuniladi.\r\n\r\nIshtirokchining tajribasi quyidagi ishtirok shakllaridan biri bo‘yicha hisobga olinadi: \r\na) loyihani mustaqil ravishda amalga oshirgan bo‘lsa;\r\nb) loyihani konsorsium a’zosi sifatida amalga oshirgan bo‘lsa. Bunda loyihada bevosita ishtirok etganligi va bajargan vazifalari tasdiqlanishi shart;\r\nv) ishtirokchi xalqaro tarmoq a’zosi bo‘lsa, loyihani ushbu tarmoqqa kiruvchi bo‘linma amalga oshirgan bo‘lsa. Bunda tarmoqqa a’zolik va ko‘rsatilgan xizmat tasdiqlanishi shart.\r\n\r\n2. Ko‘rsatilgan loyihalardan kamida 1 (bittasi) SPO/IPOga tayyorgarlik (SPO/IPO Readiness) yoki SPO/IPO bo‘yicha maslahat (SPO/IPO Advisory) xizmatlariga tegishli bo‘lishi lozim.\r\n\r\nLoyiha quyidagi hollarda yakunlangan deb hisoblanadi: \r\n-\tSPO/IPO loyihasi bo‘yicha: qimmatli qog‘ozlar joylashtirilgan bo‘lsa;\r\n-\tReadiness/Advisory loyihasi bo‘yicha: shartnoma bo‘yicha xizmatlar to‘liq ko‘rsatilgan va buyurtmachi tomonidan qabul qilingan bo‘lsa.\r\nIshtirokchi ish tajribasi haqida ma’lumotni tashkilotning rasmiy blankasida taqdim qilishi lozim.\r\n\r\nIshtirokchining tajribasi faqat quyidagi tasdiqlovchi hujjatlar taqdim etilganda hisobga olinadi (baholanadi).\r\n\r\nTasdiqlovchi hujjatlar: \r\n-\tshartnomalar nusxalari yoki ulardan ko‘chirmalar (maxfiylik majburiyatlari mavjud bo‘lsa, maxfiy ma’lumotlari yashirilgan nusxalarga yo‘l qo‘yiladi);\r\n-\tbajarilgan ishlar dalolatnomalari yoki buyurtmachilarning tavsiya xatlari;\r\n-\tochiq manbalardagi ma’lumotlarga havolalar (prospekt, birja e’lonlari va boshqalar;\r\n-\tkonsorsium loyihalari uchun: konsorsium shartnomasi yoki ishtirokchining roli va vazifalarini tasdiqlovchi boshqa hujjat;\r\n-\ttarmoq bo‘linmalari loyihalari uchun: tarmoqqa a’zolikni tasdiqlovchi hujjat va loyihani bajargan bo‘linmaning nomi va ko‘rsatilgan xizmatni tasdiqlovchi hujjat.\r\nIshtirokchining ish tajribasi taqdim etilgan va talablarga muvofiq tasdiqlangan loyihalar soniga qarab quyidagicha baholanadi: \r\n1 tadan 2 tagacha loyiha – 1 ball;\r\n3 ta va undan ortiq loyiha – 2 ball.\r\n\r\nHisobga olingan loyihalardan kamida 1 (bittasi) SPO/IPOga tayyorgarlik (SPO/IPO Readiness) yoki SPO/IPO bo‘yicha maslahat (SPO/IPO Advisory) xizmatlariga tegishli bo‘lishi ushbu mezon bo‘yicha ball berishning majburiy sharti hisoblanadi.\r\n\r\nQuyidagi hollarda ishtirokchiga ushbu mezon bo‘yicha 0 ball beriladi: \r\n-\thisobga olingan loyihalar orasida 2-bandda ko‘rsatilgan loyiha mavjud bo‘lmasa;\r\n-\ttalablarga muvofiq tasdiqlangan loyihalar mavjud bo‘lmasa yoki tasdiqlovchi hujjatlar taqdim etilmasa.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "3 ta va undan ortiq loyiha – 2 ball.\r\n\r\nHisobga olingan loyihalardan kamida 1 (bittasi) SPO/IPOga tayyorgarlik (SPO/IPO Readiness) yoki SPO/IPO bo‘yicha maslahat (SPO/IPO Advisory) xizmatlariga tegishli bo‘lishi ushbu mezon bo‘yicha ball berishning majburiy sharti hisoblanadi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "1 tadan 2 tagacha loyiha \r\n\r\nHisobga olingan loyihalardan kamida 1 (bittasi) SPO/IPOga tayyorgarlik (SPO/IPO Readiness) yoki SPO/IPO bo‘yicha maslahat (SPO/IPO Advisory) xizmatlariga tegishli bo‘lishi ushbu mezon bo‘yicha ball berishning majburiy sharti hisoblanadi."
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770083,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi hujjat taqdim etilishi lozim",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 30.0,
+   "description": "Ishtirokchi yoki uning ijrochi jamoasi tarkibida quyidagi mutaxassislarning mavjudligi portfel va tegishli sertifikatlar ilova qilingan holda talab etiladi:\r\n1.\tLoyiha rahbari;\r\n2.\tKapital bozorlari/SPO/IPO eksperti;\r\n3.\tMoliyaviy hisobot/IFRS yoki korporativ boshqaruv-huquqiy yo‘nalish bo‘yicha ekspert.\r\nQo‘shimcha talab: Loyiha rahbari yoki boshqa yuqori darajadagi asosiy ekspert SPO/IPO va/yoki ular bilan bog‘liq konsalting xizmatlari sohasida kamida 2 ta SPO/IPO yoki SPO/IPO tayyorgarlik loyihasida ishtirok etgan bo‘lishi lozim.\r\nEslatma: Mutaxassislar ishtirokchining shtatida faoliyat yuritayotgan bo‘lishi yoki ular bilan amaldagi fuqarolik-huquqiy shartnoma tuzilgan bo‘lishi lozim. Mazkur talabni tasdiqlash uchun har bir mutaxassis bo‘yicha quyidagi hujjatlardan biri taqdim etilishi shart:\r\n- YAMMT (my.mehnat.uz) tizimidan ko‘chirma;\r\n- mehnat daftarchasidan ko‘chirma;\r\n- amaldagi mehnat shartnomasi yoki fuqarolik-huquqiy shartnoma;\r\n- mehnat munosabatlarini tasdiqlovchi boshqa tenglashtirilgan hujjat.\r\nMutaxassislarning malakasi va tajribasini tasdiqlovchi hujjatlar:\r\n- YMMT (my.mehnat.uz) tizimidan ko‘chirma (mavjud bo‘lganda);\r\n- Mehnat shartnomasi yoki fuqarolik-huquqiy tusdagi shartnoma;\r\n- Mutaxassisning batafsil CV hujjati;\r\nTegishli kasbiy tajribani tasdiqlovchi ma’lumotnomalar va boshqa hujjatlar;\r\n\r\nSPO/IPO yoki SPO/IPO Readiness loyihalarida ishtirok etganligini tasdiqlovchi hujjatlar (shartnomadan tegishli ko‘chirma, buyurtmachining tavsiyanomasi yoki ma’lumotnomasi yoxud boshqa tasdiqlovchi hujjatlar).\r\n\r\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\r\nMutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\nTegishli toifa bo‘yicha mutaxassis mavjud bo‘lmasa yoki uning malakasi, kasbiy tajribasi yoxud ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar taqdim etilmagan yoki yetarli bo‘lmagan taqdirda — 0 ball, ishtirokchi tanlovdan chetlashtiriladi;\r\n\r\nHar bir toifa bo‘yicha talab etilgan mutaxassisning malakasi, kasbiy tajribasi va ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar to‘liq taqdim etilgan taqdirda — 1 balldan jami 3 ball. \r\n\r\nMuhim: Qo‘shimcha talabning bajarilmaganligi ball kamayishiga emas, balki ishtirokchining tanlovdan chetlashtirilishiga olib keladi.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\nTegishli toifa bo‘yicha mutaxassis mavjud bo‘lmasa yoki uning malakasi, kasbiy tajribasi yoxud ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar taqdim etilmagan yoki yetarli bo‘lmagan taqdirda — 0 ball, ishtirokchi tanlovdan chetlashtiriladi;\r\n\r\nHar bir toifa bo‘yicha talab etilgan mutaxassisning malakasi, kasbiy tajribasi va ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar to‘liq taqdim etilgan taqdirda — 1 balldan jami 3 ball. \r\n\r\nMuhim: Qo‘shimcha talabning bajarilmaganligi ball kamayishiga emas, balki ishtirokchining tanlovdan chetlashtirilishiga olib keladi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\nTegishli toifa bo‘yicha mutaxassis mavjud bo‘lmasa yoki uning malakasi, kasbiy tajribasi yoxud ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar taqdim etilmagan yoki yetarli bo‘lmagan taqdirda — 0 ball, ishtirokchi tanlovdan chetlashtiriladi;\r\n\r\nHar bir toifa bo‘yicha talab etilgan mutaxassisning malakasi, kasbiy tajribasi va ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar to‘liq taqdim etilgan taqdirda — 1 balldan jami 3 ball. \r\n\r\nMuhim: Qo‘shimcha talabning bajarilmaganligi ball kamayishiga emas, balki ishtirokchining tanlovdan chetlashtirilishiga olib keladi.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\r\nTegishli toifa bo‘yicha mutaxassis mavjud bo‘lmasa yoki uning malakasi, kasbiy tajribasi yoxud ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar taqdim etilmagan yoki yetarli bo‘lmagan taqdirda — 0 ball, ishtirokchi tanlovdan chetlashtiriladi;\r\n\r\nHar bir toifa bo‘yicha talab etilgan mutaxassisning malakasi, kasbiy tajribasi va ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar to‘liq taqdim etilgan taqdirda — 1 balldan jami 3 ball. \r\n\r\nMuhim: Qo‘shimcha talabning bajarilmaganligi ball kamayishiga emas, balki ishtirokchining tanlovdan chetlashtirilishiga olib keladi.\r\n"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770084,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Tasdiqlovchi hujjat taqdim etilishi lozim",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Ishtirokchi tomonidan SPO/IPOga tayyorgarlik darajasini baholash bo‘yicha xizmatlarni amalga oshirish metodologiyasining mavjudligi.\r\nSPO/IPOga tayyorgarlik darajasini baholash bo‘yicha xizmatlarni ko‘rsatish metodologiyasi (yondashuv va baholash usullari tavsifi) taqdim etilishi lozim.\r\nMetodologiya taqdim etilmagan bo‘lsa — 0 ball;\r\nMetodologiya taqdim etilgan bo‘lsa — 1 ball.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Metodologiya taqdim etilgan bo‘lsa "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770085,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi hujjat taqdim etilishi lozim",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "5\tIshtirokchining tanlov bo‘yicha taklifi xarid hujjatlari va texnik topshiriq talablariga to‘liq muvofiqligini tasdiqlovchi 5-shaklga muvofiq kafolat xati.\t0-1\tMajburiy\tKafolat xati taqdim etilmagan bo‘lmasa — 0 ball; \r\nKafolat xati taqdim etilgan bo‘lsa — 1 ball.\t5-shaklga muvofiq \r\nrasmiylashtiriladi.  \r\n \r\nAgar mavjud bo‘lmasa / \r\nnomuvofiq bo‘lsa, \r\nishtirokchi tanlovdan \r\nchetlashtiriladi.\r\n5-shaklga muvofiq \r\nrasmiylashtiriladi.  \r\n \r\nAgar mavjud bo‘lmasa / \r\nnomuvofiq bo‘lsa, \r\nishtirokchi tanlovdan \r\nchetlashtiriladi.\r\nKafolat xati taqdim etilmagan bo‘lmasa — 0 ball; \r\nKafolat xati taqdim etilgan bo‘lsa — 1 ball.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Kafolat xati taqdim etilgan bo‘lsa "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": "tender/user-files/2026/11/9/3447e1dc-f2fc-4176-96c6-9b1df2ff8aa8.docx"
+  }
+ ],
+ "fields": "[{\"Id\":2770081,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi hujjat taqdim etilishi lozim\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":30.0,\"Description\":\"Ishtirokchi yoki uning ijrochi jamoasining SPO/IPOga tayyorgarlik, SPO/IPO bo‘yicha konsalting va/yoki kapital bozorlari sohasida tasdiqlangan ish tajribasining mavjudligi.\\r\\n(4-shaklga muvofiq rasmiylashtiriladi). Izoh: Baholashda faqat ishtirokchining tanlov predmetiga o‘xshash yakunlangan ish tajribasi inobatga olinadi.\\r\\nIlova qilingan 4-shaklga muvofiq rasmiylashtiriladi\\r\\n\\r\\nIshtirokchilarning tajribasi faqat tasdiqlovchi hujjatlar (shartnoma va tasdiqlangan hisob-faktura) taqdim etilganda hisobga olinadi (baholanadi).\\r\\n\\r\\nAgar mavjud bo‘lmasa yoki mos kelmasa, ishtirokchi tanlovdan chetlashtiriladi\\r\\nAgar ishtirokchining ish tajribasi:\\r\\n2 tagacha yakunlangan shartnomalarni tashkil etsa — \\r\\n1 ball;\\r\\n3 tadan 4 tagacha yakunlangan shartnomalarni tashkil etsa — 2 ball;\\r\\n5 ta va undan ortiq yakunlangan shartnomalarni tashkil etsa — 3 ball (maksimal ball).\\r\\n\\r\\nAgar ishtirokchining ish tajribasi tanlov predmetiga o‘xshash loyihalar bo‘yicha bo‘lmasa – 0 ball.\\r\\n\\r\\nBaholashda faqat tanlov predmetiga o‘xshash xizmatlarni ko‘rsatish bo‘yicha Ishtirokchining yakunlangan tajribasi hisobga olinadi.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"5 ta va undan ortiq yakunlangan shartnomalarni tashkil etsa \"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"3 tadan 4 tagacha yakunlangan shartnomalarni tashkil etsa \"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"2 tagacha yakunlangan shartnomalarni tashkil etsa \"}],\"Form_Name\":\"4-sonli ilova\",\"Form_File_Path\":\"tender/user-files/2026/11/9/e0702acf-b0a1-4725-8eca-f445b1c396dd.docx\"},{\"Id\":2770082,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Tasdiqlovchi hujjat taqdim etilishi lozim\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"1. Ishtirokchi yoki uning ijrochi jamoasining takliflarni topshirish muddati tugaydigan sanadan oldingi so‘nggi 10 (o‘n) yil ichida taqqoslanadigan kapital bozorlarida kamida 3 (uchta) SPO/IPO loyihasini yakunlagan bo‘lishi afzal hisoblanadi.\\r\\n\\r\\nTaqqoslanadigan kapital bozorlari deganda rivojlanayotgan (emerging) va shakllanayotgan (frontier) kapital bozorlari, shu jumladan Markaziy Osiyo davlatlarining kapital bozorlari tushuniladi.\\r\\n\\r\\nIshtirokchining tajribasi quyidagi ishtirok shakllaridan biri bo‘yicha hisobga olinadi: \\r\\na) loyihani mustaqil ravishda amalga oshirgan bo‘lsa;\\r\\nb) loyihani konsorsium a’zosi sifatida amalga oshirgan bo‘lsa. Bunda loyihada bevosita ishtirok etganligi va bajargan vazifalari tasdiqlanishi shart;\\r\\nv) ishtirokchi xalqaro tarmoq a’zosi bo‘lsa, loyihani ushbu tarmoqqa kiruvchi bo‘linma amalga oshirgan bo‘lsa. Bunda tarmoqqa a’zolik va ko‘rsatilgan xizmat tasdiqlanishi shart.\\r\\n\\r\\n2. Ko‘rsatilgan loyihalardan kamida 1 (bittasi) SPO/IPOga tayyorgarlik (SPO/IPO Readiness) yoki SPO/IPO bo‘yicha maslahat (SPO/IPO Advisory) xizmatlariga tegishli bo‘lishi lozim.\\r\\n\\r\\nLoyiha quyidagi hollarda yakunlangan deb hisoblanadi: \\r\\n-\\tSPO/IPO loyihasi bo‘yicha: qimmatli qog‘ozlar joylashtirilgan bo‘lsa;\\r\\n-\\tReadiness/Advisory loyihasi bo‘yicha: shartnoma bo‘yicha xizmatlar to‘liq ko‘rsatilgan va buyurtmachi tomonidan qabul qilingan bo‘lsa.\\r\\nIshtirokchi ish tajribasi haqida ma’lumotni tashkilotning rasmiy blankasida taqdim qilishi lozim.\\r\\n\\r\\nIshtirokchining tajribasi faqat quyidagi tasdiqlovchi hujjatlar taqdim etilganda hisobga olinadi (baholanadi).\\r\\n\\r\\nTasdiqlovchi hujjatlar: \\r\\n-\\tshartnomalar nusxalari yoki ulardan ko‘chirmalar (maxfiylik majburiyatlari mavjud bo‘lsa, maxfiy ma’lumotlari yashirilgan nusxalarga yo‘l qo‘yiladi);\\r\\n-\\tbajarilgan ishlar dalolatnomalari yoki buyurtmachilarning tavsiya xatlari;\\r\\n-\\tochiq manbalardagi ma’lumotlarga havolalar (prospekt, birja e’lonlari va boshqalar;\\r\\n-\\tkonsorsium loyihalari uchun: konsorsium shartnomasi yoki ishtirokchining roli va vazifalarini tasdiqlovchi boshqa hujjat;\\r\\n-\\ttarmoq bo‘linmalari loyihalari uchun: tarmoqqa a’zolikni tasdiqlovchi hujjat va loyihani bajargan bo‘linmaning nomi va ko‘rsatilgan xizmatni tasdiqlovchi hujjat.\\r\\nIshtirokchining ish tajribasi taqdim etilgan va talablarga muvofiq tasdiqlangan loyihalar soniga qarab quyidagicha baholanadi: \\r\\n1 tadan 2 tagacha loyiha – 1 ball;\\r\\n3 ta va undan ortiq loyiha – 2 ball.\\r\\n\\r\\nHisobga olingan loyihalardan kamida 1 (bittasi) SPO/IPOga tayyorgarlik (SPO/IPO Readiness) yoki SPO/IPO bo‘yicha maslahat (SPO/IPO Advisory) xizmatlariga tegishli bo‘lishi ushbu mezon bo‘yicha ball berishning majburiy sharti hisoblanadi.\\r\\n\\r\\nQuyidagi hollarda ishtirokchiga ushbu mezon bo‘yicha 0 ball beriladi: \\r\\n-\\thisobga olingan loyihalar orasida 2-bandda ko‘rsatilgan loyiha mavjud bo‘lmasa;\\r\\n-\\ttalablarga muvofiq tasdiqlangan loyihalar mavjud bo‘lmasa yoki tasdiqlovchi hujjatlar taqdim etilmasa.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"3 ta va undan ortiq loyiha – 2 ball.\\r\\n\\r\\nHisobga olingan loyihalardan kamida 1 (bittasi) SPO/IPOga tayyorgarlik (SPO/IPO Readiness) yoki SPO/IPO bo‘yicha maslahat (SPO/IPO Advisory) xizmatlariga tegishli bo‘lishi ushbu mezon bo‘yicha ball berishning majburiy sharti hisoblanadi.\\r\\n\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"1 tadan 2 tagacha loyiha \\r\\n\\r\\nHisobga olingan loyihalardan kamida 1 (bittasi) SPO/IPOga tayyorgarlik (SPO/IPO Readiness) yoki SPO/IPO bo‘yicha maslahat (SPO/IPO Advisory) xizmatlariga tegishli bo‘lishi ushbu mezon bo‘yicha ball berishning majburiy sharti hisoblanadi.\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770083,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi hujjat taqdim etilishi lozim\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":30.0,\"Description\":\"Ishtirokchi yoki uning ijrochi jamoasi tarkibida quyidagi mutaxassislarning mavjudligi portfel va tegishli sertifikatlar ilova qilingan holda talab etiladi:\\r\\n1.\\tLoyiha rahbari;\\r\\n2.\\tKapital bozorlari/SPO/IPO eksperti;\\r\\n3.\\tMoliyaviy hisobot/IFRS yoki korporativ boshqaruv-huquqiy yo‘nalish bo‘yicha ekspert.\\r\\nQo‘shimcha talab: Loyiha rahbari yoki boshqa yuqori darajadagi asosiy ekspert SPO/IPO va/yoki ular bilan bog‘liq konsalting xizmatlari sohasida kamida 2 ta SPO/IPO yoki SPO/IPO tayyorgarlik loyihasida ishtirok etgan bo‘lishi lozim.\\r\\nEslatma: Mutaxassislar ishtirokchining shtatida faoliyat yuritayotgan bo‘lishi yoki ular bilan amaldagi fuqarolik-huquqiy shartnoma tuzilgan bo‘lishi lozim. Mazkur talabni tasdiqlash uchun har bir mutaxassis bo‘yicha quyidagi hujjatlardan biri taqdim etilishi shart:\\r\\n- YAMMT (my.mehnat.uz) tizimidan ko‘chirma;\\r\\n- mehnat daftarchasidan ko‘chirma;\\r\\n- amaldagi mehnat shartnomasi yoki fuqarolik-huquqiy shartnoma;\\r\\n- mehnat munosabatlarini tasdiqlovchi boshqa tenglashtirilgan hujjat.\\r\\nMutaxassislarning malakasi va tajribasini tasdiqlovchi hujjatlar:\\r\\n- YMMT (my.mehnat.uz) tizimidan ko‘chirma (mavjud bo‘lganda);\\r\\n- Mehnat shartnomasi yoki fuqarolik-huquqiy tusdagi shartnoma;\\r\\n- Mutaxassisning batafsil CV hujjati;\\r\\nTegishli kasbiy tajribani tasdiqlovchi ma’lumotnomalar va boshqa hujjatlar;\\r\\n\\r\\nSPO/IPO yoki SPO/IPO Readiness loyihalarida ishtirok etganligini tasdiqlovchi hujjatlar (shartnomadan tegishli ko‘chirma, buyurtmachining tavsiyanomasi yoki ma’lumotnomasi yoxud boshqa tasdiqlovchi hujjatlar).\\r\\n\\r\\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\\r\\nMutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\nTegishli toifa bo‘yicha mutaxassis mavjud bo‘lmasa yoki uning malakasi, kasbiy tajribasi yoxud ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar taqdim etilmagan yoki yetarli bo‘lmagan taqdirda — 0 ball, ishtirokchi tanlovdan chetlashtiriladi;\\r\\n\\r\\nHar bir toifa bo‘yicha talab etilgan mutaxassisning malakasi, kasbiy tajribasi va ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar to‘liq taqdim etilgan taqdirda — 1 balldan jami 3 ball. \\r\\n\\r\\nMuhim: Qo‘shimcha talabning bajarilmaganligi ball kamayishiga emas, balki ishtirokchining tanlovdan chetlashtirilishiga olib keladi.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\nTegishli toifa bo‘yicha mutaxassis mavjud bo‘lmasa yoki uning malakasi, kasbiy tajribasi yoxud ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar taqdim etilmagan yoki yetarli bo‘lmagan taqdirda — 0 ball, ishtirokchi tanlovdan chetlashtiriladi;\\r\\n\\r\\nHar bir toifa bo‘yicha talab etilgan mutaxassisning malakasi, kasbiy tajribasi va ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar to‘liq taqdim etilgan taqdirda — 1 balldan jami 3 ball. \\r\\n\\r\\nMuhim: Qo‘shimcha talabning bajarilmaganligi ball kamayishiga emas, balki ishtirokchining tanlovdan chetlashtirilishiga olib keladi.\\r\\n\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\nTegishli toifa bo‘yicha mutaxassis mavjud bo‘lmasa yoki uning malakasi, kasbiy tajribasi yoxud ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar taqdim etilmagan yoki yetarli bo‘lmagan taqdirda — 0 ball, ishtirokchi tanlovdan chetlashtiriladi;\\r\\n\\r\\nHar bir toifa bo‘yicha talab etilgan mutaxassisning malakasi, kasbiy tajribasi va ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar to‘liq taqdim etilgan taqdirda — 1 balldan jami 3 ball. \\r\\n\\r\\nMuhim: Qo‘shimcha talabning bajarilmaganligi ball kamayishiga emas, balki ishtirokchining tanlovdan chetlashtirilishiga olib keladi.\\r\\n\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Mutaxassislar bo‘yicha talablar tegishliligini baholash mezonlari:\\r\\nTegishli toifa bo‘yicha mutaxassis mavjud bo‘lmasa yoki uning malakasi, kasbiy tajribasi yoxud ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar taqdim etilmagan yoki yetarli bo‘lmagan taqdirda — 0 ball, ishtirokchi tanlovdan chetlashtiriladi;\\r\\n\\r\\nHar bir toifa bo‘yicha talab etilgan mutaxassisning malakasi, kasbiy tajribasi va ishtirokchi bilan mehnat yoki fuqarolik-huquqiy munosabatlarini tasdiqlovchi hujjatlar to‘liq taqdim etilgan taqdirda — 1 balldan jami 3 ball. \\r\\n\\r\\nMuhim: Qo‘shimcha talabning bajarilmaganligi ball kamayishiga emas, balki ishtirokchining tanlovdan chetlashtirilishiga olib keladi.\\r\\n\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770084,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Tasdiqlovchi hujjat taqdim etilishi lozim\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Ishtirokchi tomonidan SPO/IPOga tayyorgarlik darajasini baholash bo‘yicha xizmatlarni amalga oshirish metodologiyasining mavjudligi.\\r\\nSPO/IPOga tayyorgarlik darajasini baholash bo‘yicha xizmatlarni ko‘rsatish metodologiyasi (yondashuv va baholash usullari tavsifi) taqdim etilishi lozim.\\r\\nMetodologiya taqdim etilmagan bo‘lsa — 0 ball;\\r\\nMetodologiya taqdim etilgan bo‘lsa — 1 ball.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Metodologiya taqdim etilgan bo‘lsa \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770085,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi hujjat taqdim etilishi lozim\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"5\\tIshtirokchining tanlov bo‘yicha taklifi xarid hujjatlari va texnik topshiriq talablariga to‘liq muvofiqligini tasdiqlovchi 5-shaklga muvofiq kafolat xati.\\t0-1\\tMajburiy\\tKafolat xati taqdim etilmagan bo‘lmasa — 0 ball; \\r\\nKafolat xati taqdim etilgan bo‘lsa — 1 ball.\\t5-shaklga muvofiq \\r\\nrasmiylashtiriladi.  \\r\\n \\r\\nAgar mavjud bo‘lmasa / \\r\\nnomuvofiq bo‘lsa, \\r\\nishtirokchi tanlovdan \\r\\nchetlashtiriladi.\\r\\n5-shaklga muvofiq \\r\\nrasmiylashtiriladi.  \\r\\n \\r\\nAgar mavjud bo‘lmasa / \\r\\nnomuvofiq bo‘lsa, \\r\\nishtirokchi tanlovdan \\r\\nchetlashtiriladi.\\r\\nKafolat xati taqdim etilmagan bo‘lmasa — 0 ball; \\r\\nKafolat xati taqdim etilgan bo‘lsa — 1 ball.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Kafolat xati taqdim etilgan bo‘lsa \"}],\"Form_Name\":null,\"Form_File_Path\":\"tender/user-files/2026/11/9/3447e1dc-f2fc-4176-96c6-9b1df2ff8aa8.docx\"}]",
+ "js_qualification_fields": [
+  {
+   "id": 1109595,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109596,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109597,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109598,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109599,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109600,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109601,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 7,
+   "description": "1-sonli ilova",
+   "file_path": "tender/user-files/2026/11/9/b02ffe5c-4810-4030-89e4-405303d8d5d8.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109602,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 8,
+   "description": "2-sonli ilova",
+   "file_path": "tender/user-files/2026/11/9/f23dad9d-6927-48bd-8541-2a676eddd0bd.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109603,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 9,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109604,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 10,
+   "description": "3-sonli ilova",
+   "file_path": "tender/user-files/2026/11/9/a52ba9db-df35-47dd-b446-062eeab47213.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1109595,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109596,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109597,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109598,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109599,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109600,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109601,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":7,\"Description\":\"1-sonli ilova\",\"File_Path\":\"tender/user-files/2026/11/9/b02ffe5c-4810-4030-89e4-405303d8d5d8.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109602,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":8,\"Description\":\"2-sonli ilova\",\"File_Path\":\"tender/user-files/2026/11/9/f23dad9d-6927-48bd-8541-2a676eddd0bd.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109603,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":9,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109604,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":10,\"Description\":\"3-sonli ilova\",\"File_Path\":\"tender/user-files/2026/11/9/a52ba9db-df35-47dd-b446-062eeab47213.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 16221,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Мирзо-Улугбекский район",
+ "delivering_address": "Mo'minov ko'chasi, 4/2",
+ "delivering_phone": "711000175",
+ "addon_description": "“O‘zbektelekom” AK uchun SPO/IPOga tayyorgarlik darajasini baholash bo‘yicha konsalting xizmatlarini xarid qilish",
+ "technical_description": "“O‘zbektelekom” AK uchun SPO/IPOga tayyorgarlik darajasini baholash bo‘yicha konsalting xizmatlarini xarid qilish",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Mo'minova 4/2",
+ "customer_zip": "100090",
+ "min_point": 5,
+ "financing_source": "O'z mablag'lari",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 13390133.29,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081767,
+     "converted_price": 13390133.29,
+     "converted_cost": 13390133.29
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 162081.1,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081767,
+     "converted_price": 162081.1,
+     "converted_cost": 162081.1
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 1948800000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081767,
+     "converted_price": 1948800000.0,
+     "converted_cost": 1948800000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 147226.02,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081767,
+     "converted_price": 147226.02,
+     "converted_cost": 147226.02
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

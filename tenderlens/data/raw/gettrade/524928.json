@@ -1,0 +1,514 @@
+{
+ "id": 524928,
+ "display_no": "26110012524928",
+ "start_date": "2026-11-17T15:59:52",
+ "end_date": "2026-11-24T15:59:52",
+ "clarific_date": "2026-11-24T15:59:52",
+ "start_cost": 1000000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2084045,\"Order_Num\":1,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24328646,\"Product_Id\":712221,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":1000000000,\"Cost\":1000000000,\"Description\":\"Mazkur hujjat mahalla va ko‘p qavatli uylar hududini raqamlashtirish, kommunal infratuzilmani monitoring qilish, xavfsizlikni ta’minlash, murojaatlarni dom kesimida boshqarish, avtoturargoh bandligini aniqlash, infokiosk va interaktiv Aqlli maskan (Galagramma va infokiosk) hamda Aqlli ustun orqali fuqarolarga axborot berish hamda rahbarlar uchun planshet va aqlli ko‘zoynak integratsiyasi, Aqlli BSK va Aqlli datchiklar yordamida ko‘p qavatli uylarni monitoring qilish bo‘yicha texnik talablarni belgilaydi. Aqlli ustun fuqarolarning murojaatlarini yozib olib, «Aqlli shahar» tizimiga yuborishni ta’minlaydi\",\"Expenditure_Id\":44355200,\"Expenditure_Name\":\"Нематериальные активы\",\"Plan_Id\":9994705,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"26.20.15.000-00005\",\"Guarantee_Term\":3,\"Delivery_Term\":15,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Дастурий-техник комплекс\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 5,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":4,\"Name\":\"Узбекский К\"}]",
+ "contacts": "[{\"Job_title\":\"Urganch shahar hokimligi davlat xaridlari bo‘yicha komissiya raisi\",\"Fullname\":\"ESHCHANOV JAXONGIR SAPARBAYEVICH\"},{\"Job_title\":\"Urganch shahar hokimining raqamli texnologiyalar va sun’iy intellekt texnologiya\",\"Fullname\":\"SOBIROV NIZOMADDIN ALISHER O‘G‘LI\"}]",
+ "rest_time": 579232,
+ "customer_name": "Урганч шахар Хокимлиги",
+ "customer_tin": "201753140",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611112956869946.pdf",
+ "tech_file_path": "/files/2026/11/11/202611112956869946.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 1619016.0,
+ "tech_doc_file_name": "20261711132422524928.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711132422524928.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 233591.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611045055545600.doc",
+ "contract_proform_file_path": "/files/2026/11/4/202611045055545600.doc",
+ "contract_proform_file_ext": "DOC",
+ "contract_proform_file_sizes": 78336.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 4,
+ "nonauthorized_count": 191,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2772652,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "7-илова",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Tovarning (xizmatning) zarur texnik tavsifiga qo‘yiladigan talablar. Texnik topshiriqda nazarda tutilgan xajm, texnik parametrlar va talablariga muvofiqligi. Ishtirokchilar xar bir talab bo‘yicha asoslovchi hujjatlarni ilova qiladi. Texnik topshiriqda nazarda tutilgan xajm, texnik parametrlar va talablariga to‘liq mos kelsa maksimal 20 ball beriladi. Agar texnik topshiriqda nazarda tutilgan xajm, texnik parametrlar va talablariga qisman mos kelsa 10 ball beriladi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Agar texnik topshiriqda nazarda tutilgan xajm, texnik parametrlar va talablariga qisman mos kelsa 10 ball beriladi"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772653,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "сертификат патент ва бошкалар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Tovarning belgilangan sifat talablariga javob berishini tasdiqlovchi sertifikatlar, agar tovar patentlangan bo‘lsa uning patentini va huquqlarini tasdiqlovchi xujjatlarni taqdim etish. Agar ushbu tovarga (xizmatga) xo‘jalik sub’ektining sertifikat yoki patent  va huquqlarini tasdiqlovchi xujjatlarni mos ravishda to‘liq taqdim etsa maksimal 20 ball beriladi. Agar ushbu tovarga (xizmatga) xo‘jalik sub’ektining sertifikat yoki patent  va huquqlarini tasdiqlovchi xujjatlarni mos ravishda qisman taqdim etsa 10 ball beriladi. Agar ushbu tovarga (xizmatga) xo‘jalik sub’ektining sertifikat yoki patent  va huquqlarini tasdiqlovchi xujjatlarni taqdim etmasa 0 ball beriladi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Agar ushbu tovarga (xizmatga) xo‘jalik sub’ektining sertifikat yoki patent  va huquqlarini tasdiqlovchi xujjatlarni mos ravishda qisman taqdim etsa 10 ball beriladi"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772654,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "кафолат хати",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Tovarga (dasturiy majmuaga) xizmat ko‘rsatish va uni ekspluatatsiya qilishga talablar. Agar tovarga (dasturiy majmuaga) kamida 3 yil  xizmat ko‘rsatish va uni ekspluatatsiya qilishga 3 yil davomida yordam berishga kafolat xati berilsa maksimal 20 ball beriladi. Agar tovarga (dasturiy majmuaga) 3 yildan kam vaqtga xizmat ko‘rsatish va uni ekspluatatsiya qilishga 3 yildan kam vaqt  davomida yordam berishga kafolat xati berilsa 10 ball beriladi. Agar tovarga (dasturiy majmuaga) xizmat ko‘rsatish va uni ekspluatatsiya qilishga umuman kafolat xati berilmasa 0 ball beriladi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Agar tovarga (dasturiy majmuaga) 3 yildan kam vaqtga xizmat ko‘rsatish va uni ekspluatatsiya qilishga 3 yildan kam vaqt  davomida yordam berishga kafolat xati berilsa 10 ball beriladi"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772655,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарни етказиб бериш муддати бўйича талаблар (норезидент ва резидентлар учун алоҳида манзиллар белгиланиши мумкин)",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "кафолат хати",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Tovarni (dasturiy majmuani) yetkazib berish muddati bo‘yicha talablar. Agar tovarga (dasturiy majmuani) етказиб бериш муддатти энг кам вақт кўрсатилган хўжалик субъектига maksimal 20 ball beriladi. Agar tovarga (dasturiy majmuani) етказиб бериш муддатти энг кўп вақт кўрсатилган хўжалик субъектига 0 ball beriladi. Agar tovarga (dasturiy majmuani) етказиб бериш муддатти энг кам вақт ва энг кўп вақт орасидаги хўжалик субъектига 10 ball beriladi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Agar tovarga (dasturiy majmuani) yetkazib berish muddatti eng kam vaqt va eng ko‘p vaqt orasidagi xo‘jalik sub’ektiga 10 ball beriladi"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2772656,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ходимларни ўқитиш бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "zarur malakaga ega xodimlarining mavjudligi yuzasidan xar biri to‘g‘risida ma’lumot",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Tovarni (dasturiy majmuani) ishlab chiqish va uni yetkazib berish, unga kafolat davrida xizmat ko‘rsatish va yordam berish ishlari uchun xo‘jalik sub’ektining zarur malakaga ega xodimlarining mavjudligi yuzasidan xar biri to‘g‘risida ma’lumot. Agar xo‘jalik sub’ekti yetarli darajada zarur malakaga ega xodimlari bo‘lsa ular to‘g‘risidagi barcha ma’lumotlarini elektron shaklda yuklaydi. Yuqori malakaga ega xodimlari ko‘p bo‘lgan xo‘jalik sub’ektiga maksimal 20 ball beriladi. Yuqori malakaga ega xodimlari nisbatan ko‘p bo‘lmagan xo‘jalik sub’ektiga 10 ball beriladi. Yuqori malakaga ega xodimlari mavjud bo‘lmagan xo‘jalik sub’ektiga 0 ball beriladi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Yuqori malakaga ega xodimlari nisbatan ko‘p bo‘lmagan xo‘jalik sub’ektiga 10 ball beriladi"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2772652,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"7-илова\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Tovarning (xizmatning) zarur texnik tavsifiga qo‘yiladigan talablar. Texnik topshiriqda nazarda tutilgan xajm, texnik parametrlar va talablariga muvofiqligi. Ishtirokchilar xar bir talab bo‘yicha asoslovchi hujjatlarni ilova qiladi. Texnik topshiriqda nazarda tutilgan xajm, texnik parametrlar va talablariga to‘liq mos kelsa maksimal 20 ball beriladi. Agar texnik topshiriqda nazarda tutilgan xajm, texnik parametrlar va talablariga qisman mos kelsa 10 ball beriladi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Agar texnik topshiriqda nazarda tutilgan xajm, texnik parametrlar va talablariga qisman mos kelsa 10 ball beriladi\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772653,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"сертификат патент ва бошкалар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Tovarning belgilangan sifat talablariga javob berishini tasdiqlovchi sertifikatlar, agar tovar patentlangan bo‘lsa uning patentini va huquqlarini tasdiqlovchi xujjatlarni taqdim etish. Agar ushbu tovarga (xizmatga) xo‘jalik sub’ektining sertifikat yoki patent  va huquqlarini tasdiqlovchi xujjatlarni mos ravishda to‘liq taqdim etsa maksimal 20 ball beriladi. Agar ushbu tovarga (xizmatga) xo‘jalik sub’ektining sertifikat yoki patent  va huquqlarini tasdiqlovchi xujjatlarni mos ravishda qisman taqdim etsa 10 ball beriladi. Agar ushbu tovarga (xizmatga) xo‘jalik sub’ektining sertifikat yoki patent  va huquqlarini tasdiqlovchi xujjatlarni taqdim etmasa 0 ball beriladi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Agar ushbu tovarga (xizmatga) xo‘jalik sub’ektining sertifikat yoki patent  va huquqlarini tasdiqlovchi xujjatlarni mos ravishda qisman taqdim etsa 10 ball beriladi\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772654,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"кафолат хати\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Tovarga (dasturiy majmuaga) xizmat ko‘rsatish va uni ekspluatatsiya qilishga talablar. Agar tovarga (dasturiy majmuaga) kamida 3 yil  xizmat ko‘rsatish va uni ekspluatatsiya qilishga 3 yil davomida yordam berishga kafolat xati berilsa maksimal 20 ball beriladi. Agar tovarga (dasturiy majmuaga) 3 yildan kam vaqtga xizmat ko‘rsatish va uni ekspluatatsiya qilishga 3 yildan kam vaqt  davomida yordam berishga kafolat xati berilsa 10 ball beriladi. Agar tovarga (dasturiy majmuaga) xizmat ko‘rsatish va uni ekspluatatsiya qilishga umuman kafolat xati berilmasa 0 ball beriladi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Agar tovarga (dasturiy majmuaga) 3 yildan kam vaqtga xizmat ko‘rsatish va uni ekspluatatsiya qilishga 3 yildan kam vaqt  davomida yordam berishga kafolat xati berilsa 10 ball beriladi\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772655,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарни етказиб бериш муддати бўйича талаблар (норезидент ва резидентлар учун алоҳида манзиллар белгиланиши мумкин)\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"кафолат хати\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Tovarni (dasturiy majmuani) yetkazib berish muddati bo‘yicha talablar. Agar tovarga (dasturiy majmuani) етказиб бериш муддатти энг кам вақт кўрсатилган хўжалик субъектига maksimal 20 ball beriladi. Agar tovarga (dasturiy majmuani) етказиб бериш муддатти энг кўп вақт кўрсатилган хўжалик субъектига 0 ball beriladi. Agar tovarga (dasturiy majmuani) етказиб бериш муддатти энг кам вақт ва энг кўп вақт орасидаги хўжалик субъектига 10 ball beriladi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Agar tovarga (dasturiy majmuani) yetkazib berish muddatti eng kam vaqt va eng ko‘p vaqt orasidagi xo‘jalik sub’ektiga 10 ball beriladi\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2772656,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ходимларни ўқитиш бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"zarur malakaga ega xodimlarining mavjudligi yuzasidan xar biri to‘g‘risida ma’lumot\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Tovarni (dasturiy majmuani) ishlab chiqish va uni yetkazib berish, unga kafolat davrida xizmat ko‘rsatish va yordam berish ishlari uchun xo‘jalik sub’ektining zarur malakaga ega xodimlarining mavjudligi yuzasidan xar biri to‘g‘risida ma’lumot. Agar xo‘jalik sub’ekti yetarli darajada zarur malakaga ega xodimlari bo‘lsa ular to‘g‘risidagi barcha ma’lumotlarini elektron shaklda yuklaydi. Yuqori malakaga ega xodimlari ko‘p bo‘lgan xo‘jalik sub’ektiga maksimal 20 ball beriladi. Yuqori malakaga ega xodimlari nisbatan ko‘p bo‘lmagan xo‘jalik sub’ektiga 10 ball beriladi. Yuqori malakaga ega xodimlari mavjud bo‘lmagan xo‘jalik sub’ektiga 0 ball beriladi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Yuqori malakaga ega xodimlari nisbatan ko‘p bo‘lmagan xo‘jalik sub’ektiga 10 ball beriladi\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1112955,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112956,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112957,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112958,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112959,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112960,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1112955,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1112956,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1112957,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1112958,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1112959,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1112960,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 106175,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Хорезмская область",
+ "delivering_district_name": "Ургенч",
+ "delivering_address": "Urganch shahri, Abulg‘ozi Bahodirxon ko‘chasi, 186-uy",
+ "delivering_phone": "972112442",
+ "addon_description": "Mazkur hujjat mahalla va ko‘p qavatli uylar hududini raqamlashtirish, kommunal infratuzilmani monitoring qilish, xavfsizlikni ta’minlash, murojaatlarni dom kesimida boshqarish, avtoturargoh bandligini aniqlash, infokiosk va interaktiv Aqlli maskan (Galagramma va infokiosk) hamda Aqlli ustun orqali fuqarolarga axborot berish hamda rahbarlar uchun planshet va aqlli ko‘zoynak integratsiyasi, Aqlli BSK va Aqlli datchiklar yordamida ko‘p qavatli uylarni monitoring qilish bo‘yicha texnik talablarni belgilaydi. Aqlli ustun fuqarolarning murojaatlarini yozib olib, «Aqlli shahar» tizimiga yuborishni ta’minlaydi",
+ "technical_description": "Mazkur hujjat mahalla va ko‘p qavatli uylar hududini raqamlashtirish, kommunal infratuzilmani monitoring qilish, xavfsizlikni ta’minlash, murojaatlarni dom kesimida boshqarish, avtoturargoh bandligini aniqlash, infokiosk va interaktiv Aqlli maskan (Galagramma va infokiosk) hamda Aqlli ustun orqali fuqarolarga axborot berish hamda rahbarlar uchun planshet va aqlli ko‘zoynak integratsiyasi, Aqlli BSK va Aqlli datchiklar yordamida ko‘p qavatli uylarni monitoring qilish bo‘yicha texnik talablarni belgilaydi. Aqlli ustun fuqarolarning murojaatlarini yozib olib, «Aqlli shahar» tizimiga yuborishni ta’minlaydi",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 524096,
+ "customer_region_name": "Xorazm viloyati",
+ "customer_district_name": "Xorazm viloyati",
+ "customer_street": "Урганч шахар А.Баходирхон куча 186 уй",
+ "customer_zip": "00000",
+ "min_point": 50,
+ "financing_source": "Mahalliy byudjetning qo‘shimcha manbaalari hisobidan",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 83169.69,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084045,
+     "converted_price": 83169.69,
+     "converted_cost": 83169.69
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 1000000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084045,
+     "converted_price": 1000000000.0,
+     "converted_cost": 1000000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 75547.01,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084045,
+     "converted_price": 75547.01,
+     "converted_cost": 75547.01
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 6870963.3,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2084045,
+     "converted_price": 6870963.3,
+     "converted_cost": 6870963.3
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

@@ -1,0 +1,790 @@
+{
+ "id": 524230,
+ "display_no": "26110012524230",
+ "start_date": "2026-11-11T10:20:32",
+ "end_date": "2026-11-18T10:20:32",
+ "clarific_date": "2026-11-18T10:20:32",
+ "start_cost": 34122000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2080555,\"Order_Num\":6,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385527,\"Product_Id\":672411,\"Product_Type_Id\":3,\"Quantity\":40,\"Price\":90000,\"Cost\":3600000,\"Description\":\"Услуга по заправке и восстановлению картриджей.  Замена барабана Canon MF 3010, Canon. HP. LJ с учетом барабана\",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.130-00005\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Картриджларни тўлдириш ва қайта тиклаш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080554,\"Order_Num\":5,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385526,\"Product_Id\":672411,\"Product_Type_Id\":3,\"Quantity\":40,\"Price\":170000,\"Cost\":6800000,\"Description\":\"Услуга по заправке и восстановлению картриджей. Замена тонера картриджа принтера Canon. HP. LJ с учетом тонера\",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.130-00005\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Картриджларни тўлдириш ва қайта тиклаш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080553,\"Order_Num\":4,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385525,\"Product_Id\":467843,\"Product_Type_Id\":3,\"Quantity\":10,\"Price\":400000,\"Cost\":4000000,\"Description\":\"Услуга по замене и установке материнской платы на компьютер. Установка памяти SSD 256\",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.110-00016\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Компьютерга она платани ўрнатиш ва алмаштириш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080552,\"Order_Num\":3,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385524,\"Product_Id\":610429,\"Product_Type_Id\":3,\"Quantity\":3,\"Price\":300000,\"Cost\":900000,\"Description\":\"Услуга по замене блока питания. Замена блок питания монитора\",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.190-00011\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Таъминот блокини алмаштириш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Хизмат тури\",\"User_Value\":\"Чақирув билан\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080551,\"Order_Num\":2,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385523,\"Product_Id\":672411,\"Product_Type_Id\":3,\"Quantity\":2,\"Price\":350000,\"Cost\":700000,\"Description\":\"Услуга по заправке и восстановлению картриджей. Прочистка головки EPSON\",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.130-00005\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Картриджларни тўлдириш ва қайта тиклаш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080550,\"Order_Num\":1,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385522,\"Product_Id\":672411,\"Product_Type_Id\":3,\"Quantity\":2,\"Price\":300000,\"Cost\":600000,\"Description\":\"Услуга по заправке и восстановлению картриджей. Заправка цветных красок принтера EPSON\",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.130-00005\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Картриджларни тўлдириш ва қайта тиклаш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080561,\"Order_Num\":12,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385533,\"Product_Id\":455865,\"Product_Type_Id\":3,\"Quantity\":10,\"Price\":350000,\"Cost\":3500000,\"Description\":\"Услуга по сервисному обслуживанию компьютерного и офисного оборудования.  Переустановка операционной системы Windows\",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.120-00002\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Компьютер ва офис ускунасига техник хизмат кўрсатиш\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080560,\"Order_Num\":11,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385532,\"Product_Id\":464653,\"Product_Type_Id\":3,\"Quantity\":3,\"Price\":300000,\"Cost\":900000,\"Description\":\"Услуга по проведению разового технического обследования аккумуляторных батарей и выпрямительных устройств.  Ремонт UPS\",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.190-00007\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Аккумулятор батареялари ва тўғрилагичларни бир марталик техник текширувдан ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080559,\"Order_Num\":10,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385531,\"Product_Id\":455865,\"Product_Type_Id\":3,\"Quantity\":4,\"Price\":200000,\"Cost\":800000,\"Description\":\"Услуга по сервисному обслуживанию компьютерного и офисного оборудования.  Настройка Wi-Fi Роутера\",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.120-00002\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Компьютер ва офис ускунасига техник хизмат кўрсатиш\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080558,\"Order_Num\":9,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385530,\"Product_Id\":467597,\"Product_Type_Id\":3,\"Quantity\":6,\"Price\":1000000,\"Cost\":6000000,\"Description\":\"Услуга по техническому обслуживанию компьютеров. Восстановление данных\",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.110-00011\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Компьютерларга техник хизмат кўрсатиш\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080557,\"Order_Num\":8,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385529,\"Product_Id\":460333,\"Product_Type_Id\":3,\"Quantity\":5,\"Price\":850000,\"Cost\":4250000,\"Description\":\"Услуга по профилактике принтера. Ремонт утюга mf3010\",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.110-00008\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Принтерни профилактика қилиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080556,\"Order_Num\":7,\"Category_Id\":127953,\"Plangraph_Detail_Id\":24385528,\"Product_Id\":709668,\"Product_Type_Id\":3,\"Quantity\":40,\"Price\":51800,\"Cost\":2072000,\"Description\":\"Услуга по замене магнитного вала картриджей. Замена магнитного вала принтера LBP6000. Canon. HP. \",\"Expenditure_Id\":44234920,\"Expenditure_Name\":\"Компьютерное оборудование, вычислительная и аудио-видео техника\",\"Plan_Id\":10024727,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"95.11.10.130-00006\",\"Guarantee_Term\":30,\"Delivery_Term\":15,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютерлар, шахсий фойдаланиш буюмлари ва маиший жиҳозларни таъмирлаш бўйича хизматлар\",\"Product_Name\":\"Картриджларнинг магнитли валини алмаштириш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3},{\"Property_Name\":\"Тури\",\"User_Value\":\"Вақти-вақти билан режа бўйича\",\"User_Value_Id\":1,\"Pnum\":4},{\"Property_Name\":\"Ишлар ҳажми, соат\",\"User_Value\":\"40-80\",\"User_Value_Id\":2,\"Pnum\":5}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 15,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Главный воач\",\"Fullname\":\"SHARAPAT RAXIMOVA SALIXOVNA\"}]",
+ "rest_time": 40700,
+ "customer_name": "Шахар болалар фтизиатрия касаллиги сихатгохи",
+ "customer_tin": "203797702",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611064857630349.PDF",
+ "tech_file_path": "/files/2026/11/6/202611064857630349.PDF",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 2870964.0,
+ "tech_doc_file_name": "20261711162429524230.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711162429524230.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 376237.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611053631807131.doc",
+ "contract_proform_file_path": "/files/2026/11/5/202611053631807131.doc",
+ "contract_proform_file_ext": "DOC",
+ "contract_proform_file_sizes": 63488.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 18,
+ "nonauthorized_count": 3144,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2768846,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Hik-partner pro servis ilovasidan akkaunt mavjudligini tasdiqlovchi skrinshot taqdim etilsin\tMa’lumot to‘liq bo‘lsa - 15 ball; Qisman moslik - 5 ball; Mavjud emas - 0 ball",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 18.75,
+   "description": "Hik-partner pro servis ilovasidan akkaunt mavjudligini tasdiqlovchi skrinshot taqdim etilsin",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Qisman moslik "
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2768847,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 25.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Xizmatlarni amalga oshirish uchun asbob-uskuna va qurilmalar mavjudligini tasdiqlovchi xujjat . Optik kabelni payvandlash qurilmasi mavjudligini tasdiqlovchi xujjat\tMa’lumot to‘liq bo‘lsa - 25 ball; Qisman moslik - 5 ball; Mavjud emas - 0 ball",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 31.25,
+   "description": "Xizmatlarni amalga oshirish uchun asbob-uskuna va qurilmalar mavjudligini tasdiqlovchi xujjat . Optik kabelni payvandlash qurilmasi mavjudligini tasdiqlovchi xujjat",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 25.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Qisman moslik "
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2768848,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Ushbu texnik topshiriqni bajarish uchun pudratchida ushbu sohada kamida 4 yillik tajribaga ega bo'lgan xodim bo'lishi kerak.\tMa’lumot to‘liq bo‘lsa - 10 ball; Qisman moslik - 2 ball; Mavjud emas - 0 ball",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Ushbu texnik topshiriqni bajarish uchun pudratchida ushbu sohada kamida 4 yillik tajribaga ega bo'lgan xodim bo'lishi kerak.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Qisman moslik "
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2768849,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Lokal tarmoqlarni sozlash va qurish uchun litsenziya mavjudligini tasdiqlovchi hujjat\tMa’lumot to‘liq bo‘lsa - 10 ball; Qisman moslik - 2 ball; Mavjud emas - 0 ball",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Lokal tarmoqlarni sozlash va qurish uchun litsenziya mavjudligini tasdiqlovchi hujjat",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Qisman moslik "
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2768850,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Xodimlar shtati kamida 4 kishidan iboratligini tasdiqlovchi hujjat\tMa’lumot to‘liq bo‘lsa - 10 ball; Qisman moslik - 2 ball; Mavjud emas - 0 ball",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Xodimlar shtati kamida 4 kishidan iboratligini tasdiqlovchi hujjat",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Qisman moslik "
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2768851,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Xodimlardan birining mazkur sohada oliy ma’lumotga ega ekanligini tasdiqlovchi hujjat (magistr diplomi)\tMa’lumot to‘liq bo‘lsa (magistratura) - 10 ball; Qisman moslik (magistr) - 5 ball; Mavjud emas - 0 ball",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 12.5,
+   "description": "Xodimlardan birining mazkur sohada oliy ma’lumotga ega ekanligini tasdiqlovchi hujjat (magistr diplomi)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Qisman moslik (magistr)"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2768846,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Hik-partner pro servis ilovasidan akkaunt mavjudligini tasdiqlovchi skrinshot taqdim etilsin\\tMa’lumot to‘liq bo‘lsa - 15 ball; Qisman moslik - 5 ball; Mavjud emas - 0 ball\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":18.75,\"Description\":\"Hik-partner pro servis ilovasidan akkaunt mavjudligini tasdiqlovchi skrinshot taqdim etilsin\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Qisman moslik \"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2768847,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":25.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Xizmatlarni amalga oshirish uchun asbob-uskuna va qurilmalar mavjudligini tasdiqlovchi xujjat . Optik kabelni payvandlash qurilmasi mavjudligini tasdiqlovchi xujjat\\tMa’lumot to‘liq bo‘lsa - 25 ball; Qisman moslik - 5 ball; Mavjud emas - 0 ball\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":31.25,\"Description\":\"Xizmatlarni amalga oshirish uchun asbob-uskuna va qurilmalar mavjudligini tasdiqlovchi xujjat . Optik kabelni payvandlash qurilmasi mavjudligini tasdiqlovchi xujjat\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":25.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Qisman moslik \"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2768848,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Ushbu texnik topshiriqni bajarish uchun pudratchida ushbu sohada kamida 4 yillik tajribaga ega bo'lgan xodim bo'lishi kerak.\\tMa’lumot to‘liq bo‘lsa - 10 ball; Qisman moslik - 2 ball; Mavjud emas - 0 ball\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Ushbu texnik topshiriqni bajarish uchun pudratchida ushbu sohada kamida 4 yillik tajribaga ega bo'lgan xodim bo'lishi kerak.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Qisman moslik \"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2768849,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Lokal tarmoqlarni sozlash va qurish uchun litsenziya mavjudligini tasdiqlovchi hujjat\\tMa’lumot to‘liq bo‘lsa - 10 ball; Qisman moslik - 2 ball; Mavjud emas - 0 ball\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Lokal tarmoqlarni sozlash va qurish uchun litsenziya mavjudligini tasdiqlovchi hujjat\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Qisman moslik \"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2768850,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Xodimlar shtati kamida 4 kishidan iboratligini tasdiqlovchi hujjat\\tMa’lumot to‘liq bo‘lsa - 10 ball; Qisman moslik - 2 ball; Mavjud emas - 0 ball\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Xodimlar shtati kamida 4 kishidan iboratligini tasdiqlovchi hujjat\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Qisman moslik \"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2768851,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Xodimlardan birining mazkur sohada oliy ma’lumotga ega ekanligini tasdiqlovchi hujjat (magistr diplomi)\\tMa’lumot to‘liq bo‘lsa (magistratura) - 10 ball; Qisman moslik (magistr) - 5 ball; Mavjud emas - 0 ball\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":12.5,\"Description\":\"Xodimlardan birining mazkur sohada oliy ma’lumotga ega ekanligini tasdiqlovchi hujjat (magistr diplomi)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Qisman moslik (magistr)\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1107976,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107977,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107978,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107979,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107980,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107981,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1107976,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107977,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107978,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107979,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107980,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107981,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 96396,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Учтепинский район",
+ "delivering_address": "г. Ташкент, Учтепинский район, ул. Джамшид, 1/47",
+ "delivering_phone": "712749202",
+ "addon_description": null,
+ "technical_description": "тех. задание",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Жамшид1/47",
+ "customer_zip": "00000",
+ "min_point": 30,
+ "financing_source": "внебюджетные средства",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 2577.81,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080555,
+     "converted_price": 6.79,
+     "converted_cost": 271.96
+    },
+    {
+     "lot_detail_id": 2080556,
+     "converted_price": 3.91,
+     "converted_cost": 156.53
+    },
+    {
+     "lot_detail_id": 2080557,
+     "converted_price": 64.21,
+     "converted_cost": 321.07
+    },
+    {
+     "lot_detail_id": 2080558,
+     "converted_price": 75.54,
+     "converted_cost": 453.28
+    },
+    {
+     "lot_detail_id": 2080559,
+     "converted_price": 15.1,
+     "converted_cost": 60.43
+    },
+    {
+     "lot_detail_id": 2080560,
+     "converted_price": 22.66,
+     "converted_cost": 67.99
+    },
+    {
+     "lot_detail_id": 2080561,
+     "converted_price": 26.44,
+     "converted_cost": 264.41
+    },
+    {
+     "lot_detail_id": 2080550,
+     "converted_price": 22.66,
+     "converted_cost": 45.32
+    },
+    {
+     "lot_detail_id": 2080551,
+     "converted_price": 26.44,
+     "converted_cost": 52.88
+    },
+    {
+     "lot_detail_id": 2080552,
+     "converted_price": 22.66,
+     "converted_cost": 67.99
+    },
+    {
+     "lot_detail_id": 2080553,
+     "converted_price": 30.21,
+     "converted_cost": 302.18
+    },
+    {
+     "lot_detail_id": 2080554,
+     "converted_price": 12.84,
+     "converted_cost": 513.71
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 2837.91,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080555,
+     "converted_price": 7.48,
+     "converted_cost": 299.41
+    },
+    {
+     "lot_detail_id": 2080556,
+     "converted_price": 4.3,
+     "converted_cost": 172.32
+    },
+    {
+     "lot_detail_id": 2080557,
+     "converted_price": 70.69,
+     "converted_cost": 353.47
+    },
+    {
+     "lot_detail_id": 2080558,
+     "converted_price": 83.16,
+     "converted_cost": 499.01
+    },
+    {
+     "lot_detail_id": 2080559,
+     "converted_price": 16.63,
+     "converted_cost": 66.53
+    },
+    {
+     "lot_detail_id": 2080560,
+     "converted_price": 24.95,
+     "converted_cost": 74.85
+    },
+    {
+     "lot_detail_id": 2080561,
+     "converted_price": 29.1,
+     "converted_cost": 291.09
+    },
+    {
+     "lot_detail_id": 2080550,
+     "converted_price": 24.95,
+     "converted_cost": 49.9
+    },
+    {
+     "lot_detail_id": 2080551,
+     "converted_price": 29.1,
+     "converted_cost": 58.21
+    },
+    {
+     "lot_detail_id": 2080552,
+     "converted_price": 24.95,
+     "converted_cost": 74.85
+    },
+    {
+     "lot_detail_id": 2080553,
+     "converted_price": 33.26,
+     "converted_cost": 332.67
+    },
+    {
+     "lot_detail_id": 2080554,
+     "converted_price": 14.13,
+     "converted_cost": 565.55
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 234451.01,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080555,
+     "converted_price": 618.38,
+     "converted_cost": 24735.46
+    },
+    {
+     "lot_detail_id": 2080556,
+     "converted_price": 355.91,
+     "converted_cost": 14236.63
+    },
+    {
+     "lot_detail_id": 2080557,
+     "converted_price": 5840.31,
+     "converted_cost": 29201.59
+    },
+    {
+     "lot_detail_id": 2080558,
+     "converted_price": 6870.96,
+     "converted_cost": 41225.77
+    },
+    {
+     "lot_detail_id": 2080559,
+     "converted_price": 1374.19,
+     "converted_cost": 5496.77
+    },
+    {
+     "lot_detail_id": 2080560,
+     "converted_price": 2061.28,
+     "converted_cost": 6183.86
+    },
+    {
+     "lot_detail_id": 2080561,
+     "converted_price": 2404.83,
+     "converted_cost": 24048.37
+    },
+    {
+     "lot_detail_id": 2080550,
+     "converted_price": 2061.28,
+     "converted_cost": 4122.57
+    },
+    {
+     "lot_detail_id": 2080551,
+     "converted_price": 2404.83,
+     "converted_cost": 4809.67
+    },
+    {
+     "lot_detail_id": 2080552,
+     "converted_price": 2061.28,
+     "converted_cost": 6183.86
+    },
+    {
+     "lot_detail_id": 2080553,
+     "converted_price": 2748.38,
+     "converted_cost": 27483.85
+    },
+    {
+     "lot_detail_id": 2080554,
+     "converted_price": 1168.06,
+     "converted_cost": 46722.55
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 34122000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080555,
+     "converted_price": 90000.0,
+     "converted_cost": 3600000.0
+    },
+    {
+     "lot_detail_id": 2080556,
+     "converted_price": 51800.0,
+     "converted_cost": 2072000.0
+    },
+    {
+     "lot_detail_id": 2080557,
+     "converted_price": 850000.0,
+     "converted_cost": 4250000.0
+    },
+    {
+     "lot_detail_id": 2080558,
+     "converted_price": 1000000.0,
+     "converted_cost": 6000000.0
+    },
+    {
+     "lot_detail_id": 2080559,
+     "converted_price": 200000.0,
+     "converted_cost": 800000.0
+    },
+    {
+     "lot_detail_id": 2080560,
+     "converted_price": 300000.0,
+     "converted_cost": 900000.0
+    },
+    {
+     "lot_detail_id": 2080561,
+     "converted_price": 350000.0,
+     "converted_cost": 3500000.0
+    },
+    {
+     "lot_detail_id": 2080550,
+     "converted_price": 300000.0,
+     "converted_cost": 600000.0
+    },
+    {
+     "lot_detail_id": 2080551,
+     "converted_price": 350000.0,
+     "converted_cost": 700000.0
+    },
+    {
+     "lot_detail_id": 2080552,
+     "converted_price": 300000.0,
+     "converted_cost": 900000.0
+    },
+    {
+     "lot_detail_id": 2080553,
+     "converted_price": 400000.0,
+     "converted_cost": 4000000.0
+    },
+    {
+     "lot_detail_id": 2080554,
+     "converted_price": 170000.0,
+     "converted_cost": 6800000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

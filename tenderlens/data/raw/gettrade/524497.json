@@ -1,0 +1,559 @@
+{
+ "id": 524497,
+ "display_no": "26120012524497",
+ "start_date": "2026-11-17T11:20:47",
+ "end_date": "2026-11-24T11:20:47",
+ "clarific_date": "2026-11-24T11:20:47",
+ "start_cost": 1295000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2081891,\"Order_Num\":1,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24418832,\"Product_Id\":714336,\"Product_Type_Id\":1,\"Quantity\":500,\"Price\":2590000,\"Cost\":1295000000,\"Description\":\"Платежный терминал\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":10045129,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"26.20.16.140-00002\",\"Guarantee_Term\":365,\"Delivery_Term\":10,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Тўлов терминали\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Қўллаб-қувватланувчи тўлов усули\",\"User_Value\":\"Контактсиз тўлов\",\"User_Value_Id\":0,\"Pnum\":4},{\"Property_Name\":\"Экраннинг ўлчами, Мпиксель\",\"User_Value\":\"≥ 2\",\"User_Value_Id\":0,\"Pnum\":5},{\"Property_Name\":\"Ижро тури\",\"User_Value\":\"Ўрнатиладиган\",\"User_Value_Id\":0,\"Pnum\":6},{\"Property_Name\":\"Экран диагоналининг ўлчами, Дюйм (25,4 мм)\",\"User_Value\":\"≥ 19  ва  < 22\",\"User_Value_Id\":2,\"Pnum\":9}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 1.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 10,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Boshqarma boshlig'i\",\"Fullname\":\"Sh. Shodiyev\"}]",
+ "rest_time": 562504,
+ "customer_name": "MIKROKREDITBANK ATB",
+ "customer_tin": "200547792",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611093353803895.pdf",
+ "tech_file_path": "/files/2026/11/9/202611093353803895.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 2155617.0,
+ "tech_doc_file_name": "20261711132442524497.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711132442524497.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 294520.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611093353930444.docx",
+ "contract_proform_file_path": "/files/2026/11/9/202611093353930444.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 18017.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 5,
+ "nonauthorized_count": 317,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2770345,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": false,
+   "file_name": "Asoslantiruvchi hujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.38,
+   "description": "Faoliyat yurituvchi bankdan ma’lumot:\r\n1.\tAsosiy hisobvaraqlar harakatda ekanligi, tanlash e’lon qilingan sanadan oxirgi 6 oylik bank aylanmasi (bank aylanmasi har bir oy uchun alohida koʻrsatilishi lozim)\r\n2.\tKartoteka-2 qarzdorligi boʻyicha ma’lumot (tanlash e’lon qilingan sanaga)\r\n3.\tAsosiy hisobvaragʻiga ta’qiq bor yoʻqligi boʻyicha ma’lumot (tanlash e’lon qilingan sanaga)\r\n4.\tMuddati o‘tgan kredit va foiz qarzdorligi boʻyicha ma’lumot (tanlash e’lon qilingan sanaga)\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "7-ilova",
+   "form_file_path": null
+  },
+  {
+   "id": 2770346,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": false,
+   "file_name": "Asoslantiruvchi hujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.38,
+   "description": "Soliq idorasi tomonidan tasdiqlangan so’nggi yillik moliyaviy xisobot (balans)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770347,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Asoslantiruvchi hujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.38,
+   "description": "Ishtirokchi korxonasining direktor va ta’sischisining passport nusxasi yoki ID card (ta’sischi yuridik shaxs bo‘lsa ustavi hamda oxirgi benifitsiar mulkdor passport nusxasi yoki ID card)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770348,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Asoslantiruvchi hujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 23.08,
+   "description": "O‘zbekiston Respublikasi hududlarida servis markazlari mavjudligi (Servislarni mavjudligi to‘g‘risida asoslantiruvchi hujjat)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "1 - 5 ta hududda - 5 ball"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "6 - 10 ta hududda - l0 ball"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Rеsрublikаning barcha hududlarida mavjud bo‘lsa - 15 ball\r\n"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770349,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Asoslantiruvchi hujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.38,
+   "description": "Ishtirokchi ushbu yo‘nalishdagi sotuvlarni amalga oshirganligi to‘g‘risida mа’lumot (shartnoma yoki hisob-faktura)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770350,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": false,
+   "file_name": "Asoslantiruvchi hujjat",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.38,
+   "description": "Ishtirokchining “Milliy Banklararo protsessing markazi” AJning (Humo) to‘lov terminallarining dasturiy taʼminotiga bogʻlanish, dasturlash boʻyicha o‘zaro kelishuvi boʻlishi kerak (tasdiqlovchi hujjat)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "7-ilova",
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2770345,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":false,\"File_Name\":\"Asoslantiruvchi hujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.38,\"Description\":\"Faoliyat yurituvchi bankdan ma’lumot:\\r\\n1.\\tAsosiy hisobvaraqlar harakatda ekanligi, tanlash e’lon qilingan sanadan oxirgi 6 oylik bank aylanmasi (bank aylanmasi har bir oy uchun alohida koʻrsatilishi lozim)\\r\\n2.\\tKartoteka-2 qarzdorligi boʻyicha ma’lumot (tanlash e’lon qilingan sanaga)\\r\\n3.\\tAsosiy hisobvaragʻiga ta’qiq bor yoʻqligi boʻyicha ma’lumot (tanlash e’lon qilingan sanaga)\\r\\n4.\\tMuddati o‘tgan kredit va foiz qarzdorligi boʻyicha ma’lumot (tanlash e’lon qilingan sanaga)\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"7-ilova\",\"Form_File_Path\":null},{\"Id\":2770346,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":false,\"File_Name\":\"Asoslantiruvchi hujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.38,\"Description\":\"Soliq idorasi tomonidan tasdiqlangan so’nggi yillik moliyaviy xisobot (balans)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770347,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Asoslantiruvchi hujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.38,\"Description\":\"Ishtirokchi korxonasining direktor va ta’sischisining passport nusxasi yoki ID card (ta’sischi yuridik shaxs bo‘lsa ustavi hamda oxirgi benifitsiar mulkdor passport nusxasi yoki ID card)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770348,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Asoslantiruvchi hujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":23.08,\"Description\":\"O‘zbekiston Respublikasi hududlarida servis markazlari mavjudligi (Servislarni mavjudligi to‘g‘risida asoslantiruvchi hujjat)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"1 - 5 ta hududda - 5 ball\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"6 - 10 ta hududda - l0 ball\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Rеsрublikаning barcha hududlarida mavjud bo‘lsa - 15 ball\\r\\n\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770349,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Asoslantiruvchi hujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.38,\"Description\":\"Ishtirokchi ushbu yo‘nalishdagi sotuvlarni amalga oshirganligi to‘g‘risida mа’lumot (shartnoma yoki hisob-faktura)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770350,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":false,\"File_Name\":\"Asoslantiruvchi hujjat\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.38,\"Description\":\"Ishtirokchining “Milliy Banklararo protsessing markazi” AJning (Humo) to‘lov terminallarining dasturiy taʼminotiga bogʻlanish, dasturlash boʻyicha o‘zaro kelishuvi boʻlishi kerak (tasdiqlovchi hujjat)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"7-ilova\",\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1109888,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109889,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109890,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109891,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109892,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109893,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109894,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 7,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1109888,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109889,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109890,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109891,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109892,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109893,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109894,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":7,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 6522,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Мирабадский район",
+ "delivering_address": "Amir Temur shox ko'chasi 4 uy",
+ "delivering_phone": "712074651",
+ "addon_description": "“Mikrokreditbank” ATB mijozlari uchun Pos terminallari (HUMO) xarid qilish yuzasidan",
+ "technical_description": "“Mikrokreditbank” ATB mijozlari uchun Pos terminallari (HUMO) xarid qilish yuzasidan   ",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Amir Temur 4 uy Call centr 1285   (88-039-99-09)",
+ "customer_zip": "100090",
+ "min_point": 55,
+ "financing_source": "O'z mablag'lari hisobidan",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 107704.75,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081891,
+     "converted_price": 215.4,
+     "converted_cost": 107704.75
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 1295000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081891,
+     "converted_price": 2590000.0,
+     "converted_cost": 1295000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 97833.38,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081891,
+     "converted_price": 195.66,
+     "converted_cost": 97833.38
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 8897897.48,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081891,
+     "converted_price": 17795.79,
+     "converted_cost": 8897897.48
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

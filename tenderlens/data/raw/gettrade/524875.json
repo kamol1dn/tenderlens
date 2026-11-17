@@ -1,0 +1,1313 @@
+{
+ "id": 524875,
+ "display_no": "26120012524875",
+ "start_date": "2026-11-11T14:06:11",
+ "end_date": "2026-11-18T14:06:11",
+ "clarific_date": "2026-11-18T14:06:11",
+ "start_cost": 24253500.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2083842,\"Order_Num\":10,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958583,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":50,\"Price\":9500,\"Cost\":475000,\"Description\":\"Огнеупорный модуль FB-Fix L=190 2903-ТА1.09.00.04.00 (согласно ТЗ) / Огнебардош модуль FB-Fix L=190 2903-TA1.09.00.04.00 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083861,\"Order_Num\":29,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958602,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":200,\"Price\":16300,\"Cost\":3260000,\"Description\":\"Модуль(изделие) для двухтрубной балки, OD2х114,3(185 мм) L-300мм Позиция №3 (согласно ТЗ) / Икки трубали балка учун модуль (буюм), OD2x114,3(185 мм) L-300мм Позиция №3 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083860,\"Order_Num\":28,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958601,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":5,\"Price\":198000,\"Cost\":990000,\"Description\":\"Огнеуп. кирпич фас/сл. Е-8 (согласно ТЗ) / Огнебардош ғишт фасонли/фас. Е-8 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"т\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2083859,\"Order_Num\":27,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958600,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":198000,\"Cost\":1980000,\"Description\":\"Кирпич горелочный С 2-4 (согласно ТЗ) / Горелка ғишти С 2-4 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"т\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2083858,\"Order_Num\":26,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958599,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":198000,\"Cost\":1980000,\"Description\":\"Кирпич горелоный С 2-3 (согласно ТЗ) / Горелка ғишти С 2-3 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"т\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2083857,\"Order_Num\":25,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958598,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":198000,\"Cost\":1980000,\"Description\":\"Кирпич горелочный С 2-2 (согласно ТЗ) / Горелка ғишти С 2-2 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"т\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2083856,\"Order_Num\":24,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958597,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":198000,\"Cost\":1980000,\"Description\":\"Кирпич горелочный С 2-1 (согласно ТЗ) / Горелка ғишти С 2-1 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"т\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2083855,\"Order_Num\":23,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958596,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":115,\"Price\":7400,\"Cost\":851000,\"Description\":\"Модули теплоизоляционные огнеупорные, Тип «U». Размер 600х350х300мм (согласно ТЗ) / Огнебардош иссиқлик изоляцияловчи модуллар, «U» типи. Ўлчами 600х350х300мм (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083854,\"Order_Num\":22,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958595,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":75,\"Price\":3900,\"Cost\":292500,\"Description\":\"Модули теплоизоляционные огнеупорные марки, Тип «U». Размер 305х250х250мм (согласно ТЗ) / Огнебардош иссиқлик изоляцияловчи модуллар, «U» типи. Ўлчами 305х250х250мм (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083853,\"Order_Num\":21,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958594,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":12200,\"Cost\":122000,\"Description\":\"Муллитокорундовые горелочные изделия марки МКС 72 №2 (Согласно ТЗ) / МКС 72 русумли (маркали) муллитокорундли ғаладон (горелка) буюмлари №2 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083852,\"Order_Num\":20,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958593,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":9500,\"Cost\":95000,\"Description\":\"Муллитокорундовые горелочные изделия марки МКС 72 №1 (Согласно ТЗ) / МКС 72 русумли (маркали) муллитокорундли ғаладон (горелка) буюмлари №1 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083841,\"Order_Num\":9,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958582,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":85000,\"Cost\":170000,\"Description\":\"Кирпич ШБ-68 (согласно ТЗ) / ШБ-68 гишти (Техник топширикга мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"т\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2083840,\"Order_Num\":8,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958581,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":190500,\"Cost\":190500,\"Description\":\"Картон огнеупорный квк-400 (500x500x40) (согласно ТЗ) / Утга чидамли картон КВК-400 (500Х500Х40) (Техник топширикга мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"куб. метр\",\"User_Value_Id\":4,\"Pnum\":0}]},{\"Id\":2083839,\"Order_Num\":7,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958580,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":220000,\"Cost\":220000,\"Description\":\"Картон огнеупорный квк-400 (500x500x10) (согласно ТЗ) / Утга чидамли картон КВК-400 (500Х500Х10) (Техник топширикга мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"куб. метр\",\"User_Value_Id\":4,\"Pnum\":0}]},{\"Id\":2083838,\"Order_Num\":6,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958579,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":60,\"Price\":1000,\"Cost\":60000,\"Description\":\"Огнеупорный клей (согласно ТЗ) / Оташбардош елим (Техник топширикга мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"кг\",\"User_Value_Id\":3,\"Pnum\":0}]},{\"Id\":2083837,\"Order_Num\":5,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958578,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":6,\"Price\":168000,\"Cost\":1008000,\"Description\":\"Огнеупорный бетон марки V-CAST-75 или аналог (согласно ТЗ) / Ўтга чидамли бетон В-КАСТ-75 маркаси еки аналоги (Техник топширикга мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"т\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2083836,\"Order_Num\":4,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958577,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":5,\"Price\":170000,\"Cost\":850000,\"Description\":\"Огнеупорного бетона MCK50 или аналог (согласно ТЗ) / МЦК50 оловга чидамли бетон еки аналоги (Техник топширикга мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"т\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2083835,\"Order_Num\":3,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958576,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":50,\"Price\":7900,\"Cost\":395000,\"Description\":\"Одеяло волокнистое (согласно ТЗ) / Толали адёл (Техник топширикга мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"рулон\",\"User_Value_Id\":2,\"Pnum\":0}]},{\"Id\":2083834,\"Order_Num\":2,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958575,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":300,\"Price\":7400,\"Cost\":2220000,\"Description\":\"Керамоволокно (с креплением из нерж.) 350 x 300 x 600мм (согласно ТЗ) / Керам толаси (зангламас пулат махкамлаш билан) 350 x 300 x 600мм (Техник топширикга мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083833,\"Order_Num\":1,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958574,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":3,\"Price\":484000,\"Cost\":1452000,\"Description\":\"Корундовые изделия электроплавленные литые (согласно ТЗ) / Корундли электроплавлен ва куйилган буюмлар (Техник топширикга мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"т\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2083851,\"Order_Num\":19,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958592,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":80500,\"Cost\":805000,\"Description\":\"Изделия огнеупорные шамотные марки ША №89 (Согласно ТЗ) / ША русумли (маркали) №89- сонли шамотли ўтга чидамли буюмлар (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"т\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2083850,\"Order_Num\":18,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958591,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":100,\"Price\":7400,\"Cost\":740000,\"Description\":\"Модули теплоизоляционные огнеупорные, Тип «U». Размер 600х350х300мм (согласно ТЗ) / Огнебардош иссиқлик изоляцияловчи модуллар, «U» типи. Ўлчами 600х350х300мм (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083849,\"Order_Num\":17,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958590,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":50,\"Price\":3900,\"Cost\":195000,\"Description\":\"Модули теплоизоляционные огнеупорные марки, Тип «U». Размер 305х250х250мм (согласно ТЗ) / Огнебардош иссиқлик изоляцияловчи модуллар, «U» типи. Ўлчами 305х250х250мм (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083848,\"Order_Num\":16,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958589,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":0.6,\"Price\":270000,\"Cost\":162000,\"Description\":\"Муллитокремнезёмистый рулонный материал, с кажущейся плотностью не более 130 кг/м3 «МКРР-130» (согласно ТЗ) / Муллитокремний-оксидли рулон материали, кўринадиган зичлиги 130 кг/м3 дан юқори бўлмаган «МКРР-130»\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"т\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2083847,\"Order_Num\":15,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958588,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":10500,\"Cost\":105000,\"Description\":\"Огнеупорный модуль FB-Fix L=300 2903-ТА1.09.00.08.00 (согласно ТЗ) / Огнебардош модуль FB-Fix L=300 2903-TA1.09.00.08.00 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083846,\"Order_Num\":14,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958587,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":150,\"Price\":6100,\"Cost\":915000,\"Description\":\"Огнеупорный модуль FB-Fix L=295 2903-ТА1.09.00.07.00 (согласно ТЗ) / Огнебардош модуль FB-Fix L=295 2903-TA1.09.00.07.00 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083845,\"Order_Num\":13,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958586,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":30,\"Price\":6300,\"Cost\":189000,\"Description\":\"Огнеупорный модуль FB-Fix L=220 2903-ТА1.09.00.06.00 (согласно ТЗ) / Огнебардош модуль FB-Fix L=220 2903-TA1.09.00.06.00 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083844,\"Order_Num\":12,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958585,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":20,\"Price\":14200,\"Cost\":284000,\"Description\":\"Огнеупорный модуль FB-Fix L=250 2903-ТА1.09.00.03.00 (согласно ТЗ) / Огнебардош модуль FB-Fix L=250 2903-TA1.09.00.03.00 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2083843,\"Order_Num\":11,\"Category_Id\":117611,\"Plangraph_Detail_Id\":23958584,\"Product_Id\":703790,\"Product_Type_Id\":1,\"Quantity\":25,\"Price\":11500,\"Cost\":287500,\"Description\":\"Огнеупорный модуль FB-Fix L=210 2903-ТА1.09.00.05.00 (согласно ТЗ) / Огнебардош модуль FB-Fix L=210 2903-TA1.09.00.05.00 (Техник топширикка мувофик)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9796510,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"23.20.12.190-00001\",\"Guarantee_Term\":6,\"Delivery_Term\":50,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа нометалл минерал маҳсулотлар\",\"Product_Name\":\"Оловга чидамли буюмлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 1.0,
+ "advance_payment_perc": 0.0,
+ "term_payment_days": 30,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Ф.И.О Должность Tender savdolarini tashkil etish bo'limi mutaxassislari\",\"Fullname\":\"tel: +998920450728\"}]",
+ "rest_time": 54227,
+ "customer_name": "\"O`ZBEKISTON METALLURGIYA KOMBINATI\" AJ",
+ "customer_tin": "200460222",
+ "payment_type_name": "Оплата по факту",
+ "tech_file_name": "202610223938760435.pdf",
+ "tech_file_path": "/files/2026/10/22/202610223938760435.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 7391760.0,
+ "tech_doc_file_name": "20260811132435521502.pdf",
+ "tech_doc_file_path": "files/2026/11/8/20260811132435521502.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 542371.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610223939110639.docx",
+ "contract_proform_file_path": "/files/2026/10/22/202610223939110639.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 102542.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 11,
+ "nonauthorized_count": 2579,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2772388,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 4.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Етказиб бериш ва тулов шартлари/условия доставки и оплаты",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 5.71,
+   "description": "Етказиб бериш шартлари ва муддатлари, тўлов шартлари тўғрисида маълумот (5- шакл)/Информация об условиях и сроках поставки, условиях оплаты (форма №5)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Етказиб бериш ва тулов шартлари/условия доставки и оплаты",
+   "form_file_path": "tender/user-files/2026/10/22/e2428db7-d960-41b4-8f61-45c96e62d2ec.docx"
+  },
+  {
+   "id": 2772389,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Texnik taklif/Техническое предложение",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 21.43,
+   "description": "Техник таклиф (техник топширикнинг барча талабларига мувофик) 4-шакл/Техническое предложение (согласно всем требованиям ТЗ) форма№4",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Texnik taklif/Техническое предложение",
+   "form_file_path": "tender/user-files/2026/10/22/93a84c0b-e1e4-47fd-8c33-3eca918db984.docx"
+  },
+  {
+   "id": 2772390,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 12.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Эркин шакл_Произвольная форма ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 17.14,
+   "description": "Ўтга чидамли (оловбардош) ва иссиқликни изоляция қилувчи материаллар ишлаб чиқарувчисини тасдиқловчи лицензиянинг мавжудлиги. / Наличие лицензии, подтверждающей производителя огнеупорных и теплоизоляционных материалов.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 12.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "соответствие подтверждено, производитель и участник являются разными\r\nюридическими лицами, но\r\nдоговор отсутствует;"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "соответствие\r\nподтверждено, производитель\r\nи участник являются разными\r\nюридическими лицами,\r\nимеется договор о\r\nсотрудничестве;"
+    }
+   ],
+   "form_name": "Эркин шакл_Произвольная форма ",
+   "form_file_path": "tender/user-files/2026/10/22/f2afeeb2-1752-4dfe-8679-15f900564787.docx"
+  },
+  {
+   "id": 2772391,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл_Произвольная форма ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 7.14,
+   "description": "Тегишли фаолият тури бўйича иш тажрибаси, референс-лист ва буюртмачиларнинг ижобий фикр-мулоҳазалари (тавсиномалари) мавжудлиги. / Наличие опыта работы по соответствующему виду деятельности, референс- листа и положительных отзывов заказчиков.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "соответствие\r\nподтверждено полностью или\r\nчастично, но договор о\r\nсотрудничестве отсутствует; 0\r\nбаллов - соответствие не\r\nподтверждено."
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "соответствие\r\nподтверждено частично,\r\nпроизводитель и участник\r\nявляются разными\r\nюридическими лицами,\r\nимеется договор о\r\nсотрудничестве;"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "соответствие\r\nподтверждено, производитель\r\nи участник являются разными\r\nюридическими лицами,\r\nимеется договор о\r\nсотрудничестве;"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "документы\r\nподтверждены частично,\r\nпроизводитель и участник\r\nявляются одним юридическим\r\nлицом;"
+    }
+   ],
+   "form_name": "Эркин шакл_Произвольная форма ",
+   "form_file_path": "tender/user-files/2026/10/22/a5244047-f75b-403e-a388-e367de54b981.docx"
+  },
+  {
+   "id": 2772392,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл_Произвольная форма ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 7.14,
+   "description": "Сифатни назорат қилиш тизими. / Система контроля качества.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "соответствие\r\nподтверждено или частично\r\nподтверждено, но договор\r\nотсутствует;"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "соответствие\r\nподтверждено частично при\r\nналичии договора;"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "соответствие\r\nподтверждено, производитель\r\nи участник являются разными\r\nюридическими лицами,\r\nимеется договор о\r\nсотрудничестве;"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "подтверждение\r\nчастичное;"
+    }
+   ],
+   "form_name": "Эркин шакл_Произвольная форма ",
+   "form_file_path": "tender/user-files/2026/10/22/1551cdff-8e32-42c8-be81-f5163b70613c.docx"
+  },
+  {
+   "id": 2772393,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл_Произвольная форма ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 7.14,
+   "description": "Ишлаб чиқариш ва етказиб бериш муддати. / Срок изготовления и поставок.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Эркин шакл_Произвольная форма ",
+   "form_file_path": "tender/user-files/2026/10/22/fad86b25-20a0-4456-b439-b2d3362384c1.docx"
+  },
+  {
+   "id": 2772394,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 12.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл_Произвольная форма ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 17.14,
+   "description": "Кафолатлар, жавобгарлик ва сифатсиз маҳсулотни алмаштириб бериш. / Гарантии, ответственность и замена некачественной продукции.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 12.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "гарантийные\r\nобязательства подтверждено\r\nполностью или частично, но\r\nдоговор о сотрудничестве\r\nотсутствует;"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "соответствие\r\nгарантийные обязательства\r\nподтверждено частично,\r\nпроизводитель и участник\r\nявляются разными\r\nюридическими лицами,\r\nимеется договор о\r\nсотрудничестве;"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "гарантийные\r\nобязательства подтверждено,\r\nпроизводитель и участник\r\nявляются разными\r\nюридическими лицами,\r\nимеется договор о\r\nсотрудничестве;"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "гарантийные\r\nобязательства подтверждены\r\nчастично, производитель и\r\nучастник являются одним\r\nюридическим лицом;"
+    }
+   ],
+   "form_name": "Эркин шакл_Произвольная форма ",
+   "form_file_path": "tender/user-files/2026/10/22/ee877f72-b395-4f25-ae51-3769d2b2c72f.docx"
+  },
+  {
+   "id": 2772395,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 12.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл_Произвольная форма ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 17.14,
+   "description": "Илгари ўтказилган синовлар натижалари. / Результаты ранее проведённых испытаний.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 12.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "соответствие\r\nподтверждено частично,\r\nрезультаты ранее проведенных\r\nработ не стабильные (не\r\nстабильность качества от\r\nпартии к партии);"
+    }
+   ],
+   "form_name": "Эркин шакл_Произвольная форма ",
+   "form_file_path": "tender/user-files/2026/10/22/21f44f23-aa04-492e-957f-64ddebffa747.docx"
+  }
+ ],
+ "fields": "[{\"Id\":2772388,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":4.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Етказиб бериш ва тулов шартлари/условия доставки и оплаты\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":5.71,\"Description\":\"Етказиб бериш шартлари ва муддатлари, тўлов шартлари тўғрисида маълумот (5- шакл)/Информация об условиях и сроках поставки, условиях оплаты (форма №5)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Етказиб бериш ва тулов шартлари/условия доставки и оплаты\",\"Form_File_Path\":\"tender/user-files/2026/10/22/e2428db7-d960-41b4-8f61-45c96e62d2ec.docx\"},{\"Id\":2772389,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Texnik taklif/Техническое предложение\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":21.43,\"Description\":\"Техник таклиф (техник топширикнинг барча талабларига мувофик) 4-шакл/Техническое предложение (согласно всем требованиям ТЗ) форма№4\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Texnik taklif/Техническое предложение\",\"Form_File_Path\":\"tender/user-files/2026/10/22/93a84c0b-e1e4-47fd-8c33-3eca918db984.docx\"},{\"Id\":2772390,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":12.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл_Произвольная форма \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":17.14,\"Description\":\"Ўтга чидамли (оловбардош) ва иссиқликни изоляция қилувчи материаллар ишлаб чиқарувчисини тасдиқловчи лицензиянинг мавжудлиги. / Наличие лицензии, подтверждающей производителя огнеупорных и теплоизоляционных материалов.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":12.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"соответствие подтверждено, производитель и участник являются разными\\r\\nюридическими лицами, но\\r\\nдоговор отсутствует;\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"соответствие\\r\\nподтверждено, производитель\\r\\nи участник являются разными\\r\\nюридическими лицами,\\r\\nимеется договор о\\r\\nсотрудничестве;\"}],\"Form_Name\":\"Эркин шакл_Произвольная форма \",\"Form_File_Path\":\"tender/user-files/2026/10/22/f2afeeb2-1752-4dfe-8679-15f900564787.docx\"},{\"Id\":2772391,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл_Произвольная форма \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":7.14,\"Description\":\"Тегишли фаолият тури бўйича иш тажрибаси, референс-лист ва буюртмачиларнинг ижобий фикр-мулоҳазалари (тавсиномалари) мавжудлиги. / Наличие опыта работы по соответствующему виду деятельности, референс- листа и положительных отзывов заказчиков.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"соответствие\\r\\nподтверждено полностью или\\r\\nчастично, но договор о\\r\\nсотрудничестве отсутствует; 0\\r\\nбаллов - соответствие не\\r\\nподтверждено.\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"соответствие\\r\\nподтверждено частично,\\r\\nпроизводитель и участник\\r\\nявляются разными\\r\\nюридическими лицами,\\r\\nимеется договор о\\r\\nсотрудничестве;\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"соответствие\\r\\nподтверждено, производитель\\r\\nи участник являются разными\\r\\nюридическими лицами,\\r\\nимеется договор о\\r\\nсотрудничестве;\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"документы\\r\\nподтверждены частично,\\r\\nпроизводитель и участник\\r\\nявляются одним юридическим\\r\\nлицом;\"}],\"Form_Name\":\"Эркин шакл_Произвольная форма \",\"Form_File_Path\":\"tender/user-files/2026/10/22/a5244047-f75b-403e-a388-e367de54b981.docx\"},{\"Id\":2772392,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл_Произвольная форма \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":7.14,\"Description\":\"Сифатни назорат қилиш тизими. / Система контроля качества.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"соответствие\\r\\nподтверждено или частично\\r\\nподтверждено, но договор\\r\\nотсутствует;\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"соответствие\\r\\nподтверждено частично при\\r\\nналичии договора;\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"соответствие\\r\\nподтверждено, производитель\\r\\nи участник являются разными\\r\\nюридическими лицами,\\r\\nимеется договор о\\r\\nсотрудничестве;\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"подтверждение\\r\\nчастичное;\"}],\"Form_Name\":\"Эркин шакл_Произвольная форма \",\"Form_File_Path\":\"tender/user-files/2026/10/22/1551cdff-8e32-42c8-be81-f5163b70613c.docx\"},{\"Id\":2772393,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл_Произвольная форма \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":7.14,\"Description\":\"Ишлаб чиқариш ва етказиб бериш муддати. / Срок изготовления и поставок.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Эркин шакл_Произвольная форма \",\"Form_File_Path\":\"tender/user-files/2026/10/22/fad86b25-20a0-4456-b439-b2d3362384c1.docx\"},{\"Id\":2772394,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":12.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл_Произвольная форма \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":17.14,\"Description\":\"Кафолатлар, жавобгарлик ва сифатсиз маҳсулотни алмаштириб бериш. / Гарантии, ответственность и замена некачественной продукции.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":12.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"гарантийные\\r\\nобязательства подтверждено\\r\\nполностью или частично, но\\r\\nдоговор о сотрудничестве\\r\\nотсутствует;\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"соответствие\\r\\nгарантийные обязательства\\r\\nподтверждено частично,\\r\\nпроизводитель и участник\\r\\nявляются разными\\r\\nюридическими лицами,\\r\\nимеется договор о\\r\\nсотрудничестве;\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"гарантийные\\r\\nобязательства подтверждено,\\r\\nпроизводитель и участник\\r\\nявляются разными\\r\\nюридическими лицами,\\r\\nимеется договор о\\r\\nсотрудничестве;\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"гарантийные\\r\\nобязательства подтверждены\\r\\nчастично, производитель и\\r\\nучастник являются одним\\r\\nюридическим лицом;\"}],\"Form_Name\":\"Эркин шакл_Произвольная форма \",\"Form_File_Path\":\"tender/user-files/2026/10/22/ee877f72-b395-4f25-ae51-3769d2b2c72f.docx\"},{\"Id\":2772395,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":12.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл_Произвольная форма \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":17.14,\"Description\":\"Илгари ўтказилган синовлар натижалари. / Результаты ранее проведённых испытаний.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":12.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"соответствие\\r\\nподтверждено частично,\\r\\nрезультаты ранее проведенных\\r\\nработ не стабильные (не\\r\\nстабильность качества от\\r\\nпартии к партии);\"}],\"Form_Name\":\"Эркин шакл_Произвольная форма \",\"Form_File_Path\":\"tender/user-files/2026/10/22/21f44f23-aa04-492e-957f-64ddebffa747.docx\"}]",
+ "js_qualification_fields": [
+  {
+   "id": 1112591,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112592,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112593,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112594,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)",
+   "file_path": "tender/user-files/2026/10/22/17c567d1-8c24-481a-8089-512d1d3bcac0.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112595,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)",
+   "file_path": "tender/user-files/2026/10/22/b08cd8ee-26aa-4730-ab46-7e765ead2102.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112596,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112597,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 7,
+   "description": "Танлаш иштирокчиси ва унинг таъсисчилари ҳақида умумий маълумотлар (1-шакл)/ Общая информация об участнике отбора и его учредителях (форма №1)",
+   "file_path": "tender/user-files/2026/10/22/40c8ed6d-9fa7-4e82-a0da-e69cc9cc07e4.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112598,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 8,
+   "description": "Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)",
+   "file_path": "tender/user-files/2026/10/22/0ca9dfb7-11a8-4b0c-abae-99a1d942b8a6.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112599,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 9,
+   "description": "Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)",
+   "file_path": "tender/user-files/2026/10/22/3a303856-b985-49f8-b305-b7b5791e8c07.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1112600,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 10,
+   "description": "Коррупция кўринишларига йўл қўйилмаслик бўйича ариза (3-шакл)/Заявление по недопущению коррупционных проявлений (форма №3)",
+   "file_path": "tender/user-files/2026/10/22/56659536-7560-4263-9294-f07107ac0e1e.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1112591,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1112592,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1112593,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1112594,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)\",\"File_Path\":\"tender/user-files/2026/10/22/17c567d1-8c24-481a-8089-512d1d3bcac0.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1112595,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)\",\"File_Path\":\"tender/user-files/2026/10/22/b08cd8ee-26aa-4730-ab46-7e765ead2102.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1112596,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1112597,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":7,\"Description\":\"Танлаш иштирокчиси ва унинг таъсисчилари ҳақида умумий маълумотлар (1-шакл)/ Общая информация об участнике отбора и его учредителях (форма №1)\",\"File_Path\":\"tender/user-files/2026/10/22/40c8ed6d-9fa7-4e82-a0da-e69cc9cc07e4.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1112598,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":8,\"Description\":\"Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)\",\"File_Path\":\"tender/user-files/2026/10/22/0ca9dfb7-11a8-4b0c-abae-99a1d942b8a6.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1112599,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":9,\"Description\":\"Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)\",\"File_Path\":\"tender/user-files/2026/10/22/3a303856-b985-49f8-b305-b7b5791e8c07.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1112600,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":10,\"Description\":\"Коррупция кўринишларига йўл қўйилмаслик бўйича ариза (3-шакл)/Заявление по недопущению коррупционных проявлений (форма №3)\",\"File_Path\":\"tender/user-files/2026/10/22/56659536-7560-4263-9294-f07107ac0e1e.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 465,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Ташкентская область",
+ "delivering_district_name": "Бекабад",
+ "delivering_address": "АО Узметкомбинат Ташкентская область г.Бекабад ул.Сирдарё 1",
+ "delivering_phone": "920450728",
+ "addon_description": "Xurmatli ishtirokchilar, tanlash hujjatlari va texnik topshiriqni diqqat bilan o'qib chiqishingizni so'raymiz. Ishtirokchilardan tanlash taklifining taqdim etilishi, ishtirokchi texnik topshiriq va tanlov hujjatlarining barcha shartlariga rozi ekanligiga asos bo'ladi. Ishtirokchilarning takliflari tanlash hujjatlari shakllariga muvofiq tuziladi. Ushbu shakllarga nomuvofiq tuzilgan takliflar komissiya a'zolari tomonidan ko'rib chiqilmaydi. Shuningdek, sizga ochiq elektron chat orqali tushuntirish so'rovi bilan bog'lanish imkoniyati mavjudligini eslatib o'tamiz. Уважаемые участники просим Вас внимательно ознакомиться с условиями отборной документации и технического задания. Подача участниками предложения является основанием того что участник согласен со всеми условиями технического задания и отборной документации. Предложения участников оформляются согласно формам отборной документации",
+ "technical_description": "Огнебардош материаллар ва иссиқлик изоляцияловчи буюмлар буйича танлаш хужжатлари (Техник топшириққа мувофиқ) / Отборочная документация на поставку огнеупорных материалов и теплоизоляционных изделий (согласно ТЗ)",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 521502,
+ "customer_region_name": "Toshkent viloyati",
+ "customer_district_name": "Toshkent viloyati",
+ "customer_street": "ул.Сирдарё, №1",
+ "customer_zip": "100090",
+ "min_point": 21,
+ "financing_source": null,
+ "currency_id": 20,
+ "currency_name": "Rubl",
+ "currency_code123": "643",
+ "currency_codeabc": "RUB",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 266669.96,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2083842,
+     "converted_price": 104.45,
+     "converted_cost": 5222.67
+    },
+    {
+     "lot_detail_id": 2083843,
+     "converted_price": 126.44,
+     "converted_cost": 3161.09
+    },
+    {
+     "lot_detail_id": 2083844,
+     "converted_price": 156.13,
+     "converted_cost": 3122.61
+    },
+    {
+     "lot_detail_id": 2083845,
+     "converted_price": 69.26,
+     "converted_cost": 2078.07
+    },
+    {
+     "lot_detail_id": 2083846,
+     "converted_price": 67.07,
+     "converted_cost": 10060.52
+    },
+    {
+     "lot_detail_id": 2083847,
+     "converted_price": 115.44,
+     "converted_cost": 1154.48
+    },
+    {
+     "lot_detail_id": 2083848,
+     "converted_price": 2968.68,
+     "converted_cost": 1781.2
+    },
+    {
+     "lot_detail_id": 2083849,
+     "converted_price": 42.88,
+     "converted_cost": 2144.04
+    },
+    {
+     "lot_detail_id": 2083850,
+     "converted_price": 81.36,
+     "converted_cost": 8136.38
+    },
+    {
+     "lot_detail_id": 2083851,
+     "converted_price": 885.1,
+     "converted_cost": 8851.06
+    },
+    {
+     "lot_detail_id": 2083833,
+     "converted_price": 5321.63,
+     "converted_cost": 15964.9
+    },
+    {
+     "lot_detail_id": 2083834,
+     "converted_price": 81.36,
+     "converted_cost": 24409.15
+    },
+    {
+     "lot_detail_id": 2083835,
+     "converted_price": 86.86,
+     "converted_cost": 4343.06
+    },
+    {
+     "lot_detail_id": 2083836,
+     "converted_price": 1869.16,
+     "converted_cost": 9345.84
+    },
+    {
+     "lot_detail_id": 2083837,
+     "converted_price": 1847.17,
+     "converted_cost": 11083.07
+    },
+    {
+     "lot_detail_id": 2083838,
+     "converted_price": 10.99,
+     "converted_cost": 659.7
+    },
+    {
+     "lot_detail_id": 2083839,
+     "converted_price": 2418.92,
+     "converted_cost": 2418.92
+    },
+    {
+     "lot_detail_id": 2083840,
+     "converted_price": 2094.56,
+     "converted_cost": 2094.56
+    },
+    {
+     "lot_detail_id": 2083841,
+     "converted_price": 934.58,
+     "converted_cost": 1869.16
+    },
+    {
+     "lot_detail_id": 2083852,
+     "converted_price": 104.45,
+     "converted_cost": 1044.53
+    },
+    {
+     "lot_detail_id": 2083853,
+     "converted_price": 134.14,
+     "converted_cost": 1341.4
+    },
+    {
+     "lot_detail_id": 2083854,
+     "converted_price": 42.88,
+     "converted_cost": 3216.07
+    },
+    {
+     "lot_detail_id": 2083855,
+     "converted_price": 81.36,
+     "converted_cost": 9356.84
+    },
+    {
+     "lot_detail_id": 2083856,
+     "converted_price": 2177.03,
+     "converted_cost": 21770.32
+    },
+    {
+     "lot_detail_id": 2083857,
+     "converted_price": 2177.03,
+     "converted_cost": 21770.32
+    },
+    {
+     "lot_detail_id": 2083858,
+     "converted_price": 2177.03,
+     "converted_cost": 21770.32
+    },
+    {
+     "lot_detail_id": 2083859,
+     "converted_price": 2177.03,
+     "converted_cost": 21770.32
+    },
+    {
+     "lot_detail_id": 2083860,
+     "converted_price": 2177.03,
+     "converted_cost": 10885.16
+    },
+    {
+     "lot_detail_id": 2083861,
+     "converted_price": 179.22,
+     "converted_cost": 35844.06
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 3529854390.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2083842,
+     "converted_price": 1382630.0,
+     "converted_cost": 69131500.0
+    },
+    {
+     "lot_detail_id": 2083843,
+     "converted_price": 1673710.0,
+     "converted_cost": 41842750.0
+    },
+    {
+     "lot_detail_id": 2083844,
+     "converted_price": 2066668.0,
+     "converted_cost": 41333360.0
+    },
+    {
+     "lot_detail_id": 2083845,
+     "converted_price": 916902.0,
+     "converted_cost": 27507060.0
+    },
+    {
+     "lot_detail_id": 2083846,
+     "converted_price": 887794.0,
+     "converted_cost": 133169100.0
+    },
+    {
+     "lot_detail_id": 2083847,
+     "converted_price": 1528170.0,
+     "converted_cost": 15281700.0
+    },
+    {
+     "lot_detail_id": 2083848,
+     "converted_price": 39295800.0,
+     "converted_cost": 23577480.0
+    },
+    {
+     "lot_detail_id": 2083849,
+     "converted_price": 567606.0,
+     "converted_cost": 28380300.0
+    },
+    {
+     "lot_detail_id": 2083850,
+     "converted_price": 1076996.0,
+     "converted_cost": 107699600.0
+    },
+    {
+     "lot_detail_id": 2083851,
+     "converted_price": 11715970.0,
+     "converted_cost": 117159700.0
+    },
+    {
+     "lot_detail_id": 2083833,
+     "converted_price": 70441360.0,
+     "converted_cost": 211324080.0
+    },
+    {
+     "lot_detail_id": 2083834,
+     "converted_price": 1076996.0,
+     "converted_cost": 323098800.0
+    },
+    {
+     "lot_detail_id": 2083835,
+     "converted_price": 1149766.0,
+     "converted_cost": 57488300.0
+    },
+    {
+     "lot_detail_id": 2083836,
+     "converted_price": 24741800.0,
+     "converted_cost": 123709000.0
+    },
+    {
+     "lot_detail_id": 2083837,
+     "converted_price": 24450720.0,
+     "converted_cost": 146704320.0
+    },
+    {
+     "lot_detail_id": 2083838,
+     "converted_price": 145540.0,
+     "converted_cost": 8732400.0
+    },
+    {
+     "lot_detail_id": 2083839,
+     "converted_price": 32018800.0,
+     "converted_cost": 32018800.0
+    },
+    {
+     "lot_detail_id": 2083840,
+     "converted_price": 27725370.0,
+     "converted_cost": 27725370.0
+    },
+    {
+     "lot_detail_id": 2083841,
+     "converted_price": 12370900.0,
+     "converted_cost": 24741800.0
+    },
+    {
+     "lot_detail_id": 2083852,
+     "converted_price": 1382630.0,
+     "converted_cost": 13826300.0
+    },
+    {
+     "lot_detail_id": 2083853,
+     "converted_price": 1775588.0,
+     "converted_cost": 17755880.0
+    },
+    {
+     "lot_detail_id": 2083854,
+     "converted_price": 567606.0,
+     "converted_cost": 42570450.0
+    },
+    {
+     "lot_detail_id": 2083855,
+     "converted_price": 1076996.0,
+     "converted_cost": 123854540.0
+    },
+    {
+     "lot_detail_id": 2083856,
+     "converted_price": 28816920.0,
+     "converted_cost": 288169200.0
+    },
+    {
+     "lot_detail_id": 2083857,
+     "converted_price": 28816920.0,
+     "converted_cost": 288169200.0
+    },
+    {
+     "lot_detail_id": 2083858,
+     "converted_price": 28816920.0,
+     "converted_cost": 288169200.0
+    },
+    {
+     "lot_detail_id": 2083859,
+     "converted_price": 28816920.0,
+     "converted_cost": 288169200.0
+    },
+    {
+     "lot_detail_id": 2083860,
+     "converted_price": 28816920.0,
+     "converted_cost": 144084600.0
+    },
+    {
+     "lot_detail_id": 2083861,
+     "converted_price": 2372302.0,
+     "converted_cost": 474460400.0
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 293576.91,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2083842,
+     "converted_price": 114.99,
+     "converted_cost": 5749.64
+    },
+    {
+     "lot_detail_id": 2083843,
+     "converted_price": 139.2,
+     "converted_cost": 3480.04
+    },
+    {
+     "lot_detail_id": 2083844,
+     "converted_price": 171.88,
+     "converted_cost": 3437.68
+    },
+    {
+     "lot_detail_id": 2083845,
+     "converted_price": 76.25,
+     "converted_cost": 2287.75
+    },
+    {
+     "lot_detail_id": 2083846,
+     "converted_price": 73.83,
+     "converted_cost": 11075.63
+    },
+    {
+     "lot_detail_id": 2083847,
+     "converted_price": 127.09,
+     "converted_cost": 1270.97
+    },
+    {
+     "lot_detail_id": 2083848,
+     "converted_price": 3268.21,
+     "converted_cost": 1960.93
+    },
+    {
+     "lot_detail_id": 2083849,
+     "converted_price": 47.2,
+     "converted_cost": 2360.38
+    },
+    {
+     "lot_detail_id": 2083850,
+     "converted_price": 89.57,
+     "converted_cost": 8957.34
+    },
+    {
+     "lot_detail_id": 2083851,
+     "converted_price": 974.41,
+     "converted_cost": 9744.13
+    },
+    {
+     "lot_detail_id": 2083833,
+     "converted_price": 5858.58,
+     "converted_cost": 17575.75
+    },
+    {
+     "lot_detail_id": 2083834,
+     "converted_price": 89.57,
+     "converted_cost": 26872.02
+    },
+    {
+     "lot_detail_id": 2083835,
+     "converted_price": 95.62,
+     "converted_cost": 4781.28
+    },
+    {
+     "lot_detail_id": 2083836,
+     "converted_price": 2057.76,
+     "converted_cost": 10288.84
+    },
+    {
+     "lot_detail_id": 2083837,
+     "converted_price": 2033.55,
+     "converted_cost": 12201.35
+    },
+    {
+     "lot_detail_id": 2083838,
+     "converted_price": 12.1,
+     "converted_cost": 726.27
+    },
+    {
+     "lot_detail_id": 2083839,
+     "converted_price": 2662.99,
+     "converted_cost": 2662.99
+    },
+    {
+     "lot_detail_id": 2083840,
+     "converted_price": 2305.91,
+     "converted_cost": 2305.91
+    },
+    {
+     "lot_detail_id": 2083841,
+     "converted_price": 1028.88,
+     "converted_cost": 2057.76
+    },
+    {
+     "lot_detail_id": 2083852,
+     "converted_price": 114.99,
+     "converted_cost": 1149.92
+    },
+    {
+     "lot_detail_id": 2083853,
+     "converted_price": 147.67,
+     "converted_cost": 1476.75
+    },
+    {
+     "lot_detail_id": 2083854,
+     "converted_price": 47.2,
+     "converted_cost": 3540.57
+    },
+    {
+     "lot_detail_id": 2083855,
+     "converted_price": 89.57,
+     "converted_cost": 10300.94
+    },
+    {
+     "lot_detail_id": 2083856,
+     "converted_price": 2396.69,
+     "converted_cost": 23966.94
+    },
+    {
+     "lot_detail_id": 2083857,
+     "converted_price": 2396.69,
+     "converted_cost": 23966.94
+    },
+    {
+     "lot_detail_id": 2083858,
+     "converted_price": 2396.69,
+     "converted_cost": 23966.94
+    },
+    {
+     "lot_detail_id": 2083859,
+     "converted_price": 2396.69,
+     "converted_cost": 23966.94
+    },
+    {
+     "lot_detail_id": 2083860,
+     "converted_price": 2396.69,
+     "converted_cost": 11983.47
+    },
+    {
+     "lot_detail_id": 2083861,
+     "converted_price": 197.3,
+     "converted_cost": 39460.72
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 24253500.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2083842,
+     "converted_price": 9500.0,
+     "converted_cost": 475000.0
+    },
+    {
+     "lot_detail_id": 2083843,
+     "converted_price": 11500.0,
+     "converted_cost": 287500.0
+    },
+    {
+     "lot_detail_id": 2083844,
+     "converted_price": 14200.0,
+     "converted_cost": 284000.0
+    },
+    {
+     "lot_detail_id": 2083845,
+     "converted_price": 6300.0,
+     "converted_cost": 189000.0
+    },
+    {
+     "lot_detail_id": 2083846,
+     "converted_price": 6100.0,
+     "converted_cost": 915000.0
+    },
+    {
+     "lot_detail_id": 2083847,
+     "converted_price": 10500.0,
+     "converted_cost": 105000.0
+    },
+    {
+     "lot_detail_id": 2083848,
+     "converted_price": 270000.0,
+     "converted_cost": 162000.0
+    },
+    {
+     "lot_detail_id": 2083849,
+     "converted_price": 3900.0,
+     "converted_cost": 195000.0
+    },
+    {
+     "lot_detail_id": 2083850,
+     "converted_price": 7400.0,
+     "converted_cost": 740000.0
+    },
+    {
+     "lot_detail_id": 2083851,
+     "converted_price": 80500.0,
+     "converted_cost": 805000.0
+    },
+    {
+     "lot_detail_id": 2083833,
+     "converted_price": 484000.0,
+     "converted_cost": 1452000.0
+    },
+    {
+     "lot_detail_id": 2083834,
+     "converted_price": 7400.0,
+     "converted_cost": 2220000.0
+    },
+    {
+     "lot_detail_id": 2083835,
+     "converted_price": 7900.0,
+     "converted_cost": 395000.0
+    },
+    {
+     "lot_detail_id": 2083836,
+     "converted_price": 170000.0,
+     "converted_cost": 850000.0
+    },
+    {
+     "lot_detail_id": 2083837,
+     "converted_price": 168000.0,
+     "converted_cost": 1008000.0
+    },
+    {
+     "lot_detail_id": 2083838,
+     "converted_price": 1000.0,
+     "converted_cost": 60000.0
+    },
+    {
+     "lot_detail_id": 2083839,
+     "converted_price": 220000.0,
+     "converted_cost": 220000.0
+    },
+    {
+     "lot_detail_id": 2083840,
+     "converted_price": 190500.0,
+     "converted_cost": 190500.0
+    },
+    {
+     "lot_detail_id": 2083841,
+     "converted_price": 85000.0,
+     "converted_cost": 170000.0
+    },
+    {
+     "lot_detail_id": 2083852,
+     "converted_price": 9500.0,
+     "converted_cost": 95000.0
+    },
+    {
+     "lot_detail_id": 2083853,
+     "converted_price": 12200.0,
+     "converted_cost": 122000.0
+    },
+    {
+     "lot_detail_id": 2083854,
+     "converted_price": 3900.0,
+     "converted_cost": 292500.0
+    },
+    {
+     "lot_detail_id": 2083855,
+     "converted_price": 7400.0,
+     "converted_cost": 851000.0
+    },
+    {
+     "lot_detail_id": 2083856,
+     "converted_price": 198000.0,
+     "converted_cost": 1980000.0
+    },
+    {
+     "lot_detail_id": 2083857,
+     "converted_price": 198000.0,
+     "converted_cost": 1980000.0
+    },
+    {
+     "lot_detail_id": 2083858,
+     "converted_price": 198000.0,
+     "converted_cost": 1980000.0
+    },
+    {
+     "lot_detail_id": 2083859,
+     "converted_price": 198000.0,
+     "converted_cost": 1980000.0
+    },
+    {
+     "lot_detail_id": 2083860,
+     "converted_price": 198000.0,
+     "converted_cost": 990000.0
+    },
+    {
+     "lot_detail_id": 2083861,
+     "converted_price": 16300.0,
+     "converted_cost": 3260000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 0,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

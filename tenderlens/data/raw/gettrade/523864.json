@@ -1,0 +1,553 @@
+{
+ "id": 523864,
+ "display_no": "26120012523864",
+ "start_date": "2026-11-09T09:17:12",
+ "end_date": "2026-11-18T19:38:36",
+ "clarific_date": "2026-11-18T19:38:36",
+ "start_cost": 230000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2078752,\"Order_Num\":1,\"Category_Id\":126784,\"Plangraph_Detail_Id\":24064172,\"Product_Id\":453221,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":230000,\"Cost\":230000,\"Description\":\"Услуга по решению задач связанных с использованием беспилотных летательных аппаратов, а также средств дистанционного зондирования Земли и космических аппаратов спутниковой связи. \\r\\nПредоставление результатов применения технологии InSAR по обработке радиолокационных (радарных) космических снимков для определения динамики деформаций (смещений и просадок) плотин водохранилищ, расположенных в сейсмически активных (высокосейсмичных) зонах, включая водохранилища: Каркидон, Резаксай, Пачкамар, Хисарак, Дехканабад, Лангар, Чимкурган, Карабаг, Талимарджан, Туполанг, Южно-Сурханское, Ахангаранское и Чарвакское водохранилище.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9855247,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"71.20.13.120-00002\",\"Guarantee_Term\":1,\"Delivery_Term\":10,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"роялти \",\"Amount\":0,\"Amount_In_Perc\":20,\"Order_Num\":1}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Меъморчилик ва муҳандислик-техник лойиҳалаштириш, техник синов, тадқиқот ва таҳлил соҳасидаги хизматлар\",\"Product_Name\":\"Учувчисиз учиш аппаратларидан, шунингдек, Ерни масофадан туриб зондлаш воситалари ва сунъий йўлдош алоқа воситаларидан фойдаланиш билан боғлиқ масалаларни ҳал қилиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 1.0,
+ "advance_payment_perc": 0.0,
+ "term_payment_days": 240,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":3,\"Name\":\"Английский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Директор\",\"Fullname\":\"Soibjon Aliyev Solijon o'g'li\"}]",
+ "rest_time": 74126,
+ "customer_name": "\"KOSMIK MONITORING VA GEOAXBOROT TEXNOLOGIYALARI MARKAZI\" MCHJ",
+ "customer_tin": "309589486",
+ "payment_type_name": "Оплата по факту",
+ "tech_file_name": "202610220654712986.pdf",
+ "tech_file_path": "/files/2026/10/22/202610220654712986.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 345779.0,
+ "tech_doc_file_name": "20261311132459523864.pdf",
+ "tech_doc_file_path": "files/2026/11/13/20261311132459523864.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 246132.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610221800758103.docx",
+ "contract_proform_file_path": "/files/2026/10/22/202610221800758103.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 50133.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 7,
+ "nonauthorized_count": 4436,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2766548,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Обязательность: критично (предоставить/загрузить подтверждающий документ). (Обязательное)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Официальная справка о наличии квалифицированного персонала для выполнения заявленных работ/услуг.\r\nE’lon qilingan ishlar/xizmatlarni bajarish uchun malakali xodimlarning mavjudligi to‘g‘risida rasmiy ma’lumotnoma\r\n\r\nНе имеется – 0 баллов;\r\nИмеется (по привлечению стороннего предприятия) – 7 баллов;\r\nИмеется (в наличии у участника) – 10 баллов\r\nMavjud emas – 0 ball;\r\n\r\nMavjud (boshqa korxonani jalb qilgan holda) – 7 ball;\r\nMavjud (ishtirokchining o‘zida mavjud) – 10 ball\r\n\r\n*предоставить копии лицензий, сертификатов, дипломы и официальную справку о причастности специалиста к компании участника или привлеченной компании.\r\n\r\n\r\n* Litsenziyalar, sertifikatlar, diplomlarning nusxalarini hamda mutaxassisning ishtirokchi kompaniyaga yoki jalb qilingan kompaniyaga tegishliligi to‘g‘risidagi rasmiy ma’lumotnomani taqdim etish.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "Имеется (по привлечению стороннего предприятия) "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2766549,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Обязательность: критично (предоставить/загрузить подтверждающий документ). (Обязательное)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 40.0,
+   "description": "Наличие опыта по аналогичным работам \r\nO‘xshash (buxgalteriya/texnik jihatdan mos) ishlar bo‘yicha tajribaning mavjudligi\r\n\r\nНе имеет опыта – 0 баллов\r\nИмеется ( до 5 объектов) – 10 баллов\r\nИмеется (от 5 объектов) –  15 баллов\r\nИмеется (от 5 объектов и минимум 1 проект реализованное по водохранилищам или плотинам) 20 баллов\r\nTajribaga ega emas – 0 ball\r\nMavjud (5 tagacha obyekt) – 10 ball\r\nMavjud (5 ta va undan ortiq obyekt) – 15 ball\r\nMavjud (5 ta va undan ortiq obyekt hamda suv omborlari yoki to‘g‘onlar bo‘yicha kamida 1 ta amalga oshirilgan loyiha) – 20 ball\t\r\n\r\n*предоставить со стороны Участника копии Актов выполненных работ и/или официальную справку, подтверждающую факт выполнения работ. \r\n* Ishtirokchi tomonidan ishlar bajarilganligi faktini tasdiqlovchi bajarilgan ishlar dalolatnomalarining nusxalarini va/yoki rasmiy ma’lumotnomani taqdim etish.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Имеется (от 5 объектов) \r\nMavjud (5 ta va undan ortiq obyekt) "
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Имеется ( до 5 объектов)\r\nMavjud (5 tagacha obyekt) "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2766550,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": false,
+   "file_name": "Обязательность: критично (предоставить/загрузить подтверждающий документ). (Обязательное)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Предоставления копии документов о наличии ПО (программного обеспечения). \r\nDasturiy ta’minotning mavjudligi to‘g‘risidagi hujjatlar nusxalarini taqdim etish. \r\n\r\nНе имеется – 0 баллов;\r\nИмеется (по привлечению стороннего предприятия) – 7 баллов;\r\nИмеется (в наличии у участника) – 10 баллов\r\n\r\nMavjud emas – 0 ball;\r\nMavjud (boshqa korxonani jalb qilgan holda) – 7 ball;\r\nMavjud (ishtirokchining o‘zida mavjud) – 10 ball\r\n\r\n* ПО для первичной обработки данных радарных изображений по методологии ИнСАР \r\n* InSAR metodologiyasi bo‘yicha radar tasvirlari ma’lumotlariga birlamchi ishlov berish (qayta ishlash) uchun dasturiy ta’minot.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "Имеется (по привлечению стороннего предприятия) \r\nMavjud (boshqa korxonani jalb qilgan holda) "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2766551,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Обязательность: критично (предоставить/загрузить подтверждающий документ). (Обязательное)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Наличие подтверждающих документов о принятии метода обработки данных по ИнСАР со стороны международных и правительственных организации.\r\nXalqaro va hukumat tashkilotlari tomonidan InSAR ma’lumotlariga ishlov berish (qayta ishlash) uslubiyoti qabul qilinganligini tasdiqlovchi hujjatlarning mavjudligi.\r\n\r\nНе имеется – 0 баллов;\r\nИмеется (по привлечению стороннего предприятия) – 7 баллов;\r\nИмеется (в наличии у участника) – 10 баллов\r\nMavjud emas – 0 ball;\r\nMavjud (boshqa korxonani jalb qilgan holda) – 7 ball;\r\nMavjud (ishtirokchining o‘zida mavjud) – 10 ball\r\n\r\n* Предоставить соответствующий документ в виде справки или сертификатов   \r\n* Tegishli hujjatni ma’lumotnoma yoki sertifikatlar shaklida taqdim etish\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "Имеется (по привлечению стороннего предприятия) \r\nMavjud (boshqa korxonani jalb qilgan holda) "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2766548,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Обязательность: критично (предоставить/загрузить подтверждающий документ). (Обязательное)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Официальная справка о наличии квалифицированного персонала для выполнения заявленных работ/услуг.\\r\\nE’lon qilingan ishlar/xizmatlarni bajarish uchun malakali xodimlarning mavjudligi to‘g‘risida rasmiy ma’lumotnoma\\r\\n\\r\\nНе имеется – 0 баллов;\\r\\nИмеется (по привлечению стороннего предприятия) – 7 баллов;\\r\\nИмеется (в наличии у участника) – 10 баллов\\r\\nMavjud emas – 0 ball;\\r\\n\\r\\nMavjud (boshqa korxonani jalb qilgan holda) – 7 ball;\\r\\nMavjud (ishtirokchining o‘zida mavjud) – 10 ball\\r\\n\\r\\n*предоставить копии лицензий, сертификатов, дипломы и официальную справку о причастности специалиста к компании участника или привлеченной компании.\\r\\n\\r\\n\\r\\n* Litsenziyalar, sertifikatlar, diplomlarning nusxalarini hamda mutaxassisning ishtirokchi kompaniyaga yoki jalb qilingan kompaniyaga tegishliligi to‘g‘risidagi rasmiy ma’lumotnomani taqdim etish.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"Имеется (по привлечению стороннего предприятия) \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2766549,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Обязательность: критично (предоставить/загрузить подтверждающий документ). (Обязательное)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":40.0,\"Description\":\"Наличие опыта по аналогичным работам \\r\\nO‘xshash (buxgalteriya/texnik jihatdan mos) ishlar bo‘yicha tajribaning mavjudligi\\r\\n\\r\\nНе имеет опыта – 0 баллов\\r\\nИмеется ( до 5 объектов) – 10 баллов\\r\\nИмеется (от 5 объектов) –  15 баллов\\r\\nИмеется (от 5 объектов и минимум 1 проект реализованное по водохранилищам или плотинам) 20 баллов\\r\\nTajribaga ega emas – 0 ball\\r\\nMavjud (5 tagacha obyekt) – 10 ball\\r\\nMavjud (5 ta va undan ortiq obyekt) – 15 ball\\r\\nMavjud (5 ta va undan ortiq obyekt hamda suv omborlari yoki to‘g‘onlar bo‘yicha kamida 1 ta amalga oshirilgan loyiha) – 20 ball\\t\\r\\n\\r\\n*предоставить со стороны Участника копии Актов выполненных работ и/или официальную справку, подтверждающую факт выполнения работ. \\r\\n* Ishtirokchi tomonidan ishlar bajarilganligi faktini tasdiqlovchi bajarilgan ishlar dalolatnomalarining nusxalarini va/yoki rasmiy ma’lumotnomani taqdim etish.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Имеется (от 5 объектов) \\r\\nMavjud (5 ta va undan ortiq obyekt) \"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Имеется ( до 5 объектов)\\r\\nMavjud (5 tagacha obyekt) \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2766550,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":false,\"File_Name\":\"Обязательность: критично (предоставить/загрузить подтверждающий документ). (Обязательное)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Предоставления копии документов о наличии ПО (программного обеспечения). \\r\\nDasturiy ta’minotning mavjudligi to‘g‘risidagi hujjatlar nusxalarini taqdim etish. \\r\\n\\r\\nНе имеется – 0 баллов;\\r\\nИмеется (по привлечению стороннего предприятия) – 7 баллов;\\r\\nИмеется (в наличии у участника) – 10 баллов\\r\\n\\r\\nMavjud emas – 0 ball;\\r\\nMavjud (boshqa korxonani jalb qilgan holda) – 7 ball;\\r\\nMavjud (ishtirokchining o‘zida mavjud) – 10 ball\\r\\n\\r\\n* ПО для первичной обработки данных радарных изображений по методологии ИнСАР \\r\\n* InSAR metodologiyasi bo‘yicha radar tasvirlari ma’lumotlariga birlamchi ishlov berish (qayta ishlash) uchun dasturiy ta’minot.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"Имеется (по привлечению стороннего предприятия) \\r\\nMavjud (boshqa korxonani jalb qilgan holda) \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2766551,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Обязательность: критично (предоставить/загрузить подтверждающий документ). (Обязательное)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Наличие подтверждающих документов о принятии метода обработки данных по ИнСАР со стороны международных и правительственных организации.\\r\\nXalqaro va hukumat tashkilotlari tomonidan InSAR ma’lumotlariga ishlov berish (qayta ishlash) uslubiyoti qabul qilinganligini tasdiqlovchi hujjatlarning mavjudligi.\\r\\n\\r\\nНе имеется – 0 баллов;\\r\\nИмеется (по привлечению стороннего предприятия) – 7 баллов;\\r\\nИмеется (в наличии у участника) – 10 баллов\\r\\nMavjud emas – 0 ball;\\r\\nMavjud (boshqa korxonani jalb qilgan holda) – 7 ball;\\r\\nMavjud (ishtirokchining o‘zida mavjud) – 10 ball\\r\\n\\r\\n* Предоставить соответствующий документ в виде справки или сертификатов   \\r\\n* Tegishli hujjatni ma’lumotnoma yoki sertifikatlar shaklida taqdim etish\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"Имеется (по привлечению стороннего предприятия) \\r\\nMavjud (boshqa korxonani jalb qilgan holda) \"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1105286,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105287,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105288,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105289,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105290,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105291,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105292,
+   "name": "Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги",
+   "order_num": 7,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105293,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 8,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105294,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 9,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105295,
+   "name": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.",
+   "order_num": 10,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105296,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 11,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105297,
+   "name": "Закалат киритилганлигини тасдиқловчи ҳужжат ёки банк кафолатининг асл нусхаси (харид қилиш ҳужжатларига мувофиқ талаб қилинганда).",
+   "order_num": 12,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105298,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 13,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105299,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 14,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105300,
+   "name": "Xorijiy davlatlar va xalqaro tashkilotlar tomonidan ishtirokchiga nisbatan sanksiya qo‘llanilmaganligi",
+   "order_num": 15,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105301,
+   "name": "Молиявий ҳисоботлар*\n(ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда): \n1. Бухгалтерия баланси\n",
+   "order_num": 16,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1105286,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105287,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105288,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105289,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105290,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105291,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105292,\"Name\":\"Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги\",\"Order_Num\":7,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105293,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":8,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105294,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":9,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105295,\"Name\":\"Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.\",\"Order_Num\":10,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105296,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":11,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105297,\"Name\":\"Закалат киритилганлигини тасдиқловчи ҳужжат ёки банк кафолатининг асл нусхаси (харид қилиш ҳужжатларига мувофиқ талаб қилинганда).\",\"Order_Num\":12,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105298,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":13,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105299,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":14,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105300,\"Name\":\"Xorijiy davlatlar va xalqaro tashkilotlar tomonidan ishtirokchiga nisbatan sanksiya qo‘llanilmaganligi\",\"Order_Num\":15,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105301,\"Name\":\"Молиявий ҳисоботлар*\\n(ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда): \\n1. Бухгалтерия баланси\\n\",\"Order_Num\":16,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 223218,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Мирзо-Улугбекский район",
+ "delivering_address": "Город Ташкент, Город Ташкент , улица Чиланзар, 53",
+ "delivering_phone": "911770089",
+ "addon_description": "C-diapazondagi, o‘rta aniqlikdagi radiolakatsion kosmik suratlarni qayta ishlash asosida olingan yarim tayyor (birlamchi qayta ishlangan) ma’lumotlarni xarid qilish xizmatlari bo‘yicha. \r\nSeysmik jihatdan yuqori seysmik zonalarda joylashgan suv omborlari jumladan: Karkidon, Rezaksoy, Pachkamar, Hisorak, Dehqonobod, Langar, Chimqo‘rg‘on, Qorabog‘, Talimarjon, To‘palang, Janubiy Surxon, Ohangaron va Chorvoq suv ombori to‘g‘onlarining deformatsiyalanishi (siljish va cho‘kish) dinamikasini aniqlash uchun radiolokatsion (radar) kosmik suratlarni InSAR texnologiyasini qo‘llash orqali natijalarini taqdim etish.",
+ "technical_description": "Техническое задание\r\nTexnik topshiriq",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 523738,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "улица Чиланзар, 53",
+ "customer_zip": "100090",
+ "min_point": 31,
+ "financing_source": "Собственные средства",
+ "currency_id": 14,
+ "currency_name": "Dollar",
+ "currency_code123": "840",
+ "currency_codeabc": "USD",
+ "is_prolonged": true,
+ "prolong_date": "2026-11-15T19:38:36",
+ "prolonged_days": 2,
+ "prolong_file_name": "202611153817051768.docx",
+ "prolong_file_path": "/files/2026/11/15/202611153817051768.docx",
+ "prolong_file_ext": "DOCX",
+ "prolong_file_sizes": 133414.0,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 230000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078752,
+     "converted_price": 230000.0,
+     "converted_cost": 230000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 208920.01,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078752,
+     "converted_price": 208920.01,
+     "converted_cost": 208920.01
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 19001170.12,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078752,
+     "converted_price": 19001170.12,
+     "converted_cost": 19001170.12
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 2765430300.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078752,
+     "converted_price": 2765430300.0,
+     "converted_cost": 2765430300.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

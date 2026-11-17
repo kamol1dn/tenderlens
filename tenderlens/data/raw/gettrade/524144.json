@@ -1,0 +1,516 @@
+{
+ "id": 524144,
+ "display_no": "26120012524144",
+ "start_date": "2026-11-11T11:04:12",
+ "end_date": "2026-11-18T11:04:12",
+ "clarific_date": "2026-11-18T11:04:12",
+ "start_cost": 350000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2080185,\"Order_Num\":1,\"Category_Id\":123457,\"Plangraph_Detail_Id\":24377931,\"Product_Id\":327144,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":350000000,\"Cost\":350000000,\"Description\":\"PHRML 250/120-15 rusumli relslarni to‘rt yo‘nalishda sovuq holda to‘g‘rilash gidravlik pressining elektron boshqaruv va aloqa apparat vositalarini ta’mirlash, almashtirish va modernizatsiya qilish, taqsimlash qurilmalarini almashtirish, shuningdek, gidravlik boshqaruv tizimining rostlovchi apparaturalarini taftishdan o‘tkazish, ta’mirlash va almashtirish bo‘yicha kompleks ishlarni amalga oshirish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":10020698,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"33.17.19.000-00009\",\"Guarantee_Term\":1,\"Delivery_Term\":14,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Машина ва ускуналарни таъмирлаш ва ўрнатиш бўйича хизматлар\",\"Product_Name\":\"Махсус техникани таъмирлаш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":1,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 0.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 60,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Главный инженер\",\"Fullname\":\"Исломбоев И.А.\"}]",
+ "rest_time": 43316,
+ "customer_name": "TEMIRYO‘LINFRATUZILMA AJ (филиал  14-сон Рельс пайвандлаш поезди)",
+ "customer_tin": "310920400",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611064444187478.rar",
+ "tech_file_path": "/files/2026/11/6/202611064444187478.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 4785760.0,
+ "tech_doc_file_name": "20261211182448524144.pdf",
+ "tech_doc_file_path": "files/2026/11/12/20261211182448524144.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 287574.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611064444386289.docx",
+ "contract_proform_file_path": "/files/2026/11/6/202611064444386289.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 44887.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 9,
+ "nonauthorized_count": 2809,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2768230,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Eng yaxshi taklifni tanlab olish ishtirokchisi to‘g‘risida umumiy ma’lumot (3-shaklga muvofiq) (Ishtirokchi 3-shakl bo‘yicha ma’lumotlarni to‘ldirishi va taqdim etishi lozim)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 18.18,
+   "description": "Eng yaxshi taklifni tanlab olish ishtirokchisi to‘g‘risida umumiy ma’lumot (3-shaklga muvofiq)\r\n(Ishtirokchi 3-shakl bo‘yicha ma’lumotlarni to‘ldirishi va taqdim etishi lozim)\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768231,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Tanlash uchun texnik taklif (qiyosiy jadval) (6-shaklga muvofiq). (Ishtirokchi 6-shaklga muvofiq ma’lumotlarni to‘ldirishi va taqdim etishi lozim)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 18.18,
+   "description": "Tanlash uchun texnik taklif (qiyosiy jadval) (6-shaklga muvofiq).\r\n(Ishtirokchi 6-shaklga muvofiq ma’lumotlarni to‘ldirishi va taqdim etishi lozim)\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768232,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Yetkazib berish miqdori, jamlanmasi, joyi va muddatiga (davriyligiga) qo‘yiladigan talablar (7-shaklga muvofiq). (Ishtirokchi 7-shaklga muvofiq ma’lumotlarni to‘ldirishi va taqdim etishi lozim)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 18.18,
+   "description": "Yetkazib berish miqdori, jamlanmasi, joyi va muddatiga (davriyligiga) qo‘yiladigan talablar (7-shaklga muvofiq).\r\n(Ishtirokchi 7-shaklga muvofiq ma’lumotlarni to‘ldirishi va taqdim etishi lozim)\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768233,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 30.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Tanlov ishtirokchilari kompaniyalari xodimlarining rels payvandlash texnikasini ta’mirlash va xizmat ko‘rsatish sohasida ixtisoslashuvi mavjudligini tasdiqlovchi xodimlarning malaka sertifikatlari yoki malakani tasdiqlovchi boshqa hujjatlar (Ishtirokchi xodimlarning malaka sertifikatlari nusxalarini taqdim etishi shart)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 27.27,
+   "description": "Tanlov ishtirokchilari kompaniyalari xodimlarining rels payvandlash texnikasini ta’mirlash va xizmat ko‘rsatish sohasida ixtisoslashuvi mavjudligini tasdiqlovchi xodimlarning malaka sertifikatlari yoki malakani tasdiqlovchi boshqa hujjatlar\r\n(Ishtirokchi xodimlarning malaka sertifikatlari nusxalarini taqdim etishi shart)\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 30.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768234,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Foydalanishning kafolat muddati (10-bo‘lim muvofiq) (Ishtirokchi ushbu texnik topshiriqning 10-bo‘limiga muvofiq kafolat xatini taqdim etishi shart)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 18.18,
+   "description": "Foydalanishning kafolat muddati (10-bo‘lim muvofiq)\r\n(Ishtirokchi ushbu texnik topshiriqning 10-bo‘limiga muvofiq kafolat xatini taqdim etishi shart)\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2768230,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Eng yaxshi taklifni tanlab olish ishtirokchisi to‘g‘risida umumiy ma’lumot (3-shaklga muvofiq) (Ishtirokchi 3-shakl bo‘yicha ma’lumotlarni to‘ldirishi va taqdim etishi lozim)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":18.18,\"Description\":\"Eng yaxshi taklifni tanlab olish ishtirokchisi to‘g‘risida umumiy ma’lumot (3-shaklga muvofiq)\\r\\n(Ishtirokchi 3-shakl bo‘yicha ma’lumotlarni to‘ldirishi va taqdim etishi lozim)\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768231,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Tanlash uchun texnik taklif (qiyosiy jadval) (6-shaklga muvofiq). (Ishtirokchi 6-shaklga muvofiq ma’lumotlarni to‘ldirishi va taqdim etishi lozim)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":18.18,\"Description\":\"Tanlash uchun texnik taklif (qiyosiy jadval) (6-shaklga muvofiq).\\r\\n(Ishtirokchi 6-shaklga muvofiq ma’lumotlarni to‘ldirishi va taqdim etishi lozim)\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768232,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Yetkazib berish miqdori, jamlanmasi, joyi va muddatiga (davriyligiga) qo‘yiladigan talablar (7-shaklga muvofiq). (Ishtirokchi 7-shaklga muvofiq ma’lumotlarni to‘ldirishi va taqdim etishi lozim)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":18.18,\"Description\":\"Yetkazib berish miqdori, jamlanmasi, joyi va muddatiga (davriyligiga) qo‘yiladigan talablar (7-shaklga muvofiq).\\r\\n(Ishtirokchi 7-shaklga muvofiq ma’lumotlarni to‘ldirishi va taqdim etishi lozim)\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768233,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":30.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Tanlov ishtirokchilari kompaniyalari xodimlarining rels payvandlash texnikasini ta’mirlash va xizmat ko‘rsatish sohasida ixtisoslashuvi mavjudligini tasdiqlovchi xodimlarning malaka sertifikatlari yoki malakani tasdiqlovchi boshqa hujjatlar (Ishtirokchi xodimlarning malaka sertifikatlari nusxalarini taqdim etishi shart)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":27.27,\"Description\":\"Tanlov ishtirokchilari kompaniyalari xodimlarining rels payvandlash texnikasini ta’mirlash va xizmat ko‘rsatish sohasida ixtisoslashuvi mavjudligini tasdiqlovchi xodimlarning malaka sertifikatlari yoki malakani tasdiqlovchi boshqa hujjatlar\\r\\n(Ishtirokchi xodimlarning malaka sertifikatlari nusxalarini taqdim etishi shart)\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":30.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768234,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Foydalanishning kafolat muddati (10-bo‘lim muvofiq) (Ishtirokchi ushbu texnik topshiriqning 10-bo‘limiga muvofiq kafolat xatini taqdim etishi shart)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":18.18,\"Description\":\"Foydalanishning kafolat muddati (10-bo‘lim muvofiq)\\r\\n(Ishtirokchi ushbu texnik topshiriqning 10-bo‘limiga muvofiq kafolat xatini taqdim etishi shart)\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1107344,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": "\"Ishtirokchi 2-shaklga muvofiq kafolat xatini va/yoki majburiyatlarni lozim darajada bajarish uchun zarur resurslar mavjudligini tasdiqlovchi hujjatlarni taqdim etishi shart.\"",
+   "file_path": "tender/user-files/2026/11/6/bd001335-65dd-4b8f-8109-215ac973c584.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107345,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": "\"Ishtirokchi shartnoma tuzish uchun qonuniy huquqini tasdiqlovchi hujjatni taqdim etishi shart (Nizom).\"",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107346,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": "Rezident — xaridni amalga oshirishning joriy davri uchun DSQdan ma’lumotnoma.\r\nNorezident — o‘z mamlakati soliq organining ma’lumotnomasi yoki shunga o‘xshash hujjat.\r\nTender e’lon qilingan sanadan kamida 10 kun oldin olingan ma’lumotnomaga yo‘l qo‘yiladi.\r\n",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107347,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "\"Ishtirokchi bankrotlik taomili mavjud emasligini tasdiqlovchi hujjatni (xizmat ko‘rsatuvchi bankning xati, vakolatli organning ma’lumotnomasi yoki boshqa tasdiqlovchi hujjat) taqdim etishi kerak.\"",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107348,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "Ishtirokchi xarid.uzex.uz elektron tizimidan ko‘rsatilgan reyestrda ishtirokchi yo‘qligini tasdiqlovchi skrinshot taqdim etishi kerak.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107349,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": "Ishtirokchi Majburiy ijro byurosining ma’lumotlar bazasidan skrinshot taqdim etishi lozim.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107350,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 7,
+   "description": "Ishtirokchi davlat ro‘yxatidan o‘tkazish nusxasini taqdim etishi shart.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107351,
+   "name": "Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги",
+   "order_num": 8,
+   "description": "Ishtirokchi 4-shaklga muvofiq kompaniyaning moliyaviy holati to‘g‘risida ma’lumot taqdim etishi kerak.",
+   "file_path": "tender/user-files/2026/11/6/1d85bf41-4141-4bdb-bffd-2f2acadbf2a2.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107352,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 9,
+   "description": "Ishtirokchi 5-shakl bo‘yicha ariza topshirishi kerak.",
+   "file_path": "tender/user-files/2026/11/6/1ec5f113-a8f8-4fef-8c6d-e8ee532b1c28.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1107344,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":\"\\\"Ishtirokchi 2-shaklga muvofiq kafolat xatini va/yoki majburiyatlarni lozim darajada bajarish uchun zarur resurslar mavjudligini tasdiqlovchi hujjatlarni taqdim etishi shart.\\\"\",\"File_Path\":\"tender/user-files/2026/11/6/bd001335-65dd-4b8f-8109-215ac973c584.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107345,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":\"\\\"Ishtirokchi shartnoma tuzish uchun qonuniy huquqini tasdiqlovchi hujjatni taqdim etishi shart (Nizom).\\\"\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107346,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"Rezident — xaridni amalga oshirishning joriy davri uchun DSQdan ma’lumotnoma.\\r\\nNorezident — o‘z mamlakati soliq organining ma’lumotnomasi yoki shunga o‘xshash hujjat.\\r\\nTender e’lon qilingan sanadan kamida 10 kun oldin olingan ma’lumotnomaga yo‘l qo‘yiladi.\\r\\n\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107347,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"\\\"Ishtirokchi bankrotlik taomili mavjud emasligini tasdiqlovchi hujjatni (xizmat ko‘rsatuvchi bankning xati, vakolatli organning ma’lumotnomasi yoki boshqa tasdiqlovchi hujjat) taqdim etishi kerak.\\\"\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107348,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"Ishtirokchi xarid.uzex.uz elektron tizimidan ko‘rsatilgan reyestrda ishtirokchi yo‘qligini tasdiqlovchi skrinshot taqdim etishi kerak.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107349,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"Ishtirokchi Majburiy ijro byurosining ma’lumotlar bazasidan skrinshot taqdim etishi lozim.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107350,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":7,\"Description\":\"Ishtirokchi davlat ro‘yxatidan o‘tkazish nusxasini taqdim etishi shart.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107351,\"Name\":\"Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги\",\"Order_Num\":8,\"Description\":\"Ishtirokchi 4-shaklga muvofiq kompaniyaning moliyaviy holati to‘g‘risida ma’lumot taqdim etishi kerak.\",\"File_Path\":\"tender/user-files/2026/11/6/1d85bf41-4141-4bdb-bffd-2f2acadbf2a2.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107352,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":9,\"Description\":\"Ishtirokchi 5-shakl bo‘yicha ariza topshirishi kerak.\",\"File_Path\":\"tender/user-files/2026/11/6/1ec5f113-a8f8-4fef-8c6d-e8ee532b1c28.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 437947,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Алмазарский район",
+ "delivering_address": "ул.Джами 209",
+ "delivering_phone": "971868800",
+ "addon_description": "PHRML 250/120-15 rusumli relslarni to‘rt yo‘nalishda sovuq holda to‘g‘rilash gidravlik pressining elektron boshqaruv va aloqa apparat vositalarini ta’mirlash, almashtirish va modernizatsiya qilish, taqsimlash qurilmalarini almashtirish, shuningdek, gidravlik boshqaruv tizimining rostlovchi apparaturalarini taftishdan o‘tkazish, ta’mirlash va almashtirish bo‘yicha kompleks ishlarni amalga oshirish",
+ "technical_description": "Тех.документация",
+ "tech_coef": 60.0,
+ "cost_coef": 40.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "ул. Джами 209",
+ "customer_zip": "100057",
+ "min_point": 110,
+ "financing_source": "Собственные средства",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 29109.39,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080185,
+     "converted_price": 29109.39,
+     "converted_cost": 29109.39
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 26441.45,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080185,
+     "converted_price": 26441.45,
+     "converted_cost": 26441.45
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 350000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080185,
+     "converted_price": 350000000.0,
+     "converted_cost": 350000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 2404837.15,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080185,
+     "converted_price": 2404837.15,
+     "converted_cost": 2404837.15
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": " 14-сон Рельс пайвандлаш поезди",
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

@@ -1,0 +1,479 @@
+{
+ "id": 525561,
+ "display_no": "26120012525561",
+ "start_date": "2026-11-16T12:25:19",
+ "end_date": "2026-11-23T12:25:19",
+ "clarific_date": "2026-11-23T12:25:19",
+ "start_cost": 61992000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2090325,\"Order_Num\":5,\"Category_Id\":126784,\"Plangraph_Detail_Id\":23489989,\"Product_Id\":473039,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":504000,\"Cost\":504000,\"Description\":\"Nisbiy zichlik o‘lchash kanalini metrologik attestatsiyadan o‘tkazish. Jami: 1 ta o‘lchash kanali. O‘lchash vositasi: nisbiy zichlik analizatori. Tizimlar: DCS, SIS.  Metrologik attestatsiya tegishli standartlar va Texnik topshiriqda belgilangan talablar asosida amalga oshiriladi.\\r\\nBatafsil texnik ma’lumot va talablar Texnik topshiriq hamda uning 1-ilovasida keltirilgan. / Подробное техническое описание и требования указаны в Техническом задании и Приложении №1.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9549781,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"71.12.40.129-00014\",\"Guarantee_Term\":6,\"Delivery_Term\":30,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Меъморчилик ва муҳандислик-техник лойиҳалаштириш, техник синов, тадқиқот ва таҳлил соҳасидаги хизматлар\",\"Product_Name\":\"Метрология соҳасидаги хизматлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2090324,\"Order_Num\":4,\"Category_Id\":126784,\"Plangraph_Detail_Id\":23489988,\"Product_Id\":473039,\"Product_Type_Id\":3,\"Quantity\":20,\"Price\":504000,\"Cost\":10080000,\"Description\":\"Harorat o‘lchash kanallarini metrologik attestatsiyadan o‘tkazish. Jami: 20 ta o‘lchash kanali. O‘lchash vositalari: harorat o‘zgartirgichlari. Tizimlar: DCS, SIS.  Metrologik attestatsiya tegishli standartlar va Texnik topshiriqda belgilangan talablar asosida amalga oshiriladi.\\r\\nBatafsil texnik ma’lumot va talablar Texnik topshiriq hamda uning 1-ilovasida keltirilgan. / Подробное техническое описание и требования указаны в Техническом задании и Приложении №1.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9549781,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"71.12.40.129-00014\",\"Guarantee_Term\":6,\"Delivery_Term\":30,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Меъморчилик ва муҳандислик-техник лойиҳалаштириш, техник синов, тадқиқот ва таҳлил соҳасидаги хизматлар\",\"Product_Name\":\"Метрология соҳасидаги хизматлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2090323,\"Order_Num\":3,\"Category_Id\":126784,\"Plangraph_Detail_Id\":23489987,\"Product_Id\":473039,\"Product_Type_Id\":3,\"Quantity\":26,\"Price\":504000,\"Cost\":13104000,\"Description\":\"Bosim o‘lchash kanallarini metrologik attestatsiyadan o‘tkazish. Jami: 26 ta o‘lchash kanali. O‘lchash vositalari: bosim o‘zgartirgichlari. Tizimlar: DCS, SIS.  Metrologik attestatsiya tegishli standartlar va Texnik topshiriqda belgilangan talablar asosida amalga oshiriladi.\\r\\nBatafsil texnik ma’lumot va talablar Texnik topshiriq hamda uning 1-ilovasida keltirilgan. / Подробное техническое описание и требования указаны в Техническом задании и Приложении №1.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9549781,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"71.12.40.129-00014\",\"Guarantee_Term\":6,\"Delivery_Term\":30,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Меъморчилик ва муҳандислик-техник лойиҳалаштириш, техник синов, тадқиқот ва таҳлил соҳасидаги хизматлар\",\"Product_Name\":\"Метрология соҳасидаги хизматлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2090322,\"Order_Num\":2,\"Category_Id\":126784,\"Plangraph_Detail_Id\":23489986,\"Product_Id\":473039,\"Product_Type_Id\":3,\"Quantity\":8,\"Price\":504000,\"Cost\":4032000,\"Description\":\"Sath o‘lchash kanallarini metrologik attestatsiyadan o‘tkazish. Jami: 8 ta o‘lchash kanali. O‘lchash vositalari: radar va impuls-to‘lqinli sath o‘lchagichlar. Tizimlar: DCS, SIS.  Metrologik attestatsiya tegishli standartlar va Texnik topshiriqda belgilangan talablar asosida amalga oshiriladi.\\r\\nBatafsil texnik ma’lumot va talablar Texnik topshiriq hamda uning 1-ilovasida keltirilgan. / Подробное техническое описание и требования указаны в Техническом задании и Приложении №1.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9549781,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"71.12.40.129-00014\",\"Guarantee_Term\":6,\"Delivery_Term\":30,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Меъморчилик ва муҳандислик-техник лойиҳалаштириш, техник синов, тадқиқот ва таҳлил соҳасидаги хизматлар\",\"Product_Name\":\"Метрология соҳасидаги хизматлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2090321,\"Order_Num\":1,\"Category_Id\":126784,\"Plangraph_Detail_Id\":23489985,\"Product_Id\":473039,\"Product_Type_Id\":3,\"Quantity\":68,\"Price\":504000,\"Cost\":34272000,\"Description\":\"Sarf o‘lchash kanallarini metrologik attestatsiyadan o‘tkazish. Jami: 68 ta o‘lchash kanali. O‘lchash vositalari: bosimlar farqi, koriolis, elektromagnit, uyurmali va ultratovushli sarf o‘lchagichlar. Tizimlar: DCS, SIS. Metrologik attestatsiya tegishli standartlar va Texnik topshiriqda belgilangan talablar asosida amalga oshiriladi.\\r\\nBatafsil texnik ma’lumot va talablar Texnik topshiriq hamda uning 1-ilovasida keltirilgan. / Подробное техническое описание и требования указаны в Техническом задании и Приложении №1.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9549781,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"71.12.40.129-00014\",\"Guarantee_Term\":6,\"Delivery_Term\":30,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Меъморчилик ва муҳандислик-техник лойиҳалаштириш, техник синов, тадқиқот ва таҳлил соҳасидаги хизматлар\",\"Product_Name\":\"Метрология соҳасидаги хизматлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 0.0,
+ "term_payment_days": 15,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Харид қилиш ва логистика бўлими мутахассиси\",\"Fullname\":\"Дўсқобилов Акбар\"},{\"Job_title\":\"Харидлар бўйича менежер\",\"Fullname\":\"Мўминов Элёр\"}]",
+ "rest_time": 480035,
+ "customer_name": "\"UZBEKISTAN GTL\" MCHJ",
+ "customer_tin": "207041936",
+ "payment_type_name": "Оплата по факту",
+ "tech_file_name": "202609222021220532.rar",
+ "tech_file_path": "/files/2026/9/22/202609222021220532.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 949565.0,
+ "tech_doc_file_name": "20260510082432513658.pdf",
+ "tech_doc_file_path": "files/2026/10/5/20260510082432513658.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 321228.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202609222021371747.rar",
+ "contract_proform_file_path": "/files/2026/9/22/202609222021371747.rar",
+ "contract_proform_file_ext": "RAR",
+ "contract_proform_file_sizes": 109681.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 4,
+ "nonauthorized_count": 651,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2775957,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Форма 1-2",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 50.0,
+   "description": "Kontragent anketasi shaklini va talab etilgan hujjatlarni taqdim etish — ishtirokchi xarid hujjatlarida koʻrsatilgan 1-sonli shaklga muvofiq toʻldirilgan shakl hamda unda nazarda tutilgan barcha hujjatlarni taqdim etishi shart. (Kontragentlarni tekshirish taomili Xarid qilish hujjatlariga 2-ilovaga muvofiq amalga oshiriladi.)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "1-sonli shakl va soʻralgan hujjatlar toʻgʻri keladi, tekshiruv natijalari boʻyicha ijobiy xulosa olingan - 1 ball;"
+    },
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "1-sonli shakl va/yoki soʻralgan hujjatlar muvofiq emas va/yoki tekshirish natijalari boʻyicha salbiy xulosa olingan - 0 ball (diskvalifikatsiya)."
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2775958,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Форма 1-2",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 50.0,
+   "description": "Ishtirokchining taklifi Texnik topshiriq talablariga muvofiqligi — ishtirokchi xarid hujjatlarida koʻrsatilgan 2-sonli shaklga muvofiq toʻldirilgan shaklni taqdim etishi shart. Ushbu shaklda taklif Buyurtmaning texnik topshiriqdagi shartlariga toʻliq mos ekani va texnik topshiriqda keltirilgan barcha shartlarni qabul qilishini tasdiqlashi lozim. Shuningdek, 2-sonli shakl ilovasiga muvofiq taklif etilayotgan tovarning texnik xarakteristikalarini solishtiruvchi jadval ham taqdim etilishi kerak.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "2-sonli shakl, 2-sonli shakl ilovasi, yetkazib berish muddati va Texnik topshiriqda talab etilgan hujjatlar talablarga mos kelsa – 1 ball, "
+    },
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "2-sonli shakl va/yoki 2-sonli shakl ilovasi va/yoki yetkazib berish muddati va/yoki Texnik topshiriqda talab etilgan hujjatlar talablarga mos kelmasa – 0 ball (diskvalifikatsiya)."
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2775957,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Форма 1-2\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":50.0,\"Description\":\"Kontragent anketasi shaklini va talab etilgan hujjatlarni taqdim etish — ishtirokchi xarid hujjatlarida koʻrsatilgan 1-sonli shaklga muvofiq toʻldirilgan shakl hamda unda nazarda tutilgan barcha hujjatlarni taqdim etishi shart. (Kontragentlarni tekshirish taomili Xarid qilish hujjatlariga 2-ilovaga muvofiq amalga oshiriladi.)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"1-sonli shakl va soʻralgan hujjatlar toʻgʻri keladi, tekshiruv natijalari boʻyicha ijobiy xulosa olingan - 1 ball;\"},{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"1-sonli shakl va/yoki soʻralgan hujjatlar muvofiq emas va/yoki tekshirish natijalari boʻyicha salbiy xulosa olingan - 0 ball (diskvalifikatsiya).\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2775958,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Форма 1-2\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":50.0,\"Description\":\"Ishtirokchining taklifi Texnik topshiriq talablariga muvofiqligi — ishtirokchi xarid hujjatlarida koʻrsatilgan 2-sonli shaklga muvofiq toʻldirilgan shaklni taqdim etishi shart. Ushbu shaklda taklif Buyurtmaning texnik topshiriqdagi shartlariga toʻliq mos ekani va texnik topshiriqda keltirilgan barcha shartlarni qabul qilishini tasdiqlashi lozim. Shuningdek, 2-sonli shakl ilovasiga muvofiq taklif etilayotgan tovarning texnik xarakteristikalarini solishtiruvchi jadval ham taqdim etilishi kerak.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"2-sonli shakl, 2-sonli shakl ilovasi, yetkazib berish muddati va Texnik topshiriqda talab etilgan hujjatlar talablarga mos kelsa – 1 ball, \"},{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"2-sonli shakl va/yoki 2-sonli shakl ilovasi va/yoki yetkazib berish muddati va/yoki Texnik topshiriqda talab etilgan hujjatlar talablarga mos kelmasa – 0 ball (diskvalifikatsiya).\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1117427,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117428,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117429,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117430,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117431,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117432,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117433,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 7,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117434,
+   "name": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.",
+   "order_num": 8,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117435,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 9,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117436,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 10,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117437,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 11,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117438,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 12,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117439,
+   "name": "Xorijiy davlatlar va xalqaro tashkilotlar tomonidan ishtirokchiga nisbatan sanksiya qo‘llanilmaganligi",
+   "order_num": 13,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1117427,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117428,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117429,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117430,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117431,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117432,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117433,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":7,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117434,\"Name\":\"Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.\",\"Order_Num\":8,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117435,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":9,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117436,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":10,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117437,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":11,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117438,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":12,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117439,\"Name\":\"Xorijiy davlatlar va xalqaro tashkilotlar tomonidan ishtirokchiga nisbatan sanksiya qo‘llanilmaganligi\",\"Order_Num\":13,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 41385,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Кашкадарьинская область",
+ "delivering_district_name": "Нишанский район",
+ "delivering_address": "Nishon MFY, Nishon Oq-oltin ko'chasi, 62-uy",
+ "delivering_phone": "712024080",
+ "addon_description": "-",
+ "technical_description": "Харид ҳужжатлари ва техник топшириқ",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": 523799,
+ "customer_region_name": "Qashqadaryo viloyati",
+ "customer_district_name": "Qashqadaryo viloyati",
+ "customer_street": "Nishon mahallasi, Nishon-oq oltin ko`chasi, 62-uy",
+ "customer_zip": "100090",
+ "min_point": 2,
+ "financing_source": null,
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 5155.85,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2090325,
+     "converted_price": 41.91,
+     "converted_cost": 41.91
+    },
+    {
+     "lot_detail_id": 2090321,
+     "converted_price": 41.91,
+     "converted_cost": 2850.39
+    },
+    {
+     "lot_detail_id": 2090322,
+     "converted_price": 41.91,
+     "converted_cost": 335.34
+    },
+    {
+     "lot_detail_id": 2090323,
+     "converted_price": 41.91,
+     "converted_cost": 1089.85
+    },
+    {
+     "lot_detail_id": 2090324,
+     "converted_price": 41.91,
+     "converted_cost": 838.35
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 61992000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2090325,
+     "converted_price": 504000.0,
+     "converted_cost": 504000.0
+    },
+    {
+     "lot_detail_id": 2090321,
+     "converted_price": 504000.0,
+     "converted_cost": 34272000.0
+    },
+    {
+     "lot_detail_id": 2090322,
+     "converted_price": 504000.0,
+     "converted_cost": 4032000.0
+    },
+    {
+     "lot_detail_id": 2090323,
+     "converted_price": 504000.0,
+     "converted_cost": 13104000.0
+    },
+    {
+     "lot_detail_id": 2090324,
+     "converted_price": 504000.0,
+     "converted_cost": 10080000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 425944.75,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2090325,
+     "converted_price": 3462.96,
+     "converted_cost": 3462.96
+    },
+    {
+     "lot_detail_id": 2090321,
+     "converted_price": 3462.96,
+     "converted_cost": 235481.65
+    },
+    {
+     "lot_detail_id": 2090322,
+     "converted_price": 3462.96,
+     "converted_cost": 27703.72
+    },
+    {
+     "lot_detail_id": 2090323,
+     "converted_price": 3462.96,
+     "converted_cost": 90037.1
+    },
+    {
+     "lot_detail_id": 2090324,
+     "converted_price": 3462.96,
+     "converted_cost": 69259.31
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 4683.31,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2090325,
+     "converted_price": 38.07,
+     "converted_cost": 38.07
+    },
+    {
+     "lot_detail_id": 2090321,
+     "converted_price": 38.07,
+     "converted_cost": 2589.14
+    },
+    {
+     "lot_detail_id": 2090322,
+     "converted_price": 38.07,
+     "converted_cost": 304.6
+    },
+    {
+     "lot_detail_id": 2090323,
+     "converted_price": 38.07,
+     "converted_cost": 989.96
+    },
+    {
+     "lot_detail_id": 2090324,
+     "converted_price": 38.07,
+     "converted_cost": 761.51
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 0,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

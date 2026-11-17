@@ -1,0 +1,637 @@
+{
+ "id": 524496,
+ "display_no": "26110012524496",
+ "start_date": "2026-11-11T18:25:23",
+ "end_date": "2026-11-18T18:25:23",
+ "clarific_date": "2026-11-18T18:25:23",
+ "start_cost": 475000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2081889,\"Order_Num\":1,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23981726,\"Product_Id\":708739,\"Product_Type_Id\":1,\"Quantity\":5,\"Price\":95000000,\"Cost\":475000000,\"Description\":\"Оборудование для больниц (Кресло для химиотерапии)\",\"Expenditure_Id\":44354990,\"Expenditure_Name\":\"Прочая техника\",\"Plan_Id\":9809714,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.31.17.260-00001\",\"Guarantee_Term\":24,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Сумма\",\"Calc_Type_Id\":2,\"Name\":\"Бож йиғими\",\"Amount\":1100000,\"Amount_In_Perc\":0,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Банк харажатлари\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Касалхоналар учун жиҳоз\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 2.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 90,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Директор\",\"Fullname\":\"Х.Ф.Усманов\"},{\"Job_title\":\"Бўлим бошлиғи\",\"Fullname\":\"Т.О.Кушимов\"}]",
+ "rest_time": 69754,
+ "customer_name": "Узбекистон Республикаси Согликни саклаш вазирлиги хузуридаги Харидлар маркази ДМ",
+ "customer_tin": "311894188",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202610144813369595.pdf",
+ "tech_file_path": "/files/2026/10/14/202610144813369595.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 228545.0,
+ "tech_doc_file_name": "20262610022454519157.pdf",
+ "tech_doc_file_path": "files/2026/10/26/20262610022454519157.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 316971.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610144813446659.docx",
+ "contract_proform_file_path": "/files/2026/10/14/202610144813446659.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 94800.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 5,
+ "nonauthorized_count": 2639,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2770338,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "4 ва 4а шакллари",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 52.63,
+   "description": "Техник топшириқга мувофиқлиги (0 ёки 10 балл). Мувофиқ келмаса – 0 балл. Мувофиқ келса – 10 балл.\r\n4-шакл ва 4а-шакл иловасига мувофиқ расмийлаштирилади.\r\nБуюртмачи томонидан тақдим этилган техник тавсифнинг ҳар бир банди бўйича иштирокчи товарнинг техник топшириқ талабларига тўлиқ мувофиқлигини тасдиқловчи изоҳ ва маълумотларни техник мувофиқлик жадвалида кўрсатиши шарт.\r\nШунингдек, иштирокчи тўлдирилган техник мувофиқлик жадвалининг doc (Microsoft Word) форматидаги электрон нусхасини, шунингдек ушбу жадвалда келтирилган ҳар бир техник параметрни тасдиқловчи ҳужжатлар (datasheet — техник маълумотлар варақаси, ишлаб чиқарувчи проспектлари, каталоглари ёки ҳар бир талаб этиладиган техник параметрни тасдиқловчи бошқа расмий ҳужжатлар) билан бирга тақдим этиши шарт.\r\nТехник мувофиқлик жадвалида талаб этилган маълумотлар тўлиқ акс эттирилмаган, техник параметрларни тасдиқловчи ҳужжатлар тақдим этилмаган ёки тақдим этилган ҳужжатлар техник топшириқ талабларига мувофиқ эмаслиги аниқланган тақдирда, иштирокчи харидда қатнашишдан четлаштирилади.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "4 ва 4а шакл",
+   "form_file_path": "tender/user-files/2026/10/14/e10691db-9000-4d9a-9905-6498f04b1ee0.docx"
+  },
+  {
+   "id": 2770339,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "4 ва 4а шакллари",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.53,
+   "description": "Қўшимча баллар харид предметининг бевосита функционал вазифасининг фақат техник параметрларини кўриб чиқиш якунлари бўйича берилади. Агар таклиф этилаётган параметрлар техник топшириқ талабларидан юқори бўлса.\r\n(юқорироқ сифатли маҳсулот олиш мақсадида)\r\nТакомиллаштирилган дизайн, ташқи кўриниш ва бошқаларга тегишли параметрлар (таклиф этилаётган ускунанинг тўлақонли ишлаши учун зарур бўлганларидан ташқари, техник топшириқда кўрсатилмаган қўшимча аксессуарлар, комплектация) кўриб чиқилмайди. (0 ёки 2 балл).\r\nУскунанинг муҳим функционал параметрларини яхшилайдиган қўшимча хусусиятлар мавжуд бўлган тақдирда, белгиланган баҳолаш мезонларига мувофиқ Экспертлар гуруҳи томонидан қўшимча балл берилиши мумкин.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "4а шакл",
+   "form_file_path": "tender/user-files/2026/10/14/0a45b165-7efd-4c27-80a0-75ecc4abce41.docx"
+  },
+  {
+   "id": 2770340,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Сертификат",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 5.26,
+   "description": "Тиббиёт маҳсулотларини сертификатлаштириш бўйича халқаро органлар томонидан берилган товар сертификатларининг мавжудлиги (сифатли маҳсулот олиш мақсадида)\r\nCE сертификати мавжуд бўлганда – 1 балл.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770341,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Кафолат хати",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 5.26,
+   "description": "Белгиланган муддатдан ортиқ кафолатли хизмат муддатининг мавжудлиги (0 ёки 1 балл). Қўшимча кафолат муддати бўлмаган тақдирда – 0 балл. Белгиланган муддатдан камида 12 ой ортиқ бўлганда – 1 балл.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770342,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Кафолат хати",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.53,
+   "description": "Етказиб бериш муддати (қўшимча равишда берилади). Етказиб бериш муддати қисқартирилмаганда – 0 балл. Етказиб бериш муддатлари белгиланган муддатнинг камида 50 фоизга қисқартирилганда – 1 балл. Етказиб бериш муддатлари белгиланган муддатнинг камида 75 фоизга қисқартирилганда – 2 балл.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Етказиб бериш муддатлари белгиланган муддатнинг камида 75 фоизга қисқартирилганда."
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Етказиб бериш муддатлари белгиланган муддатнинг камида 50 фоизга қисқартирилганда"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": "tender/user-files/2026/10/14/fd532093-afa3-41cd-80e7-6346e1dbfe1b.docx"
+  },
+  {
+   "id": 2770343,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "5-шакл",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 5.26,
+   "description": "Ишлаб чиқарувчи завод авторизациясининг мавжудлиги (харид иштирокчиси таклиф этилаётган товар ишлаб чиқарувчиси бўлмаган тақдирда). Авторизация мавжуд бўлмаса – 0 балл. Авторизация мавжудлиги – 1 балл. Харид иштирокчиси таклиф этилаётган товарнинг ишлаб чиқарувчиси бўлмаган тақдирда, ишлаб чиқарувчи томонидан берилган ваколатни тасдиқловчи ҳужжат\r\n5-шаклга мувофиқ тақдим этилади. Мазкур ҳужжат тақдим этилмаган тақдирда, иштирокчи харидда иштирок этишдан четлаштирилади.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Авторизация",
+   "form_file_path": "tender/user-files/2026/10/14/778190c5-401c-49be-997b-37dcf1c46573.docx"
+  },
+  {
+   "id": 2770344,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": null,
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.53,
+   "description": "Ўзбекистон Республикасида сервис марказининг мавжудлиги. Хизмат кўрсатиш маркази бўлмаган тақдирда – 0 балл. Шартнома асосида хизмат кўрсатувчи сервис маркази мавжуд бўлганда (аутсорсинг) – 1 балл. Иштирокчининг ўз хизмат кўрсатиш маркази мавжуд бўлганда – 2 балл.\r\nЎзбекистон Республикасида рўйхатдан ўтган юридик шахс тўғрисидаги маълумотлар (тўлиқ номи, юридик манзили, СТИР ва алоқа маълумотлари), шунингдек, шартнома асосида сервис хизматларини кўрсатувчи сервис маркази билан тузилган шартнома нусхаси ҳамда сервис маркази тўғрисидаги маълумотлар (номи, манзили ва алоқа маълумотлари) тақдим этилади. Агар харид қилинаётган товар бўйича сервис хизматларини кўрсатиш учун қонунчилик ҳужжатларига мувофиқ лицензия талаб этилса, етказиб берувчи томонидан ваколатли органлар томонидан берилган тегишли лицензия тақдим этилиши шарт. Хусусан, рентген ва МСКТ каби тиббий жиҳозлари ҳамда ионлаштирувчи нурланиш манбалари билан боғлиқ техник хизмат кўрсатиш фаолияти учун қонунчиликда белгиланган тартибда олинган тегишли лицензиялар тақдим этилади.\r\nАгар мазкур талаб этилган ҳужжатлар мавжуд бўлмаса, иштирокчи харидда қатнашишдан четлаштирилади.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Иштирокчининг ўз хизмат кўрсатиш маркази мавжуд бўлганда"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Шартнома асосида хизмат кўрсатувчи сервис маркази мавжуд бўлганда (аутсорсинг)"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2770338,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"4 ва 4а шакллари\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":52.63,\"Description\":\"Техник топшириқга мувофиқлиги (0 ёки 10 балл). Мувофиқ келмаса – 0 балл. Мувофиқ келса – 10 балл.\\r\\n4-шакл ва 4а-шакл иловасига мувофиқ расмийлаштирилади.\\r\\nБуюртмачи томонидан тақдим этилган техник тавсифнинг ҳар бир банди бўйича иштирокчи товарнинг техник топшириқ талабларига тўлиқ мувофиқлигини тасдиқловчи изоҳ ва маълумотларни техник мувофиқлик жадвалида кўрсатиши шарт.\\r\\nШунингдек, иштирокчи тўлдирилган техник мувофиқлик жадвалининг doc (Microsoft Word) форматидаги электрон нусхасини, шунингдек ушбу жадвалда келтирилган ҳар бир техник параметрни тасдиқловчи ҳужжатлар (datasheet — техник маълумотлар варақаси, ишлаб чиқарувчи проспектлари, каталоглари ёки ҳар бир талаб этиладиган техник параметрни тасдиқловчи бошқа расмий ҳужжатлар) билан бирга тақдим этиши шарт.\\r\\nТехник мувофиқлик жадвалида талаб этилган маълумотлар тўлиқ акс эттирилмаган, техник параметрларни тасдиқловчи ҳужжатлар тақдим этилмаган ёки тақдим этилган ҳужжатлар техник топшириқ талабларига мувофиқ эмаслиги аниқланган тақдирда, иштирокчи харидда қатнашишдан четлаштирилади.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"4 ва 4а шакл\",\"Form_File_Path\":\"tender/user-files/2026/10/14/e10691db-9000-4d9a-9905-6498f04b1ee0.docx\"},{\"Id\":2770339,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"4 ва 4а шакллари\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.53,\"Description\":\"Қўшимча баллар харид предметининг бевосита функционал вазифасининг фақат техник параметрларини кўриб чиқиш якунлари бўйича берилади. Агар таклиф этилаётган параметрлар техник топшириқ талабларидан юқори бўлса.\\r\\n(юқорироқ сифатли маҳсулот олиш мақсадида)\\r\\nТакомиллаштирилган дизайн, ташқи кўриниш ва бошқаларга тегишли параметрлар (таклиф этилаётган ускунанинг тўлақонли ишлаши учун зарур бўлганларидан ташқари, техник топшириқда кўрсатилмаган қўшимча аксессуарлар, комплектация) кўриб чиқилмайди. (0 ёки 2 балл).\\r\\nУскунанинг муҳим функционал параметрларини яхшилайдиган қўшимча хусусиятлар мавжуд бўлган тақдирда, белгиланган баҳолаш мезонларига мувофиқ Экспертлар гуруҳи томонидан қўшимча балл берилиши мумкин.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"4а шакл\",\"Form_File_Path\":\"tender/user-files/2026/10/14/0a45b165-7efd-4c27-80a0-75ecc4abce41.docx\"},{\"Id\":2770340,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Сертификат\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":5.26,\"Description\":\"Тиббиёт маҳсулотларини сертификатлаштириш бўйича халқаро органлар томонидан берилган товар сертификатларининг мавжудлиги (сифатли маҳсулот олиш мақсадида)\\r\\nCE сертификати мавжуд бўлганда – 1 балл.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770341,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Кафолат хати\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":5.26,\"Description\":\"Белгиланган муддатдан ортиқ кафолатли хизмат муддатининг мавжудлиги (0 ёки 1 балл). Қўшимча кафолат муддати бўлмаган тақдирда – 0 балл. Белгиланган муддатдан камида 12 ой ортиқ бўлганда – 1 балл.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770342,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Кафолат хати\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.53,\"Description\":\"Етказиб бериш муддати (қўшимча равишда берилади). Етказиб бериш муддати қисқартирилмаганда – 0 балл. Етказиб бериш муддатлари белгиланган муддатнинг камида 50 фоизга қисқартирилганда – 1 балл. Етказиб бериш муддатлари белгиланган муддатнинг камида 75 фоизга қисқартирилганда – 2 балл.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Етказиб бериш муддатлари белгиланган муддатнинг камида 75 фоизга қисқартирилганда.\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Етказиб бериш муддатлари белгиланган муддатнинг камида 50 фоизга қисқартирилганда\"}],\"Form_Name\":null,\"Form_File_Path\":\"tender/user-files/2026/10/14/fd532093-afa3-41cd-80e7-6346e1dbfe1b.docx\"},{\"Id\":2770343,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"5-шакл\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":5.26,\"Description\":\"Ишлаб чиқарувчи завод авторизациясининг мавжудлиги (харид иштирокчиси таклиф этилаётган товар ишлаб чиқарувчиси бўлмаган тақдирда). Авторизация мавжуд бўлмаса – 0 балл. Авторизация мавжудлиги – 1 балл. Харид иштирокчиси таклиф этилаётган товарнинг ишлаб чиқарувчиси бўлмаган тақдирда, ишлаб чиқарувчи томонидан берилган ваколатни тасдиқловчи ҳужжат\\r\\n5-шаклга мувофиқ тақдим этилади. Мазкур ҳужжат тақдим этилмаган тақдирда, иштирокчи харидда иштирок этишдан четлаштирилади.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Авторизация\",\"Form_File_Path\":\"tender/user-files/2026/10/14/778190c5-401c-49be-997b-37dcf1c46573.docx\"},{\"Id\":2770344,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":null,\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.53,\"Description\":\"Ўзбекистон Республикасида сервис марказининг мавжудлиги. Хизмат кўрсатиш маркази бўлмаган тақдирда – 0 балл. Шартнома асосида хизмат кўрсатувчи сервис маркази мавжуд бўлганда (аутсорсинг) – 1 балл. Иштирокчининг ўз хизмат кўрсатиш маркази мавжуд бўлганда – 2 балл.\\r\\nЎзбекистон Республикасида рўйхатдан ўтган юридик шахс тўғрисидаги маълумотлар (тўлиқ номи, юридик манзили, СТИР ва алоқа маълумотлари), шунингдек, шартнома асосида сервис хизматларини кўрсатувчи сервис маркази билан тузилган шартнома нусхаси ҳамда сервис маркази тўғрисидаги маълумотлар (номи, манзили ва алоқа маълумотлари) тақдим этилади. Агар харид қилинаётган товар бўйича сервис хизматларини кўрсатиш учун қонунчилик ҳужжатларига мувофиқ лицензия талаб этилса, етказиб берувчи томонидан ваколатли органлар томонидан берилган тегишли лицензия тақдим этилиши шарт. Хусусан, рентген ва МСКТ каби тиббий жиҳозлари ҳамда ионлаштирувчи нурланиш манбалари билан боғлиқ техник хизмат кўрсатиш фаолияти учун қонунчиликда белгиланган тартибда олинган тегишли лицензиялар тақдим этилади.\\r\\nАгар мазкур талаб этилган ҳужжатлар мавжуд бўлмаса, иштирокчи харидда қатнашишдан четлаштирилади.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Иштирокчининг ўз хизмат кўрсатиш маркази мавжуд бўлганда\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Шартнома асосида хизмат кўрсатувчи сервис маркази мавжуд бўлганда (аутсорсинг)\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1109878,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": "Техник, молиявий, моддий ва кадрлар ресурсларининг мавжудлиги тўғрисида ҳужжатлар (сўнги марта солиқ органларига тақдим этилган молиявий ҳисоботлар (бухгалтерия баланси, молиявий натижалар тўғрисида) тақдим этилади.\r\nАгар ушбу ҳужжатлар бўлмаса, иштирокчи харидда қатнашишдан четлаштирилади.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109879,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": "Давлат рўйхатидан ўтганлиги тўғрисидаги маълумотлар (давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома).",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109880,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": "Солиқ органлари томонидан тақдим этилган ёки ҳақиқатда солиқлардан қарздорлиги мавжуд эмаслиги тўғрисида ваколатли орган томонидан тақдим этилган расмий ҳужжат.\r\nТақдим этилмаса ёки қарздорлиги мавжуд ҳолатларда иштирокчи кейинги босқичга қўйилмайди.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109881,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "1-шаклга мувофиқ расмийлаштирилади.\r\nТақдим этилмаса иштирокчи кейинги босқичга қўйилмайди.",
+   "file_path": "tender/user-files/2026/10/14/7df80af8-95a6-4f75-9951-f784477896b0.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109882,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "Инсофсиз ижрочиларнинг ягона реестрида мавжуд эмаслиги тўғрисида маълумот. \r\nТақдим этилмаса ёки реестрда мавжуд ҳолатларда иштирокчи кейинги босқичга қўйилмайди.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109883,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": "Ўзбекистон Республикаси Бош прокуратураси ҳузуридаги Мажбурий ижро бюросининг маълумотлар базасида иштирокчининг суд қарорлари бўйича бажарилмаган мажбуриятлари мавжуд эмаслиги тўғрисида маълумот. \r\nТақдим этилмаса ёки мажбуриятлари мавжуд ҳолатларда иштирокчи кейинги босқичга қўйилмайди.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109884,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 7,
+   "description": "1-шаклга мувофиқ расмийлаштирилади.\r\nТақдим этилмаса иштирокчи кейинги босқичга қўйилмайди.",
+   "file_path": "tender/user-files/2026/10/14/219aaf65-4811-4e28-876c-bcecb0f7a369.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109885,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 8,
+   "description": "1-шаклга мувофиқ расмийлаштирилади.\r\nТақдим этилмаса иштирокчи кейинги босқичга қўйилмайди.",
+   "file_path": "tender/user-files/2026/10/14/5d8ca962-74eb-40b0-b287-18daa7f7470b.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109886,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 9,
+   "description": "2-шакл ва 2а-шаклга мувофиқ расмийлаштирилган маълумотлар асосида ўрганилади. Агар ушбу шакллар тақдим этилмаса ёки манфаатлар тўқнашуви ва аффилланганлик ҳолатлари аниқланганда иштирокчи кейинги босқичга қўйилмайди.",
+   "file_path": "tender/user-files/2026/10/14/6a32f8c3-d55a-4d65-bc6d-38c24636d54c.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109887,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 10,
+   "description": "3-шаклга мувофиқ расмийлаштирилади.\r\nТақдим этилмаса иштирокчи кейинги босқичга қўйилмайди.",
+   "file_path": "tender/user-files/2026/10/14/823553e1-2dd7-4621-ace1-3a4dedffce52.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1109878,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":\"Техник, молиявий, моддий ва кадрлар ресурсларининг мавжудлиги тўғрисида ҳужжатлар (сўнги марта солиқ органларига тақдим этилган молиявий ҳисоботлар (бухгалтерия баланси, молиявий натижалар тўғрисида) тақдим этилади.\\r\\nАгар ушбу ҳужжатлар бўлмаса, иштирокчи харидда қатнашишдан четлаштирилади.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109879,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":\"Давлат рўйхатидан ўтганлиги тўғрисидаги маълумотлар (давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома).\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109880,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"Солиқ органлари томонидан тақдим этилган ёки ҳақиқатда солиқлардан қарздорлиги мавжуд эмаслиги тўғрисида ваколатли орган томонидан тақдим этилган расмий ҳужжат.\\r\\nТақдим этилмаса ёки қарздорлиги мавжуд ҳолатларда иштирокчи кейинги босқичга қўйилмайди.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109881,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"1-шаклга мувофиқ расмийлаштирилади.\\r\\nТақдим этилмаса иштирокчи кейинги босқичга қўйилмайди.\",\"File_Path\":\"tender/user-files/2026/10/14/7df80af8-95a6-4f75-9951-f784477896b0.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109882,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"Инсофсиз ижрочиларнинг ягона реестрида мавжуд эмаслиги тўғрисида маълумот. \\r\\nТақдим этилмаса ёки реестрда мавжуд ҳолатларда иштирокчи кейинги босқичга қўйилмайди.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109883,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"Ўзбекистон Республикаси Бош прокуратураси ҳузуридаги Мажбурий ижро бюросининг маълумотлар базасида иштирокчининг суд қарорлари бўйича бажарилмаган мажбуриятлари мавжуд эмаслиги тўғрисида маълумот. \\r\\nТақдим этилмаса ёки мажбуриятлари мавжуд ҳолатларда иштирокчи кейинги босқичга қўйилмайди.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109884,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":7,\"Description\":\"1-шаклга мувофиқ расмийлаштирилади.\\r\\nТақдим этилмаса иштирокчи кейинги босқичга қўйилмайди.\",\"File_Path\":\"tender/user-files/2026/10/14/219aaf65-4811-4e28-876c-bcecb0f7a369.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109885,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":8,\"Description\":\"1-шаклга мувофиқ расмийлаштирилади.\\r\\nТақдим этилмаса иштирокчи кейинги босқичга қўйилмайди.\",\"File_Path\":\"tender/user-files/2026/10/14/5d8ca962-74eb-40b0-b287-18daa7f7470b.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109886,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":9,\"Description\":\"2-шакл ва 2а-шаклга мувофиқ расмийлаштирилган маълумотлар асосида ўрганилади. Агар ушбу шакллар тақдим этилмаса ёки манфаатлар тўқнашуви ва аффилланганлик ҳолатлари аниқланганда иштирокчи кейинги босқичга қўйилмайди.\",\"File_Path\":\"tender/user-files/2026/10/14/6a32f8c3-d55a-4d65-bc6d-38c24636d54c.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109887,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":10,\"Description\":\"3-шаклга мувофиқ расмийлаштирилади.\\r\\nТақдим этилмаса иштирокчи кейинги босқичга қўйилмайди.\",\"File_Path\":\"tender/user-files/2026/10/14/823553e1-2dd7-4621-ace1-3a4dedffce52.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 496725,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Алмазарский район",
+ "delivering_address": "Кичик халқа йўли, 25",
+ "delivering_phone": "555085500",
+ "addon_description": "1. Бошланғич нарх ҚҚС ва бошқа харажатлар билан 475 000 000 (тўрт юз йигирма беш миллион) сўмни, ҚҚСсиз ва бошқа харажатларсиз  421 321 855,44 (тўрт юз йигирма бир миллион уч юз йигирма бир минг саккиз юз эллик беш  сўм 44 тийин) сўмни ташкил этади. Хорижий етказиб берувчилар учун ҚҚСсиз ва бошқа харажатларсиз нарх бошланғич нарх ҳисобланади. Хариднинг бошланғич нархи дастлабки чегараланган нарх ҳисобланади ва харид қилиш жараёнлари якунига кўра хариднинг якуний қиймати аниқланади. \r\n2. Ўзбекистон Республикасининг “Давлат харидлари тўғрисида”ги Қонунининг 61-моддасига асосан давлат харидларининг электрон тизими иштирокчи таклиф этган нархнинг бошланғич нархга мувофиқлигини ва электрон майдонларнинг тўлдирилганлигини текширади. Агар иштирокчи томонидан таклиф этилган нарх бошланғич нархдан юқори бўлса, шунингдек бириктирилиши зарур бўлган ҳужжатларни тўлдириш ва жойлаштириш учун мажбурий бўлган бўш майдонлар мавжуд бўлса, давлат харидларининг электрон тизими аниқ сабабни кўрсатган ҳолда, иштирокчининг таклифи рад этилади.",
+ "technical_description": "Техник топшириқда келтирилган техник хусусиятлар таққослаш (йўналтирувчи) кўрсаткичлар ҳисобланиб, тиббий ускунанинг функционал, техник ва сифат хусусиятларини белгилаш мақсадида келтирилган. Иштирокчилар мазкур техник топшириқда кўрсатилган техник хусусиятлардан фарқ қилувчи техник хусусиятларга эга тиббий ускунани таклиф қилишга ҳақли. Бунда таклиф этилаётган тиббий ускуна ўзининг функционал, техник, эксплуатацион ва сифат кўрсаткичлари бўйича техник топшириқ талабларига тенг ёки улардан юқори бўлиши ҳамда ускунанинг функционал мақсади ва буюртмачининг эҳтиёжларига тўлиқ жавоб бериши лозим.\r\nТаклиф этилган тиббий ускунанинг мазкур техник топшириқ талабларига мувофиқлиги иштирокчи томонидан тақдим этилган техник ҳужжатлар, техник хусусиятлар, мувофиқликни тасдиқловчи ҳужжатлар ва бошқа тегишли материаллар асосида экспертлар томонидан баҳоланади.",
+ "tech_coef": 60.0,
+ "cost_coef": 40.0,
+ "old_id": 522470,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Ўзбекистон Республикаси , 100118, Ташкент шаҳар, Юнусобод тумани, 6 мавзе, Туркистон МФЙ, 17-Б",
+ "customer_zip": "00000",
+ "min_point": 12,
+ "financing_source": null,
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 39505.6,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081889,
+     "converted_price": 7901.12,
+     "converted_cost": 39505.6
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 35884.83,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081889,
+     "converted_price": 7176.96,
+     "converted_cost": 35884.83
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 3263707.57,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081889,
+     "converted_price": 652741.51,
+     "converted_cost": 3263707.57
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 475000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081889,
+     "converted_price": 95000000.0,
+     "converted_cost": 475000000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

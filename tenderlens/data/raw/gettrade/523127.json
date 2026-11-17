@@ -1,0 +1,1562 @@
+{
+ "id": 523127,
+ "display_no": "26120012523127",
+ "start_date": "2026-11-17T11:44:52",
+ "end_date": "2026-11-24T11:44:52",
+ "clarific_date": "2026-11-24T11:44:52",
+ "start_cost": 466537966.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2073865,\"Order_Num\":42,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092817,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":2585770,\"Cost\":25857700,\"Description\":\"2\\\" o‘lchamli, bosim klassi 150, ko‘tarilgan yuzali flansli (RF) po‘lat zadvijka (Задвижка 2\\\" S-150 RF API 600-1991). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073864,\"Order_Num\":41,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092818,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":6,\"Price\":3184720,\"Cost\":19108320,\"Description\":\"2\\\" o‘lchamli, bosim klassi 300, ko‘tarilgan yuzali flansli (RF) po‘lat zadvijka (Задвижка 2” S-300 RF API 600-1991). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073863,\"Order_Num\":40,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092819,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":24,\"Price\":506143,\"Cost\":12147432,\"Description\":\"3/4\\\" o‘lchamli, bosim klassi 800, payvandlanadigan uchli (SW) po‘lat zadvijka (Задвижка 3/4” S-800 SW API 602-1985). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073862,\"Order_Num\":39,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092820,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":5,\"Price\":4487215,\"Cost\":22436075,\"Description\":\"3\\\" o‘lchamli, bosim klassi 150, RF tipidagi po‘lat zadvijka (Задвижка 3” S-150 RF API 600-1991). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073861,\"Order_Num\":38,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092821,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":4084476,\"Cost\":8168952,\"Description\":\"3\\\" o‘lchamli, bosim klassi 150, RF tipidagi po‘lat ventil (Вентиль Ø3” S-150 RF ANSI B16.10-1986 или API 6D).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073860,\"Order_Num\":37,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092822,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":6013148,\"Cost\":12026296,\"Description\":\"4\\\" o‘lchamli, bosim klassi 150, RF tipidagi po‘lat zadvijka (Задвижка Ø4” S-150 RF ANSI B16.10-1986 или API 6D).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073859,\"Order_Num\":36,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092823,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":6,\"Price\":3270000,\"Cost\":19620000,\"Description\":\"Shartli diametri DN100, nominal bosimi PN16 bo‘lgan flansli po‘lat zadvijka 30с41нж (Задвижка Ду100 Ру16 с КОФ 30с41нж). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2073858,\"Order_Num\":35,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092824,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":1560300,\"Cost\":15603000,\"Description\":\"Shartli diametri DN50, nominal bosimi PN16 bo‘lgan flansli po‘lat zadvijka 30с41нж (Задвижка Ду50 Ру16 с КОФ 30с41нж).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2073857,\"Order_Num\":34,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092825,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":12,\"Price\":2306900,\"Cost\":27682800,\"Description\":\"Shartli diametri DN80, nominal bosimi PN16 bo‘lgan flansli po‘lat zadvijka 30с41нж (Задвижка Ду80 Ру16 с КОФ 30с41нж).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2073856,\"Order_Num\":33,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092826,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":12,\"Price\":5751800,\"Cost\":69021600,\"Description\":\"Shartli diametri DN150, nominal bosimi PN16 bo‘lgan flansli po‘lat zadvijka 30с41нж (Задвижка Ду150 Ру16 с КОФ 30с41нж) – quvur liniyalarida oqimni to‘liq yopish uchun mo‘ljallangan.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2073855,\"Order_Num\":32,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092827,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":7,\"Price\":8073600,\"Cost\":56515200,\"Description\":\"Shartli diametri DN200, nominal bosimi PN16 bo‘lgan flansli po‘lat zadvijka 30с41нж (Задвижка Ду200 Ру16 с КОФ 30с41нж). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2073854,\"Order_Num\":31,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092828,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":1071000,\"Cost\":4284000,\"Description\":\"Shartli diametri DN20, nominal bosimi PN16 bo‘lgan flansli po‘lat zadvijka 30с41нж (Задвижка Ду20 Ру16 с КОФ 30с41нж).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073853,\"Order_Num\":30,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092829,\"Product_Id\":715340,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":654530,\"Cost\":1309060,\"Description\":\"Ko‘tarma tipdagi qaytish klapani DN25 PN16, flansli (Обратный клапан подъемный Ру16 Ду25 с КОФ) – muhitning teskari harakatini oldini olish uchun mo‘ljallangan. \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.11.131-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Тескари клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073852,\"Order_Num\":29,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092843,\"Product_Id\":716924,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":1419800,\"Cost\":2839600,\"Description\":\"To‘rli filtr DN50 PN16, qarshi flanslar, prokladkalar va mahkamlash qismlari komplekti bilan (Фильтр сетчатый DN50 PN16 с комплектом ответных фланцев, прокладок и крепежа) – mexanik aralashmalarni ushlab qolish uchun mo‘ljallangan. \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.99.30.000-00024\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Тўрли фильтр\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2073851,\"Order_Num\":28,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092844,\"Product_Id\":715566,\"Product_Type_Id\":1,\"Quantity\":8,\"Price\":340285,\"Cost\":2722280,\"Description\":\" Shartli diametri DN100, nominal bosimi PN16 bo‘lgan po‘lat flans (Фланец Ду100 Ру16 ГОСТ 12820-80) – quvur liniyalarida flansli ulanishlarni tashkil etish uchun mo‘ljallangan. \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.20.220-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Пўлат гардиш\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073850,\"Order_Num\":27,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092845,\"Product_Id\":715566,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":575185,\"Cost\":2300740,\"Description\":\"Shartli diametri DN150, nominal bosimi PN16 bo‘lgan zanglamaydigan po‘lat flans (Фланец Ду150 Ру16 ГОСТ 12820-80, материал нержавеющая сталь).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.20.220-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Пўлат гардиш\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073849,\"Order_Num\":26,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092846,\"Product_Id\":715566,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":705600,\"Cost\":2822400,\"Description\":\"Shartli diametri DN200, nominal bosimi PN16 bo‘lgan zanglamaydigan po‘lat flans (Фланец Ду200 Ру16 ГОСТ 12820-80, материал нержавеющая сталь) – korroziyaga chidamli, agressiv muhitlarda ishlash uchun mo‘ljallangan.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.20.220-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Пўлат гардиш\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073848,\"Order_Num\":25,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092847,\"Product_Id\":715566,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":88040,\"Cost\":352160,\"Description\":\"Shartli diametri DN25, nominal bosimi PN16 bo‘lgan po‘lat flans (Фланец Ду25 Ру16 ГОСТ 12820-80). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.20.220-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Пўлат гардиш\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073847,\"Order_Num\":24,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092848,\"Product_Id\":715566,\"Product_Type_Id\":1,\"Quantity\":6,\"Price\":200571,\"Cost\":1203426,\"Description\":\"Shartli diametri DN50, nominal bosimi PN16 bo‘lgan zanglamaydigan po‘lat flans (Фланец Ду50 Ру16 ГОСТ 12820-80, материал нержавеющая сталь). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.20.220-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Пўлат гардиш\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073846,\"Order_Num\":23,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092849,\"Product_Id\":715566,\"Product_Type_Id\":1,\"Quantity\":8,\"Price\":297857,\"Cost\":2382856,\"Description\":\"Shartli diametri DN80, nominal bosimi PN16 bo‘lgan zanglamaydigan po‘lat flans (Фланец Ду80 Ру16 ГОСТ 12820-80, материал нержавеющая сталь). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.20.220-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Пўлат гардиш\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073845,\"Order_Num\":22,\"Category_Id\":124049,\"Plangraph_Detail_Id\":24092830,\"Product_Id\":659874,\"Product_Type_Id\":1,\"Quantity\":11,\"Price\":340000,\"Cost\":3740000,\"Description\":\"Po‘lat otvod 90°, 159×6 mm, GOST 17375-2001 (Отвод стальной 90° 159×6 мм ГОСТ 17375-2001).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"42.21.12.150-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Фуқаролик қурилиши соҳасидаги иншоотлар ва қурилиш ишлари\",\"Product_Name\":\"Суюқлик оқимини ўзгартириш қувури\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тур\",\"User_Value\":\"Чоксиз\",\"User_Value_Id\":1,\"Pnum\":3},{\"Property_Name\":\"Материал\",\"User_Value\":\"Кўп легирланган пўлат\",\"User_Value_Id\":1,\"Pnum\":4},{\"Property_Name\":\"Внутренний диаметр, мм\",\"User_Value\":\"109-159\",\"User_Value_Id\":3,\"Pnum\":5},{\"Property_Name\":\"Даража, °\",\"User_Value\":\"90\",\"User_Value_Id\":4,\"Pnum\":6},{\"Property_Name\":\"Қалинлиги, мм\",\"User_Value\":\"6\",\"User_Value_Id\":15,\"Pnum\":7}]},{\"Id\":2073844,\"Order_Num\":21,\"Category_Id\":124049,\"Plangraph_Detail_Id\":24092831,\"Product_Id\":659874,\"Product_Type_Id\":1,\"Quantity\":13,\"Price\":337200,\"Cost\":4383600,\"Description\":\"Po‘lat otvod 90°, 159×5 mm, GOST 17375-2001 (Отвод стальной 90° 159×5 мм ГОСТ 17375-2001). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"42.21.12.150-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Фуқаролик қурилиши соҳасидаги иншоотлар ва қурилиш ишлари\",\"Product_Name\":\"Суюқлик оқимини ўзгартириш қувури\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тур\",\"User_Value\":\"Чоксиз\",\"User_Value_Id\":1,\"Pnum\":3},{\"Property_Name\":\"Материал\",\"User_Value\":\"Кўп легирланган пўлат\",\"User_Value_Id\":1,\"Pnum\":4},{\"Property_Name\":\"Внутренний диаметр, мм\",\"User_Value\":\"109-159\",\"User_Value_Id\":3,\"Pnum\":5},{\"Property_Name\":\"Даража, °\",\"User_Value\":\"90\",\"User_Value_Id\":4,\"Pnum\":6},{\"Property_Name\":\"Қалинлиги, мм\",\"User_Value\":\"5\",\"User_Value_Id\":14,\"Pnum\":7}]},{\"Id\":2073843,\"Order_Num\":20,\"Category_Id\":124049,\"Plangraph_Detail_Id\":24092832,\"Product_Id\":659874,\"Product_Type_Id\":1,\"Quantity\":27,\"Price\":230800,\"Cost\":6231600,\"Description\":\"Po‘lat otvod 90°, 114×6 mm, GOST 17375-2001 (Отвод стальной 90° 114×6 мм ГОСТ 17375-2001).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"42.21.12.150-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Фуқаролик қурилиши соҳасидаги иншоотлар ва қурилиш ишлари\",\"Product_Name\":\"Суюқлик оқимини ўзгартириш қувури\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тур\",\"User_Value\":\"Чоксиз\",\"User_Value_Id\":1,\"Pnum\":3},{\"Property_Name\":\"Материал\",\"User_Value\":\"Кўп легирланган пўлат\",\"User_Value_Id\":1,\"Pnum\":4},{\"Property_Name\":\"Внутренний диаметр, мм\",\"User_Value\":\"109-159\",\"User_Value_Id\":3,\"Pnum\":5},{\"Property_Name\":\"Даража, °\",\"User_Value\":\"90\",\"User_Value_Id\":4,\"Pnum\":6},{\"Property_Name\":\"Қалинлиги, мм\",\"User_Value\":\"6\",\"User_Value_Id\":15,\"Pnum\":7}]},{\"Id\":2073842,\"Order_Num\":19,\"Category_Id\":124049,\"Plangraph_Detail_Id\":24092833,\"Product_Id\":659874,\"Product_Type_Id\":1,\"Quantity\":20,\"Price\":45500,\"Cost\":910000,\"Description\":\"Po‘lat otvod 90°, 57×4 mm, GOST 17375-2001 (Отвод стальной 90° 57×4 мм ГОСТ 17375-2001). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"42.21.12.150-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Фуқаролик қурилиши соҳасидаги иншоотлар ва қурилиш ишлари\",\"Product_Name\":\"Суюқлик оқимини ўзгартириш қувури\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тур\",\"User_Value\":\"Чоксиз\",\"User_Value_Id\":1,\"Pnum\":3},{\"Property_Name\":\"Материал\",\"User_Value\":\"Кўп легирланган пўлат\",\"User_Value_Id\":1,\"Pnum\":4},{\"Property_Name\":\"Внутренний диаметр, мм\",\"User_Value\":\"12-57\",\"User_Value_Id\":1,\"Pnum\":5},{\"Property_Name\":\"Даража, °\",\"User_Value\":\"90\",\"User_Value_Id\":4,\"Pnum\":6},{\"Property_Name\":\"Қалинлиги, мм\",\"User_Value\":\"4\",\"User_Value_Id\":13,\"Pnum\":7}]},{\"Id\":2073841,\"Order_Num\":18,\"Category_Id\":124049,\"Plangraph_Detail_Id\":24092834,\"Product_Id\":659874,\"Product_Type_Id\":1,\"Quantity\":18,\"Price\":134710,\"Cost\":2424780,\"Description\":\"Po‘lat otvod 90°, 89×5 mm, GOST 17375-2001 (Отвод стальной 90° 89×5 мм ГОСТ 17375-2001). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"42.21.12.150-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Фуқаролик қурилиши соҳасидаги иншоотлар ва қурилиш ишлари\",\"Product_Name\":\"Суюқлик оқимини ўзгартириш қувури\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тур\",\"User_Value\":\"Чоксиз\",\"User_Value_Id\":1,\"Pnum\":3},{\"Property_Name\":\"Материал\",\"User_Value\":\"Кўп легирланган пўлат\",\"User_Value_Id\":1,\"Pnum\":4},{\"Property_Name\":\"Внутренний диаметр, мм\",\"User_Value\":\"58-108\",\"User_Value_Id\":2,\"Pnum\":5},{\"Property_Name\":\"Даража, °\",\"User_Value\":\"90\",\"User_Value_Id\":4,\"Pnum\":6},{\"Property_Name\":\"Қалинлиги, мм\",\"User_Value\":\"5\",\"User_Value_Id\":14,\"Pnum\":7}]},{\"Id\":2073840,\"Order_Num\":17,\"Category_Id\":124049,\"Plangraph_Detail_Id\":24092835,\"Product_Id\":659874,\"Product_Type_Id\":1,\"Quantity\":35,\"Price\":760000,\"Cost\":26600000,\"Description\":\"Po‘lat otvod 90°, 219×7 mm, GOST 17375-2001 (Отвод стальной 90° 219×7 мм ГОСТ 17375-2001) – quvur yo‘nalishini 90° ga o‘zgartirish uchun mo‘ljallangan. \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"42.21.12.150-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Фуқаролик қурилиши соҳасидаги иншоотлар ва қурилиш ишлари\",\"Product_Name\":\"Суюқлик оқимини ўзгартириш қувури\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тур\",\"User_Value\":\"Чоксиз\",\"User_Value_Id\":1,\"Pnum\":3},{\"Property_Name\":\"Материал\",\"User_Value\":\"Кўп легирланган пўлат\",\"User_Value_Id\":1,\"Pnum\":4},{\"Property_Name\":\"Внутренний диаметр, мм\",\"User_Value\":\"109-273\",\"User_Value_Id\":4,\"Pnum\":5},{\"Property_Name\":\"Даража, °\",\"User_Value\":\"90\",\"User_Value_Id\":4,\"Pnum\":6},{\"Property_Name\":\"Қалинлиги, мм\",\"User_Value\":\"7\",\"User_Value_Id\":16,\"Pnum\":7}]},{\"Id\":2073839,\"Order_Num\":16,\"Category_Id\":118144,\"Plangraph_Detail_Id\":24092813,\"Product_Id\":710662,\"Product_Type_Id\":1,\"Quantity\":3,\"Price\":26350,\"Cost\":79050,\"Description\":\"Po‘lat zaglushka 57×5 (Заглушка стальная 57×5) – quvur uchlarini germetik yopish uchun mo‘ljallangan. \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"24.20.40.000-00014\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Асосий металлар\",\"Product_Name\":\"Пўлат тиқин\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2073838,\"Order_Num\":15,\"Category_Id\":118144,\"Plangraph_Detail_Id\":24092836,\"Product_Id\":512837,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":413000,\"Cost\":413000,\"Description\":\" Po‘lat konsentrik o‘tish qismi 219×6–114×6, GOST 17378-2001 (Переход 219×6-114×6 ГОСТ 17378-2001). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"24.20.40.000-00006\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Асосий металлар\",\"Product_Name\":\"Пўлат ўтказгич\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073837,\"Order_Num\":14,\"Category_Id\":118144,\"Plangraph_Detail_Id\":24092837,\"Product_Id\":512837,\"Product_Type_Id\":1,\"Quantity\":3,\"Price\":201600,\"Cost\":604800,\"Description\":\"Po‘lat o‘tish qismi K159×8/57×4 (Переход К159×8/57×4) – diametri turlicha bo‘lgan quvurlarni ulash uchun mo‘ljallangan payvandlanuvchi detal.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"24.20.40.000-00006\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Асосий металлар\",\"Product_Name\":\"Пўлат ўтказгич\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073836,\"Order_Num\":13,\"Category_Id\":118144,\"Plangraph_Detail_Id\":24092838,\"Product_Id\":512837,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":40320,\"Cost\":80640,\"Description\":\"Po‘lat o‘tish qismi 38×3–32×3 mm (Переходник 38×3-32×3 мм) – payvandlash orqali ulanadigan quvur elementi.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"24.20.40.000-00006\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Асосий металлар\",\"Product_Name\":\"Пўлат ўтказгич\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073835,\"Order_Num\":12,\"Category_Id\":118144,\"Plangraph_Detail_Id\":24092839,\"Product_Id\":512837,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":45360,\"Cost\":90720,\"Description\":\"Po‘lat o‘tish qismi K57×4–38×4 (Переход К57×4-38×4) – quvur diametrini kamaytirish uchun mo‘ljallangan konsentrik o‘tish qismi.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"24.20.40.000-00006\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Асосий металлар\",\"Product_Name\":\"Пўлат ўтказгич\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073834,\"Order_Num\":11,\"Category_Id\":118144,\"Plangraph_Detail_Id\":24092840,\"Product_Id\":512837,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":39060,\"Cost\":78120,\"Description\":\"Po‘lat o‘tish qismi K57×5–32×3 (Переходник К57×5-32×3) – turli diametrli quvurlarni ulash uchun mo‘ljallangan.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"24.20.40.000-00006\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Асосий металлар\",\"Product_Name\":\"Пўлат ўтказгич\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073833,\"Order_Num\":10,\"Category_Id\":118144,\"Plangraph_Detail_Id\":24092841,\"Product_Id\":458658,\"Product_Type_Id\":1,\"Quantity\":6,\"Price\":72200,\"Cost\":433200,\"Description\":\"Po‘lat troynik 48×3,2 mm (Тройник 48×3,2 мм) – quvur liniyasida oqimni taqsimlash uchun mo‘ljallangan.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"24.52.30.000-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Асосий металлар\",\"Product_Name\":\"Пўлат тройник\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073832,\"Order_Num\":9,\"Category_Id\":118144,\"Plangraph_Detail_Id\":24092842,\"Product_Id\":458658,\"Product_Type_Id\":1,\"Quantity\":7,\"Price\":135700,\"Cost\":949900,\"Description\":\"Po‘lat troynik 57×4 mm, St20 (Тройник 57×4 мм сталь Ст20) – quvur liniyasini tarmoqlash uchun mo‘ljallangan.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"24.52.30.000-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Асосий металлар\",\"Product_Name\":\"Пўлат тройник\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073831,\"Order_Num\":8,\"Category_Id\":118845,\"Plangraph_Detail_Id\":24092803,\"Product_Id\":463755,\"Product_Type_Id\":1,\"Quantity\":100,\"Price\":4425,\"Cost\":442500,\"Description\":\"Gaykasi bilan komplektdagi bolt M10×90 GOST 7805-70, GOST 5915-70 (Болт с гайкой М10×90 ГОСТ 7805-70, ГОСТ 5915-70) – uglerodli po‘latdan tayyorlangan, metrik rezbali bolt va gayka komplekti.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"25.94.11.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тайёр металл буюмлари, машина ва асбоб-ускуналардан ташқари\",\"Product_Name\":\"Олти қиррали қалпоқли болт\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"тўплам\",\"User_Value_Id\":2,\"Pnum\":0},{\"Property_Name\":\"Калит ўлчами, мм\",\"User_Value\":\"10\",\"User_Value_Id\":6,\"Pnum\":2}]},{\"Id\":2073830,\"Order_Num\":7,\"Category_Id\":118845,\"Plangraph_Detail_Id\":24092804,\"Product_Id\":463755,\"Product_Type_Id\":1,\"Quantity\":100,\"Price\":6470,\"Cost\":647000,\"Description\":\"Gaykasi bilan komplektdagi bolt M12×90 GOST 7805-70, GOST 5915-70 (Болт с гайкой М12×90 ГОСТ 7805-70, ГОСТ 5915-70) – metrik rezbali, po‘latdan tayyorlangan mahkamlash elementi.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"25.94.11.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тайёр металл буюмлари, машина ва асбоб-ускуналардан ташқари\",\"Product_Name\":\"Олти қиррали қалпоқли болт\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"тўплам\",\"User_Value_Id\":2,\"Pnum\":0},{\"Property_Name\":\"Калит ўлчами, мм\",\"User_Value\":\"13\",\"User_Value_Id\":8,\"Pnum\":2}]},{\"Id\":2073829,\"Order_Num\":6,\"Category_Id\":118845,\"Plangraph_Detail_Id\":24092805,\"Product_Id\":463755,\"Product_Type_Id\":1,\"Quantity\":50,\"Price\":28700,\"Cost\":1435000,\"Description\":\"Gaykasi bilan komplektdagi bolt M24×80 GOST 7805-70, GOST 5915-70 (Болт с гайкой М24×80 ГОСТ 7805-70, ГОСТ 5915-70) – og‘ir metall konstruksiyalar va armaturalarni mahkamlash uchun mo‘ljallangan.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"25.94.11.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тайёр металл буюмлари, машина ва асбоб-ускуналардан ташқари\",\"Product_Name\":\"Олти қиррали қалпоқли болт\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"тўплам\",\"User_Value_Id\":2,\"Pnum\":0},{\"Property_Name\":\"Калит ўлчами, мм\",\"User_Value\":\"24\",\"User_Value_Id\":17,\"Pnum\":2}]},{\"Id\":2073828,\"Order_Num\":5,\"Category_Id\":118845,\"Plangraph_Detail_Id\":24092806,\"Product_Id\":463755,\"Product_Type_Id\":1,\"Quantity\":100,\"Price\":1840,\"Cost\":184000,\"Description\":\"Gaykasi bilan komplektdagi bolt M8×50 GOST 7805-70, GOST 5915-70 (Болт с гайкой М8×50 ГОСТ 7805-70, ГОСТ 5915-70) – mexanik birikmalarni hosil qilish uchun mo‘ljallangan mahkamlash elementi.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"25.94.11.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тайёр металл буюмлари, машина ва асбоб-ускуналардан ташқари\",\"Product_Name\":\"Олти қиррали қалпоқли болт\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"тўплам\",\"User_Value_Id\":2,\"Pnum\":0},{\"Property_Name\":\"Калит ўлчами, мм\",\"User_Value\":\"8\",\"User_Value_Id\":5,\"Pnum\":2}]},{\"Id\":2073827,\"Order_Num\":4,\"Category_Id\":118845,\"Plangraph_Detail_Id\":24092807,\"Product_Id\":463755,\"Product_Type_Id\":1,\"Quantity\":100,\"Price\":4500,\"Cost\":450000,\"Description\":\"Gaykasi bilan komplektdagi bolt M12×50 GOST 7805-70, GOST 5915-70 (Болт с гайкой М12×50 ГОСТ 7805-70, ГОСТ 5915-70) – olti qirrali boshli bolt va mos gaykadan iborat, po‘lat konstruksiyalarni mahkamlash uchun mo‘ljallangan.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"25.94.11.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тайёр металл буюмлари, машина ва асбоб-ускуналардан ташқари\",\"Product_Name\":\"Олти қиррали қалпоқли болт\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"тўплам\",\"User_Value_Id\":2,\"Pnum\":0},{\"Property_Name\":\"Калит ўлчами, мм\",\"User_Value\":\"13\",\"User_Value_Id\":8,\"Pnum\":2}]},{\"Id\":2073826,\"Order_Num\":3,\"Category_Id\":118845,\"Plangraph_Detail_Id\":24092808,\"Product_Id\":463755,\"Product_Type_Id\":1,\"Quantity\":150,\"Price\":9930,\"Cost\":1489500,\"Description\":\"Gaykasi bilan komplektdagi bolt M16×60 GOST 7805-70, GOST 5915-70 (Болт с гайкой М16×60 ГОСТ 7805-70, ГОСТ 5915-70) – yuqori yuklanishlarda ishlovchi birikmalar uchun mo‘ljallangan.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"25.94.11.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тайёр металл буюмлари, машина ва асбоб-ускуналардан ташқари\",\"Product_Name\":\"Олти қиррали қалпоқли болт\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"тўплам\",\"User_Value_Id\":2,\"Pnum\":0}]},{\"Id\":2073825,\"Order_Num\":2,\"Category_Id\":118845,\"Plangraph_Detail_Id\":24092809,\"Product_Id\":688155,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":87360,\"Cost\":349440,\"Description\":\"Bronza ventil PN15 (Бронзовый вентиль PN15) – suv, bug‘ va boshqa ishchi muhitlarni boshqarish uchun mo‘ljallangan, korpusi bronzadan tayyorlangan.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"25.99.11.192-00002\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тайёр металл буюмлари, машина ва асбоб-ускуналардан ташқари\",\"Product_Name\":\"Бронза вентиль\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073824,\"Order_Num\":1,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092810,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":3182100,\"Cost\":6364200,\"Description\":\"2\\\" o‘lchamli, bosim klassi 150, RF tipidagi po‘lat ventil (Вентиль Ø2\\\" S-150 RF ANSI B16.10-1986 или API 6D) – oqimni boshqarish va tartibga solish uchun mo‘ljallangan. \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073870,\"Order_Num\":47,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092811,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":6457044,\"Cost\":25828176,\"Description\":\"4\\\" o‘lchamli, bosim klassi 150, RF tipidagi po‘lat ventil (Вентиль Ø4” S-150 RF API 600-1991). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073869,\"Order_Num\":46,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092812,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":3,\"Price\":9593122,\"Cost\":28779366,\"Description\":\"6\\\" o‘lchamli, bosim klassi 150, RF tipidagi po‘lat ventil (Вентиль Ø6” S-150 RF API 600-1991). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073868,\"Order_Num\":45,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092814,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":12063000,\"Cost\":12063000,\"Description\":\"Shartli diametri DN250, nominal bosimi PN16 bo‘lgan flansli po‘lat zadvijka 30с41нж (Задвижка Ду250 Ру16 с КОФ 30с41нж). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2073867,\"Order_Num\":44,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092815,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":41,\"Price\":426767,\"Cost\":17497447,\"Description\":\" 1/2\\\" o‘lchamli, bosim klassi 800, payvandlanadigan uchli (SW) po‘lat zadvijka (Задвижка 1/2” S-800 SW API 602-1985) – yuqori bosimli quvur tizimlarida oqimni to‘liq yopish uchun mo‘ljallangan. \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2073866,\"Order_Num\":43,\"Category_Id\":120735,\"Plangraph_Detail_Id\":24092816,\"Product_Id\":715455,\"Product_Type_Id\":1,\"Quantity\":23,\"Price\":677610,\"Cost\":15585030,\"Description\":\" 1\\\" o‘lchamli, bosim klassi 800, payvandlanadigan uchli (SW) po‘lat zadvijka (Задвижка 1” S-800 SW API 602-1985). \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9871136,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"28.14.13.120-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":7,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа гуруҳларга киритилмаган машина ва ускуналар\",\"Product_Name\":\"Сурма клапан\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 2.0,
+ "advance_payment_perc": 0.0,
+ "term_payment_days": 60,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Bo'lim boshlig'i \",\"Fullname\":\"Baqoyev M.M.\"}]",
+ "rest_time": 563947,
+ "customer_name": "\"BUXORO NEFTNI QAYTA ISHLASH ZAVODI\" MCHJ",
+ "customer_tin": "202080378",
+ "payment_type_name": "Оплата по факту",
+ "tech_file_name": "202610295947869970.rar",
+ "tech_file_path": "/files/2026/10/29/202610295947869970.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 17862718.0,
+ "tech_doc_file_name": "20261711172400523127.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711172400523127.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 485390.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610221830607576.docx",
+ "contract_proform_file_path": "/files/2026/10/22/202610221830607576.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 39291.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 6,
+ "nonauthorized_count": 361,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2762836,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "соответсвущие документы",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 11.11,
+   "description": "Tanlov ishtirokchisi tomonidan 2021-yil 22-apreldagi O‘RQ-684-sonli Qonunning 10, 14 va 23-moddalariga muvofiq manfaatlar to‘qnashuviga yo‘l qo‘ymaslik, shu jumladan ishtirokchilarning IP-manzillari bir xil (mos keladigan) holatlarda ishtirok etishiga yo‘l qo‘yilmasligi to‘g‘risida firma blankasida ariza taqdim etilishi.\r\n\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "agar hujjatlarni to'liq taqdim qilsa"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2762837,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "соответсвущие документы",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 11.11,
+   "description": "Ishtirokchi tomonidan asosiy benefisiar egasi (benefitsiar mulkdor) to‘g‘risidagi ma’lumotlarni taqdim etish.\r\n\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "agar hujjatlarni to'liq taqdim qilsa"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2762838,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "соответсвущие документы",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 11.11,
+   "description": "Tanlov ishtirokchisi tomonidan korrupsion holatlarga yo‘l qo‘ymaslik to‘g‘risida ariza taqdim etilishi.\r\n\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "agar hujjatlarni to'liq taqdim qilsa"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2762839,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "соответсвущие документы",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 11.11,
+   "description": "Xarid qilinayotgan tovarni ishlab chiqarish va/yoki yetkazib berish bo‘yicha tajriba\r\n\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "agar hujjatlarni to'liq taqdim qilsa"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2762840,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "соответсвущие документы",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 22.22,
+   "description": "Tovarning texnik xususiyatlarining Texnik topshiriqqa muvofiqligi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "agar hujjatlarni to'liq taqdim qilsa"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2762841,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "соответсвущие документы",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 11.11,
+   "description": "Yetkazib berish shartlari va muddatlariga, shuningdek to‘lov shartlariga muvofiqligi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "agar hujjatlarni to'liq taqdim qilsa"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2762842,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Кафолат бўйича талаблар (муддати, жойи)",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "соответсвущие документы",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 11.11,
+   "description": "Kontragent anketasi shakli",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "agar hujjatlarni to'liq taqdim qilsa"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2762843,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "соответсвущие документы",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 11.11,
+   "description": "Sanksiya ro‘yxatlarida korxonani yoki uning ustav kapitalining kamida 50% ulushiga bevosita yoki bilvosita egalik qiluvchi yoki uni nazorat qiluvchi shaxslar mavjud emasligini tasdiqlovchi hujjat.\r\n\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "agar hujjatlarni to'liq taqdim qilsa"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2762836,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"соответсвущие документы\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":11.11,\"Description\":\"Tanlov ishtirokchisi tomonidan 2021-yil 22-apreldagi O‘RQ-684-sonli Qonunning 10, 14 va 23-moddalariga muvofiq manfaatlar to‘qnashuviga yo‘l qo‘ymaslik, shu jumladan ishtirokchilarning IP-manzillari bir xil (mos keladigan) holatlarda ishtirok etishiga yo‘l qo‘yilmasligi to‘g‘risida firma blankasida ariza taqdim etilishi.\\r\\n\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"agar hujjatlarni to'liq taqdim qilsa\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2762837,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"соответсвущие документы\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":11.11,\"Description\":\"Ishtirokchi tomonidan asosiy benefisiar egasi (benefitsiar mulkdor) to‘g‘risidagi ma’lumotlarni taqdim etish.\\r\\n\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"agar hujjatlarni to'liq taqdim qilsa\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2762838,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"соответсвущие документы\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":11.11,\"Description\":\"Tanlov ishtirokchisi tomonidan korrupsion holatlarga yo‘l qo‘ymaslik to‘g‘risida ariza taqdim etilishi.\\r\\n\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"agar hujjatlarni to'liq taqdim qilsa\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2762839,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"соответсвущие документы\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":11.11,\"Description\":\"Xarid qilinayotgan tovarni ishlab chiqarish va/yoki yetkazib berish bo‘yicha tajriba\\r\\n\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"agar hujjatlarni to'liq taqdim qilsa\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2762840,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"соответсвущие документы\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":22.22,\"Description\":\"Tovarning texnik xususiyatlarining Texnik topshiriqqa muvofiqligi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"agar hujjatlarni to'liq taqdim qilsa\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2762841,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"соответсвущие документы\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":11.11,\"Description\":\"Yetkazib berish shartlari va muddatlariga, shuningdek to‘lov shartlariga muvofiqligi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"agar hujjatlarni to'liq taqdim qilsa\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2762842,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Кафолат бўйича талаблар (муддати, жойи)\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"соответсвущие документы\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":11.11,\"Description\":\"Kontragent anketasi shakli\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"agar hujjatlarni to'liq taqdim qilsa\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2762843,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг сифат кафолатларига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"соответсвущие документы\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":11.11,\"Description\":\"Sanksiya ro‘yxatlarida korxonani yoki uning ustav kapitalining kamida 50% ulushiga bevosita yoki bilvosita egalik qiluvchi yoki uni nazorat qiluvchi shaxslar mavjud emasligini tasdiqlovchi hujjat.\\r\\n\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"agar hujjatlarni to'liq taqdim qilsa\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1099221,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1099222,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1099223,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1099224,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1099225,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1099226,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1099221,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1099222,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1099223,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1099224,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1099225,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1099226,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 1982,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Бухарская область",
+ "delivering_district_name": "Караулбазарский район",
+ "delivering_address": "Бухарский область, Караулбазарский район, ул. Мустакиллик №1 (склад ООО \"Бухарский НПЗ\")",
+ "delivering_phone": "947447071",
+ "addon_description": "Texnik topshiriq talablariga muvofiq texnik taklif taqdim etilmasligi, shuningdek ilova qilingan fayllarda ko‘rsatilgan talablarga muvofiq tasdiqlovchi hujjatlar bilan birga malakaviy hujjatlarning to‘liq hajmda taqdim etilmasligi ishtirokchilarning narx takliflarini baholash bosqichiga qo‘yilmasligi uchun asos bo‘ladi. Shu munosabat bilan, barcha ishtirokchilar talab etilgan hujjatlarni (malakaviy hujjatlar, texnik taklif, ishlab chiqaruvchi zavodning ishonchnomasi, sertifikatlar va boshqa hujjatlar) to‘liq hajmda hamda belgilangan talablarga muvofiq taqdim etishlari lozim. Bundan tashqari, takliflar ishtirokchilar tomonidan eng past narxda taqdim etilishi kerak, chunki mazkur portalda chegirma so‘rash mexanizmi nazarda tutilmagan. Narxlar barcha xarajatlar, soliqlar va yig‘imlarni inobatga olgan holda ko‘rsatilishi shart.\r\n\r\n",
+ "technical_description": "Товар должен соответствовать всем техническим требованиям, параметрам и комплектации указанным в \"Техническом задании\" в приложенном файле",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 522529,
+ "customer_region_name": "Buxoro viloyati",
+ "customer_district_name": "Buxoro viloyati",
+ "customer_street": "Бухарская область Караулбазарский район, ул. Мустакиллик 1..",
+ "customer_zip": "100090",
+ "min_point": 8,
+ "financing_source": "o'z mablag'lari hisobidan",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 3205565.24,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2073865,
+     "converted_price": 17766.73,
+     "converted_cost": 177667.3
+    },
+    {
+     "lot_detail_id": 2073866,
+     "converted_price": 4655.83,
+     "converted_cost": 107084.16
+    },
+    {
+     "lot_detail_id": 2073867,
+     "converted_price": 2932.3,
+     "converted_cost": 120224.31
+    },
+    {
+     "lot_detail_id": 2073868,
+     "converted_price": 82884.43,
+     "converted_cost": 82884.43
+    },
+    {
+     "lot_detail_id": 2073869,
+     "converted_price": 65913.98,
+     "converted_cost": 197741.96
+    },
+    {
+     "lot_detail_id": 2073870,
+     "converted_price": 44366.11,
+     "converted_cost": 177464.44
+    },
+    {
+     "lot_detail_id": 2073824,
+     "converted_price": 21864.09,
+     "converted_cost": 43728.18
+    },
+    {
+     "lot_detail_id": 2073825,
+     "converted_price": 600.24,
+     "converted_cost": 2400.98
+    },
+    {
+     "lot_detail_id": 2073826,
+     "converted_price": 68.22,
+     "converted_cost": 10234.29
+    },
+    {
+     "lot_detail_id": 2073827,
+     "converted_price": 30.91,
+     "converted_cost": 3091.93
+    },
+    {
+     "lot_detail_id": 2073828,
+     "converted_price": 12.64,
+     "converted_cost": 1264.25
+    },
+    {
+     "lot_detail_id": 2073829,
+     "converted_price": 197.19,
+     "converted_cost": 9859.83
+    },
+    {
+     "lot_detail_id": 2073830,
+     "converted_price": 44.45,
+     "converted_cost": 4445.51
+    },
+    {
+     "lot_detail_id": 2073831,
+     "converted_price": 30.4,
+     "converted_cost": 3040.4
+    },
+    {
+     "lot_detail_id": 2073832,
+     "converted_price": 932.38,
+     "converted_cost": 6526.72
+    },
+    {
+     "lot_detail_id": 2073833,
+     "converted_price": 496.08,
+     "converted_cost": 2976.5
+    },
+    {
+     "lot_detail_id": 2073834,
+     "converted_price": 268.37,
+     "converted_cost": 536.75
+    },
+    {
+     "lot_detail_id": 2073835,
+     "converted_price": 311.66,
+     "converted_cost": 623.33
+    },
+    {
+     "lot_detail_id": 2073836,
+     "converted_price": 277.03,
+     "converted_cost": 554.07
+    },
+    {
+     "lot_detail_id": 2073837,
+     "converted_price": 1385.18,
+     "converted_cost": 4155.55
+    },
+    {
+     "lot_detail_id": 2073838,
+     "converted_price": 2837.7,
+     "converted_cost": 2837.7
+    },
+    {
+     "lot_detail_id": 2073839,
+     "converted_price": 181.04,
+     "converted_cost": 543.14
+    },
+    {
+     "lot_detail_id": 2073840,
+     "converted_price": 5221.93,
+     "converted_cost": 182767.62
+    },
+    {
+     "lot_detail_id": 2073841,
+     "converted_price": 925.58,
+     "converted_cost": 16660.57
+    },
+    {
+     "lot_detail_id": 2073842,
+     "converted_price": 312.62,
+     "converted_cost": 6252.57
+    },
+    {
+     "lot_detail_id": 2073843,
+     "converted_price": 1585.81,
+     "converted_cost": 42817.09
+    },
+    {
+     "lot_detail_id": 2073844,
+     "converted_price": 2316.88,
+     "converted_cost": 30119.55
+    },
+    {
+     "lot_detail_id": 2073845,
+     "converted_price": 2336.12,
+     "converted_cost": 25697.4
+    },
+    {
+     "lot_detail_id": 2073846,
+     "converted_price": 2046.56,
+     "converted_cost": 16372.51
+    },
+    {
+     "lot_detail_id": 2073847,
+     "converted_price": 1378.11,
+     "converted_cost": 8268.69
+    },
+    {
+     "lot_detail_id": 2073848,
+     "converted_price": 604.91,
+     "converted_cost": 2419.67
+    },
+    {
+     "lot_detail_id": 2073849,
+     "converted_price": 4848.15,
+     "converted_cost": 19392.6
+    },
+    {
+     "lot_detail_id": 2073850,
+     "converted_price": 3952.07,
+     "converted_cost": 15808.3
+    },
+    {
+     "lot_detail_id": 2073851,
+     "converted_price": 2338.08,
+     "converted_cost": 18704.68
+    },
+    {
+     "lot_detail_id": 2073852,
+     "converted_price": 9755.39,
+     "converted_cost": 19510.78
+    },
+    {
+     "lot_detail_id": 2073853,
+     "converted_price": 4497.25,
+     "converted_cost": 8994.5
+    },
+    {
+     "lot_detail_id": 2073854,
+     "converted_price": 7358.8,
+     "converted_cost": 29435.2
+    },
+    {
+     "lot_detail_id": 2073855,
+     "converted_price": 55473.4,
+     "converted_cost": 388313.86
+    },
+    {
+     "lot_detail_id": 2073856,
+     "converted_price": 39520.4,
+     "converted_cost": 474244.88
+    },
+    {
+     "lot_detail_id": 2073857,
+     "converted_price": 15850.62,
+     "converted_cost": 190207.5
+    },
+    {
+     "lot_detail_id": 2073858,
+     "converted_price": 10720.76,
+     "converted_cost": 107207.64
+    },
+    {
+     "lot_detail_id": 2073859,
+     "converted_price": 22468.05,
+     "converted_cost": 134808.3
+    },
+    {
+     "lot_detail_id": 2073860,
+     "converted_price": 41316.11,
+     "converted_cost": 82632.23
+    },
+    {
+     "lot_detail_id": 2073861,
+     "converted_price": 28064.28,
+     "converted_cost": 56128.56
+    },
+    {
+     "lot_detail_id": 2073862,
+     "converted_price": 30831.48,
+     "converted_cost": 154157.44
+    },
+    {
+     "lot_detail_id": 2073863,
+     "converted_price": 3477.68,
+     "converted_cost": 83464.55
+    },
+    {
+     "lot_detail_id": 2073864,
+     "converted_price": 21882.09,
+     "converted_cost": 131292.56
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 466537966.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2073865,
+     "converted_price": 2585770.0,
+     "converted_cost": 25857700.0
+    },
+    {
+     "lot_detail_id": 2073866,
+     "converted_price": 677610.0,
+     "converted_cost": 15585030.0
+    },
+    {
+     "lot_detail_id": 2073867,
+     "converted_price": 426767.0,
+     "converted_cost": 17497447.0
+    },
+    {
+     "lot_detail_id": 2073868,
+     "converted_price": 12063000.0,
+     "converted_cost": 12063000.0
+    },
+    {
+     "lot_detail_id": 2073869,
+     "converted_price": 9593122.0,
+     "converted_cost": 28779366.0
+    },
+    {
+     "lot_detail_id": 2073870,
+     "converted_price": 6457044.0,
+     "converted_cost": 25828176.0
+    },
+    {
+     "lot_detail_id": 2073824,
+     "converted_price": 3182100.0,
+     "converted_cost": 6364200.0
+    },
+    {
+     "lot_detail_id": 2073825,
+     "converted_price": 87360.0,
+     "converted_cost": 349440.0
+    },
+    {
+     "lot_detail_id": 2073826,
+     "converted_price": 9930.0,
+     "converted_cost": 1489500.0
+    },
+    {
+     "lot_detail_id": 2073827,
+     "converted_price": 4500.0,
+     "converted_cost": 450000.0
+    },
+    {
+     "lot_detail_id": 2073828,
+     "converted_price": 1840.0,
+     "converted_cost": 184000.0
+    },
+    {
+     "lot_detail_id": 2073829,
+     "converted_price": 28700.0,
+     "converted_cost": 1435000.0
+    },
+    {
+     "lot_detail_id": 2073830,
+     "converted_price": 6470.0,
+     "converted_cost": 647000.0
+    },
+    {
+     "lot_detail_id": 2073831,
+     "converted_price": 4425.0,
+     "converted_cost": 442500.0
+    },
+    {
+     "lot_detail_id": 2073832,
+     "converted_price": 135700.0,
+     "converted_cost": 949900.0
+    },
+    {
+     "lot_detail_id": 2073833,
+     "converted_price": 72200.0,
+     "converted_cost": 433200.0
+    },
+    {
+     "lot_detail_id": 2073834,
+     "converted_price": 39060.0,
+     "converted_cost": 78120.0
+    },
+    {
+     "lot_detail_id": 2073835,
+     "converted_price": 45360.0,
+     "converted_cost": 90720.0
+    },
+    {
+     "lot_detail_id": 2073836,
+     "converted_price": 40320.0,
+     "converted_cost": 80640.0
+    },
+    {
+     "lot_detail_id": 2073837,
+     "converted_price": 201600.0,
+     "converted_cost": 604800.0
+    },
+    {
+     "lot_detail_id": 2073838,
+     "converted_price": 413000.0,
+     "converted_cost": 413000.0
+    },
+    {
+     "lot_detail_id": 2073839,
+     "converted_price": 26350.0,
+     "converted_cost": 79050.0
+    },
+    {
+     "lot_detail_id": 2073840,
+     "converted_price": 760000.0,
+     "converted_cost": 26600000.0
+    },
+    {
+     "lot_detail_id": 2073841,
+     "converted_price": 134710.0,
+     "converted_cost": 2424780.0
+    },
+    {
+     "lot_detail_id": 2073842,
+     "converted_price": 45500.0,
+     "converted_cost": 910000.0
+    },
+    {
+     "lot_detail_id": 2073843,
+     "converted_price": 230800.0,
+     "converted_cost": 6231600.0
+    },
+    {
+     "lot_detail_id": 2073844,
+     "converted_price": 337200.0,
+     "converted_cost": 4383600.0
+    },
+    {
+     "lot_detail_id": 2073845,
+     "converted_price": 340000.0,
+     "converted_cost": 3740000.0
+    },
+    {
+     "lot_detail_id": 2073846,
+     "converted_price": 297857.0,
+     "converted_cost": 2382856.0
+    },
+    {
+     "lot_detail_id": 2073847,
+     "converted_price": 200571.0,
+     "converted_cost": 1203426.0
+    },
+    {
+     "lot_detail_id": 2073848,
+     "converted_price": 88040.0,
+     "converted_cost": 352160.0
+    },
+    {
+     "lot_detail_id": 2073849,
+     "converted_price": 705600.0,
+     "converted_cost": 2822400.0
+    },
+    {
+     "lot_detail_id": 2073850,
+     "converted_price": 575185.0,
+     "converted_cost": 2300740.0
+    },
+    {
+     "lot_detail_id": 2073851,
+     "converted_price": 340285.0,
+     "converted_cost": 2722280.0
+    },
+    {
+     "lot_detail_id": 2073852,
+     "converted_price": 1419800.0,
+     "converted_cost": 2839600.0
+    },
+    {
+     "lot_detail_id": 2073853,
+     "converted_price": 654530.0,
+     "converted_cost": 1309060.0
+    },
+    {
+     "lot_detail_id": 2073854,
+     "converted_price": 1071000.0,
+     "converted_cost": 4284000.0
+    },
+    {
+     "lot_detail_id": 2073855,
+     "converted_price": 8073600.0,
+     "converted_cost": 56515200.0
+    },
+    {
+     "lot_detail_id": 2073856,
+     "converted_price": 5751800.0,
+     "converted_cost": 69021600.0
+    },
+    {
+     "lot_detail_id": 2073857,
+     "converted_price": 2306900.0,
+     "converted_cost": 27682800.0
+    },
+    {
+     "lot_detail_id": 2073858,
+     "converted_price": 1560300.0,
+     "converted_cost": 15603000.0
+    },
+    {
+     "lot_detail_id": 2073859,
+     "converted_price": 3270000.0,
+     "converted_cost": 19620000.0
+    },
+    {
+     "lot_detail_id": 2073860,
+     "converted_price": 6013148.0,
+     "converted_cost": 12026296.0
+    },
+    {
+     "lot_detail_id": 2073861,
+     "converted_price": 4084476.0,
+     "converted_cost": 8168952.0
+    },
+    {
+     "lot_detail_id": 2073862,
+     "converted_price": 4487215.0,
+     "converted_cost": 22436075.0
+    },
+    {
+     "lot_detail_id": 2073863,
+     "converted_price": 506143.0,
+     "converted_cost": 12147432.0
+    },
+    {
+     "lot_detail_id": 2073864,
+     "converted_price": 3184720.0,
+     "converted_cost": 19108320.0
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 38801.82,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2073865,
+     "converted_price": 215.05,
+     "converted_cost": 2150.57
+    },
+    {
+     "lot_detail_id": 2073866,
+     "converted_price": 56.35,
+     "converted_cost": 1296.2
+    },
+    {
+     "lot_detail_id": 2073867,
+     "converted_price": 35.49,
+     "converted_cost": 1455.25
+    },
+    {
+     "lot_detail_id": 2073868,
+     "converted_price": 1003.27,
+     "converted_cost": 1003.27
+    },
+    {
+     "lot_detail_id": 2073869,
+     "converted_price": 797.85,
+     "converted_cost": 2393.57
+    },
+    {
+     "lot_detail_id": 2073870,
+     "converted_price": 537.03,
+     "converted_cost": 2148.12
+    },
+    {
+     "lot_detail_id": 2073824,
+     "converted_price": 264.65,
+     "converted_cost": 529.3
+    },
+    {
+     "lot_detail_id": 2073825,
+     "converted_price": 7.26,
+     "converted_cost": 29.06
+    },
+    {
+     "lot_detail_id": 2073826,
+     "converted_price": 0.82,
+     "converted_cost": 123.88
+    },
+    {
+     "lot_detail_id": 2073827,
+     "converted_price": 0.37,
+     "converted_cost": 37.42
+    },
+    {
+     "lot_detail_id": 2073828,
+     "converted_price": 0.15,
+     "converted_cost": 15.3
+    },
+    {
+     "lot_detail_id": 2073829,
+     "converted_price": 2.38,
+     "converted_cost": 119.34
+    },
+    {
+     "lot_detail_id": 2073830,
+     "converted_price": 0.53,
+     "converted_cost": 53.81
+    },
+    {
+     "lot_detail_id": 2073831,
+     "converted_price": 0.36,
+     "converted_cost": 36.8
+    },
+    {
+     "lot_detail_id": 2073832,
+     "converted_price": 11.28,
+     "converted_cost": 79.0
+    },
+    {
+     "lot_detail_id": 2073833,
+     "converted_price": 6.0,
+     "converted_cost": 36.02
+    },
+    {
+     "lot_detail_id": 2073834,
+     "converted_price": 3.24,
+     "converted_cost": 6.49
+    },
+    {
+     "lot_detail_id": 2073835,
+     "converted_price": 3.77,
+     "converted_cost": 7.54
+    },
+    {
+     "lot_detail_id": 2073836,
+     "converted_price": 3.35,
+     "converted_cost": 6.7
+    },
+    {
+     "lot_detail_id": 2073837,
+     "converted_price": 16.76,
+     "converted_cost": 50.3
+    },
+    {
+     "lot_detail_id": 2073838,
+     "converted_price": 34.34,
+     "converted_cost": 34.34
+    },
+    {
+     "lot_detail_id": 2073839,
+     "converted_price": 2.19,
+     "converted_cost": 6.57
+    },
+    {
+     "lot_detail_id": 2073840,
+     "converted_price": 63.2,
+     "converted_cost": 2212.31
+    },
+    {
+     "lot_detail_id": 2073841,
+     "converted_price": 11.2,
+     "converted_cost": 201.66
+    },
+    {
+     "lot_detail_id": 2073842,
+     "converted_price": 3.78,
+     "converted_cost": 75.68
+    },
+    {
+     "lot_detail_id": 2073843,
+     "converted_price": 19.19,
+     "converted_cost": 518.28
+    },
+    {
+     "lot_detail_id": 2073844,
+     "converted_price": 28.04,
+     "converted_cost": 364.58
+    },
+    {
+     "lot_detail_id": 2073845,
+     "converted_price": 28.27,
+     "converted_cost": 311.05
+    },
+    {
+     "lot_detail_id": 2073846,
+     "converted_price": 24.77,
+     "converted_cost": 198.18
+    },
+    {
+     "lot_detail_id": 2073847,
+     "converted_price": 16.68,
+     "converted_cost": 100.08
+    },
+    {
+     "lot_detail_id": 2073848,
+     "converted_price": 7.32,
+     "converted_cost": 29.28
+    },
+    {
+     "lot_detail_id": 2073849,
+     "converted_price": 58.68,
+     "converted_cost": 234.73
+    },
+    {
+     "lot_detail_id": 2073850,
+     "converted_price": 47.83,
+     "converted_cost": 191.35
+    },
+    {
+     "lot_detail_id": 2073851,
+     "converted_price": 28.3,
+     "converted_cost": 226.41
+    },
+    {
+     "lot_detail_id": 2073852,
+     "converted_price": 118.08,
+     "converted_cost": 236.16
+    },
+    {
+     "lot_detail_id": 2073853,
+     "converted_price": 54.43,
+     "converted_cost": 108.87
+    },
+    {
+     "lot_detail_id": 2073854,
+     "converted_price": 89.07,
+     "converted_cost": 356.29
+    },
+    {
+     "lot_detail_id": 2073855,
+     "converted_price": 671.47,
+     "converted_cost": 4700.35
+    },
+    {
+     "lot_detail_id": 2073856,
+     "converted_price": 478.37,
+     "converted_cost": 5740.5
+    },
+    {
+     "lot_detail_id": 2073857,
+     "converted_price": 191.86,
+     "converted_cost": 2302.37
+    },
+    {
+     "lot_detail_id": 2073858,
+     "converted_price": 129.76,
+     "converted_cost": 1297.69
+    },
+    {
+     "lot_detail_id": 2073859,
+     "converted_price": 271.96,
+     "converted_cost": 1631.78
+    },
+    {
+     "lot_detail_id": 2073860,
+     "converted_price": 500.11,
+     "converted_cost": 1000.22
+    },
+    {
+     "lot_detail_id": 2073861,
+     "converted_price": 339.7,
+     "converted_cost": 679.4
+    },
+    {
+     "lot_detail_id": 2073862,
+     "converted_price": 373.2,
+     "converted_cost": 1866.0
+    },
+    {
+     "lot_detail_id": 2073863,
+     "converted_price": 42.09,
+     "converted_cost": 1010.29
+    },
+    {
+     "lot_detail_id": 2073864,
+     "converted_price": 264.87,
+     "converted_cost": 1589.23
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 35245.55,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2073865,
+     "converted_price": 195.34,
+     "converted_cost": 1953.47
+    },
+    {
+     "lot_detail_id": 2073866,
+     "converted_price": 51.19,
+     "converted_cost": 1177.4
+    },
+    {
+     "lot_detail_id": 2073867,
+     "converted_price": 32.24,
+     "converted_cost": 1321.87
+    },
+    {
+     "lot_detail_id": 2073868,
+     "converted_price": 911.32,
+     "converted_cost": 911.32
+    },
+    {
+     "lot_detail_id": 2073869,
+     "converted_price": 724.73,
+     "converted_cost": 2174.19
+    },
+    {
+     "lot_detail_id": 2073870,
+     "converted_price": 487.81,
+     "converted_cost": 1951.24
+    },
+    {
+     "lot_detail_id": 2073824,
+     "converted_price": 240.39,
+     "converted_cost": 480.79
+    },
+    {
+     "lot_detail_id": 2073825,
+     "converted_price": 6.59,
+     "converted_cost": 26.39
+    },
+    {
+     "lot_detail_id": 2073826,
+     "converted_price": 0.75,
+     "converted_cost": 112.52
+    },
+    {
+     "lot_detail_id": 2073827,
+     "converted_price": 0.33,
+     "converted_cost": 33.99
+    },
+    {
+     "lot_detail_id": 2073828,
+     "converted_price": 0.13,
+     "converted_cost": 13.9
+    },
+    {
+     "lot_detail_id": 2073829,
+     "converted_price": 2.16,
+     "converted_cost": 108.4
+    },
+    {
+     "lot_detail_id": 2073830,
+     "converted_price": 0.48,
+     "converted_cost": 48.87
+    },
+    {
+     "lot_detail_id": 2073831,
+     "converted_price": 0.33,
+     "converted_cost": 33.42
+    },
+    {
+     "lot_detail_id": 2073832,
+     "converted_price": 10.25,
+     "converted_cost": 71.76
+    },
+    {
+     "lot_detail_id": 2073833,
+     "converted_price": 5.45,
+     "converted_cost": 32.72
+    },
+    {
+     "lot_detail_id": 2073834,
+     "converted_price": 2.95,
+     "converted_cost": 5.9
+    },
+    {
+     "lot_detail_id": 2073835,
+     "converted_price": 3.42,
+     "converted_cost": 6.85
+    },
+    {
+     "lot_detail_id": 2073836,
+     "converted_price": 3.04,
+     "converted_cost": 6.09
+    },
+    {
+     "lot_detail_id": 2073837,
+     "converted_price": 15.23,
+     "converted_cost": 45.69
+    },
+    {
+     "lot_detail_id": 2073838,
+     "converted_price": 31.2,
+     "converted_cost": 31.2
+    },
+    {
+     "lot_detail_id": 2073839,
+     "converted_price": 1.99,
+     "converted_cost": 5.97
+    },
+    {
+     "lot_detail_id": 2073840,
+     "converted_price": 57.41,
+     "converted_cost": 2009.55
+    },
+    {
+     "lot_detail_id": 2073841,
+     "converted_price": 10.17,
+     "converted_cost": 183.18
+    },
+    {
+     "lot_detail_id": 2073842,
+     "converted_price": 3.43,
+     "converted_cost": 68.74
+    },
+    {
+     "lot_detail_id": 2073843,
+     "converted_price": 17.43,
+     "converted_cost": 470.77
+    },
+    {
+     "lot_detail_id": 2073844,
+     "converted_price": 25.47,
+     "converted_cost": 331.16
+    },
+    {
+     "lot_detail_id": 2073845,
+     "converted_price": 25.68,
+     "converted_cost": 282.54
+    },
+    {
+     "lot_detail_id": 2073846,
+     "converted_price": 22.5,
+     "converted_cost": 180.01
+    },
+    {
+     "lot_detail_id": 2073847,
+     "converted_price": 15.15,
+     "converted_cost": 90.91
+    },
+    {
+     "lot_detail_id": 2073848,
+     "converted_price": 6.65,
+     "converted_cost": 26.6
+    },
+    {
+     "lot_detail_id": 2073849,
+     "converted_price": 53.3,
+     "converted_cost": 213.22
+    },
+    {
+     "lot_detail_id": 2073850,
+     "converted_price": 43.45,
+     "converted_cost": 173.81
+    },
+    {
+     "lot_detail_id": 2073851,
+     "converted_price": 25.7,
+     "converted_cost": 205.66
+    },
+    {
+     "lot_detail_id": 2073852,
+     "converted_price": 107.26,
+     "converted_cost": 214.52
+    },
+    {
+     "lot_detail_id": 2073853,
+     "converted_price": 49.44,
+     "converted_cost": 98.89
+    },
+    {
+     "lot_detail_id": 2073854,
+     "converted_price": 80.91,
+     "converted_cost": 323.64
+    },
+    {
+     "lot_detail_id": 2073855,
+     "converted_price": 609.93,
+     "converted_cost": 4269.55
+    },
+    {
+     "lot_detail_id": 2073856,
+     "converted_price": 434.53,
+     "converted_cost": 5214.37
+    },
+    {
+     "lot_detail_id": 2073857,
+     "converted_price": 174.27,
+     "converted_cost": 2091.35
+    },
+    {
+     "lot_detail_id": 2073858,
+     "converted_price": 117.87,
+     "converted_cost": 1178.76
+    },
+    {
+     "lot_detail_id": 2073859,
+     "converted_price": 247.03,
+     "converted_cost": 1482.23
+    },
+    {
+     "lot_detail_id": 2073860,
+     "converted_price": 454.27,
+     "converted_cost": 908.55
+    },
+    {
+     "lot_detail_id": 2073861,
+     "converted_price": 308.56,
+     "converted_cost": 617.13
+    },
+    {
+     "lot_detail_id": 2073862,
+     "converted_price": 338.99,
+     "converted_cost": 1694.97
+    },
+    {
+     "lot_detail_id": 2073863,
+     "converted_price": 38.23,
+     "converted_cost": 917.7
+    },
+    {
+     "lot_detail_id": 2073864,
+     "converted_price": 240.59,
+     "converted_cost": 1443.57
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

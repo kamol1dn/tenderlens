@@ -1,0 +1,321 @@
+{
+ "id": 522662,
+ "display_no": "26120012522662",
+ "start_date": "2026-11-13T11:47:30",
+ "end_date": "2026-11-20T11:47:30",
+ "clarific_date": "2026-11-20T11:47:30",
+ "start_cost": 4032000000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2071194,\"Order_Num\":1,\"Category_Id\":122010,\"Plangraph_Detail_Id\":24090369,\"Product_Id\":461442,\"Product_Type_Id\":1,\"Quantity\":15,\"Price\":268800000,\"Cost\":4032000000,\"Description\":\"MTS majmuasini o‘rnatish uchun tirkama ko‘rinishidagi mobil ko‘chma stansiya / \\r\\nМобильная передвижная станция в виде прицепа для установки комплекса МБС\\r\\n\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9869850,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"29.20.23.111-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Автотранспорт воситалари, шатаклар ва ярим шатаклар\",\"Product_Name\":\"Тиркама\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 0.0,
+ "advance_payment_perc": 15.0,
+ "term_payment_days": 90,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Yetakchi mutaxassis\",\"Fullname\":\"Anarbekov Yelaman Gabit ugli \"}]",
+ "rest_time": 218608,
+ "customer_name": "UNIVERSAL MOBILE SYSTEMS MCHJ",
+ "customer_tin": "303020732",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202610265926317748.rar",
+ "tech_file_path": "/files/2026/10/26/202610265926317748.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 12474952.0,
+ "tech_doc_file_name": "20261711042438522662.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711042438522662.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 232848.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610265926795763.docx",
+ "contract_proform_file_path": "/files/2026/10/26/202610265926795763.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 109180.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 9,
+ "nonauthorized_count": 1835,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2760778,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 100.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "1-ilova Moslik jadvali (SoC) (format: .pdf va .xlsx)  Приложение №1  Таблица соответствия (SoС) (формат: .pdf и .xlsx)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 100.0,
+   "description": "Texnik topshiriqning 1-ilovasida keltirilgan talablar bilan moslik /\r\nСоответствие требованиям, указанным Приложении №1 к ТЗ\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 100.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2760778,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":100.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"1-ilova Moslik jadvali (SoC) (format: .pdf va .xlsx)  Приложение №1  Таблица соответствия (SoС) (формат: .pdf и .xlsx)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":100.0,\"Description\":\"Texnik topshiriqning 1-ilovasida keltirilgan talablar bilan moslik /\\r\\nСоответствие требованиям, указанным Приложении №1 к ТЗ\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":100.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1096587,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": "Baholash quyidagi taqdim etilgan hujjatlariga muvofiq amalga oshiriladi:\r\n\r\n- Shakllar namunasi – 4-ilovada.\r\n- Bankdan xat – 5-ilova shakli bo‘yicha**\r\nShu bilan birga, bankdan olingan ma’lumotnoma (bank xati) berilgan sana takliflarni topshirish muddati yakunlanishidan kamida 30 kun oldin berilgan bo‘lishi kerak (ya’ni 30 kundan eski bo‘lmasligi lozim).\r\nAgar talablar bajarilmasa (hujjatlardan biri taqdim etilmagan yoki hujjat belgilangan tartibda taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/10/28/d2876a04-5f69-47ef-831a-6c9dd91f46da.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1096588,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": "Baholash 1-ilova (Ishtirokchi to‘g‘risida umumiy ma’lumot) shaklidagi Ishtirokchi so‘rovnomasiga muvofiq amalga oshiriladi.Agar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).",
+   "file_path": "tender/user-files/2026/10/28/cdf07d38-ff15-4926-8e5b-bd1400c2c6cd.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1096589,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": "Baholash soliq organining amaldagi ma’lumotnomasiga muvofiq amalga oshiriladi, bunda ma’lumotnoma berilgan sana takliflar berish muddati tugashidan kamida 30 kun oldin bo‘lishi kerak. Ma’lumotnoma mavjud bo‘lmagan taqdirda, baholash DSQ veb-saytidagi ma’lumotlarga muvofiq amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1096590,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati hamda vakolatli organlarning ochiq ma’lumotlari asosida amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/10/28/02dc3f1c-f027-4983-b3c4-beabb9ce14b1.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1096591,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati hamda Yagona insofsiz ijrochilar reyestri ma’lumotlari asosida amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/10/28/bdd2b0b2-ae0c-48ef-a60d-11756ca3ff9e.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1096592,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": "Baholash O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosi (MIB) rasmiy saytidan olingan skrinshot (ekran tasviri) asosida amalga oshiriladi. Skrinshot taqdim etilmagan taqdirda, baholash MIB rasmiy saytidagi ma’lumotlarga muvofiq amalga oshiriladi.\r\nAgar talab bajarilmasa (ishtirokchi O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosi ma’lumotlar bazasida sud qarori bo‘yicha bajarilmagan majburiyatga ega bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1096593,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 7,
+   "description": "Baholash 3-ilova shakliga muvofiq korrupsiyaviy holatlarga yo‘l qo‘ymaslik to‘g‘risidagi ariza asosida amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/10/28/9e70a8bb-d72c-4371-8e47-09897ed26131.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1096594,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 8,
+   "description": "Baholash 2-ilova shaklidagi kafolat xatiga va ochiq manbalardan olingan ma’lumotlarga muvofiq amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), shuningdek ishtirokchilar o‘rtasida o‘zaro manfaatdorlik aniqlansa, jumladan ishtirokchilar orasida IP-manzillarning mos kelishi holatlari aniqlangan taqdirda, bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).",
+   "file_path": "tender/user-files/2026/10/28/f0f6a32c-1489-452d-86f6-cf3b8fde8c86.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1096595,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 9,
+   "description": "Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati va/yoki Buyurtmachining vakolatli bo‘linmasi hisoboti asosida amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa yoki ilgari Buyurtmachi bilan tuzilgan shartnomalar bo‘yicha o‘z majburiyatlarini bajarmagan yoki lozim darajada bajarmaganligi yuzasidan sudda ko‘rib chiqilgan ish mavjud bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/10/28/a9a6f22a-24a1-40cd-ae12-5465c90a8411.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1096596,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 10,
+   "description": "Baholash 2-ilova va/yoki Buyurtmachining vakolatli bo‘linmasi hisoboti shaklidagi kafolat xatiga muvofiq amalga oshiriladi.\r\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa yoki ishtirokchi va uning bank hisoblari moliyaviy operatsiyalarni amalga oshirishda ma’lumotlarni oshkor qilish va taqdim etishni talab qilmaydigan mamlakatlar yoki hududlarda (offshor hududlarda) ro‘yxatdan o‘tkazilganligi aniqlansa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\r\n",
+   "file_path": "tender/user-files/2026/10/28/e584d188-76d6-4617-82e9-0d8f1bd89494.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1096587,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":\"Baholash quyidagi taqdim etilgan hujjatlariga muvofiq amalga oshiriladi:\\r\\n\\r\\n- Shakllar namunasi – 4-ilovada.\\r\\n- Bankdan xat – 5-ilova shakli bo‘yicha**\\r\\nShu bilan birga, bankdan olingan ma’lumotnoma (bank xati) berilgan sana takliflarni topshirish muddati yakunlanishidan kamida 30 kun oldin berilgan bo‘lishi kerak (ya’ni 30 kundan eski bo‘lmasligi lozim).\\r\\nAgar talablar bajarilmasa (hujjatlardan biri taqdim etilmagan yoki hujjat belgilangan tartibda taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/10/28/d2876a04-5f69-47ef-831a-6c9dd91f46da.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1096588,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":\"Baholash 1-ilova (Ishtirokchi to‘g‘risida umumiy ma’lumot) shaklidagi Ishtirokchi so‘rovnomasiga muvofiq amalga oshiriladi.Agar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\",\"File_Path\":\"tender/user-files/2026/10/28/cdf07d38-ff15-4926-8e5b-bd1400c2c6cd.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1096589,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"Baholash soliq organining amaldagi ma’lumotnomasiga muvofiq amalga oshiriladi, bunda ma’lumotnoma berilgan sana takliflar berish muddati tugashidan kamida 30 kun oldin bo‘lishi kerak. Ma’lumotnoma mavjud bo‘lmagan taqdirda, baholash DSQ veb-saytidagi ma’lumotlarga muvofiq amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1096590,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati hamda vakolatli organlarning ochiq ma’lumotlari asosida amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/10/28/02dc3f1c-f027-4983-b3c4-beabb9ce14b1.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1096591,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati hamda Yagona insofsiz ijrochilar reyestri ma’lumotlari asosida amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/10/28/bdd2b0b2-ae0c-48ef-a60d-11756ca3ff9e.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1096592,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"Baholash O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosi (MIB) rasmiy saytidan olingan skrinshot (ekran tasviri) asosida amalga oshiriladi. Skrinshot taqdim etilmagan taqdirda, baholash MIB rasmiy saytidagi ma’lumotlarga muvofiq amalga oshiriladi.\\r\\nAgar talab bajarilmasa (ishtirokchi O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosi ma’lumotlar bazasida sud qarori bo‘yicha bajarilmagan majburiyatga ega bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1096593,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":7,\"Description\":\"Baholash 3-ilova shakliga muvofiq korrupsiyaviy holatlarga yo‘l qo‘ymaslik to‘g‘risidagi ariza asosida amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/10/28/9e70a8bb-d72c-4371-8e47-09897ed26131.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1096594,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":8,\"Description\":\"Baholash 2-ilova shaklidagi kafolat xatiga va ochiq manbalardan olingan ma’lumotlarga muvofiq amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa), shuningdek ishtirokchilar o‘rtasida o‘zaro manfaatdorlik aniqlansa, jumladan ishtirokchilar orasida IP-manzillarning mos kelishi holatlari aniqlangan taqdirda, bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\",\"File_Path\":\"tender/user-files/2026/10/28/f0f6a32c-1489-452d-86f6-cf3b8fde8c86.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1096595,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":9,\"Description\":\"Baholash 2-ilova shakliga muvofiq taqdim etilgan kafolat xati va/yoki Buyurtmachining vakolatli bo‘linmasi hisoboti asosida amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa yoki ilgari Buyurtmachi bilan tuzilgan shartnomalar bo‘yicha o‘z majburiyatlarini bajarmagan yoki lozim darajada bajarmaganligi yuzasidan sudda ko‘rib chiqilgan ish mavjud bo‘lsa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/10/28/a9a6f22a-24a1-40cd-ae12-5465c90a8411.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1096596,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":10,\"Description\":\"Baholash 2-ilova va/yoki Buyurtmachining vakolatli bo‘linmasi hisoboti shaklidagi kafolat xatiga muvofiq amalga oshiriladi.\\r\\nAgar talab bajarilmasa (hujjat taqdim etilmagan bo‘lsa yoki ishtirokchi va uning bank hisoblari moliyaviy operatsiyalarni amalga oshirishda ma’lumotlarni oshkor qilish va taqdim etishni talab qilmaydigan mamlakatlar yoki hududlarda (offshor hududlarda) ro‘yxatdan o‘tkazilganligi aniqlansa), bunday ishtirokchi malakaviy baholash bosqichida chetlashtiriladi (mazkur lot bo‘yicha keyingi ishtirok etishga yo‘l qo‘yilmaydi).\\r\\n\",\"File_Path\":\"tender/user-files/2026/10/28/e584d188-76d6-4617-82e9-0d8f1bd89494.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 37369,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Яшнободский район",
+ "delivering_address": "г. Ташкент, Фаргона йули, 15",
+ "delivering_phone": "974038240",
+ "addon_description": "Xarid qilish tartib-taomillarini quyidagi mezonlarga javob berishi kerak: - shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy, kadrlar resurslarining hamda boshqa resurslarning mavjudligi; - shartnoma tuzish uchun qonuniy huquqqa egalik; - soliqlar va yigʻimlarni toʻlash boʻyicha muddati oʻtgan qarzdorlikning mavjud emasligi; - Oʻzbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining maʼlumotlar bazalarida ishtirokchining sud qarorlari boʻyicha bajarilmagan majburiyatlari mavjud emasligi; - oʻziga nisbatan joriy etilgan toʻlovga qobiliyatsizlik tartib-taomillarining mavjud emasligi; - Insofsiz ijrochilarning yagona reyestrida qayd etilmaganligi.",
+ "technical_description": "texnik talablar",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": 522475,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "г.Ташкент, Проспект А.Темура, 24",
+ "customer_zip": "100090",
+ "min_point": 99,
+ "financing_source": "O‘z mablag‘lari/Собственные средства",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 335340.21,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2071194,
+     "converted_price": 22356.01,
+     "converted_cost": 335340.21
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 304605.57,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2071194,
+     "converted_price": 20307.03,
+     "converted_cost": 304605.57
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 4032000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2071194,
+     "converted_price": 268800000.0,
+     "converted_cost": 4032000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 27703724.06,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2071194,
+     "converted_price": 1846914.93,
+     "converted_cost": 27703724.06
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

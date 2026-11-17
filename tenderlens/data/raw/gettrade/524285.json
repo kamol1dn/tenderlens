@@ -1,0 +1,771 @@
+{
+ "id": 524285,
+ "display_no": "26110012524285",
+ "start_date": "2026-11-11T18:25:43",
+ "end_date": "2026-11-18T18:25:43",
+ "clarific_date": "2026-11-18T18:25:43",
+ "start_cost": 49850000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2080946,\"Order_Num\":1,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24417704,\"Product_Id\":718557,\"Product_Type_Id\":1,\"Quantity\":150,\"Price\":35000,\"Cost\":5250000,\"Description\":\"Gantel 30 kg li 2 dona, 20kg li 2 dona, 10 kg li 2 dona, 5 kg li 6 dona,\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":10044614,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.119-00004\",\"Guarantee_Term\":5,\"Delivery_Term\":10,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Гантель\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"кг\",\"User_Value_Id\":3,\"Pnum\":0},{\"Property_Name\":\"Конструкция\",\"User_Value\":\"Йиғилмаган\",\"User_Value_Id\":0,\"Pnum\":1},{\"Property_Name\":\"Гантелнинг минимал оғирлиги, кг\",\"User_Value\":\"> 44\",\"User_Value_Id\":0,\"Pnum\":2},{\"Property_Name\":\"Дискларни (қотириш) маҳкамлагич\",\"User_Value\":\"Гайка\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2080952,\"Order_Num\":7,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24417710,\"Product_Id\":460036,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":1600000,\"Cost\":3200000,\"Description\":\"Boks qopi 80 kg, 110x40 sm\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":10044614,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.114-00006\",\"Guarantee_Term\":5,\"Delivery_Term\":10,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Бокс қопи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Жойлашуви\",\"User_Value\":\"Осма\",\"User_Value_Id\":1,\"Pnum\":1},{\"Property_Name\":\"Ёш категорияси\",\"User_Value\":\"Болалар учун\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Тури\",\"User_Value\":\"Горизонтал\",\"User_Value_Id\":1,\"Pnum\":3}]},{\"Id\":2080951,\"Order_Num\":6,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24417709,\"Product_Id\":464014,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":8500000,\"Cost\":8500000,\"Description\":\"Foydalanuvchining maksimal vazni: 130 kg, 4 kg (ichki tizimi), Qarshilik darajalari: 8 ta\\r\\nMonitor funksiyalari: skanerlash, vaqt, tezlik, masofa, kaloriyalar, umumiy masofa (odometr), puls\\r\\nPulsni o‘lchash: tutqichlardagi datchiklar orqali\\r\\nQadoq o‘lchamlari: 105,5 sm × 27,5 sm × 56,5 sm\\r\\nYig‘ilgan holatdagi o‘lchamlari: 105,8 sm × 57,2 sm × 158,8 sm\\r\\nOg‘irligi (sof/yalpi): 33,9 kg / 37,5 kg\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":10044614,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.123-00001\",\"Guarantee_Term\":5,\"Delivery_Term\":10,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Спорт велотренажёри\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тренажёрнинг қўлланиши бўйича даражаси\",\"User_Value\":\"H\",\"User_Value_Id\":0,\"Pnum\":1},{\"Property_Name\":\"Тренажёрнинг аниқлик бўйича даражаси \",\"User_Value\":\"А (Юқори)\",\"User_Value_Id\":0,\"Pnum\":2},{\"Property_Name\":\"Бутлаш \",\"User_Value\":\"Бутилка ушлагич\",\"User_Value_Id\":0,\"Pnum\":3},{\"Property_Name\":\"Йиғма конструксия\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":4},{\"Property_Name\":\"Фойдаланувчининг максимал вазни, кг \",\"User_Value\":\"≥ 150\",\"User_Value_Id\":0,\"Pnum\":5},{\"Property_Name\":\"Тренажёр тури\",\"User_Value\":\"Тегирмон туридаги\",\"User_Value_Id\":0,\"Pnum\":6},{\"Property_Name\":\"Тренажёрнинг ишлаш тамойили бўйича тури\",\"User_Value\":\"Автоматик\",\"User_Value_Id\":0,\"Pnum\":7}]},{\"Id\":2080950,\"Order_Num\":5,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24417708,\"Product_Id\":462467,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":3300000,\"Cost\":3300000,\"Description\":\"Press va qo'l uchun turli tutqichli turnik\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":10044614,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.119-00002\",\"Guarantee_Term\":5,\"Delivery_Term\":10,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Турли тутқичли турник\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тўлиқлик\",\"User_Value\":\"Бруслар\",\"User_Value_Id\":0,\"Pnum\":1},{\"Property_Name\":\"Тўсиннинг максимал баландлиги, мм\",\"User_Value\":\"≤ 1500\",\"User_Value_Id\":0,\"Pnum\":2},{\"Property_Name\":\"Фойдаланувчининг максимал вазни, кг \",\"User_Value\":\"≥ 150\",\"User_Value_Id\":0,\"Pnum\":3},{\"Property_Name\":\"Тўсиннинг минимал баландлиги, мм\",\"User_Value\":\"≥ 1500\",\"User_Value_Id\":0,\"Pnum\":4},{\"Property_Name\":\"Баландликни созлаш функциясининг мавжудлиги\",\"User_Value\":\"Ҳа\",\"User_Value_Id\":0,\"Pnum\":5},{\"Property_Name\":\"Тўсиннинг иш узунлиги, мм\",\"User_Value\":\"≥ 1400\",\"User_Value_Id\":0,\"Pnum\":6},{\"Property_Name\":\"Тўсин баландлигини созлаш усули\",\"User_Value\":\"Бўлмаларга жойлаштириш ва қайд этиш ёрдамида\",\"User_Value_Id\":0,\"Pnum\":7},{\"Property_Name\":\"Ўрнатиш усули\",\"User_Value\":\"Осма\",\"User_Value_Id\":0,\"Pnum\":8},{\"Property_Name\":\"Ушлаш усули\",\"User_Value\":\"Классик\",\"User_Value_Id\":0,\"Pnum\":9},{\"Property_Name\":\"Баландликни созлаш ҳолатлари сони, дона\",\"User_Value\":\"≥ 16\",\"User_Value_Id\":0,\"Pnum\":10}]},{\"Id\":2080949,\"Order_Num\":4,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24417707,\"Product_Id\":464014,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":7600000,\"Cost\":7600000,\"Description\":\"Tik holatdagi Foydalanuvchining maksimal vazni 160 kg-Qarshilik darajalari 8 daraja\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":10044614,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.123-00001\",\"Guarantee_Term\":5,\"Delivery_Term\":10,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Спорт велотренажёри\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тренажёрнинг қўлланиши бўйича даражаси\",\"User_Value\":\"H\",\"User_Value_Id\":0,\"Pnum\":1},{\"Property_Name\":\"Тренажёрнинг аниқлик бўйича даражаси \",\"User_Value\":\"А (Юқори)\",\"User_Value_Id\":0,\"Pnum\":2},{\"Property_Name\":\"Бутлаш \",\"User_Value\":\"Бутилка ушлагич\",\"User_Value_Id\":0,\"Pnum\":3},{\"Property_Name\":\"Йиғма конструксия\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":4},{\"Property_Name\":\"Фойдаланувчининг максимал вазни, кг \",\"User_Value\":\"≥ 150\",\"User_Value_Id\":0,\"Pnum\":5},{\"Property_Name\":\"Тренажёр тури\",\"User_Value\":\"Тегирмон туридаги\",\"User_Value_Id\":0,\"Pnum\":6},{\"Property_Name\":\"Тренажёрнинг ишлаш тамойили бўйича тури\",\"User_Value\":\"Автоматик\",\"User_Value_Id\":0,\"Pnum\":7}]},{\"Id\":2080948,\"Order_Num\":3,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24417706,\"Product_Id\":475497,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":5000000,\"Cost\":5000000,\"Description\":\"Maksimal yuklama-150 kg ,Rejimlar 32 daraja\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":10044614,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.121-00011\",\"Guarantee_Term\":5,\"Delivery_Term\":10,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Пресс учун тренажер\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Оғирлик, кг\",\"User_Value\":\"> 80\",\"User_Value_Id\":0,\"Pnum\":1},{\"Property_Name\":\"Баландлик, мм\",\"User_Value\":\"> 900\",\"User_Value_Id\":0,\"Pnum\":2},{\"Property_Name\":\"Узунлиги, мм\",\"User_Value\":\"> 1500\",\"User_Value_Id\":0,\"Pnum\":3},{\"Property_Name\":\"Максимал юк, кг\",\"User_Value\":\"> 120\",\"User_Value_Id\":0,\"Pnum\":4},{\"Property_Name\":\"Тренажёр тури\",\"User_Value\":\"Блокли\",\"User_Value_Id\":0,\"Pnum\":5},{\"Property_Name\":\"Конструкцияни ташувчи профилнинг қалинлиги, мм\",\"User_Value\":\"> 5\",\"User_Value_Id\":0,\"Pnum\":6},{\"Property_Name\":\"Эни, мм\",\"User_Value\":\"> 800\",\"User_Value_Id\":0,\"Pnum\":7},{\"Property_Name\":\"Конструкция ташувчи профил кенглиги, мм\",\"User_Value\":\"< 40\",\"User_Value_Id\":0,\"Pnum\":8}]},{\"Id\":2080947,\"Order_Num\":2,\"Category_Id\":122780,\"Plangraph_Detail_Id\":24417705,\"Product_Id\":718539,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":17000000,\"Cost\":17000000,\"Description\":\"Maksimal yuk 198 kg , Foydalanish muhiti sport zallar -Maksimal foydalanuvchi vazni 140 kg\",\"Expenditure_Id\":44354960,\"Expenditure_Name\":\"Спортивный инвентарь и оборудование\",\"Plan_Id\":10044614,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"32.30.14.112-00001\",\"Guarantee_Term\":5,\"Delivery_Term\":10,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Куч гимнастикаси жамланмаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Бутловчи қисмлар\",\"User_Value\":\"Бодибар\",\"User_Value_Id\":0,\"Pnum\":1},{\"Property_Name\":\"Бодибар материали\",\"User_Value\":\"Металл\",\"User_Value_Id\":0,\"Pnum\":2},{\"Property_Name\":\"Гантеллар материали\",\"User_Value\":\"Металл\",\"User_Value_Id\":0,\"Pnum\":3},{\"Property_Name\":\"Гиманастика гиламчаси материали\",\"User_Value\":\"Пластмасса\",\"User_Value_Id\":0,\"Pnum\":4},{\"Property_Name\":\"Медбол (тўп) материали\",\"User_Value\":\"Сунъий чарм\",\"User_Value_Id\":0,\"Pnum\":5},{\"Property_Name\":\"Гимнастика ролиги материали\",\"User_Value\":\"Металл\",\"User_Value_Id\":0,\"Pnum\":6},{\"Property_Name\":\"Сакраш арқони материали\",\"User_Value\":\"Пластмасса\",\"User_Value_Id\":0,\"Pnum\":7},{\"Property_Name\":\"Қўлни букиб ёзиш машқи учун таянч материали\",\"User_Value\":\"Металл\",\"User_Value_Id\":0,\"Pnum\":8},{\"Property_Name\":\"Оғирлаштиргич тури\",\"User_Value\":\"Тикилган\",\"User_Value_Id\":0,\"Pnum\":9},{\"Property_Name\":\"Эспандер тури\",\"User_Value\":\"Тасмали\",\"User_Value_Id\":0,\"Pnum\":10},{\"Property_Name\":\"Стеллаж материали\",\"User_Value\":\"Металл\",\"User_Value_Id\":0,\"Pnum\":11}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 90,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Хўжалик ишлари мудири\",\"Fullname\":\"Ғ.Азимов\"}]",
+ "rest_time": 69773,
+ "customer_name": "Уйчи туман  Хокимлиги",
+ "customer_tin": "200099615",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611063302535519.PDF",
+ "tech_file_path": "/files/2026/11/6/202611063302535519.PDF",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 8774548.0,
+ "tech_doc_file_name": "20261611072435524285.pdf",
+ "tech_doc_file_path": "files/2026/11/16/20261611072435524285.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 345224.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611063302909285.docx",
+ "contract_proform_file_path": "/files/2026/11/6/202611063302909285.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 19394.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 11,
+ "nonauthorized_count": 2410,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2769165,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Shartnomani bajarish uchun zarur texnika (texpasportlarni va shartnomalarni) ilova qilish.",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Shartnomani bajarish uchun zarur texnika (texpasportlarni va shartnomalarni) ilova qilish.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "балл"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "балл"
+    }
+   ],
+   "form_name": "7-ilova",
+   "form_file_path": null
+  },
+  {
+   "id": 2769166,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tanlov ishtirokchisi to‘g‘risida umumiy ma’lumotlar (hodimlarni mehnat.uz ma’lumoti ilova qilingan xolda)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Tanlov ishtirokchisi to‘g‘risida umumiy ma’lumotlar (hodimlarni mehnat.uz ma’lumoti ilova qilingan xolda)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "балл"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "балл"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "балл"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2769167,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Kafolat xati. Tanlov ishtirokchisi tomonidan belgilangan ishlarni o’z vaqtida sifatli bajarish.",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Kafolat xati. Tanlov ishtirokchisi tomonidan belgilangan ishlarni o’z vaqtida sifatli bajarish.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "балл"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2769168,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Aylanma mablag‘lar mavjudligi.",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Aylanma mablag‘lar mavjudligi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "балл"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2769169,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарни суғурталаш зарурати бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 40.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tanlovga qo‘yilgan mahsulotlarni suratlari joylanganligi",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 40.0,
+   "description": "Tanlovga qo‘yilgan mahsulotlarni suratlari joylanganligi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 40.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "балл"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "балл"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2769170,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг техник тартибга солиш соҳасидаги норматив ҳужжатларга мувофиқлиги бўйича талаблар.  Мувофиқлиги баҳоланиши лозим бўлган давлат ветеринария хизмати назорати остидаги маҳсулотлар. Мажбурий тартибда мувофиқлиги баҳоланиши лозим бўлган маҳсулотлар.Мажбурий экологик сертификатланиши лозим бўлган маҳсулотлар. Санитария-эпидемиологик хулосага мос келадиган маҳсулотлар.",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tenderdagi obektga o‘xshash obektlar to‘g‘risidagi ish tajribasi",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 5.0,
+   "description": "Tenderdagi obektga o‘xshash obektlar to‘g‘risidagi ish tajribasi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "балл"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "балл"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2769171,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tanlov ishtirokchisi tomonidan korrupsiya ko‘rinishlariga yo‘l qo‘ymaslik bo‘yicha ariza.",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Tanlov ishtirokchisi tomonidan korrupsiya ko‘rinishlariga yo‘l qo‘ymaslik bo‘yicha ariza.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "балл"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2769165,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Shartnomani bajarish uchun zarur texnika (texpasportlarni va shartnomalarni) ilova qilish.\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Shartnomani bajarish uchun zarur texnika (texpasportlarni va shartnomalarni) ilova qilish.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"балл\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"балл\"}],\"Form_Name\":\"7-ilova\",\"Form_File_Path\":null},{\"Id\":2769166,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tanlov ishtirokchisi to‘g‘risida umumiy ma’lumotlar (hodimlarni mehnat.uz ma’lumoti ilova qilingan xolda)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Tanlov ishtirokchisi to‘g‘risida umumiy ma’lumotlar (hodimlarni mehnat.uz ma’lumoti ilova qilingan xolda)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"балл\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"балл\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"балл\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2769167,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Kafolat xati. Tanlov ishtirokchisi tomonidan belgilangan ishlarni o’z vaqtida sifatli bajarish.\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Kafolat xati. Tanlov ishtirokchisi tomonidan belgilangan ishlarni o’z vaqtida sifatli bajarish.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"балл\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2769168,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Aylanma mablag‘lar mavjudligi.\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Aylanma mablag‘lar mavjudligi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"балл\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2769169,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарни суғурталаш зарурати бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":40.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tanlovga qo‘yilgan mahsulotlarni suratlari joylanganligi\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":40.0,\"Description\":\"Tanlovga qo‘yilgan mahsulotlarni suratlari joylanganligi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":40.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"балл\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"балл\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2769170,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг техник тартибга солиш соҳасидаги норматив ҳужжатларга мувофиқлиги бўйича талаблар.  Мувофиқлиги баҳоланиши лозим бўлган давлат ветеринария хизмати назорати остидаги маҳсулотлар. Мажбурий тартибда мувофиқлиги баҳоланиши лозим бўлган маҳсулотлар.Мажбурий экологик сертификатланиши лозим бўлган маҳсулотлар. Санитария-эпидемиологик хулосага мос келадиган маҳсулотлар.\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tenderdagi obektga o‘xshash obektlar to‘g‘risidagi ish tajribasi\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":5.0,\"Description\":\"Tenderdagi obektga o‘xshash obektlar to‘g‘risidagi ish tajribasi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"балл\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"балл\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2769171,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tanlov ishtirokchisi tomonidan korrupsiya ko‘rinishlariga yo‘l qo‘ymaslik bo‘yicha ariza.\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Tanlov ishtirokchisi tomonidan korrupsiya ko‘rinishlariga yo‘l qo‘ymaslik bo‘yicha ariza.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"балл\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1108407,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108408,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108409,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108410,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108411,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108412,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1108407,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108408,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108409,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108410,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108411,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108412,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 85334,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Наманганская область",
+ "delivering_district_name": "Уйчинский район",
+ "delivering_address": "Уйчи тумани А.Темур кўчаси 62-уй",
+ "delivering_phone": "694821335",
+ "addon_description": "Уйчи тумани ИИБга спорт инвентарлари сотиб олиш",
+ "technical_description": "Техник топширик",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Namangan viloyati",
+ "customer_district_name": "Namangan viloyati",
+ "customer_street": "Уйчи туман Уйчи ШФЙ А.Темур кўча 62-уй",
+ "customer_zip": "00000",
+ "min_point": 20,
+ "financing_source": "Бюджет маблағлари хисобидан",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 4146.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080946,
+     "converted_price": 2.91,
+     "converted_cost": 436.64
+    },
+    {
+     "lot_detail_id": 2080947,
+     "converted_price": 1413.88,
+     "converted_cost": 1413.88
+    },
+    {
+     "lot_detail_id": 2080948,
+     "converted_price": 415.84,
+     "converted_cost": 415.84
+    },
+    {
+     "lot_detail_id": 2080949,
+     "converted_price": 632.08,
+     "converted_cost": 632.08
+    },
+    {
+     "lot_detail_id": 2080950,
+     "converted_price": 274.45,
+     "converted_cost": 274.45
+    },
+    {
+     "lot_detail_id": 2080951,
+     "converted_price": 706.94,
+     "converted_cost": 706.94
+    },
+    {
+     "lot_detail_id": 2080952,
+     "converted_price": 133.07,
+     "converted_cost": 266.14
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 3766.01,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080946,
+     "converted_price": 2.64,
+     "converted_cost": 396.62
+    },
+    {
+     "lot_detail_id": 2080947,
+     "converted_price": 1284.29,
+     "converted_cost": 1284.29
+    },
+    {
+     "lot_detail_id": 2080948,
+     "converted_price": 377.73,
+     "converted_cost": 377.73
+    },
+    {
+     "lot_detail_id": 2080949,
+     "converted_price": 574.15,
+     "converted_cost": 574.15
+    },
+    {
+     "lot_detail_id": 2080950,
+     "converted_price": 249.3,
+     "converted_cost": 249.3
+    },
+    {
+     "lot_detail_id": 2080951,
+     "converted_price": 642.14,
+     "converted_cost": 642.14
+    },
+    {
+     "lot_detail_id": 2080952,
+     "converted_price": 120.87,
+     "converted_cost": 241.75
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 342517.52,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080946,
+     "converted_price": 240.48,
+     "converted_cost": 36072.55
+    },
+    {
+     "lot_detail_id": 2080947,
+     "converted_price": 116806.37,
+     "converted_cost": 116806.37
+    },
+    {
+     "lot_detail_id": 2080948,
+     "converted_price": 34354.81,
+     "converted_cost": 34354.81
+    },
+    {
+     "lot_detail_id": 2080949,
+     "converted_price": 52219.32,
+     "converted_cost": 52219.32
+    },
+    {
+     "lot_detail_id": 2080950,
+     "converted_price": 22674.17,
+     "converted_cost": 22674.17
+    },
+    {
+     "lot_detail_id": 2080951,
+     "converted_price": 58403.18,
+     "converted_cost": 58403.18
+    },
+    {
+     "lot_detail_id": 2080952,
+     "converted_price": 10993.54,
+     "converted_cost": 21987.08
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 49850000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080946,
+     "converted_price": 35000.0,
+     "converted_cost": 5250000.0
+    },
+    {
+     "lot_detail_id": 2080947,
+     "converted_price": 17000000.0,
+     "converted_cost": 17000000.0
+    },
+    {
+     "lot_detail_id": 2080948,
+     "converted_price": 5000000.0,
+     "converted_cost": 5000000.0
+    },
+    {
+     "lot_detail_id": 2080949,
+     "converted_price": 7600000.0,
+     "converted_cost": 7600000.0
+    },
+    {
+     "lot_detail_id": 2080950,
+     "converted_price": 3300000.0,
+     "converted_cost": 3300000.0
+    },
+    {
+     "lot_detail_id": 2080951,
+     "converted_price": 8500000.0,
+     "converted_cost": 8500000.0
+    },
+    {
+     "lot_detail_id": 2080952,
+     "converted_price": 1600000.0,
+     "converted_cost": 3200000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

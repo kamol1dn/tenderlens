@@ -1,0 +1,361 @@
+{
+ "id": 525532,
+ "display_no": "26120012525532",
+ "start_date": "2026-11-16T11:08:28",
+ "end_date": "2026-11-25T11:08:28",
+ "clarific_date": "2026-11-25T11:08:28",
+ "start_cost": 105419000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2090070,\"Order_Num\":1,\"Category_Id\":118845,\"Plangraph_Detail_Id\":24187825,\"Product_Id\":665575,\"Product_Type_Id\":1,\"Quantity\":100,\"Price\":142800,\"Cost\":14280000,\"Description\":\"Payvandlash elektrodi E8018-B2L/ Сварочный электрод E8018-B2L/ Welding electrode E8018-B2L (Texnik shartga ko'ra/ Согласно техническому заданию/ According to the technical requirement).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9922994,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"25.93.15.120-00001\",\"Guarantee_Term\":18,\"Delivery_Term\":28,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тайёр металл буюмлари, машина ва асбоб-ускуналардан ташқари\",\"Product_Name\":\"Пайвандлаш электроди\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"кг\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2090073,\"Order_Num\":4,\"Category_Id\":118845,\"Plangraph_Detail_Id\":24187828,\"Product_Id\":665575,\"Product_Type_Id\":1,\"Quantity\":100,\"Price\":544730,\"Cost\":54473000,\"Description\":\"Payvandlash elektrodi E308L/ Сварочный электрод E308L/ Welding electrode E308L (Texnik shartga ko'ra/ Согласно техническому заданию/ According to the technical requirement).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9922994,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"25.93.15.120-00001\",\"Guarantee_Term\":18,\"Delivery_Term\":28,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тайёр металл буюмлари, машина ва асбоб-ускуналардан ташқари\",\"Product_Name\":\"Пайвандлаш электроди\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"кг\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2090072,\"Order_Num\":3,\"Category_Id\":118845,\"Plangraph_Detail_Id\":24187827,\"Product_Id\":665575,\"Product_Type_Id\":1,\"Quantity\":100,\"Price\":102710,\"Cost\":10271000,\"Description\":\"Payvandlash elektrodi LB-52U/ Сварочный электрод LB-52U / Welding electrode LB-52U (Texnik shartga ko'ra/ Согласно техническому заданию/ According to the technical requirement).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9922994,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"25.93.15.120-00001\",\"Guarantee_Term\":18,\"Delivery_Term\":28,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тайёр металл буюмлари, машина ва асбоб-ускуналардан ташқари\",\"Product_Name\":\"Пайвандлаш электроди\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"кг\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2090071,\"Order_Num\":2,\"Category_Id\":118845,\"Plangraph_Detail_Id\":24187826,\"Product_Id\":665575,\"Product_Type_Id\":1,\"Quantity\":100,\"Price\":263950,\"Cost\":26395000,\"Description\":\"Payvandlash elektrodi E316L-16/ Сварочный электрод E316L-16/ Welding electrode E316L-16 (Texnik shartga ko'ra/ Согласно техническому заданию/ According to the technical requirement).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9922994,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"25.93.15.120-00001\",\"Guarantee_Term\":18,\"Delivery_Term\":28,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тайёр металл буюмлари, машина ва асбоб-ускуналардан ташқари\",\"Product_Name\":\"Пайвандлаш электроди\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"кг\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 0.0,
+ "term_payment_days": 20,
+ "term_online_days": 7,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":3,\"Name\":\"Английский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Shartnoma bo'yicha mas'ul/ Ответственный по контракту/ Contract manager\",\"Fullname\":\"Ro'ziyev Jasurbek/ Рузиев Жасурбек\"},{\"Job_title\":\"XK kotibi/ Секретарь ЗК/ Secretary of the PС\",\"Fullname\":\"Xazratov Zafar/ Хазратов Зафар/ Тел:+998-75-552-42-17/ competition@sgcc.uz\"}]",
+ "rest_time": 648125,
+ "customer_name": "\"SHURTAN GAZ KIMYO MAJMUASI\" MCHJ",
+ "customer_tin": "203195074",
+ "payment_type_name": "Оплата по факту",
+ "tech_file_name": "202610300716290772.rar",
+ "tech_file_path": "/files/2026/10/30/202610300716290772.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 2315740.0,
+ "tech_doc_file_name": "20261411192455523348.pdf",
+ "tech_doc_file_path": "files/2026/11/14/20261411192455523348.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 311720.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610294552932407.rar",
+ "contract_proform_file_path": "/files/2026/10/29/202610294552932407.rar",
+ "contract_proform_file_ext": "RAR",
+ "contract_proform_file_sizes": 90656.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Ishlar bajarilgandan so‘ng blokdan chiqarish",
+ "authorized_count": 12,
+ "nonauthorized_count": 848,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2775823,
+   "type_name": "BINARY_VALUE",
+   "label_type_name": "Бинарное значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "3-sonli shakl hamda 1 va 2-ilovasiga muvofiq shakllantiriladi / Оформляется согласно Форме №3 и приложений №1 и №2 / According to form No. 3 and attachments 1 and 2",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": "Согласования",
+    "type_name": null,
+    "yes_text": "Согласен",
+    "no_text": "Не согласен"
+   },
+   "gravity": 100.0,
+   "description": "Texnik taklif/ Техническое предложение/ Technical offer",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2775823,\"Type_Name\":\"BINARY_VALUE\",\"Label_Type_Name\":\"Бинарное значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"3-sonli shakl hamda 1 va 2-ilovasiga muvofiq shakllantiriladi / Оформляется согласно Форме №3 и приложений №1 и №2 / According to form No. 3 and attachments 1 and 2\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":\"Согласования\",\"Type_name\":null,\"Yes_text\":\"Согласен\",\"No_text\":\"Не согласен\"},\"Gravity\":100.0,\"Description\":\"Texnik taklif/ Техническое предложение/ Technical offer\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1117218,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117219,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117220,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117221,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117222,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117223,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117224,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 7,
+   "description": "Davlat ro'yxatidan o'tkazilganligi to'g'risidagi guvohnoma va Nizom/ Свидетельство о государственной регистрации и Устав/ Certificate of state registration and Objectives of the Company",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117225,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 8,
+   "description": "1-sonli shakl va ilovasiga muvofiq shakllantiriladi / Оформляется согласно Форме №1 и приложению/ To be completed in accordance with Form No. 1 and the appendix",
+   "file_path": "tender/user-files/2026/10/30/4f606eca-04af-4dcf-b844-6d6252101139.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1117226,
+   "name": "Молиявий ҳисоботлар*\n(ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда): \n1. Бухгалтерия баланси\n",
+   "order_num": 9,
+   "description": "2-sonli shaklga muvofiq shakllantiriladi / Оформляется согласно Форме № 2/ Аccordance with Form No. 2",
+   "file_path": "tender/user-files/2026/10/30/9a360c2d-51ec-4b81-8cf7-43a7a3d68e68.xlsx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1117218,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117219,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117220,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117221,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117222,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117223,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117224,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":7,\"Description\":\"Davlat ro'yxatidan o'tkazilganligi to'g'risidagi guvohnoma va Nizom/ Свидетельство о государственной регистрации и Устав/ Certificate of state registration and Objectives of the Company\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1117225,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":8,\"Description\":\"1-sonli shakl va ilovasiga muvofiq shakllantiriladi / Оформляется согласно Форме №1 и приложению/ To be completed in accordance with Form No. 1 and the appendix\",\"File_Path\":\"tender/user-files/2026/10/30/4f606eca-04af-4dcf-b844-6d6252101139.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1117226,\"Name\":\"Молиявий ҳисоботлар*\\n(ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда): \\n1. Бухгалтерия баланси\\n\",\"Order_Num\":9,\"Description\":\"2-sonli shaklga muvofiq shakllantiriladi / Оформляется согласно Форме № 2/ Аccordance with Form No. 2\",\"File_Path\":\"tender/user-files/2026/10/30/9a360c2d-51ec-4b81-8cf7-43a7a3d68e68.xlsx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 22420,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Кашкадарьинская область",
+ "delivering_district_name": "Гузарский район",
+ "delivering_address": "Посёлок Шуртан",
+ "delivering_phone": "755524217",
+ "addon_description": "«Malakaviy talablar» va «Texnik talablar» bo‘limlarida nazarda tutilgan hujjatlarni, shu jumladan 1, 2, 3-shakllar va ilovalarini to‘liq hajmda hamda belgilangan shakllarga muvofiq taqdim etmagan ishtirokchilar diskvalifikatsiya qilinadi/ Участники, не предоставившие документы, указанные в разделах «Квалификационные требования» и «Технические требования», включая формы 1, 2, 3 и приложении к ним, в полном объеме и в соответствии с установленными формами, будут дисквалифицированы/ Participants who fail to provide the documents specified in the sections “Qualification Requirements” and “Technical Requirements”, including forms 1, 2, 3 and appendices thereto, in full and in accordance with the established forms, will be disqualified ",
+ "technical_description": "Texnik taklif texnik topshiriqning barcha talablariga muvofiq bo'lishi lozim/ Техническое предложение должно соответствовать всем требованиям технического задания/ The technical proposal must meet all the requirements of the technical specifications. Yetkazib berish bazisi: (INCOTERMS 2020) DDP- Shurtan GKM, O'zbekiston Respubliskasi, Qashqadaryo viloyati, G'uzor tumani, Shurtan qo'rg'oni, 180300/ Базис поставки: (ИНКОТЕРМС 2020) DDP- Шуртанский ГХК, Республика Узбекистан, Кашкадарьинская область, Гузарский район, п. Шуртан 180300/ Delivery terms: (INCOTERMS 2020) DDP- Shurtan GCC, Republic of Uzbekistan, Kashkadarya region, Guzar district, Shurtan village 180300",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": 523348,
+ "customer_region_name": "Qashqadaryo viloyati",
+ "customer_district_name": "Qashqadaryo viloyati",
+ "customer_street": "SHURTAN QO`RG`ONI",
+ "customer_zip": "100090",
+ "min_point": 1,
+ "financing_source": null,
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 724330.08,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2090070,
+     "converted_price": 981.17,
+     "converted_cost": 98117.35
+    },
+    {
+     "lot_detail_id": 2090071,
+     "converted_price": 1813.59,
+     "converted_cost": 181359.07
+    },
+    {
+     "lot_detail_id": 2090072,
+     "converted_price": 705.71,
+     "converted_cost": 70571.66
+    },
+    {
+     "lot_detail_id": 2090073,
+     "converted_price": 3742.81,
+     "converted_cost": 374281.98
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 8767.66,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2090070,
+     "converted_price": 11.87,
+     "converted_cost": 1187.66
+    },
+    {
+     "lot_detail_id": 2090071,
+     "converted_price": 21.95,
+     "converted_cost": 2195.26
+    },
+    {
+     "lot_detail_id": 2090072,
+     "converted_price": 8.54,
+     "converted_cost": 854.23
+    },
+    {
+     "lot_detail_id": 2090073,
+     "converted_price": 45.3,
+     "converted_cost": 4530.5
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 7964.09,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2090070,
+     "converted_price": 10.78,
+     "converted_cost": 1078.81
+    },
+    {
+     "lot_detail_id": 2090071,
+     "converted_price": 19.94,
+     "converted_cost": 1994.06
+    },
+    {
+     "lot_detail_id": 2090072,
+     "converted_price": 7.75,
+     "converted_cost": 775.94
+    },
+    {
+     "lot_detail_id": 2090073,
+     "converted_price": 41.15,
+     "converted_cost": 4115.27
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 105419000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2090070,
+     "converted_price": 142800.0,
+     "converted_cost": 14280000.0
+    },
+    {
+     "lot_detail_id": 2090071,
+     "converted_price": 263950.0,
+     "converted_cost": 26395000.0
+    },
+    {
+     "lot_detail_id": 2090072,
+     "converted_price": 102710.0,
+     "converted_cost": 10271000.0
+    },
+    {
+     "lot_detail_id": 2090073,
+     "converted_price": 544730.0,
+     "converted_cost": 54473000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 0,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

@@ -1,0 +1,486 @@
+{
+ "id": 524708,
+ "display_no": "26110012524708",
+ "start_date": "2026-11-13T09:40:59",
+ "end_date": "2026-11-20T09:40:59",
+ "clarific_date": "2026-11-20T09:40:59",
+ "start_cost": 70000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2082725,\"Order_Num\":1,\"Category_Id\":127029,\"Plangraph_Detail_Id\":24093218,\"Product_Id\":459841,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":70000000,\"Cost\":70000000,\"Description\":\"Услуга по разработке проекта Заявления о воздействии на окружающую среду (ЗВОС)\",\"Expenditure_Id\":44299990,\"Expenditure_Name\":\"Прочие расходы на приобретение товаров и услуг\",\"Plan_Id\":9871380,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"74.90.13.000-00003\",\"Guarantee_Term\":1,\"Delivery_Term\":25,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа касбий, илмий ва техник хизматлар\",\"Product_Name\":\"Атроф-муҳитга таъсир кўрсатиш ҳақидаги ариза лойиҳасини ишлаб чиқиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 1.0,
+ "advance_payment_perc": 0.0,
+ "term_payment_days": 365,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Bo‘lim boshlig‘i\",\"Fullname\":\"N.Amonov\"}]",
+ "rest_time": 211025,
+ "customer_name": "?Сув хужалигида бозор механизмларини жорий жорий килиш?  давлат муассасаси",
+ "customer_tin": "305666630",
+ "payment_type_name": "Оплата по факту",
+ "tech_file_name": "202610203512295504.pdf",
+ "tech_file_path": "/files/2026/10/20/202610203512295504.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 10566710.0,
+ "tech_doc_file_name": "20262710002408520611.pdf",
+ "tech_doc_file_path": "files/2026/10/27/20262710002408520611.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 290012.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610203512969753.docx",
+ "contract_proform_file_path": "/files/2026/10/20/202610203512969753.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 36880.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 3,
+ "nonauthorized_count": 1768,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2771477,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Tanlov ishtirokchisi to‘g‘risida ma’lumotlar:",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 22.22,
+   "description": "Tanlov ishtirokchisi to‘g‘risida ma’lumotlar:",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "- Doimiy ishlaydigan umumiy xodimlar ro‘yxati (Yagona milliy mehnat tizimidan) bunda, suv xo‘jaligi va gidrotexnika inshootlari soxasi bo‘yicha ish tajribasiga ega bo‘lgan mutaxassis mavjud bo‘lishi shart 4 ball, mavjud bo‘lmasa 0 ball."
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "- Tanlov ishtirokchisi tomonidan Korxona ustavi, Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnomasi va rahbar tayinlanganligi to‘g‘risidagi buyrug‘i nusxasi taqdim etilishi; to‘liq bo‘lsa 6 ball, to‘liq bo‘lmasa 0 ball."
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771478,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Tanlov ishtirokchisining moliyaviy holati to‘g‘risida ma’lumotlar; ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 22.22,
+   "description": "Tanlov ishtirokchisining moliyaviy holati to‘g‘risida ma’lumotlar; ",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "- Qarzdorligi yo‘qligi bo‘yicha K-2 ma’lumoti (ohirgi bir oy muddatdagi) (bankning maxsus blankasida, muhr va imzo qo‘yilgan bo‘lishi shart); mavjud bo‘lsa 6 ball, mavjud bo‘lmasa 0 ball. "
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "- Yuridik shaxs-soliq to‘lovchining soliqlar va yig‘malardan soliq qarzi mavjud yoki mavjud emasligi haqidagi ma’lumotnoma (QR kodli va ohirgi bir oy muddatdagi): mavjud bo‘lsa 4 ball, mavjud bo‘lmasa 0 ball. "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771479,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Tanlovga qo‘yilgan obyektlarga doir ishlar bo‘yicha tajribasi; ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 22.22,
+   "description": "Tanlovga qo‘yilgan obyektlarga doir ishlar bo‘yicha tajribasi; ",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Mazkur e’longa doir obyektlarda ohirgi 3 yilda bajargan ishlar ro‘yxati hamda DEEMning ijobiy xulosalari: 10 dan ortiq bo‘lsa 10 ball, 10 dan kam bo‘lsa 0 ball;"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771480,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Ishlarni bajarishda foydalaniladigan zarur  asbob-uskuna va anjomlar ro‘yxati.",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 33.33,
+   "description": "Ishlarni bajarishda foydalaniladigan zarur \r\nasbob-uskuna va anjomlar ro‘yxati.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "-\tGeodeziya, kartografiya va marksheyderlik ishlarini amalga oshirish uchun tasdiqnoma (ruxsatnoma) mavjud bo‘lsa 5 ball, mavjud bo‘lmasa 0 ball. "
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Bajarish uchun zarur bo‘ladigan anjomlar: \r\n-\tGeodezik, topografik va toposyomka ishlarini amalga oshirish uchun zaruriy asbob uskunalar hamda yuqori aniqlikda ishlovchi qurilmalardan (GNSS, elektron taxeometr va lazerli yoki uch o‘lchamli (3D) skaner) biri bo‘lishi lozim va belgilangan muddatda O‘zstandartdan o‘tkazilganlik to‘g‘risidagi ruxsatnomasi mavjud bo‘lsa 10 ball, mavjud bo‘lmasa 0 ball."
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2771477,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Tanlov ishtirokchisi to‘g‘risida ma’lumotlar:\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":22.22,\"Description\":\"Tanlov ishtirokchisi to‘g‘risida ma’lumotlar:\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"- Doimiy ishlaydigan umumiy xodimlar ro‘yxati (Yagona milliy mehnat tizimidan) bunda, suv xo‘jaligi va gidrotexnika inshootlari soxasi bo‘yicha ish tajribasiga ega bo‘lgan mutaxassis mavjud bo‘lishi shart 4 ball, mavjud bo‘lmasa 0 ball.\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"- Tanlov ishtirokchisi tomonidan Korxona ustavi, Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnomasi va rahbar tayinlanganligi to‘g‘risidagi buyrug‘i nusxasi taqdim etilishi; to‘liq bo‘lsa 6 ball, to‘liq bo‘lmasa 0 ball.\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771478,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Tanlov ishtirokchisining moliyaviy holati to‘g‘risida ma’lumotlar; \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":22.22,\"Description\":\"Tanlov ishtirokchisining moliyaviy holati to‘g‘risida ma’lumotlar; \",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"- Qarzdorligi yo‘qligi bo‘yicha K-2 ma’lumoti (ohirgi bir oy muddatdagi) (bankning maxsus blankasida, muhr va imzo qo‘yilgan bo‘lishi shart); mavjud bo‘lsa 6 ball, mavjud bo‘lmasa 0 ball. \"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"- Yuridik shaxs-soliq to‘lovchining soliqlar va yig‘malardan soliq qarzi mavjud yoki mavjud emasligi haqidagi ma’lumotnoma (QR kodli va ohirgi bir oy muddatdagi): mavjud bo‘lsa 4 ball, mavjud bo‘lmasa 0 ball. \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771479,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Tanlovga qo‘yilgan obyektlarga doir ishlar bo‘yicha tajribasi; \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":22.22,\"Description\":\"Tanlovga qo‘yilgan obyektlarga doir ishlar bo‘yicha tajribasi; \",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Mazkur e’longa doir obyektlarda ohirgi 3 yilda bajargan ishlar ro‘yxati hamda DEEMning ijobiy xulosalari: 10 dan ortiq bo‘lsa 10 ball, 10 dan kam bo‘lsa 0 ball;\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771480,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Ishlarni bajarishda foydalaniladigan zarur  asbob-uskuna va anjomlar ro‘yxati.\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":33.33,\"Description\":\"Ishlarni bajarishda foydalaniladigan zarur \\r\\nasbob-uskuna va anjomlar ro‘yxati.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"-\\tGeodeziya, kartografiya va marksheyderlik ishlarini amalga oshirish uchun tasdiqnoma (ruxsatnoma) mavjud bo‘lsa 5 ball, mavjud bo‘lmasa 0 ball. \"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Bajarish uchun zarur bo‘ladigan anjomlar: \\r\\n-\\tGeodezik, topografik va toposyomka ishlarini amalga oshirish uchun zaruriy asbob uskunalar hamda yuqori aniqlikda ishlovchi qurilmalardan (GNSS, elektron taxeometr va lazerli yoki uch o‘lchamli (3D) skaner) biri bo‘lishi lozim va belgilangan muddatda O‘zstandartdan o‘tkazilganlik to‘g‘risidagi ruxsatnomasi mavjud bo‘lsa 10 ball, mavjud bo‘lmasa 0 ball.\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1111390,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111391,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111392,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111393,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111394,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111395,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111396,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 7,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111397,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 8,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1111390,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111391,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111392,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111393,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111394,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111395,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111396,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":7,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111397,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":8,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 569399,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Шайхантахурский район",
+ "delivering_address": "Labzak ko'chasi 1 A uy",
+ "delivering_phone": "993500880",
+ "addon_description": "Namangan viloyati, Norin tumani “Kemaboshi” MFY hududidan oqib o‘tuvchi Qoradaryo daryosi o‘zanidagi uchastkada o‘zan tozalash va to‘kma damba tiklash ishlariga atrof-muhitga ta’sirni baholash bo‘yicha loyiha hujjatlarini ishlab chiqish",
+ "technical_description": "Texnik xujjatlar",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 520611,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Тошкент шахри Шайхонтахур тумани Лабзак кучаси 1а уй",
+ "customer_zip": "00000",
+ "min_point": 4,
+ "financing_source": null,
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 480967.43,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082725,
+     "converted_price": 480967.43,
+     "converted_cost": 480967.43
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 70000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082725,
+     "converted_price": 70000000.0,
+     "converted_cost": 70000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 5821.87,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082725,
+     "converted_price": 5821.87,
+     "converted_cost": 5821.87
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 5288.29,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082725,
+     "converted_price": 5288.29,
+     "converted_cost": 5288.29
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

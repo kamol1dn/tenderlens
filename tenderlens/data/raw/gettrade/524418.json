@@ -1,0 +1,841 @@
+{
+ "id": 524418,
+ "display_no": "26120012524418",
+ "start_date": "2026-11-17T09:25:21",
+ "end_date": "2026-11-24T09:25:21",
+ "clarific_date": "2026-11-24T09:25:21",
+ "start_cost": 1504580638.5,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2081664,\"Order_Num\":1,\"Category_Id\":123457,\"Plangraph_Detail_Id\":24119038,\"Product_Id\":645794,\"Product_Type_Id\":3,\"Quantity\":50,\"Price\":30091612.77,\"Cost\":1504580638.5,\"Description\":\"Капитальноый ремонт полуоткрытых грузовых вагонов АО “УМК” с продлением срока службы и предоставлением права движения по железным дорогам Р.УЗ (согласно ТЗ) / «УМК» АЖ ярим-очиқ юк вагонларнинг хизмат муддатини узайтириш ҳамда Ўзбекистон Республикаси темир йўллари бўйича ҳаракатланиш ҳуқуқини бериш билан мукаммал таъмирлаш (Техник топшириққа мувофиқ)\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9885816,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"33.17.11.000-00006\",\"Guarantee_Term\":12,\"Delivery_Term\":40,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Машина ва ускуналарни таъмирлаш ва ўрнатиш бўйича хизматлар\",\"Product_Name\":\"Темир йўл вагонларини таъмирлаш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 0.0,
+ "advance_payment_perc": 0.0,
+ "term_payment_days": 10,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"tel: +998920450728\",\"Fullname\":\"Tender savdolarini tashkil etish bo'limi mutaxassislari\"}]",
+ "rest_time": 555586,
+ "customer_name": "\"O`ZBEKISTON METALLURGIYA KOMBINATI\" AJ",
+ "customer_tin": "200460222",
+ "payment_type_name": "Оплата по факту",
+ "tech_file_name": "202611095818720607.pdf",
+ "tech_file_path": "/files/2026/11/9/202611095818720607.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 789821.0,
+ "tech_doc_file_name": "20261711042433524418.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711042433524418.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 323655.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611095818811150.docx",
+ "contract_proform_file_path": "/files/2026/11/9/202611095818811150.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 31060.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 3,
+ "nonauthorized_count": 321,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2769851,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Texnik taklif/Техническое предложение",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 1.43,
+   "description": "Техник таклиф (техник топширикнинг барча талабларига мувофик) 4-шакл/Техническое предложение (согласно всем требованиям ТЗ) форма№4",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Texnik taklif/Техническое предложение",
+   "form_file_path": "tender/user-files/2026/11/9/f3de9f1c-ad1c-407b-8299-b8751ece9eb4.docx"
+  },
+  {
+   "id": 2769852,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Етказиб бериш ва тулов шартлари/условия доставки и оплаты",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 1.43,
+   "description": "Етказиб бериш шартлари ва муддатлари, тўлов шартлари тўғрисида маълумот (5- шакл)/Информация об условиях и сроках поставки, условиях оплаты (форма №5)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Етказиб бериш ва тулов шартлари/условия доставки и оплаты",
+   "form_file_path": "tender/user-files/2026/11/9/862ed139-e30d-4bcc-b8df-9cada3458b9e.docx"
+  },
+  {
+   "id": 2769853,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл/Произвольная форма",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 14.29,
+   "description": "Давлат рўйхатидан ўтказилганлигини тасдиқловчи гувоҳнома, тегишли лицензия ҳамда ходимларнинг малака сертификатлари ва аттестатларидан нусхаларни тақдим этиши / Предоставление копий свидетельства о государственной регистрации, соответствующей лицензии, а также квалификационных сертификатов и аттестатов сотрудников:",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Эркин шакл/Произвольная форма",
+   "form_file_path": "tender/user-files/2026/11/9/f4850ebf-125c-4bc4-a9dc-c54b31bf5fee.docx"
+  },
+  {
+   "id": 2769854,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл/Произвольная форма",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 14.29,
+   "description": "Ўрнатилган стандарт талабларига мувофиқ ижрочи ходимларнинг штат бирлигида қайд этилганлиги, ушбу турдаги ишларни бажариш учун ҳуқуқларининг мавжудлиги / Наличие сотрудников в штатном расписании исполнителя в соответствии с установленными требованиями стандартов, наличие прав на выполнение данного вида работ.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Эркин шакл/Произвольная форма",
+   "form_file_path": "tender/user-files/2026/11/9/be25d1d7-fa36-488f-b8d8-2c7bd73d8a2d.docx"
+  },
+  {
+   "id": 2769855,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Эркин шакл/Произвольная форма",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 21.43,
+   "description": "Узоқ йиллик тажрибага эга эканлиги тўғрисидаги маълумотларни тақдим этиши / Предоставление сведений о наличии многолетнего опыта работы.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Имеется (опыт работы от 1\r\nгода до 3 лет)"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Имеется (опыт работы от 5\r\nдо 10 лет)"
+    }
+   ],
+   "form_name": "Эркин шакл/Произвольная форма",
+   "form_file_path": "tender/user-files/2026/11/9/40d63e81-edf1-4d9e-9661-62fb0b01b84d.docx"
+  },
+  {
+   "id": 2769856,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Эркин шакл/Произвольная форма",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 4.29,
+   "description": "Ушбу ишга жалб қилинувчи ходимлар 3 йилдан кам бўлмаган иш тажрибасига ва шундай турдаги ишларда ишлаганлигини тасдиқловчи шартномалар нусхасини тақдим этиши / Предоставление копий договоров, подтверждающих, что привлекаемые к данной работе сотрудники имеют опыт работы не менее 3 лет и работали в аналогичных сферах.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Эркин шакл/Произвольная форма",
+   "form_file_path": "tender/user-files/2026/11/9/7e75e01c-664b-4b41-ae9a-6e93b8ebbd56.docx"
+  },
+  {
+   "id": 2769857,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл/Произвольная форма",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 7.14,
+   "description": "Ижрочи ишда фойдаланиладиган замонавий юқори технологияли, калибрланган, сертификатлаштирилган ўлчов қурилма ва воситалар билан жиҳозланган бўлиб, янги сертификатлаштирилган эҳтиёт қисмларидан фойдаланиши ҳамда уларга тегишли сертификатларни тақдим этиши лозим / Исполнитель должен быть оснащен современными высокими технологиями, калиброванными и сертифицированными средствами и приборами измерений, используемыми в работе, применять новые сертифицированные запасные части, а также предоставить на них соответствующие сертификаты:",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Эркин шакл/Произвольная форма",
+   "form_file_path": "tender/user-files/2026/11/9/dc2dcacb-4f14-4f68-a9a0-f9006913fd47.docx"
+  },
+  {
+   "id": 2769858,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл/Произвольная форма",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 7.14,
+   "description": "Ярим-очиқ вагонларини мукаммал таъмирлаш ишларини амалга ошириш учун ижрочининг ҳудудида мавжудлиги / Наличие у исполнителя собственной территории (производственной базы) для выполнения работ по капитальному ремонту полувагонов (полуоткрытых вагонов)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Эркин шакл/Произвольная форма",
+   "form_file_path": "tender/user-files/2026/11/9/573291ea-b2cc-4503-85b2-7970bbaccf88.docx"
+  },
+  {
+   "id": 2769859,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл/Произвольная форма",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 7.14,
+   "description": "Мукаммал таъмир ишлари бажарилиши жараёнида ижрочи ўз материаллари ва эҳтиёт қисмлари мавжудлиги / Наличие у исполнителя собственных материалов и запасных частей в процессе выполнения капитального ремонта",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Эркин шакл/Произвольная форма",
+   "form_file_path": "tender/user-files/2026/11/9/a381db8e-79f7-46b2-bc28-5d14b277d5bc.docx"
+  },
+  {
+   "id": 2769860,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл/Произвольная форма",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 7.14,
+   "description": "Ижрочи томонидан қуйидаги техник ҳужжатлар яъни, ВУ-4 шакли, ВУ-22 шакли, ВУ-23 шакли, ВУ-36 шакли, Техник паспортлари (агар йўқ бўлса ижрочи томонидан тикланади), ахборот ҳисоблаш маркази 2612 маълумоти, хизмат муддатини узайтирилганлиги тўғрисидаги гувоҳномаларни тиклаб бериш ҳуқуқи мавжудлиги / Наличие у исполнителя права на оформление (восстановление) следующих технических документов, а именно: формы ВУ-4, формы ВУ-22, формы ВУ-23, формы ВУ-36, технических паспортов (в случае отсутствия восстанавливаются исполнителем), справки информационно-вычислительного центра (ИВЦ) 2612, а также свидетельств о продлении срока службы.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Эркин шакл/Произвольная форма",
+   "form_file_path": "tender/user-files/2026/11/9/c44c9584-5179-4525-828a-6314789dbd16.docx"
+  },
+  {
+   "id": 2769861,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Эркин шакл/Произвольная форма",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 14.29,
+   "description": "Ижрочини таъмирланадиган вагонларни Ўзбекистон Республикаси темир йўллари бўйича ҳаракатланиш ҳуқуқини бериш билан таъмирлашга ҳуқуқи борлиги / Наличие у исполнителя права на проведение ремонта вагонов с предоставлением права их дальнейшего движения по железным дорогам Республики Узбекистан.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Эркин шакл/Произвольная форма",
+   "form_file_path": "tender/user-files/2026/11/9/7e2c5d1e-a775-4a2a-baf3-f8fa690c8825.docx"
+  }
+ ],
+ "fields": "[{\"Id\":2769851,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Texnik taklif/Техническое предложение\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":1.43,\"Description\":\"Техник таклиф (техник топширикнинг барча талабларига мувофик) 4-шакл/Техническое предложение (согласно всем требованиям ТЗ) форма№4\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Texnik taklif/Техническое предложение\",\"Form_File_Path\":\"tender/user-files/2026/11/9/f3de9f1c-ad1c-407b-8299-b8751ece9eb4.docx\"},{\"Id\":2769852,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Етказиб бериш ва тулов шартлари/условия доставки и оплаты\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":1.43,\"Description\":\"Етказиб бериш шартлари ва муддатлари, тўлов шартлари тўғрисида маълумот (5- шакл)/Информация об условиях и сроках поставки, условиях оплаты (форма №5)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Етказиб бериш ва тулов шартлари/условия доставки и оплаты\",\"Form_File_Path\":\"tender/user-files/2026/11/9/862ed139-e30d-4bcc-b8df-9cada3458b9e.docx\"},{\"Id\":2769853,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл/Произвольная форма\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":14.29,\"Description\":\"Давлат рўйхатидан ўтказилганлигини тасдиқловчи гувоҳнома, тегишли лицензия ҳамда ходимларнинг малака сертификатлари ва аттестатларидан нусхаларни тақдим этиши / Предоставление копий свидетельства о государственной регистрации, соответствующей лицензии, а также квалификационных сертификатов и аттестатов сотрудников:\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Эркин шакл/Произвольная форма\",\"Form_File_Path\":\"tender/user-files/2026/11/9/f4850ebf-125c-4bc4-a9dc-c54b31bf5fee.docx\"},{\"Id\":2769854,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл/Произвольная форма\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":14.29,\"Description\":\"Ўрнатилган стандарт талабларига мувофиқ ижрочи ходимларнинг штат бирлигида қайд этилганлиги, ушбу турдаги ишларни бажариш учун ҳуқуқларининг мавжудлиги / Наличие сотрудников в штатном расписании исполнителя в соответствии с установленными требованиями стандартов, наличие прав на выполнение данного вида работ.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Эркин шакл/Произвольная форма\",\"Form_File_Path\":\"tender/user-files/2026/11/9/be25d1d7-fa36-488f-b8d8-2c7bd73d8a2d.docx\"},{\"Id\":2769855,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл/Произвольная форма\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":21.43,\"Description\":\"Узоқ йиллик тажрибага эга эканлиги тўғрисидаги маълумотларни тақдим этиши / Предоставление сведений о наличии многолетнего опыта работы.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Имеется (опыт работы от 1\\r\\nгода до 3 лет)\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Имеется (опыт работы от 5\\r\\nдо 10 лет)\"}],\"Form_Name\":\"Эркин шакл/Произвольная форма\",\"Form_File_Path\":\"tender/user-files/2026/11/9/40d63e81-edf1-4d9e-9661-62fb0b01b84d.docx\"},{\"Id\":2769856,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл/Произвольная форма\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":4.29,\"Description\":\"Ушбу ишга жалб қилинувчи ходимлар 3 йилдан кам бўлмаган иш тажрибасига ва шундай турдаги ишларда ишлаганлигини тасдиқловчи шартномалар нусхасини тақдим этиши / Предоставление копий договоров, подтверждающих, что привлекаемые к данной работе сотрудники имеют опыт работы не менее 3 лет и работали в аналогичных сферах.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Эркин шакл/Произвольная форма\",\"Form_File_Path\":\"tender/user-files/2026/11/9/7e75e01c-664b-4b41-ae9a-6e93b8ebbd56.docx\"},{\"Id\":2769857,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл/Произвольная форма\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":7.14,\"Description\":\"Ижрочи ишда фойдаланиладиган замонавий юқори технологияли, калибрланган, сертификатлаштирилган ўлчов қурилма ва воситалар билан жиҳозланган бўлиб, янги сертификатлаштирилган эҳтиёт қисмларидан фойдаланиши ҳамда уларга тегишли сертификатларни тақдим этиши лозим / Исполнитель должен быть оснащен современными высокими технологиями, калиброванными и сертифицированными средствами и приборами измерений, используемыми в работе, применять новые сертифицированные запасные части, а также предоставить на них соответствующие сертификаты:\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Эркин шакл/Произвольная форма\",\"Form_File_Path\":\"tender/user-files/2026/11/9/dc2dcacb-4f14-4f68-a9a0-f9006913fd47.docx\"},{\"Id\":2769858,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл/Произвольная форма\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":7.14,\"Description\":\"Ярим-очиқ вагонларини мукаммал таъмирлаш ишларини амалга ошириш учун ижрочининг ҳудудида мавжудлиги / Наличие у исполнителя собственной территории (производственной базы) для выполнения работ по капитальному ремонту полувагонов (полуоткрытых вагонов)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Эркин шакл/Произвольная форма\",\"Form_File_Path\":\"tender/user-files/2026/11/9/573291ea-b2cc-4503-85b2-7970bbaccf88.docx\"},{\"Id\":2769859,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл/Произвольная форма\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":7.14,\"Description\":\"Мукаммал таъмир ишлари бажарилиши жараёнида ижрочи ўз материаллари ва эҳтиёт қисмлари мавжудлиги / Наличие у исполнителя собственных материалов и запасных частей в процессе выполнения капитального ремонта\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Эркин шакл/Произвольная форма\",\"Form_File_Path\":\"tender/user-files/2026/11/9/a381db8e-79f7-46b2-bc28-5d14b277d5bc.docx\"},{\"Id\":2769860,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл/Произвольная форма\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":7.14,\"Description\":\"Ижрочи томонидан қуйидаги техник ҳужжатлар яъни, ВУ-4 шакли, ВУ-22 шакли, ВУ-23 шакли, ВУ-36 шакли, Техник паспортлари (агар йўқ бўлса ижрочи томонидан тикланади), ахборот ҳисоблаш маркази 2612 маълумоти, хизмат муддатини узайтирилганлиги тўғрисидаги гувоҳномаларни тиклаб бериш ҳуқуқи мавжудлиги / Наличие у исполнителя права на оформление (восстановление) следующих технических документов, а именно: формы ВУ-4, формы ВУ-22, формы ВУ-23, формы ВУ-36, технических паспортов (в случае отсутствия восстанавливаются исполнителем), справки информационно-вычислительного центра (ИВЦ) 2612, а также свидетельств о продлении срока службы.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Эркин шакл/Произвольная форма\",\"Form_File_Path\":\"tender/user-files/2026/11/9/c44c9584-5179-4525-828a-6314789dbd16.docx\"},{\"Id\":2769861,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Эркин шакл/Произвольная форма\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":14.29,\"Description\":\"Ижрочини таъмирланадиган вагонларни Ўзбекистон Республикаси темир йўллари бўйича ҳаракатланиш ҳуқуқини бериш билан таъмирлашга ҳуқуқи борлиги / Наличие у исполнителя права на проведение ремонта вагонов с предоставлением права их дальнейшего движения по железным дорогам Республики Узбекистан.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Эркин шакл/Произвольная форма\",\"Form_File_Path\":\"tender/user-files/2026/11/9/7e2c5d1e-a775-4a2a-baf3-f8fa690c8825.docx\"}]",
+ "js_qualification_fields": [
+  {
+   "id": 1109336,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109337,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109338,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109339,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)",
+   "file_path": "tender/user-files/2026/11/9/4d6435a0-0a92-45de-b926-a5668daa7779.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109340,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)",
+   "file_path": "tender/user-files/2026/11/9/6b413203-d7c9-4acb-bff6-5bcf58e0d0fd.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109341,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109342,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 7,
+   "description": "Танлаш иштирокчиси ва унинг таъсисчилари ҳақида умумий маълумотлар (1-шакл)/ Общая информация об участнике отбора и его учредителях (форма №1)",
+   "file_path": "tender/user-files/2026/11/9/c5c3621d-c79a-4d18-99e3-67b81c54acc8.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109343,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 8,
+   "description": "Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)",
+   "file_path": "tender/user-files/2026/11/9/619938e1-2e71-45ec-ab03-4aca57d330f0.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109344,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 9,
+   "description": "Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)",
+   "file_path": "tender/user-files/2026/11/9/c0a0d3b9-8bc6-4d52-92c7-f09b6c4c4b0d.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1109345,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 10,
+   "description": "Коррупция кўринишларига йўл қўйилмаслик бўйича ариза (3-шакл)/Заявление по недопущению коррупционных проявлений (форма №3)",
+   "file_path": "tender/user-files/2026/11/9/31aeae49-77b2-465f-9582-2115bfb09f2c.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1109336,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109337,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109338,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109339,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)\",\"File_Path\":\"tender/user-files/2026/11/9/4d6435a0-0a92-45de-b926-a5668daa7779.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109340,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)\",\"File_Path\":\"tender/user-files/2026/11/9/6b413203-d7c9-4acb-bff6-5bcf58e0d0fd.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109341,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1109342,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":7,\"Description\":\"Танлаш иштирокчиси ва унинг таъсисчилари ҳақида умумий маълумотлар (1-шакл)/ Общая информация об участнике отбора и его учредителях (форма №1)\",\"File_Path\":\"tender/user-files/2026/11/9/c5c3621d-c79a-4d18-99e3-67b81c54acc8.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109343,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":8,\"Description\":\"Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)\",\"File_Path\":\"tender/user-files/2026/11/9/619938e1-2e71-45ec-ab03-4aca57d330f0.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109344,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":9,\"Description\":\"Иштирочи қайта ташкил этиш, тугатиш ёки банкротлик босқичида, буюртмачи билан судлашиш ёки арбитраж муҳокамаси ҳолатида эмаслигини, шунингдек аввал тузилган шартномалар бўйича мажбуриятларнинг тўлиқ ижро этганлигини тасдиқловчи кафолат хати (2-шакл)/Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства, в состоянии судебного или арбитражного разбирательства с заказчиком, а также об отсутствии ненадлежащее исполненных обязательств по ранее заключенным договорам (форма №2)\",\"File_Path\":\"tender/user-files/2026/11/9/c0a0d3b9-8bc6-4d52-92c7-f09b6c4c4b0d.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1109345,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":10,\"Description\":\"Коррупция кўринишларига йўл қўйилмаслик бўйича ариза (3-шакл)/Заявление по недопущению коррупционных проявлений (форма №3)\",\"File_Path\":\"tender/user-files/2026/11/9/31aeae49-77b2-465f-9582-2115bfb09f2c.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 465,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Ташкентская область",
+ "delivering_district_name": "Бекабад",
+ "delivering_address": "АО Узметкомбинат Ташкентская область г.Бекабад ул.Сирдарё 1",
+ "delivering_phone": "920450728",
+ "addon_description": "Xurmatli ishtirokchilar, tanlash hujjatlari va texnik topshiriqni diqqat bilan o'qib chiqishingizni so'raymiz. Ishtirokchilardan tanlash taklifining taqdim etilishi, ishtirokchi texnik topshiriq va tanlov hujjatlarining barcha shartlariga rozi ekanligiga asos bo'ladi. Ishtirokchilarning takliflari tanlash hujjatlari shakllariga muvofiq tuziladi. Ushbu shakllarga nomuvofiq tuzilgan takliflar komissiya a'zolari tomonidan ko'rib chiqilmaydi. Shuningdek, sizga ochiq elektron chat orqali tushuntirish so'rovi bilan bog'lanish imkoniyati mavjudligini eslatib o'tamiz. Уважаемые участники просим Вас внимательно ознакомиться с условиями отборной документации и технического задания. Подача участниками предложения является основанием того что участник согласен со всеми условиями технического задания и отборной документации. Предложения участников оформляются согласно формам отборной документации",
+ "technical_description": "«УМК» АЖ ярим-очиқ юк вагонларнинг хизмат муддатини узайтириш ҳамда Ўзбекистон Республикаси темир йўллари бўйича ҳаракатланиш ҳуқуқини бериш билан мукаммал таъмирлаш буйича танлаш хужжатлари (Техник топшириққа мувофиқ) / Отборочная документация на услугу по капитальному ремонту полуоткрытых грузовых вагонов АО “УМК” с продлением срока службы и предоставлением права движения по железным дорогам Р.УЗ (согласно ТЗ)",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent viloyati",
+ "customer_district_name": "Toshkent viloyati",
+ "customer_street": "ул.Сирдарё, №1",
+ "customer_zip": "100090",
+ "min_point": 10,
+ "financing_source": "Korxona mablag'lari/собственные средства",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 113666.57,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081664,
+     "converted_price": 2273.33,
+     "converted_cost": 113666.57
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 10337918.36,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081664,
+     "converted_price": 206758.36,
+     "converted_cost": 10337918.36
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 125135.51,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081664,
+     "converted_price": 2502.71,
+     "converted_cost": 125135.51
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 1504580638.5,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081664,
+     "converted_price": 30091612.77,
+     "converted_cost": 1504580638.5
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

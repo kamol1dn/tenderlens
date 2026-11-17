@@ -1,0 +1,1051 @@
+{
+ "id": 523748,
+ "display_no": "26110012523748",
+ "start_date": "2026-11-16T15:40:31",
+ "end_date": "2026-11-23T15:40:31",
+ "clarific_date": "2026-11-23T15:40:31",
+ "start_cost": 1455870000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2078129,\"Order_Num\":1,\"Category_Id\":125805,\"Plangraph_Detail_Id\":24309964,\"Product_Id\":647862,\"Product_Type_Id\":3,\"Quantity\":26000,\"Price\":37330,\"Cost\":970580000,\"Description\":\"Issik ovkat tayyorlal berish autsorsing xizmati\",\"Expenditure_Id\":44252300,\"Expenditure_Name\":\"Продуктов питания\",\"Plan_Id\":9985900,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"56.29.19.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Умумий овқатланиш хизматлари\",\"Product_Name\":\"Озиқ-овқат тайёрлаш аутсорсинги хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"порция\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Озиқ-овқатни қабул қилиш тури\",\"User_Value\":\"Комплекс (тушлик, иккинчи тушлик, кечки овқат)\",\"User_Value_Id\":5,\"Pnum\":4}]},{\"Id\":2078130,\"Order_Num\":2,\"Category_Id\":125805,\"Plangraph_Detail_Id\":24309965,\"Product_Id\":647862,\"Product_Type_Id\":3,\"Quantity\":13000,\"Price\":37330,\"Cost\":485290000,\"Description\":\"Issik ovkat tayyorlal berish autsorsing xizmati\",\"Expenditure_Id\":44252300,\"Expenditure_Name\":\"Продуктов питания\",\"Plan_Id\":9985900,\"Plan_Position_Id\":0,\"Month_Id\":12,\"Month_Name\":\"Dekabr\",\"Product_Code\":\"56.29.19.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":31,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Умумий овқатланиш хизматлари\",\"Product_Name\":\"Озиқ-овқат тайёрлаш аутсорсинги хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"порция\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Озиқ-овқатни қабул қилиш тури\",\"User_Value\":\"Комплекс (тушлик, иккинчи тушлик, кечки овқат)\",\"User_Value_Id\":5,\"Pnum\":4}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 15.0,
+ "term_payment_days": 90,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Raxbar\",\"Fullname\":\"Saitkulov Xoshimjon  Anvarovich\"}]",
+ "rest_time": 491731,
+ "customer_name": "Вилоят болалар куп тармокли тиббиёт маркази",
+ "customer_tin": "200056272",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611032129627153.pdf",
+ "tech_file_path": "/files/2026/11/3/202611032129627153.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 6989246.0,
+ "tech_doc_file_name": "20261711002427523748.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711002427523748.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 276369.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610302439723840.doc",
+ "contract_proform_file_path": "/files/2026/10/30/202610302439723840.doc",
+ "contract_proform_file_ext": "DOC",
+ "contract_proform_file_sizes": 73728.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 3,
+ "nonauthorized_count": 644,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2765975,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 25.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "керакли  Хужжатлар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 25.0,
+   "description": "Ishtirokchi amaldagi SanQvaN talablariga muvofiq taomnoma, menyu-kalkulyatsiya, har bir taom bo‘yicha chiqish vazni, tarkibi, mahsulot sarfi, zarur hollarda yosh toifalari kesimidagi meyorlar, ozuqaviy qiymat va kaloriyalilik ko‘rsatkichlarini taqdim etadi. Hujjatlar jadval shaklida, tasdiqlangan va imzolangan bo‘lishi lozim.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 25.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 24.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 23.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 22.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 21.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 19.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 18.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 17.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 16.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 14.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 13.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 12.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 11.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 9.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Хужжатлар тулик булмаса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2765976,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 25.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "керакли  Хужжатлар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 25.0,
+   "description": "Ishtirokchi autsorsing xizmatini bajarish uchun mavjud moddiy-texnik baza, oshxona va ishlab chiqarish jihozlari, omborxona, sovitkich uskunalari, transport vositalari, inventarlar hamda xodimlar tarkibi to‘g‘risidagi ma’lumotnomani taqdim etadi. \r\nMazkur ma’lumotlar ro‘yxat shaklida, iloji bo‘lsa foto hamda tasdiqlovchi hujjatlar bilan asoslantiriladi. \r\nKadrlar bo‘yicha shtat ro‘yxati, diplom,malaka va boshqa kerakli hujjatlari nusxalari ilova qilinadi\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 25.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 24.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 23.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 22.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 21.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 19.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 18.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 17.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 16.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 14.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 13.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 12.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 11.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 9.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Хужжатлар тулик булмаса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2765977,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "керакли  Хужжатлар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 5.0,
+   "description": "Ishtirokchi shartnoma umumiy summasining kamida 1 foizi miqdorida investitsiya kiritishga roziligi haqida kafolat xatini taqdim etadi. \r\nKafolat xatida investitsiya yo‘nalishlari \r\n(jihoz, inventar, ta’mirlash, moddiy-texnik baza mustahkamlash va boshqalar) hamda taxminiy qiymatlar ko‘rsatiladi.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Хужжатлар тулик булмаса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2765978,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "керакли  Хужжатлар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Ishtirokchi kamida uch oylik xizmat ko‘rsatish qiymatini qoplashga yetarli aylanma mablag‘lari mavjudligini tasdiqlovchi hujjatlarni taqdim etadi. \r\nBunda bank hisobvaraqlaridagi qoldiq to‘g‘risida bank ma’lumotnomasi, moliyaviy hisobotlar, pul oqimi to‘g‘risidagi ma’lumotnoma yoki boshqa moliyaviy tasdiqlovchi hujjatlar ilova qilinadi. Hujjatda summa aniq ko‘rsatilishi lozim\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Хужжатлар тулик булмаса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2765979,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "керакли  Хужжатлар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Ishtirokchi buyurtmachi tomonidan joylashtirilgan texnik topshiriq talablariga muvofiq xizmat ko‘rsatishga tayyorligi haqida kafolat xatini taqdim etadi. Taklifda xizmat ko‘rsatish tartibi, hajmi, muddati, sifat talablari va texnik topshiriqda belgilangan boshqa shartlarga mosligi aks ettiriladi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 9.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Хужжатлар тулик булмаса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2765980,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "керакли  Хужжатлар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 10.0,
+   "description": "Ishtirokchi faoliyat turi uchun talab etiladigan ruxsat etuvchi hujjatlar, sanitariya-epidemiologiya xulosalari, muvofiqlik sertifikatlari, sifat va xavfsizlikni tasdiqlovchi hujjatlarni taqdim etadi. Hujjatlar amal qilish muddati tugamagan bo‘lishi shart.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 9.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Хужжатлар тулик булмаса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2765981,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "керакли  Хужжатлар",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Ishtirokchi faoliyati davomida xizmat ko‘rsatgan tashkilotlar ro‘yxatini taqdim etadi (nomi, manzili, xizmat turi, muddati, shartnoma summasi bilan). \r\nXizmat ko‘rsatgan tashkilotlardan tavsiyanoma ilova qilinadi. Ma’lumotlar jadval shaklida tasdiqlangan xamda asoslangan bo‘lishi lozim.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 9.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 7.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Хужжатлар тулик булмаса"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Хужжатлар тулик булмаса"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2765975,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":25.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"керакли  Хужжатлар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":25.0,\"Description\":\"Ishtirokchi amaldagi SanQvaN talablariga muvofiq taomnoma, menyu-kalkulyatsiya, har bir taom bo‘yicha chiqish vazni, tarkibi, mahsulot sarfi, zarur hollarda yosh toifalari kesimidagi meyorlar, ozuqaviy qiymat va kaloriyalilik ko‘rsatkichlarini taqdim etadi. Hujjatlar jadval shaklida, tasdiqlangan va imzolangan bo‘lishi lozim.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":25.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":24.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":23.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":22.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":21.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":19.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":18.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":17.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":16.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":14.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":13.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":12.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":11.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":9.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Хужжатлар тулик булмаса\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2765976,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":25.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"керакли  Хужжатлар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":25.0,\"Description\":\"Ishtirokchi autsorsing xizmatini bajarish uchun mavjud moddiy-texnik baza, oshxona va ishlab chiqarish jihozlari, omborxona, sovitkich uskunalari, transport vositalari, inventarlar hamda xodimlar tarkibi to‘g‘risidagi ma’lumotnomani taqdim etadi. \\r\\nMazkur ma’lumotlar ro‘yxat shaklida, iloji bo‘lsa foto hamda tasdiqlovchi hujjatlar bilan asoslantiriladi. \\r\\nKadrlar bo‘yicha shtat ro‘yxati, diplom,malaka va boshqa kerakli hujjatlari nusxalari ilova qilinadi\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":25.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":24.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":23.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":22.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":21.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":19.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":18.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":17.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":16.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":14.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":13.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":12.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":11.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":9.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Хужжатлар тулик булмаса\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2765977,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"керакли  Хужжатлар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":5.0,\"Description\":\"Ishtirokchi shartnoma umumiy summasining kamida 1 foizi miqdorida investitsiya kiritishga roziligi haqida kafolat xatini taqdim etadi. \\r\\nKafolat xatida investitsiya yo‘nalishlari \\r\\n(jihoz, inventar, ta’mirlash, moddiy-texnik baza mustahkamlash va boshqalar) hamda taxminiy qiymatlar ko‘rsatiladi.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Хужжатлар тулик булмаса\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2765978,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"керакли  Хужжатлар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Ishtirokchi kamida uch oylik xizmat ko‘rsatish qiymatini qoplashga yetarli aylanma mablag‘lari mavjudligini tasdiqlovchi hujjatlarni taqdim etadi. \\r\\nBunda bank hisobvaraqlaridagi qoldiq to‘g‘risida bank ma’lumotnomasi, moliyaviy hisobotlar, pul oqimi to‘g‘risidagi ma’lumotnoma yoki boshqa moliyaviy tasdiqlovchi hujjatlar ilova qilinadi. Hujjatda summa aniq ko‘rsatilishi lozim\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Хужжатлар тулик булмаса\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2765979,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"керакли  Хужжатлар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Ishtirokchi buyurtmachi tomonidan joylashtirilgan texnik topshiriq talablariga muvofiq xizmat ko‘rsatishga tayyorligi haqida kafolat xatini taqdim etadi. Taklifda xizmat ko‘rsatish tartibi, hajmi, muddati, sifat talablari va texnik topshiriqda belgilangan boshqa shartlarga mosligi aks ettiriladi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":9.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Хужжатлар тулик булмаса\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2765980,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"керакли  Хужжатлар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":10.0,\"Description\":\"Ishtirokchi faoliyat turi uchun talab etiladigan ruxsat etuvchi hujjatlar, sanitariya-epidemiologiya xulosalari, muvofiqlik sertifikatlari, sifat va xavfsizlikni tasdiqlovchi hujjatlarni taqdim etadi. Hujjatlar amal qilish muddati tugamagan bo‘lishi shart.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":9.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Хужжатлар тулик булмаса\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2765981,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"керакли  Хужжатлар\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Ishtirokchi faoliyati davomida xizmat ko‘rsatgan tashkilotlar ro‘yxatini taqdim etadi (nomi, manzili, xizmat turi, muddati, shartnoma summasi bilan). \\r\\nXizmat ko‘rsatgan tashkilotlardan tavsiyanoma ilova qilinadi. Ma’lumotlar jadval shaklida tasdiqlangan xamda asoslangan bo‘lishi lozim.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":9.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":7.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Хужжатлар тулик булмаса\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Хужжатлар тулик булмаса\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1104350,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104351,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104352,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104353,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104354,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104355,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1104350,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1104351,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1104352,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1104353,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1104354,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1104355,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 83591,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Наманганская область",
+ "delivering_district_name": "Наманган",
+ "delivering_address": "Davlatabod tumani Elobod MFY 4 uy",
+ "delivering_phone": "937131733",
+ "addon_description": "Sugurta mablaglari xisob",
+ "technical_description": "texnik shart asosida",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 523741,
+ "customer_region_name": "Namangan viloyati",
+ "customer_district_name": "Namangan viloyati",
+ "customer_street": "Наманган туман Ирвадон КФЙ Улугбек куча 9 уй",
+ "customer_zip": "00000",
+ "min_point": 40,
+ "financing_source": "Сугурта",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 121084.26,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078129,
+     "converted_price": 3.1,
+     "converted_cost": 80722.84
+    },
+    {
+     "lot_detail_id": 2078130,
+     "converted_price": 3.1,
+     "converted_cost": 40361.42
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 109986.63,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078129,
+     "converted_price": 2.82,
+     "converted_cost": 73324.42
+    },
+    {
+     "lot_detail_id": 2078130,
+     "converted_price": 2.82,
+     "converted_cost": 36662.21
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 10003229.35,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078129,
+     "converted_price": 256.49,
+     "converted_cost": 6668819.56
+    },
+    {
+     "lot_detail_id": 2078130,
+     "converted_price": 256.49,
+     "converted_cost": 3334409.78
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 1455870000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078129,
+     "converted_price": 37330.0,
+     "converted_cost": 970580000.0
+    },
+    {
+     "lot_detail_id": 2078130,
+     "converted_price": 37330.0,
+     "converted_cost": 485290000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

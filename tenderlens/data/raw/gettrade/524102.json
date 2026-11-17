@@ -1,0 +1,363 @@
+{
+ "id": 524102,
+ "display_no": "26110012524102",
+ "start_date": "2026-11-13T14:41:33",
+ "end_date": "2026-11-20T14:41:33",
+ "clarific_date": "2026-11-20T14:41:33",
+ "start_cost": 798070000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2079973,\"Order_Num\":1,\"Category_Id\":126287,\"Plangraph_Detail_Id\":24368884,\"Product_Id\":719830,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":798070000,\"Cost\":798070000,\"Description\":\"Xavfsizlikni ehtimoliy tahlil qilish laboratoriyasini dasturiy ta’minot bilan jihozlash. (Оснащение программным обеспечением лаборатории вероятностного анализа безопасности)\",\"Expenditure_Id\":44299990,\"Expenditure_Name\":\"Прочие расходы на приобретение товаров и услуг\",\"Plan_Id\":10015345,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"62.09.20.190-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":45,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Дастурий маҳсулотлар ва дастурий таъминотни ишлаб чиқиш хизматлари; ахборот технологиялари соҳасидаги маслаҳат ва шунга ўхшаш хизматлар\",\"Product_Name\":\"Ахборот технологиялари соҳасидаги дастурий таъминот\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":2,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Тизимли\",\"User_Value_Id\":1,\"Pnum\":1}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 1.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 50,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"}]",
+ "contacts": "[{\"Job_title\":\"Начальник ОТК\",\"Fullname\":\"Искандаров Т.\"}]",
+ "rest_time": 229041,
+ "customer_name": "Radiatsiya va yadro xavfsizligi ilmiy-texnik markazi",
+ "customer_tin": "311717904",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202610225344285271.zip",
+ "tech_file_path": "/files/2026/10/22/202610225344285271.zip",
+ "tech_file_ext": "ZIP",
+ "tech_file_sizes": 14476407.0,
+ "tech_doc_file_name": "20261711082449524102.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711082449524102.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 286954.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610225345032259.docx",
+ "contract_proform_file_path": "/files/2026/10/22/202610225345032259.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 43735.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 13,
+ "nonauthorized_count": 2750,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2767954,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Форма №6",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 50.0,
+   "description": "Tanlov ishtirokchisining taklifi texnik topshiriq talablariga to‘liq muvofiq bo‘lishi lozim.\r\nПредложение участника отбора должно полностью соответствовать требованиям технического задания",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2767955,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Dasturiy ta’minot ro‘yxatdan o‘tkazilganligi to‘g‘risidagi guvohnoma yoki ishlab chiquvchining vakolat beruvchi xati yoxud distribyutorning litsenziya shartnomasi./Свидетельство о регистрации ПО или авторизационное письмо от разработчика или лицензионный договор дистрибьютора.",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 50.0,
+   "description": "Dasturiy ta’minot ishlab chiquvchisi yoki uning rasmiy vakili maqomini tasdiqlash\r\nTanlov ishtirokchisi dasturiy ta’minot ro‘yxatdan o‘tkazilganligi to‘g‘risidagi guvohnomani yoki ishlab chiquvchining vakolat beruvchi xatini yoxud distribyutorning litsenziya shartnomasini taqdim etishi lozim.\r\n\r\nПодтверждение статуса разработчика или его официального представителя. Участник должен предоставить свидетельство о регистрации ПО или авторизационное письмо от разработчика или лицензионный договор дистрибьютора",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2767954,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Форма №6\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":50.0,\"Description\":\"Tanlov ishtirokchisining taklifi texnik topshiriq talablariga to‘liq muvofiq bo‘lishi lozim.\\r\\nПредложение участника отбора должно полностью соответствовать требованиям технического задания\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2767955,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Dasturiy ta’minot ro‘yxatdan o‘tkazilganligi to‘g‘risidagi guvohnoma yoki ishlab chiquvchining vakolat beruvchi xati yoxud distribyutorning litsenziya shartnomasi./Свидетельство о регистрации ПО или авторизационное письмо от разработчика или лицензионный договор дистрибьютора.\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":50.0,\"Description\":\"Dasturiy ta’minot ishlab chiquvchisi yoki uning rasmiy vakili maqomini tasdiqlash\\r\\nTanlov ishtirokchisi dasturiy ta’minot ro‘yxatdan o‘tkazilganligi to‘g‘risidagi guvohnomani yoki ishlab chiquvchining vakolat beruvchi xatini yoxud distribyutorning litsenziya shartnomasini taqdim etishi lozim.\\r\\n\\r\\nПодтверждение статуса разработчика или его официального представителя. Участник должен предоставить свидетельство о регистрации ПО или авторизационное письмо от разработчика или лицензионный договор дистрибьютора\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1107025,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": "tender/user-files/2026/10/22/193801f4-c463-4375-889d-929ecfcf2a2b.zip",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107026,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": "tender/user-files/2026/10/22/6ec83582-ba69-4112-92cf-5c024bc79216.zip",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107027,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": "tender/user-files/2026/10/22/2e779c9c-2c7d-4871-84dd-9cbdb8fbebb3.zip",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107028,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": "tender/user-files/2026/10/22/df9c1588-2391-41c8-98a2-89783b4ac41d.zip",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107029,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": "tender/user-files/2026/10/22/0e57db7d-5369-4bb2-968d-44ebb6fd5694.zip",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107030,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": "tender/user-files/2026/10/22/dc1434a4-85b5-49b3-84d7-60395005e715.zip",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107031,
+   "name": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.",
+   "order_num": 7,
+   "description": "Tanlov ishtirokchisi tanlov predmetiga o‘xshash predmet bo‘yicha kamida 1 ta shartnomani amalga oshirish tajribasiga ega bo‘lishi lozim.\r\nУчастник отбора должен иметь опыт реализации не менее 1 контракта аналогичного предмету отбора.",
+   "file_path": "tender/user-files/2026/10/22/532f488b-08f5-42d2-811b-d178f251f34a.zip",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107032,
+   "name": "Молиявий ҳисоботлар*\n(ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда): \n1. Бухгалтерия баланси\n",
+   "order_num": 8,
+   "description": "Tanlov ishtirokchisi moliyaviy holati to‘g‘risidagi ma’lumotlarni 4-sonli shaklga muvofiq, tasdiqlovchi hujjatlarni ilova qilgan holda taqdim etishi lozim.\r\nУчастник отбора должен предоставить информацию о финансовом положении согласно форме №4, с приложением подтверждающих документов",
+   "file_path": "tender/user-files/2026/11/2/3f7e6999-ab59-495f-8176-3822bd9561ad.zip",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107033,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 9,
+   "description": null,
+   "file_path": "tender/user-files/2026/11/2/6eacd16d-6207-4f13-a0ed-ff0e53d2b20f.zip",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1107025,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":\"tender/user-files/2026/10/22/193801f4-c463-4375-889d-929ecfcf2a2b.zip\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107026,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":\"tender/user-files/2026/10/22/6ec83582-ba69-4112-92cf-5c024bc79216.zip\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107027,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":\"tender/user-files/2026/10/22/2e779c9c-2c7d-4871-84dd-9cbdb8fbebb3.zip\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107028,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":\"tender/user-files/2026/10/22/df9c1588-2391-41c8-98a2-89783b4ac41d.zip\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107029,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":\"tender/user-files/2026/10/22/0e57db7d-5369-4bb2-968d-44ebb6fd5694.zip\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107030,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":\"tender/user-files/2026/10/22/dc1434a4-85b5-49b3-84d7-60395005e715.zip\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107031,\"Name\":\"Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.\",\"Order_Num\":7,\"Description\":\"Tanlov ishtirokchisi tanlov predmetiga o‘xshash predmet bo‘yicha kamida 1 ta shartnomani amalga oshirish tajribasiga ega bo‘lishi lozim.\\r\\nУчастник отбора должен иметь опыт реализации не менее 1 контракта аналогичного предмету отбора.\",\"File_Path\":\"tender/user-files/2026/10/22/532f488b-08f5-42d2-811b-d178f251f34a.zip\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107032,\"Name\":\"Молиявий ҳисоботлар*\\n(ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда): \\n1. Бухгалтерия баланси\\n\",\"Order_Num\":8,\"Description\":\"Tanlov ishtirokchisi moliyaviy holati to‘g‘risidagi ma’lumotlarni 4-sonli shaklga muvofiq, tasdiqlovchi hujjatlarni ilova qilgan holda taqdim etishi lozim.\\r\\nУчастник отбора должен предоставить информацию о финансовом положении согласно форме №4, с приложением подтверждающих документов\",\"File_Path\":\"tender/user-files/2026/11/2/3f7e6999-ab59-495f-8176-3822bd9561ad.zip\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107033,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":9,\"Description\":null,\"File_Path\":\"tender/user-files/2026/11/2/6eacd16d-6207-4f13-a0ed-ff0e53d2b20f.zip\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 502829,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Юнусабадский район",
+ "delivering_address": "Богишамол МФЙ, 11 квартал, дом 62А",
+ "delivering_phone": "999361171",
+ "addon_description": "Xavfsizlikni ehtimoliy tahlil qilish laboratoriyasini dasturiy ta’minot bilan jihozlash. (Оснащение программным обеспечением лаборатории вероятностного анализа безопасности)",
+ "technical_description": "Закупочная документация и техническое задание на оснащение проаграммным обеспечением лаборатории вероятностного анализа безопасности",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Toshkent sh. Shayxontohur tumani, Xadra MFY, 27-uy",
+ "customer_zip": "00000",
+ "min_point": 10,
+ "financing_source": "Davlat byudjeti hisobidan. (Средства государственного бюджета)",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 5483509.68,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2079973,
+     "converted_price": 5483509.68,
+     "converted_cost": 5483509.68
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 60291.8,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2079973,
+     "converted_price": 60291.8,
+     "converted_cost": 60291.8
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 66375.24,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2079973,
+     "converted_price": 66375.24,
+     "converted_cost": 66375.24
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 798070000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2079973,
+     "converted_price": 798070000.0,
+     "converted_cost": 798070000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

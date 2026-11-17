@@ -1,0 +1,330 @@
+{
+ "id": 523766,
+ "display_no": "26120012523766",
+ "start_date": "2026-11-11T18:38:32",
+ "end_date": "2026-11-18T18:38:32",
+ "clarific_date": "2026-11-18T18:38:32",
+ "start_cost": 232320000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2078213,\"Order_Num\":1,\"Category_Id\":111223,\"Plangraph_Detail_Id\":24345392,\"Product_Id\":707240,\"Product_Type_Id\":1,\"Quantity\":10560,\"Price\":22000,\"Cost\":232320000,\"Description\":\"Bankning Samarqand viloyati filiallarini 2027-yil davomida ichimlik suvi bilan ta’minlash\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":10002747,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"11.07.11.120-00001\",\"Guarantee_Term\":3,\"Delivery_Term\":365,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Ичимликлар\",\"Product_Name\":\"Қадоқланган ичимлик суви\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Ҳажм, литр;^ дециметр куб\",\"User_Value\":\"≥ 18.9\",\"User_Value_Id\":0,\"Pnum\":1},{\"Property_Name\":\"Сувни газлаш даражаси\",\"User_Value\":\"Газланмаган\",\"User_Value_Id\":1,\"Pnum\":2}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 0.0,
+ "term_payment_days": 400,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":4,\"Name\":\"Узбекский К\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Bank xaridlari boshqarmasi bosh mutaxassisi\",\"Fullname\":\"Muzaffarov Jasurbek\"}]",
+ "rest_time": 70533,
+ "customer_name": "\"AGROBANK\" ATB",
+ "customer_tin": "207243390",
+ "payment_type_name": "Оплата по факту",
+ "tech_file_name": "202611034316946871.zip",
+ "tech_file_path": "/files/2026/11/3/202611034316946871.zip",
+ "tech_file_ext": "ZIP",
+ "tech_file_sizes": 636643.0,
+ "tech_doc_file_name": "20261711122449523766.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711122449523766.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 289878.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611025657850734.doc",
+ "contract_proform_file_path": "/files/2026/11/2/202611025657850734.doc",
+ "contract_proform_file_ext": "DOC",
+ "contract_proform_file_sizes": 41984.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 8,
+ "nonauthorized_count": 2788,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2766082,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Хужжатлар / Документы ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 100.0,
+   "description": "Ishtirokchining texnik taklifi\r\nTanlov ishtirokchisi texnik topshiriq talablariga muvofiq tayyorlangan texnik taklifni taqdim etishi lozim. Mos kelmaydigan taklif holatida ishtirokchi keyingi bosqichda ishtirok etishdan chetlashtiriladi (diskvalifikatsiya qilinadi).\r\n/\r\nТехническое предложение участника\r\nУчастник отбора должен предоставит техническое предложение в соответствии с требованиями технического задания. Если не соответствует, то такой участник отстраняется (дисквалифицируется) от дальнейшего участия в электронном отборе.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    }
+   ],
+   "form_name": "Хужжатлар / Документы ",
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2766082,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Хужжатлар / Документы \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":100.0,\"Description\":\"Ishtirokchining texnik taklifi\\r\\nTanlov ishtirokchisi texnik topshiriq talablariga muvofiq tayyorlangan texnik taklifni taqdim etishi lozim. Mos kelmaydigan taklif holatida ishtirokchi keyingi bosqichda ishtirok etishdan chetlashtiriladi (diskvalifikatsiya qilinadi).\\r\\n/\\r\\nТехническое предложение участника\\r\\nУчастник отбора должен предоставит техническое предложение в соответствии с требованиями технического задания. Если не соответствует, то такой участник отстраняется (дисквалифицируется) от дальнейшего участия в электронном отборе.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"}],\"Form_Name\":\"Хужжатлар / Документы \",\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1104471,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": "Baholash 3-son shakldagi kafolat xatiga asosan amalga oshiriladi. Ishtirokchining kafolat xati mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно гарантийному письму по форме №3  Если не соответствует (не предоставлено гарантийное письмо), то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)",
+   "file_path": "tender/user-files/2026/11/2/31a475b6-34e8-4565-968a-0d1fed4c2816.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104472,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": "Baholash taqdim etilgan hujjatlarga (ishtirokchi nomidan harakatlarni amalga oshirish shu jumladan shartnomalarni imzolash huquqini beruvchi (tasdiqlovchi) ishonchnoma, buyruq yoki boshqa hujjat) asosan amalga oshiriladi.  Ishtirokchining hujjatlari mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно предоставленных документов (доверенность, приказ или иной документ подтверждающий правомочность действовать от имени участника, в т.ч. заключать договора) Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104473,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": "Baholash soliq organining amaldagi ma’lumotnomasi yoki erkin shakldagi axborotga muvofiq, agar bunday hujjat kompaniya rо‘yxatdan о‘tgan mamlakat qonunchiligida nazarda tutilmagan bо‘lsa, amalga oshiriladi. Ishtirokchining soliq ma’lumotnomasi mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tenderning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно действующей справки налогового органа или информации в произвольной форме, если такой документ не предусмотрен законодательством страны, в которой зарегистрирована компания. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104474,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "Baholash 1-son shakldagi kafolat xatiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining kafolat xati mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно гарантийному письму по форме №1 Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)",
+   "file_path": "tender/user-files/2026/11/2/58f08c23-24d8-4a39-85fe-a9127bc9806a.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104475,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "Baholash 1-son shakldagi kafolat xatiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining kafolat xati mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно гарантийному письму по форме №1 и/или отчёта уполномоченного подразделения Заказчика. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)",
+   "file_path": "tender/user-files/2026/11/2/13f3e74d-f054-44a8-b22a-c73421aef8e2.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104476,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": "Baholash ishtirokchi tomonidan mib.uz saytidan olingan va taqdim etilgan skrinshot va/yoki buyurtmachi tomonidan ochiq manbalardan olingan ma’lumotga asosan amalga oshiriladi. Ishtirokchining ma’lumotlari mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно скриншота участника с сайта mib.uz, и/или информации заказчика, полученной с открытых источников. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104477,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 7,
+   "description": "Baholash 2-son shakldagi korrupsiya kо‘rinishlariga yо‘l qо‘ymaslik bо‘yicha arizasiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining arizasi mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно заявлению по недопущению коррупционных проявлений по форме №2 и/или отчёта уполномоченного подразделения Заказчика. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)",
+   "file_path": "tender/user-files/2026/11/2/0e684258-52e6-425b-8433-df1e6b66f774.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104478,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 8,
+   "description": "Baholash 2-son shakldagi korrupsiya kо‘rinishlariga yо‘l qо‘ymaslik bо‘yicha arizasiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining arizasi mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно заявлению по недопущению коррупционных проявлений по форме №2 и/или отчёта уполномоченного подразделения Заказчика. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)",
+   "file_path": "tender/user-files/2026/11/2/2f8ace91-84ea-415c-9093-1cb27ddfed47.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104479,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 9,
+   "description": "Baholash 1-son shakldagi kafolat xatiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining kafolat xati mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно гарантийному письму по форме №1 и/или отчёта уполномоченного подразделения Заказчика. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)",
+   "file_path": "tender/user-files/2026/11/2/2194a731-f12c-467d-b65b-805b65ae08e5.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104480,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 10,
+   "description": "Baholash 1-son shakldagi kafolat xatiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining kafolat xati mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно гарантийному письму по форме №1 и/или отчёта уполномоченного подразделения Заказчика. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)",
+   "file_path": "tender/user-files/2026/11/2/c378db06-3320-4ece-8a19-dbe1e7f4b030.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1104481,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 11,
+   "description": "Baholash taqdim etilgan hujjatlarga asosan amalga oshiriladi. Taqdim etilishi kerak bо‘lgan hujjatlar: - davlat rо‘yxatidan о‘tganligi tо‘g‘risida guvohnoma;\r\n- tashkilot Nizomi;\r\n- 4-son shakldagi tanlov ishtirokchisi tо‘g‘risida ma’lumot. Ishtirokchi tomonidan taqdim etilgan hujjatlar mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно предоставленных документов Необходимые документы:\r\n- свидетельство о гос. Регистрации;\r\n- устав организации;\r\n- информация об участнике конкурсных торгов по форме №4. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)",
+   "file_path": "tender/user-files/2026/11/2/1ac78081-56b9-4258-ba28-69029d41665b.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1104471,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":\"Baholash 3-son shakldagi kafolat xatiga asosan amalga oshiriladi. Ishtirokchining kafolat xati mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно гарантийному письму по форме №3  Если не соответствует (не предоставлено гарантийное письмо), то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)\",\"File_Path\":\"tender/user-files/2026/11/2/31a475b6-34e8-4565-968a-0d1fed4c2816.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1104472,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":\"Baholash taqdim etilgan hujjatlarga (ishtirokchi nomidan harakatlarni amalga oshirish shu jumladan shartnomalarni imzolash huquqini beruvchi (tasdiqlovchi) ishonchnoma, buyruq yoki boshqa hujjat) asosan amalga oshiriladi.  Ishtirokchining hujjatlari mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно предоставленных документов (доверенность, приказ или иной документ подтверждающий правомочность действовать от имени участника, в т.ч. заключать договора) Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1104473,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"Baholash soliq organining amaldagi ma’lumotnomasi yoki erkin shakldagi axborotga muvofiq, agar bunday hujjat kompaniya rо‘yxatdan о‘tgan mamlakat qonunchiligida nazarda tutilmagan bо‘lsa, amalga oshiriladi. Ishtirokchining soliq ma’lumotnomasi mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tenderning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно действующей справки налогового органа или информации в произвольной форме, если такой документ не предусмотрен законодательством страны, в которой зарегистрирована компания. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1104474,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"Baholash 1-son shakldagi kafolat xatiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining kafolat xati mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно гарантийному письму по форме №1 Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)\",\"File_Path\":\"tender/user-files/2026/11/2/58f08c23-24d8-4a39-85fe-a9127bc9806a.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1104475,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"Baholash 1-son shakldagi kafolat xatiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining kafolat xati mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно гарантийному письму по форме №1 и/или отчёта уполномоченного подразделения Заказчика. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)\",\"File_Path\":\"tender/user-files/2026/11/2/13f3e74d-f054-44a8-b22a-c73421aef8e2.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1104476,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"Baholash ishtirokchi tomonidan mib.uz saytidan olingan va taqdim etilgan skrinshot va/yoki buyurtmachi tomonidan ochiq manbalardan olingan ma’lumotga asosan amalga oshiriladi. Ishtirokchining ma’lumotlari mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно скриншота участника с сайта mib.uz, и/или информации заказчика, полученной с открытых источников. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1104477,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":7,\"Description\":\"Baholash 2-son shakldagi korrupsiya kо‘rinishlariga yо‘l qо‘ymaslik bо‘yicha arizasiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining arizasi mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно заявлению по недопущению коррупционных проявлений по форме №2 и/или отчёта уполномоченного подразделения Заказчика. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)\",\"File_Path\":\"tender/user-files/2026/11/2/0e684258-52e6-425b-8433-df1e6b66f774.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1104478,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":8,\"Description\":\"Baholash 2-son shakldagi korrupsiya kо‘rinishlariga yо‘l qо‘ymaslik bо‘yicha arizasiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining arizasi mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно заявлению по недопущению коррупционных проявлений по форме №2 и/или отчёта уполномоченного подразделения Заказчика. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)\",\"File_Path\":\"tender/user-files/2026/11/2/2f8ace91-84ea-415c-9093-1cb27ddfed47.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1104479,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":9,\"Description\":\"Baholash 1-son shakldagi kafolat xatiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining kafolat xati mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно гарантийному письму по форме №1 и/или отчёта уполномоченного подразделения Заказчика. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)\",\"File_Path\":\"tender/user-files/2026/11/2/2194a731-f12c-467d-b65b-805b65ae08e5.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1104480,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":10,\"Description\":\"Baholash 1-son shakldagi kafolat xatiga va/yoki Buyurtmachining mas’ul tarkibiy tuzilmasining hisobotiga asosan amalga oshiriladi. Ishtirokchining kafolat xati mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно гарантийному письму по форме №1 и/или отчёта уполномоченного подразделения Заказчика. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)\",\"File_Path\":\"tender/user-files/2026/11/2/c378db06-3320-4ece-8a19-dbe1e7f4b030.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1104481,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":11,\"Description\":\"Baholash taqdim etilgan hujjatlarga asosan amalga oshiriladi. Taqdim etilishi kerak bо‘lgan hujjatlar: - davlat rо‘yxatidan о‘tganligi tо‘g‘risida guvohnoma;\\r\\n- tashkilot Nizomi;\\r\\n- 4-son shakldagi tanlov ishtirokchisi tо‘g‘risida ma’lumot. Ishtirokchi tomonidan taqdim etilgan hujjatlar mezon talablariga mos kelmasa (taqdim etilmagan bо‘lsa), bunday ishtirokchi elektron tanlovning malakaviy qismidan chetlashtiriladi (diskvalifikatsiya qilinadi). / Оценка будет осуществляться согласно предоставленных документов Необходимые документы:\\r\\n- свидетельство о гос. Регистрации;\\r\\n- устав организации;\\r\\n- информация об участнике конкурсных торгов по форме №4. Если не соответствует, то такой участник отстраняется (дисквалифицируется) на этапе квалификационной оценки (не допускается к дальнейшему участию в данном лоте)\",\"File_Path\":\"tender/user-files/2026/11/2/1ac78081-56b9-4258-ba28-69029d41665b.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 10242,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Самаркандская область",
+ "delivering_district_name": "Самарканд",
+ "delivering_address": "Банкнинг Самарқанд вилоятидаги филиаллари",
+ "delivering_phone": "712028008",
+ "addon_description": "Tanlovda mahalliy ishlab chiqaruvchilar yoki yetkazib beruvchilar (ijrochilar) shuningdek, O‘zbekiston Respublikasi qonunchiligi bo‘yicha O‘zbekistonga shunga o‘xshash mahsulotlarni yetkazib berishda ishtirok etishi taqiqlanmagan, tanlov shartlarini bajargan, raqobat asosida xarid qilinadigan tegishli tovar va xizmatlarni yetkazib berish tajribasiga ega bo‘lgan xorijiy ishlab chiqaruvchilar yoki yetkazib beruvchilar (ijrochilar) ham qatnashishi mumkin / В отборе могут принят участие отечественные и иностранные производители или поставщики (исполнители), которым законодательством Республики Узбекистан не запрещено участвоват в закупочных процедурах, выполнившие предъявляемые условия для участия в них, имеющие опыт поставки товаров/оказания соответствующих услуг, закупаемых на конкурентной основе",
+ "technical_description": "Техник топшириқ ва харид ҳужжатлари",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "ул. Б.Закирова, д. 2А",
+ "customer_zip": "100090",
+ "min_point": 1,
+ "financing_source": "O‘z mablag‘lari / Собственные средства",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 232320000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078213,
+     "converted_price": 22000.0,
+     "converted_cost": 232320000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 17551.08,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078213,
+     "converted_price": 1.66,
+     "converted_cost": 17551.08
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 19321.98,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078213,
+     "converted_price": 1.82,
+     "converted_cost": 19321.98
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 1596262.19,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2078213,
+     "converted_price": 151.16,
+     "converted_cost": 1596262.19
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

@@ -1,0 +1,960 @@
+{
+ "id": 522766,
+ "display_no": "26120012522766",
+ "start_date": "2026-11-12T14:50:56",
+ "end_date": "2026-11-19T14:50:56",
+ "clarific_date": "2026-11-19T14:50:56",
+ "start_cost": 10015000000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2071526,\"Order_Num\":1,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212168,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":10,\"Price\":2500000,\"Cost\":25000000,\"Description\":\"Toshkent bo'yicha yetkazib berish.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071541,\"Order_Num\":16,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212183,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":19750000,\"Cost\":1185000000,\"Description\":\"MYTM (ЦОП) Jizzax-Nukusga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071540,\"Order_Num\":15,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212182,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":17200000,\"Cost\":1032000000,\"Description\":\"MYTM (ЦОП) Jizzax-Urganchga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071539,\"Order_Num\":14,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212181,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":11400000,\"Cost\":684000000,\"Description\":\"MYTM (ЦОП) Jizzax-Buxoroga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071538,\"Order_Num\":13,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212180,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":9600000,\"Cost\":576000000,\"Description\":\"MYTM (ЦОП) Jizzax-Navoiyga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071537,\"Order_Num\":12,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212179,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":14300000,\"Cost\":858000000,\"Description\":\"MYTM (ЦОП) Jizzax-Termezga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071536,\"Order_Num\":11,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212178,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":10400000,\"Cost\":624000000,\"Description\":\"MYTM (ЦОП) Jizzax-Qarshiga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071535,\"Order_Num\":10,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212177,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":5100000,\"Cost\":306000000,\"Description\":\"MYTM (ЦОП) Jizzax-Samarqandga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071534,\"Order_Num\":9,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212176,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":3500000,\"Cost\":210000000,\"Description\":\"MYTM (ЦОП) Jizzax-Gulistonga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071533,\"Order_Num\":8,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212175,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":11400000,\"Cost\":684000000,\"Description\":\"MYTM (ЦОП) Jizzax-Qoqonga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071532,\"Order_Num\":7,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212174,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":11600000,\"Cost\":696000000,\"Description\":\"MYTM (ЦОП) Jizzax-Farg'onaga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071531,\"Order_Num\":6,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212173,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":11600000,\"Cost\":696000000,\"Description\":\"MYTM (ЦОП) Jizzax-Namanganga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071530,\"Order_Num\":5,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212172,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":60,\"Price\":11900000,\"Cost\":714000000,\"Description\":\"MYTM (ЦОП) Jizzax-Andijonga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071529,\"Order_Num\":4,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212170,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":50,\"Price\":5500000,\"Cost\":275000000,\"Description\":\"MYTM (ЦОП) Jizzax-Angren yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071528,\"Order_Num\":3,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212171,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":50,\"Price\":5000000,\"Cost\":250000000,\"Description\":\"MYTM (ЦОП) Jizzax-Nurafshonga yetkazib berish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2071527,\"Order_Num\":2,\"Category_Id\":125609,\"Plangraph_Detail_Id\":24212169,\"Product_Id\":448246,\"Product_Type_Id\":3,\"Quantity\":200,\"Price\":6000000,\"Cost\":1200000000,\"Description\":\"MYTM (ЦОП) Jizzax-Toshkentga yetkazib berish.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9935282,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"52.29.20.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":7,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Омбор ва ёрдамчи транспорт хизматлари\",\"Product_Name\":\"Транспорт воситаларини ташиш ва ҳайдаб ўтказиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 0.0,
+ "advance_payment_perc": 0.0,
+ "term_payment_days": 5,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":4,\"Name\":\"Узбекский К\"},{\"Id\":3,\"Name\":\"Английский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Bo‘lim boshlig‘i (Head of Department)\",\"Fullname\":\"Po‘latov Sh.\"}]",
+ "rest_time": 143248,
+ "customer_name": "\"BYD UZBEKISTAN FACTORY\" MCHJ QK",
+ "customer_tin": "310161998",
+ "payment_type_name": "Оплата по факту",
+ "tech_file_name": "202610285132058946.pdf",
+ "tech_file_path": "/files/2026/10/28/202610285132058946.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 89905.0,
+ "tech_doc_file_name": "20261611112446522766.pdf",
+ "tech_doc_file_path": "files/2026/11/16/20261611112446522766.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 415998.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610285132120143.doc",
+ "contract_proform_file_path": "/files/2026/10/28/202610285132120143.doc",
+ "contract_proform_file_ext": "DOC",
+ "contract_proform_file_sizes": 113664.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 9,
+ "nonauthorized_count": 2214,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2761119,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Xarid qilish hujjatlarining texnik qismi talablariga muvofiqligi. Texnik topshiriqqa mos taklifning mavjudligi. (Compliance with the requirements of the technical part of the procurement documents. Availability of a proposal that complies with the technical specifications.)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 16.67,
+   "description": "Xarid qilish hujjatlarining texnik qismi talablariga muvofiqligi. Texnik topshiriqqa mos taklifning mavjudligi. (Compliance with the requirements of the technical part of the procurement documents. Availability of a proposal that complies with the technical specifications.)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "0"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "5"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "4"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "3"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "2"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "1"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2761120,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Xizmat ko`rsatuvchining ishonchnomasi va muvofiqlik bayonati (Xizmat ko`rsatuvchining rasmiy dillerlari qatnashgan taqdirda Xizmat ko`rsatuvchidan tasdiqlovchi hujjatlar, rasmiy vakili ekanligini tasdiqlovchi hujjat mavjudligi) Power of attorney and statement of compliance of the Service Provider (in the case of participation of official dealers of the Service Provider, confirmation documents from the Service Provider, availability of a document confirming the official representative)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 16.67,
+   "description": "Xizmat ko`rsatuvchining ishonchnomasi va muvofiqlik bayonati (Xizmat ko`rsatuvchining rasmiy dillerlari qatnashgan taqdirda Xizmat ko`rsatuvchidan tasdiqlovchi hujjatlar, rasmiy vakili ekanligini tasdiqlovchi hujjat mavjudligi) Power of attorney and statement of compliance of the Service Provider (in the case of participation of official dealers of the Service Provider, confirmation documents from the Service Provider, availability of a document confirming the official representative)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "0"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "5"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "4"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "3"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "2"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "1"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2761121,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Korruptsiya koʼrinishlarining oldini olish toʼgʼrisidagi ariza va DDQ va KYC shakli (Application for the prevention of corruption and the DDQ and KYC form)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 16.67,
+   "description": "Korruptsiya koʼrinishlarining oldini olish toʼgʼrisidagi ariza va DDQ va KYC shakli (Application for the prevention of corruption and the DDQ and KYC form)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "0"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "5"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "4"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "3"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "2"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "1"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2761122,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "2023-2025 yillar uchun oxirgi 3 yil uchun QR kod bilan tasdiqlangan yillik balanslarni taqdim etish orqali tanlov ishtirokchisining moliyaviy holati. (The financial status of the tenderer by providing certified annual balance sheets with QR code for the last 3 years for the years 2023-2025.)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 16.67,
+   "description": "2023-2025 yillar uchun oxirgi 3 yil uchun QR kod bilan tasdiqlangan yillik balanslarni taqdim etish orqali tanlov ishtirokchisining moliyaviy holati. (The financial status of the tenderer by providing certified annual balance sheets with QR code for the last 3 years for the years 2023-2025.)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "0"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "5"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "4"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "3"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "2"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "1"
+    }
+   ],
+   "form_name": "7-приложение",
+   "form_file_path": null
+  },
+  {
+   "id": 2761123,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Soʼngi uch yil davomida shunga oʼxshash obʼektlar va tanlov hajmlari boʼyicha ish tajribasi (shartnoma va xisob-fakturalar ilova qilnishi lozim) Work experience on similar projects and tender volumes over the past three years (contracts and invoices must be attached)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 16.67,
+   "description": "Soʼngi uch yil davomida shunga oʼxshash obʼektlar va tanlov hajmlari boʼyicha ish tajribasi (shartnoma va xisob-fakturalar ilova qilnishi lozim) Work experience on similar projects and tender volumes over the past three years (contracts and invoices must be attached)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "0"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "5"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "4"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "3"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "2"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "1"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2761124,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Kompaniya haqida umumiy maʼlumot berish. (my.mehnat.uz dan ishchi xodimlar va mutaxassislar toʼgʼrisida maʼlumot mavjudligi, tashkilot guvoxnomasi va ustavi) Provide general information about the company (availability of information about employees and specialists from my.mehnat.uz, organization certificate and charter)",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 16.67,
+   "description": "Kompaniya haqida umumiy maʼlumot berish. (my.mehnat.uz dan ishchi xodimlar va mutaxassislar toʼgʼrisida maʼlumot mavjudligi, tashkilot guvoxnomasi va ustavi) Provide general information about the company (availability of information about employees and specialists from my.mehnat.uz, organization certificate and charter)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "0"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "5"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "4"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "3"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "2"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "1"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2761119,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Xarid qilish hujjatlarining texnik qismi talablariga muvofiqligi. Texnik topshiriqqa mos taklifning mavjudligi. (Compliance with the requirements of the technical part of the procurement documents. Availability of a proposal that complies with the technical specifications.)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":16.67,\"Description\":\"Xarid qilish hujjatlarining texnik qismi talablariga muvofiqligi. Texnik topshiriqqa mos taklifning mavjudligi. (Compliance with the requirements of the technical part of the procurement documents. Availability of a proposal that complies with the technical specifications.)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"0\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"5\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"4\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"3\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"2\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"1\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2761120,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Xizmat ko`rsatuvchining ishonchnomasi va muvofiqlik bayonati (Xizmat ko`rsatuvchining rasmiy dillerlari qatnashgan taqdirda Xizmat ko`rsatuvchidan tasdiqlovchi hujjatlar, rasmiy vakili ekanligini tasdiqlovchi hujjat mavjudligi) Power of attorney and statement of compliance of the Service Provider (in the case of participation of official dealers of the Service Provider, confirmation documents from the Service Provider, availability of a document confirming the official representative)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":16.67,\"Description\":\"Xizmat ko`rsatuvchining ishonchnomasi va muvofiqlik bayonati (Xizmat ko`rsatuvchining rasmiy dillerlari qatnashgan taqdirda Xizmat ko`rsatuvchidan tasdiqlovchi hujjatlar, rasmiy vakili ekanligini tasdiqlovchi hujjat mavjudligi) Power of attorney and statement of compliance of the Service Provider (in the case of participation of official dealers of the Service Provider, confirmation documents from the Service Provider, availability of a document confirming the official representative)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"0\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"5\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"4\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"3\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"2\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"1\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2761121,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Korruptsiya koʼrinishlarining oldini olish toʼgʼrisidagi ariza va DDQ va KYC shakli (Application for the prevention of corruption and the DDQ and KYC form)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":16.67,\"Description\":\"Korruptsiya koʼrinishlarining oldini olish toʼgʼrisidagi ariza va DDQ va KYC shakli (Application for the prevention of corruption and the DDQ and KYC form)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"0\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"5\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"4\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"3\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"2\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"1\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2761122,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"2023-2025 yillar uchun oxirgi 3 yil uchun QR kod bilan tasdiqlangan yillik balanslarni taqdim etish orqali tanlov ishtirokchisining moliyaviy holati. (The financial status of the tenderer by providing certified annual balance sheets with QR code for the last 3 years for the years 2023-2025.)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":16.67,\"Description\":\"2023-2025 yillar uchun oxirgi 3 yil uchun QR kod bilan tasdiqlangan yillik balanslarni taqdim etish orqali tanlov ishtirokchisining moliyaviy holati. (The financial status of the tenderer by providing certified annual balance sheets with QR code for the last 3 years for the years 2023-2025.)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"0\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"5\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"4\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"3\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"2\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"1\"}],\"Form_Name\":\"7-приложение\",\"Form_File_Path\":null},{\"Id\":2761123,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Soʼngi uch yil davomida shunga oʼxshash obʼektlar va tanlov hajmlari boʼyicha ish tajribasi (shartnoma va xisob-fakturalar ilova qilnishi lozim) Work experience on similar projects and tender volumes over the past three years (contracts and invoices must be attached)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":16.67,\"Description\":\"Soʼngi uch yil davomida shunga oʼxshash obʼektlar va tanlov hajmlari boʼyicha ish tajribasi (shartnoma va xisob-fakturalar ilova qilnishi lozim) Work experience on similar projects and tender volumes over the past three years (contracts and invoices must be attached)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"0\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"5\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"4\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"3\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"2\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"1\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2761124,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Kompaniya haqida umumiy maʼlumot berish. (my.mehnat.uz dan ishchi xodimlar va mutaxassislar toʼgʼrisida maʼlumot mavjudligi, tashkilot guvoxnomasi va ustavi) Provide general information about the company (availability of information about employees and specialists from my.mehnat.uz, organization certificate and charter)\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":16.67,\"Description\":\"Kompaniya haqida umumiy maʼlumot berish. (my.mehnat.uz dan ishchi xodimlar va mutaxassislar toʼgʼrisida maʼlumot mavjudligi, tashkilot guvoxnomasi va ustavi) Provide general information about the company (availability of information about employees and specialists from my.mehnat.uz, organization certificate and charter)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"0\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"5\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"4\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"3\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"2\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"1\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1097073,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1097074,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1097075,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1097076,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1097077,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1097078,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1097073,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1097074,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1097075,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1097076,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1097077,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1097078,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 317416,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Джизакская область",
+ "delivering_district_name": "Джизак",
+ "delivering_address": "Bunyodkor MFY Loyihalash ko`chasi 101/10-uy",
+ "delivering_phone": "881982206",
+ "addon_description": "Texnik topshiriqda berilgan.",
+ "technical_description": "ТЗ",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": null,
+ "customer_region_name": "Jizzax viloyati",
+ "customer_district_name": "Jizzax viloyati",
+ "customer_street": "Jizzax shahar Bunyodkor MFY Loyihalash ko`chasi 101/10-uy  ",
+ "customer_zip": "100090",
+ "min_point": 15,
+ "financing_source": null,
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 68812697.54,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2071526,
+     "converted_price": 17177.4,
+     "converted_cost": 171774.08
+    },
+    {
+     "lot_detail_id": 2071527,
+     "converted_price": 41225.77,
+     "converted_cost": 8245155.97
+    },
+    {
+     "lot_detail_id": 2071528,
+     "converted_price": 34354.81,
+     "converted_cost": 1717740.82
+    },
+    {
+     "lot_detail_id": 2071529,
+     "converted_price": 37790.29,
+     "converted_cost": 1889514.9
+    },
+    {
+     "lot_detail_id": 2071530,
+     "converted_price": 81764.46,
+     "converted_cost": 4905867.8
+    },
+    {
+     "lot_detail_id": 2071531,
+     "converted_price": 79703.17,
+     "converted_cost": 4782190.46
+    },
+    {
+     "lot_detail_id": 2071532,
+     "converted_price": 79703.17,
+     "converted_cost": 4782190.46
+    },
+    {
+     "lot_detail_id": 2071533,
+     "converted_price": 78328.98,
+     "converted_cost": 4699738.9
+    },
+    {
+     "lot_detail_id": 2071534,
+     "converted_price": 24048.37,
+     "converted_cost": 1442902.29
+    },
+    {
+     "lot_detail_id": 2071535,
+     "converted_price": 35041.91,
+     "converted_cost": 2102514.77
+    },
+    {
+     "lot_detail_id": 2071536,
+     "converted_price": 71458.01,
+     "converted_cost": 4287481.1
+    },
+    {
+     "lot_detail_id": 2071537,
+     "converted_price": 98254.77,
+     "converted_cost": 5895286.51
+    },
+    {
+     "lot_detail_id": 2071538,
+     "converted_price": 65961.24,
+     "converted_cost": 3957674.86
+    },
+    {
+     "lot_detail_id": 2071539,
+     "converted_price": 78328.98,
+     "converted_cost": 4699738.9
+    },
+    {
+     "lot_detail_id": 2071540,
+     "converted_price": 118180.56,
+     "converted_cost": 7090834.13
+    },
+    {
+     "lot_detail_id": 2071541,
+     "converted_price": 135701.52,
+     "converted_cost": 8142091.52
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 832944.51,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2071526,
+     "converted_price": 207.92,
+     "converted_cost": 2079.24
+    },
+    {
+     "lot_detail_id": 2071527,
+     "converted_price": 499.01,
+     "converted_cost": 99803.63
+    },
+    {
+     "lot_detail_id": 2071528,
+     "converted_price": 415.84,
+     "converted_cost": 20792.42
+    },
+    {
+     "lot_detail_id": 2071529,
+     "converted_price": 457.43,
+     "converted_cost": 22871.66
+    },
+    {
+     "lot_detail_id": 2071530,
+     "converted_price": 989.71,
+     "converted_cost": 59383.16
+    },
+    {
+     "lot_detail_id": 2071531,
+     "converted_price": 964.76,
+     "converted_cost": 57886.1
+    },
+    {
+     "lot_detail_id": 2071532,
+     "converted_price": 964.76,
+     "converted_cost": 57886.1
+    },
+    {
+     "lot_detail_id": 2071533,
+     "converted_price": 948.13,
+     "converted_cost": 56888.07
+    },
+    {
+     "lot_detail_id": 2071534,
+     "converted_price": 291.09,
+     "converted_cost": 17465.63
+    },
+    {
+     "lot_detail_id": 2071535,
+     "converted_price": 424.16,
+     "converted_cost": 25449.92
+    },
+    {
+     "lot_detail_id": 2071536,
+     "converted_price": 864.96,
+     "converted_cost": 51897.89
+    },
+    {
+     "lot_detail_id": 2071537,
+     "converted_price": 1189.32,
+     "converted_cost": 71359.59
+    },
+    {
+     "lot_detail_id": 2071538,
+     "converted_price": 798.42,
+     "converted_cost": 47905.74
+    },
+    {
+     "lot_detail_id": 2071539,
+     "converted_price": 948.13,
+     "converted_cost": 56888.07
+    },
+    {
+     "lot_detail_id": 2071540,
+     "converted_price": 1430.51,
+     "converted_cost": 85831.12
+    },
+    {
+     "lot_detail_id": 2071541,
+     "converted_price": 1642.6,
+     "converted_cost": 98556.09
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 756603.37,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2071526,
+     "converted_price": 188.86,
+     "converted_cost": 1888.67
+    },
+    {
+     "lot_detail_id": 2071527,
+     "converted_price": 453.28,
+     "converted_cost": 90656.42
+    },
+    {
+     "lot_detail_id": 2071528,
+     "converted_price": 377.73,
+     "converted_cost": 18886.75
+    },
+    {
+     "lot_detail_id": 2071529,
+     "converted_price": 415.5,
+     "converted_cost": 20775.42
+    },
+    {
+     "lot_detail_id": 2071530,
+     "converted_price": 899.0,
+     "converted_cost": 53940.57
+    },
+    {
+     "lot_detail_id": 2071531,
+     "converted_price": 876.34,
+     "converted_cost": 52580.72
+    },
+    {
+     "lot_detail_id": 2071532,
+     "converted_price": 876.34,
+     "converted_cost": 52580.72
+    },
+    {
+     "lot_detail_id": 2071533,
+     "converted_price": 861.23,
+     "converted_cost": 51674.15
+    },
+    {
+     "lot_detail_id": 2071534,
+     "converted_price": 264.41,
+     "converted_cost": 15864.87
+    },
+    {
+     "lot_detail_id": 2071535,
+     "converted_price": 385.28,
+     "converted_cost": 23117.38
+    },
+    {
+     "lot_detail_id": 2071536,
+     "converted_price": 785.68,
+     "converted_cost": 47141.33
+    },
+    {
+     "lot_detail_id": 2071537,
+     "converted_price": 1080.32,
+     "converted_cost": 64819.34
+    },
+    {
+     "lot_detail_id": 2071538,
+     "converted_price": 725.25,
+     "converted_cost": 43515.08
+    },
+    {
+     "lot_detail_id": 2071539,
+     "converted_price": 861.23,
+     "converted_cost": 51674.15
+    },
+    {
+     "lot_detail_id": 2071540,
+     "converted_price": 1299.4,
+     "converted_cost": 77964.52
+    },
+    {
+     "lot_detail_id": 2071541,
+     "converted_price": 1492.05,
+     "converted_cost": 89523.21
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 10015000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2071526,
+     "converted_price": 2500000.0,
+     "converted_cost": 25000000.0
+    },
+    {
+     "lot_detail_id": 2071527,
+     "converted_price": 6000000.0,
+     "converted_cost": 1200000000.0
+    },
+    {
+     "lot_detail_id": 2071528,
+     "converted_price": 5000000.0,
+     "converted_cost": 250000000.0
+    },
+    {
+     "lot_detail_id": 2071529,
+     "converted_price": 5500000.0,
+     "converted_cost": 275000000.0
+    },
+    {
+     "lot_detail_id": 2071530,
+     "converted_price": 11900000.0,
+     "converted_cost": 714000000.0
+    },
+    {
+     "lot_detail_id": 2071531,
+     "converted_price": 11600000.0,
+     "converted_cost": 696000000.0
+    },
+    {
+     "lot_detail_id": 2071532,
+     "converted_price": 11600000.0,
+     "converted_cost": 696000000.0
+    },
+    {
+     "lot_detail_id": 2071533,
+     "converted_price": 11400000.0,
+     "converted_cost": 684000000.0
+    },
+    {
+     "lot_detail_id": 2071534,
+     "converted_price": 3500000.0,
+     "converted_cost": 210000000.0
+    },
+    {
+     "lot_detail_id": 2071535,
+     "converted_price": 5100000.0,
+     "converted_cost": 306000000.0
+    },
+    {
+     "lot_detail_id": 2071536,
+     "converted_price": 10400000.0,
+     "converted_cost": 624000000.0
+    },
+    {
+     "lot_detail_id": 2071537,
+     "converted_price": 14300000.0,
+     "converted_cost": 858000000.0
+    },
+    {
+     "lot_detail_id": 2071538,
+     "converted_price": 9600000.0,
+     "converted_cost": 576000000.0
+    },
+    {
+     "lot_detail_id": 2071539,
+     "converted_price": 11400000.0,
+     "converted_cost": 684000000.0
+    },
+    {
+     "lot_detail_id": 2071540,
+     "converted_price": 17200000.0,
+     "converted_cost": 1032000000.0
+    },
+    {
+     "lot_detail_id": 2071541,
+     "converted_price": 19750000.0,
+     "converted_cost": 1185000000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

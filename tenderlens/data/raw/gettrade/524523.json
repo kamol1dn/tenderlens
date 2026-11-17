@@ -1,0 +1,601 @@
+{
+ "id": 524523,
+ "display_no": "26120012524523",
+ "start_date": "2026-11-16T14:15:45",
+ "end_date": "2026-11-25T14:15:45",
+ "clarific_date": "2026-11-25T14:15:45",
+ "start_cost": 7215211600.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2081997,\"Order_Num\":1,\"Category_Id\":119460,\"Plangraph_Detail_Id\":24374905,\"Product_Id\":712209,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":7215211600,\"Cost\":7215211600,\"Description\":\"Tarmoq va muhandislik infratuzilmalari komplekslarini joriy etish loyihasi doirasida sun’iy intellekt tizimlari uchun server qurilmalarini xarid qilish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":10018938,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"26.20.14.000-00001\",\"Guarantee_Term\":5,\"Delivery_Term\":65,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Сервер\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Форм-фактор сервери\",\"User_Value\":\"Устунда монтаж ўтказиш учун\",\"User_Value_Id\":0,\"Pnum\":1},{\"Property_Name\":\"Процессорлар сони, дона\",\"User_Value\":\"≥ 2\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Оператив хотиранинг ҳажми, Гигабайт\",\"User_Value\":\"≥ 512\",\"User_Value_Id\":0,\"Pnum\":3}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 120,
+ "term_online_days": 7,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Bo'lim boshlig'i\",\"Fullname\":\"Muxutdinov Jamshid\"}]",
+ "rest_time": 659362,
+ "customer_name": "TELECOM SOFT MCHJ",
+ "customer_tin": "310778664",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611092205872518.rar",
+ "tech_file_path": "/files/2026/11/9/202611092205872518.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 5869086.0,
+ "tech_doc_file_name": "20261711122404524523.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711122404524523.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 302312.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611092206165910.docx",
+ "contract_proform_file_path": "/files/2026/11/9/202611092206165910.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 60528.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 12,
+ "nonauthorized_count": 783,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2770483,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Ish tajribasi",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 27.27,
+   "description": "Ishtirokchining oxirgi yillar ichida yuqori unumdorlikli server uskunalarini yetkazib berish bo‘yicha to‘liq yakunlangan shartnomalar bo‘yicha tajribasi (4-sonli shaklga muvofiq).\r\nYuqori unumdorlikli server uskunalari deganda ma’lumotlarni qayta ishlash markazlari va yirik hisoblash infratuzilmalari uchun mo‘ljallangan serverlar tushuniladi. Bunday serverlar texnik topshiriqda belgilangan serverlarga hisoblash quvvati, xotira hajmi va apparat tarkibi bo‘yicha qiyoslanadigan bo‘lishi lozim. \r\nBaholash quyidagi tartibda amalga oshiriladi:\r\n•\thar bir shartnoma bo‘yicha yetkazilgan serverlarning spetsifikatsiyasi texnik topshiriqning 2.1-bandidagi asosiy ko‘rsatkichlar bilan solishtiriladi: protsessorlar, tezkor xotira, grafik tezlatkichlar va ma’lumot saqlash tizimi;\r\n•\tushbu ko‘rsatkichlar bo‘yicha texnik topshiriqdagi serverlar bilan bir sinfda bo‘lgan serverlar yetkazilgan shartnomalar inobatga olinadi;\r\n•\ttajriba shartnoma nusxasi (spetsifikatsiyasi bilan) va qabul qilish-topshirish dalolatnomasi (hisob-faktura) bilan tasdiqlanadi. Spetsifikatsiyada asosiy ko‘rsatkichlar aks etmagan bo‘lsa, ishlab chiqaruvchining texnik hujjati ilova qilinadi.\r\nQuyidagi uskunalarni yetkazib berish tajribasi inobatga olinmaydi:\r\n•\tboshlang‘ich darajadagi va ofis ehtiyojlari uchun mo‘ljallangan serverlar;\r\n•\tish stansiyalari va shaxsiy kompyuterlar;\r\n•\tasosiy ko‘rsatkichlari (protsessorlar, tezkor xotira, grafik tezlatkichlar, ma’lumot saqlash tizimi) texnik topshiriqdagi serverlardan sezilarli darajada past bo‘lgan serverlar. 4-sonli shaklga muvofiq to‘ldirib taqdim etiladi.\r\nIshtirokchilarning yakunlangan ishlar bo‘yicha tajribasi ikki tomonlama imzolangan shartnoma va bajarilgan ishlar dalolatnomasi yoki imzolangan hisob-faktura taqdim etilgan taqdirda hisobga olinadi va baholanadi.\r\nTasdiqlovchi hujjatlar taqdim etilmagan bo‘lsa tegishli ish tajribasi baholashda inobatga olinmaydi.\r\nAgar zaruriy ma’lumotlar taqdim etilmagan bo‘lsa yoki o‘rnatilgan talablarga nomuvofiq bo‘lsa ishtirokchi tanlovdan chetlashtiriladi. \r\n\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Taqdim qilinmagan bo‘lsa "
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "5 ta va undan ortiq yakunlangan shartnomani tashkil etsa "
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "3 tadan 4 tagacha yakunlangan shartnomani tashkil etsa "
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "2 tagacha yakunlangan shartnomani tashkil etsa "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": "tender/user-files/2026/11/9/c42f2114-706a-4c2e-bded-69275f09d672.docx"
+  },
+  {
+   "id": 2770484,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Tavsiyanoma",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 18.18,
+   "description": "Ishtirokchi tomonidan avvalgi bajarilgan ishlar bo‘yicha Buyurtmachilar tomonidan berilgan tavsiyanoma xatlarining taqdim qilinganligi. (1-sonli texnik mezonga muvofiq taqdim etilgan shartnomalar doirasida).  Izoh: baholash jarayonida faqat 1-sonli texnik mezonga muvofiq taqdim etilgan shartnomalar doirasida berilgan tavsiyanoma xatlari inobatga olinadi.  Ishtirokchi tomonidan avvalgi Buyurtmachilar tomonidan berilgan tavsiyanoma xatlari taqdim etilishi lozim.\r\nTavsiyanoma xatlarining barchasi tegishli buyurtmachilarning rasmiy blankalarida belgilangan tartibda rasmiylashtirilgan bo‘lishi lozim.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Taqdim qilinmagan bo‘lsa"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "3 ta va undan ortiq tavsiyanoma xatlari mavjud bo‘lsa "
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "2 tagacha tavsiyanoma xatlari mavjud bo‘lsa "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770485,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 3.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Bank ma'lumotlari",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 27.27,
+   "description": "Tanlov ishtirokchisi buyurtmani bajarish uchun yetarli moliyaviy mablag‘ga ega bo‘lishi shart.\r\nMavjud mablag‘ miqdori belgilangan ballar mezonlariga muvofiq baholanadi.\r\nIshtirokchi moliyaviy mablag‘ mavjudligini tasdiqlovchi bankdan amaldagi (tanlov muddati ichida taqdim qilingan) ma’lumotnomani taqdim etishi lozim. Izoh: Bankdan olingan ma’lumotnoma ariza topshirilgan vaqtda amaldagi bo‘lishi va Ishtirokchining hisoblaridagi mavjud mablag‘lar haqida ma’lumotni o‘z ichiga olishi kerak. Ishtirokchi moliyaviy mablag‘ mavjudligini tasdiqlovchi amaldagi bank ma’lumotnomasini taqdim etishi lozim.\r\n\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Tanlovning boshlang‘ich qiymatining 10 % gacha "
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "20% dan ortiq "
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "15,01% dan 20% gacha "
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "10,01% dan 15% gacha "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770486,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Кафолат бўйича талаблар (муддати, жойи)",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "5-son shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Kafolat xati (5-sonli shaklga muvofiq). 5-sonli shaklga muvofiq rasmiylashtiriladi. \r\n\r\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Talabga muvofiq bo‘lmasa "
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Talabga muvofiq bo‘lsa "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": "tender/user-files/2026/11/9/413eb554-9fd0-4f21-bd40-907d25137078.docx"
+  },
+  {
+   "id": 2770487,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": false,
+   "is_file_required": false,
+   "file_name": "Servis xizmati",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Respublika hududida servis markazi (texnik qo‘llab-quvvatlash xizmati) mavjudligi\r\n\r\nIshtirokchi o‘z servis markazi yoki texnik qo‘llab-quvvatlash xizmatiga ega bo‘lmagan taqdirda, tegishli avtorizatsiyaga ega uchinchi shaxs (ixtisoslashgan tashkilot)ni servis va texnik qo‘llab-quvvatlash xizmatlarini ko‘rsatish uchun shartnoma asosida jalb qilgan bo‘lishi lozim.\r\nMezonga muvofiqlikni tasdiqlash uchun ishtirokchi quyidagi hujjatlarni taqdim etadi:\r\n1. ishlab chiqaruvchi tomonidan aynan mazkur ishtirokchiga berilgan, taklif topshirilgan sanada amalda bo‘lgan avtorizatsiya xati (servis va texnik xizmat ko‘rsatish huquqi ko‘rsatilgan holda);\r\n2. servis va texnik xizmat ko‘rsatish amalga oshiriladigan joyga bo‘lgan huquqni tasdiqlovchi hujjat: ko‘chmas mulk kadastr hujjati yoki ijara shartnomasi (ijara muddati shartnoma bo‘yicha majburiyatlar muddatini qamrab olishi lozim).\r\nAgar servis va texnik qo‘llab-quvvatlash xizmatlari shartnoma asosida uchinchi shaxs (ixtisoslashgan tashkilot) tomonidan ko‘rsatilsa, ishtirokchi quyidagilarni taqdim etadi:\r\n- uchinchi shaxs bilan tuzilgan amaldagi shartnoma nusxasi;\r\n- uchinchi shaxsga tegishli, yuqoridagi 1 va 2-bandlarda ko‘rsatilgan tasdiqlovchi hujjatlar.\r\nBelgilangan hujjatlar to‘liq taqdim etilmagan yoki ularning amal qilish muddati o‘tgan taqdirda, mazkur mezon bo‘yicha afzallik berilmaydi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Talabga muvofiq bo‘lmasa"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Talabga muvofiq bo‘lsa "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770488,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "6-son shakl",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Ishtirokchi texnik topshiriq talablari asosida Texnik taklifni taqdim etishi lozim (6-sonli shaklga muvofiq). Ishtirokchilarning texnik takliflarini baholash xarid komissiyasi tomonidan ishtirokchilarning takliflarida (shu jumladan texnik pasportlar, tasniflar va boshqa texnik hujjatlar) mavjud ma’lumotlarni texnik topshiriqda belgilangan talablar bilan solishtirish orqali amalga oshiriladi (6-shakl va ilovalariga muvofiq rasmiylashtiriladi). Baholash faqat ishtirokchilarning texnik taklifi tarkibida mavjud bo‘lgan hujjatlar bilan tasdiqlangan ma’lumotlar asosida amalga oshiriladi. Texnik hujjatlar taqdim etilmagan holda taqdim qilingan 6-shakl va ilovalari baholash uchun qabul qilinmaydi. \r\n6-sonli shakl va uning ilovalariga muvofiq rasmiylashtiriladi.\r\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Taklif etilayotgan uskunalar texnik topshiriq talablariga muvofiq bo‘lmasa shuningdek ishtirokchi faqat \r\n6-sonli shaklni uning ilovalarisiz taqdim etgan bo‘lsa yoki faqat ilovalarni taqdim etgan bo‘lsa \r\n"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Taklif etilayotgan uskunalar texnik topshiriq talablariga muvofiq "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": "tender/user-files/2026/11/9/044667c6-5c45-43f3-bebc-8f34618deca1.docx"
+  }
+ ],
+ "fields": "[{\"Id\":2770483,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Ish tajribasi\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":27.27,\"Description\":\"Ishtirokchining oxirgi yillar ichida yuqori unumdorlikli server uskunalarini yetkazib berish bo‘yicha to‘liq yakunlangan shartnomalar bo‘yicha tajribasi (4-sonli shaklga muvofiq).\\r\\nYuqori unumdorlikli server uskunalari deganda ma’lumotlarni qayta ishlash markazlari va yirik hisoblash infratuzilmalari uchun mo‘ljallangan serverlar tushuniladi. Bunday serverlar texnik topshiriqda belgilangan serverlarga hisoblash quvvati, xotira hajmi va apparat tarkibi bo‘yicha qiyoslanadigan bo‘lishi lozim. \\r\\nBaholash quyidagi tartibda amalga oshiriladi:\\r\\n•\\thar bir shartnoma bo‘yicha yetkazilgan serverlarning spetsifikatsiyasi texnik topshiriqning 2.1-bandidagi asosiy ko‘rsatkichlar bilan solishtiriladi: protsessorlar, tezkor xotira, grafik tezlatkichlar va ma’lumot saqlash tizimi;\\r\\n•\\tushbu ko‘rsatkichlar bo‘yicha texnik topshiriqdagi serverlar bilan bir sinfda bo‘lgan serverlar yetkazilgan shartnomalar inobatga olinadi;\\r\\n•\\ttajriba shartnoma nusxasi (spetsifikatsiyasi bilan) va qabul qilish-topshirish dalolatnomasi (hisob-faktura) bilan tasdiqlanadi. Spetsifikatsiyada asosiy ko‘rsatkichlar aks etmagan bo‘lsa, ishlab chiqaruvchining texnik hujjati ilova qilinadi.\\r\\nQuyidagi uskunalarni yetkazib berish tajribasi inobatga olinmaydi:\\r\\n•\\tboshlang‘ich darajadagi va ofis ehtiyojlari uchun mo‘ljallangan serverlar;\\r\\n•\\tish stansiyalari va shaxsiy kompyuterlar;\\r\\n•\\tasosiy ko‘rsatkichlari (protsessorlar, tezkor xotira, grafik tezlatkichlar, ma’lumot saqlash tizimi) texnik topshiriqdagi serverlardan sezilarli darajada past bo‘lgan serverlar. 4-sonli shaklga muvofiq to‘ldirib taqdim etiladi.\\r\\nIshtirokchilarning yakunlangan ishlar bo‘yicha tajribasi ikki tomonlama imzolangan shartnoma va bajarilgan ishlar dalolatnomasi yoki imzolangan hisob-faktura taqdim etilgan taqdirda hisobga olinadi va baholanadi.\\r\\nTasdiqlovchi hujjatlar taqdim etilmagan bo‘lsa tegishli ish tajribasi baholashda inobatga olinmaydi.\\r\\nAgar zaruriy ma’lumotlar taqdim etilmagan bo‘lsa yoki o‘rnatilgan talablarga nomuvofiq bo‘lsa ishtirokchi tanlovdan chetlashtiriladi. \\r\\n\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Taqdim qilinmagan bo‘lsa \"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"5 ta va undan ortiq yakunlangan shartnomani tashkil etsa \"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"3 tadan 4 tagacha yakunlangan shartnomani tashkil etsa \"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"2 tagacha yakunlangan shartnomani tashkil etsa \"}],\"Form_Name\":null,\"Form_File_Path\":\"tender/user-files/2026/11/9/c42f2114-706a-4c2e-bded-69275f09d672.docx\"},{\"Id\":2770484,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Tavsiyanoma\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":18.18,\"Description\":\"Ishtirokchi tomonidan avvalgi bajarilgan ishlar bo‘yicha Buyurtmachilar tomonidan berilgan tavsiyanoma xatlarining taqdim qilinganligi. (1-sonli texnik mezonga muvofiq taqdim etilgan shartnomalar doirasida).  Izoh: baholash jarayonida faqat 1-sonli texnik mezonga muvofiq taqdim etilgan shartnomalar doirasida berilgan tavsiyanoma xatlari inobatga olinadi.  Ishtirokchi tomonidan avvalgi Buyurtmachilar tomonidan berilgan tavsiyanoma xatlari taqdim etilishi lozim.\\r\\nTavsiyanoma xatlarining barchasi tegishli buyurtmachilarning rasmiy blankalarida belgilangan tartibda rasmiylashtirilgan bo‘lishi lozim.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Taqdim qilinmagan bo‘lsa\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"3 ta va undan ortiq tavsiyanoma xatlari mavjud bo‘lsa \"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"2 tagacha tavsiyanoma xatlari mavjud bo‘lsa \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770485,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":3.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Bank ma'lumotlari\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":27.27,\"Description\":\"Tanlov ishtirokchisi buyurtmani bajarish uchun yetarli moliyaviy mablag‘ga ega bo‘lishi shart.\\r\\nMavjud mablag‘ miqdori belgilangan ballar mezonlariga muvofiq baholanadi.\\r\\nIshtirokchi moliyaviy mablag‘ mavjudligini tasdiqlovchi bankdan amaldagi (tanlov muddati ichida taqdim qilingan) ma’lumotnomani taqdim etishi lozim. Izoh: Bankdan olingan ma’lumotnoma ariza topshirilgan vaqtda amaldagi bo‘lishi va Ishtirokchining hisoblaridagi mavjud mablag‘lar haqida ma’lumotni o‘z ichiga olishi kerak. Ishtirokchi moliyaviy mablag‘ mavjudligini tasdiqlovchi amaldagi bank ma’lumotnomasini taqdim etishi lozim.\\r\\n\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Tanlovning boshlang‘ich qiymatining 10 % gacha \"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"20% dan ortiq \"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"15,01% dan 20% gacha \"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"10,01% dan 15% gacha \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770486,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Кафолат бўйича талаблар (муддати, жойи)\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"5-son shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Kafolat xati (5-sonli shaklga muvofiq). 5-sonli shaklga muvofiq rasmiylashtiriladi. \\r\\n\\r\\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Talabga muvofiq bo‘lmasa \"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Talabga muvofiq bo‘lsa \"}],\"Form_Name\":null,\"Form_File_Path\":\"tender/user-files/2026/11/9/413eb554-9fd0-4f21-bd40-907d25137078.docx\"},{\"Id\":2770487,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":false,\"Is_File_Required\":false,\"File_Name\":\"Servis xizmati\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Respublika hududida servis markazi (texnik qo‘llab-quvvatlash xizmati) mavjudligi\\r\\n\\r\\nIshtirokchi o‘z servis markazi yoki texnik qo‘llab-quvvatlash xizmatiga ega bo‘lmagan taqdirda, tegishli avtorizatsiyaga ega uchinchi shaxs (ixtisoslashgan tashkilot)ni servis va texnik qo‘llab-quvvatlash xizmatlarini ko‘rsatish uchun shartnoma asosida jalb qilgan bo‘lishi lozim.\\r\\nMezonga muvofiqlikni tasdiqlash uchun ishtirokchi quyidagi hujjatlarni taqdim etadi:\\r\\n1. ishlab chiqaruvchi tomonidan aynan mazkur ishtirokchiga berilgan, taklif topshirilgan sanada amalda bo‘lgan avtorizatsiya xati (servis va texnik xizmat ko‘rsatish huquqi ko‘rsatilgan holda);\\r\\n2. servis va texnik xizmat ko‘rsatish amalga oshiriladigan joyga bo‘lgan huquqni tasdiqlovchi hujjat: ko‘chmas mulk kadastr hujjati yoki ijara shartnomasi (ijara muddati shartnoma bo‘yicha majburiyatlar muddatini qamrab olishi lozim).\\r\\nAgar servis va texnik qo‘llab-quvvatlash xizmatlari shartnoma asosida uchinchi shaxs (ixtisoslashgan tashkilot) tomonidan ko‘rsatilsa, ishtirokchi quyidagilarni taqdim etadi:\\r\\n- uchinchi shaxs bilan tuzilgan amaldagi shartnoma nusxasi;\\r\\n- uchinchi shaxsga tegishli, yuqoridagi 1 va 2-bandlarda ko‘rsatilgan tasdiqlovchi hujjatlar.\\r\\nBelgilangan hujjatlar to‘liq taqdim etilmagan yoki ularning amal qilish muddati o‘tgan taqdirda, mazkur mezon bo‘yicha afzallik berilmaydi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Talabga muvofiq bo‘lmasa\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Talabga muvofiq bo‘lsa \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770488,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"6-son shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Ishtirokchi texnik topshiriq talablari asosida Texnik taklifni taqdim etishi lozim (6-sonli shaklga muvofiq). Ishtirokchilarning texnik takliflarini baholash xarid komissiyasi tomonidan ishtirokchilarning takliflarida (shu jumladan texnik pasportlar, tasniflar va boshqa texnik hujjatlar) mavjud ma’lumotlarni texnik topshiriqda belgilangan talablar bilan solishtirish orqali amalga oshiriladi (6-shakl va ilovalariga muvofiq rasmiylashtiriladi). Baholash faqat ishtirokchilarning texnik taklifi tarkibida mavjud bo‘lgan hujjatlar bilan tasdiqlangan ma’lumotlar asosida amalga oshiriladi. Texnik hujjatlar taqdim etilmagan holda taqdim qilingan 6-shakl va ilovalari baholash uchun qabul qilinmaydi. \\r\\n6-sonli shakl va uning ilovalariga muvofiq rasmiylashtiriladi.\\r\\nAgar mavjud bo‘lmasa / nomuvofiq bo‘lsa, ishtirokchi tanlovdan chetlashtiriladi.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Taklif etilayotgan uskunalar texnik topshiriq talablariga muvofiq bo‘lmasa shuningdek ishtirokchi faqat \\r\\n6-sonli shaklni uning ilovalarisiz taqdim etgan bo‘lsa yoki faqat ilovalarni taqdim etgan bo‘lsa \\r\\n\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Taklif etilayotgan uskunalar texnik topshiriq talablariga muvofiq \"}],\"Form_Name\":null,\"Form_File_Path\":\"tender/user-files/2026/11/9/044667c6-5c45-43f3-bebc-8f34618deca1.docx\"}]",
+ "js_qualification_fields": [
+  {
+   "id": 1110104,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": "Ishtirokchi tomonidan shartnomani bajarish uchun zarur bo‘lgan texnik, moliyaviy, moddiy-texnik, kadrlar hamda boshqa resurslarning mavjudligi to‘g‘risida kafolat xati tashkilotning rasmiy blankasida taqdim etilishi lozim.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110105,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": "Ishtirokchi tomonidan shartnoma tuzuvchi shaxsning shartnoma tuzish uchun qonuniy huquqi mavjudligini tasdiqlovchi hujjat (Ustav nusxasi/shahsni tasdiqlovchi hujjati/ lavozimga tayinlov to‘g‘risida buyruq nusxasi/ amaldagi ishonchnoma nusxasi)  taqdim etilishi lozim.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110106,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": "Ishtirokchi tomonidan vakolatli organ tomonidan taqdim etilgan ma’lumotnoma taqdim etilishi lozim. \r\n\r\n",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110107,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "“Xo‘jalik jamiyatining to‘lovga qobiliyatsizligi (bankrotligi) to‘g‘risida ma’lumot” xizmati — my.gov.uz portalidan olinadigan hujjat. Hujjatdagi QR-kod skanerlash uchun ochiq bo‘lishi va ma’lumotni to‘g‘ri o‘qishni ta’minlashi kerak. ",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110108,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "Ishtirokchi tomonidan Insofsiz ijrochilarning yagona reyestrida mavjud emasligi to‘g‘risida ma’lumot taqdim etilishi lozim.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110109,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": "Ishtirokchi tomonidan O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosi ma’lumotlar bazalarida sud qarorlari asosida ishtirokchining bajarilmagan majburiyatlari mavjud emasligi to‘g‘risida ma’lumot taqdim etilishi lozim.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110110,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 7,
+   "description": "Ilova qilingan 1-sonli shaklga muvofiq rasmiylashtiriladi\r\n\r\nIshtirokchi tomonidan manfaatlar to‘qnashuvi yoki affillanganlik holatlarining mavjud emasligi to‘g‘risida tashkilotning rasmiy blankasida xat taqdim etilishi lozim.\r\n",
+   "file_path": "tender/user-files/2026/11/9/57d7fffd-bf53-496f-acc9-831d9dfb8a84.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110111,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 8,
+   "description": "Ilova qilingan 2-sonli shaklga muvofiq rasmiylashtirilgan ariza taqdim etilishi lozim.\r\n\r\nIshtirokchi tomonidan korrupsiya ko‘rinishlariga yo‘l qo‘ymaslik to‘g‘risida tashkilotning rasmiy blankasida xat taqdim etilishi lozim\r\n",
+   "file_path": "tender/user-files/2026/11/9/e97600bb-b922-4457-ab92-d8489ad75ab1.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110112,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 9,
+   "description": "Ishtirokchi tomonidan ta’sis hujjatlari, faoliyatni amalga oshirishning huquqiy asoslari hamda davlat ro‘yxatidan o‘tkazilganligi to‘g‘risidagi guvohnoma  taqdim qilinishi lozim.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110113,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 10,
+   "description": "-\tIshtirokchi tomonidan ushbu talabda keltirilgan holatlarning mavjud emasligini tasdiqlovchi xat tashkilotning rasmiy blankasida taqdim qilinishi lozim (ilova qilinayotgan 3-sonli shaklga muvofiq rasmiylashtiriladi). ",
+   "file_path": "tender/user-files/2026/11/9/c4682bf0-4785-48ce-a5ff-3654608ef3b8.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1110104,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":\"Ishtirokchi tomonidan shartnomani bajarish uchun zarur bo‘lgan texnik, moliyaviy, moddiy-texnik, kadrlar hamda boshqa resurslarning mavjudligi to‘g‘risida kafolat xati tashkilotning rasmiy blankasida taqdim etilishi lozim.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110105,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":\"Ishtirokchi tomonidan shartnoma tuzuvchi shaxsning shartnoma tuzish uchun qonuniy huquqi mavjudligini tasdiqlovchi hujjat (Ustav nusxasi/shahsni tasdiqlovchi hujjati/ lavozimga tayinlov to‘g‘risida buyruq nusxasi/ amaldagi ishonchnoma nusxasi)  taqdim etilishi lozim.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110106,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"Ishtirokchi tomonidan vakolatli organ tomonidan taqdim etilgan ma’lumotnoma taqdim etilishi lozim. \\r\\n\\r\\n\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110107,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"“Xo‘jalik jamiyatining to‘lovga qobiliyatsizligi (bankrotligi) to‘g‘risida ma’lumot” xizmati — my.gov.uz portalidan olinadigan hujjat. Hujjatdagi QR-kod skanerlash uchun ochiq bo‘lishi va ma’lumotni to‘g‘ri o‘qishni ta’minlashi kerak. \",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110108,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"Ishtirokchi tomonidan Insofsiz ijrochilarning yagona reyestrida mavjud emasligi to‘g‘risida ma’lumot taqdim etilishi lozim.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110109,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"Ishtirokchi tomonidan O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosi ma’lumotlar bazalarida sud qarorlari asosida ishtirokchining bajarilmagan majburiyatlari mavjud emasligi to‘g‘risida ma’lumot taqdim etilishi lozim.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110110,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":7,\"Description\":\"Ilova qilingan 1-sonli shaklga muvofiq rasmiylashtiriladi\\r\\n\\r\\nIshtirokchi tomonidan manfaatlar to‘qnashuvi yoki affillanganlik holatlarining mavjud emasligi to‘g‘risida tashkilotning rasmiy blankasida xat taqdim etilishi lozim.\\r\\n\",\"File_Path\":\"tender/user-files/2026/11/9/57d7fffd-bf53-496f-acc9-831d9dfb8a84.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1110111,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":8,\"Description\":\"Ilova qilingan 2-sonli shaklga muvofiq rasmiylashtirilgan ariza taqdim etilishi lozim.\\r\\n\\r\\nIshtirokchi tomonidan korrupsiya ko‘rinishlariga yo‘l qo‘ymaslik to‘g‘risida tashkilotning rasmiy blankasida xat taqdim etilishi lozim\\r\\n\",\"File_Path\":\"tender/user-files/2026/11/9/e97600bb-b922-4457-ab92-d8489ad75ab1.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1110112,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":9,\"Description\":\"Ishtirokchi tomonidan ta’sis hujjatlari, faoliyatni amalga oshirishning huquqiy asoslari hamda davlat ro‘yxatidan o‘tkazilganligi to‘g‘risidagi guvohnoma  taqdim qilinishi lozim.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110113,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":10,\"Description\":\"-\\tIshtirokchi tomonidan ushbu talabda keltirilgan holatlarning mavjud emasligini tasdiqlovchi xat tashkilotning rasmiy blankasida taqdim qilinishi lozim (ilova qilinayotgan 3-sonli shaklga muvofiq rasmiylashtiriladi). \",\"File_Path\":\"tender/user-files/2026/11/9/c4682bf0-4785-48ce-a5ff-3654608ef3b8.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 418817,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Мирзо-Улугбекский район",
+ "delivering_address": "Toshkent shahar, M.Ulug'bek tumani",
+ "delivering_phone": "998295511",
+ "addon_description": "Tarmoq va muhandislik infratuzilmalari komplekslarini joriy etish loyihasi doirasida sun’iy intellekt tizimlari uchun server qurilmalarini xarid qilish",
+ "technical_description": "Tarmoq va muhandislik infratuzilmalari komplekslarini joriy etish loyihasi doirasida sun’iy intellekt tizimlari uchun server qurilmalarini xarid qilish",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "100077,Toshkent shahar, Mirzo Ulug`bek tumani, Buyuk ipak yoʻli MFY, Sayram ko'chasi, 7 tor ko'chasi, 4-uy",
+ "customer_zip": "100090",
+ "min_point": 3,
+ "financing_source": "Buyurtmachining o'z mablag'lari",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 7215211600.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081997,
+     "converted_price": 7215211600.0,
+     "converted_cost": 7215211600.0
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 600086.96,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081997,
+     "converted_price": 600086.96,
+     "converted_cost": 600086.96
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 49575454.17,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081997,
+     "converted_price": 49575454.17,
+     "converted_cost": 49575454.17
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 545087.71,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081997,
+     "converted_price": 545087.71,
+     "converted_cost": 545087.71
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

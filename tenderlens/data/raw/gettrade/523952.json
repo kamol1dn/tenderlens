@@ -1,0 +1,1403 @@
+{
+ "id": 523952,
+ "display_no": "26111006523952",
+ "start_date": "2026-11-10T11:42:38",
+ "end_date": "2026-11-26T11:42:38",
+ "clarific_date": "2026-11-26T11:42:38",
+ "start_cost": 22246705622.66,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2079270,\"Order_Num\":1,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23582701,\"Product_Id\":506765,\"Product_Type_Id\":1,\"Quantity\":593,\"Price\":1275402.31,\"Cost\":756313569.83,\"Description\":\"Sinf doskasi \\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599205,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.99.53.130-00052\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Бўр билан ёзиладиган доска\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ёруғлик қайтаришга қарши қоплама бор/йўқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":1,\"Pnum\":1}]},{\"Id\":2079318,\"Order_Num\":49,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23597015,\"Product_Id\":612191,\"Product_Type_Id\":1,\"Quantity\":170,\"Price\":2571030,\"Cost\":437075100,\"Description\":\"Kiyim uchun javon (4 sektsiyali)\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9607171,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.09.10.000-00015\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Кийимлар учун токча\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079317,\"Order_Num\":48,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23596466,\"Product_Id\":551298,\"Product_Type_Id\":1,\"Quantity\":1058,\"Price\":111573,\"Cost\":118044234,\"Description\":\"Taburet\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9606871,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.09.10.000-00002\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Табуретка\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Баландлик, мм\",\"User_Value\":\"≥ 500  ва  < 600\",\"User_Value_Id\":4,\"Pnum\":1},{\"Property_Name\":\"Юмшоқ ўриндиқнинг мавжудлиги\",\"User_Value\":\"Йўқ\",\"User_Value_Id\":1,\"Pnum\":7},{\"Property_Name\":\"Каркас тури\",\"User_Value\":\"Ёғоч\",\"User_Value_Id\":0,\"Pnum\":9},{\"Property_Name\":\"Ерга ўрнатиладиган таянч турлари\",\"User_Value\":\"Оёқчалар\",\"User_Value_Id\":1,\"Pnum\":10},{\"Property_Name\":\"Қоплаш усули\",\"User_Value\":\"Қопламасиз\",\"User_Value_Id\":0,\"Pnum\":11}]},{\"Id\":2079316,\"Order_Num\":47,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23596412,\"Product_Id\":718292,\"Product_Type_Id\":1,\"Quantity\":243,\"Price\":630590,\"Cost\":153233370,\"Description\":\"Toʼrt oʼrinli stol\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9606856,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.09.12.131-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Мактабда овқатланиш столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ёш тоифаси\",\"User_Value\":\"Юқори синф ўқувчилари учун\",\"User_Value_Id\":2,\"Pnum\":1}]},{\"Id\":2079315,\"Order_Num\":46,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23595907,\"Product_Id\":522164,\"Product_Type_Id\":1,\"Quantity\":20,\"Price\":5530140,\"Cost\":110602800,\"Description\":\"Kabinet toʼplami Rahbar oʼrinbosari xonasi\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9606585,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.190-00012\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Раҳбар хонаси учун мебель тўплами\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"тўплам\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079314,\"Order_Num\":45,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23595887,\"Product_Id\":718309,\"Product_Type_Id\":1,\"Quantity\":21,\"Price\":950796,\"Cost\":19966716,\"Description\":\"Ish stoli\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9606565,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.10.000-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Ёзув столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Стол тури\",\"User_Value\":\"Бир иш ўрнига ҳисобланган\",\"User_Value_Id\":2,\"Pnum\":5},{\"Property_Name\":\"Каркас тури\",\"User_Value\":\"Ёғоч\",\"User_Value_Id\":0,\"Pnum\":7}]},{\"Id\":2079313,\"Order_Num\":44,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23595815,\"Product_Id\":522164,\"Product_Type_Id\":1,\"Quantity\":21,\"Price\":6209280,\"Cost\":130394880,\"Description\":\"Kabinet toʼplami Rahbar xonasi\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9606509,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.190-00012\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Раҳбар хонаси учун мебель тўплами\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"тўплам\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079312,\"Order_Num\":43,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23594996,\"Product_Id\":468102,\"Product_Type_Id\":1,\"Quantity\":17,\"Price\":630630,\"Cost\":10720710,\"Description\":\"Minbar\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9605985,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.190-00010\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Минбар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079311,\"Order_Num\":42,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23594931,\"Product_Id\":457324,\"Product_Type_Id\":1,\"Quantity\":560,\"Price\":1377684,\"Cost\":771503040,\"Description\":\"Oʼrindiq\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9605942,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.09.11.190-00011\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Металл каркасга маҳкамланган уч ўринли курси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079310,\"Order_Num\":41,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23594837,\"Product_Id\":494100,\"Product_Type_Id\":1,\"Quantity\":21,\"Price\":892584,\"Cost\":18744264,\"Description\":\"Kafedra stoli (kitob tarqatish uchun)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9605892,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.129-00003\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Минбар-стол\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079309,\"Order_Num\":40,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23594664,\"Product_Id\":596844,\"Product_Type_Id\":1,\"Quantity\":388,\"Price\":1051495.29,\"Cost\":407980172.52,\"Description\":\"Kitoblar uchun javon \\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9605768,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.190-00013\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Китоб токчаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079308,\"Order_Num\":39,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23586430,\"Product_Id\":718857,\"Product_Type_Id\":1,\"Quantity\":18,\"Price\":1275380.71,\"Cost\":22956852.78,\"Description\":\"Tibbiyot javoni\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601338,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.50.30.110-00010\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Тиббий жавон\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079307,\"Order_Num\":38,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23586412,\"Product_Id\":626183,\"Product_Type_Id\":1,\"Quantity\":18,\"Price\":669492.14,\"Cost\":12050858.52,\"Description\":\"Parda (shirma)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601324,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"21.31.17.190-00003\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Тиббий парда (ширма)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079306,\"Order_Num\":37,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23586394,\"Product_Id\":708777,\"Product_Type_Id\":1,\"Quantity\":18,\"Price\":795564,\"Cost\":14320152,\"Description\":\"Birinchi tibbiy yordam stoli\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601309,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"21.31.17.190-00006\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Биринчи тиббий ёрдам столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079305,\"Order_Num\":36,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23586373,\"Product_Id\":695994,\"Product_Type_Id\":1,\"Quantity\":18,\"Price\":887733,\"Cost\":15979194,\"Description\":\"Shifokor stoli\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601293,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"21.31.17.190-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Тиббий стол\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079304,\"Order_Num\":35,\"Category_Id\":122780,\"Plangraph_Detail_Id\":23586349,\"Product_Id\":457290,\"Product_Type_Id\":1,\"Quantity\":18,\"Price\":747054,\"Cost\":13446972,\"Description\":\"Tibbiy kushetka\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601272,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"32.50.30.110-00009\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Бошқа тайёр буюмлар\",\"Product_Name\":\"Беморларни кўрикдан ўтказиш учун кушетка\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079303,\"Order_Num\":34,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23586333,\"Product_Id\":708722,\"Product_Type_Id\":1,\"Quantity\":11,\"Price\":950796,\"Cost\":10458756,\"Description\":\"Logoped stoli\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601259,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"21.31.17.190-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Логопед столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079302,\"Order_Num\":33,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23586310,\"Product_Id\":458356,\"Product_Type_Id\":1,\"Quantity\":17,\"Price\":451143,\"Cost\":7669431,\"Description\":\"Jurnal stoli\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601243,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.09.12.132-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Журнал столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079301,\"Order_Num\":32,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23586284,\"Product_Id\":718303,\"Product_Type_Id\":1,\"Quantity\":17,\"Price\":4325821.57,\"Cost\":73538966.69,\"Description\":\"Yumshoq kreslo \\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601221,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.11.150-00006\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Офис креслоси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Қўлланиши\",\"User_Value\":\"Ходимлар учун\",\"User_Value_Id\":1,\"Pnum\":3}]},{\"Id\":2079300,\"Order_Num\":31,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23586254,\"Product_Id\":718262,\"Product_Type_Id\":1,\"Quantity\":380,\"Price\":271656,\"Cost\":103229280,\"Description\":\"Stul\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601200,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.11.150-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Металл каркасли стул\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Юмшоқ ўриндиқнинг мавжудлиги\",\"User_Value\":\"Йўқ\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Юмшоқ суянғичнинг мавжудлиги\",\"User_Value\":\"Йўқ\",\"User_Value_Id\":1,\"Pnum\":5}]},{\"Id\":2079299,\"Order_Num\":30,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23586234,\"Product_Id\":708729,\"Product_Type_Id\":1,\"Quantity\":17,\"Price\":950796,\"Cost\":16163532,\"Description\":\"Psixolog stoli\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601184,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"21.31.17.190-00005\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Руҳшунос столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079298,\"Order_Num\":29,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23586211,\"Product_Id\":702975,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":1038114,\"Cost\":2076228,\"Description\":\"Ish stoli va stuli (Oʼqituvchi stoli)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601167,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.10.000-00003\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Ўқитувчи столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2079297,\"Order_Num\":28,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23586185,\"Product_Id\":718301,\"Product_Type_Id\":1,\"Quantity\":19,\"Price\":1144836,\"Cost\":21751884,\"Description\":\"Majlis stoli\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601153,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.110-00003\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Мажлислар столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079296,\"Order_Num\":27,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23586165,\"Product_Id\":718303,\"Product_Type_Id\":1,\"Quantity\":43,\"Price\":1270962,\"Cost\":54651366,\"Description\":\"Kreslo (aylanuvchi)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601141,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.11.150-00006\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Офис креслоси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Қўлланиши\",\"User_Value\":\"Ходимлар учун\",\"User_Value_Id\":1,\"Pnum\":3}]},{\"Id\":2079295,\"Order_Num\":26,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23586149,\"Product_Id\":596844,\"Product_Type_Id\":1,\"Quantity\":42,\"Price\":1057518,\"Cost\":44415756,\"Description\":\"Javon (jurnallar uchun)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601128,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.190-00013\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Китоб токчаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079294,\"Order_Num\":25,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23586123,\"Product_Id\":596844,\"Product_Type_Id\":1,\"Quantity\":128,\"Price\":1038114,\"Cost\":132878592,\"Description\":\"Kitob javoni\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601111,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.190-00013\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Китоб токчаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079293,\"Order_Num\":24,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23586012,\"Product_Id\":474978,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":455496.71,\"Cost\":910993.42,\"Description\":\"Oʼqituvchi uchun molbert\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601080,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.09.13.149-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Рассомлар дастгоҳи (мольберт)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079292,\"Order_Num\":23,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23585988,\"Product_Id\":718320,\"Product_Type_Id\":1,\"Quantity\":256,\"Price\":766458,\"Cost\":196213248,\"Description\":\"Oʼquvchi stoli (1 dona stol, 1 dona stul)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9601065,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.122-00005\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Бир ўринли ўқувчилар столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079291,\"Order_Num\":22,\"Category_Id\":119460,\"Plangraph_Detail_Id\":23584477,\"Product_Id\":590921,\"Product_Type_Id\":1,\"Quantity\":8,\"Price\":1794870,\"Cost\":14358960,\"Description\":\"Oʼqituvchi uchun kulman\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9600174,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"26.51.32.190-00005\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Компьютер, электрон ва оптик ускуналар\",\"Product_Name\":\"Чизма тахтаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079290,\"Order_Num\":21,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23584074,\"Product_Id\":718323,\"Product_Type_Id\":1,\"Quantity\":120,\"Price\":863478,\"Cost\":103617360,\"Description\":\"Oʼquvchi stoli (1 dona stol, 2 dona stul)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599991,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.122-00002\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Икки ўриндиқли ўқувчилар столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Баландликни созлаш\",\"User_Value\":\"Йўқ\",\"User_Value_Id\":1,\"Pnum\":1},{\"Property_Name\":\"Ўсиш гуруҳи\",\"User_Value\":\"5\",\"User_Value_Id\":4,\"Pnum\":2}]},{\"Id\":2079289,\"Order_Num\":20,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583905,\"Product_Id\":596844,\"Product_Type_Id\":1,\"Quantity\":52,\"Price\":1765764,\"Cost\":91819728,\"Description\":\"Javon \\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599885,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.190-00013\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Китоб токчаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079288,\"Order_Num\":19,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583886,\"Product_Id\":718208,\"Product_Type_Id\":1,\"Quantity\":21,\"Price\":2345542,\"Cost\":49256382,\"Description\":\"Oʼqituvchi stoli va tajriba stoli (Biologiya, Kimyo va biologiya laboratoriya xonasi)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599870,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.09.10.000-00018\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Лаборатория столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2079287,\"Order_Num\":18,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583886,\"Product_Id\":718208,\"Product_Type_Id\":1,\"Quantity\":31,\"Price\":2345470.57,\"Cost\":72709587.67,\"Description\":\"Oʼqituvchi stoli va tajriba stoli (Fizika va Kimyo laboratoriyasi xona)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599870,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.09.10.000-00018\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Лаборатория столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2079286,\"Order_Num\":17,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583817,\"Product_Id\":718270,\"Product_Type_Id\":1,\"Quantity\":594,\"Price\":679140,\"Cost\":403409160,\"Description\":\"Oʼquvchi uchun kompyuter stoli va stuli (1 dona stol, 1 dona stul)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599842,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.110-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Компьютер столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2079285,\"Order_Num\":16,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583765,\"Product_Id\":718270,\"Product_Type_Id\":1,\"Quantity\":41,\"Price\":790700,\"Cost\":32418700,\"Description\":\"Oʼqituvchi uchun kompyuter stoli\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599819,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.110-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Компьютер столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079284,\"Order_Num\":15,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583729,\"Product_Id\":718320,\"Product_Type_Id\":1,\"Quantity\":577,\"Price\":1236918,\"Cost\":713701686,\"Description\":\"Oʼquvchi stoli №6 (1 dona stol, 1 dona stul)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599802,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.122-00005\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Бир ўринли ўқувчилар столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079283,\"Order_Num\":14,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583700,\"Product_Id\":718320,\"Product_Type_Id\":1,\"Quantity\":738,\"Price\":1221264,\"Cost\":901292832,\"Description\":\"Oʼquvchi stoli №5 (1 dona stol, 1 dona stul)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599781,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.122-00005\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Бир ўринли ўқувчилар столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079282,\"Order_Num\":13,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583653,\"Product_Id\":718323,\"Product_Type_Id\":1,\"Quantity\":2059,\"Price\":1909139,\"Cost\":3930917201,\"Description\":\"Oʼquvchi stoli №6 (1 dona stol, 2 dona stul)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599745,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.122-00002\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Икки ўриндиқли ўқувчилар столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Баландликни созлаш\",\"User_Value\":\"Йўқ\",\"User_Value_Id\":1,\"Pnum\":1},{\"Property_Name\":\"Ўсиш гуруҳи\",\"User_Value\":\"6\",\"User_Value_Id\":5,\"Pnum\":2}]},{\"Id\":2079281,\"Order_Num\":12,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583605,\"Product_Id\":718323,\"Product_Type_Id\":1,\"Quantity\":2324,\"Price\":1909139,\"Cost\":4436839036,\"Description\":\"Oʼquvchi stoli №5 (1 dona stol, 2 dona stul)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599700,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.122-00002\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Икки ўриндиқли ўқувчилар столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Баландликни созлаш\",\"User_Value\":\"Йўқ\",\"User_Value_Id\":1,\"Pnum\":1},{\"Property_Name\":\"Ўсиш гуруҳи\",\"User_Value\":\"5\",\"User_Value_Id\":4,\"Pnum\":2}]},{\"Id\":2079280,\"Order_Num\":11,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583510,\"Product_Id\":718320,\"Product_Type_Id\":1,\"Quantity\":222,\"Price\":1208219,\"Cost\":268224618,\"Description\":\"Oʼquvchi stoli №4 (1 dona stol, 1 dona stul)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599670,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.122-00005\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Бир ўринли ўқувчилар столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079279,\"Order_Num\":10,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583344,\"Product_Id\":718320,\"Product_Type_Id\":1,\"Quantity\":252,\"Price\":1197783,\"Cost\":301841316,\"Description\":\"Oʼquvchi stoli №3 (1 dona stol, 1 dona stul)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599618,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.122-00005\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Бир ўринли ўқувчилар столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079278,\"Order_Num\":9,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583304,\"Product_Id\":612191,\"Product_Type_Id\":1,\"Quantity\":764,\"Price\":1041780.43,\"Cost\":795920248.52,\"Description\":\"Kiyim javoni \\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599601,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.09.10.000-00015\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Кийимлар учун токча\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079277,\"Order_Num\":8,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583250,\"Product_Id\":596844,\"Product_Type_Id\":1,\"Quantity\":43,\"Price\":1173814.71,\"Cost\":50474032.53,\"Description\":\"Javon (oʼqituvchi hujjatlari va kiyimi uchun javon) (5-11 sinf “Chet tili” fani xonasi)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599569,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.190-00013\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Китоб токчаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079276,\"Order_Num\":7,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583250,\"Product_Id\":596844,\"Product_Type_Id\":1,\"Quantity\":482,\"Price\":1193346,\"Cost\":575192772,\"Description\":\"Javon (oʼqituvchi hujjatlari va kiyimi uchun javon) \\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599569,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.190-00013\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Китоб токчаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079275,\"Order_Num\":6,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23583083,\"Product_Id\":596844,\"Product_Type_Id\":1,\"Quantity\":450,\"Price\":1028535.29,\"Cost\":462840880.5,\"Description\":\"Javon (kitoblar, oʼquv qurollari va anjomlari uchun)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599447,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.190-00013\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Китоб токчаси\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079274,\"Order_Num\":5,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23582971,\"Product_Id\":718262,\"Product_Type_Id\":1,\"Quantity\":948,\"Price\":296187.43,\"Cost\":280785683.64,\"Description\":\"Oʼqituvchi stuli\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599387,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.11.150-00001\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Металл каркасли стул\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Юмшоқ ўриндиқнинг мавжудлиги\",\"User_Value\":\"Ҳа\",\"User_Value_Id\":0,\"Pnum\":2},{\"Property_Name\":\"Юмшоқ суянғичнинг мавжудлиги\",\"User_Value\":\"Ҳа\",\"User_Value_Id\":0,\"Pnum\":5}]},{\"Id\":2079273,\"Order_Num\":4,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23582896,\"Product_Id\":702975,\"Product_Type_Id\":1,\"Quantity\":814,\"Price\":1092285.14,\"Cost\":889120103.96,\"Description\":\"Oʼqituvchi stoli\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599356,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.10.000-00003\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Ўқитувчи столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0}]},{\"Id\":2079272,\"Order_Num\":3,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23582814,\"Product_Id\":718323,\"Product_Type_Id\":1,\"Quantity\":1048,\"Price\":1885479.71,\"Cost\":1975982736.08,\"Description\":\"Oʼquvchi stoli №4 (1 dona stol, 2 dona stul)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599285,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.122-00002\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Икки ўриндиқли ўқувчилар столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Баландликни созлаш\",\"User_Value\":\"Йўқ\",\"User_Value_Id\":1,\"Pnum\":1},{\"Property_Name\":\"Ўсиш гуруҳи\",\"User_Value\":\"4\",\"User_Value_Id\":3,\"Pnum\":2}]},{\"Id\":2079271,\"Order_Num\":2,\"Category_Id\":122645,\"Plangraph_Detail_Id\":23582750,\"Product_Id\":718323,\"Product_Type_Id\":1,\"Quantity\":1184,\"Price\":1873895,\"Cost\":2218691680,\"Description\":\"Oʼquvchi stoli №3 (1 dona stol, 2 dona stul)\\r\\n\",\"Expenditure_Id\":44354910,\"Expenditure_Name\":\"Мебель и офисное оборудование\",\"Plan_Id\":9599242,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"31.01.12.122-00002\",\"Guarantee_Term\":1,\"Delivery_Term\":30,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Мебель\",\"Product_Name\":\"Икки ўриндиқли ўқувчилар столи\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Баландликни созлаш\",\"User_Value\":\"Йўқ\",\"User_Value_Id\":1,\"Pnum\":1},{\"Property_Name\":\"Ўсиш гуруҳи\",\"User_Value\":\"3\",\"User_Value_Id\":2,\"Pnum\":2}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 5.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 30,
+ "term_online_days": 12,
+ "type_name": "Tender",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"},{\"Id\":4,\"Name\":\"Узбекский К\"}]",
+ "contacts": "[{\"Job_title\":\"Bo'lim boshlig'i\",\"Fullname\":\"Dilmurod Abdullayev\"}]",
+ "rest_time": 736571,
+ "customer_name": "Сирдарё вилояти хокимлиги курилиш буйича ягона буюртмачи инжениринг компанияси",
+ "customer_tin": "204773938",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202610080512138387.pdf",
+ "tech_file_path": "/files/2026/10/8/202610080512138387.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 1169016.0,
+ "tech_doc_file_name": "20261711102409523952.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711102409523952.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 660167.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610085158346541.docx",
+ "contract_proform_file_path": "/files/2026/10/8/202610085158346541.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 27261.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": "202611041804351674.pdf",
+ "expertise_file_path": "/files/2026/11/4/202611041804351674.pdf",
+ "expertise_file_ext": "PDF",
+ "expertise_file_sizes": 8088912.0,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 39,
+ "nonauthorized_count": 6271,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2766998,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Korxonaning zarur bulgan moddiy-texnik bazasi mavjudligi (zarur asbob-uskunalar bilan jixozlangan ishlab chiqarish sexlari):",
+   "min_score": 0.0,
+   "max_score": 25.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Хужжат",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 25.0,
+   "description": "Kadastr pasportidan koʼchirmalar va ijara shartnmalari kabi tasdiqlovchi xujjatlar taqdim etiladi.. 1. 1 000 kv.м.dan yuqori bo'lsa  - 25\r\n2. 500 kv.м. dan - 1 000 kv.м. gacha - 15\r\n3. 500 kv.м. gacha - 5\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2766999,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Korxonada moliyaviy va ijro xujjatlardan karzdorlik va majburiyatlari yoqligi",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Хужжат",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Ma'lumotnoma (Lot e'londa turgan davrdagi sana bilan) \r\n. 1. Tasdiqlovchi xujjattlar taqdim etilgan taqdirda - 15\r\n2. Tasdiqlovchi xujjattlar taqdim etilmagan taqdirda - 5",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2767000,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Korxonaning malakaviy xodimlari toʼgʼrisida maʼlumot\r\n",
+   "min_score": 0.0,
+   "max_score": 15.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Хужжат",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 15.0,
+   "description": "Yagona milliy mehnat tizimi maʼlumotlari taqdim etiladi\r\n. 1. 10 nafardan ko'p bo'lsa - 15\r\n2. 5 nafardan - 10 nafargacha bo'lsa - 10\r\n3. 5 nafargacha bo'la - 5\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2767001,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Korxonaning oxirgi yillar davomida amalga oshirilgan ishlar xajmi:",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Хужжат",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Buxgalteriya hisoboti. 1. 3 mlrd. soʼmdan ortiq boʼlsa - 20\r\n2. 1 mlrd. soʼmdan 3 mlrd soʼmgacha - 15\r\n3. 1 mlrd. soʼmgacha - 10",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2767002,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Texnik taklifga asosan tanlash predmeti bo‘lgan har bir tovarlarning nomi ko‘rsatilgan holdagi FOTOSURATI elektron shakli \r\n",
+   "min_score": 0.0,
+   "max_score": 25.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Хужжат",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 25.0,
+   "description": "Maxsulotlarni muvofiqlik sertificatlari (dillerlik asoslovchi hujjatlari). 1. Tasdiqlovchi xujjattlar toʼliq taqdim etilgan taqdirda\t25\r\n2. Taqdim etilgan xujjattlarda kamchiliklar va/yoki notugʼri maʼlumotlar aniqlangan taqdirda\t10\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2766998,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Korxonaning zarur bulgan moddiy-texnik bazasi mavjudligi (zarur asbob-uskunalar bilan jixozlangan ishlab chiqarish sexlari):\",\"Min_Score\":0.0,\"Max_Score\":25.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Хужжат\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":25.0,\"Description\":\"Kadastr pasportidan koʼchirmalar va ijara shartnmalari kabi tasdiqlovchi xujjatlar taqdim etiladi.. 1. 1 000 kv.м.dan yuqori bo'lsa  - 25\\r\\n2. 500 kv.м. dan - 1 000 kv.м. gacha - 15\\r\\n3. 500 kv.м. gacha - 5\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2766999,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Korxonada moliyaviy va ijro xujjatlardan karzdorlik va majburiyatlari yoqligi\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Хужжат\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Ma'lumotnoma (Lot e'londa turgan davrdagi sana bilan) \\r\\n. 1. Tasdiqlovchi xujjattlar taqdim etilgan taqdirda - 15\\r\\n2. Tasdiqlovchi xujjattlar taqdim etilmagan taqdirda - 5\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2767000,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Korxonaning malakaviy xodimlari toʼgʼrisida maʼlumot\\r\\n\",\"Min_Score\":0.0,\"Max_Score\":15.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Хужжат\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":15.0,\"Description\":\"Yagona milliy mehnat tizimi maʼlumotlari taqdim etiladi\\r\\n. 1. 10 nafardan ko'p bo'lsa - 15\\r\\n2. 5 nafardan - 10 nafargacha bo'lsa - 10\\r\\n3. 5 nafargacha bo'la - 5\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2767001,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Korxonaning oxirgi yillar davomida amalga oshirilgan ishlar xajmi:\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Хужжат\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Buxgalteriya hisoboti. 1. 3 mlrd. soʼmdan ortiq boʼlsa - 20\\r\\n2. 1 mlrd. soʼmdan 3 mlrd soʼmgacha - 15\\r\\n3. 1 mlrd. soʼmgacha - 10\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2767002,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Texnik taklifga asosan tanlash predmeti bo‘lgan har bir tovarlarning nomi ko‘rsatilgan holdagi FOTOSURATI elektron shakli \\r\\n\",\"Min_Score\":0.0,\"Max_Score\":25.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Хужжат\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":25.0,\"Description\":\"Maxsulotlarni muvofiqlik sertificatlari (dillerlik asoslovchi hujjatlari). 1. Tasdiqlovchi xujjattlar toʼliq taqdim etilgan taqdirda\\t25\\r\\n2. Taqdim etilgan xujjattlarda kamchiliklar va/yoki notugʼri maʼlumotlar aniqlangan taqdirda\\t10\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1105945,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105946,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105947,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105948,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105949,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105950,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1105951,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 7,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1105945,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105946,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105947,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105948,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105949,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105950,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1105951,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":7,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 115190,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Сырдарьинская область",
+ "delivering_district_name": "Гулистан",
+ "delivering_address": "Viloyatdagi makkablatga",
+ "delivering_phone": "672276383",
+ "addon_description": "Quyidagi maktablarga yetkazish va o'rnatish bn birga:\r\n1.Yaniger sh “Yangiobod” MFY yangi umumtaʼlim maktabini qurish\r\n2.Guliston t Sharq haqiqati 26-maktab fililali rekonstruktsiya qilish\r\n3.Guliston sh “Sayqal” MFYdagi 7-son maktabni rekonstruktsiya qilish\r\n4.Xovos t “Oqchangal” MFYdagi 8-son maktabni rekonstruktsiya qilish\r\n5.Guliston t “Baxmal” MFYdagi 23-son maktabni mukammal taʼmirlash\r\n6.Sirdaryo t “Yoshlik” MFYdagi 5-son maktabni mukammal taʼmirlash\r\n7.Sayxunobod t “Nurobod” MFYdagi 5-son maktabni mukammal taʼmirlash\r\n8.Guliston sh “Manaviyat” MFYdagi 1-son maktabni mukammal taʼmirlash\r\n9.Guliston sh “Ulugʼyoʼl” MFYdagi 4-son maktabni mukammal taʼmirlash\r\n10.Guliston sh “Taraqqiyot” MFYdagi 5-son maktabni mukammal taʼmirlash\r\n11.Guliston sh “Navbahor” MFYdagi 6-son maktabni mukammal taʼmirlash\r\n12.Guliston sh “Sayqal” MFYdagi 9-son maktabni mukammal taʼmirlash\r\n13.Guliston sh “Baxor” MFYdagi 14-son maktabni mukammal taʼmirlash\r\n14.Guliston t “Mustaqillik” MFYdagi 18-son maktabni mukammal taʼmirlash\r\n15.Yangier sh “Temur Malik” MFYdagi 4-son maktabni mukammal taʼmirlash\r\n16.Mirzaobod t \"Yangihayot” MFYdagi 16-son maktabni mukammal taʼmirlash\r\n17.Mirzaobod t “Oqoltin” MFYdagi 13-son maktabni mukammal taʼmirlash\r\n18.Sirdaryo t “Аdolat” MFYdagi 42-son maktabni mukammal taʼmirlash\r\n19.Xovos t “Paxtakor” MFYdagi 25-son maktabni mukammal taʼmirlash\r\n20.Sayxunobod t “Gulbulogʼ” MFYdagi 4-son maktabni mukammal taʼmirlash\r\n21.Boyovut t “Istiqlol” MFYdagi 13-son maktabni mukammal taʼmirlash",
+ "technical_description": "Hujjat",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": null,
+ "customer_region_name": "Sirdaryo viloyati",
+ "customer_district_name": "Sirdaryo viloyati",
+ "customer_street": "Сирдарё вилояти Гулистон ша&#1203;ар Адолат кучаси 30-уй",
+ "customer_zip": "00000",
+ "min_point": 55,
+ "financing_source": "Taraqqiyot va tiklanish jamg'armasi hisobidan",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 1850251.76,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2079270,
+     "converted_price": 106.07,
+     "converted_cost": 62902.37
+    },
+    {
+     "lot_detail_id": 2079271,
+     "converted_price": 155.85,
+     "converted_cost": 184527.91
+    },
+    {
+     "lot_detail_id": 2079272,
+     "converted_price": 156.81,
+     "converted_cost": 164341.88
+    },
+    {
+     "lot_detail_id": 2079273,
+     "converted_price": 90.84,
+     "converted_cost": 73947.84
+    },
+    {
+     "lot_detail_id": 2079274,
+     "converted_price": 24.63,
+     "converted_cost": 23352.86
+    },
+    {
+     "lot_detail_id": 2079275,
+     "converted_price": 85.54,
+     "converted_cost": 38494.33
+    },
+    {
+     "lot_detail_id": 2079276,
+     "converted_price": 99.25,
+     "converted_cost": 47838.6
+    },
+    {
+     "lot_detail_id": 2079277,
+     "converted_price": 97.62,
+     "converted_cost": 4197.9
+    },
+    {
+     "lot_detail_id": 2079278,
+     "converted_price": 86.64,
+     "converted_cost": 66196.44
+    },
+    {
+     "lot_detail_id": 2079279,
+     "converted_price": 99.61,
+     "converted_cost": 25104.05
+    },
+    {
+     "lot_detail_id": 2079280,
+     "converted_price": 100.48,
+     "converted_cost": 22308.16
+    },
+    {
+     "lot_detail_id": 2079281,
+     "converted_price": 158.78,
+     "converted_cost": 369010.55
+    },
+    {
+     "lot_detail_id": 2079282,
+     "converted_price": 158.78,
+     "converted_cost": 326933.19
+    },
+    {
+     "lot_detail_id": 2079283,
+     "converted_price": 101.57,
+     "converted_cost": 74960.25
+    },
+    {
+     "lot_detail_id": 2079284,
+     "converted_price": 102.87,
+     "converted_cost": 59358.35
+    },
+    {
+     "lot_detail_id": 2079285,
+     "converted_price": 65.76,
+     "converted_cost": 2696.25
+    },
+    {
+     "lot_detail_id": 2079286,
+     "converted_price": 56.48,
+     "converted_cost": 33551.41
+    },
+    {
+     "lot_detail_id": 2079287,
+     "converted_price": 195.07,
+     "converted_cost": 6047.23
+    },
+    {
+     "lot_detail_id": 2079288,
+     "converted_price": 195.07,
+     "converted_cost": 4096.63
+    },
+    {
+     "lot_detail_id": 2079289,
+     "converted_price": 146.85,
+     "converted_cost": 7636.61
+    },
+    {
+     "lot_detail_id": 2079290,
+     "converted_price": 71.81,
+     "converted_cost": 8617.82
+    },
+    {
+     "lot_detail_id": 2079291,
+     "converted_price": 149.27,
+     "converted_cost": 1194.23
+    },
+    {
+     "lot_detail_id": 2079292,
+     "converted_price": 63.74,
+     "converted_cost": 16318.99
+    },
+    {
+     "lot_detail_id": 2079293,
+     "converted_price": 37.88,
+     "converted_cost": 75.76
+    },
+    {
+     "lot_detail_id": 2079294,
+     "converted_price": 86.33,
+     "converted_cost": 11051.47
+    },
+    {
+     "lot_detail_id": 2079295,
+     "converted_price": 87.95,
+     "converted_cost": 3694.04
+    },
+    {
+     "lot_detail_id": 2079296,
+     "converted_price": 105.7,
+     "converted_cost": 4545.33
+    },
+    {
+     "lot_detail_id": 2079297,
+     "converted_price": 95.21,
+     "converted_cost": 1809.09
+    },
+    {
+     "lot_detail_id": 2079298,
+     "converted_price": 86.33,
+     "converted_cost": 172.67
+    },
+    {
+     "lot_detail_id": 2079299,
+     "converted_price": 79.07,
+     "converted_cost": 1344.31
+    },
+    {
+     "lot_detail_id": 2079300,
+     "converted_price": 22.59,
+     "converted_cost": 8585.54
+    },
+    {
+     "lot_detail_id": 2079301,
+     "converted_price": 359.77,
+     "converted_cost": 6116.21
+    },
+    {
+     "lot_detail_id": 2079302,
+     "converted_price": 37.52,
+     "converted_cost": 637.86
+    },
+    {
+     "lot_detail_id": 2079303,
+     "converted_price": 79.07,
+     "converted_cost": 869.85
+    },
+    {
+     "lot_detail_id": 2079304,
+     "converted_price": 62.13,
+     "converted_cost": 1118.38
+    },
+    {
+     "lot_detail_id": 2079305,
+     "converted_price": 73.83,
+     "converted_cost": 1328.98
+    },
+    {
+     "lot_detail_id": 2079306,
+     "converted_price": 66.16,
+     "converted_cost": 1191.0
+    },
+    {
+     "lot_detail_id": 2079307,
+     "converted_price": 55.68,
+     "converted_cost": 1002.26
+    },
+    {
+     "lot_detail_id": 2079308,
+     "converted_price": 106.07,
+     "converted_cost": 1909.31
+    },
+    {
+     "lot_detail_id": 2079309,
+     "converted_price": 87.45,
+     "converted_cost": 33931.58
+    },
+    {
+     "lot_detail_id": 2079310,
+     "converted_price": 74.23,
+     "converted_cost": 1558.95
+    },
+    {
+     "lot_detail_id": 2079311,
+     "converted_price": 114.58,
+     "converted_cost": 64165.67
+    },
+    {
+     "lot_detail_id": 2079312,
+     "converted_price": 52.44,
+     "converted_cost": 891.63
+    },
+    {
+     "lot_detail_id": 2079313,
+     "converted_price": 516.42,
+     "converted_cost": 10844.9
+    },
+    {
+     "lot_detail_id": 2079314,
+     "converted_price": 79.07,
+     "converted_cost": 1660.62
+    },
+    {
+     "lot_detail_id": 2079315,
+     "converted_price": 459.94,
+     "converted_cost": 9198.8
+    },
+    {
+     "lot_detail_id": 2079316,
+     "converted_price": 52.44,
+     "converted_cost": 12744.37
+    },
+    {
+     "lot_detail_id": 2079317,
+     "converted_price": 9.27,
+     "converted_cost": 9817.7
+    },
+    {
+     "lot_detail_id": 2079318,
+     "converted_price": 213.83,
+     "converted_cost": 36351.4
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 152856298.08,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2079270,
+     "converted_price": 8763.24,
+     "converted_cost": 5196602.78
+    },
+    {
+     "lot_detail_id": 2079271,
+     "converted_price": 12875.46,
+     "converted_cost": 15244549.12
+    },
+    {
+     "lot_detail_id": 2079272,
+     "converted_price": 12955.06,
+     "converted_cost": 13576904.87
+    },
+    {
+     "lot_detail_id": 2079273,
+     "converted_price": 7505.05,
+     "converted_cost": 6109111.61
+    },
+    {
+     "lot_detail_id": 2079274,
+     "converted_price": 2035.09,
+     "converted_cost": 1929268.12
+    },
+    {
+     "lot_detail_id": 2079275,
+     "converted_price": 7067.02,
+     "converted_cost": 3180162.7
+    },
+    {
+     "lot_detail_id": 2079276,
+     "converted_price": 8199.43,
+     "converted_cost": 3952128.43
+    },
+    {
+     "lot_detail_id": 2079277,
+     "converted_price": 8065.23,
+     "converted_cost": 346805.22
+    },
+    {
+     "lot_detail_id": 2079278,
+     "converted_price": 7158.03,
+     "converted_cost": 5468738.82
+    },
+    {
+     "lot_detail_id": 2079279,
+     "converted_price": 8229.92,
+     "converted_cost": 2073940.6
+    },
+    {
+     "lot_detail_id": 2079280,
+     "converted_price": 8301.62,
+     "converted_cost": 1842961.5
+    },
+    {
+     "lot_detail_id": 2079281,
+     "converted_price": 13117.62,
+     "converted_cost": 30485358.22
+    },
+    {
+     "lot_detail_id": 2079282,
+     "converted_price": 13117.62,
+     "converted_cost": 27009187.85
+    },
+    {
+     "lot_detail_id": 2079283,
+     "converted_price": 8391.26,
+     "converted_cost": 6192749.97
+    },
+    {
+     "lot_detail_id": 2079284,
+     "converted_price": 8498.81,
+     "converted_cost": 4903818.09
+    },
+    {
+     "lot_detail_id": 2079285,
+     "converted_price": 5432.87,
+     "converted_cost": 222747.69
+    },
+    {
+     "lot_detail_id": 2079286,
+     "converted_price": 4666.34,
+     "converted_cost": 2771809.53
+    },
+    {
+     "lot_detail_id": 2079287,
+     "converted_price": 16115.64,
+     "converted_cost": 499584.9
+    },
+    {
+     "lot_detail_id": 2079288,
+     "converted_price": 16116.13,
+     "converted_cost": 338438.79
+    },
+    {
+     "lot_detail_id": 2079289,
+     "converted_price": 12132.49,
+     "converted_cost": 630889.98
+    },
+    {
+     "lot_detail_id": 2079290,
+     "converted_price": 5932.92,
+     "converted_cost": 711951.07
+    },
+    {
+     "lot_detail_id": 2079291,
+     "converted_price": 12332.48,
+     "converted_cost": 98659.88
+    },
+    {
+     "lot_detail_id": 2079292,
+     "converted_price": 5266.3,
+     "converted_cost": 1348174.02
+    },
+    {
+     "lot_detail_id": 2079293,
+     "converted_price": 3129.7,
+     "converted_cost": 6259.4
+    },
+    {
+     "lot_detail_id": 2079294,
+     "converted_price": 7132.84,
+     "converted_cost": 913003.93
+    },
+    {
+     "lot_detail_id": 2079295,
+     "converted_price": 7266.16,
+     "converted_cost": 305179.02
+    },
+    {
+     "lot_detail_id": 2079296,
+     "converted_price": 8732.73,
+     "converted_cost": 375507.53
+    },
+    {
+     "lot_detail_id": 2079297,
+     "converted_price": 7866.12,
+     "converted_cost": 149456.39
+    },
+    {
+     "lot_detail_id": 2079298,
+     "converted_price": 7132.84,
+     "converted_cost": 14265.68
+    },
+    {
+     "lot_detail_id": 2079299,
+     "converted_price": 6532.88,
+     "converted_cost": 111059.03
+    },
+    {
+     "lot_detail_id": 2079300,
+     "converted_price": 1866.53,
+     "converted_cost": 709284.59
+    },
+    {
+     "lot_detail_id": 2079301,
+     "converted_price": 29722.56,
+     "converted_cost": 505283.54
+    },
+    {
+     "lot_detail_id": 2079302,
+     "converted_price": 3099.78,
+     "converted_cost": 52696.37
+    },
+    {
+     "lot_detail_id": 2079303,
+     "converted_price": 6532.88,
+     "converted_cost": 71861.72
+    },
+    {
+     "lot_detail_id": 2079304,
+     "converted_price": 5132.98,
+     "converted_cost": 92393.65
+    },
+    {
+     "lot_detail_id": 2079305,
+     "converted_price": 6099.58,
+     "converted_cost": 109792.45
+    },
+    {
+     "lot_detail_id": 2079306,
+     "converted_price": 5466.29,
+     "converted_cost": 98393.23
+    },
+    {
+     "lot_detail_id": 2079307,
+     "converted_price": 4600.05,
+     "converted_cost": 82801.0
+    },
+    {
+     "lot_detail_id": 2079308,
+     "converted_price": 8763.09,
+     "converted_cost": 157735.69
+    },
+    {
+     "lot_detail_id": 2079309,
+     "converted_price": 7224.78,
+     "converted_cost": 2803216.79
+    },
+    {
+     "lot_detail_id": 2079310,
+     "converted_price": 6132.91,
+     "converted_cost": 128791.15
+    },
+    {
+     "lot_detail_id": 2079311,
+     "converted_price": 9466.01,
+     "converted_cost": 5300969.08
+    },
+    {
+     "lot_detail_id": 2079312,
+     "converted_price": 4333.03,
+     "converted_cost": 73661.6
+    },
+    {
+     "lot_detail_id": 2079313,
+     "converted_price": 42663.73,
+     "converted_cost": 895938.43
+    },
+    {
+     "lot_detail_id": 2079314,
+     "converted_price": 6532.88,
+     "converted_cost": 137190.57
+    },
+    {
+     "lot_detail_id": 2079315,
+     "converted_price": 37997.38,
+     "converted_cost": 759947.78
+    },
+    {
+     "lot_detail_id": 2079316,
+     "converted_price": 4332.76,
+     "converted_cost": 1052860.86
+    },
+    {
+     "lot_detail_id": 2079317,
+     "converted_price": 766.61,
+     "converted_cost": 811077.6
+    },
+    {
+     "lot_detail_id": 2079318,
+     "converted_price": 17665.45,
+     "converted_cost": 3003126.97
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 1680672.24,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2079270,
+     "converted_price": 96.35,
+     "converted_cost": 57137.23
+    },
+    {
+     "lot_detail_id": 2079271,
+     "converted_price": 141.56,
+     "converted_cost": 167615.53
+    },
+    {
+     "lot_detail_id": 2079272,
+     "converted_price": 142.44,
+     "converted_cost": 149279.6
+    },
+    {
+     "lot_detail_id": 2079273,
+     "converted_price": 82.51,
+     "converted_cost": 67170.37
+    },
+    {
+     "lot_detail_id": 2079274,
+     "converted_price": 22.37,
+     "converted_cost": 21212.52
+    },
+    {
+     "lot_detail_id": 2079275,
+     "converted_price": 77.7,
+     "converted_cost": 34966.24
+    },
+    {
+     "lot_detail_id": 2079276,
+     "converted_price": 90.15,
+     "converted_cost": 43454.09
+    },
+    {
+     "lot_detail_id": 2079277,
+     "converted_price": 88.67,
+     "converted_cost": 3813.16
+    },
+    {
+     "lot_detail_id": 2079278,
+     "converted_price": 78.7,
+     "converted_cost": 60129.4
+    },
+    {
+     "lot_detail_id": 2079279,
+     "converted_price": 90.48,
+     "converted_cost": 22803.21
+    },
+    {
+     "lot_detail_id": 2079280,
+     "converted_price": 91.27,
+     "converted_cost": 20263.56
+    },
+    {
+     "lot_detail_id": 2079281,
+     "converted_price": 144.22,
+     "converted_cost": 335189.95
+    },
+    {
+     "lot_detail_id": 2079282,
+     "converted_price": 144.22,
+     "converted_cost": 296969.06
+    },
+    {
+     "lot_detail_id": 2079283,
+     "converted_price": 92.26,
+     "converted_cost": 68089.98
+    },
+    {
+     "lot_detail_id": 2079284,
+     "converted_price": 93.44,
+     "converted_cost": 53918.03
+    },
+    {
+     "lot_detail_id": 2079285,
+     "converted_price": 59.73,
+     "converted_cost": 2449.13
+    },
+    {
+     "lot_detail_id": 2079286,
+     "converted_price": 51.3,
+     "converted_cost": 30476.35
+    },
+    {
+     "lot_detail_id": 2079287,
+     "converted_price": 177.19,
+     "converted_cost": 5492.99
+    },
+    {
+     "lot_detail_id": 2079288,
+     "converted_price": 177.19,
+     "converted_cost": 3721.17
+    },
+    {
+     "lot_detail_id": 2079289,
+     "converted_price": 133.39,
+     "converted_cost": 6936.7
+    },
+    {
+     "lot_detail_id": 2079290,
+     "converted_price": 65.23,
+     "converted_cost": 7827.98
+    },
+    {
+     "lot_detail_id": 2079291,
+     "converted_price": 135.59,
+     "converted_cost": 1084.77
+    },
+    {
+     "lot_detail_id": 2079292,
+     "converted_price": 57.9,
+     "converted_cost": 14823.32
+    },
+    {
+     "lot_detail_id": 2079293,
+     "converted_price": 34.41,
+     "converted_cost": 68.82
+    },
+    {
+     "lot_detail_id": 2079294,
+     "converted_price": 78.42,
+     "converted_cost": 10038.58
+    },
+    {
+     "lot_detail_id": 2079295,
+     "converted_price": 79.89,
+     "converted_cost": 3355.47
+    },
+    {
+     "lot_detail_id": 2079296,
+     "converted_price": 96.01,
+     "converted_cost": 4128.74
+    },
+    {
+     "lot_detail_id": 2079297,
+     "converted_price": 86.48,
+     "converted_cost": 1643.28
+    },
+    {
+     "lot_detail_id": 2079298,
+     "converted_price": 78.42,
+     "converted_cost": 156.85
+    },
+    {
+     "lot_detail_id": 2079299,
+     "converted_price": 71.82,
+     "converted_cost": 1221.1
+    },
+    {
+     "lot_detail_id": 2079300,
+     "converted_price": 20.52,
+     "converted_cost": 7798.66
+    },
+    {
+     "lot_detail_id": 2079301,
+     "converted_price": 326.8,
+     "converted_cost": 5555.64
+    },
+    {
+     "lot_detail_id": 2079302,
+     "converted_price": 34.08,
+     "converted_cost": 579.4
+    },
+    {
+     "lot_detail_id": 2079303,
+     "converted_price": 71.82,
+     "converted_cost": 790.12
+    },
+    {
+     "lot_detail_id": 2079304,
+     "converted_price": 56.43,
+     "converted_cost": 1015.87
+    },
+    {
+     "lot_detail_id": 2079305,
+     "converted_price": 67.06,
+     "converted_cost": 1207.18
+    },
+    {
+     "lot_detail_id": 2079306,
+     "converted_price": 60.1,
+     "converted_cost": 1081.84
+    },
+    {
+     "lot_detail_id": 2079307,
+     "converted_price": 50.57,
+     "converted_cost": 910.4
+    },
+    {
+     "lot_detail_id": 2079308,
+     "converted_price": 96.35,
+     "converted_cost": 1734.32
+    },
+    {
+     "lot_detail_id": 2079309,
+     "converted_price": 79.43,
+     "converted_cost": 30821.68
+    },
+    {
+     "lot_detail_id": 2079310,
+     "converted_price": 67.43,
+     "converted_cost": 1416.07
+    },
+    {
+     "lot_detail_id": 2079311,
+     "converted_price": 104.07,
+     "converted_cost": 58284.75
+    },
+    {
+     "lot_detail_id": 2079312,
+     "converted_price": 47.64,
+     "converted_cost": 809.91
+    },
+    {
+     "lot_detail_id": 2079313,
+     "converted_price": 469.09,
+     "converted_cost": 9850.94
+    },
+    {
+     "lot_detail_id": 2079314,
+     "converted_price": 71.82,
+     "converted_cost": 1508.42
+    },
+    {
+     "lot_detail_id": 2079315,
+     "converted_price": 417.78,
+     "converted_cost": 8355.71
+    },
+    {
+     "lot_detail_id": 2079316,
+     "converted_price": 47.63,
+     "converted_cost": 11576.32
+    },
+    {
+     "lot_detail_id": 2079317,
+     "converted_price": 8.42,
+     "converted_cost": 8917.88
+    },
+    {
+     "lot_detail_id": 2079318,
+     "converted_price": 194.23,
+     "converted_cost": 33019.72
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 22246705622.66,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2079270,
+     "converted_price": 1275402.31,
+     "converted_cost": 756313569.83
+    },
+    {
+     "lot_detail_id": 2079271,
+     "converted_price": 1873895.0,
+     "converted_cost": 2218691680.0
+    },
+    {
+     "lot_detail_id": 2079272,
+     "converted_price": 1885479.71,
+     "converted_cost": 1975982736.08
+    },
+    {
+     "lot_detail_id": 2079273,
+     "converted_price": 1092285.14,
+     "converted_cost": 889120103.96
+    },
+    {
+     "lot_detail_id": 2079274,
+     "converted_price": 296187.43,
+     "converted_cost": 280785683.64
+    },
+    {
+     "lot_detail_id": 2079275,
+     "converted_price": 1028535.29,
+     "converted_cost": 462840880.5
+    },
+    {
+     "lot_detail_id": 2079276,
+     "converted_price": 1193346.0,
+     "converted_cost": 575192772.0
+    },
+    {
+     "lot_detail_id": 2079277,
+     "converted_price": 1173814.71,
+     "converted_cost": 50474032.53
+    },
+    {
+     "lot_detail_id": 2079278,
+     "converted_price": 1041780.43,
+     "converted_cost": 795920248.52
+    },
+    {
+     "lot_detail_id": 2079279,
+     "converted_price": 1197783.0,
+     "converted_cost": 301841316.0
+    },
+    {
+     "lot_detail_id": 2079280,
+     "converted_price": 1208219.0,
+     "converted_cost": 268224618.0
+    },
+    {
+     "lot_detail_id": 2079281,
+     "converted_price": 1909139.0,
+     "converted_cost": 4436839036.0
+    },
+    {
+     "lot_detail_id": 2079282,
+     "converted_price": 1909139.0,
+     "converted_cost": 3930917201.0
+    },
+    {
+     "lot_detail_id": 2079283,
+     "converted_price": 1221264.0,
+     "converted_cost": 901292832.0
+    },
+    {
+     "lot_detail_id": 2079284,
+     "converted_price": 1236918.0,
+     "converted_cost": 713701686.0
+    },
+    {
+     "lot_detail_id": 2079285,
+     "converted_price": 790700.0,
+     "converted_cost": 32418700.0
+    },
+    {
+     "lot_detail_id": 2079286,
+     "converted_price": 679140.0,
+     "converted_cost": 403409160.0
+    },
+    {
+     "lot_detail_id": 2079287,
+     "converted_price": 2345470.57,
+     "converted_cost": 72709587.67
+    },
+    {
+     "lot_detail_id": 2079288,
+     "converted_price": 2345542.0,
+     "converted_cost": 49256382.0
+    },
+    {
+     "lot_detail_id": 2079289,
+     "converted_price": 1765764.0,
+     "converted_cost": 91819728.0
+    },
+    {
+     "lot_detail_id": 2079290,
+     "converted_price": 863478.0,
+     "converted_cost": 103617360.0
+    },
+    {
+     "lot_detail_id": 2079291,
+     "converted_price": 1794870.0,
+     "converted_cost": 14358960.0
+    },
+    {
+     "lot_detail_id": 2079292,
+     "converted_price": 766458.0,
+     "converted_cost": 196213248.0
+    },
+    {
+     "lot_detail_id": 2079293,
+     "converted_price": 455496.71,
+     "converted_cost": 910993.42
+    },
+    {
+     "lot_detail_id": 2079294,
+     "converted_price": 1038114.0,
+     "converted_cost": 132878592.0
+    },
+    {
+     "lot_detail_id": 2079295,
+     "converted_price": 1057518.0,
+     "converted_cost": 44415756.0
+    },
+    {
+     "lot_detail_id": 2079296,
+     "converted_price": 1270962.0,
+     "converted_cost": 54651366.0
+    },
+    {
+     "lot_detail_id": 2079297,
+     "converted_price": 1144836.0,
+     "converted_cost": 21751884.0
+    },
+    {
+     "lot_detail_id": 2079298,
+     "converted_price": 1038114.0,
+     "converted_cost": 2076228.0
+    },
+    {
+     "lot_detail_id": 2079299,
+     "converted_price": 950796.0,
+     "converted_cost": 16163532.0
+    },
+    {
+     "lot_detail_id": 2079300,
+     "converted_price": 271656.0,
+     "converted_cost": 103229280.0
+    },
+    {
+     "lot_detail_id": 2079301,
+     "converted_price": 4325821.57,
+     "converted_cost": 73538966.69
+    },
+    {
+     "lot_detail_id": 2079302,
+     "converted_price": 451143.0,
+     "converted_cost": 7669431.0
+    },
+    {
+     "lot_detail_id": 2079303,
+     "converted_price": 950796.0,
+     "converted_cost": 10458756.0
+    },
+    {
+     "lot_detail_id": 2079304,
+     "converted_price": 747054.0,
+     "converted_cost": 13446972.0
+    },
+    {
+     "lot_detail_id": 2079305,
+     "converted_price": 887733.0,
+     "converted_cost": 15979194.0
+    },
+    {
+     "lot_detail_id": 2079306,
+     "converted_price": 795564.0,
+     "converted_cost": 14320152.0
+    },
+    {
+     "lot_detail_id": 2079307,
+     "converted_price": 669492.14,
+     "converted_cost": 12050858.52
+    },
+    {
+     "lot_detail_id": 2079308,
+     "converted_price": 1275380.71,
+     "converted_cost": 22956852.78
+    },
+    {
+     "lot_detail_id": 2079309,
+     "converted_price": 1051495.29,
+     "converted_cost": 407980172.52
+    },
+    {
+     "lot_detail_id": 2079310,
+     "converted_price": 892584.0,
+     "converted_cost": 18744264.0
+    },
+    {
+     "lot_detail_id": 2079311,
+     "converted_price": 1377684.0,
+     "converted_cost": 771503040.0
+    },
+    {
+     "lot_detail_id": 2079312,
+     "converted_price": 630630.0,
+     "converted_cost": 10720710.0
+    },
+    {
+     "lot_detail_id": 2079313,
+     "converted_price": 6209280.0,
+     "converted_cost": 130394880.0
+    },
+    {
+     "lot_detail_id": 2079314,
+     "converted_price": 950796.0,
+     "converted_cost": 19966716.0
+    },
+    {
+     "lot_detail_id": 2079315,
+     "converted_price": 5530140.0,
+     "converted_cost": 110602800.0
+    },
+    {
+     "lot_detail_id": 2079316,
+     "converted_price": 630590.0,
+     "converted_cost": 153233370.0
+    },
+    {
+     "lot_detail_id": 2079317,
+     "converted_price": 111573.0,
+     "converted_cost": 118044234.0
+    },
+    {
+     "lot_detail_id": 2079318,
+     "converted_price": 2571030.0,
+     "converted_cost": 437075100.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

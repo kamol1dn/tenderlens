@@ -1,0 +1,730 @@
+{
+ "id": 524136,
+ "display_no": "26111006524136",
+ "start_date": "2026-11-10T18:29:34",
+ "end_date": "2026-11-26T18:29:34",
+ "clarific_date": "2026-11-26T18:29:34",
+ "start_cost": 113873597794.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2080148,\"Order_Num\":1,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886099,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":938,\"Price\":43182226,\"Cost\":40504927988,\"Description\":\"Yangi tug‘ilgan chaqaloqlarning quritilgan qon dog‘larida immunoreaktiv tripsin (IRT) miqdorini aniqlash uchun reagentlar to‘plami / Набор реагентов для количественного определения иммунореактивного трипсина (IRT) в сухих пятнах крови новорождённых\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080163,\"Order_Num\":16,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886114,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":10,\"Price\":116256996,\"Cost\":1162569960,\"Description\":\"Quritilgan qon dog‘larida aminokislotalar, atsilkarinitin va erkin karnitin kontsentratsiyasini miqdoriy aniqlash uchun reagentlar to‘plami (NeoBase, derivatizatsiyasiz tandem mass-spektrometriya uchun to‘plam (NeoBase2, 960 ta aniqlash uchun)) / Набор реагентов для количественного определения концентраций аминокислот, ацилкарнитина и свободного карнитина в сухом пятне крови (набор для недериватизированной тандемной масс-спектрометрии NeoBase (NeoBase2, на 960 определений))\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080162,\"Order_Num\":15,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886113,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":446,\"Price\":278810,\"Cost\":124349260,\"Description\":\"Namuna olish uchun test-blanklar / Тест-бланки для взятия образцов\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080161,\"Order_Num\":14,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886112,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":45,\"Price\":139464022,\"Cost\":6275880990,\"Description\":\"Yetti turdagi mukopolisakkaridozlarni mass-spektrometrik aniqlash uchun to‘plam / 7-Plex MPS MSMS Kit (960 ta aniqlash) / Набор для масс-спектрометрического определения мукополисахаридозов семи типов / 7-Plex MPS MSMS Kit (960 определений)\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080160,\"Order_Num\":13,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886111,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":57,\"Price\":125168553,\"Cost\":7134607521,\"Description\":\"Lizosomali saqlanish kasalliklarini aniqlash uchun mass-spektrometrik to‘plam (960 ta aniqlash uchun) / Масс-спектрометрический набор для определения лизосомных болезней накопления (на 960 определений)\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080159,\"Order_Num\":12,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886110,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":40,\"Price\":3498064,\"Cost\":139922560,\"Description\":\"NANODUCT ter o‘tkazuvchanlik analizatorida mukovistsidozni tasdiqlovchi diagnostikasi uchun ter induktorlari / Индукторы пота для подтверждающей диагностики муковисцидоза на анализаторе проводимости пота NANODUCT\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080158,\"Order_Num\":11,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886109,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":63,\"Price\":5036324,\"Cost\":317288412,\"Description\":\"Delfiya tirotrop ultra gormon – Tug‘ma gipotireozni tasdiqlovchi diagnostikasi uchun tirotrop gormonni aniqlash to‘plami / Делфия тиреотропный ультра гормон – Набор для определения тиреотропного гормона для подтверждающей диагностики врожденного гипотиреоза\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080157,\"Order_Num\":10,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886108,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":58,\"Price\":991734,\"Cost\":57520572,\"Description\":\"Delfiya triyodtironin (T3) – Tug‘ma gipotireozni tasdiqlovchi diagnostikasi uchun umumiy triyodtironinni aniqlash to‘plami / Делфия трииодотиронин (Т3) – Набор для определения общего трийодтиронина для подтверждающей диагностики врожденного гипотиреоза\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080156,\"Order_Num\":9,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886107,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":8,\"Price\":26290943,\"Cost\":210327544,\"Description\":\"Delfiya tiroksin – Tasdiqlovchi diagnostika uchun umumiy tiroksinni aniqlash to‘plami / Делфия тироксин – Набор для определения общего тироксина для подтверждающей диагностики\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080155,\"Order_Num\":8,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886106,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":610,\"Price\":8630529,\"Cost\":5264622690,\"Description\":\"Neonatal fenilalanin – Yangi tug‘ilgan chaqaloqlarning quritilgan qon dog‘larida fenilketonuriya bo‘yicha neonatal skrining o‘tkazish uchun fenilalaninni miqdoriy aniqlash to‘plami / Неонатальный фенилаланин – Набор для количественного определения фенилаланина в сухих пятнах крови новорожденных для проведения неонатального скрининга на фенилкетонурию\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080154,\"Order_Num\":7,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886105,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":610,\"Price\":21890630,\"Cost\":13353284300,\"Description\":\"Delfiya neonatal TTG – Yangi tug‘ilgan chaqaloqlarning quritilgan qon dog‘larida tug‘ma gipotireoz bo‘yicha neonatal skrining o‘tkazish uchun tirotrop gormonni aniqlash to‘plami / Делфия неонатальный ТТГ – Набор для определения тиреотропного гормона в сухих пятнах крови новорожденных для проведения неонатального скрининга на врожденный гипотиреоз\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080153,\"Order_Num\":6,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886104,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":2039,\"Price\":278810,\"Cost\":568493590,\"Description\":\"Neonatal skrining o‘tkazish uchun yangi tug‘ilgan chaqaloqlardan qon olish uchun filtrlovchi test-blanklar / Фильтровальная бумага для крови новорожденных – Фильтровальные тест-бланки для взятия крови новорожденных для проведения неонатального скрининга\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080152,\"Order_Num\":5,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886103,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":2383,\"Price\":278810,\"Cost\":664404230,\"Description\":\"Prenatal skrining o‘tkazish uchun homilador ayollardan qon olish uchun filtrlovchi test-blanklar / Фильтровальные тест-бланки для взятия крови у беременных для проведения пренатального скрининга\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080151,\"Order_Num\":4,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886102,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":75,\"Price\":11522163,\"Cost\":864162225,\"Description\":\"Delfiya ekspress plasentar o‘sish omili – Ona zardobida plasentar o‘sish faktorini aniqlash uchun to‘plam / Делфия экспресс плацентарный фактор роста – Набор для определения плацентарного фактора роста в материнской сыворотке\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080150,\"Order_Num\":3,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886101,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":747,\"Price\":43182226,\"Cost\":32257122822,\"Description\":\"Delfiya PAPPA/SV. BETA XCG DV. DBS – Quritilgan qon dog‘larida plasentar oqsil A (PAPPA) va erkin xoriogonadotropinning beta-subbirligini (XCG sv. beta) bir vaqtda aniqlash uchun juft to‘plam / Делфия ПАПП-А/СВ. БЕТА ХГЧ ДВ. DBS – Двойной набор для одновременного определения плацентарного белка А (ПАПП-А) и свободной бета-субъединицы хорионического гонадотропина (ХГЧ св. бета) в сухих пятнах крови\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]},{\"Id\":2080149,\"Order_Num\":2,\"Category_Id\":115349,\"Plangraph_Detail_Id\":23886100,\"Product_Id\":677709,\"Product_Type_Id\":1,\"Quantity\":357,\"Price\":13933090,\"Cost\":4974113130,\"Description\":\"Delfiya AFP/XCG, juft to‘plam, 96 ta tahlil – Homilador ayollar qon zardobida alfa-fetoprotein (AFP) va erkin xoriogonadotropinning beta-subbirligi (XCG sv. beta) ni bir vaqtda aniqlash uchun juft to‘plam / Делфия АФП/ХГЧ, двойной набор, 96 опр. – Двойной набор для одновременного определения альфа-фетопротеина (АФП) va свободной бета-субъединицы хорионического гонадотропина (ХГЧ св. бета) в сыворотке крови беременных\",\"Expenditure_Id\":44252412,\"Expenditure_Name\":\"Тиббий ускуна ва жихозлар учун реагентлар ва реактивлар\\n\",\"Plan_Id\":9756526,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"21.32.28.110-00001\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":[{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bank komissiyasi\",\"Amount\":0,\"Amount_In_Perc\":0.4,\"Order_Num\":1},{\"Calc_Type_Name\":\"Процент\",\"Calc_Type_Id\":1,\"Name\":\"Bojxona yig'imi\",\"Amount\":0,\"Amount_In_Perc\":0.01,\"Order_Num\":2}],\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Тиббий мақсадлар учун қўлланиладиган дори воситалари ва материаллар\",\"Product_Name\":\"Реагентлар ва реагентлар тўплами (тест тизими)\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"Тўплам\",\"User_Value_Id\":1,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 5.0,
+ "advance_payment_perc": 15.0,
+ "term_payment_days": 90,
+ "term_online_days": 12,
+ "type_name": "Tender",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":4,\"Name\":\"Узбекский К\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Direktor\",\"Fullname\":\"X. Usmanov\"},{\"Job_title\":\"Bo'lim boshlig'i\",\"Fullname\":\"T. Kushimov\"}]",
+ "rest_time": 760977,
+ "customer_name": "Узбекистон Республикаси Согликни саклаш вазирлиги хузуридаги Харидлар маркази ДМ",
+ "customer_tin": "311894188",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202610144318002532.pdf",
+ "tech_file_path": "/files/2026/10/14/202610144318002532.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 3222890.0,
+ "tech_doc_file_name": "202610144317867218.pdf",
+ "tech_doc_file_path": "/files/2026/10/14/202610144317867218.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 2806969.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610084714434880.docx",
+ "contract_proform_file_path": "/files/2026/10/8/202610084714434880.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 91110.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": "202610144318153558.pdf",
+ "expertise_file_path": "/files/2026/10/14/202610144318153558.pdf",
+ "expertise_file_ext": "PDF",
+ "expertise_file_sizes": 3766068.0,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 13,
+ "nonauthorized_count": 5436,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2768174,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Texnik topshiriqqa muvofiqligi 0 yoki 10-ball\r\nMuvofiq kelmasa-0 ball\r\nMuvofiq kelsa-10 ball \r\n",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Texnik taklif",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 71.43,
+   "description": "- 4-shakl va 4a-shakl ilovasiga muvofiq rasmiylashtiriladi.\r\nAgar muvofiq bo‘lmasa, ishtirokchi tenderda qatnashishdan chetlashtiriladi\r\n\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768175,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Tibbiyot mahsulotlarini sertifikatlashtirish bo‘yicha xalqaro organlar tomonidan berilgan tovar sertifikatlarining mavjudligi (sifatli mahsulot olish maqsadida) MDR (CE) yoki FDA sertifikatlari mavjud bo‘lganda 0 yoki 1 ball",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Sertifikatlar",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 7.14,
+   "description": "Sertifikatlarning nusxalarini taqdim etish zarur.\r\n\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768176,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Yetkazib berish muddati (qo‘shimcha ravishda beriladi) \r\nYetkazib berish muddatlari qisqartirilmaganda-0 ball \r\nYetkazib berish muddatlari belgilangan muddatning kamida 50 foizga qisqartirilganda-1 ball \r\nYetkazib berish muddatlari belgilangan muddatning kamida 75 foizga qisqartirilganda-2 ball\r\n",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Kafolat xati",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 14.29,
+   "description": "Yetkazib berish muddatini tasdiqlovchi kafolat xati\r\n\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2768177,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ishlab chiqaruvchi zavod avtorizatsiyasining mavjudligi (xarid ishtirokchisi taklif etilayotgan tovar ishlab chiqaruvchisi bo‘lmagan taqdirda)\r\nAvtorizatsiya mavjud bo‘lmasa-0 ball \r\nAvtorizatsiya mavjudligi-1 ball\r\n",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Avtorizatsiya",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 7.14,
+   "description": "Xarid ishtirokchisi taklif etilayotgan tovar ishlab chiqaruvchisi bo‘lmagan taqdirda 5-shaklga muvofiq rasmiylashtiriladi. Agar mavjud bo‘lmasa, ishtirokchi tenderda qatnashishdan chetlashtiriladi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2768174,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Texnik topshiriqqa muvofiqligi 0 yoki 10-ball\\r\\nMuvofiq kelmasa-0 ball\\r\\nMuvofiq kelsa-10 ball \\r\\n\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Texnik taklif\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":71.43,\"Description\":\"- 4-shakl va 4a-shakl ilovasiga muvofiq rasmiylashtiriladi.\\r\\nAgar muvofiq bo‘lmasa, ishtirokchi tenderda qatnashishdan chetlashtiriladi\\r\\n\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768175,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Tibbiyot mahsulotlarini sertifikatlashtirish bo‘yicha xalqaro organlar tomonidan berilgan tovar sertifikatlarining mavjudligi (sifatli mahsulot olish maqsadida) MDR (CE) yoki FDA sertifikatlari mavjud bo‘lganda 0 yoki 1 ball\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Sertifikatlar\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":7.14,\"Description\":\"Sertifikatlarning nusxalarini taqdim etish zarur.\\r\\n\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768176,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Yetkazib berish muddati (qo‘shimcha ravishda beriladi) \\r\\nYetkazib berish muddatlari qisqartirilmaganda-0 ball \\r\\nYetkazib berish muddatlari belgilangan muddatning kamida 50 foizga qisqartirilganda-1 ball \\r\\nYetkazib berish muddatlari belgilangan muddatning kamida 75 foizga qisqartirilganda-2 ball\\r\\n\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Kafolat xati\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":14.29,\"Description\":\"Yetkazib berish muddatini tasdiqlovchi kafolat xati\\r\\n\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2768177,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ishlab chiqaruvchi zavod avtorizatsiyasining mavjudligi (xarid ishtirokchisi taklif etilayotgan tovar ishlab chiqaruvchisi bo‘lmagan taqdirda)\\r\\nAvtorizatsiya mavjud bo‘lmasa-0 ball \\r\\nAvtorizatsiya mavjudligi-1 ball\\r\\n\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Avtorizatsiya\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":7.14,\"Description\":\"Xarid ishtirokchisi taklif etilayotgan tovar ishlab chiqaruvchisi bo‘lmagan taqdirda 5-shaklga muvofiq rasmiylashtiriladi. Agar mavjud bo‘lmasa, ishtirokchi tenderda qatnashishdan chetlashtiriladi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1107275,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107276,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107277,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107278,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107279,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107280,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107281,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 7,
+   "description": null,
+   "file_path": "tender/user-files/2026/10/14/f339dafb-6855-429d-bf0e-55010e0db397.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107282,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 8,
+   "description": null,
+   "file_path": "tender/user-files/2026/10/14/3d7db298-5ea4-4ae1-9b49-772dc408f4c9.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107283,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 9,
+   "description": null,
+   "file_path": "tender/user-files/2026/10/14/9cf12e06-3c9b-496c-b481-f4af27c8b7a1.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1107284,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 10,
+   "description": null,
+   "file_path": "tender/user-files/2026/10/14/29fa6081-a017-4591-8b15-87952f6f5b77.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1107275,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107276,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107277,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107278,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107279,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107280,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1107281,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":7,\"Description\":null,\"File_Path\":\"tender/user-files/2026/10/14/f339dafb-6855-429d-bf0e-55010e0db397.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107282,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":8,\"Description\":null,\"File_Path\":\"tender/user-files/2026/10/14/3d7db298-5ea4-4ae1-9b49-772dc408f4c9.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107283,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":9,\"Description\":null,\"File_Path\":\"tender/user-files/2026/10/14/9cf12e06-3c9b-496c-b481-f4af27c8b7a1.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1107284,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":10,\"Description\":null,\"File_Path\":\"tender/user-files/2026/10/14/29fa6081-a017-4591-8b15-87952f6f5b77.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 496725,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Алмазарский район",
+ "delivering_address": "Kichik xalqa yo'li, 25",
+ "delivering_phone": "555085500",
+ "addon_description": "Tenderda mahalliy ishlab chiqaruvchilar yoki yetkazib beruvchilar (ijrochilar), shuningdek O‘zbekiston Respublikasi qonunchiligi bilan O‘zbekiston Respublikasida xuddi shunday yetkazib berishni amalga oshirishda ishtirok etishi taqiqlanmagan, ularda ishtirok etish uchun qo‘yilgan shartlarni bajargan, raqobat asosida xarid qilinadigan tegishli xizmatni yetkazib berish tajribasiga ega bo‘lgan xorijiy ishlab chiqaruvchilar yoki yetkazib beruvchilar (ijrochilar) ishtirok etishi mumkin.",
+ "technical_description": "Tender bo‘yicha xarid qilinadigan tovarlar, ishlar va xizmatlarning ushbu xarid qilish hujjatlarining ajralmas qismi bo‘lgan Texnik topshiriqda ko‘rsatilgan xususiyatlari, miqdori, ro‘yxati va texnik tavsiflari, shuningdek spetsifikatsiyasi.",
+ "tech_coef": 60.0,
+ "cost_coef": 40.0,
+ "old_id": 519305,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Ўзбекистон Республикаси , 100118, Ташкент шаҳар, Юнусобод тумани, 6 мавзе, Туркистон МФЙ, 17-Б",
+ "customer_zip": "00000",
+ "min_point": 11,
+ "financing_source": null,
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 113873597794.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080148,
+     "converted_price": 43182226.0,
+     "converted_cost": 40504927988.0
+    },
+    {
+     "lot_detail_id": 2080149,
+     "converted_price": 13933090.0,
+     "converted_cost": 4974113130.0
+    },
+    {
+     "lot_detail_id": 2080150,
+     "converted_price": 43182226.0,
+     "converted_cost": 32257122822.0
+    },
+    {
+     "lot_detail_id": 2080151,
+     "converted_price": 11522163.0,
+     "converted_cost": 864162225.0
+    },
+    {
+     "lot_detail_id": 2080152,
+     "converted_price": 278810.0,
+     "converted_cost": 664404230.0
+    },
+    {
+     "lot_detail_id": 2080153,
+     "converted_price": 278810.0,
+     "converted_cost": 568493590.0
+    },
+    {
+     "lot_detail_id": 2080154,
+     "converted_price": 21890630.0,
+     "converted_cost": 13353284300.0
+    },
+    {
+     "lot_detail_id": 2080155,
+     "converted_price": 8630529.0,
+     "converted_cost": 5264622690.0
+    },
+    {
+     "lot_detail_id": 2080156,
+     "converted_price": 26290943.0,
+     "converted_cost": 210327544.0
+    },
+    {
+     "lot_detail_id": 2080157,
+     "converted_price": 991734.0,
+     "converted_cost": 57520572.0
+    },
+    {
+     "lot_detail_id": 2080158,
+     "converted_price": 5036324.0,
+     "converted_cost": 317288412.0
+    },
+    {
+     "lot_detail_id": 2080159,
+     "converted_price": 3498064.0,
+     "converted_cost": 139922560.0
+    },
+    {
+     "lot_detail_id": 2080160,
+     "converted_price": 125168553.0,
+     "converted_cost": 7134607521.0
+    },
+    {
+     "lot_detail_id": 2080161,
+     "converted_price": 139464022.0,
+     "converted_cost": 6275880990.0
+    },
+    {
+     "lot_detail_id": 2080162,
+     "converted_price": 278810.0,
+     "converted_cost": 124349260.0
+    },
+    {
+     "lot_detail_id": 2080163,
+     "converted_price": 116256996.0,
+     "converted_cost": 1162569960.0
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 9470832.61,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080148,
+     "converted_price": 3591.45,
+     "converted_cost": 3368782.58
+    },
+    {
+     "lot_detail_id": 2080149,
+     "converted_price": 1158.81,
+     "converted_cost": 413695.48
+    },
+    {
+     "lot_detail_id": 2080150,
+     "converted_price": 3591.45,
+     "converted_cost": 2682815.12
+    },
+    {
+     "lot_detail_id": 2080151,
+     "converted_price": 958.29,
+     "converted_cost": 71872.11
+    },
+    {
+     "lot_detail_id": 2080152,
+     "converted_price": 23.18,
+     "converted_cost": 55258.29
+    },
+    {
+     "lot_detail_id": 2080153,
+     "converted_price": 23.18,
+     "converted_cost": 47281.43
+    },
+    {
+     "lot_detail_id": 2080154,
+     "converted_price": 1820.63,
+     "converted_cost": 1110588.6
+    },
+    {
+     "lot_detail_id": 2080155,
+     "converted_price": 717.79,
+     "converted_cost": 437857.07
+    },
+    {
+     "lot_detail_id": 2080156,
+     "converted_price": 2186.6,
+     "converted_cost": 17492.87
+    },
+    {
+     "lot_detail_id": 2080157,
+     "converted_price": 82.48,
+     "converted_cost": 4783.96
+    },
+    {
+     "lot_detail_id": 2080158,
+     "converted_price": 418.86,
+     "converted_cost": 26388.78
+    },
+    {
+     "lot_detail_id": 2080159,
+     "converted_price": 290.93,
+     "converted_cost": 11637.31
+    },
+    {
+     "lot_detail_id": 2080160,
+     "converted_price": 10410.23,
+     "converted_cost": 593383.14
+    },
+    {
+     "lot_detail_id": 2080161,
+     "converted_price": 11599.18,
+     "converted_cost": 521963.12
+    },
+    {
+     "lot_detail_id": 2080162,
+     "converted_price": 23.18,
+     "converted_cost": 10342.09
+    },
+    {
+     "lot_detail_id": 2080163,
+     "converted_price": 9669.05,
+     "converted_cost": 96690.59
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 8602810.63,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080148,
+     "converted_price": 3262.28,
+     "converted_cost": 3060026.48
+    },
+    {
+     "lot_detail_id": 2080149,
+     "converted_price": 1052.6,
+     "converted_cost": 375779.4
+    },
+    {
+     "lot_detail_id": 2080150,
+     "converted_price": 3262.28,
+     "converted_cost": 2436929.4
+    },
+    {
+     "lot_detail_id": 2080151,
+     "converted_price": 870.46,
+     "converted_cost": 65284.87
+    },
+    {
+     "lot_detail_id": 2080152,
+     "converted_price": 21.06,
+     "converted_cost": 50193.75
+    },
+    {
+     "lot_detail_id": 2080153,
+     "converted_price": 21.06,
+     "converted_cost": 42947.99
+    },
+    {
+     "lot_detail_id": 2080154,
+     "converted_price": 1653.77,
+     "converted_cost": 1008800.79
+    },
+    {
+     "lot_detail_id": 2080155,
+     "converted_price": 652.01,
+     "converted_cost": 397726.54
+    },
+    {
+     "lot_detail_id": 2080156,
+     "converted_price": 1986.2,
+     "converted_cost": 15889.61
+    },
+    {
+     "lot_detail_id": 2080157,
+     "converted_price": 74.92,
+     "converted_cost": 4345.5
+    },
+    {
+     "lot_detail_id": 2080158,
+     "converted_price": 380.47,
+     "converted_cost": 23970.19
+    },
+    {
+     "lot_detail_id": 2080159,
+     "converted_price": 264.26,
+     "converted_cost": 10570.73
+    },
+    {
+     "lot_detail_id": 2080160,
+     "converted_price": 9456.11,
+     "converted_cost": 538998.31
+    },
+    {
+     "lot_detail_id": 2080161,
+     "converted_price": 10536.09,
+     "converted_cost": 474124.08
+    },
+    {
+     "lot_detail_id": 2080162,
+     "converted_price": 21.06,
+     "converted_cost": 9394.21
+    },
+    {
+     "lot_detail_id": 2080163,
+     "converted_price": 8782.86,
+     "converted_cost": 87828.69
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 782421312.31,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080148,
+     "converted_price": 296703.49,
+     "converted_cost": 278307874.04
+    },
+    {
+     "lot_detail_id": 2080149,
+     "converted_price": 95733.75,
+     "converted_cost": 34176948.81
+    },
+    {
+     "lot_detail_id": 2080150,
+     "converted_price": 296703.49,
+     "converted_cost": 221637507.36
+    },
+    {
+     "lot_detail_id": 2080151,
+     "converted_price": 79168.35,
+     "converted_cost": 5937626.94
+    },
+    {
+     "lot_detail_id": 2080152,
+     "converted_price": 1915.69,
+     "converted_cost": 4565097.08
+    },
+    {
+     "lot_detail_id": 2080153,
+     "converted_price": 1915.69,
+     "converted_cost": 3906098.59
+    },
+    {
+     "lot_detail_id": 2080154,
+     "converted_price": 150409.71,
+     "converted_cost": 91749926.48
+    },
+    {
+     "lot_detail_id": 2080155,
+     "converted_price": 59300.04,
+     "converted_cost": 36173029.33
+    },
+    {
+     "lot_detail_id": 2080156,
+     "converted_price": 180644.1,
+     "converted_cost": 1445152.83
+    },
+    {
+     "lot_detail_id": 2080157,
+     "converted_price": 6814.16,
+     "converted_cost": 395221.73
+    },
+    {
+     "lot_detail_id": 2080158,
+     "converted_price": 34604.39,
+     "converted_cost": 2180077.03
+    },
+    {
+     "lot_detail_id": 2080159,
+     "converted_price": 24035.06,
+     "converted_cost": 961402.77
+    },
+    {
+     "lot_detail_id": 2080160,
+     "converted_price": 860028.53,
+     "converted_cost": 49021626.5
+    },
+    {
+     "lot_detail_id": 2080161,
+     "converted_price": 958252.17,
+     "converted_cost": 43121348.01
+    },
+    {
+     "lot_detail_id": 2080162,
+     "converted_price": 1915.69,
+     "converted_cost": 854399.2
+    },
+    {
+     "lot_detail_id": 2080163,
+     "converted_price": 798797.55,
+     "converted_cost": 7987975.53
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

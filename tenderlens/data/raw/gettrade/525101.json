@@ -1,0 +1,790 @@
+{
+ "id": 525101,
+ "display_no": "26110012525101",
+ "start_date": "2026-11-17T09:50:40",
+ "end_date": "2026-11-24T09:50:40",
+ "clarific_date": "2026-11-24T09:50:40",
+ "start_cost": 350518002.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2085047,\"Order_Num\":1,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452673,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":25640167,\"Cost\":25640167,\"Description\":\"Музей ва кўргазма экспонатлари (президент бурчаги)\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Картина\",\"User_Value_Id\":8,\"Pnum\":3}]},{\"Id\":2085064,\"Order_Num\":18,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452690,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":16,\"Price\":626899,\"Cost\":10030384,\"Description\":\"Музей ва кўргазма экспонатлари (гуллар) \\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Макет\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2085063,\"Order_Num\":17,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452689,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":66200520,\"Cost\":66200520,\"Description\":\"Музей ва кўргазма экспонатлари (санъат композиция 24 м2)\\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Ҳужжат\",\"User_Value_Id\":4,\"Pnum\":3}]},{\"Id\":2085062,\"Order_Num\":16,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452687,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":80243064,\"Cost\":80243064,\"Description\":\"Музей ва кўргазма экспонатлари (музей учун бадий композиция)\\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Реплика\",\"User_Value_Id\":7,\"Pnum\":3}]},{\"Id\":2085061,\"Order_Num\":15,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452688,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":902734,\"Cost\":1805468,\"Description\":\"Музей ва кўргазма экспонатлари (пешлавҳа)\\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Макет\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2085060,\"Order_Num\":14,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452686,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":30,\"Price\":313449,\"Cost\":9403470,\"Description\":\"Музей ва кўргазма экспонатлари (товоқ ва атласли безак)\\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Манекен\",\"User_Value_Id\":1,\"Pnum\":3}]},{\"Id\":2085059,\"Order_Num\":13,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452685,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":6770509,\"Cost\":13541018,\"Description\":\"Музей ва кўргазма экспонатлари (зинапоя майдончаси учун)\\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Ҳайкалтарошлик\",\"User_Value_Id\":9,\"Pnum\":3}]},{\"Id\":2085058,\"Order_Num\":12,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452684,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":8835095,\"Cost\":8835095,\"Description\":\"Музей ва кўргазма экспонатлари (ренессанс композиция сурати)\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Картина\",\"User_Value_Id\":8,\"Pnum\":3}]},{\"Id\":2085057,\"Order_Num\":11,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452683,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":2,\"Price\":8835095,\"Cost\":17670190,\"Description\":\"Музей ва кўргазма экспонатлари (санъат композициялари)\\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Ҳужжат\",\"User_Value_Id\":4,\"Pnum\":3}]},{\"Id\":2085056,\"Order_Num\":10,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452682,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":5,\"Price\":1391716,\"Cost\":6958580,\"Description\":\"Музей ва кўргазма экспонатлари (таниқли ижодкорлар суратлари)\\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Картина\",\"User_Value_Id\":8,\"Pnum\":3}]},{\"Id\":2085055,\"Order_Num\":9,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452681,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":4513672,\"Cost\":4513672,\"Description\":\"Музей ва кўргазма экспонатлари (маданият саройи эмблемаси)\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Макет\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2085054,\"Order_Num\":8,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452680,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":6168686,\"Cost\":6168686,\"Description\":\"Музей ва кўргазма экспонатлари (давлат рамзлари)\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Макет\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2085053,\"Order_Num\":7,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452679,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":9,\"Price\":2256836,\"Cost\":20311524,\"Description\":\"Музей ва кўргазма экспонатлари (маданият соҳасига таалукли плакатлар, 9 м2) \",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Картина\",\"User_Value_Id\":8,\"Pnum\":3}]},{\"Id\":2085052,\"Order_Num\":6,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452678,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":20,\"Price\":200608,\"Cost\":4012160,\"Description\":\"Музей ва кўргазма экспонатлари (жой учун ҳарфлар ва давлат рамзи, 20 м2)\\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"жамланма\",\"User_Value_Id\":1,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Ҳужжат\",\"User_Value_Id\":4,\"Pnum\":3}]},{\"Id\":2085051,\"Order_Num\":5,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452677,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":40,\"Price\":47644,\"Cost\":1905760,\"Description\":\"Музей ва кўргазма экспонатлари (хоналарни кўрсатадиган кўрсаткичлар) \\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Макет\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2085050,\"Order_Num\":4,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452676,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":60,\"Price\":877659,\"Cost\":52659540,\"Description\":\"Музей ва кўргазма экспонатлари (ўкув хоналарининг плакатлари)\\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Картина\",\"User_Value_Id\":8,\"Pnum\":3}]},{\"Id\":2085049,\"Order_Num\":3,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452674,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":4,\"Price\":3209723,\"Cost\":12838892,\"Description\":\"Музей ва кўргазма экспонатлари (шишали плакатлар) \",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Макет\",\"User_Value_Id\":0,\"Pnum\":3}]},{\"Id\":2085048,\"Order_Num\":2,\"Category_Id\":127803,\"Plangraph_Detail_Id\":24452675,\"Product_Id\":720004,\"Product_Type_Id\":1,\"Quantity\":1,\"Price\":7779812,\"Cost\":7779812,\"Description\":\"Музей ва кўргазма экспонатлари (жадидлар фотосурати туширилган  стент, 17 м2)\\r\\n\",\"Expenditure_Id\":44252110,\"Expenditure_Name\":\"Товарно-материальные запасы (кроме бумаги и прочей полиграфической продукции)\",\"Plan_Id\":10064524,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"91.02.20.000-00001\",\"Guarantee_Term\":10,\"Delivery_Term\":20,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Кутубхона хизматлари, архивлар, музейлар ва маданият соҳасидаги бошқа хизматлар\",\"Product_Name\":\"Музей ва кўргазма экспонатлари\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"дона\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Тури\",\"User_Value\":\"Картина\",\"User_Value_Id\":8,\"Pnum\":3}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 20,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Раҳбар\",\"Fullname\":\"Ялгашев Хасан\"}]",
+ "rest_time": 557102,
+ "customer_name": "Кушработ туман маданият булими",
+ "customer_tin": "200750770",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611124045005192.pdf",
+ "tech_file_path": "/files/2026/11/12/202611124045005192.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 1995862.0,
+ "tech_doc_file_name": "20261711102432525101.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711102432525101.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 417005.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611124045117664.doc",
+ "contract_proform_file_path": "/files/2026/11/12/202611124045117664.doc",
+ "contract_proform_file_ext": "DOC",
+ "contract_proform_file_sizes": 68608.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 3,
+ "nonauthorized_count": 290,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2773606,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 54.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Файл",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 84.38,
+   "description": "Танлов иштирокчиси балансида эълон предмети маҳсулотларига товар моддий заҳираларнинг мавжудлиги бўйича баҳолаш. Қолдиғида мавжуд бозор баҳосидаги ҳар бир маҳсулот миқдори эълон предметидаги маҳсулот миқдоридан ортиқ бўлса 3 балдан берилади ҳамда жами маҳсулот сонига пропорционал равишда балл берилади. Тақдим этаётган муддатгача бўлган даврдаги асосли ва тўлиқ ҳужжатлар тақдим этилиши лозим. Агар тақдим этилган ҳужжатларда асоссизлик,тўлиқсизлик ва номувофиқлик аниқланса солиқ риски юқори деб баҳоланиб 0 балл берилади ёки товар-моддий заҳиралар қолдиғида  мавжуд бозор баҳосидаги ҳар бир маҳсулот миқдори эълон предметидаги маҳсулот миқдоридан ортиқ бўлмаса 0 балл берилади.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 54.0,
+     "description": "Макс. балл по критерию"
+    },
+    {
+     "field_id": null,
+     "value": 51.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 17 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 51 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 48.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 16 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 48 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 45.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 15 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 45 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 42.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 14 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 42 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 39.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 13 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 39 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 36.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 12 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 36 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 33.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 11 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 33 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 30.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 10 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 30 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 27.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 9 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 27 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 24.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 8 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 24 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 21.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 7 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 21 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 18.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 6 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 18 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 5 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 15 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 12.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 4 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 12 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 9.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 3 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 9 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 2 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 6 балл берилади\""
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "\"Қолдиғида мавжуд бозор баҳосидаги 1 та маҳсулот миқдори эълон\r\nпредметидаги маҳсулот миқдоридан ортиқ\r\nбўлса 3 балл берилади\""
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2773607,
+   "type_name": "BINARY_VALUE",
+   "label_type_name": "Бинарное значение",
+   "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Файл",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": "Утверждения",
+    "type_name": null,
+    "yes_text": "Да",
+    "no_text": "Нет"
+   },
+   "gravity": 7.81,
+   "description": "Корхонанинг балансида, корхона раҳбари ёки таъсисчисининг номида бўлган юк ташиш техникаларнинг мавжудлиги бўйича баҳолаш. Ушбу талабга таклифни баҳолашда техникаларнинг техпаспорти ва рақами кўрсатилган расмлари ёки \"ijara.soliq.uz\" дастуридан рўйхатдан ўтган ижара шартномаси тақдим қилиниши шарт. Камида битта юк ташиш техникаси мавжуд бўлса 5 балл берилади, мавжуд бўлмаса 0 балл берилади.\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2773608,
+   "type_name": "BINARY_VALUE",
+   "label_type_name": "Бинарное значение",
+   "label": "Кафолат бўйича талаблар (муддати, жойи)",
+   "min_score": 0.0,
+   "max_score": 5.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Файл",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": "Утверждения",
+    "type_name": null,
+    "yes_text": "Да",
+    "no_text": "Нет"
+   },
+   "gravity": 7.81,
+   "description": "Агар ушбу талаб бўйича ижобий тусдаги кафолат хати берилса 5 балл берилади. Агар ижобий тусдаги кафолат хати тақдим этилмаса 0 балл берилади\r\n",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": null,
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2773606,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":54.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Файл\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":84.38,\"Description\":\"Танлов иштирокчиси балансида эълон предмети маҳсулотларига товар моддий заҳираларнинг мавжудлиги бўйича баҳолаш. Қолдиғида мавжуд бозор баҳосидаги ҳар бир маҳсулот миқдори эълон предметидаги маҳсулот миқдоридан ортиқ бўлса 3 балдан берилади ҳамда жами маҳсулот сонига пропорционал равишда балл берилади. Тақдим этаётган муддатгача бўлган даврдаги асосли ва тўлиқ ҳужжатлар тақдим этилиши лозим. Агар тақдим этилган ҳужжатларда асоссизлик,тўлиқсизлик ва номувофиқлик аниқланса солиқ риски юқори деб баҳоланиб 0 балл берилади ёки товар-моддий заҳиралар қолдиғида  мавжуд бозор баҳосидаги ҳар бир маҳсулот миқдори эълон предметидаги маҳсулот миқдоридан ортиқ бўлмаса 0 балл берилади.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":54.0,\"Description\":\"Макс. балл по критерию\"},{\"Field_Id\":null,\"Value\":51.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 17 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 51 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":48.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 16 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 48 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":45.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 15 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 45 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":42.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 14 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 42 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":39.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 13 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 39 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":36.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 12 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 36 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":33.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 11 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 33 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":30.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 10 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 30 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":27.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 9 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 27 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":24.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 8 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 24 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":21.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 7 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 21 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":18.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 6 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 18 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 5 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 15 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":12.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 4 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 12 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":9.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 3 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 9 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 2 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 6 балл берилади\\\"\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"\\\"Қолдиғида мавжуд бозор баҳосидаги 1 та маҳсулот миқдори эълон\\r\\nпредметидаги маҳсулот миқдоридан ортиқ\\r\\nбўлса 3 балл берилади\\\"\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2773607,\"Type_Name\":\"BINARY_VALUE\",\"Label_Type_Name\":\"Бинарное значение\",\"Label\":\"Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Файл\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":\"Утверждения\",\"Type_name\":null,\"Yes_text\":\"Да\",\"No_text\":\"Нет\"},\"Gravity\":7.81,\"Description\":\"Корхонанинг балансида, корхона раҳбари ёки таъсисчисининг номида бўлган юк ташиш техникаларнинг мавжудлиги бўйича баҳолаш. Ушбу талабга таклифни баҳолашда техникаларнинг техпаспорти ва рақами кўрсатилган расмлари ёки \\\"ijara.soliq.uz\\\" дастуридан рўйхатдан ўтган ижара шартномаси тақдим қилиниши шарт. Камида битта юк ташиш техникаси мавжуд бўлса 5 балл берилади, мавжуд бўлмаса 0 балл берилади.\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2773608,\"Type_Name\":\"BINARY_VALUE\",\"Label_Type_Name\":\"Бинарное значение\",\"Label\":\"Кафолат бўйича талаблар (муддати, жойи)\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Файл\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":\"Утверждения\",\"Type_name\":null,\"Yes_text\":\"Да\",\"No_text\":\"Нет\"},\"Gravity\":7.81,\"Description\":\"Агар ушбу талаб бўйича ижобий тусдаги кафолат хати берилса 5 балл берилади. Агар ижобий тусдаги кафолат хати тақдим этилмаса 0 балл берилади\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":null,\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1114338,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1114339,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1114340,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1114341,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1114342,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1114343,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1114338,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1114339,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1114340,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1114341,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1114342,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1114343,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 88832,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Самаркандская область",
+ "delivering_district_name": "Каттакурганский район",
+ "delivering_address": "Қўшработ ҚФЙ Мустақиллик кўчаси 3",
+ "delivering_phone": "979122405",
+ "addon_description": "Маҳсулотлар янги, сифатли ва ўз вақтида етказиб берилиши лозим",
+ "technical_description": "Техник топшириқ",
+ "tech_coef": 64.0,
+ "cost_coef": 36.0,
+ "old_id": null,
+ "customer_region_name": "Samarqand viloyati ",
+ "customer_district_name": "Samarqand viloyati ",
+ "customer_street": "Кўшработ туман маркази Мустакиллик кўчаси 29-уй",
+ "customer_zip": "00000",
+ "min_point": 10,
+ "financing_source": "Бюджет маблағлари",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 29152.47,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085047,
+     "converted_price": 2132.48,
+     "converted_cost": 2132.48
+    },
+    {
+     "lot_detail_id": 2085048,
+     "converted_price": 647.04,
+     "converted_cost": 647.04
+    },
+    {
+     "lot_detail_id": 2085049,
+     "converted_price": 266.95,
+     "converted_cost": 1067.8
+    },
+    {
+     "lot_detail_id": 2085050,
+     "converted_price": 72.99,
+     "converted_cost": 4379.67
+    },
+    {
+     "lot_detail_id": 2085051,
+     "converted_price": 3.96,
+     "converted_cost": 158.5
+    },
+    {
+     "lot_detail_id": 2085052,
+     "converted_price": 16.68,
+     "converted_cost": 333.69
+    },
+    {
+     "lot_detail_id": 2085053,
+     "converted_price": 187.7,
+     "converted_cost": 1689.3
+    },
+    {
+     "lot_detail_id": 2085054,
+     "converted_price": 513.04,
+     "converted_cost": 513.04
+    },
+    {
+     "lot_detail_id": 2085055,
+     "converted_price": 375.4,
+     "converted_cost": 375.4
+    },
+    {
+     "lot_detail_id": 2085056,
+     "converted_price": 115.74,
+     "converted_cost": 578.74
+    },
+    {
+     "lot_detail_id": 2085057,
+     "converted_price": 734.81,
+     "converted_cost": 1469.62
+    },
+    {
+     "lot_detail_id": 2085058,
+     "converted_price": 734.81,
+     "converted_cost": 734.81
+    },
+    {
+     "lot_detail_id": 2085059,
+     "converted_price": 563.1,
+     "converted_cost": 1126.2
+    },
+    {
+     "lot_detail_id": 2085060,
+     "converted_price": 26.06,
+     "converted_cost": 782.08
+    },
+    {
+     "lot_detail_id": 2085061,
+     "converted_price": 75.08,
+     "converted_cost": 150.16
+    },
+    {
+     "lot_detail_id": 2085062,
+     "converted_price": 6673.79,
+     "converted_cost": 6673.79
+    },
+    {
+     "lot_detail_id": 2085063,
+     "converted_price": 5505.87,
+     "converted_cost": 5505.87
+    },
+    {
+     "lot_detail_id": 2085064,
+     "converted_price": 52.13,
+     "converted_cost": 834.22
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 26480.58,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085047,
+     "converted_price": 1937.03,
+     "converted_cost": 1937.03
+    },
+    {
+     "lot_detail_id": 2085048,
+     "converted_price": 587.74,
+     "converted_cost": 587.74
+    },
+    {
+     "lot_detail_id": 2085049,
+     "converted_price": 242.48,
+     "converted_cost": 969.93
+    },
+    {
+     "lot_detail_id": 2085050,
+     "converted_price": 66.3,
+     "converted_cost": 3978.27
+    },
+    {
+     "lot_detail_id": 2085051,
+     "converted_price": 3.59,
+     "converted_cost": 143.97
+    },
+    {
+     "lot_detail_id": 2085052,
+     "converted_price": 15.15,
+     "converted_cost": 303.1
+    },
+    {
+     "lot_detail_id": 2085053,
+     "converted_price": 170.49,
+     "converted_cost": 1534.47
+    },
+    {
+     "lot_detail_id": 2085054,
+     "converted_price": 466.02,
+     "converted_cost": 466.02
+    },
+    {
+     "lot_detail_id": 2085055,
+     "converted_price": 340.99,
+     "converted_cost": 340.99
+    },
+    {
+     "lot_detail_id": 2085056,
+     "converted_price": 105.13,
+     "converted_cost": 525.69
+    },
+    {
+     "lot_detail_id": 2085057,
+     "converted_price": 667.46,
+     "converted_cost": 1334.93
+    },
+    {
+     "lot_detail_id": 2085058,
+     "converted_price": 667.46,
+     "converted_cost": 667.46
+    },
+    {
+     "lot_detail_id": 2085059,
+     "converted_price": 511.49,
+     "converted_cost": 1022.98
+    },
+    {
+     "lot_detail_id": 2085060,
+     "converted_price": 23.68,
+     "converted_cost": 710.4
+    },
+    {
+     "lot_detail_id": 2085061,
+     "converted_price": 68.19,
+     "converted_cost": 136.39
+    },
+    {
+     "lot_detail_id": 2085062,
+     "converted_price": 6062.12,
+     "converted_cost": 6062.12
+    },
+    {
+     "lot_detail_id": 2085063,
+     "converted_price": 5001.25,
+     "converted_cost": 5001.25
+    },
+    {
+     "lot_detail_id": 2085064,
+     "converted_price": 47.36,
+     "converted_cost": 757.76
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 2408396.33,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085047,
+     "converted_price": 176172.64,
+     "converted_cost": 176172.64
+    },
+    {
+     "lot_detail_id": 2085048,
+     "converted_price": 53454.8,
+     "converted_cost": 53454.8
+    },
+    {
+     "lot_detail_id": 2085049,
+     "converted_price": 22053.88,
+     "converted_cost": 88215.55
+    },
+    {
+     "lot_detail_id": 2085050,
+     "converted_price": 6030.36,
+     "converted_cost": 361821.76
+    },
+    {
+     "lot_detail_id": 2085051,
+     "converted_price": 327.36,
+     "converted_cost": 13094.4
+    },
+    {
+     "lot_detail_id": 2085052,
+     "converted_price": 1378.37,
+     "converted_cost": 27567.4
+    },
+    {
+     "lot_detail_id": 2085053,
+     "converted_price": 15506.63,
+     "converted_cost": 139559.73
+    },
+    {
+     "lot_detail_id": 2085054,
+     "converted_price": 42384.81,
+     "converted_cost": 42384.81
+    },
+    {
+     "lot_detail_id": 2085055,
+     "converted_price": 31013.27,
+     "converted_cost": 31013.27
+    },
+    {
+     "lot_detail_id": 2085056,
+     "converted_price": 9562.42,
+     "converted_cost": 47812.14
+    },
+    {
+     "lot_detail_id": 2085057,
+     "converted_price": 60705.61,
+     "converted_cost": 121411.22
+    },
+    {
+     "lot_detail_id": 2085058,
+     "converted_price": 60705.61,
+     "converted_cost": 60705.61
+    },
+    {
+     "lot_detail_id": 2085059,
+     "converted_price": 46519.91,
+     "converted_cost": 93039.83
+    },
+    {
+     "lot_detail_id": 2085060,
+     "converted_price": 2153.69,
+     "converted_cost": 64610.89
+    },
+    {
+     "lot_detail_id": 2085061,
+     "converted_price": 6202.65,
+     "converted_cost": 12405.3
+    },
+    {
+     "lot_detail_id": 2085062,
+     "converted_price": 551347.14,
+     "converted_cost": 551347.14
+    },
+    {
+     "lot_detail_id": 2085063,
+     "converted_price": 454861.34,
+     "converted_cost": 454861.34
+    },
+    {
+     "lot_detail_id": 2085064,
+     "converted_price": 4307.4,
+     "converted_cost": 68918.4
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 350518002.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2085047,
+     "converted_price": 25640167.0,
+     "converted_cost": 25640167.0
+    },
+    {
+     "lot_detail_id": 2085048,
+     "converted_price": 7779812.0,
+     "converted_cost": 7779812.0
+    },
+    {
+     "lot_detail_id": 2085049,
+     "converted_price": 3209723.0,
+     "converted_cost": 12838892.0
+    },
+    {
+     "lot_detail_id": 2085050,
+     "converted_price": 877659.0,
+     "converted_cost": 52659540.0
+    },
+    {
+     "lot_detail_id": 2085051,
+     "converted_price": 47644.0,
+     "converted_cost": 1905760.0
+    },
+    {
+     "lot_detail_id": 2085052,
+     "converted_price": 200608.0,
+     "converted_cost": 4012160.0
+    },
+    {
+     "lot_detail_id": 2085053,
+     "converted_price": 2256836.0,
+     "converted_cost": 20311524.0
+    },
+    {
+     "lot_detail_id": 2085054,
+     "converted_price": 6168686.0,
+     "converted_cost": 6168686.0
+    },
+    {
+     "lot_detail_id": 2085055,
+     "converted_price": 4513672.0,
+     "converted_cost": 4513672.0
+    },
+    {
+     "lot_detail_id": 2085056,
+     "converted_price": 1391716.0,
+     "converted_cost": 6958580.0
+    },
+    {
+     "lot_detail_id": 2085057,
+     "converted_price": 8835095.0,
+     "converted_cost": 17670190.0
+    },
+    {
+     "lot_detail_id": 2085058,
+     "converted_price": 8835095.0,
+     "converted_cost": 8835095.0
+    },
+    {
+     "lot_detail_id": 2085059,
+     "converted_price": 6770509.0,
+     "converted_cost": 13541018.0
+    },
+    {
+     "lot_detail_id": 2085060,
+     "converted_price": 313449.0,
+     "converted_cost": 9403470.0
+    },
+    {
+     "lot_detail_id": 2085061,
+     "converted_price": 902734.0,
+     "converted_cost": 1805468.0
+    },
+    {
+     "lot_detail_id": 2085062,
+     "converted_price": 80243064.0,
+     "converted_cost": 80243064.0
+    },
+    {
+     "lot_detail_id": 2085063,
+     "converted_price": 66200520.0,
+     "converted_cost": 66200520.0
+    },
+    {
+     "lot_detail_id": 2085064,
+     "converted_price": 626899.0,
+     "converted_cost": 10030384.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

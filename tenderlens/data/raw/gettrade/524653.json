@@ -1,0 +1,539 @@
+{
+ "id": 524653,
+ "display_no": "26120012524653",
+ "start_date": "2026-11-10T13:38:36",
+ "end_date": "2026-11-24T13:38:36",
+ "clarific_date": "2026-11-24T13:38:36",
+ "start_cost": 40000000.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2082530,\"Order_Num\":1,\"Category_Id\":124278,\"Plangraph_Detail_Id\":22318736,\"Product_Id\":672242,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":40000000,\"Cost\":40000000,\"Description\":\"«MAXAM-CHIRCHIQ» AJ ehtiyojlari uchun 2-sonli Kompressiya sexi GK-12, 13, 14 moy tizimlari ustidagi, Ammiak ishlab chiqarish 1-sonli Kompressiya sexi moy xo‘jaligi xonasidagi va Jamlash sexi 4-sonli omborining moy yerto‘lasidagi mayda purkaluvchi suv bilan avtomatik yong‘in o‘chirish tizimlariga texnik xizmat ko‘rsatish. Batafsil ma'lumot Texnik topshiriq va Xarid hujjatlarida keltirilgan. Xizmat Texnik topshiriq va Xarid hujjatlariga qat'iy muvofiq ravishda ko'rsatilishi kerak.\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":8957223,\"Plan_Position_Id\":0,\"Month_Id\":6,\"Month_Name\":\"Iyun\",\"Product_Code\":\"43.22.11.140-00007\",\"Guarantee_Term\":12,\"Delivery_Term\":365,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Махсус қурилиш ишлари\",\"Product_Name\":\"Сувли автоматик ёнғин ўчиргич тизимини монтаж қилиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"хизмат\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 1.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 30,
+ "term_online_days": 10,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Bosh energetik o‘rinbosari\",\"Fullname\":\"Kim Aleksandr Genadyevich \"}]",
+ "rest_time": 570765,
+ "customer_name": "MAXAM-CHIRCHIQ АЖ",
+ "customer_tin": "200941518",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202606111929173967.zip",
+ "tech_file_path": "/files/2026/6/11/202606111929173967.zip",
+ "tech_file_ext": "ZIP",
+ "tech_file_sizes": 4326819.0,
+ "tech_doc_file_name": "202606111929588869.pdf",
+ "tech_doc_file_path": "tender/user-files/2026/6/11/202606111929588869.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 122480.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202606111929347876.zip",
+ "contract_proform_file_path": "/files/2026/6/11/202606111929347876.zip",
+ "contract_proform_file_ext": "ZIP",
+ "contract_proform_file_sizes": 64952.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Ishlar bajarilgandan so‘ng blokdan chiqarish",
+ "authorized_count": 10,
+ "nonauthorized_count": 3972,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2771178,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Taqriz, xat va/yoki tasdiqlovchi hujjatlar ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Kimyoviy sanoat korxonalarida suvni mayda purkash orqali yong‘inni o‘chirish avtomatik tizimlariga texnik xizmat ko‘rsatish sohasida ish tajribasiga ega bo‘lish. Taqriz, xat va/yoki tasdiqlovchi hujjatlar shaklida taqdim etiladi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "30%Texnik-malaka talablariga  muvofiqlik "
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "50%Texnik-malaka talablariga  muvofiqlik "
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "100%Texnik-malaka talablariga  muvofiqlik "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771179,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "ruxsatnoma",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Suvni mayda purkash orqali yong‘inni o‘chirish avtomatik tizimlariga texnik xizmat ko‘rsatish ishlarini bajarish huquqini beruvchi Guvohnoma. Mazkur turdagi ishlar litsenziyalanmasligi haqida xat yoki Litsenziya (ruxsatnoma)",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "30%Texnik-malaka talablariga  muvofiqlik "
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "50%Texnik-malaka talablariga  muvofiqlik "
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "100%Texnik-malaka talablariga  muvofiqlik "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771180,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "ma'lumotnoma",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Xodimlarning soni va ularning malaka darajasi (mutaxassisligi) haqida ma'lumotnoma. Xat va/yoki tasdiqlovchi hujjatlar shaklida taqdim etilsin.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "50%Texnik-malaka talablariga  muvofiqlik "
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "50%Texnik-malaka talablariga  muvofiqlik "
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "100%Texnik-malaka talablariga  muvofiqlik "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771181,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Ish hajmlari ko‘rsatilgan smeta ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Suvni mayda purkash orqali yong‘inni o‘chirish avtomatik tizimlariga texnik xizmat ko‘rsatish bo‘yicha smeta hujjatlarini taqdim etish. \"Ish hajmlari ko‘rsatilgan smeta (narxsiz ko`rsatigan holda). ",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "30%Texnik-malaka talablariga  muvofiqlik "
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "50%Texnik-malaka talablariga  muvofiqlik "
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "100%Texnik-malaka talablariga  muvofiqlik "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771182,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 10.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Kafolat xati",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Texnik topshiriq (TT) va tanlov hujjatlarining texnik-malaka talablariga muvofiqligi to'g'risida ma'lumot (tasdiq xati). Ishlarni texnik topshiriqqa muvofiq bajarishga tayyorlik to‘g‘risida kafolat xati.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "30%Texnik-malaka talablariga  muvofiqlik "
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "50%Texnik-malaka talablariga  muvofiqlik "
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "100%Texnik-malaka talablariga muvofiqlik "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2771178,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Taqriz, xat va/yoki tasdiqlovchi hujjatlar \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Kimyoviy sanoat korxonalarida suvni mayda purkash orqali yong‘inni o‘chirish avtomatik tizimlariga texnik xizmat ko‘rsatish sohasida ish tajribasiga ega bo‘lish. Taqriz, xat va/yoki tasdiqlovchi hujjatlar shaklida taqdim etiladi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"30%Texnik-malaka talablariga  muvofiqlik \"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"50%Texnik-malaka talablariga  muvofiqlik \"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"100%Texnik-malaka talablariga  muvofiqlik \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771179,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"ruxsatnoma\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Suvni mayda purkash orqali yong‘inni o‘chirish avtomatik tizimlariga texnik xizmat ko‘rsatish ishlarini bajarish huquqini beruvchi Guvohnoma. Mazkur turdagi ishlar litsenziyalanmasligi haqida xat yoki Litsenziya (ruxsatnoma)\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"30%Texnik-malaka talablariga  muvofiqlik \"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"50%Texnik-malaka talablariga  muvofiqlik \"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"100%Texnik-malaka talablariga  muvofiqlik \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771180,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"ma'lumotnoma\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Xodimlarning soni va ularning malaka darajasi (mutaxassisligi) haqida ma'lumotnoma. Xat va/yoki tasdiqlovchi hujjatlar shaklida taqdim etilsin.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"50%Texnik-malaka talablariga  muvofiqlik \"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"50%Texnik-malaka talablariga  muvofiqlik \"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"100%Texnik-malaka talablariga  muvofiqlik \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771181,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Ish hajmlari ko‘rsatilgan smeta \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Suvni mayda purkash orqali yong‘inni o‘chirish avtomatik tizimlariga texnik xizmat ko‘rsatish bo‘yicha smeta hujjatlarini taqdim etish. \\\"Ish hajmlari ko‘rsatilgan smeta (narxsiz ko`rsatigan holda). \",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"30%Texnik-malaka talablariga  muvofiqlik \"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"50%Texnik-malaka talablariga  muvofiqlik \"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"100%Texnik-malaka talablariga  muvofiqlik \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771182,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":10.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Kafolat xati\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Texnik topshiriq (TT) va tanlov hujjatlarining texnik-malaka talablariga muvofiqligi to'g'risida ma'lumot (tasdiq xati). Ishlarni texnik topshiriqqa muvofiq bajarishga tayyorlik to‘g‘risida kafolat xati.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"30%Texnik-malaka talablariga  muvofiqlik \"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"50%Texnik-malaka talablariga  muvofiqlik \"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"100%Texnik-malaka talablariga muvofiqlik \"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1111048,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111049,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111050,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111051,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111052,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111053,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1111048,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111049,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111050,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111051,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111052,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111053,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 10601,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Ташкентская область",
+ "delivering_district_name": "Чиpчик",
+ "delivering_address": "ул. Ташкентская, 2",
+ "delivering_phone": "998089864",
+ "addon_description": "«MAXAM-CHIRCHIQ» AJ ehtiyojlari uchun 2-sonli Kompressiya sexi GK-12, 13, 14 moy tizimlari ustidagi, Ammiak ishlab chiqarish 1-sonli Kompressiya sexi moy xo‘jaligi xonasidagi va Jamlash sexi 4-sonli omborining moy yerto‘lasidagi mayda purkaluvchi suv bilan avtomatik yong‘in o‘chirish tizimlariga texnik xizmat ko‘rsatish. Batafsil ma'lumot Texnik topshiriq va Xarid hujjatlarida keltirilgan. Xizmat Texnik topshiriq va Xarid hujjatlariga qat'iy muvofiq ravishda ko'rsatilishi kerak.",
+ "technical_description": "Kompressiya sexida mayda purkaluvchi suv bilan avtomatik yong‘in o‘chirish tizimlariga texnik xizmat ko‘rsatish",
+ "tech_coef": 50.0,
+ "cost_coef": 50.0,
+ "old_id": 516723,
+ "customer_region_name": "Toshkent viloyati",
+ "customer_district_name": "Toshkent viloyati",
+ "customer_street": "Ташкентская область, город Чирчик",
+ "customer_zip": "100090",
+ "min_point": 40,
+ "financing_source": null,
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 3021.88,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082530,
+     "converted_price": 3021.88,
+     "converted_cost": 3021.88
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 274838.53,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082530,
+     "converted_price": 274838.53,
+     "converted_cost": 274838.53
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 3326.78,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082530,
+     "converted_price": 3326.78,
+     "converted_cost": 3326.78
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 40000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082530,
+     "converted_price": 40000000.0,
+     "converted_cost": 40000000.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 0,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

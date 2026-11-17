@@ -1,0 +1,348 @@
+{
+ "id": 524286,
+ "display_no": "26120012524286",
+ "start_date": "2026-11-17T09:30:36",
+ "end_date": "2026-11-26T09:30:36",
+ "clarific_date": "2026-11-26T09:30:36",
+ "start_cost": 1500960000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2080954,\"Order_Num\":1,\"Category_Id\":125805,\"Plangraph_Detail_Id\":23932975,\"Product_Id\":647862,\"Product_Type_Id\":3,\"Quantity\":17700,\"Price\":84800,\"Cost\":1500960000,\"Description\":\"“Urganchtransgaz” MCHJning  2026 yil 09 sentabrdagi 45-16/6526-sonli xatiga Ishlab chiqarish zaruriyatida kelib chiqib, “Urganchtransgaz” MCHJ tasarrufidagi obyektlarda olib borilayotgan olovli ishlarda ishtirok etayotgan ishchi-xodimlar uchun mehnat sharoitlarini yaratish hamda ularni belgilangan tartibda kuniga 3 mahal imtiyozli issiq ovqat bilan ta’minlash \",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9782171,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"56.29.19.000-00004\",\"Guarantee_Term\":1,\"Delivery_Term\":60,\"Term_Period_Name\":\"Дней\",\"Term_Period_Id\":1,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Умумий овқатланиш хизматлари\",\"Product_Name\":\"Озиқ-овқат тайёрлаш аутсорсинги хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":2,\"Pnum\":0},{\"Property_Name\":\"Вид приёма пищи\",\"User_Value\":\"Комплексный (завтрак, обед, ужин)\",\"User_Value_Id\":7,\"Pnum\":4}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 15.0,
+ "term_payment_days": 45,
+ "term_online_days": 7,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"X va KAX xizmat boshlig'i\",\"Fullname\":\"Masharipov J.A\"}]",
+ "rest_time": 728650,
+ "customer_name": "\"O`ZTRANSGAZ AKSIYADORLIK JAMIYATINING URGANCHTRANSGAZ\" MCHJ (филиал \"Urganchtransgaz\" MCHJga qarashli “Shared Service Center”)",
+ "customer_tin": "200407848",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611063028786293.pdf",
+ "tech_file_path": "/files/2026/11/6/202611063028786293.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 281161.0,
+ "tech_doc_file_name": "20261711132421524286.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711132421524286.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 301345.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611063028860662.docx",
+ "contract_proform_file_path": "/files/2026/11/6/202611063028860662.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 31553.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Ishlar bajarilgandan so‘ng blokdan chiqarish",
+ "authorized_count": 4,
+ "nonauthorized_count": 1557,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2769172,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 2.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "пдф",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 100.0,
+   "description": "Участники обязаны приложить подтверждающие документы по каждому требованию сравнительной таблицы (согласно технического задания). Иштирокчилар таққослаш жадвалидаги (техник топшириққа мувофиқ) ҳар бир талаблари бўйича тасдиқловчи ҳужжатларни илова қилишлари шарт.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 2.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Техник шакиллар",
+   "form_file_path": "tender/user-files/2026/11/6/0812191e-495b-4613-9be1-fafa939dcffb.docx"
+  }
+ ],
+ "fields": "[{\"Id\":2769172,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":2.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"пдф\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":100.0,\"Description\":\"Участники обязаны приложить подтверждающие документы по каждому требованию сравнительной таблицы (согласно технического задания). Иштирокчилар таққослаш жадвалидаги (техник топшириққа мувофиқ) ҳар бир талаблари бўйича тасдиқловчи ҳужжатларни илова қилишлари шарт.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":2.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Техник шакиллар\",\"Form_File_Path\":\"tender/user-files/2026/11/6/0812191e-495b-4613-9be1-fafa939dcffb.docx\"}]",
+ "js_qualification_fields": [
+  {
+   "id": 1108413,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": "Участник должен предоставить информацию о наличие технических, финансовых, материальных, кадровых ресурсов или других ресурсов на фирменном бланке участнике в произвольной форме. Иштирокчи техник, молиявий, моддий, кадрлар ёки бошқа ресурслар мавжудлиги тўғрисидаги маълумотни иштирокчининг фирма бланкида ихтиёрий шаклда тақдим этиши шарт.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108414,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": "Участник должен прикрепить Устав, Гувохнома (свидетельство о гос. регистрации), приказ о назначении руководителя и копия паспорта руководителя. Иштирокчи қуйидаги ҳужжатларни илова қилиши шарт: Низом, Гувоҳнома , раҳбарни тайинлаш тўғрисидаги буйруқ ҳамда раҳбар паспорти нусхаси.",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108415,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": "Участник должен прикрепить справку об отсутствии налоговой задолженности от Налогового органа с QR-кодом. Иштирокчи Солиқ органи томонидан берилган, QR-кодга эга бўлган солиқ қарздорлиги мавжуд эмаслиги тўғрисидаги маълумотномани илова қилиши шарт",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108416,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "Ishtirokchi biriktirilgan hujjatni ilova qilishi shart. (4-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi) Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 4).",
+   "file_path": "tender/user-files/2026/11/6/211733da-751a-4e1e-a98d-7347c2859f5a.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108417,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "Ishtirokchi https: //xarid.uzex.uz/info/unfair-executor saytdan Skrinshot biriktirish kerak (norezidentlar uchun – vakolatli organdan hujjat/saytidan skrinshot/ishtirokchining kafolat xati) Участник должен приложить скриншот с сайта https://xarid.uzex.uz/info/unfair-executor (для нерезидентов — документ от уполномоченного органа / скриншот с официального сайта / гарантийное письмо участника).",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108418,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": "Ishtirokchi https://mib.uz/6EG6yY_VtJY3GfyqeN3BgFH0LKyhTtwWB5sLiKaXTvw8F53Ng-Z5Tn9X3rQ0en46WpTw4n4hSGkRPWKldCGhhTtWK_8Uyzv7-WQnxKs0Ms4f2-uFeT8uYA/6EG17/Y_Vef saytdan Skrinshot biriktirish kerak (norezidentlar uchun – vakolatli organdan hujjat/saytidan skrinshot/ishtirokchining kafolat xati). Участник должен приложить скриншот с сайта https://mib.uz/6EG6yY_VtJY3GfyqeN3BgFH0LKyhTtwWB5sLiKaXTvw8F53Ng-Z5Tn9X3rQ0en46WpTw4n4hSGkRPWKldCGhhTtWK_8Uyzv7-WQnxKs0Ms4f2-uFeT8uYA/6EG17/Y_Vef (для нерезидентов — документ от уполномоченного органа / скриншот с официального сайта / гарантийное письмо участника).",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108419,
+   "name": "Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги",
+   "order_num": 7,
+   "description": "Ishtirokchi ilovaga moliyaviy natijalar bo‘yicha hisobotlar (balans hisobotlari) nusxalarini ilova qilishi shart, ular Soliq xizmati (yoki chet-el yuridik shaxslari uchun boshqa vakolatli organlar, shu jumladan hisobotlarni audit hulosasi) tomonidan elektron shaklda qabul qilinganini tasdiqlovchi hujjat bilan birga bo‘lishi lozim. (Ishtirokchini baholash usuli ilova ichida bayon etilgan, 7-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi) Участник обязан приложить копии отчетов о финансовых результатах (балансовые отчеты), которые должны сопровождаться документом, подтверждающим их принятие в электронной форме Налоговой службой (или иным уполномоченным органом для иностранных юридических лиц, включая аудиторское заключение по отчетности). (Метод оценки участника изложен в приложении и оформляется в соответствии с формой, указанной в требовании № 7)",
+   "file_path": "tender/user-files/2026/11/6/f3480713-0617-41d2-87b0-c86bc2eb6697.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108420,
+   "name": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.",
+   "order_num": 8,
+   "description": "Ishtirokchi biriktirilgan hujjatni to‘ldirib ilova qilishi shart (8-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан заполнить и приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 8).",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108421,
+   "name": "Xorijiy davlatlar va xalqaro tashkilotlar tomonidan ishtirokchiga nisbatan sanksiya qo‘llanilmaganligi",
+   "order_num": 9,
+   "description": "Ishtirokchi biriktirilgan hujjatni ilova qilishi shart (9-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 9).",
+   "file_path": "tender/user-files/2026/11/6/e1794915-6e1e-4b4d-82c2-82168afc7ee4.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108422,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 10,
+   "description": "Ishtirokchi biriktirilgan hujjatni ilova qilishi shart (10-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 10).",
+   "file_path": "tender/user-files/2026/11/6/58572b82-3b06-48f9-a2ce-d33b19078abf.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108423,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 11,
+   "description": "Ishtirokchida boshqa ishtirokchilar hamda xarid komissiyasi a’zolari bilan manfaatlar to‘qnashuvi yoki affillanganlik holati bo‘lmasligi kerak (Ishtirokchi erkin shaklda rasmiy xat yuklaydi). Участник не должен иметь конфликта интересов или аффилированности с другими участниками либо членами закупочной комиссии (участник загружает официальное письмо в свободной форме).",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108424,
+   "name": "Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию",
+   "order_num": 12,
+   "description": "Ishtirokchi biriktirilgan hujjatni ilova qilishi shart (12-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 12).",
+   "file_path": "tender/user-files/2026/11/6/46f1feb4-1ca5-4ee9-8bb7-28c7e78583c5.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108425,
+   "name": "Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги ",
+   "order_num": 13,
+   "description": "Ishtirokchi biriktirilgan hujjatni ilova qilishi shart (13-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 13).",
+   "file_path": "tender/user-files/2026/11/6/9e672ad5-fc8f-4a11-a4ee-d57fe866d99f.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1108413,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":\"Участник должен предоставить информацию о наличие технических, финансовых, материальных, кадровых ресурсов или других ресурсов на фирменном бланке участнике в произвольной форме. Иштирокчи техник, молиявий, моддий, кадрлар ёки бошқа ресурслар мавжудлиги тўғрисидаги маълумотни иштирокчининг фирма бланкида ихтиёрий шаклда тақдим этиши шарт.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108414,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":\"Участник должен прикрепить Устав, Гувохнома (свидетельство о гос. регистрации), приказ о назначении руководителя и копия паспорта руководителя. Иштирокчи қуйидаги ҳужжатларни илова қилиши шарт: Низом, Гувоҳнома , раҳбарни тайинлаш тўғрисидаги буйруқ ҳамда раҳбар паспорти нусхаси.\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108415,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"Участник должен прикрепить справку об отсутствии налоговой задолженности от Налогового органа с QR-кодом. Иштирокчи Солиқ органи томонидан берилган, QR-кодга эга бўлган солиқ қарздорлиги мавжуд эмаслиги тўғрисидаги маълумотномани илова қилиши шарт\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108416,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"Ishtirokchi biriktirilgan hujjatni ilova qilishi shart. (4-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi) Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 4).\",\"File_Path\":\"tender/user-files/2026/11/6/211733da-751a-4e1e-a98d-7347c2859f5a.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1108417,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"Ishtirokchi https: //xarid.uzex.uz/info/unfair-executor saytdan Skrinshot biriktirish kerak (norezidentlar uchun – vakolatli organdan hujjat/saytidan skrinshot/ishtirokchining kafolat xati) Участник должен приложить скриншот с сайта https://xarid.uzex.uz/info/unfair-executor (для нерезидентов — документ от уполномоченного органа / скриншот с официального сайта / гарантийное письмо участника).\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108418,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"Ishtirokchi https://mib.uz/6EG6yY_VtJY3GfyqeN3BgFH0LKyhTtwWB5sLiKaXTvw8F53Ng-Z5Tn9X3rQ0en46WpTw4n4hSGkRPWKldCGhhTtWK_8Uyzv7-WQnxKs0Ms4f2-uFeT8uYA/6EG17/Y_Vef saytdan Skrinshot biriktirish kerak (norezidentlar uchun – vakolatli organdan hujjat/saytidan skrinshot/ishtirokchining kafolat xati). Участник должен приложить скриншот с сайта https://mib.uz/6EG6yY_VtJY3GfyqeN3BgFH0LKyhTtwWB5sLiKaXTvw8F53Ng-Z5Tn9X3rQ0en46WpTw4n4hSGkRPWKldCGhhTtWK_8Uyzv7-WQnxKs0Ms4f2-uFeT8uYA/6EG17/Y_Vef (для нерезидентов — документ от уполномоченного органа / скриншот с официального сайта / гарантийное письмо участника).\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108419,\"Name\":\"Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги\",\"Order_Num\":7,\"Description\":\"Ishtirokchi ilovaga moliyaviy natijalar bo‘yicha hisobotlar (balans hisobotlari) nusxalarini ilova qilishi shart, ular Soliq xizmati (yoki chet-el yuridik shaxslari uchun boshqa vakolatli organlar, shu jumladan hisobotlarni audit hulosasi) tomonidan elektron shaklda qabul qilinganini tasdiqlovchi hujjat bilan birga bo‘lishi lozim. (Ishtirokchini baholash usuli ilova ichida bayon etilgan, 7-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi) Участник обязан приложить копии отчетов о финансовых результатах (балансовые отчеты), которые должны сопровождаться документом, подтверждающим их принятие в электронной форме Налоговой службой (или иным уполномоченным органом для иностранных юридических лиц, включая аудиторское заключение по отчетности). (Метод оценки участника изложен в приложении и оформляется в соответствии с формой, указанной в требовании № 7)\",\"File_Path\":\"tender/user-files/2026/11/6/f3480713-0617-41d2-87b0-c86bc2eb6697.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1108420,\"Name\":\"Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.\",\"Order_Num\":8,\"Description\":\"Ishtirokchi biriktirilgan hujjatni to‘ldirib ilova qilishi shart (8-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан заполнить и приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 8).\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108421,\"Name\":\"Xorijiy davlatlar va xalqaro tashkilotlar tomonidan ishtirokchiga nisbatan sanksiya qo‘llanilmaganligi\",\"Order_Num\":9,\"Description\":\"Ishtirokchi biriktirilgan hujjatni ilova qilishi shart (9-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 9).\",\"File_Path\":\"tender/user-files/2026/11/6/e1794915-6e1e-4b4d-82c2-82168afc7ee4.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1108422,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":10,\"Description\":\"Ishtirokchi biriktirilgan hujjatni ilova qilishi shart (10-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 10).\",\"File_Path\":\"tender/user-files/2026/11/6/58572b82-3b06-48f9-a2ce-d33b19078abf.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1108423,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":11,\"Description\":\"Ishtirokchida boshqa ishtirokchilar hamda xarid komissiyasi a’zolari bilan manfaatlar to‘qnashuvi yoki affillanganlik holati bo‘lmasligi kerak (Ishtirokchi erkin shaklda rasmiy xat yuklaydi). Участник не должен иметь конфликта интересов или аффилированности с другими участниками либо членами закупочной комиссии (участник загружает официальное письмо в свободной форме).\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108424,\"Name\":\"Иштирокчиларнинг жорий буюртмачи билан илгари тузилган шартномалар бўйича ўз зиммасига олган мажбуриятларнинг ижро этилмаганлиги ёки лозим даражада ижро этилмаганлиги бўйича судда иши (шу жумладан, арбитраж муносабатлари мавжуд бўлган иштирокчилар) кўрилганлигию\",\"Order_Num\":12,\"Description\":\"Ishtirokchi biriktirilgan hujjatni ilova qilishi shart (12-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 12).\",\"File_Path\":\"tender/user-files/2026/11/6/46f1feb4-1ca5-4ee9-8bb7-28c7e78583c5.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1108425,\"Name\":\"Имтиёзли солиқ режимидаги молиявий операцияларни амалга оширишда маълумотларни ошкор қилиш ва тақдим этишни назарда тутмайдиган давлатлар ёки ҳудудларда (офшор ҳудудлар) иштирокчилар ва уларнинг банк ҳисобрақамлари рўйхатдан ўтказилганлиги ёки ўтказилмаганлиги \",\"Order_Num\":13,\"Description\":\"Ishtirokchi biriktirilgan hujjatni ilova qilishi shart (13-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi). Участник обязан приложить соответствующий документ (оформленный в соответствии с формой, приведённой в приложении по требованию № 13).\",\"File_Path\":\"tender/user-files/2026/11/6/9e672ad5-fc8f-4a11-a4ee-d57fe866d99f.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 6459,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Республика Каракалпакстан",
+ "delivering_district_name": "Кунградский район",
+ "delivering_address": "Кунгирод райони",
+ "delivering_phone": "973621425",
+ "addon_description": "“Urganchtransgaz” MCHJning  2026 yil 09 sentabrdagi 45-16/6526-sonli xatiga Ishlab chiqarish zaruriyatida kelib chiqib, “Urganchtransgaz” MCHJ tasarrufidagi obyektlarda olib borilayotgan olovli ishlarda ishtirok etayotgan ishchi-xodimlar uchun mehnat sharoitlarini yaratish hamda ularni belgilangan tartibda kuniga 3 mahal imtiyozli issiq ovqat bilan ta’minlash ",
+ "technical_description": "Тз",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": null,
+ "customer_region_name": "Xorazm viloyati",
+ "customer_district_name": "Xorazm viloyati",
+ "customer_street": "Оёқбоғ МФЙ Жайхун 1-тор кўчаси 5-уй",
+ "customer_zip": "220500",
+ "min_point": 2,
+ "financing_source": "“Urganchtransgaz” MCHJ",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 113393.05,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080954,
+     "converted_price": 6.4,
+     "converted_cost": 113393.05
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 10313041.08,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080954,
+     "converted_price": 582.65,
+     "converted_cost": 10313041.08
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 1500960000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080954,
+     "converted_price": 84800.0,
+     "converted_cost": 1500960000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 124834.38,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2080954,
+     "converted_price": 7.05,
+     "converted_cost": 124834.38
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": "\"Urganchtransgaz\" MCHJga qarashli “Shared Service Center”",
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

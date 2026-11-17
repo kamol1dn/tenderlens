@@ -1,0 +1,405 @@
+{
+ "id": 524303,
+ "display_no": "26120012524303",
+ "start_date": "2026-11-13T16:49:03",
+ "end_date": "2026-11-20T16:49:03",
+ "clarific_date": "2026-11-20T16:49:03",
+ "start_cost": 220000000.0,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2081020,\"Order_Num\":1,\"Category_Id\":126784,\"Plangraph_Detail_Id\":24418219,\"Product_Id\":515228,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":220000000,\"Cost\":220000000,\"Description\":\"\\\"O'zmilliybank\\\" AJ Zarafshon bank xizmatlari markazi yangi binosi qurilishi bo'yicha eskiz va dizayn loyihalari va loyiha-smeta hujjatlarini ishlab chiqish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":10044901,\"Plan_Position_Id\":0,\"Month_Id\":11,\"Month_Name\":\"Noyabr\",\"Product_Code\":\"71.12.12.130-00004\",\"Guarantee_Term\":12,\"Delivery_Term\":90,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Меъморчилик ва муҳандислик-техник лойиҳалаштириш, техник синов, тадқиқот ва таҳлил соҳасидаги хизматлар\",\"Product_Name\":\"Лойиҳа-смета ишларини ишлаб чиқиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 100,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Xarid komissiyasi kotibi\",\"Fullname\":\"Mansurov A. R.\"}]",
+ "rest_time": 236684,
+ "customer_name": "TIF \"O`ZMILLIY BANK\" AJ",
+ "customer_tin": "200836354",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202611062440284269.pdf",
+ "tech_file_path": "/files/2026/11/6/202611062440284269.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 4532516.0,
+ "tech_doc_file_name": "20261711042451524303.pdf",
+ "tech_doc_file_path": "files/2026/11/17/20261711042451524303.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 281886.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202611062440431522.docx",
+ "contract_proform_file_path": "/files/2026/11/6/202611062440431522.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 52841.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 16,
+ "nonauthorized_count": 1925,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2769246,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi hujjatlar taqdim etiladi",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 33.33,
+   "description": "Xarid hujjatlarining texnik qismiga muvofiqligi",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "Xarid hujjatlarining texnik qismiga muvofiqligi",
+   "form_file_path": "tender/user-files/2026/11/6/00bee337-ee84-44fd-9e00-a7b60a4b8a0a.docx"
+  },
+  {
+   "id": 2769247,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi hujjatlar taqdim etiladi",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 33.33,
+   "description": "O‘zbekiston Respublikasi Qurilish va uy-joy kommunal xo‘jaligi vazirligining Ⅲ-toifadagi tegishli litsenziyasi mavjud bo'lishi lozim",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "O‘zbekiston Respublikasi Qurilish va uy-joy kommunal xo‘jaligi vazirligining Ⅲ-toifadagi tegishli litsenziyasi mavjud bo'lishi lozim",
+   "form_file_path": null
+  },
+  {
+   "id": 2769248,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tasdiqlovchi hujjatlar taqdim etiladi",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 33.33,
+   "description": "So'nggi 2 yil davomida kamida  1ta Ⅲ- toifali obyektlarda bosh loyihachi sifatidagi ish tajribasiga ega bo'lishi lozim. Ya'ni bank binosi, yirik savdo majmuasi yoki biznes markazlari loyihalarini ishlab chiqqan bo'lishi lozim.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": "So'nggi 2 yil davomida kamida  1ta Ⅲ- toifali obyektlarda bosh loyihachi sifatidagi ish tajribasiga ega bo'lishi lozim. Ya'ni bank binosi, yirik savdo majmuasi yoki biznes markazlari loyihalarini ishlab chiqqan bo'lishi lozim.",
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2769246,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi hujjatlar taqdim etiladi\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":33.33,\"Description\":\"Xarid hujjatlarining texnik qismiga muvofiqligi\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Xarid hujjatlarining texnik qismiga muvofiqligi\",\"Form_File_Path\":\"tender/user-files/2026/11/6/00bee337-ee84-44fd-9e00-a7b60a4b8a0a.docx\"},{\"Id\":2769247,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi hujjatlar taqdim etiladi\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":33.33,\"Description\":\"O‘zbekiston Respublikasi Qurilish va uy-joy kommunal xo‘jaligi vazirligining Ⅲ-toifadagi tegishli litsenziyasi mavjud bo'lishi lozim\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"O‘zbekiston Respublikasi Qurilish va uy-joy kommunal xo‘jaligi vazirligining Ⅲ-toifadagi tegishli litsenziyasi mavjud bo'lishi lozim\",\"Form_File_Path\":null},{\"Id\":2769248,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tasdiqlovchi hujjatlar taqdim etiladi\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":33.33,\"Description\":\"So'nggi 2 yil davomida kamida  1ta Ⅲ- toifali obyektlarda bosh loyihachi sifatidagi ish tajribasiga ega bo'lishi lozim. Ya'ni bank binosi, yirik savdo majmuasi yoki biznes markazlari loyihalarini ishlab chiqqan bo'lishi lozim.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"So'nggi 2 yil davomida kamida  1ta Ⅲ- toifali obyektlarda bosh loyihachi sifatidagi ish tajribasiga ega bo'lishi lozim. Ya'ni bank binosi, yirik savdo majmuasi yoki biznes markazlari loyihalarini ishlab chiqqan bo'lishi lozim.\",\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1108534,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108535,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108536,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108537,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108538,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108539,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108540,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 7,
+   "description": "Tanlash ishtirokchisi to‘g‘risida umumiy ma’lumot",
+   "file_path": "tender/user-files/2026/11/6/61b1704a-c75a-4540-94c8-a15ea0242fd0.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1108541,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 8,
+   "description": "Korrupsiya holatlariga yo‘l qo‘ymaslik bo‘yicha ariza",
+   "file_path": "tender/user-files/2026/11/6/fbe11e79-8420-42d6-b964-de00b91ba5e6.docx",
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1108534,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108535,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108536,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108537,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108538,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108539,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1108540,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":7,\"Description\":\"Tanlash ishtirokchisi to‘g‘risida umumiy ma’lumot\",\"File_Path\":\"tender/user-files/2026/11/6/61b1704a-c75a-4540-94c8-a15ea0242fd0.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1108541,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":8,\"Description\":\"Korrupsiya holatlariga yo‘l qo‘ymaslik bo‘yicha ariza\",\"File_Path\":\"tender/user-files/2026/11/6/fbe11e79-8420-42d6-b964-de00b91ba5e6.docx\",\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 10963,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Навоийская область",
+ "delivering_district_name": "Заpафшан",
+ "delivering_address": "Bahor MFY, Zurab Zarapetyan ko'chasi",
+ "delivering_phone": "781471527",
+ "addon_description": "\"O'zmilliybank\" AJ Zarafshon bank xizmatlari markazi yangi binosi qurilishi bo'yicha eskiz va dizayn loyihalari va loyiha-smeta hujjatlarini ishlab chiqish texnik topshiriq asosida amalga oshiriladi",
+ "technical_description": "Texnik topshiriq va loyiha topshirig'i",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": null,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Амир Темур 101",
+ "customer_zip": "100090",
+ "min_point": 3,
+ "financing_source": "O'z mablag'lari hisobidan",
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 1511611.92,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081020,
+     "converted_price": 1511611.92,
+     "converted_cost": 1511611.92
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 220000000.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081020,
+     "converted_price": 220000000.0,
+     "converted_cost": 220000000.0
+    }
+   ]
+  },
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 16620.34,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081020,
+     "converted_price": 16620.34,
+     "converted_cost": 16620.34
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 18297.33,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2081020,
+     "converted_price": 18297.33,
+     "converted_cost": 18297.33
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

@@ -1,0 +1,831 @@
+{
+ "id": 524750,
+ "display_no": "26120012524750",
+ "start_date": "2026-11-10T21:08:42",
+ "end_date": "2026-11-24T21:08:42",
+ "clarific_date": "2026-11-24T21:08:42",
+ "start_cost": 283682.7,
+ "valuation_id": 1,
+ "valuation_name": "Eng past narx usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2082880,\"Order_Num\":1,\"Category_Id\":126784,\"Plangraph_Detail_Id\":23385339,\"Product_Id\":453451,\"Product_Type_Id\":3,\"Quantity\":1554,\"Price\":182.55,\"Cost\":283682.7,\"Description\":\"PAUT usuli bilan nazorat qilinishi rejalashtirilgan coil birikmalari (jointlar) soni — 1554 ta. (material: ASTM A106 Gr. B, tashqi diametr: 4\\\", devor qalinligi: SCH40). Batafsil ma'lumot texnik topshiriqda ko'rsatilgan / Количество сварных соединений змеевиков, подлежащих контролю методом PAUT — 1554 шт. (материал: ASTM A106 Gr. B, наружный диаметр: 4\\\", толщина стенки: SCH40).\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":9492442,\"Plan_Position_Id\":0,\"Month_Id\":9,\"Month_Name\":\"Sentyabr\",\"Product_Code\":\"71.20.19.190-00019\",\"Guarantee_Term\":1,\"Delivery_Term\":45,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Меъморчилик ва муҳандислик-техник лойиҳалаштириш, техник синов, тадқиқот ва таҳлил соҳасидаги хизматлар\",\"Product_Name\":\"Сертификатлаштириш соҳасида инспекция назоратини ўтказиш бўйича хизматлар\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0},{\"Property_Name\":\"Ҳисоб-китоб қилиш тури\",\"User_Value\":\"Нақдсиз\",\"User_Value_Id\":1,\"Pnum\":2},{\"Property_Name\":\"Босқичма-босқич тўлаш имкониятининг бор/ёқлиги\",\"User_Value\":\"ҳа\",\"User_Value_Id\":0,\"Pnum\":3}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 10.0,
+ "term_payment_days": 15,
+ "term_online_days": 10,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Харид қилиш ва логистика бўлими етакчи мутахассиси\",\"Fullname\":\"Бехзод Султанов\"},{\"Job_title\":\"Харидлар бўйича менежер\",\"Fullname\":\"Элёр Муминов\"}]",
+ "rest_time": 597740,
+ "customer_name": "\"UZBEKISTAN GTL\" MCHJ",
+ "customer_tin": "207041936",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202609295827391372.rar",
+ "tech_file_path": "/files/2026/9/29/202609295827391372.rar",
+ "tech_file_ext": "RAR",
+ "tech_file_sizes": 972073.0,
+ "tech_doc_file_name": "20262010122447516081.pdf",
+ "tech_doc_file_path": "files/2026/10/20/20262010122447516081.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 261006.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202609283947378354.rar",
+ "contract_proform_file_path": "/files/2026/9/28/202609283947378354.rar",
+ "contract_proform_file_ext": "RAR",
+ "contract_proform_file_sizes": 1624798.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 12,
+ "nonauthorized_count": 2347,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2771700,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Форма №1 и запрашиваемые документы  / 1-sonli shakl va so‘ralgan hujjatlar   ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Предоставление Формы анкеты Контрагента и полного пакета требуемых документов согласно политике комплаенса Заказчика - участник должен предоставить заполненную форму и запрашиваемые документы согласно Форме № 1 Закупочной документации. \r\n(Процедура проверки контрагентов осуществляется согласно Приложению №2 к Закупочной документации.)\r\nФорма №1 и запрашиваемые документы соответствуют, получено положительное заключение по результатам проверки – 1 балл;\r\nФорма №1 и/или запрашиваемые документы не соответствуют и/или получено отрицательное заключение по результатам проверки – 0 баллов (дисквалификация).\r\n/\r\nKontragent anketasi shaklini va talab etilgan hujjatlarni taqdim etish — ishtirokchi xarid hujjatlarida ko‘rsatilgan 1-sonli shaklga muvofiq to‘ldirilgan shakl hamda unda nazarda tutilgan barcha hujjatlarni taqdim etishi shart. (Kontragentlarni tekshirish taomili Xarid qilish hujjatlariga 2-ilovaga muvofiq amalga oshiriladi.)\r\n1-sonli shakl va so‘ralgan hujjatlar to‘g‘ri keladi, tekshiruv natijalari bo‘yicha ijobiy xulosa olingan - 1 ball;\r\n1-sonli shakl va/yoki so‘ralgan hujjatlar muvofiq emas va/yoki tekshirish natijalari bo‘yicha salbiy xulosa olingan - 0 ball (diskvalifikatsiya).",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771701,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Форма №2 (Техническое предложение) / 2-sonli shakl (Texnik taklif)  ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Предоставление Технического предложения – участник должен предоставить заполненную форму согласно Форме № 2 Закупочной документации\r\nТехническое предложение соответствует требованиям Технического задания – 1 балл;\r\nТехническое предложение не соответствует требованиям Технического задания – 0 баллов (дисквалификация).\r\n/\r\nIshtirokchining taklifi Texnik topshiriq talablariga muvofiqligi — ishtirokchi xarid hujjatlarida ko‘rsatilgan 2-sonli shaklga muvofiq to‘ldirilgan shaklni taqdim etishi shart. Ushbu shaklda taklif Buyurtmaning texnik topshiriqdagi shartlariga to‘liq mos ekani va texnik topshiriqda keltirilgan barcha shartlarni qabul qilishini tasdiqlashi lozim.\r\nTexnik taklif Texnik topshiriqdagi talablarga mos kelsa – 1 ball,\r\nTexnik taklif Texnik topshiriqdagi talablarga mos kelmasa – 0 ball (diskvalifikatsiya).",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771702,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Запрашиваемые документы / Talab qilingan hujjatlar  ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Участник должен предоставить список квалифицированного персонала (CV сотрудников), медицинские карточки сотрудников, перечень используемого оборудования для проведения инспекционных работ по ультразвуковому измерению толщины (УЗТ), сертификат Госкомпром Безопасности, позволяющий проводить инспекционные работы в Республике Узбекистан\r\nЗапрашиваемые документы соответствуют - 1 балл;\r\nЗапрашиваемые документы частично или не соответствуют - 0 баллов (дисквалификация);\r\n/\r\nIshtirokchi malakali xodimlar ro‘yxatini (xodimlarning CVlari), xodimlarning tibbiy kartalarini, ultratovush yordamida qalinlikni o‘lchash (UTQO) bo‘yicha inspeksiya ishlarini amalga oshirishda foydalaniladigan uskunalar ro‘yxatini hamda O‘zbekiston Respublikasida inspeksiya ishlarini amalga oshirish huquqini beruvchi Sanoat xavfsizligi davlat qo‘mitasi sertifikatini taqdim etishi lozim.\r\nTalab qilingan hujjatlar talablarga mos kelsa – 1 ball,\r\nTalab qilingan hujjatlar qisman yoki umuman talablarga mos kelmasa – 0 ball (diskvalifikatsiya).",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771703,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Подтверждающие документы (заключённые договоры и акты приёма-передачи)  / Tasdiqlovchi hujjatlar (tuzilgan shartnomalar va topshirish-qabul qilish dalolatnomalari) ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Участник должен иметь подтвержденный опыт оказания аналогичных услуг в течение последних 5 (пяти) лет.\r\nПодтверждающие документы (заключённые договоры и акты приёма-передачи) соответствуют – 1 балл;\r\nПодтверждающие документы (заключённые договоры и акты приёма-передачи) не соответствуют – 0 баллов (дисквалификация).\r\n/\r\nIshtirokchi so‘nggi 5 (besh) yil davomida shunga o‘xshash xizmatlarni ko‘rsatish bo‘yicha tasdiqlangan tajribaga ega bo‘lishi lozim.\r\nTasdiqlovchi hujjatlar (tuzilgan shartnomalar va topshirish-qabul qilish dalolatnomalari) talablarga mos kelsa – 1 ball,\r\nTasdiqlovchi hujjatlar (tuzilgan shartnomalar va topshirish-qabul qilish dalolatnomalari) talablarga mos kelmasa – 0 ball (diskvalifikatsiya).",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771704,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Запрашиваемые документы / Talab qilingan hujjatlar  ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Участник должен предоставить информацию о специально обученном персонале, прошедших аттестацию в области охраны труда и пожарной безопасности в соответствии с сертификатами OSHA или международно-признанными сертификатами\r\nЗапрошенные документы соответствуют - 1 балл;\r\nЗапрошенные документы частично или не соответствуют - 0 баллов (дисквалификация);\r\n/\r\nIshtirokchi mehnatni muhofaza qilish va yong‘in xavfsizligi sohasida attestatsiyadan o‘tgan, OSHA sertifikatlari yoki xalqaro miqyosda tan olingan sertifikatlarga ega bo‘lgan maxsus o‘qitilgan xodimlar to‘g‘risida ma’lumot taqdim etishi lozim.\r\nTalab qilingan hujjatlar talablarga mos kelsa – 1 ball,\r\nTalab qilingan hujjatlar qisman yoki umuman talablarga mos kelmasa – 0 ball (diskvalifikatsiya).",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771705,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Процедура / Protsedura ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Участник должен предоставить Заказчику процедуру проведения контроля методом PAUT\r\nПроцедура предоставлена - 1 балл;\r\nПроцедура не предоставлена - 0 баллов (дисквалификация);\r\n/\r\nIshtirokchi ultratovush yordamida qalinlikni o‘lchash (UTQO) bo‘yicha batafsil protsedurani taqdim etishi lozim.\r\nProtsedura taqdim etilgan – 1 ball,\r\nProtsedura taqdim etilmagan – 0 ball (diskvalifikatsiya).",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771706,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Запрошенные документы / Talab qilingan hujjatlar  ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Участник должен предоставить детальную информацию о калибровочных блоках, используемых для калибровки, а также сертификат калибровки оборудования\r\nЗапрашиваемые документы соответствуют - 1 балл;\r\nЗапрашиваемые документы частично или не соответствуют - 0 баллов (дисквалификация);\r\n/\r\nIshtirokchi kalibrlash uchun foydalaniladigan kalibrlash bloklari to‘g‘risida batafsil ma’lumotni hamda uskunalarning kalibrlash sertifikatini taqdim etishi lozim.\r\nTalab qilingan hujjatlar talablarga mos kelsa – 1 ball,\r\nTalab qilingan hujjatlar qisman yoki umuman talablarga mos kelmasa – 0 ball (diskvalifikatsiya).",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771707,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Запрашиваемые документы / Talab qilingan hujjatlar  ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Участник должен предоставить перечень оборудования, которые будут использоваться во время проведения инспекционных работ (модели и сертификаты оборудований)\r\nЗапрашиваемые документы соответствуют - 1 балл;\r\nЗапрашиваемые документы частично или не соответствуют - 0 баллов (дисквалификация);\r\n/\r\nIshtirokchi inspeksiya ishlarini amalga oshirish davomida foydalaniladigan uskunalar ro‘yxatini (uskunalarning modellari va sertifikatlari) taqdim etishi lozim.\r\nTalab qilingan hujjatlar talablarga mos kelsa – 1 ball,\r\nTalab qilingan hujjatlar qisman yoki umuman talablarga mos kelmasa – 0 ball (diskvalifikatsiya).",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771708,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Подтверждающие документы / Tasdiqlovchi hujjatlar  ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Специалисты, выполняющие работы, должны иметь сертификат уровня 2 по методам PAUT не менее 3 лет опыта работы. Специалисты, анализирующие результаты PAUT, должны иметь как минимум сертификат уровня 2, при этом окончательное заключение должно предоставляться специалистом уровня 3.\r\nПодтверждающие документы соответствуют - 1 балл;\r\nПодтверждающие документы частично или не соответствуют - 0 баллов (дисквалификация);\r\n/\r\nIshlarni bajaruvchi mutaxassislar PAUT usuli bo‘yicha kamida 2-darajali sertifikatga va mazkur usul bo‘yicha kamida 3 yillik ish tajribasiga ega bo‘lishi kerak. PAUT natijalarini tahlil qiluvchi mutaxassislar kamida 2-darajali sertifikatga ega bo‘lishi kerak, bunda yakuniy xulosa 3-darajali sertifikatga ega bo‘lgan mutaxassis tomonidan berilishi lozim.\r\nTasdiqlovchi hujjatlar belgilangan talablarga muvofiq — 1 ball;\r\nTasdiqlovchi hujjatlar belgilangan talablarga qisman muvofiq yoki muvofiq emas — 0 ball (diskvalifikatsiya);",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771709,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Подтверждающие документы / Tasdiqlovchi hujjatlar  ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Все специалисты, выполняющие анализ результатов PAUT и выдающие заключение, должны иметь не менее 5 лет опыта работы с данным методом.\r\nПодтверждающие документы соответствуют - 1 балл;\r\nПодтверждающие документы частично или не соответствуют - 0 баллов (дисквалификация);\r\n/\r\nPAUT natijalarini tahlil qiluvchi va xulosa beruvchi barcha mutaxassislar mazkur usul bo‘yicha kamida 5 yillik ish tajribasiga ega bo‘lishi kerak.\r\nTasdiqlovchi hujjatlar belgilangan talablarga muvofiq — 1 ball;\r\nTasdiqlovchi hujjatlar belgilangan talablarga qisman muvofiq yoki muvofiq emas — 0 ball (diskvalifikatsiya);",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2771710,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "min_score": 0.0,
+   "max_score": 1.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Заключение по результатам проведённого mock-up испытания  / O‘tkazilgan mock-up sinovi natijalari bo‘yicha xulosa  ",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 9.09,
+   "description": "Проведение mock-up испытания должно осуществляться на основе специально подготовленного образца. \r\nMock-up испытание должно быть проведено на специально подготовленном образце на территории завода ООО «Uzbekistan GTL» по адресу: Республика Узбекистан, Кашкадарьинская область, Нишанский район, МСГ «Нишан», ул. Нишан Ок-Олтин, дом 62.\r\nДля согласования даты и организации проведения испытания участник может связаться со следующими контактными лицами:\r\nСултанов Бехзод, тел.: +998 99 837 58 34;\r\nАзимов Салохиддин, тел.: +998 91 955 77 15.\r\nУчастники, ранее выполнявшие идентичную услугу на заводе ООО «Uzbekistan GTL», должны предоставить заключение по результатам проведённого испытания.\r\n\r\nПолучено положительное заключение по результатам проведённого mock-up испытания — 1 балл.\r\n\r\nПолучено отрицательное заключение по результатам проведённого mock-up испытания либо испытание не проведено — 0 баллов (дисквалификация).\r\n/\r\nMock-up sinovi maxsus tayyorlangan namunada «Uzbekistan GTL» MChJ zavodi hududida quyidagi manzilda o‘tkazilishi lozim: O‘zbekiston Respublikasi, Qashqadaryo viloyati, Nishon tumani, «Nishon» MFY, Nishon Ok-Oltin ko‘chasi, 62-uy.\r\nSinovni o‘tkazish sanasini kelishish va uni tashkil etish uchun ishtirokchi quyidagi mas’ul shaxslar bilan bog‘lanishi mumkin:\r\nSultonov Bekhzod, tel.: +998 99 837 58 34;\r\nAzimov Salohiddin, tel.: +998 91 955 77 15.\r\nIlgari «Uzbekistan GTL» MChJ zavodida aynan shunday xizmatlarni bajargan ishtirokchilar o‘tkazilgan mock-up sinovi natijalari bo‘yicha xulosani taqdim etishlari lozim.\r\nO‘tkazilgan mock-up sinovi natijalari bo‘yicha ijobiy xulosa olingan — 1 ball.\r\nO‘tkazilgan mock-up sinovi natijalari bo‘yicha salbiy xulosa olingan yoki sinov o‘tkazilmagan — 0 ball (diskvalifikatsiya).",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 1.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2771700,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Форма №1 и запрашиваемые документы  / 1-sonli shakl va so‘ralgan hujjatlar   \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Предоставление Формы анкеты Контрагента и полного пакета требуемых документов согласно политике комплаенса Заказчика - участник должен предоставить заполненную форму и запрашиваемые документы согласно Форме № 1 Закупочной документации. \\r\\n(Процедура проверки контрагентов осуществляется согласно Приложению №2 к Закупочной документации.)\\r\\nФорма №1 и запрашиваемые документы соответствуют, получено положительное заключение по результатам проверки – 1 балл;\\r\\nФорма №1 и/или запрашиваемые документы не соответствуют и/или получено отрицательное заключение по результатам проверки – 0 баллов (дисквалификация).\\r\\n/\\r\\nKontragent anketasi shaklini va talab etilgan hujjatlarni taqdim etish — ishtirokchi xarid hujjatlarida ko‘rsatilgan 1-sonli shaklga muvofiq to‘ldirilgan shakl hamda unda nazarda tutilgan barcha hujjatlarni taqdim etishi shart. (Kontragentlarni tekshirish taomili Xarid qilish hujjatlariga 2-ilovaga muvofiq amalga oshiriladi.)\\r\\n1-sonli shakl va so‘ralgan hujjatlar to‘g‘ri keladi, tekshiruv natijalari bo‘yicha ijobiy xulosa olingan - 1 ball;\\r\\n1-sonli shakl va/yoki so‘ralgan hujjatlar muvofiq emas va/yoki tekshirish natijalari bo‘yicha salbiy xulosa olingan - 0 ball (diskvalifikatsiya).\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771701,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Форма №2 (Техническое предложение) / 2-sonli shakl (Texnik taklif)  \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Предоставление Технического предложения – участник должен предоставить заполненную форму согласно Форме № 2 Закупочной документации\\r\\nТехническое предложение соответствует требованиям Технического задания – 1 балл;\\r\\nТехническое предложение не соответствует требованиям Технического задания – 0 баллов (дисквалификация).\\r\\n/\\r\\nIshtirokchining taklifi Texnik topshiriq talablariga muvofiqligi — ishtirokchi xarid hujjatlarida ko‘rsatilgan 2-sonli shaklga muvofiq to‘ldirilgan shaklni taqdim etishi shart. Ushbu shaklda taklif Buyurtmaning texnik topshiriqdagi shartlariga to‘liq mos ekani va texnik topshiriqda keltirilgan barcha shartlarni qabul qilishini tasdiqlashi lozim.\\r\\nTexnik taklif Texnik topshiriqdagi talablarga mos kelsa – 1 ball,\\r\\nTexnik taklif Texnik topshiriqdagi talablarga mos kelmasa – 0 ball (diskvalifikatsiya).\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771702,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Запрашиваемые документы / Talab qilingan hujjatlar  \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Участник должен предоставить список квалифицированного персонала (CV сотрудников), медицинские карточки сотрудников, перечень используемого оборудования для проведения инспекционных работ по ультразвуковому измерению толщины (УЗТ), сертификат Госкомпром Безопасности, позволяющий проводить инспекционные работы в Республике Узбекистан\\r\\nЗапрашиваемые документы соответствуют - 1 балл;\\r\\nЗапрашиваемые документы частично или не соответствуют - 0 баллов (дисквалификация);\\r\\n/\\r\\nIshtirokchi malakali xodimlar ro‘yxatini (xodimlarning CVlari), xodimlarning tibbiy kartalarini, ultratovush yordamida qalinlikni o‘lchash (UTQO) bo‘yicha inspeksiya ishlarini amalga oshirishda foydalaniladigan uskunalar ro‘yxatini hamda O‘zbekiston Respublikasida inspeksiya ishlarini amalga oshirish huquqini beruvchi Sanoat xavfsizligi davlat qo‘mitasi sertifikatini taqdim etishi lozim.\\r\\nTalab qilingan hujjatlar talablarga mos kelsa – 1 ball,\\r\\nTalab qilingan hujjatlar qisman yoki umuman talablarga mos kelmasa – 0 ball (diskvalifikatsiya).\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771703,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Подтверждающие документы (заключённые договоры и акты приёма-передачи)  / Tasdiqlovchi hujjatlar (tuzilgan shartnomalar va topshirish-qabul qilish dalolatnomalari) \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Участник должен иметь подтвержденный опыт оказания аналогичных услуг в течение последних 5 (пяти) лет.\\r\\nПодтверждающие документы (заключённые договоры и акты приёма-передачи) соответствуют – 1 балл;\\r\\nПодтверждающие документы (заключённые договоры и акты приёма-передачи) не соответствуют – 0 баллов (дисквалификация).\\r\\n/\\r\\nIshtirokchi so‘nggi 5 (besh) yil davomida shunga o‘xshash xizmatlarni ko‘rsatish bo‘yicha tasdiqlangan tajribaga ega bo‘lishi lozim.\\r\\nTasdiqlovchi hujjatlar (tuzilgan shartnomalar va topshirish-qabul qilish dalolatnomalari) talablarga mos kelsa – 1 ball,\\r\\nTasdiqlovchi hujjatlar (tuzilgan shartnomalar va topshirish-qabul qilish dalolatnomalari) talablarga mos kelmasa – 0 ball (diskvalifikatsiya).\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771704,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Запрашиваемые документы / Talab qilingan hujjatlar  \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Участник должен предоставить информацию о специально обученном персонале, прошедших аттестацию в области охраны труда и пожарной безопасности в соответствии с сертификатами OSHA или международно-признанными сертификатами\\r\\nЗапрошенные документы соответствуют - 1 балл;\\r\\nЗапрошенные документы частично или не соответствуют - 0 баллов (дисквалификация);\\r\\n/\\r\\nIshtirokchi mehnatni muhofaza qilish va yong‘in xavfsizligi sohasida attestatsiyadan o‘tgan, OSHA sertifikatlari yoki xalqaro miqyosda tan olingan sertifikatlarga ega bo‘lgan maxsus o‘qitilgan xodimlar to‘g‘risida ma’lumot taqdim etishi lozim.\\r\\nTalab qilingan hujjatlar talablarga mos kelsa – 1 ball,\\r\\nTalab qilingan hujjatlar qisman yoki umuman talablarga mos kelmasa – 0 ball (diskvalifikatsiya).\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771705,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Процедура / Protsedura \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Участник должен предоставить Заказчику процедуру проведения контроля методом PAUT\\r\\nПроцедура предоставлена - 1 балл;\\r\\nПроцедура не предоставлена - 0 баллов (дисквалификация);\\r\\n/\\r\\nIshtirokchi ultratovush yordamida qalinlikni o‘lchash (UTQO) bo‘yicha batafsil protsedurani taqdim etishi lozim.\\r\\nProtsedura taqdim etilgan – 1 ball,\\r\\nProtsedura taqdim etilmagan – 0 ball (diskvalifikatsiya).\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771706,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Запрошенные документы / Talab qilingan hujjatlar  \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Участник должен предоставить детальную информацию о калибровочных блоках, используемых для калибровки, а также сертификат калибровки оборудования\\r\\nЗапрашиваемые документы соответствуют - 1 балл;\\r\\nЗапрашиваемые документы частично или не соответствуют - 0 баллов (дисквалификация);\\r\\n/\\r\\nIshtirokchi kalibrlash uchun foydalaniladigan kalibrlash bloklari to‘g‘risida batafsil ma’lumotni hamda uskunalarning kalibrlash sertifikatini taqdim etishi lozim.\\r\\nTalab qilingan hujjatlar talablarga mos kelsa – 1 ball,\\r\\nTalab qilingan hujjatlar qisman yoki umuman talablarga mos kelmasa – 0 ball (diskvalifikatsiya).\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771707,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Запрашиваемые документы / Talab qilingan hujjatlar  \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Участник должен предоставить перечень оборудования, которые будут использоваться во время проведения инспекционных работ (модели и сертификаты оборудований)\\r\\nЗапрашиваемые документы соответствуют - 1 балл;\\r\\nЗапрашиваемые документы частично или не соответствуют - 0 баллов (дисквалификация);\\r\\n/\\r\\nIshtirokchi inspeksiya ishlarini amalga oshirish davomida foydalaniladigan uskunalar ro‘yxatini (uskunalarning modellari va sertifikatlari) taqdim etishi lozim.\\r\\nTalab qilingan hujjatlar talablarga mos kelsa – 1 ball,\\r\\nTalab qilingan hujjatlar qisman yoki umuman talablarga mos kelmasa – 0 ball (diskvalifikatsiya).\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771708,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Подтверждающие документы / Tasdiqlovchi hujjatlar  \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Специалисты, выполняющие работы, должны иметь сертификат уровня 2 по методам PAUT не менее 3 лет опыта работы. Специалисты, анализирующие результаты PAUT, должны иметь как минимум сертификат уровня 2, при этом окончательное заключение должно предоставляться специалистом уровня 3.\\r\\nПодтверждающие документы соответствуют - 1 балл;\\r\\nПодтверждающие документы частично или не соответствуют - 0 баллов (дисквалификация);\\r\\n/\\r\\nIshlarni bajaruvchi mutaxassislar PAUT usuli bo‘yicha kamida 2-darajali sertifikatga va mazkur usul bo‘yicha kamida 3 yillik ish tajribasiga ega bo‘lishi kerak. PAUT natijalarini tahlil qiluvchi mutaxassislar kamida 2-darajali sertifikatga ega bo‘lishi kerak, bunda yakuniy xulosa 3-darajali sertifikatga ega bo‘lgan mutaxassis tomonidan berilishi lozim.\\r\\nTasdiqlovchi hujjatlar belgilangan talablarga muvofiq — 1 ball;\\r\\nTasdiqlovchi hujjatlar belgilangan talablarga qisman muvofiq yoki muvofiq emas — 0 ball (diskvalifikatsiya);\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771709,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Подтверждающие документы / Tasdiqlovchi hujjatlar  \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Все специалисты, выполняющие анализ результатов PAUT и выдающие заключение, должны иметь не менее 5 лет опыта работы с данным методом.\\r\\nПодтверждающие документы соответствуют - 1 балл;\\r\\nПодтверждающие документы частично или не соответствуют - 0 баллов (дисквалификация);\\r\\n/\\r\\nPAUT natijalarini tahlil qiluvchi va xulosa beruvchi barcha mutaxassislar mazkur usul bo‘yicha kamida 5 yillik ish tajribasiga ega bo‘lishi kerak.\\r\\nTasdiqlovchi hujjatlar belgilangan talablarga muvofiq — 1 ball;\\r\\nTasdiqlovchi hujjatlar belgilangan talablarga qisman muvofiq yoki muvofiq emas — 0 ball (diskvalifikatsiya);\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2771710,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":1.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Заключение по результатам проведённого mock-up испытания  / O‘tkazilgan mock-up sinovi natijalari bo‘yicha xulosa  \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":9.09,\"Description\":\"Проведение mock-up испытания должно осуществляться на основе специально подготовленного образца. \\r\\nMock-up испытание должно быть проведено на специально подготовленном образце на территории завода ООО «Uzbekistan GTL» по адресу: Республика Узбекистан, Кашкадарьинская область, Нишанский район, МСГ «Нишан», ул. Нишан Ок-Олтин, дом 62.\\r\\nДля согласования даты и организации проведения испытания участник может связаться со следующими контактными лицами:\\r\\nСултанов Бехзод, тел.: +998 99 837 58 34;\\r\\nАзимов Салохиддин, тел.: +998 91 955 77 15.\\r\\nУчастники, ранее выполнявшие идентичную услугу на заводе ООО «Uzbekistan GTL», должны предоставить заключение по результатам проведённого испытания.\\r\\n\\r\\nПолучено положительное заключение по результатам проведённого mock-up испытания — 1 балл.\\r\\n\\r\\nПолучено отрицательное заключение по результатам проведённого mock-up испытания либо испытание не проведено — 0 баллов (дисквалификация).\\r\\n/\\r\\nMock-up sinovi maxsus tayyorlangan namunada «Uzbekistan GTL» MChJ zavodi hududida quyidagi manzilda o‘tkazilishi lozim: O‘zbekiston Respublikasi, Qashqadaryo viloyati, Nishon tumani, «Nishon» MFY, Nishon Ok-Oltin ko‘chasi, 62-uy.\\r\\nSinovni o‘tkazish sanasini kelishish va uni tashkil etish uchun ishtirokchi quyidagi mas’ul shaxslar bilan bog‘lanishi mumkin:\\r\\nSultonov Bekhzod, tel.: +998 99 837 58 34;\\r\\nAzimov Salohiddin, tel.: +998 91 955 77 15.\\r\\nIlgari «Uzbekistan GTL» MChJ zavodida aynan shunday xizmatlarni bajargan ishtirokchilar o‘tkazilgan mock-up sinovi natijalari bo‘yicha xulosani taqdim etishlari lozim.\\r\\nO‘tkazilgan mock-up sinovi natijalari bo‘yicha ijobiy xulosa olingan — 1 ball.\\r\\nO‘tkazilgan mock-up sinovi natijalari bo‘yicha salbiy xulosa olingan yoki sinov o‘tkazilmagan — 0 ball (diskvalifikatsiya).\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":1.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1111697,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111698,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111699,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111700,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111701,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111702,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111703,
+   "name": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "order_num": 7,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111704,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 8,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111705,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 9,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1111706,
+   "name": "Молиявий ҳисоботлар*\n(ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда): \n1. Бухгалтерия баланси\n",
+   "order_num": 10,
+   "description": null,
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1111697,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111698,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111699,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111700,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111701,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111702,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111703,\"Name\":\"Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.\",\"Order_Num\":7,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111704,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":8,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111705,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":9,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1111706,\"Name\":\"Молиявий ҳисоботлар*\\n(ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда): \\n1. Бухгалтерия баланси\\n\",\"Order_Num\":10,\"Description\":null,\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 41385,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "Кашкадарьинская область",
+ "delivering_district_name": "Нишанский район",
+ "delivering_address": "Нишон маҳалласи, Нишон ок-олтин кўчаси, 62-уй",
+ "delivering_phone": "712024080",
+ "addon_description": "-",
+ "technical_description": "Техническое задание и Закупочная документация",
+ "tech_coef": 0.0,
+ "cost_coef": 100.0,
+ "old_id": 522589,
+ "customer_region_name": "Qashqadaryo viloyati",
+ "customer_district_name": "Qashqadaryo viloyati",
+ "customer_street": "Nishon mahallasi, Nishon-oq oltin ko`chasi, 62-uy",
+ "customer_zip": "100090",
+ "min_point": 11,
+ "financing_source": null,
+ "currency_id": 14,
+ "currency_name": "Dollar",
+ "currency_code123": "840",
+ "currency_codeabc": "USD",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 257682.57,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082880,
+     "converted_price": 165.81,
+     "converted_cost": 257682.57
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 23436101.06,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082880,
+     "converted_price": 15081.14,
+     "converted_cost": 23436101.06
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 3410890148.54,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082880,
+     "converted_price": 2194910.0,
+     "converted_cost": 3410890148.54
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 283682.7,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082880,
+     "converted_price": 182.55,
+     "converted_cost": 283682.7
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 0,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}

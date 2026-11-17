@@ -1,0 +1,571 @@
+{
+ "id": 524593,
+ "display_no": "26110012524593",
+ "start_date": "2026-11-16T18:17:56",
+ "end_date": "2026-11-23T18:17:56",
+ "clarific_date": "2026-11-23T18:17:56",
+ "start_cost": 236843054.0,
+ "valuation_id": 2,
+ "valuation_name": "Ball usuli",
+ "products": null,
+ "budget_products": "[{\"Id\":2082230,\"Order_Num\":1,\"Category_Id\":126916,\"Plangraph_Detail_Id\":24167260,\"Product_Id\":675963,\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":236843054,\"Cost\":236843054,\"Description\":\"Услуга по разработке технико-экономического расчета\",\"Expenditure_Id\":44299990,\"Expenditure_Name\":\"Прочие расходы на приобретение товаров и услуг\",\"Plan_Id\":9911625,\"Plan_Position_Id\":0,\"Month_Id\":10,\"Month_Name\":\"Oktyabr\",\"Product_Code\":\"72.19.29.190-00006\",\"Guarantee_Term\":1,\"Delivery_Term\":65,\"Term_Period_Name\":\"Год (лет)\",\"Term_Period_Id\":3,\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0,\"Days_Per_Unit\":0,\"Coef_Per_Unit\":0,\"Category_Name\":\"Илмий тадқиқотлар ва тажриба ишланмалари билан боғлиқ хизматлар ва ишлар\",\"Product_Name\":\"Техник иқтисодий ҳисоб-китобни ишлаб чиқиш хизмати\",\"Js_Properties\":[{\"Property_Name\":\"Ўлчов бирлиги\",\"User_Value\":\"шартли бирлик\",\"User_Value_Id\":0,\"Pnum\":0}]}]",
+ "consider": null,
+ "consider_procedure": "Elektron ko'rinishda",
+ "description": null,
+ "pledge_name": "Zakalat talab etiladi",
+ "pledge_value": 3.0,
+ "advance_payment_perc": 30.0,
+ "term_payment_days": 60,
+ "term_online_days": 5,
+ "type_name": "Eng yaxshi takliflarni tanlash",
+ "status_id": 4,
+ "status_name": "Eʼlon qilindi",
+ "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":4,\"Name\":\"Узбекский К\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+ "contacts": "[{\"Job_title\":\"Xarid hayati kotibi\",\"Fullname\":\"Djurayev Akmal\"}]",
+ "rest_time": 501145,
+ "customer_name": "Сув хужалигини ракамлаштириш ва мониторинг маркази",
+ "customer_tin": "202355801",
+ "payment_type_name": "Oldindan to'lov",
+ "tech_file_name": "202610233953125402.pdf",
+ "tech_file_path": "/files/2026/10/23/202610233953125402.pdf",
+ "tech_file_ext": "PDF",
+ "tech_file_sizes": 624282.0,
+ "tech_doc_file_name": "20260511072422522557.pdf",
+ "tech_doc_file_path": "files/2026/11/5/20260511072422522557.pdf",
+ "tech_doc_file_ext": "PDF",
+ "tech_doc_file_sizes": 300067.0,
+ "add_file_name": null,
+ "add_file_path": null,
+ "add_file_ext": null,
+ "contract_proform_file_name": "202610233953196311.docx",
+ "contract_proform_file_path": "/files/2026/10/23/202610233953196311.docx",
+ "contract_proform_file_ext": "DOCX",
+ "contract_proform_file_sizes": 52012.0,
+ "contract_file_name": null,
+ "contract_file_path": null,
+ "contract_file_ext": null,
+ "contract_file_sizes": null,
+ "contract_file_date": null,
+ "expertise_file_name": null,
+ "expertise_file_path": null,
+ "expertise_file_ext": null,
+ "expertise_file_sizes": null,
+ "tax_type_id": 1,
+ "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+ "authorized_count": 3,
+ "nonauthorized_count": 598,
+ "deal_status": null,
+ "deal_rejected_file_path": null,
+ "deal_rejected_file_date": null,
+ "prolong_reason": null,
+ "js_fields": [
+  {
+   "id": 2770895,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": false,
+   "is_file_required": true,
+   "file_name": "Ishtirokchi tomonidan amalga oshirilgan loyihalar yuzasidan tavsiya va minnatdorchilik xatlari soni",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Ishtirokchi tomonidan amalga oshirilgan loyihalar yuzasidan tavsiya va minnatdorchilik xatlari soni.\r\nTasdiqlangan tavsiya va minnatdorchilik xatlari elektron nusxalari biriktiriladi. \r\nTaqdim etilmasa yoki mavjud bo‘lmasa 0 ball.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "5 ta va undan yuqori"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "3 tadan 5 tagacha"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "1 tadan 2 tagach "
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770896,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Tanlov predmetiga o‘xshash loyihalarni muvaffaqiyatli amalga oshirganligi",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Ishtirokchi kamida oxirgi 5 yil davomida energetika, sanoat va/yoki suv xo‘jaligi obyektlari uchun (avtomatlashtirish, raqamlashtirish) tizimlarini o‘z ichiga olgan kamida 5 va undan ortiq tanlov predmetiga o‘xshash loyihalarni muvaffaqiyatli amalga oshirgan bo‘lishi kerak. \r\nAmalga oshirilgan ishlarni tasdiqlovchi hujjatlar taqdim etiladi.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 4.0,
+     "description": "1 ta tanlov predmetiga o‘xshash turdagi loyihalarni amalga oshirgan bo‘lsa 4 ball;"
+    },
+    {
+     "field_id": null,
+     "value": 8.0,
+     "description": "3 ta tanlov predmetiga o‘xshash turdagi loyihalarni amalga oshirgan bo‘lsa 12 ball;"
+    },
+    {
+     "field_id": null,
+     "value": 16.0,
+     "description": "4 ta tanlov predmetiga o‘xshash turdagi loyihalarni amalga oshirgan bo‘lsa 16 ball;"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "5 va undan ortiq tanlov predmetiga o‘xshash turdagi loyihalarni amalga oshirgan bo‘lsa 20 ball;"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770897,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Ishtirokchining amaldagi quyida belgilangan litsenziya va sertifikatlari mavjudligi",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Ishtirokchining amaldagi quyida belgilangan litsenziya va sertifikatlari mavjud bo‘lishi kerak:\r\n1. Arxitektura va shaharsozlik hujjatlarini ishlab chiqish litsenziyasi;\r\n2. Geodeziya ishlarini bajarish litsenziyasi;\r\n3. ISO 9001:2015 Sifat menejmenti tizimi sertifikati.\r\nIshtirokchi tegishli litsenziya va sertifikatlari nus’xalarini taqdim etadi.\r\nTalab etilgan sertifikat yoki litsenziyalari mavjud bo‘lmasa yoki taqdim etilmasa 0 ball.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 6.0,
+     "description": "Amaldagi Arxitektura va shaharsozlik hujjatlarini ishlab chiqish litsenziyasi bo‘lsa 6 ball;"
+    },
+    {
+     "field_id": null,
+     "value": 13.0,
+     "description": "Amaldagi Arxitektura va shaharsozlik hujjatlarini ishlab chiqish litsenziyasi va Geodeziya ishlarini bajarish litsenziyasi yoki ISO 9001:2015 Sifat menejmenti tizimi sertifikati  bo‘lsa 13 ball;"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Amaldagi Arxitektura va shaharsozlik hujjatlarini ishlab chiqish litsenziyasi, Geodeziya ishlarini bajarish litsenziyasi va ISO 9001:2015 Sifat menejmenti tizimi sertifikati bo‘lsa 20 ball;"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770898,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Texnik topshiriq bilan tanishib chiqqanligi va unda belgilangan vazifalarni to‘liq va sifatli bajarish bo‘yicha kafolat xati.",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Texnik topshiriq bilan tanishib chiqqanligi va unda belgilangan vazifalarni to‘liq va sifatli bajarish bo‘yicha kafolat xati. Shuningdek texnik taklif 6 shaklga muvofiq.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Макс. балл по критерию"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  },
+  {
+   "id": 2770899,
+   "type_name": "TEXT_STRING",
+   "label_type_name": "Текстовое значение",
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "min_score": 0.0,
+   "max_score": 20.0,
+   "is_required": true,
+   "is_file_required": true,
+   "file_name": "Xodimlarga qo'yilgan talablar",
+   "rate_id": null,
+   "rate_name": "Экспертная",
+   "attributes": {
+    "type_name": null,
+    "value": null,
+    "min_value": null,
+    "max_value": null,
+    "unit_cl_id": null,
+    "unit_cl_value_name": null
+   },
+   "control": {
+    "id": null,
+    "display_name": null,
+    "type_name": null,
+    "yes_text": null,
+    "no_text": null
+   },
+   "gravity": 20.0,
+   "description": "Ishtirokchining loyihalash, muhandislik va texnik sohalardagi xodimlarning umumiy soni. Jamoa tarkibida, yo’nalish bo‘yicha 5 yildan kam bo'lmagan umumiy ish tajribasiga ega quyidagi asosiy mutaxassislar bo‘lishi: \r\n1. loyihalash bo‘yicha Bosh mutaxassis/muhandis; \r\n2. suv xo‘jaligi/gidrotexnika yo’nalishi bo’yicha mutaxassis;\r\n3. Bosh iqtisodchi/moliyachi/smetachi\r\n4. IT tizimlar va dasturiy ta’minot bo‘yicha mutaxassis; \r\n5. avtomatlashtirish (SCADA/IoT) yo’nalishi bo’yicha muhandis.\r\nO‘zbekiston Respublikasi rezidentlari uchun Har bir xodimning ma’lumoti yagona mehnat tizimi orqali olingan ma’umotlar bilan tasdiqlanishi shart va mutaxassisligi bo'yicha alohida ajratib berilishi kerak.\r\nO‘zbekiston Respublikasining norezidentlari uchun yuqorida talab etilgan xodimlar bo’yicha ma’lumotlar, ishtirokchi tomonidan asoslantirilgan (mehnat faoliyatini tasdiqlovchi hujjatlar, ish beruvchi ma’lumotnomasi yoki boshqa rasmiy hujjatlar) holda tasdiqlanishi shart. \r\nO‘zbekiston rezidentlari taklifda xodimlar mehnat daftarchasi yagona mehnat tizimi orqali olingan ma’lumot olinganlik muddati Tanlov e’lon qilingan muddatdan 20 kun oldin bo‘lmasligi kerak.\r\nIshtirokchilar 0 ball bilan baxolanadi agar:\r\n- O‘zbekiston rezidentlari xodimlarining mehnat daftarchasi yagona mehnat tizimi orqali taqdim etilmasa yoki umuman ma’lumot taqdim etilmasa;\r\n- O‘zbekiston Respublikasining norezidentlari xodimlari bo’yicha ma’lumotlar, asoslantirilgan (mehnat faoliyatini tasdiqlovchi hujjatlar, ish beruvchi ma’lumotnomasi yoki boshqa rasmiy hujjatlar) holda taqdim etilmasa.",
+   "form_option_attribute_name": null,
+   "min_value": null,
+   "max_value": null,
+   "t_value": null,
+   "secretary_note": null,
+   "user_file": null,
+   "js_user_criteria": null,
+   "user_criteria": [
+    {
+     "field_id": null,
+     "value": 0.0,
+     "description": "Мин. балл критерию"
+    },
+    {
+     "field_id": null,
+     "value": 3.0,
+     "description": "Asosiy mutaxassislar belgilangan me’yordan kam bo‘lsa quyidagicha ball kamaytiriladi:\r\n IT tizimlar va dasturiy ta’minot bo‘yicha mutaxassis – (- 3 ball); \r\n  Аvtomatlashtirish (SCADA/IoT) muhandisi – (- 3 ball).\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 5.0,
+     "description": "Asosiy mutaxassislar belgilangan me’yordan kam bo‘lsa quyidagicha ball kamaytiriladi: \r\n  loyihalash bo‘yicha Bosh mutaxassis/muhandis – (- 5 ball); \r\n  Suv xo‘jaligi/gidrotexnika mutaxassisi – \r\n(-5 ball);\r\n  Bosh iqtisodchi/moliyachi/smetachi – (-5 ball);"
+    },
+    {
+     "field_id": null,
+     "value": 10.0,
+     "description": "Mutaxassislar soni mos bo‘lib ish tajribasi:\r\n 2 yil va undan kam bolsa 10 ball.\r\n"
+    },
+    {
+     "field_id": null,
+     "value": 15.0,
+     "description": "Mutaxassislar soni mos bo‘lib ish tajribasi:\r\n 5 yildan kam 2 yildan ko‘p bo‘lsa 15 ball;"
+    },
+    {
+     "field_id": null,
+     "value": 20.0,
+     "description": "Xodimlar soni va ish tajribasi mos bo‘lsa 20 ball"
+    }
+   ],
+   "form_name": null,
+   "form_file_path": null
+  }
+ ],
+ "fields": "[{\"Id\":2770895,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":false,\"Is_File_Required\":true,\"File_Name\":\"Ishtirokchi tomonidan amalga oshirilgan loyihalar yuzasidan tavsiya va minnatdorchilik xatlari soni\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Ishtirokchi tomonidan amalga oshirilgan loyihalar yuzasidan tavsiya va minnatdorchilik xatlari soni.\\r\\nTasdiqlangan tavsiya va minnatdorchilik xatlari elektron nusxalari biriktiriladi. \\r\\nTaqdim etilmasa yoki mavjud bo‘lmasa 0 ball.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"5 ta va undan yuqori\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"3 tadan 5 tagacha\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"1 tadan 2 tagach \"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770896,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Tanlov predmetiga o‘xshash loyihalarni muvaffaqiyatli amalga oshirganligi\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Ishtirokchi kamida oxirgi 5 yil davomida energetika, sanoat va/yoki suv xo‘jaligi obyektlari uchun (avtomatlashtirish, raqamlashtirish) tizimlarini o‘z ichiga olgan kamida 5 va undan ortiq tanlov predmetiga o‘xshash loyihalarni muvaffaqiyatli amalga oshirgan bo‘lishi kerak. \\r\\nAmalga oshirilgan ishlarni tasdiqlovchi hujjatlar taqdim etiladi.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":4.0,\"Description\":\"1 ta tanlov predmetiga o‘xshash turdagi loyihalarni amalga oshirgan bo‘lsa 4 ball;\"},{\"Field_Id\":null,\"Value\":8.0,\"Description\":\"3 ta tanlov predmetiga o‘xshash turdagi loyihalarni amalga oshirgan bo‘lsa 12 ball;\"},{\"Field_Id\":null,\"Value\":16.0,\"Description\":\"4 ta tanlov predmetiga o‘xshash turdagi loyihalarni amalga oshirgan bo‘lsa 16 ball;\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"5 va undan ortiq tanlov predmetiga o‘xshash turdagi loyihalarni amalga oshirgan bo‘lsa 20 ball;\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770897,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Ishtirokchining amaldagi quyida belgilangan litsenziya va sertifikatlari mavjudligi\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Ishtirokchining amaldagi quyida belgilangan litsenziya va sertifikatlari mavjud bo‘lishi kerak:\\r\\n1. Arxitektura va shaharsozlik hujjatlarini ishlab chiqish litsenziyasi;\\r\\n2. Geodeziya ishlarini bajarish litsenziyasi;\\r\\n3. ISO 9001:2015 Sifat menejmenti tizimi sertifikati.\\r\\nIshtirokchi tegishli litsenziya va sertifikatlari nus’xalarini taqdim etadi.\\r\\nTalab etilgan sertifikat yoki litsenziyalari mavjud bo‘lmasa yoki taqdim etilmasa 0 ball.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":6.0,\"Description\":\"Amaldagi Arxitektura va shaharsozlik hujjatlarini ishlab chiqish litsenziyasi bo‘lsa 6 ball;\"},{\"Field_Id\":null,\"Value\":13.0,\"Description\":\"Amaldagi Arxitektura va shaharsozlik hujjatlarini ishlab chiqish litsenziyasi va Geodeziya ishlarini bajarish litsenziyasi yoki ISO 9001:2015 Sifat menejmenti tizimi sertifikati  bo‘lsa 13 ball;\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Amaldagi Arxitektura va shaharsozlik hujjatlarini ishlab chiqish litsenziyasi, Geodeziya ishlarini bajarish litsenziyasi va ISO 9001:2015 Sifat menejmenti tizimi sertifikati bo‘lsa 20 ball;\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770898,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Texnik topshiriq bilan tanishib chiqqanligi va unda belgilangan vazifalarni to‘liq va sifatli bajarish bo‘yicha kafolat xati.\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Texnik topshiriq bilan tanishib chiqqanligi va unda belgilangan vazifalarni to‘liq va sifatli bajarish bo‘yicha kafolat xati. Shuningdek texnik taklif 6 shaklga muvofiq.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null},{\"Id\":2770899,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар\",\"Min_Score\":0.0,\"Max_Score\":20.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Xodimlarga qo'yilgan talablar\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":20.0,\"Description\":\"Ishtirokchining loyihalash, muhandislik va texnik sohalardagi xodimlarning umumiy soni. Jamoa tarkibida, yo’nalish bo‘yicha 5 yildan kam bo'lmagan umumiy ish tajribasiga ega quyidagi asosiy mutaxassislar bo‘lishi: \\r\\n1. loyihalash bo‘yicha Bosh mutaxassis/muhandis; \\r\\n2. suv xo‘jaligi/gidrotexnika yo’nalishi bo’yicha mutaxassis;\\r\\n3. Bosh iqtisodchi/moliyachi/smetachi\\r\\n4. IT tizimlar va dasturiy ta’minot bo‘yicha mutaxassis; \\r\\n5. avtomatlashtirish (SCADA/IoT) yo’nalishi bo’yicha muhandis.\\r\\nO‘zbekiston Respublikasi rezidentlari uchun Har bir xodimning ma’lumoti yagona mehnat tizimi orqali olingan ma’umotlar bilan tasdiqlanishi shart va mutaxassisligi bo'yicha alohida ajratib berilishi kerak.\\r\\nO‘zbekiston Respublikasining norezidentlari uchun yuqorida talab etilgan xodimlar bo’yicha ma’lumotlar, ishtirokchi tomonidan asoslantirilgan (mehnat faoliyatini tasdiqlovchi hujjatlar, ish beruvchi ma’lumotnomasi yoki boshqa rasmiy hujjatlar) holda tasdiqlanishi shart. \\r\\nO‘zbekiston rezidentlari taklifda xodimlar mehnat daftarchasi yagona mehnat tizimi orqali olingan ma’lumot olinganlik muddati Tanlov e’lon qilingan muddatdan 20 kun oldin bo‘lmasligi kerak.\\r\\nIshtirokchilar 0 ball bilan baxolanadi agar:\\r\\n- O‘zbekiston rezidentlari xodimlarining mehnat daftarchasi yagona mehnat tizimi orqali taqdim etilmasa yoki umuman ma’lumot taqdim etilmasa;\\r\\n- O‘zbekiston Respublikasining norezidentlari xodimlari bo’yicha ma’lumotlar, asoslantirilgan (mehnat faoliyatini tasdiqlovchi hujjatlar, ish beruvchi ma’lumotnomasi yoki boshqa rasmiy hujjatlar) holda taqdim etilmasa.\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":3.0,\"Description\":\"Asosiy mutaxassislar belgilangan me’yordan kam bo‘lsa quyidagicha ball kamaytiriladi:\\r\\n IT tizimlar va dasturiy ta’minot bo‘yicha mutaxassis – (- 3 ball); \\r\\n  Аvtomatlashtirish (SCADA/IoT) muhandisi – (- 3 ball).\\r\\n\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Asosiy mutaxassislar belgilangan me’yordan kam bo‘lsa quyidagicha ball kamaytiriladi: \\r\\n  loyihalash bo‘yicha Bosh mutaxassis/muhandis – (- 5 ball); \\r\\n  Suv xo‘jaligi/gidrotexnika mutaxassisi – \\r\\n(-5 ball);\\r\\n  Bosh iqtisodchi/moliyachi/smetachi – (-5 ball);\"},{\"Field_Id\":null,\"Value\":10.0,\"Description\":\"Mutaxassislar soni mos bo‘lib ish tajribasi:\\r\\n 2 yil va undan kam bolsa 10 ball.\\r\\n\"},{\"Field_Id\":null,\"Value\":15.0,\"Description\":\"Mutaxassislar soni mos bo‘lib ish tajribasi:\\r\\n 5 yildan kam 2 yildan ko‘p bo‘lsa 15 ball;\"},{\"Field_Id\":null,\"Value\":20.0,\"Description\":\"Xodimlar soni va ish tajribasi mos bo‘lsa 20 ball\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+ "js_qualification_fields": [
+  {
+   "id": 1110631,
+   "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "order_num": 1,
+   "description": "Shartnomani bajarish uchun moddiy, texnik va kadr tomonlma imkoniyati borligi to'g'risida kafolat xati va ilovadagi shakllar taqdim etiladi",
+   "file_path": "tender/user-files/2026/10/23/05b9cb1e-7cd1-4838-b806-0c9f3fd55f58.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110632,
+   "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+   "order_num": 2,
+   "description": "Davlat ro'yhatidan o'tganligi to'g'risida Guvohnoma va ustav",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110633,
+   "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "order_num": 3,
+   "description": "Soliq qo'mitasining axborot tizimidan ma'lumotnoma",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110634,
+   "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "order_num": 4,
+   "description": "my.gov.uz saytidan ma'lumotnoma",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110635,
+   "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "order_num": 5,
+   "description": "2 shaklga asosan kafolat xati, mib.uz  hamda xarid.uzex.uz saytidan skrinshot",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110636,
+   "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "order_num": 6,
+   "description": "mib.uz  saytidan skrinshot",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110637,
+   "name": "Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги",
+   "order_num": 7,
+   "description": "Affillanmaganligi va manfaatlar to'qnashuvi majud yoki mavjud emasligi to'g'risida xat",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110638,
+   "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+   "order_num": 8,
+   "description": "5 shaklga muvofiq ariza",
+   "file_path": "tender/user-files/2026/10/23/cef23aae-7439-4b08-b718-3592bd87bb4f.docx",
+   "file": null,
+   "is_disq": null
+  },
+  {
+   "id": 1110639,
+   "name": "Xorijiy davlatlar va xalqaro tashkilotlar tomonidan ishtirokchiga nisbatan sanksiya qo‘llanilmaganligi",
+   "order_num": 9,
+   "description": "Ishtirokchiga nisbatan saksiyalar joriy etilganligi yoki etilmaganligi to'g'risida xat",
+   "file_path": null,
+   "file": null,
+   "is_disq": null
+  }
+ ],
+ "qualification_fields": "[{\"Id\":1110631,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":\"Shartnomani bajarish uchun moddiy, texnik va kadr tomonlma imkoniyati borligi to'g'risida kafolat xati va ilovadagi shakllar taqdim etiladi\",\"File_Path\":\"tender/user-files/2026/10/23/05b9cb1e-7cd1-4838-b806-0c9f3fd55f58.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1110632,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":\"Davlat ro'yhatidan o'tganligi to'g'risida Guvohnoma va ustav\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110633,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"Soliq qo'mitasining axborot tizimidan ma'lumotnoma\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110634,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"my.gov.uz saytidan ma'lumotnoma\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110635,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"2 shaklga asosan kafolat xati, mib.uz  hamda xarid.uzex.uz saytidan skrinshot\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110636,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"mib.uz  saytidan skrinshot\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110637,\"Name\":\"Манфаатлар тўқнашуви ва аффилланганлик ҳолатлари мавжуд эмаслиги\",\"Order_Num\":7,\"Description\":\"Affillanmaganligi va manfaatlar to'qnashuvi majud yoki mavjud emasligi to'g'risida xat\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":1110638,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":8,\"Description\":\"5 shaklga muvofiq ariza\",\"File_Path\":\"tender/user-files/2026/10/23/cef23aae-7439-4b08-b718-3592bd87bb4f.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":1110639,\"Name\":\"Xorijiy davlatlar va xalqaro tashkilotlar tomonidan ishtirokchiga nisbatan sanksiya qo‘llanilmaganligi\",\"Order_Num\":9,\"Description\":\"Ishtirokchiga nisbatan saksiyalar joriy etilganligi yoki etilmaganligi to'g'risida xat\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null}]",
+ "is_local_manufacturs": true,
+ "seller_id": 43624,
+ "user_bid_status": 1,
+ "bid_date": null,
+ "bid_id": null,
+ "delivering_region_name": "город Ташкент",
+ "delivering_district_name": "Шайхантахурский район",
+ "delivering_address": "Лабзак 1А",
+ "delivering_phone": "977507177",
+ "addon_description": null,
+ "technical_description": "Texnik topshiriq",
+ "tech_coef": 70.0,
+ "cost_coef": 30.0,
+ "old_id": 522557,
+ "customer_region_name": "Toshkent shahri",
+ "customer_district_name": "Toshkent shahri",
+ "customer_street": "Тошкент ш. М.Улугбек т, К.Ниёзий 39А-уй",
+ "customer_zip": "00000",
+ "min_point": 60,
+ "financing_source": null,
+ "currency_id": 106,
+ "currency_name": "So'm",
+ "currency_code123": "860",
+ "currency_codeabc": "UZS",
+ "is_prolonged": false,
+ "prolong_date": null,
+ "prolonged_days": null,
+ "prolong_file_name": null,
+ "prolong_file_path": null,
+ "prolong_file_ext": null,
+ "prolong_file_sizes": null,
+ "protocol_file_name": null,
+ "protocol_file_path": null,
+ "protocol_file_ext": null,
+ "protocol_file_sizes": null,
+ "conclusion_file_name": null,
+ "conclusion_file_path": null,
+ "conclusion_file_ext": null,
+ "conclusion_file_sizes": null,
+ "additional_protocol_file_name": null,
+ "additional_protocol_file_path": null,
+ "additional_protocol_file_ext": null,
+ "additional_protocol_file_sizes": null,
+ "additional_agreement_file_name": null,
+ "additional_agreement_file_path": null,
+ "additional_agreement_file_ext": null,
+ "additional_agreement_file_sizes": null,
+ "deal_additional_file_name": null,
+ "deal_additional_file_path": null,
+ "deal_additional_file_ext": null,
+ "deal_additional_file_sizes": null,
+ "agreement_additional_file_name": null,
+ "agreement_additional_file_path": null,
+ "agreement_additional_file_ext": null,
+ "agreement_additional_file_sizes": null,
+ "archived_files": null,
+ "is_bank_guarantee": 0,
+ "participant_type_id": null,
+ "is_solar": 0,
+ "has_benefits": 0,
+ "has_qualification_fields": 1,
+ "proposal_converted_costs": [
+  {
+   "currency_id": 15,
+   "proposal_converted_cost": 17892.78,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082230,
+     "converted_price": 17892.78,
+     "converted_cost": 17892.78
+    }
+   ]
+  },
+  {
+   "currency_id": 20,
+   "proposal_converted_cost": 1627339.93,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082230,
+     "converted_price": 1627339.93,
+     "converted_cost": 1627339.93
+    }
+   ]
+  },
+  {
+   "currency_id": 14,
+   "proposal_converted_cost": 19698.16,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082230,
+     "converted_price": 19698.16,
+     "converted_cost": 19698.16
+    }
+   ]
+  },
+  {
+   "currency_id": 106,
+   "proposal_converted_cost": 236843054.0,
+   "converted_prices": [
+    {
+     "lot_detail_id": 2082230,
+     "converted_price": 236843054.0,
+     "converted_cost": 236843054.0
+    }
+   ]
+  }
+ ],
+ "additional_expenses": null,
+ "branch_name": null,
+ "can_send_objections": null,
+ "can_have_project_discussion": 1,
+ "incoterms": null,
+ "rate_rules_ver": 1
+}
