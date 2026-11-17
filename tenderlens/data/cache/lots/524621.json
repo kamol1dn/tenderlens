@@ -1,0 +1,180 @@
+{
+ "lot_id": 524621,
+ "display_no": "26110012524621",
+ "title": "Narpay tumani Sohibkor mahallasi hududida joylashgan tuman hokimligi zaxirasidagi 3,8 gektar bo‘sh yer maydonida 18 ta chorvachilik obuektlarini ichimlik suv bilan ta’minlash maqsadida suv inshooti qu",
+ "url": "https://etender.uzex.uz/lot/524621",
+ "customer": {
+  "name": "СувТаъминот Инжиниринг компанияси (Тадбиркорлик)",
+  "tin": "305979178"
+ },
+ "region": "Самарқанд вилояти",
+ "start_cost": 40600000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T18:37:45",
+ "end_date": "2026-11-20T18:37:45",
+ "clarific_date": "2026-11-20T18:37:45",
+ "type": "selection",
+ "old_id": 524455,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 20,
+  "criteria": [
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524621.pdf",
+  "pages": 3,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Chorvachilik obyektlarini ichimlik suvi bilan ta'minlash uchun suv inshootining loyiha-smeta hujjatlarini ishlab chiqish",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "Бюджет маблаги",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Narpay tumanidagi 18 ta chorvachilik obyektini ichimlik suvi bilan ta'minlaydigan suv inshooti uchun loyiha-smeta hujjatlarini ishlab chiqish.",
+   "summary_en": "Prepare design and cost-estimate documents for a water facility supplying drinking water to 18 livestock facilities in Narpay district.",
+   "quote": "suv inshooti qurish obyekti uchun loyixa smeta xujjatlarini ishlab chiqish",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Hujjatlardagi kamchiliklar uchun javobgarlik va ularni bepul qayta ishlab chiqish haqida kafolat xati taqdim etish (15 ball).",
+   "summary_en": "Submit a guarantee letter to be liable for defects in the documents and to redo them free of charge (15 points).",
+   "quote": "Bajaruvchi loyiha-smeta hujjatlari kamchiliklar uchun, shu jumladan keyinchalik qurilish jarayonida",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Diplomli injener-texnik xodimlar (bosh muhandis, bosh arxitektor va boshqalar) mavjudligi tasdiqlanishi kerak (20 ball).",
+   "summary_en": "Diploma-holding engineering staff (chief engineer, chief architect, etc.) must be shown (20 points).",
+   "quote": "diplomga ega injener-texnik xodimlarni mavjudligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Moddiy-texnik baza (ofis texnikasi, kompyuterlar, geodeziya asboblari) kadastr hujjati yoki ijara shartnomasi bilan tasdiqlanadi (15 ball).",
+   "summary_en": "Material and technical base (office equipment, computers, surveying instruments) is evidenced by a cadastre document or lease contract (15 points).",
+   "quote": "bino-inshoot kadastr hujjati nusxasi yoki ijara shartnomasi nusxasi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari mavjud bo'lishi shart.",
+   "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+   "summary_en": "No overdue tax or fee debt.",
+   "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reyestrida bo'lmasligi kerak.",
+   "summary_en": "The bidder must not be on the single register of unfair suppliers.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 95,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 5.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 6 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 0% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 50%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524455)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 6 deals the median number of bidders was 3; 0% of deals had two or fewer bidders; the most frequent winner took 50%.",
+   "This lot was re-announced (previous lot: 524455)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Soliq qarzdorligi yo'qligi va insofsiz ijrochilar reyestrida qayd etilmaganligi to'g'risida ma'lumotnoma",
+  "Hujjatlardagi kamchiliklar uchun javobgarlik va bepul qayta ishlab chiqish haqida kafolat xati",
+  "Diplomli injener-texnik xodimlar, loyiha bosh muhandisi va bosh arxitektori haqida ma'lumot, diplom va buyruq nusxalari",
+  "Moddiy-texnik baza bo'yicha ma'lumotnoma (kadastr hujjati yoki ijara shartnomasi, geodeziya asboblari)",
+  "Bajarish muddati bo'yicha taklif",
+  "Суралган хужжатлар такдим этилиши шарт"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 6,
+  "median_bidders": 3.0,
+  "share_le2_bidders": 0.0,
+  "top_winner_share": 0.5,
+  "share_price_drop_lt1pct": 0.5,
+  "reannounced_lots": 3
+ },
+ "money_on_table_uzs": 5724600.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

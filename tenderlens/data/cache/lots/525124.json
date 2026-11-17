@@ -1,0 +1,306 @@
+{
+ "lot_id": 525124,
+ "display_no": "26111006525124",
+ "title": "Тендер ЛОТ № 3 (ДНК) 2026-ноябрь",
+ "url": "https://etender.uzex.uz/lot/525124",
+ "customer": {
+  "name": "Республиканский центр судебной экспертизы",
+  "tin": "200794455"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 3500000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T11:08:01",
+ "end_date": "2026-12-03T11:08:01",
+ "clarific_date": "2026-12-03T11:08:01",
+ "type": "tender",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 105,
+  "criteria": [
+   {
+    "label": "Xarid komissiyasi raisi nomiga elektron tenderda ishtirok etish uchun ariza (1-shakl)",
+    "max_score": 16.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Tashkilotning davlat ro'yxatidan o'tganligini tasdiqlovchi hujjat (ustav va ta'sis hujjatlarining nusxalari)",
+    "max_score": 16.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Buni tasdiqlovchi hujjatlar: (shakl № 2)",
+    "max_score": 16.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Tender ishtirokchisi to'g'risida umumiy ma'lumot (shakl № 3)",
+    "max_score": 16.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ishtirokchining moliyaviy ahvoli to'g'risidagi ma'lumotlar (shakl No 4)",
+    "max_score": 16.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Texnik shartlar mazmuniga muvofiq ma'lumotlarni taqdim etish (7-shakl)",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525124.pdf",
+  "pages": 17,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": [
+   1,
+   17
+  ]
+ },
+ "subject_uz": "Sud-ekspertiza DNK tadqiqotlari uchun kapillyar elektroforez sekvenatori (2 komplekt)",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "бюджет маблағлари 100010860262737038100009001",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Kapillyar elektroforez sekvenatori, shaxsni identifikatsiya qilish uchun maxsus funksiyalar to'plami bilan, kompyuter, dasturiy ta'minot, reagent va sarf materiallari bilan to'liq yechim.",
+   "summary_en": "A capillary electrophoresis sequencer with a special function set for personal identification, supplied as a complete solution with PC, software, reagents and consumables.",
+   "quote": "Капиллярный электрофорезный секвенатор, имеющий специальный набор функций для идентификации личности.",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Kapillyarlar soni kamida 8, ko'pi bilan 16; kapillyar uzunligi 36 sm.",
+   "summary_en": "Number of capillaries from 8 to 16; capillary length 36 cm.",
+   "quote": "не менее 8 но не более 16 Длина капилляров 36 см",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Ishlash unumdorligi kuniga kamida 300 namuna (fragment tahlili), dinamik diapazon kamida 60 000 rfu.",
+   "summary_en": "Throughput of at least 300 samples a day (fragment analysis) and dynamic range of at least 60,000 rfu.",
+   "quote": "Не менее 300 образцов в день (фрагментный анализ для идентификации личности)",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Ishlab chiqaruvchining sud ekspertizasi uchun validatsiya sertifikati bo'lishi kerak.",
+   "summary_en": "A manufacturer's validation certificate for forensic use is required.",
+   "quote": "Наличие сертификата производителя о валидации для криминалистики",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Uskuna 2026-yildan oldin ishlab chiqarilmagan, yangi va ishlatilmagan bo'lishi shart.",
+   "summary_en": "The equipment must be new, unused and produced no earlier than 2026.",
+   "quote": "Год производства и выпуска не ранее 2026 года, новым не бывшем в эксплуатации не восстановленным",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Analoglar ruxsat etiladi: yomonlashtirmaydigan, sifat va xususiyatlari kam bo'lmagan o'xshash uskunani yetkazish mumkin.",
+   "summary_en": "Equivalents are allowed: similar equipment not inferior in quality and characteristics may be supplied.",
+   "quote": "Возможна поставка аналогичного оборудования, не уступающего по качеству и техническим характеристикам.",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish akkreditiv ochilgan yoki avans to'langan kundan 30 kun ichida, 2 komplekt.",
+   "summary_en": "Delivery within 30 days of opening the letter of credit or prepayment, 2 sets.",
+   "quote": "срок поставки в течение 30 дней с момента открытия аккредитива или предоплаты",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "O'rnatish nazorati, ishga tushirish va xodimlarni o'qitish yetkazib berilgandan keyin 30 kun ichida majburiy.",
+   "summary_en": "Installation supervision, commissioning and staff training are mandatory within 30 days of delivery.",
+   "quote": "Обязательно в течение 30 дней с момента поставки товара",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "technical",
+   "summary_uz": "Kafolat muddati qabul qilingandan keyin kamida 12 oy; O'zbekistondagi servis markazi orqali xizmat ko'rsatiladi.",
+   "summary_en": "Warranty of at least 12 months from acceptance; servicing through a service centre in Uzbekistan.",
+   "quote": "Гарантийный срок не менее 12 месяцев с момента приемки товара покупателем.",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Yuk uchun asl 110 foizli sug'urta sertifikati (polisi) bo'lishi shart.",
+   "summary_en": "An original 110 percent insurance certificate (policy) for the shipment is required.",
+   "quote": "оригинал 110% страхового сертификата (страховой полис)",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchining ishbilarmonlik obro'sini (xodimlar malakasi, tajriba, maxsus faoliyat tajribasi) tasdiqlovchi hujjatlar kerak.",
+   "summary_en": "Documents confirming business reputation (staff qualifications, experience including experience in the specialised field) are needed.",
+   "quote": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r12",
+   "kind": "evaluation",
+   "summary_uz": "Texnik shartlar mazmuniga muvofiq ma'lumotlar (7-shakl) eng yuqori, 25 ballik mezon hisoblanadi.",
+   "summary_en": "Information conforming to the technical conditions (Form 7) is the largest criterion at 25 points.",
+   "quote": "Texnik shartlar mazmuniga muvofiq ma'lumotlarni taqdim etish (7-shakl)",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "narrow_params",
+   "severity": "medium",
+   "quote": "не менее 8 но не более 16 Длина капилляров 36 см",
+   "page": 9,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Kapillyarlar soni 8 dan 16 gacha bilan cheklangan, kapillyar uzunligi esa bitta qiymat sifatida (36 sm) belgilangan. Bunday kombinatsiya sozlamalari boshqacha, lekin bir xil vazifani bajaradigan sekvenatorlarni (masalan, 24 kapillyarli yoki boshqa uzunlikdagi) o'tkazmasligi va faqat bitta model oilasiga mos kelishi mumkin. Hujjatning boshqa joylarida analoglarga ruxsat berilgan, lekin bu parametr uchun og'ish chegarasi ko'rsatilmagan.",
+   "explanation_en": "The number of capillaries is capped between 8 and 16 and the capillary length is a single value (36 cm). This combination may exclude sequencers that do the same job with a different configuration (for example 24 capillaries or another length) and may fit only one model family. Equivalents are allowed elsewhere in the document, but no tolerance is given for these parameters.",
+   "rewrite_uz": "Kapillyarlar soni kamida 8 ta, uzunligi esa 36 sm yoki unga teng samaradorlikni ta'minlaydigan boshqa uzunlik (masalan, 36-50 sm) deb belgilansin; talab qilingan unumdorlik va aniqlikka erishilishi yetarli bo'lsin.",
+   "rewrite_en": "State at least 8 capillaries and a length of 36 cm or another length (for example 36-50 cm) that achieves the required throughput and resolution.",
+   "type_label_uz": "Haddan tashqari tor texnik parametrlar",
+   "type_label_en": "Over-narrow technical parameters",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "low",
+   "quote": "Наличие сертификата производителя о валидации для криминалистики",
+   "page": 9,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Sud ekspertizasi uchun yaroqlilik faqat ishlab chiqaruvchining o'z validatsiya sertifikati bilan tasdiqlanishi talab qilinadi. Bu, mustaqil validatsiya yoki sud laboratoriyalaridagi tasdiqlangan foydalanish natijalari bilan isbotlanadigan teng mahsulotlarni chetda qoldirishi mumkin. Buyurtmachiga qanday hujjat qabul qilinishini aniqlashtirish tavsiya etiladi.",
+   "explanation_en": "Forensic suitability must be shown by the manufacturer's own validation certificate. That could leave out equivalent products whose suitability is shown by independent validation or documented use in forensic laboratories. A clarifying question on which documents are accepted is worthwhile.",
+   "rewrite_uz": "Sud ekspertizasi uchun yaroqlilik ishlab chiqaruvchi sertifikati yoki mustaqil validatsiya hisoboti yoki sud laboratoriyalarida foydalanish bo'yicha hujjat bilan tasdiqlanishi mumkin.",
+   "rewrite_en": "Suitability for forensic use may be shown by a manufacturer certificate, an independent validation report or documentation of use in forensic laboratories.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "unrealistic_deadline",
+   "severity": "low",
+   "quote": "срок поставки в течение 30 дней с момента открытия аккредитива или предоплаты",
+   "page": 7,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Hujjat matnida yetkazib berish muddati 30 kun deb yozilgan, platformadagi pozitsiyada esa 30 oy ko'rsatilgan. Import uskunani 30 kun ichida yetkazish, o'rnatish va o'qitishni ham shu muddatda tugatish omborda tayyor uskunasi bo'lmagan ishtirokchi uchun qiyin bo'lishi mumkin.",
+   "explanation_en": "The document text gives a 30-day delivery period while the platform item shows 30 months. Delivering imported equipment within 30 days, with installation and training also due in 30 days, may be hard for a bidder who does not already hold stock.",
+   "rewrite_uz": "Yetkazib berish muddatini aniqlashtiring (kun yoki oy) va import uskuna uchun real muddat, masalan, avans to'langan kundan 90 kun deb belgilang.",
+   "rewrite_en": "Clarify the delivery period (days or months) and set a realistic period for imported equipment, for example 90 days from the advance payment.",
+   "type_label_uz": "Bajarish qiyin bo'lgan muddat",
+   "type_label_en": "Deadline that is hard to meet",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 59,
+ "traffic_light": "amber",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 34,
+  "history_penalty": 6.8,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Haddan tashqari tor texnik parametrlar (9-bet): Kapillyarlar soni 8 dan 16 gacha bilan cheklangan, kapillyar uzunligi esa bitta qiymat sifatida (36 sm) belgilangan. Bunday kombinatsiya sozlamalari boshqacha, lekin bir xil vazifani bajaradigan sekvenatorlarni (masalan, 24 kapillyarli yoki boshqa uzunlikdagi) o'tkazmasligi va faqat bitta model oilasiga mos kelishi mumkin. Hujjatning boshqa joylarida analoglarga ruxsat berilgan, lekin bu parametr uchun og'ish chegarasi ko'rsatilmagan.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (9-bet): Sud ekspertizasi uchun yaroqlilik faqat ishlab chiqaruvchining o'z validatsiya sertifikati bilan tasdiqlanishi talab qilinadi. Bu, mustaqil validatsiya yoki sud laboratoriyalaridagi tasdiqlangan foydalanish natijalari bilan isbotlanadigan teng mahsulotlarni chetda qoldirishi mumkin. Buyurtmachiga qanday hujjat qabul qilinishini aniqlashtirish tavsiya etiladi.",
+   "Bajarish qiyin bo'lgan muddat (7-bet): Hujjat matnida yetkazib berish muddati 30 kun deb yozilgan, platformadagi pozitsiyada esa 30 oy ko'rsatilgan. Import uskunani 30 kun ichida yetkazish, o'rnatish va o'qitishni ham shu muddatda tugatish omborda tayyor uskunasi bo'lmagan ishtirokchi uchun qiyin bo'lishi mumkin.",
+   "Buyurtmachining so'nggi 22 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 73% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 23%.",
+   "Tushuntirish so'rash muddati: 03.12.2026 11:08.",
+   "Diqqat: hujjatning 2 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Over-narrow technical parameters (page 9): The number of capillaries is capped between 8 and 16 and the capillary length is a single value (36 cm). This combination may exclude sequencers that do the same job with a different configuration (for example 24 capillaries or another length) and may fit only one model family. Equivalents are allowed elsewhere in the document, but no tolerance is given for these parameters.",
+   "Other clause that may limit competition (page 9): Forensic suitability must be shown by the manufacturer's own validation certificate. That could leave out equivalent products whose suitability is shown by independent validation or documented use in forensic laboratories. A clarifying question on which documents are accepted is worthwhile.",
+   "Deadline that is hard to meet (page 7): The document text gives a 30-day delivery period while the platform item shows 30 months. Delivering imported equipment within 30 days, with installation and training also due in 30 days, may be hard for a bidder who does not already hold stock.",
+   "In the customer's last 22 deals the median number of bidders was 2; 73% of deals had two or fewer bidders; the most frequent winner took 23%.",
+   "Clarification requests are accepted until 03.12.2026 11:08.",
+   "Note: 2 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Xarid komissiyasi raisi nomiga ishtirok etish uchun ariza (1-shakl)",
+  "Davlat ro'yxatidan o'tganlikni tasdiqlovchi hujjat (ustav va ta'sis hujjatlari nusxalari)",
+  "2-shakl bo'yicha tasdiqlovchi hujjatlar",
+  "Tender ishtirokchisi to'g'risida umumiy ma'lumot (3-shakl)",
+  "Ishtirokchining moliyaviy ahvoli to'g'risidagi ma'lumotlar (4-shakl)",
+  "Texnik shartlar mazmuniga muvofiq ma'lumotlar (7-shakl)",
+  "Ishlab chiqaruvchining sud ekspertizasi uchun validatsiya sertifikati",
+  "ISO 9001:2015 sifat standartiga muvofiqlik hujjati",
+  "Ishbilarmonlik obro'sini tasdiqlovchi hujjatlar (xodimlar malakasi va tajriba)",
+  "Halollik bo'yicha ariza (malaka talabi 7)",
+  "Soliq qarzdorligi, bankrotlik, insofsiz ijrochilar reyestri va Majburiy ijro byurosi bo'yicha ma'lumotlar",
+  "Kelib chiqish sertifikati, muvofiqlik va sifat sertifikatlari, 110 foizli sug'urta polisi (yetkazib berishda)",
+  "Taklifni ta'minlash (1 foiz)",
+  "tender hujjatlariga ilova qilingan (majburiy)"
+ ],
+ "clarification_letter_uz": "Kimga: Республиканский центр судебной экспертизы, xarid komissiyasiga\nLot raqami: 26111006525124\nXarid predmeti: Тендер ЛОТ № 3 (ДНК) 2026-ноябрь\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 9-bet.\n   Hujjatdagi matn: «не менее 8 но не более 16 Длина капилляров 36 см»\n   Savolimiz: Kapillyarlar soni 8 dan 16 gacha bilan cheklangan, kapillyar uzunligi esa bitta qiymat sifatida (36 sm) belgilangan. Bunday kombinatsiya sozlamalari boshqacha, lekin bir xil vazifani bajaradigan sekvenatorlarni (masalan, 24 kapillyarli yoki boshqa uzunlikdagi) o'tkazmasligi va faqat bitta model oilasiga mos kelishi mumkin. Hujjatning boshqa joylarida analoglarga ruxsat berilgan, lekin bu parametr uchun og'ish chegarasi ko'rsatilmagan.\n   Taklif etilayotgan tahrir: Kapillyarlar soni kamida 8 ta, uzunligi esa 36 sm yoki unga teng samaradorlikni ta'minlaydigan boshqa uzunlik (masalan, 36-50 sm) deb belgilansin; talab qilingan unumdorlik va aniqlikka erishilishi yetarli bo'lsin.\n\n2. Texnik topshiriq, 9-bet.\n   Hujjatdagi matn: «Наличие сертификата производителя о валидации для криминалистики»\n   Savolimiz: Sud ekspertizasi uchun yaroqlilik faqat ishlab chiqaruvchining o'z validatsiya sertifikati bilan tasdiqlanishi talab qilinadi. Bu, mustaqil validatsiya yoki sud laboratoriyalaridagi tasdiqlangan foydalanish natijalari bilan isbotlanadigan teng mahsulotlarni chetda qoldirishi mumkin. Buyurtmachiga qanday hujjat qabul qilinishini aniqlashtirish tavsiya etiladi.\n   Taklif etilayotgan tahrir: Sud ekspertizasi uchun yaroqlilik ishlab chiqaruvchi sertifikati yoki mustaqil validatsiya hisoboti yoki sud laboratoriyalarida foydalanish bo'yicha hujjat bilan tasdiqlanishi mumkin.\n\n3. Texnik topshiriq, 7-bet.\n   Hujjatdagi matn: «срок поставки в течение 30 дней с момента открытия аккредитива или предоплаты»\n   Savolimiz: Hujjat matnida yetkazib berish muddati 30 kun deb yozilgan, platformadagi pozitsiyada esa 30 oy ko'rsatilgan. Import uskunani 30 kun ichida yetkazish, o'rnatish va o'qitishni ham shu muddatda tugatish omborda tayyor uskunasi bo'lmagan ishtirokchi uchun qiyin bo'lishi mumkin.\n   Taklif etilayotgan tahrir: Yetkazib berish muddatini aniqlashtiring (kun yoki oy) va import uskuna uchun real muddat, masalan, avans to'langan kundan 90 kun deb belgilang.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (03.12.2026 11:08) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 22,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.7273,
+  "top_winner_share": 0.2273,
+  "share_price_drop_lt1pct": 0.4091,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 477400000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 16.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

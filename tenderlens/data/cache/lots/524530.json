@@ -1,0 +1,165 @@
+{
+ "lot_id": 524530,
+ "display_no": "26110012524530",
+ "title": "Eng yaxshi taklif (gigiyena vositalari)",
+ "url": "https://etender.uzex.uz/lot/524530",
+ "customer": {
+  "name": "Хужайли тумани Мактабгача ва мактаб таълими булимига карашли 17-сонли ДМТТ",
+  "tin": "207008603"
+ },
+ "region": "Қорақалпоғистон Республикаси",
+ "start_cost": 12083500.0,
+ "currency": "UZS",
+ "start_date": "2026-11-12T16:16:22",
+ "end_date": "2026-11-19T16:16:22",
+ "clarific_date": "2026-11-19T16:16:22",
+ "type": "selection",
+ "old_id": 524434,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 100,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг техник тартибга солиш соҳасидаги норматив ҳужжатларга мувофиқлиги бўйича талаблар. Мувофиқлиги баҳоланиши лозим бўлган давлат ветеринария хизмати назорати остидаги маҳсулотлар. Мажбурий тартибда мувофиқлиги баҳоланиши лозим бўлган маҳсулотлар.Мажбурий экологик сертификатланиши лозим бўлган маҳсулотлар. Санитария-эпидемиологик хулосага мос келадиган маҳсулотлар.",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг ишлаб чиқарилган йилига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг маркировкасига, уни қадоқлаш, юклаш ва ташишга қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524530.pdf",
+  "pages": 7,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Maktabgacha ta'lim muassasasi uchun bolalar tagliklari, hojatxona qog'ozi va qog'oz sochiq xaridi",
+ "sector": "other",
+ "customer_sector": "education",
+ "customer_kind": "budget",
+ "financing_source": "Byudjet",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Bolalar uchun ko'p qatlamli hojatxona qog'ozi, katta o'lchamli qog'oz sochiq va maxsus tagliklar yetkazib beriladi.",
+   "summary_en": "Multi-layer toilet paper for children, large paper towels and special diapers are to be supplied.",
+   "quote": "bolalar uchun ko'p qatlamli hojatxona qog'ozi, katta o'lchamli qog'oz sochiq, shuningdek maxsus tagliklar haridi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Ekologik, gigiyenik sertifikatlar, sinov bayonnomalari va muvofiqlik sertifikatlari talab qilinadi.",
+   "summary_en": "Environmental and hygiene certificates, test reports and conformity certificates are required.",
+   "quote": "Экологик, гигиеник сертификатлаш, калибрлаш тўғрисидаги тегишли гувоҳномалар ёки синов баённомалари",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Bank kafolati yoki zakalat kiritilganini tasdiqlovchi hujjat talab qilinadi.",
+   "summary_en": "Proof of a deposit or the original bank guarantee is required.",
+   "quote": "Закалат киритилганлигини тасдиқловчи ҳужжат ёки банк кафолатининг асл нусхаси",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "other",
+   "summary_uz": "Texnik shartga aniq amal qilinmasa, shartnoma bekor qilinishi yoki taklif ko'rib chiqilmasligi mumkin.",
+   "summary_en": "If the specification is not followed exactly, the contract may be cancelled or the bid not considered.",
+   "quote": "Aks holda shartnoma bekor bo'lishi yoki taklif ko'rib chiqilmasligi yohud diskvalifikatsiyaga sabab bo'lishi mumkin",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 96,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 4.2,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 6 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 33% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 17%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524434)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 6 deals the median number of bidders was 3; 33% of deals had two or fewer bidders; the most frequent winner took 17%.",
+   "This lot was re-announced (previous lot: 524434)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+  "Soliq qarzi yo'qligi haqida ma'lumotnoma",
+  "Texnik shartga muvofiqlikni tasdiqlovchi hujjatlar",
+  "Sertifikatlar (sanitariya-epidemiologik xulosa, muvofiqlik sertifikati, sifat sertifikati)",
+  "Yetkazib berish davriyligi bo'yicha hujjat",
+  "Markirovka, qadoqlash va tashish bo'yicha hujjat",
+  "Taklifni ta'minlash (zakalat yoki bank kafolati)",
+  "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ariza",
+  "Texnik tomoni, texnik shartga muvofiq bo'lishi kerak",
+  "Sertifikatsiya",
+  "Etkazib berish davriyligi",
+  "2025 yildan avval bo'lmasligi kerak",
+  "Markirovka, transportirovka, qadoqlash"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 6,
+  "median_bidders": 3.0,
+  "share_le2_bidders": 0.3333,
+  "top_winner_share": 0.1667,
+  "share_price_drop_lt1pct": 0.3333,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 1703773.5,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

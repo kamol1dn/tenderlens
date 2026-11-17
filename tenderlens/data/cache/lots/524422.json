@@ -1,0 +1,208 @@
+{
+ "lot_id": 524422,
+ "display_no": "26110012524422",
+ "title": "Andijon şahar, Namuna MFY, Abdurauf Fitrat köçasi 230-uyda joylaşgan “Kinematografiya agentligi Andijon viloyati hududiy boşqarmasi” bino-inşootlarini baholaş hizmati.",
+ "url": "https://etender.uzex.uz/lot/524422",
+ "customer": {
+  "name": "Давлат активларини бошкариш бошкармаси",
+  "tin": "200237728"
+ },
+ "region": "Андижон вилояти",
+ "start_cost": 12760000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-12T09:10:33",
+ "end_date": "2026-11-19T09:10:33",
+ "clarific_date": "2026-11-19T09:10:33",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 60.0,
+  "cost_coef": 40.0,
+  "min_point": 50,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларда суғурталашга қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524422.pdf",
+  "pages": 8,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Andijon shahridagi Kinematografiya agentligi hududiy boshqarmasi bino-inshootlarini baholash xizmati",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "Budjeddan tashqari mablag'lardan Ҳисобрақам: 200421860034017011359021001 МФО: 00014",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "qualification",
+   "summary_uz": "Milliy standartlar bo'yicha baholangan kamida 3 ta o'xshash loyiha tajribasi bo'lishi kerak.",
+   "summary_en": "At least 3 similar valuation projects done under national standards.",
+   "quote": "baholangan kamida 3 ta o'xshash loyihani",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Shartnoma tuzilgunga qadar kamida 1 yil baholash faoliyati bilan shug'ullangan bo'lish kerak.",
+   "summary_en": "At least one year of valuation activity before the contract is signed.",
+   "quote": "kamida 1 yil davomida (aktivlarni) baholash faoliyatini amalga oshirish",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Baholovchining malaka sertifikati va professional birlashmaga a'zolik hujjati taqdim etiladi.",
+   "summary_en": "The appraiser's qualification certificate and professional association membership are provided.",
+   "quote": "baholashda bevosita ishtirok etadigan baholovchining (baholovchilarning) malaka sertifikatini taqdim etishi",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "delivery",
+   "summary_uz": "Baholash shartnoma tuzilgandan so'ng 7 ish kunida yakunlanadi.",
+   "summary_en": "The valuation is completed within 7 working days after signing the contract.",
+   "quote": "shartnoma tuzilgandan so'ng 7 ish kuni",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Baholash 2026-yil 1-oktabr holatiga, bozor qiymatini aniqlash maqsadida amalga oshiriladi.",
+   "summary_en": "Valuation as of 1 October 2026, determining market value.",
+   "quote": "Baholash 01. 10.2026-yil holatiga amalga oshiriladi",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Hisobotda baholovchining mulkning bozor qiymati to'g'risidagi professional xulosasi bo'lishi kerak.",
+   "summary_en": "The report must contain the appraiser's professional conclusion on market value.",
+   "quote": "Hisobotda baholovchining baholanayotgan mulkning bozor qiymati to'g'risidagi professional xulosasi bo'lishi kerak",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Malakali baholovchi haqida ma'lumot (sertifikat) uchun 15 ballgacha beriladi.",
+   "summary_en": "Up to 15 points for information on the qualified appraiser (certificate).",
+   "quote": "(sertifikat) ilova qilinadi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari mavjud bo'lishi shart.",
+   "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+   "summary_en": "No overdue tax or fee debt.",
+   "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 96,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 3.9,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 172 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 57% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 21%."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 172 deals the median number of bidders was 2; 57% of deals had two or fewer bidders; the most frequent winner took 21%."
+  ]
+ },
+ "documents_needed_uz": [
+  "O'xshash baholash loyihalari bo'yicha mijozlar ro'yxati, aloqa ma'lumotlari va tavsiyanomalar",
+  "Baholovchining malaka sertifikati va baholovchilar uyushmasiga a'zolik hujjatlari",
+  "Mavjud texnik jihozlar fotosuratlari",
+  "Bajarilgan ishlar bo'yicha shartnomalar va hisob-fakturalar",
+  "Sug'urta polisi",
+  "Muddatlar aks ettirilgan kafolat xati",
+  "PDF fayl yuklash",
+  "ПДФ хужжат юкланади"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 172,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.5698,
+  "top_winner_share": 0.2093,
+  "share_price_drop_lt1pct": 0.0058,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 1740464.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

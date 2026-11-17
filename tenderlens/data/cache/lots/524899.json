@@ -1,0 +1,272 @@
+{
+ "lot_id": 524899,
+ "display_no": "26111006524899",
+ "title": "Фарғона вилояти Қува туманидаги \"Каркидон\" дам олиш маскани ташқи электр таъминоти 110/10/6 kV кучланишли подстанцияни реконструкция қилиш учун зарурий қурилма сотиб олиш",
+ "url": "https://etender.uzex.uz/lot/524899",
+ "customer": {
+  "name": "Фаргона худудий электр тармоклари корхонаси АЖ",
+  "tin": "200144930"
+ },
+ "region": "Фарғона вилояти",
+ "start_cost": 4032000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T08:27:52",
+ "end_date": "2026-12-03T08:27:52",
+ "clarific_date": "2026-12-03T08:27:52",
+ "type": "tender",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 10,
+  "criteria": [
+   {
+    "label": "Сохага оид бажарилган ишлар тўғрисида маълумот",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишчи ходимлар тўғрисида маълумот",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Корхона тўғрисида умумий маълумот",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Корхонанинг молиявий холати бўйича маълумот.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Энергетика йуналишида ISO сертификатларини мавжудлиги тугрисида.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524899.pdf",
+  "pages": 10,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   1,
+   7,
+   8
+  ]
+ },
+ "subject_uz": "110/10/6 kV podstansiyani rekonstruksiya qilish uchun TDN-10000/110-U kuch transformatorini sotib olish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Бюджет маблағлари хисобидан",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "So'rovnoma bo'yicha TDN-10000/110-U turidagi 110 kV kuch transformatori yetkazib beriladi.",
+   "summary_en": "One TDN-10000/110-U 110 kV power transformer per the customer's questionnaire.",
+   "quote": "на заказ силового трансформатора 1 10 kv типа тдн-100001110_у1",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Transformatorning xizmat muddati kamida 25 yil bo'lishi kerak.",
+   "summary_en": "Service life of the transformer of at least 25 years.",
+   "quote": "Срок службы лет Не менее 25",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Seysmik chidamlilik MSK-64 shkalasi bo'yicha 8 ball bo'lishi kerak.",
+   "summary_en": "Seismic resistance of 8 on the MSK-64 scale.",
+   "quote": "сейсмостоfo<ость баллов 8 по шкале MSK-64",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Qurilma dengiz sathidan 2000 m gacha balandlikda o'rnatish uchun mo'ljallangan.",
+   "summary_en": "Designed for installation at up to 2000 m above sea level.",
+   "quote": "Высота установки над уровнем моря m Не более 2000",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish hajmiga transformatorning o'zi va belgilangan hajmda ehtiyot qismlar kiradi.",
+   "summary_en": "Scope of supply: the transformer itself plus spare parts in the specified volume.",
+   "quote": "б) Запасные части В установленЕом объеме по гост 11920-93",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Soha bo'yicha bajarilgan ishlar (hisob-faktura, shartnoma) hujjatlari uchun 10 ball beriladi.",
+   "summary_en": "Documents on completed work in the field (invoices, contracts) are scored up to 10 points.",
+   "quote": "Иштирокчи томонидан бажариладиган иш-хизматларни тасдиқловчи, ҳужжатлар (ҳисоб-фактура, шартнома) мавжудлиги",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "my.mehnat.uz bilan integratsiyalangan ishchi xodimlar tasdiqlangan ro'yxati uchun 10 ball beriladi.",
+   "summary_en": "A confirmed staff list integrated with the my.mehnat.uz database is scored up to 10 points.",
+   "quote": "Ишчи ходимларини тасдиқланган рўйхати мехнат ресурслари базаси мy.mehnat.uz билан интеграция қилинган ишчи ходимларининг тасдиқланган маълумоти- Жами - 10 балл.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Moliyaviy hisobotlar va tanlov qiymatining 30% miqdorida bank qoldig'i ma'lumoti uchun 10 ball beriladi.",
+   "summary_en": "Financial statements and a bank statement showing a balance of 30% of the lot value are scored up to 10 points.",
+   "quote": "Корхонанинг, танловга қўйилган қийматнинг 30 % миқдорида таклиф берилаётган санага, хисоб рақамида қолдиқ маблағи мавжудлиги тўғрисидаги банкнинг тасдиқланган маълумоти - Жами: 10 балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Energetika yo'nalishida ISO 9001, 14001, 45001 va 50001 sertifikatlari to'liq bo'lsa 10 ball, aks holda 1 ball.",
+   "summary_en": "All four ISO certificates (9001, 14001, 45001, 50001) earn 10 points, otherwise 1 point.",
+   "quote": "ISO -9001,ISO -14001,ISO -45001,ISO -50001 энергетика йуналишида сертификатлари тулик булса 10 балл.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "ISO -9001,ISO -14001,ISO -45001,ISO -50001 энергетика йуналишида сертификатлари тулик булса 10 балл.",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Transformator yetkazib berish uchun to'rtta ISO sertifikatining (jumladan, energiya menejmenti ISO 50001) to'liq to'plami 10 ball beradi, to'liq bo'lmasa 1 ball. Bu texnik qismning (50 ball) taxminan 18 foizini tashkil etadi va sertifikatlari bo'lmagan, ammo mahsulotni yetkaza oladigan ta'minotchilar ball yo'qotadi.",
+   "explanation_en": "A full set of four ISO certificates (including ISO 50001 energy management) earns 10 points, an incomplete set only 1 point. This is 9 points of the 50-point technical score, so suppliers who can deliver the transformer but lack all four certificates lose points on a requirement that is not tied to the product itself.",
+   "rewrite_uz": "Sifat menejmenti tizimi sertifikati (ISO 9001) yoki mahsulotning texnik shartlarga muvofiqligini tasdiqlovchi ekvivalent hujjat mavjudligi uchun ball beriladi; qo'shimcha sertifikatlar ixtiyoriy va ball farqi 2 balldan oshmasin.",
+   "rewrite_en": "Award points for a quality management certificate (ISO 9001) or an equivalent document confirming conformity with the technical requirements; additional certificates are optional and carry no more than a 2-point difference.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "Корхонанинг, танловга қўйилган қийматнинг 30 % миқдорида таклиф берилаётган санага, хисоб рақамида қолдиқ маблағи мавжудлиги тўғрисидаги банкнинг тасдиқланган маълумоти - Жами: 10 балл",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Boshlang'ich narx 4 032 000 000 so'm, uning 30 foizi 1 209 600 000 so'm bo'ladi; shuncha qoldiq hisob raqamida bo'lishi 10 ball beradi, ma'lumot to'liq bo'lmasa 1 ball. Mol yetkazib beruvchi kichik va o'rta korxonalar bunday qoldiqni taklif sanasida ushlab turmasligi mumkin.",
+   "explanation_en": "The start price is 4,032,000,000 UZS, so 30% is 1,209,600,000 UZS that must sit on the account on the bid date to earn 10 points (otherwise 1). Capable suppliers that do not keep such a balance idle on the account lose up to 9 points.",
+   "rewrite_uz": "Moliyaviy barqarorlik so'nggi yil moliyaviy hisobotlari asosida baholansin; hisob raqamidagi qoldiq talabi olib tashlansin yoki lot qiymatining 10 foizidan oshmasin.",
+   "rewrite_en": "Assess financial standing from the latest annual financial statements; remove the account-balance requirement or cap it at 10% of the lot value.",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "other",
+   "severity": "low",
+   "quote": "Ишчи ходимларини тасдиқланган рўйхати мехнат ресурслари базаси мy.mehnat.uz билан интеграция қилинган ишчи ходимларининг тасдиқланган маълумоти- Жами - 10 балл.",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Ball my.mehnat.uz bazasi bilan integratsiyalangan xodimlar ro'yxatiga beriladi (to'liq bo'lmasa 1 ball). Xorijiy yoki bu bazada ro'yxatdan o'tmagan ishlab chiqaruvchi va ta'minotchilar uchun bu shartni bajarish qiyin bo'lishi mumkin; bitta transformator yetkazib berishda xodimlar soni natijaga bevosita bog'liq emas.",
+   "explanation_en": "10 points go to a staff list integrated with the my.mehnat.uz database (1 point if incomplete). Foreign manufacturers or suppliers not registered in that database may be unable to meet it, and for a single transformer delivery headcount is not directly tied to the outcome.",
+   "rewrite_uz": "Xodimlar haqidagi ma'lumot ixtiyoriy shaklda (my.mehnat.uz yoki ekvivalent hujjat) qabul qilinsin va ball farqi kamaytirilsin.",
+   "rewrite_en": "Accept staff information in a free form (my.mehnat.uz or an equivalent document) and reduce the point gap.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 43,
+ "traffic_light": "red",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 50,
+  "history_penalty": 6.7,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): Transformator yetkazib berish uchun to'rtta ISO sertifikatining (jumladan, energiya menejmenti ISO 50001) to'liq to'plami 10 ball beradi, to'liq bo'lmasa 1 ball. Bu texnik qismning (50 ball) taxminan 18 foizini tashkil etadi va sertifikatlari bo'lmagan, ammo mahsulotni yetkaza oladigan ta'minotchilar ball yo'qotadi.",
+   "Lot hajmiga nomutanosib moliyaviy talab (platformadagi mezonlar): Boshlang'ich narx 4 032 000 000 so'm, uning 30 foizi 1 209 600 000 so'm bo'ladi; shuncha qoldiq hisob raqamida bo'lishi 10 ball beradi, ma'lumot to'liq bo'lmasa 1 ball. Mol yetkazib beruvchi kichik va o'rta korxonalar bunday qoldiqni taklif sanasida ushlab turmasligi mumkin.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): Ball my.mehnat.uz bazasi bilan integratsiyalangan xodimlar ro'yxatiga beriladi (to'liq bo'lmasa 1 ball). Xorijiy yoki bu bazada ro'yxatdan o'tmagan ishlab chiqaruvchi va ta'minotchilar uchun bu shartni bajarish qiyin bo'lishi mumkin; bitta transformator yetkazib berishda xodimlar soni natijaga bevosita bog'liq emas.",
+   "Buyurtmachining so'nggi 33 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 67% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 24%.",
+   "Tushuntirish so'rash muddati: 03.12.2026 08:27.",
+   "Diqqat: hujjatning 3 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): A full set of four ISO certificates (including ISO 50001 energy management) earns 10 points, an incomplete set only 1 point. This is 9 points of the 50-point technical score, so suppliers who can deliver the transformer but lack all four certificates lose points on a requirement that is not tied to the product itself.",
+   "Financial demand out of proportion to the lot (platform criteria form): The start price is 4,032,000,000 UZS, so 30% is 1,209,600,000 UZS that must sit on the account on the bid date to earn 10 points (otherwise 1). Capable suppliers that do not keep such a balance idle on the account lose up to 9 points.",
+   "Other clause that may limit competition (platform criteria form): 10 points go to a staff list integrated with the my.mehnat.uz database (1 point if incomplete). Foreign manufacturers or suppliers not registered in that database may be unable to meet it, and for a single transformer delivery headcount is not directly tied to the outcome.",
+   "In the customer's last 33 deals the median number of bidders was 2; 67% of deals had two or fewer bidders; the most frequent winner took 24%.",
+   "Clarification requests are accepted until 03.12.2026 08:27.",
+   "Note: 3 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Soha bo'yicha bajarilgan ishlar haqida ma'lumotnoma, shartnomalar va hisob-fakturalar",
+  "my.mehnat.uz bilan integratsiyalangan ishchi xodimlar ro'yxati va ma'lumotnoma",
+  "Ro'yxatdan o'tganlik haqidagi guvohnoma va korxona nizomi",
+  "Yagona interaktiv portaldan yakuniy benefitsiar haqida tasdiqlangan ma'lumot",
+  "Buxgalteriya balansi, moliyaviy natijalar, xususiy kapital va pul oqimlari hisobotlari",
+  "Hisob raqamidagi qoldiq haqida bank tomonidan tasdiqlangan ma'lumot",
+  "ISO 9001, 14001, 45001 va 50001 sertifikatlari nusxalari",
+  "To'ldirilgan so'rovnoma (опросный лист) bo'yicha texnik taklif",
+  "Taklif kafolati (3 foiz)",
+  "Шартнома, Хисоб фактуралар",
+  "Маълумотнома"
+ ],
+ "clarification_letter_uz": "Kimga: Фаргона худудий электр тармоклари корхонаси АЖ, xarid komissiyasiga\nLot raqami: 26111006524899\nXarid predmeti: Фарғона вилояти Қува туманидаги \"Каркидон\" дам олиш маскани ташқи электр таъминоти 110/10/6 kV кучланишли подстанцияни реконструкция қилиш учун зарурий қурилма сотиб олиш\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «ISO -9001,ISO -14001,ISO -45001,ISO -50001 энергетика йуналишида сертификатлари тулик булса 10 балл.»\n   Savolimiz: Transformator yetkazib berish uchun to'rtta ISO sertifikatining (jumladan, energiya menejmenti ISO 50001) to'liq to'plami 10 ball beradi, to'liq bo'lmasa 1 ball. Bu texnik qismning (50 ball) taxminan 18 foizini tashkil etadi va sertifikatlari bo'lmagan, ammo mahsulotni yetkaza oladigan ta'minotchilar ball yo'qotadi.\n   Taklif etilayotgan tahrir: Sifat menejmenti tizimi sertifikati (ISO 9001) yoki mahsulotning texnik shartlarga muvofiqligini tasdiqlovchi ekvivalent hujjat mavjudligi uchun ball beriladi; qo'shimcha sertifikatlar ixtiyoriy va ball farqi 2 balldan oshmasin.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Корхонанинг, танловга қўйилган қийматнинг 30 % миқдорида таклиф берилаётган санага, хисоб рақамида қолдиқ маблағи мавжудлиги тўғрисидаги банкнинг тасдиқланган маълумоти - Жами: 10 балл»\n   Savolimiz: Boshlang'ich narx 4 032 000 000 so'm, uning 30 foizi 1 209 600 000 so'm bo'ladi; shuncha qoldiq hisob raqamida bo'lishi 10 ball beradi, ma'lumot to'liq bo'lmasa 1 ball. Mol yetkazib beruvchi kichik va o'rta korxonalar bunday qoldiqni taklif sanasida ushlab turmasligi mumkin.\n   Taklif etilayotgan tahrir: Moliyaviy barqarorlik so'nggi yil moliyaviy hisobotlari asosida baholansin; hisob raqamidagi qoldiq talabi olib tashlansin yoki lot qiymatining 10 foizidan oshmasin.\n\n3. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Ишчи ходимларини тасдиқланган рўйхати мехнат ресурслари базаси мy.mehnat.uz билан интеграция қилинган ишчи ходимларининг тасдиқланган маълумоти- Жами - 10 балл.»\n   Savolimiz: Ball my.mehnat.uz bazasi bilan integratsiyalangan xodimlar ro'yxatiga beriladi (to'liq bo'lmasa 1 ball). Xorijiy yoki bu bazada ro'yxatdan o'tmagan ishlab chiqaruvchi va ta'minotchilar uchun bu shartni bajarish qiyin bo'lishi mumkin; bitta transformator yetkazib berishda xodimlar soni natijaga bevosita bog'liq emas.\n   Taklif etilayotgan tahrir: Xodimlar haqidagi ma'lumot ixtiyoriy shaklda (my.mehnat.uz yoki ekvivalent hujjat) qabul qilinsin va ball farqi kamaytirilsin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (03.12.2026 08:27) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 33,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.6667,
+  "top_winner_share": 0.2424,
+  "share_price_drop_lt1pct": 0.4242,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 549964800.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 16.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,281 @@
+{
+ "lot_id": 524324,
+ "display_no": "26120012524324",
+ "title": "3 дона грязевой",
+ "url": "https://etender.uzex.uz/lot/524324",
+ "customer": {
+  "name": "O`ZBEKISTON RESPUBLIKASI FVV",
+  "tin": "201862006"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 1590498000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T17:11:37",
+ "end_date": "2026-11-24T17:11:37",
+ "clarific_date": "2026-11-24T17:11:37",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 60,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарларни шеф-монтаж, монтаж (ўрнатиш) ва созлаш ишларини амалга ошириш (агар ушбу ишлар етказиб берувчи томонидан бажарилса) бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524324.pdf",
+  "pages": 6,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Shlang va uskunalar to'plamiga ega, tirkamaga o'rnatilgan yuqori bosimli dizel motopompa (3 komplekt)",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Бюджет",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "delivery",
+   "summary_uz": "Shlang va uskunalar to'plamiga ega 3 komplekt tirkamali motopompa yetkaziladi.",
+   "summary_en": "3 complete sets of trailer-mounted motor pumps with hoses and equipment are to be delivered.",
+   "quote": "shlanglar va uskunalar to‘plamiga ega, yuqori bosimli, tirkamali motopompa — 3 (uch) komplekt",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati ko'pi bilan 150 ish kuni.",
+   "summary_en": "Delivery time is at most 150 working days.",
+   "quote": "Yetkazib berish muddati — ko‘pi bilan 150 ish kuni",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Motopompa yangi, 2026-yildan oldin ishlab chiqarilmagan bo'lishi kerak.",
+   "summary_en": "The pump must be new and not manufactured before 2026.",
+   "quote": "Tirkamali motopompa yangi bo‘lishi, 2026-yildan oldin ishlab chiqarilmagan bo‘lishi",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "O'tkaziladigan zarrachalar diametri ko'pi bilan 79 mm.",
+   "summary_en": "Passable particle diameter is stated as at most 79 mm.",
+   "quote": "O‘tkaziladigan zarrachalar diametri, mm, ko‘pi bilan 79",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Motopompa GOST R 53332-2019 bo'yicha ishonchlilik ko'rsatkichlariga ega bo'lishi kerak.",
+   "summary_en": "The pump must meet the reliability indicators of GOST R 53332-2019.",
+   "quote": "Motopompa GOST R 53332-2019 ga muvofiq quyidagi ishonchlilik ko‘rsatkichlariga ega bo‘lishi kerak",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "To'plamga diametri 350 mm, uzunligi 4 m so'rish shlangi (2 komplekt) kiradi.",
+   "summary_en": "The set includes suction hoses of 350 mm diameter and 4 m length (2 sets).",
+   "quote": "diametri 350 mm, uzunligi 4 m bo‘lgan, biriktiruvchi kallakli so‘rish shlangi — 2 komplekt",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "other",
+   "summary_uz": "Kafolat muddati qabul qilish dalolatnomasi imzolangan kundan kamida 18 oy.",
+   "summary_en": "Warranty is at least 18 months from the signed acceptance act.",
+   "quote": "Motopompaning kafolatli foydalanish muddati tovar yuk xati va qabul qilish-topshirish dalolatnomalari tomonlar tomonidan imzolangan kundan boshlab kamida 18 oy bo‘lishi kerak",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Nuqsonli tovar almashtirish arizadan keyin 3 ish kunida amalga oshiriladi.",
+   "summary_en": "A defective unit must be replaced within 3 working days of the customer's request.",
+   "quote": "Nuqsonli yoki nosoz tovarni almashtirish muddati Buyurtmachi ariza bergan sanadan boshlab 3 (uch) ish kunini tashkil etadi",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Ishlab chiqaruvchi bilan to'g'ridan-to'g'ri yetkazib berish bo'yicha qo'shma shartnomalar 10 ball beradi, yuklanmasa 1 ball.",
+   "summary_en": "Joint contracts for direct supply from the manufacturer earn 10 points, 1 point if not uploaded.",
+   "quote": "ишлаб чиқарувчидан тўғридан-тўғри етказиб бериш бўйича ўзаро қўшма шартномалар",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Montaj, demontaj va kalibrovka bo'yicha mutaxassislar mavjudligi to'g'risidagi ma'lumot 10 ball beradi.",
+   "summary_en": "Information on installation, dismantling and calibration specialists earns up to 10 points.",
+   "quote": "Махсулотни монтаж демонтаж ва калибировка қилиш бўйича мутахасисларни борлиги бўйича маьлумот",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "O'xshash obyektlarda ish tajribasi va avval yetkazilgan hajmlar (shartnoma, hisob-faktura, tavsiyanoma) 20 ball beradi.",
+   "summary_en": "Similar-supply experience and previously delivered volumes (contracts, invoices, references) earn up to 20 points.",
+   "quote": "ўз кучлари билан илгари етказиб берилган маҳсулотлар (иш ва хизматлар) ҳажмлари тўҳрисида маълумотлар",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "dealer_letter",
+   "severity": "medium",
+   "quote": "ишлаб чиқарувчидан тўғридан-тўғри етказиб бериш бўйича ўзаро қўшма шартномалар",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "3-mezonda (10 ball) ishlab chiqaruvchi bilan to'g'ridan-to'g'ri yetkazib berish bo'yicha o'zaro qo'shma shartnomalar PDF sifatida yuklanmasa 1 ball, yuklansa 10 ball beriladi. Bu 9 ball farq (texnik qismdagi 70 balldan) ishlab chiqaruvchi bilan rasmiy shartnomasi bo'lmagan, lekin mahsulotni ochiq bozordan yetkaza oladigan ta'minotchilarni ortda qoldirishi mumkin.",
+   "explanation_en": "Criterion 3 (10 points) gives 10 points only if joint contracts with the manufacturer for direct supply are uploaded, otherwise 1 point. This 9-point gap (out of 70 technical points) may disadvantage suppliers who can deliver the product but have no formal manufacturer contract.",
+   "rewrite_uz": "Kafolat davrida xizmat ko'rsatish imkoniyati (ishlab chiqaruvchi yoki vakolatli servis bilan shartnoma, yoki ijrochining o'z servisi) tasdiqlansa, to'liq ball beriladi.",
+   "rewrite_en": "Full points are given if warranty service capability is confirmed, by a manufacturer or authorised-service contract or by the bidder's own service.",
+   "type_label_uz": "Ishlab chiqaruvchi yoki diler xati talabi",
+   "type_label_en": "Manufacturer or dealer letter required",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "low",
+   "quote": "таклиф қилиниши енг юқори рейтинга эга ишлаб чиқарувчи",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "2-mezonda (10 ball) \"eng yuqori reytingga ega ishlab chiqaruvchi\" 10 ball, quyiroq reytingdagi 5 ball, qolgani 1 ball oladi, ammo reyting manbai va o'lchovi hujjatda ko'rsatilmagan. Bu komissiyaga keng ixtiyor beradi va ballar farqi 9 ballgacha yetadi.",
+   "explanation_en": "Criterion 2 (10 points) gives 10 to the manufacturer with the highest rating, 5 to a lower rating and 1 otherwise, but the document does not say which rating source or scale applies. This leaves wide discretion and the spread reaches 9 points.",
+   "rewrite_uz": "Reyting manbasini va o'lchovini aniq ko'rsating (masalan, nomi aytilgan mustaqil reyting yoki kafolat muddati va bozorda ishlash yillari bo'yicha aniq shkala).",
+   "rewrite_en": "State the rating source and scale explicitly, for example a named independent rating or a clear scale based on warranty length and years on the market.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "narrow_params",
+   "severity": "low",
+   "quote": "Tirkamali motopompa belgilangan tartibda tasdiqlangan, muayyan model uchun ishlab chiqilgan ushbu Texnik topshiriq hamda ishchi chizmalar talablariga javob berishi kerak",
+   "page": 3,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Texnik topshiriq muayyan model uchun ishlab chiqilgan ish chizmalariga moslikni talab qiladi, shu bilan birga bir nechta o'lcham bir vaqtda belgilangan (zarracha 79 mm, quvur 350/300 mm, bosim 27 m, unumdorlik 1300 m3/soat, massa 3700 kg gacha). Bunday kombinatsiya bitta modelga mos kelishi mumkin; bir savol berib aniqlashtirish foydali.",
+   "explanation_en": "The specification requires conformity with working drawings developed for a particular model and, at the same time, fixes many figures together (particles 79 mm, pipes 350/300 mm, head 27 m, capacity 1300 m3/h, mass up to 3700 kg). This combination may match a single model, so one clarifying question is worthwhile.",
+   "rewrite_uz": "Chizmalarga bog'liq talabni olib tashlang va asosiy ko'rsatkichlarni diapazon bilan bering (masalan, unumdorlik 1100-1400 m3/soat, bosim kamida 25 m), \"yoki ekvivalent\" ruxsatini qo'shing.",
+   "rewrite_en": "Remove the drawing-based requirement and give key parameters as ranges (for example capacity 1100-1400 m3/h, head at least 25 m), allowing 'or equivalent'.",
+   "type_label_uz": "Haddan tashqari tor texnik parametrlar",
+   "type_label_en": "Over-narrow technical parameters",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 66,
+ "traffic_light": "amber",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 34,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Ishlab chiqaruvchi yoki diler xati talabi (platformadagi mezonlar): 3-mezonda (10 ball) ishlab chiqaruvchi bilan to'g'ridan-to'g'ri yetkazib berish bo'yicha o'zaro qo'shma shartnomalar PDF sifatida yuklanmasa 1 ball, yuklansa 10 ball beriladi. Bu 9 ball farq (texnik qismdagi 70 balldan) ishlab chiqaruvchi bilan rasmiy shartnomasi bo'lmagan, lekin mahsulotni ochiq bozordan yetkaza oladigan ta'minotchilarni ortda qoldirishi mumkin.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): 2-mezonda (10 ball) \"eng yuqori reytingga ega ishlab chiqaruvchi\" 10 ball, quyiroq reytingdagi 5 ball, qolgani 1 ball oladi, ammo reyting manbai va o'lchovi hujjatda ko'rsatilmagan. Bu komissiyaga keng ixtiyor beradi va ballar farqi 9 ballgacha yetadi.",
+   "Haddan tashqari tor texnik parametrlar (3-bet): Texnik topshiriq muayyan model uchun ishlab chiqilgan ish chizmalariga moslikni talab qiladi, shu bilan birga bir nechta o'lcham bir vaqtda belgilangan (zarracha 79 mm, quvur 350/300 mm, bosim 27 m, unumdorlik 1300 m3/soat, massa 3700 kg gacha). Bunday kombinatsiya bitta modelga mos kelishi mumkin; bir savol berib aniqlashtirish foydali.",
+   "Tushuntirish so'rash muddati: 24.11.2026 17:11."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Manufacturer or dealer letter required (platform criteria form): Criterion 3 (10 points) gives 10 points only if joint contracts with the manufacturer for direct supply are uploaded, otherwise 1 point. This 9-point gap (out of 70 technical points) may disadvantage suppliers who can deliver the product but have no formal manufacturer contract.",
+   "Other clause that may limit competition (platform criteria form): Criterion 2 (10 points) gives 10 to the manufacturer with the highest rating, 5 to a lower rating and 1 otherwise, but the document does not say which rating source or scale applies. This leaves wide discretion and the spread reaches 9 points.",
+   "Over-narrow technical parameters (page 3): The specification requires conformity with working drawings developed for a particular model and, at the same time, fixes many figures together (particles 79 mm, pipes 350/300 mm, head 27 m, capacity 1300 m3/h, mass up to 3700 kg). This combination may match a single model, so one clarifying question is worthwhile.",
+   "Clarification requests are accepted until 24.11.2026 17:11."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik topshiriqqa mosligini tasdiqlovchi hujjatlar (PDF)",
+  "Ishlab chiqaruvchi mahsulotlari va kafolat muddati to'g'risida ma'lumot (PDF)",
+  "Ishlab chiqaruvchi bilan xizmat ko'rsatish va yetkazib berish bo'yicha qo'shma shartnomalar (PDF)",
+  "Montaj, demontaj va kalibrovka bo'yicha mutaxassislar to'g'risida ma'lumot va asoslovchi hujjatlar",
+  "O'xshash yetkazib berish tajribasi: shartnomalar, hisob-fakturalar, tavsiyanomalar",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+  "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik yo'qligi to'g'risida ma'lumot",
+  "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi to'g'risida ariza",
+  "Halollik va qonunchilikka rioya etish to'g'risidagi bayonot",
+  "Taklif ta'minoti (lot narxining 3 foizi)"
+ ],
+ "clarification_letter_uz": "Kimga: O`ZBEKISTON RESPUBLIKASI FVV, xarid komissiyasiga\nLot raqami: 26120012524324\nXarid predmeti: 3 дона грязевой\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «ишлаб чиқарувчидан тўғридан-тўғри етказиб бериш бўйича ўзаро қўшма шартномалар»\n   Savolimiz: 3-mezonda (10 ball) ishlab chiqaruvchi bilan to'g'ridan-to'g'ri yetkazib berish bo'yicha o'zaro qo'shma shartnomalar PDF sifatida yuklanmasa 1 ball, yuklansa 10 ball beriladi. Bu 9 ball farq (texnik qismdagi 70 balldan) ishlab chiqaruvchi bilan rasmiy shartnomasi bo'lmagan, lekin mahsulotni ochiq bozordan yetkaza oladigan ta'minotchilarni ortda qoldirishi mumkin.\n   Taklif etilayotgan tahrir: Kafolat davrida xizmat ko'rsatish imkoniyati (ishlab chiqaruvchi yoki vakolatli servis bilan shartnoma, yoki ijrochining o'z servisi) tasdiqlansa, to'liq ball beriladi.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «таклиф қилиниши енг юқори рейтинга эга ишлаб чиқарувчи»\n   Savolimiz: 2-mezonda (10 ball) \"eng yuqori reytingga ega ishlab chiqaruvchi\" 10 ball, quyiroq reytingdagi 5 ball, qolgani 1 ball oladi, ammo reyting manbai va o'lchovi hujjatda ko'rsatilmagan. Bu komissiyaga keng ixtiyor beradi va ballar farqi 9 ballgacha yetadi.\n   Taklif etilayotgan tahrir: Reyting manbasini va o'lchovini aniq ko'rsating (masalan, nomi aytilgan mustaqil reyting yoki kafolat muddati va bozorda ishlash yillari bo'yicha aniq shkala).\n\n3. Texnik topshiriq, 3-bet.\n   Hujjatdagi matn: «Tirkamali motopompa belgilangan tartibda tasdiqlangan, muayyan model uchun ishlab chiqilgan ushbu Texnik topshiriq hamda ishchi chizmalar talablariga javob berishi kerak»\n   Savolimiz: Texnik topshiriq muayyan model uchun ishlab chiqilgan ish chizmalariga moslikni talab qiladi, shu bilan birga bir nechta o'lcham bir vaqtda belgilangan (zarracha 79 mm, quvur 350/300 mm, bosim 27 m, unumdorlik 1300 m3/soat, massa 3700 kg gacha). Bunday kombinatsiya bitta modelga mos kelishi mumkin; bir savol berib aniqlashtirish foydali.\n   Taklif etilayotgan tahrir: Chizmalarga bog'liq talabni olib tashlang va asosiy ko'rsatkichlarni diapazon bilan bering (masalan, unumdorlik 1100-1400 m3/soat, bosim kamida 25 m), \"yoki ekvivalent\" ruxsatini qo'shing.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (24.11.2026 17:11) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 4,
+  "median_bidders": 2.5,
+  "share_le2_bidders": 0.5,
+  "top_winner_share": 0.5,
+  "share_price_drop_lt1pct": 0.25,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 216943927.2,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

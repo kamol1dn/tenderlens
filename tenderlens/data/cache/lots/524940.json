@@ -1,0 +1,265 @@
+{
+ "lot_id": 524940,
+ "display_no": "26120012524940",
+ "title": "Oziq ovqat mahsulotlari harid qilish",
+ "url": "https://etender.uzex.uz/lot/524940",
+ "customer": {
+  "name": "\"NEFTGAZMONTAJ\" MCHJ",
+  "tin": "204993861"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 746644715.04,
+ "currency": "UZS",
+ "start_date": "2026-11-11T17:13:35",
+ "end_date": "2026-11-18T17:13:35",
+ "clarific_date": "2026-11-18T17:13:35",
+ "type": "selection",
+ "old_id": 520254,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 20,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524940.zip",
+  "pages": 16,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Ovqatlanishni ta'minlash uchun oziq-ovqat mahsulotlari (go'sht, sabzavot, tuxum, un va boshqalar) yetkazib berish, 6 ta obyektga",
+ "sector": "food",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Texnik topshiriqda 35 turdagi oziq-ovqat (go'sht, kolbasa, tuxum, yog', non, yorma, sabzavot va boshqalar) haftada bir marta yetkazib berish bilan ko'rsatilgan; lot sarlavhasida faqat 15 tasi bor.",
+   "summary_en": "The specification lists 35 food items delivered once a week; the lot header lists only 15 of them.",
+   "quote": "Yetkazib berish joyi Muborak, Gazli, Olot, Omirobod, Sho‘rtan, Toshkent",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Mahsulot yangi, nuqsonsiz va kamida 2026-yilda ishlab chiqarilgan bo'lishi kerak.",
+   "summary_en": "Goods must be new, defect-free and produced in 2026 or later.",
+   "quote": "Tovar yangi, nuqsonlarsiz, ishlab chiqarilgan yili 2026-yildan kam bo‘lmagan bo‘lishi kerak.",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "4-shaklda xizmat ko'rsatish muddati ko'pi bilan 15 kun, kafolat muddati 12 oy; mahsulotlar bo'yicha qiyoslash jadvali (3.1-shakl) taqdim etiladi.",
+   "summary_en": "Form 4 sets a service term of no more than 15 days and a 12-month warranty; a product comparison table (Form 3.1) is submitted.",
+   "quote": "Terms of provision of services / performance of works: no more than 15 days",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "delivery",
+   "summary_uz": "Texnik topshiriqda yetkazib berish muddati '2026-yil 15-sentabrgacha / 3 kun ichida' deb yozilgan, lot sarlavhasida esa 10 oy, 4-shaklda 15 kun ko'rsatilgan.",
+   "summary_en": "The specification gives delivery as 'by 15 September 2026 / within 3 days', while the lot header shows 10 months and Form 4 shows 15 days.",
+   "quote": "Kutilayotgan yetkazib berish muddati 2026-yil 15-sentabrgacha / 3 kun ichida",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchining ishbilarmonlik obro'sini (xodimlar malakasi, tajriba) tasdiqlovchi hujjatlar kerak.",
+   "summary_en": "Documents confirming business reputation (staff qualification, experience) are required.",
+   "quote": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Tanlash e'lonidan kamida 6 oy oldin davlat ro'yxatidan o'tganlik guvohnomasi talab qilinadi.",
+   "summary_en": "A state registration certificate dated at least 6 months before the announcement is required.",
+   "quote": "Tanlash o‘tkazilishi to‘g‘risidagi e’lon joylashtirilgan sanada kamida 6 oy avval davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnoma (rezidentlar uchun).",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Kafolat xatida (2-shakl) Buyurtmachi bilan sud yoki hakamlik ishi va oxirgi 3 yilda noto'g'ri bajarilgan shartnomalar yo'qligi tasdiqlanadi.",
+   "summary_en": "The guarantee letter (Form 2) confirms no court or arbitration case with the customer and no poorly performed contracts in the last 3 years.",
+   "quote": "Ishtirokchi “NEFTGAZMONTAJ” MCHJ bilan sud yoki hakamlik muhokamasi holatida emas;",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Texnik qism 70 foiz, narx 30 foiz; 4 ta ekspert mezoni 10 balldan, o'tish bali 20.",
+   "summary_en": "Technical part 70 percent, price 30 percent; four expert criteria of 10 points each, pass mark 20.",
+   "quote": "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "payment",
+   "summary_uz": "To'lov bajarilgan ishlar dalolatnomasi asosida; oldindan to'lov 30 foiz, 15 kun ichida; taklif ta'minoti 3 foiz.",
+   "summary_en": "Payment against the acceptance act; 30 percent advance, payment within 15 days; bid security 3 percent.",
+   "quote": "To'lov shartlari: bajarilgan ishlar bo‘yicha bajarilgan ishlar dalolatnomasiga muvofiq",
+   "page": 9,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Ushbu mezon bo'yicha 10 ball beriladi (4 ta mezonning har biri 10 ball, ya'ni jami 40 ball; texnik qism umumiy bahoning 70 foizi, shuning uchun bu mezon umumiy bahoning taxminan 17,5 foizi). Mezon tovarga xizmat ko'rsatish va uni ekspluatatsiya qilishga oid bo'lib, oziq-ovqat mahsulotlariga (go'sht, tuxum, sabzavot) tatbiq etilmaydi va standart shablon matniga o'xshaydi. Shu sababli ballar mahsulot sifatiga bog'liq bo'lmagan asosda taqsimlanishi mumkin.",
+   "explanation_en": "This criterion carries 10 of the 40 technical points (the technical part is 70 percent of the total, so about 17.5 points out of 100). It concerns servicing and operating goods, which does not apply to food items such as meat, eggs or vegetables, and looks like standard template wording. Points could therefore be awarded on a basis unrelated to product quality.",
+   "rewrite_uz": "Bu mezonni olib tashlang yoki uni mahsulotni yetkazib berish va saqlash shartlari (sovutish zanjiri, qadoqlash, qabul qilish tartibi) bo'yicha aniq balli mezon bilan almashtiring.",
+   "rewrite_en": "Remove this criterion or replace it with a clearly scored criterion on delivery and storage conditions (cold chain, packaging, acceptance procedure).",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "unrealistic_deadline",
+   "severity": "medium",
+   "quote": "Kutilayotgan yetkazib berish muddati 2026-yil 15-sentabrgacha / 3 kun ichida",
+   "page": 15,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Texnik topshiriqdagi yetkazib berish sanasi (2026-yil 15-sentabr) lot e'lon qilingan 11-noyabrdan oldin o'tib ketgan, '3 kun ichida' esa 6 ta obyektga yetkazish uchun juda qisqa. Bunday muddat faqat tayyor zaxirasi bor yetkazib beruvchiga mos keladi, ayni paytda lot sarlavhasida 10 oy va 4-shaklda 15 kun ko'rsatilgan, ya'ni muddatlar o'zaro mos emas.",
+   "explanation_en": "The delivery date in the specification (15 September 2026) was already past when the lot was published on 11 November, and 'within 3 days' is very short for six sites. Such a term suits only a supplier with ready stock, and it conflicts with the 10 months in the lot header and the 15 days in Form 4.",
+   "rewrite_uz": "Yetkazib berish haftalik grafik asosida shartnoma imzolangan kundan boshlab 10 oy davomida amalga oshiriladi; birinchi partiya shartnoma imzolangandan keyin kamida 7 kun ichida yetkaziladi.",
+   "rewrite_en": "Delivery follows a weekly schedule for 10 months from the contract signing date; the first batch is delivered within at least 7 days after signing.",
+   "type_label_uz": "Bajarish qiyin bo'lgan muddat",
+   "type_label_en": "Deadline that is hard to meet",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "other",
+   "severity": "low",
+   "quote": "Tanlash o‘tkazilishi to‘g‘risidagi e’lon joylashtirilgan sanada kamida 6 oy avval davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnoma (rezidentlar uchun).",
+   "page": 3,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Davlat ro'yxatidan kamida 6 oy oldin o'tgan bo'lish talab qilinadi. Bu yaqinda ro'yxatdan o'tgan, lekin oziq-ovqat yetkazib berishga qodir korxonalarni chetlatadi. Mahsulot yetkazish xususiyatlari bilan bog'liq asos ko'rsatilmagan.",
+   "explanation_en": "The bidder must have been registered at least 6 months before the announcement. This shuts out recently registered firms that are fully able to supply food, and no reason tied to the goods is given.",
+   "rewrite_uz": "Ishtirokchi davlat ro'yxatidan o'tgan yuridik shaxs yoki yakka tartibdagi tadbirkor bo'lishi kerak (ro'yxatdan o'tganlik guvohnomasi taqdim etiladi).",
+   "rewrite_en": "The bidder must be a registered legal entity or sole proprietor (a registration certificate is submitted).",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 44,
+ "traffic_light": "red",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 50,
+  "history_penalty": 6.4,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): Ushbu mezon bo'yicha 10 ball beriladi (4 ta mezonning har biri 10 ball, ya'ni jami 40 ball; texnik qism umumiy bahoning 70 foizi, shuning uchun bu mezon umumiy bahoning taxminan 17,5 foizi). Mezon tovarga xizmat ko'rsatish va uni ekspluatatsiya qilishga oid bo'lib, oziq-ovqat mahsulotlariga (go'sht, tuxum, sabzavot) tatbiq etilmaydi va standart shablon matniga o'xshaydi. Shu sababli ballar mahsulot sifatiga bog'liq bo'lmagan asosda taqsimlanishi mumkin.",
+   "Bajarish qiyin bo'lgan muddat (15-bet): Texnik topshiriqdagi yetkazib berish sanasi (2026-yil 15-sentabr) lot e'lon qilingan 11-noyabrdan oldin o'tib ketgan, '3 kun ichida' esa 6 ta obyektga yetkazish uchun juda qisqa. Bunday muddat faqat tayyor zaxirasi bor yetkazib beruvchiga mos keladi, ayni paytda lot sarlavhasida 10 oy va 4-shaklda 15 kun ko'rsatilgan, ya'ni muddatlar o'zaro mos emas.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (3-bet): Davlat ro'yxatidan kamida 6 oy oldin o'tgan bo'lish talab qilinadi. Bu yaqinda ro'yxatdan o'tgan, lekin oziq-ovqat yetkazib berishga qodir korxonalarni chetlatadi. Mahsulot yetkazish xususiyatlari bilan bog'liq asos ko'rsatilmagan.",
+   "Buyurtmachining so'nggi 7 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 86% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 14%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 520254).",
+   "Tushuntirish so'rash muddati: 18.11.2026 17:13."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): This criterion carries 10 of the 40 technical points (the technical part is 70 percent of the total, so about 17.5 points out of 100). It concerns servicing and operating goods, which does not apply to food items such as meat, eggs or vegetables, and looks like standard template wording. Points could therefore be awarded on a basis unrelated to product quality.",
+   "Deadline that is hard to meet (page 15): The delivery date in the specification (15 September 2026) was already past when the lot was published on 11 November, and 'within 3 days' is very short for six sites. Such a term suits only a supplier with ready stock, and it conflicts with the 10 months in the lot header and the 15 days in Form 4.",
+   "Other clause that may limit competition (page 3): The bidder must have been registered at least 6 months before the announcement. This shuts out recently registered firms that are fully able to supply food, and no reason tied to the goods is given.",
+   "In the customer's last 7 deals the median number of bidders was 2; 86% of deals had two or fewer bidders; the most frequent winner took 14%.",
+   "This lot was re-announced (previous lot: 520254).",
+   "Clarification requests are accepted until 18.11.2026 17:13."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirokchi haqida umumiy ma'lumot (1-shakl)",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi",
+  "Kafolat xati (2-shakl)",
+  "Halollik majburiyati to'g'risida ariza (2-ilova)",
+  "Taklif arizasi (3-shakl)",
+  "Taklif etilayotgan tovarlarning texnik xususiyatlarini qiyoslash jadvali (3.1-shakl)",
+  "Xizmat ko'rsatish yoki ish bajarish tajribasi (3.2-shakl) va ishbilarmonlik obro'sini tasdiqlovchi hujjatlar",
+  "Yetkazib berish va to'lov shartlari haqida ma'lumot (4-shakl)",
+  "Mahsulotlar uchun sertifikat yoki sifat pasporti (GOST/TU bo'yicha)",
+  "Mahsulotlarning yaroqlilik va saqlash muddatini tasdiqlovchi hujjatlar",
+  "Sifat kafolatiga oid hujjatlar (kamida 12 oy)",
+  "Yuklash zarur",
+  "yuklash shart"
+ ],
+ "clarification_letter_uz": "Kimga: \"NEFTGAZMONTAJ\" MCHJ, xarid komissiyasiga\nLot raqami: 26120012524940\nXarid predmeti: Oziq ovqat mahsulotlari harid qilish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар»\n   Savolimiz: Ushbu mezon bo'yicha 10 ball beriladi (4 ta mezonning har biri 10 ball, ya'ni jami 40 ball; texnik qism umumiy bahoning 70 foizi, shuning uchun bu mezon umumiy bahoning taxminan 17,5 foizi). Mezon tovarga xizmat ko'rsatish va uni ekspluatatsiya qilishga oid bo'lib, oziq-ovqat mahsulotlariga (go'sht, tuxum, sabzavot) tatbiq etilmaydi va standart shablon matniga o'xshaydi. Shu sababli ballar mahsulot sifatiga bog'liq bo'lmagan asosda taqsimlanishi mumkin.\n   Taklif etilayotgan tahrir: Bu mezonni olib tashlang yoki uni mahsulotni yetkazib berish va saqlash shartlari (sovutish zanjiri, qadoqlash, qabul qilish tartibi) bo'yicha aniq balli mezon bilan almashtiring.\n\n2. Texnik topshiriq, 15-bet.\n   Hujjatdagi matn: «Kutilayotgan yetkazib berish muddati 2026-yil 15-sentabrgacha / 3 kun ichida»\n   Savolimiz: Texnik topshiriqdagi yetkazib berish sanasi (2026-yil 15-sentabr) lot e'lon qilingan 11-noyabrdan oldin o'tib ketgan, '3 kun ichida' esa 6 ta obyektga yetkazish uchun juda qisqa. Bunday muddat faqat tayyor zaxirasi bor yetkazib beruvchiga mos keladi, ayni paytda lot sarlavhasida 10 oy va 4-shaklda 15 kun ko'rsatilgan, ya'ni muddatlar o'zaro mos emas.\n   Taklif etilayotgan tahrir: Yetkazib berish haftalik grafik asosida shartnoma imzolangan kundan boshlab 10 oy davomida amalga oshiriladi; birinchi partiya shartnoma imzolangandan keyin kamida 7 kun ichida yetkaziladi.\n\n3. Texnik topshiriq, 3-bet.\n   Hujjatdagi matn: «Tanlash o‘tkazilishi to‘g‘risidagi e’lon joylashtirilgan sanada kamida 6 oy avval davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnoma (rezidentlar uchun).»\n   Savolimiz: Davlat ro'yxatidan kamida 6 oy oldin o'tgan bo'lish talab qilinadi. Bu yaqinda ro'yxatdan o'tgan, lekin oziq-ovqat yetkazib berishga qodir korxonalarni chetlatadi. Mahsulot yetkazish xususiyatlari bilan bog'liq asos ko'rsatilmagan.\n   Taklif etilayotgan tahrir: Ishtirokchi davlat ro'yxatidan o'tgan yuridik shaxs yoki yakka tartibdagi tadbirkor bo'lishi kerak (ro'yxatdan o'tganlik guvohnomasi taqdim etiladi).\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 17:13) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 7,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.8571,
+  "top_winner_share": 0.1429,
+  "share_price_drop_lt1pct": 0.2857,
+  "reannounced_lots": 2
+ },
+ "money_on_table_uzs": 101842339.13,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

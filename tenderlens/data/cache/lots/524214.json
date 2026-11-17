@@ -1,0 +1,242 @@
+{
+ "lot_id": 524214,
+ "display_no": "26110012524214",
+ "title": "«Surxondaryo viloyatidagi avtomobil yo‘llarida gorizontal yo‘l chiziqlarini chizish (yo‘l belgilari chiziqlarini tushirish) ishlarini bajarish»",
+ "url": "https://etender.uzex.uz/lot/524214",
+ "customer": {
+  "name": "Автойулбелги ДМ",
+  "tin": "305101036"
+ },
+ "region": "Сурхандарё вилояти",
+ "start_cost": 2500000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T17:03:31",
+ "end_date": "2026-11-23T17:03:31",
+ "clarific_date": "2026-11-23T17:03:31",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 35,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 35.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524214.pdf",
+  "pages": 4,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Surxondaryo viloyati avtomobil yo'llarida 500 km gorizontal yo'l chiziqlarini chizish ishlari",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "unknown",
+ "financing_source": "«O‘z mablag‘lari hisobidan».",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Ishlar Surxondaryo viloyatidagi xalqaro, davlat va mahalliy yo'llarda jami 500 km hajmda, O'zMSt 562:2025 talablariga muvofiq bajarilishi kerak.",
+   "summary_en": "Works cover 500 km of horizontal road markings on international, state and local roads in Surxondaryo, to standard O'zMSt 562:2025.",
+   "quote": "Umumiy hajmi — 500 km. Ishlar O‘zMSt 562:2025 va texnik topshiriq talablariga muvofiq bajarilishi lozim.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "Ishlar shartnoma kuchga kirgan kundan 2026-yil 31-dekabrgacha tugallanishi kerak.",
+   "summary_en": "Works must be completed from contract entry into force until 31 December 2026.",
+   "quote": "Ishlarni bajarish muddati — shartnoma kuchga kirgan kundan 2026-yil 31-dekabrgacha.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Texnik talablarga muvofiqlik uchun 35 ball: O'zMSt 562:2025 bo'yicha texnik taklif, EN 1436, EN 1824, EN 1871, EN 13197 hisobotlari va ISO/IEC 17025 akkreditatsiyasi hujjati; hujjat bo'lmasa ball berilmaydi.",
+   "summary_en": "35 points for technical conformity: technical offer to O'zMSt 562:2025, EN 1436 / 1824 / 1871 / 13197 reports and an ISO/IEC 17025 accreditation document; no document, no points.",
+   "quote": "EN 1436, EN 1824, EN 1871, EN 13197 bo'yicha sinov hisobotlari, O'zMSt ISO/IEC 17025 bo'yicha akkreditatsiya hujjati",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Texnika va uskunalar mavjudligi uchun 15 ball (mulk, ijara yoki lizing hujjatlari bilan).",
+   "summary_en": "15 points for machinery and equipment held by ownership, rent or lease, with supporting documents.",
+   "quote": "Texnika va uskunalar ro'yxati va tasdiqlovchi hujjatlar",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Xodimlar va tajriba uchun jami 15 ball: xodimlar tarkibi 5 ballgacha, oxirgi 3 yilda 3 va undan ortiq shartnoma 10 ball.",
+   "summary_en": "15 points for staff and experience: staffing up to 5 points, 3 or more similar contracts in the last 3 years 10 points.",
+   "quote": "Xodimlar ro'yxati, diplom, mehnat shartnomalari, bajarilgan shartnomalar va dalolatnomalar",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Kafolat va bajarish muddati taklifi uchun 5 ball.",
+   "summary_en": "5 points for the offered warranty and completion period.",
+   "quote": "kafolat muddati va ishlarni bajarish muddati bo'yicha taklif",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi O'zbekiston rezidenti yuridik shaxs bo'lib, tegishli faoliyat huquqi va tajribasiga ega bo'lishi kerak.",
+   "summary_en": "Bidder must be a resident legal entity of Uzbekistan with the right and experience to carry out the activity.",
+   "quote": "rezidenti boflgan ham da am aldagi qonunchilikka m uvofiq tegishli faoliyatni am alga oshirish huquqiga va tajribasiga ega boflgan yuridik shaxslar",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "payment",
+   "summary_uz": "15 foiz avans shartnoma ro'yxatdan o'tgach to'lanadi; yakuniy hisob-kitob dalolatnoma va hisob-faktura asosida, mablag' kelib tushgach amalga oshiriladi.",
+   "summary_en": "15 percent advance after contract registration; final settlement on acts and invoices, paid when funds arrive from the road authority.",
+   "quote": "Buyurtmachi tom onidan Surxondaryo viloyati Avtom obil yo‘llari bosh boshqarm asidan (AYBB) bajarilgan ishlar uchun m ablag‘lar kelib tushishi",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Majburiy hujjatlar: ro'yxatdan o'tish guvohnomasi, soliq va rekvizitlar, narx taklifi, material sertifikatlari va sinov hujjatlari, texnika ro'yxati, tajriba hujjatlari, halollik majburiyati arizasi.",
+   "summary_en": "Mandatory documents include registration certificate, tax and bank details, price offer, material certificates and test documents, equipment list, experience documents and an integrity statement.",
+   "quote": "m ateriallar b o ‘yicha sertifikatlar va sinov hujjatlari;",
+   "page": 3,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "EN 1436, EN 1824, EN 1871, EN 13197 bo'yicha sinov hisobotlari, O'zMSt ISO/IEC 17025 bo'yicha akkreditatsiya hujjati",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Texnik qismning 70 balidan 35 balli faqat bir nechta xalqaro sinov hisobotlari (EN 1436, 1824, 1871, 13197) va ISO/IEC 17025 akkreditatsiyasi hujjati mavjud bo'lganda beriladi; o'tish bali ham 35. Bunday hisobotlarni odatda bo'yoq ishlab chiqaruvchisi yoki akkreditatsiyalangan laboratoriya beradi, shuning uchun hisobotlarsiz ishtirokchi qolgan mezonlardan to'liq ball olsagina o'tish balining o'ziga yetadi.",
+   "explanation_en": "35 of the 70 technical points are awarded only if a set of international test reports (EN 1436, 1824, 1871, 13197) and an ISO/IEC 17025 accreditation document are attached, and the pass mark is also 35. These reports normally come from a paint maker or an accredited laboratory, so a capable marking contractor without them can only just reach the pass mark by scoring full points on every other criterion.",
+   "rewrite_uz": "O'zMSt 562:2025 talablariga muvofiqlik sinov hisobotlari (EN 1436 yoki unga teng standartlar bo'yicha), ishlatiladigan material ishlab chiqaruvchisi yoki akkreditatsiyalangan laboratoriya tomonidan berilgan bo'lsa, qabul qilinadi; hisobotlar ishtirokchining o'zida bo'lishi shart emas.",
+   "rewrite_en": "Test reports showing conformity with O'zMSt 562:2025 (EN 1436 or equivalent standards) are accepted if issued for the material to be used by its manufacturer or by an accredited laboratory; the bidder itself need not hold them.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "unrealistic_deadline",
+   "severity": "medium",
+   "quote": "Ishlarni bajarish muddati — shartnoma kuchga kirgan kundan 2026-yil 31-dekabrgacha.",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Takliflar 2026-yil 23-noyabrda yopiladi, shartnoma tuzilgach ishlar 31-dekabrgacha, ya'ni taxminan 5 haftada 500 km yo'lda yakunlanishi kerak (summa 2 500 000 000 so'm). Qish oldi sharoitida bu faqat tayyor texnika va materialga ega ishtirokchilar uchun real bo'lishi mumkin; lot ma'lumotlarida esa bajarish muddati 55 oy deb ko'rsatilgan, bu ikki ko'rsatkich bir-biriga mos kelmaydi.",
+   "explanation_en": "Bids close on 23 November 2026 and the works must finish by 31 December, roughly 5 weeks after contract signing, for 500 km of road in late autumn (lot value 2,500,000,000 UZS). This is realistic mainly for bidders who already hold crews, equipment and paint; the lot header also lists a 55-month term, which does not match the stated end date.",
+   "rewrite_uz": "Ishlarni bajarish muddati shartnoma kuchga kirgan kundan boshlab ob-havo sharoitini hisobga olgan holda belgilansin (masalan, 500 km uchun hajm bo'yicha bosqichlar va 2027-yil aprelgacha muddat), yoki muddat taklif etilgan texnika soniga qarab ishtirokchilar tomonidan taklif qilinsin.",
+   "rewrite_en": "Set the completion period from contract entry into force with weather conditions in mind (for example stages by volume and an end date in spring 2027), or let bidders propose the period according to the equipment they commit.",
+   "type_label_uz": "Bajarish qiyin bo'lgan muddat",
+   "type_label_en": "Deadline that is hard to meet",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 56,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 44,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): Texnik qismning 70 balidan 35 balli faqat bir nechta xalqaro sinov hisobotlari (EN 1436, 1824, 1871, 13197) va ISO/IEC 17025 akkreditatsiyasi hujjati mavjud bo'lganda beriladi; o'tish bali ham 35. Bunday hisobotlarni odatda bo'yoq ishlab chiqaruvchisi yoki akkreditatsiyalangan laboratoriya beradi, shuning uchun hisobotlarsiz ishtirokchi qolgan mezonlardan to'liq ball olsagina o'tish balining o'ziga yetadi.",
+   "Bajarish qiyin bo'lgan muddat (platformadagi mezonlar): Takliflar 2026-yil 23-noyabrda yopiladi, shartnoma tuzilgach ishlar 31-dekabrgacha, ya'ni taxminan 5 haftada 500 km yo'lda yakunlanishi kerak (summa 2 500 000 000 so'm). Qish oldi sharoitida bu faqat tayyor texnika va materialga ega ishtirokchilar uchun real bo'lishi mumkin; lot ma'lumotlarida esa bajarish muddati 55 oy deb ko'rsatilgan, bu ikki ko'rsatkich bir-biriga mos kelmaydi.",
+   "Tushuntirish so'rash muddati: 23.11.2026 17:03."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Other clause that may limit competition (platform criteria form): 35 of the 70 technical points are awarded only if a set of international test reports (EN 1436, 1824, 1871, 13197) and an ISO/IEC 17025 accreditation document are attached, and the pass mark is also 35. These reports normally come from a paint maker or an accredited laboratory, so a capable marking contractor without them can only just reach the pass mark by scoring full points on every other criterion.",
+   "Deadline that is hard to meet (platform criteria form): Bids close on 23 November 2026 and the works must finish by 31 December, roughly 5 weeks after contract signing, for 500 km of road in late autumn (lot value 2,500,000,000 UZS). This is realistic mainly for bidders who already hold crews, equipment and paint; the lot header also lists a 55-month term, which does not match the stated end date.",
+   "Clarification requests are accepted until 23.11.2026 17:03."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi nusxasi",
+  "Soliq va bank rekvizitlari ma'lumotnomasi",
+  "Narx taklifi",
+  "O'zMSt 562:2025 ga mos texnik taklif",
+  "EN 1436, EN 1824, EN 1871, EN 13197 bo'yicha sinov hisobotlari",
+  "ISO/IEC 17025 akkreditatsiyasini tasdiqlovchi hujjat",
+  "Materiallar bo'yicha sertifikatlar va sinov hujjatlari",
+  "Texnika va uskunalar ro'yxati hamda ularga egalik, ijara yoki lizing hujjatlari",
+  "Xodimlar ro'yxati, diplomlar, mehnat shartnomalari va shtat jadvali ma'lumotnomasi",
+  "Oxirgi 3 yilda bajarilgan o'xshash ishlar bo'yicha shartnomalar, dalolatnomalar va hisob-fakturalar",
+  "Kafolat muddati va bajarish muddati bo'yicha taklif (kafolat xati)",
+  "Halollik majburiyati to'g'risida ariza",
+  "Benefitsiar to'g'risidagi ma'lumot (portal talab qilsa)"
+ ],
+ "clarification_letter_uz": "Kimga: Автойулбелги ДМ, xarid komissiyasiga\nLot raqami: 26110012524214\nXarid predmeti: «Surxondaryo viloyatidagi avtomobil yo‘llarida gorizontal yo‘l chiziqlarini chizish (yo‘l belgilari chiziqlarini tushirish) ishlarini bajarish»\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «EN 1436, EN 1824, EN 1871, EN 13197 bo'yicha sinov hisobotlari, O'zMSt ISO/IEC 17025 bo'yicha akkreditatsiya hujjati»\n   Savolimiz: Texnik qismning 70 balidan 35 balli faqat bir nechta xalqaro sinov hisobotlari (EN 1436, 1824, 1871, 13197) va ISO/IEC 17025 akkreditatsiyasi hujjati mavjud bo'lganda beriladi; o'tish bali ham 35. Bunday hisobotlarni odatda bo'yoq ishlab chiqaruvchisi yoki akkreditatsiyalangan laboratoriya beradi, shuning uchun hisobotlarsiz ishtirokchi qolgan mezonlardan to'liq ball olsagina o'tish balining o'ziga yetadi.\n   Taklif etilayotgan tahrir: O'zMSt 562:2025 talablariga muvofiqlik sinov hisobotlari (EN 1436 yoki unga teng standartlar bo'yicha), ishlatiladigan material ishlab chiqaruvchisi yoki akkreditatsiyalangan laboratoriya tomonidan berilgan bo'lsa, qabul qilinadi; hisobotlar ishtirokchining o'zida bo'lishi shart emas.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Ishlarni bajarish muddati — shartnoma kuchga kirgan kundan 2026-yil 31-dekabrgacha.»\n   Savolimiz: Takliflar 2026-yil 23-noyabrda yopiladi, shartnoma tuzilgach ishlar 31-dekabrgacha, ya'ni taxminan 5 haftada 500 km yo'lda yakunlanishi kerak (summa 2 500 000 000 so'm). Qish oldi sharoitida bu faqat tayyor texnika va materialga ega ishtirokchilar uchun real bo'lishi mumkin; lot ma'lumotlarida esa bajarish muddati 55 oy deb ko'rsatilgan, bu ikki ko'rsatkich bir-biriga mos kelmaydi.\n   Taklif etilayotgan tahrir: Ishlarni bajarish muddati shartnoma kuchga kirgan kundan boshlab ob-havo sharoitini hisobga olgan holda belgilansin (masalan, 500 km uchun hajm bo'yicha bosqichlar va 2027-yil aprelgacha muddat), yoki muddat taklif etilgan texnika soniga qarab ishtirokchilar tomonidan taklif qilinsin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (23.11.2026 17:03) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 0,
+  "median_bidders": 0,
+  "share_le2_bidders": 0.0,
+  "top_winner_share": 0.0,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 341000000.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

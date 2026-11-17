@@ -1,0 +1,216 @@
+{
+ "lot_id": 524663,
+ "display_no": "26110012524663",
+ "title": "2026 йил ноябр ойида РИРСИАТ марказининг психиатрия хизмати бўйича Сурхондарё вилояти филиали беморларига иссик овкат етказиб бериш Аутсорсинг хизмати (Услуга по организации горячего",
+ "url": "https://etender.uzex.uz/lot/524663",
+ "customer": {
+  "name": "Вилоят Рухий-асаб касалликлар шифохонаси",
+  "tin": "201466102"
+ },
+ "region": "Сурхандарё вилояти",
+ "start_cost": 519535310.0,
+ "currency": "UZS",
+ "start_date": "2026-11-12T17:06:53",
+ "end_date": "2026-11-19T17:06:53",
+ "clarific_date": "2026-11-19T17:06:53",
+ "type": "selection",
+ "old_id": 523266,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 60,
+  "criteria": [
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларда суғурталашга қўйиладиган талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524663.pdf",
+  "pages": 2,
+  "text_source": "vision",
+  "language": "uz-cyrl",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Ruhiy salomatlik markazi Surxondaryo filiali bemorlariga 2026 yil noyabr oyi uchun issiq ovqat tayyorlash va yetkazish (autsorsing, dieta stol №15)",
+ "sector": "food",
+ "customer_sector": "health",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Kuniga toʻrt mahal ovqat (nonushta, tushlik, poldnik, kechki ovqat) taomnoma kalkulyatsiyasiga muvofiq beriladi; bir bemorga oʻrtacha kunlik narx ustamalar bilan 35 609 soʻm.",
+   "summary_en": "Four meals a day per the menu calculation; average daily cost per patient with the outsourcing surcharge is 35,609 UZS.",
+   "quote": "Бир беморга уртача бир кунлик овкат пули устама маблағлари билан",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "other",
+   "summary_uz": "Autsorsing xizmati ustamasi 19,5 foiz.",
+   "summary_en": "Outsourcing service surcharge is 19.5 percent.",
+   "quote": "Аутсорсинг хизмати курсатувчи | 19,5%",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "delivery",
+   "summary_uz": "Xizmat muddati 30 kun.",
+   "summary_en": "Service period is 30 days.",
+   "quote": "Буюртмачи томонидан белгиланган ишларни бажариш (махсулот етказиб бериш) муддати | 30 кун",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "payment",
+   "summary_uz": "Shartnoma qiymatining 30 foizi avans, dastlabki ikki oyga oyiga 30 foizdan teng ulushlarda.",
+   "summary_en": "A 30 percent advance is paid, in equal shares of 30 percent per month for the first two months.",
+   "quote": "кийматининг 30 % микдорида, дастлабки икки ойга тенг улушларда (ойига 30 фоиздан) аванс утказади",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Obyekt qiymatining 40 foizi miqdorida aylanma mablagʻ mavjudligi haqida bank maʼlumoti yoki bank kafilligi talab etiladi; topshirmagan ishtirokchi chetlashtiriladi.",
+   "summary_en": "A bank statement of working capital equal to 40 percent of the object value (about 208 million UZS on a 519.5 million lot) or a bank guarantee is required; bidders without it are excluded.",
+   "quote": "Ушбу хужжатни тақдим килмаган иштирокчилар танловдан четлаштирилади.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Litsenziya oʻrniga muvofiqlik sertifikatlari talab etiladi.",
+   "summary_en": "Conformity certificates are listed instead of a licence.",
+   "quote": "Мувофиклик сертификатлари",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Shartnomani bajarish uchun texnik, moliyaviy, moddiy va kadrlar resurslari boʻlishi, soliq qarzi va bankrotlik boʻlmasligi kerak.",
+   "summary_en": "Technical, financial, material and staff resources, no tax debt and no bankruptcy proceedings.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг хамда бошка ресурсларнинг мавжудлиги;",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Baholash: narx 100 foiz, oʻtish bali 60; meʼyorlar boʻyicha 25 balldan ekspert bahosi (kafolat, malakali oshpazlar, sanitariya xulosasi va boshqalar).",
+   "summary_en": "Evaluation: price 100 percent, pass mark 60; expert-scored criteria of 25 points each (quality, qualified cooks, sanitary conclusion and others).",
+   "quote": "Малакали ошпоз мутахасислари булиши шарт маззали таом тайёрлаш учун",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "Объект кийматининг 40% микдорида айланма маблаглар мавжудлиги тугрисида банк маълумоти",
+   "page": 2,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Hujjatda obyekt qiymatining 40 foizi miqdorida aylanma mablaʼgʻ yoki bank kafilligi talab etilgan, topshirmagan ishtirokchi esa chetlashtiriladi. Lot qiymati 519,5 mln soʻm boʻlgani uchun bu taxminan 208 mln soʻmni tashkil qiladi, bu esa avans (30 foiz) toʻlanishini hisobga olganda ham kichik yetkazib beruvchilar uchun yuqori boʻlishi mumkin. Talab sabablarini tekshirish tavsiya etiladi.",
+   "explanation_en": "The document requires working capital (or a bank guarantee) equal to 40 percent of the object value, and bidders without it are excluded. On a 519.5 million UZS lot this is about 208 million UZS, which may be high for smaller suppliers even though a 30 percent advance is paid. The reason for the level should be checked.",
+   "rewrite_uz": "Ishtirokchi shartnomaning bir oylik qiymatiga mutanosib aylanma mablagʻ mavjudligi haqida bank maʼlumotini yoki shartnoma bajarilishini taʼminlovchi bank kafilligini taqdim etadi.",
+   "rewrite_en": "The bidder provides a bank statement of working capital proportionate to one month's contract value, or a bank guarantee securing performance.",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 72,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 5.6,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Lot hajmiga nomutanosib moliyaviy talab (2-bet): Hujjatda obyekt qiymatining 40 foizi miqdorida aylanma mablaʼgʻ yoki bank kafilligi talab etilgan, topshirmagan ishtirokchi esa chetlashtiriladi. Lot qiymati 519,5 mln soʻm boʻlgani uchun bu taxminan 208 mln soʻmni tashkil qiladi, bu esa avans (30 foiz) toʻlanishini hisobga olganda ham kichik yetkazib beruvchilar uchun yuqori boʻlishi mumkin. Talab sabablarini tekshirish tavsiya etiladi.",
+   "Buyurtmachining so'nggi 9 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 67% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 44%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 523266).",
+   "Tushuntirish so'rash muddati: 19.11.2026 17:06."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Financial demand out of proportion to the lot (page 2): The document requires working capital (or a bank guarantee) equal to 40 percent of the object value, and bidders without it are excluded. On a 519.5 million UZS lot this is about 208 million UZS, which may be high for smaller suppliers even though a 30 percent advance is paid. The reason for the level should be checked.",
+   "In the customer's last 9 deals the median number of bidders was 2; 67% of deals had two or fewer bidders; the most frequent winner took 44%.",
+   "This lot was re-announced (previous lot: 523266).",
+   "Clarification requests are accepted until 19.11.2026 17:06."
+  ]
+ },
+ "documents_needed_uz": [
+  "Aylanma mablagʻ mavjudligi haqida bank maʼlumoti yoki bank kafilligi",
+  "Muvofiqlik sertifikatlari",
+  "Sanitariya-epidemiologiya xulosasi va faoliyat guvohnomasi",
+  "Malakali oshpazlar (mutaxassislar) haqida maʼlumotnoma",
+  "Ishlatiladigan mahsulotlar sertifikatlari",
+  "Soliq qarzi yoʻqligi va bankrotlik jarayoni yoʻqligi haqida maʼlumot"
+ ],
+ "clarification_letter_uz": "Kimga: Вилоят Рухий-асаб касалликлар шифохонаси, xarid komissiyasiga\nLot raqami: 26110012524663\nXarid predmeti: 2026 йил ноябр ойида РИРСИАТ марказининг психиатрия хизмати бўйича Сурхондарё вилояти филиали беморларига иссик овкат етказиб бериш Аутсорсинг хизмати (Услуга по организации горячего\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 2-bet.\n   Hujjatdagi matn: «Объект кийматининг 40% микдорида айланма маблаглар мавжудлиги тугрисида банк маълумоти»\n   Savolimiz: Hujjatda obyekt qiymatining 40 foizi miqdorida aylanma mablaʼgʻ yoki bank kafilligi talab etilgan, topshirmagan ishtirokchi esa chetlashtiriladi. Lot qiymati 519,5 mln soʻm boʻlgani uchun bu taxminan 208 mln soʻmni tashkil qiladi, bu esa avans (30 foiz) toʻlanishini hisobga olganda ham kichik yetkazib beruvchilar uchun yuqori boʻlishi mumkin. Talab sabablarini tekshirish tavsiya etiladi.\n   Taklif etilayotgan tahrir: Ishtirokchi shartnomaning bir oylik qiymatiga mutanosib aylanma mablagʻ mavjudligi haqida bank maʼlumotini yoki shartnoma bajarilishini taʼminlovchi bank kafilligini taqdim etadi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (19.11.2026 17:06) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 9,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.6667,
+  "top_winner_share": 0.4444,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 70864616.28,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

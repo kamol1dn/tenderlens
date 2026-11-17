@@ -1,0 +1,240 @@
+{
+ "lot_id": 524286,
+ "display_no": "26120012524286",
+ "title": "“Urganchtransgaz” MCHJning 2026 yil 09 sentabrdagi 45-16/6526-sonli xatiga Ishlab chiqarish zaruriyatida kelib chiqib, “Urganchtransgaz” MCHJ tasarrufidagi obyektlarda olib borilayotgan olovli ishlar",
+ "url": "https://etender.uzex.uz/lot/524286",
+ "customer": {
+  "name": "\"O`ZTRANSGAZ AKSIYADORLIK JAMIYATINING URGANCHTRANSGAZ\" MCHJ (филиал \"Urganchtransgaz\" MCHJga qarashli “Shared Service Center”)",
+  "tin": "200407848"
+ },
+ "region": "Қорақалпоғистон Республикаси",
+ "start_cost": 1500960000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T09:30:36",
+ "end_date": "2026-11-26T09:30:36",
+ "clarific_date": "2026-11-26T09:30:36",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 2,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524286.pdf",
+  "pages": 2,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Olovli ishlarda qatnashadigan xodimlarga kuniga 3 mahal issiq ovqat yetkazib berish xizmati",
+ "sector": "food",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "“Urganchtransgaz” MCHJ",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Qoraqalpog'iston va Xorazm viloyatidagi obyektlarda olovli ishlarda ishtirok etuvchi xodimlarga kuniga uch mahal tayyor issiq ovqat yetkazish.",
+   "summary_en": "Deliver three ready hot meals a day to workers on fire-work sites in Karakalpakstan and Khorezm region.",
+   "quote": "ob'ektlarda olovli isl1larda isfнiгok etuvchi isl1chi xodimlarga bi1· kunda uch mahal",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Nonushta, tushlik va kechki ovqat uchun menyuda ko'rsatilgan taomlardan buyurtmachi tanlaydi (non, sho'rva yoki osh, kefir, choy, salat va h.k.).",
+   "summary_en": "Breakfast, lunch and dinner follow the menus in the specification, with the customer choosing among listed dishes (bread, soup or plov, kefir, tea, salad etc.).",
+   "quote": "Tushlikda 1 Ьirlil< (Ьi1· isl1chi) 11cl1un bi1yurtшacl1i istagiga qk1rab quyidagi",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "delivery",
+   "summary_uz": "Buyurtmachi olovli ishlar rejalashtirilganda 5 kun oldin ishchilar soni va davomiyligini xabar qiladi.",
+   "summary_en": "The customer gives 5 days' notice of worker numbers and duration before fire work starts.",
+   "quote": "o'tkazilishi гejalashtirilgan taqdirda 5 (besh) kun oldin ijrochi tomon",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "delivery",
+   "summary_uz": "Ishlarni tugatish vaqti: 2026 yil davomida (e'londa yetkazish muddati 60 kun ko'rsatilgan).",
+   "summary_en": "Completion time: during 2026 (the notice lists a 60-day delivery period).",
+   "quote": "2026 yil davomida",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Pudratchi ovqat tayyorlash uchun barcha vositalarga (avtomashina, dala chodiri, oshxona anjomlari, muzlatgich) ega bo'lishi kerak.",
+   "summary_en": "The contractor must have all means for catering (vehicle, field tent, kitchen equipment, fridge).",
+   "quote": "vositalaгga (avto111asl1ina, dala chodi1·i, osl,xona anjomlar·i, stol-stul, muzlatgich va",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Kamida 3 yil davomida xizmat ko'rsatish malakasi to'g'risida ma'lumot.",
+   "summary_en": "Information confirming at least 3 years of service experience.",
+   "quote": "kamida 3 yil davomida xizmat ko'rsatish malakasiga ega ekanligi xaqida malumot",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Hududiy sanitariya laboratoriyalari bilan shartnoma mavjudligi to'g'risida ma'lumot.",
+   "summary_en": "Information on a contract with territorial sanitary laboratories.",
+   "quote": "hududiy sanitariya xizmatlari laboratoriyalari Ьilan shartnoma mavjudligi to'g'risida",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Oziq-ovqat saqlash omborlari va tashish transporti mavjudligi to'g'risida ma'lumot.",
+   "summary_en": "Information on storage warehouses for food and transport availability.",
+   "quote": "oziq-ovqat mahsulotlarini saqlash uclшn omborlarning mavjudligi to'g'risida malumot",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Moliyaviy hisobotlar soliq organi tomonidan qabul qilinganligi tasdiqlangan holda taqdim etiladi.",
+   "summary_en": "Financial statements must be supplied with proof that the tax authority accepted them.",
+   "quote": "Ishtirokchi ilovaga moliyaviy natijalar bo‘yicha hisobotlar (balans hisobotlari) nusxalarini ilova qilishi shart",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "qualification",
+   "summary_uz": "Ishbilarmonlik obro'sini (xodimlar malakasi, tajriba) tasdiqlovchi 8-talab shakli to'ldiriladi.",
+   "summary_en": "Business reputation (staff qualification, experience) is shown on the form for requirement no. 8.",
+   "quote": "Ishtirokchi biriktirilgan hujjatni to‘ldirib ilova qilishi shart (8-talab bo‘yicha ilovadagi shaklga muvofiq rasmiylashtiriladi).",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Baholash faqat narx bo'yicha (100 foiz); texnik muvofiqlik uchun 2 ball, o'tish bali 2.",
+   "summary_en": "Evaluation is on price only (100 percent); technical conformity gives 2 points with a pass mark of 2.",
+   "quote": "Участники обязаны приложить подтверждающие документы по каждому требованию сравнительной таблицы",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r12",
+   "kind": "payment",
+   "summary_uz": "Har bir tugatilgan ish soliq servis sayti orqali faktura asosida qabul qilinadi va to'lanadi.",
+   "summary_en": "Each completed job is accepted and paid on an invoice issued through the tax service site.",
+   "quote": "soliqservis.L1z sayti 01·qali faktuгa asosida qabt1I qilinadi va to'lov",
+   "page": 2,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "buyurtmachi hududida ishtirokchining korxo·nasi joylashgaп joy bu'lishi kerak",
+   "page": 2,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Pudratchining korxonasi buyurtmachi hududida joylashgan bo'lishi talab qilinmoqda. Bu boshqa viloyatdagi, lekin ovqatni olovli ish joylariga yetkaza oladigan va barcha asbob-uskunaga ega ta'minotchilarni qatnashishdan chetlatishi mumkin. Lot boshlang'ich narxi 1 500 960 000 so'm bo'lib, baholash 100 foiz narx bo'yicha.",
+   "explanation_en": "The contractor's enterprise must be located in the customer's territory. This may shut out suppliers from other regions that could bring meals to the fire-work sites and already have the equipment. The lot's start price is 1,500,960,000 UZS and evaluation is 100 percent on price.",
+   "rewrite_uz": "Pudratchi obyektlarga ovqatni belgilangan vaqtda yetkazib bera olishini (transport, oshxona uskunasi, mehmonxona yoki baza orqali) tasdiqlashi lozim; korxonaning joylashuvi cheklanmasin.",
+   "rewrite_en": "The contractor must show it can deliver meals to the sites at the required times (transport, kitchen equipment, a base of operations); the legal address should not be restricted.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 75,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 3.3,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (2-bet): Pudratchining korxonasi buyurtmachi hududida joylashgan bo'lishi talab qilinmoqda. Bu boshqa viloyatdagi, lekin ovqatni olovli ish joylariga yetkaza oladigan va barcha asbob-uskunaga ega ta'minotchilarni qatnashishdan chetlatishi mumkin. Lot boshlang'ich narxi 1 500 960 000 so'm bo'lib, baholash 100 foiz narx bo'yicha.",
+   "Buyurtmachining so'nggi 9 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 44% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 11%.",
+   "Tushuntirish so'rash muddati: 26.11.2026 09:30."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Other clause that may limit competition (page 2): The contractor's enterprise must be located in the customer's territory. This may shut out suppliers from other regions that could bring meals to the fire-work sites and already have the equipment. The lot's start price is 1,500,960,000 UZS and evaluation is 100 percent on price.",
+   "In the customer's last 9 deals the median number of bidders was 3; 44% of deals had two or fewer bidders; the most frequent winner took 11%.",
+   "Clarification requests are accepted until 26.11.2026 09:30."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik taklif va talablarga muvofiqlik jadvali (pdf)",
+  "Resurslar (texnik, moliyaviy, moddiy, kadrlar) mavjudligi haqida firma blankidagi ma'lumot",
+  "Ustav, davlat ro'yxatidan o'tganlik guvohnomasi, rahbarni tayinlash buyrug'i va rahbar pasporti nusxasi",
+  "QR-kodli soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+  "Bankrotlik tartib-taomili yo'qligi bo'yicha shakl (4-talab)",
+  "Insofsiz ijrochilar reyestridan skrinshot",
+  "Majburiy ijro byurosi saytidan skrinshot",
+  "Moliyaviy hisobotlar (balans) va ularning soliq xizmati tomonidan qabul qilinganligi hujjati (7-talab shakli)",
+  "Ishbilarmonlik obro'si va tajribasi bo'yicha 8-talab shakli",
+  "Xorijiy sanksiyalar qo'llanilmaganligi bo'yicha 9-talab shakli",
+  "Halollik majburiyati to'g'risida ariza (10-talab shakli)",
+  "Manfaatlar to'qnashuvi va affillanganlik yo'qligi haqida rasmiy xat",
+  "Sud ishlari bo'yicha 12-talab shakli",
+  "Offshor hududlarda ro'yxatdan o'tmaganlik bo'yicha 13-talab shakli",
+  "Kamida 3 yillik xizmat tajribasi to'g'risidagi ma'lumot",
+  "Hududiy sanitariya laboratoriyalari bilan shartnoma va omborlar, transport mavjudligi haqida ma'lumot"
+ ],
+ "clarification_letter_uz": "Kimga: \"O`ZTRANSGAZ AKSIYADORLIK JAMIYATINING URGANCHTRANSGAZ\" MCHJ (филиал \"Urganchtransgaz\" MCHJga qarashli “Shared Service Center”), xarid komissiyasiga\nLot raqami: 26120012524286\nXarid predmeti: “Urganchtransgaz” MCHJning 2026 yil 09 sentabrdagi 45-16/6526-sonli xatiga Ishlab chiqarish zaruriyatida kelib chiqib, “Urganchtransgaz” MCHJ tasarrufidagi obyektlarda olib borilayotgan olovli ishlar\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 2-bet.\n   Hujjatdagi matn: «buyurtmachi hududida ishtirokchining korxo·nasi joylashgaп joy bu'lishi kerak»\n   Savolimiz: Pudratchining korxonasi buyurtmachi hududida joylashgan bo'lishi talab qilinmoqda. Bu boshqa viloyatdagi, lekin ovqatni olovli ish joylariga yetkaza oladigan va barcha asbob-uskunaga ega ta'minotchilarni qatnashishdan chetlatishi mumkin. Lot boshlang'ich narxi 1 500 960 000 so'm bo'lib, baholash 100 foiz narx bo'yicha.\n   Taklif etilayotgan tahrir: Pudratchi obyektlarga ovqatni belgilangan vaqtda yetkazib bera olishini (transport, oshxona uskunasi, mehmonxona yoki baza orqali) tasdiqlashi lozim; korxonaning joylashuvi cheklanmasin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (26.11.2026 09:30) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 9,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4444,
+  "top_winner_share": 0.1111,
+  "share_price_drop_lt1pct": 0.1111,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 211635360.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 9.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

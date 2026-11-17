@@ -1,0 +1,223 @@
+{
+ "lot_id": 525194,
+ "display_no": "26110012525194",
+ "title": "ДМТТларга кумир ташиш хизмати",
+ "url": "https://etender.uzex.uz/lot/525194",
+ "customer": {
+  "name": "Янгикургон туман халк таълими булими марказлашган бухгалтерия",
+  "tin": "200119153"
+ },
+ "region": "Наманган вилояти",
+ "start_cost": 252000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T11:46:59",
+ "end_date": "2026-11-24T11:46:59",
+ "clarific_date": "2026-11-24T11:46:59",
+ "type": "selection",
+ "old_id": 525156,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 60,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525194.pdf",
+  "pages": 1,
+  "text_source": "vision",
+  "language": "uz-cyrl",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Maktabgacha va maktab taʼlimi boʻlimiga qarashli maktablarga koʻmir tashish xizmati (2465,5 tonna)",
+ "sector": "other",
+ "customer_sector": "education",
+ "customer_kind": "budget",
+ "financing_source": "Бюджет",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Jami 2465,5 tonna koʻmir tashiladi, 1719 km, 1 km uchun 2800 soʻm; umumiy narx 252 000 000 soʻm.",
+   "summary_en": "Transport of 2465.5 tonnes of coal over 1719 km at 2800 UZS per km; total 252,000,000 UZS.",
+   "quote": "Жами 2465.5 тонна кўмир, 1719 км 1 км учун 2800 сўм умумий қиймати",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "Xizmatni bajarish muddati 10 kun.",
+   "summary_en": "The service must be completed within 10 days.",
+   "quote": "Хизматни бажариш муддати 10 кун.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "payment",
+   "summary_uz": "Shartnoma imzolangach 30 foiz avans, xizmat bajarilgach 10 ish kuni ichida toʻliq hisob-kitob.",
+   "summary_en": "30 percent advance on signing, final settlement within 10 working days after completion.",
+   "quote": "Шартнома имзоланган кундан олдиндан 30% тўлов амалга оширилади",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Shartnomani bajarish uchun zarur transport va texnikalar mavjud boʻlishi kerak.",
+   "summary_en": "Bidder must have the transport and equipment needed to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур бўлган транспорт ва техникалар мавжудлиги",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Moliyaviy koʻrsatkichlar, ishtirokchi haqida umumiy maʼlumot va umumiy ish tajribasi toʻgʻrisida maʼlumot taqdim etiladi.",
+   "summary_en": "Financial indicators, general bidder information and general work experience information must be provided.",
+   "quote": "Умумий иш тажрибаси тўғрисида маълумотлар",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Kafolat xati va moddiy hamda kadrlar resurslari mavjudligi talab etiladi.",
+   "summary_en": "A guarantee letter and availability of material and staff resources are required.",
+   "quote": "Моддий, кадрлар ресурсларининг мавжудлиги;",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Baholash: texnik qism 70 foiz, narx 30 foiz, oʻtish bali 60; 8 ta mezon, ekspert baholaydi.",
+   "summary_en": "Evaluation: technical 70 percent, price 30 percent, pass mark 60; eight criteria scored by experts.",
+   "quote": "Иштирокчи ҳақида умумий маълумоти,",
+   "page": 1,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "irrelevant_requirement",
+   "severity": "low",
+   "quote": "кўринишларига йўл қўймаслик бўйича ариза тақдим этиш мажбурийлиги ҳақидаги талаб.",
+   "page": 1,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "5-mezon sarlavhasi ish sifatiga kafolat muddatini koʻrsatadi, lekin unga 20 ball beriladi va baholash matni sifatida faqat ariza topshirish majburiyati keltirilgan. Bu standart andoza matniga oʻxshaydi; ariza har bir ishtirokchi taqdim eta oladigan hujjat boʻlib, 20 ballni ekspert bahosi bilan bogʻlash ishtirokchilarni ajratish uchun maʼnoli asos boʻlmasligi mumkin.",
+   "explanation_en": "Criterion 5 is headed as a warranty-period criterion and carries 20 points, but its scoring text is only an obligation to submit a statement. This looks like standard template wording; any bidder can provide such a statement, so tying 20 points to expert scoring may not distinguish bidders on anything relevant to hauling coal.",
+   "rewrite_uz": "5-mezon: xizmat sifatiga kafolat muddati (oylarda) va kafolat sharoitlari; ball kafolat muddatiga mutanosib beriladi.",
+   "rewrite_en": "Criterion 5: warranty period for service quality (in months) and warranty conditions; points awarded in proportion to the warranty period offered.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 85,
+ "traffic_light": "green",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 6,
+  "history_penalty": 9.3,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (1-bet): 5-mezon sarlavhasi ish sifatiga kafolat muddatini koʻrsatadi, lekin unga 20 ball beriladi va baholash matni sifatida faqat ariza topshirish majburiyati keltirilgan. Bu standart andoza matniga oʻxshaydi; ariza har bir ishtirokchi taqdim eta oladigan hujjat boʻlib, 20 ballni ekspert bahosi bilan bogʻlash ishtirokchilarni ajratish uchun maʼnoli asos boʻlmasligi mumkin.",
+   "Buyurtmachining so'nggi 7 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 100% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 57%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 525156)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "Requirement unrelated to the subject of the purchase (page 1): Criterion 5 is headed as a warranty-period criterion and carries 20 points, but its scoring text is only an obligation to submit a statement. This looks like standard template wording; any bidder can provide such a statement, so tying 20 points to expert scoring may not distinguish bidders on anything relevant to hauling coal.",
+   "In the customer's last 7 deals the median number of bidders was 2; 100% of deals had two or fewer bidders; the most frequent winner took 57%.",
+   "This lot was re-announced (previous lot: 525156)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Transport va texnikalar mavjudligi haqida maʼlumot",
+  "Moliyaviy koʻrsatkichlar toʻgʻrisida maʼlumot",
+  "Ishtirokchi haqida umumiy maʼlumot",
+  "Toʻlovga qobiliyatsizlik jarayonlari yoʻqligi haqida maʼlumot",
+  "Umumiy ish tajribasi toʻgʻrisida maʼlumot",
+  "Kafolat xati",
+  "Moddiy va kadrlar resurslari mavjudligi haqida maʼlumot",
+  "Ishtirokchi tomonidan talab etilgan ariza",
+  "зарур"
+ ],
+ "clarification_letter_uz": "Kimga: Янгикургон туман халк таълими булими марказлашган бухгалтерия, xarid komissiyasiga\nLot raqami: 26110012525194\nXarid predmeti: ДМТТларга кумир ташиш хизмати\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 1-bet.\n   Hujjatdagi matn: «кўринишларига йўл қўймаслик бўйича ариза тақдим этиш мажбурийлиги ҳақидаги талаб.»\n   Savolimiz: 5-mezon sarlavhasi ish sifatiga kafolat muddatini koʻrsatadi, lekin unga 20 ball beriladi va baholash matni sifatida faqat ariza topshirish majburiyati keltirilgan. Bu standart andoza matniga oʻxshaydi; ariza har bir ishtirokchi taqdim eta oladigan hujjat boʻlib, 20 ballni ekspert bahosi bilan bogʻlash ishtirokchilarni ajratish uchun maʼnoli asos boʻlmasligi mumkin.\n   Taklif etilayotgan tahrir: 5-mezon: xizmat sifatiga kafolat muddati (oylarda) va kafolat sharoitlari; ball kafolat muddatiga mutanosib beriladi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (24.11.2026 11:46) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 7,
+  "median_bidders": 2,
+  "share_le2_bidders": 1.0,
+  "top_winner_share": 0.5714,
+  "share_price_drop_lt1pct": 0.2857,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 34372800.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

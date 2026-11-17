@@ -1,0 +1,215 @@
+{
+ "lot_id": 524664,
+ "display_no": "26110012524664",
+ "title": "Davlat xaridlari asosida xizmatlarini amalga oshirish uchun aviakompaniyalar va yuk agentlari xavfli bo'lgan (RRW-RRY) yuklarni xalqaro yo'nalishlarda LOT havo transportida tashish-3",
+ "url": "https://etender.uzex.uz/lot/524664",
+ "customer": {
+  "name": "Radiopreparat davlat muassasasi",
+  "tin": "200523474"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 315500000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-12T15:47:32",
+ "end_date": "2026-11-19T15:47:32",
+ "clarific_date": "2026-11-19T15:47:32",
+ "type": "selection",
+ "old_id": 523815,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 20,
+  "criteria": [
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524664.zip",
+  "pages": 17,
+  "text_source": "ocr",
+  "language": "mixed",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Tibbiy radioaktiv yuklarni (UN2915) xalqaro yo'nalishlarda havo transportida tashish xizmati",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Tibbiy maqsadlardagi radioaktiv materiallar (7-sinf, UN2915) xalqaro yo'nalishlarda tashiladi.",
+   "summary_en": "Medical radioactive materials (class 7, UN2915) are shipped on international routes.",
+   "quote": "Tibbiy maqsadlar uchun radioaktiv materiallar,",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "Tashish haftalik ravishda belgilangan yo'nalishlar bo'yicha amalga oshiriladi.",
+   "summary_en": "Shipments run weekly on the listed routes.",
+   "quote": "haftalik ravishda quyidagi yo'nalishlar bo'yicha amalga oshiriladi",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Oylik o'rtacha yuk og'irligi 500 kg dan 700 kg gacha yoki undan ko'p.",
+   "summary_en": "Average monthly cargo weight is 500 to 700 kg or more.",
+   "quote": "Oylik o'rtacha umumiy yuk og'irligi 500 kg dan 700 kg gacha yoki undan ko'p.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Pudratchi qadoqlash hujjatlari, belgilar va xavfli yuk markirovkasini IATA, ICAO va IAEA qoidalariga muvofiq tekshiradi.",
+   "summary_en": "The contractor checks packaging documents, marks and hazard labels against IATA, ICAO and IAEA rules.",
+   "quote": "Pudratchi IATA, ICAO va IAEA qoidalariga muvofiq ravishda qadoqlashga qo'yilgan",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Radioaktiv materiallarni havo orqali tashish uchun litsenziya yoki ruxsatnoma bo'lishi kerak.",
+   "summary_en": "A licence or permit for air transport of radioactive materials is required.",
+   "quote": "Radioaktiv materiallarni havo transportida tashish uchun tegishli litsenziya yoki",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Shtatda amaldagi IATA DGR sertifikatli 3 yoki undan ko'p xavfli yuk mutaxassisi bo'lsa 5 ball.",
+   "summary_en": "5 points for 3 or more in-house specialists with valid IATA DGR certificates.",
+   "quote": "Shtatda amaldagi IATA DGR sertifikatlariga ega 3 yoki undan ortiq xavfli yuklar bo'yicha mutaxassisning mavjudligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Aviakompaniyaning ijobiy tavsiyasi yoki sharhi bo'lsa 5 ball (bu mezon matni ikki marta kiritilgan).",
+   "summary_en": "5 points for a positive airline recommendation or review (the same criterion text is entered twice).",
+   "quote": "Aviakompaniyaning ijobiy tavsiyasi yoki sharhi mavjudligi; bo'lsa 5- ball",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Soliq xizmati va bank oldida qarzi yo'qligi to'g'risida ma'lumotnoma taqdim etiladi.",
+   "summary_en": "A certificate of no debt to the tax service and the servicing bank is provided.",
+   "quote": "soliq xizmati va xizmat ko'rsatuvchi bank oldida qarzi yo'qligi to'g'risida",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reyestrida bo'lmasligi kerak.",
+   "summary_en": "The bidder must not be on the single register of unfair suppliers.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "low",
+   "quote": "Aviakompaniyaning ijobiy tavsiyasi yoki sharhi mavjudligi; bo'lsa 5- ball",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Xuddi shu aviakompaniya tavsiyasi mezoni ikki marta (1- va 3-mezon) kiritilgan va jami 20 balldan 10 balli shunga bog'liq. Kichik yoki yangi yuk agentlari bunday tavsiyani olishi qiyin bo'lishi mumkin. Bu bo'yicha aniqlashtiruvchi savol berish mumkin.",
+   "explanation_en": "The same airline-recommendation criterion appears twice (criteria 1 and 3), so 10 of the 20 points depend on it. A small or new cargo agent may find such a letter hard to obtain. A clarifying question is worthwhile.",
+   "rewrite_uz": "Aviakompaniya tavsiyasi bitta mezon sifatida kiritilsin yoki unga teng boshqa tasdiq (masalan, oldingi xizmat shartnomalari) ham qabul qilinsin.",
+   "rewrite_en": "Count the airline recommendation as a single criterion, or also accept equivalent proof such as earlier service contracts.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 1,
+ "fairness_score": 94,
+ "traffic_light": "green",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 6,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): Xuddi shu aviakompaniya tavsiyasi mezoni ikki marta (1- va 3-mezon) kiritilgan va jami 20 balldan 10 balli shunga bog'liq. Kichik yoki yangi yuk agentlari bunday tavsiyani olishi qiyin bo'lishi mumkin. Bu bo'yicha aniqlashtiruvchi savol berish mumkin.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 523815)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "Other clause that may limit competition (platform criteria form): The same airline-recommendation criterion appears twice (criteria 1 and 3), so 10 of the 20 points depend on it. A small or new cargo agent may find such a letter hard to obtain. A clarifying question is worthwhile.",
+   "This lot was re-announced (previous lot: 523815)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Radioaktiv materiallarni havo orqali tashish uchun litsenziya yoki ruxsatnoma",
+  "Aviakompaniyaning tavsiyasi yoki sharhi",
+  "Shtatdagi IATA DGR sertifikatli xavfli yuklar mutaxassislari haqida hujjatlar",
+  "Soliq xizmati va bank oldida qarzdorlik yo'qligi to'g'risida ma'lumotnoma",
+  "Insofsiz ijrochilar reyestrida qayd etilmaganlik to'g'risida hujjat"
+ ],
+ "clarification_letter_uz": "Kimga: Radiopreparat davlat muassasasi, xarid komissiyasiga\nLot raqami: 26110012524664\nXarid predmeti: Davlat xaridlari asosida xizmatlarini amalga oshirish uchun aviakompaniyalar va yuk agentlari xavfli bo'lgan (RRW-RRY) yuklarni xalqaro yo'nalishlarda LOT havo transportida tashish-3\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Aviakompaniyaning ijobiy tavsiyasi yoki sharhi mavjudligi; bo'lsa 5- ball»\n   Savolimiz: Xuddi shu aviakompaniya tavsiyasi mezoni ikki marta (1- va 3-mezon) kiritilgan va jami 20 balldan 10 balli shunga bog'liq. Kichik yoki yangi yuk agentlari bunday tavsiyani olishi qiyin bo'lishi mumkin. Bu bo'yicha aniqlashtiruvchi savol berish mumkin.\n   Taklif etilayotgan tahrir: Aviakompaniya tavsiyasi bitta mezon sifatida kiritilsin yoki unga teng boshqa tasdiq (masalan, oldingi xizmat shartnomalari) ham qabul qilinsin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (19.11.2026 15:47) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 3,
+  "median_bidders": 1,
+  "share_le2_bidders": 1.0,
+  "top_winner_share": 0.6667,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 43034200.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

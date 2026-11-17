@@ -1,0 +1,217 @@
+{
+ "lot_id": 525135,
+ "display_no": "26110012525135",
+ "title": "Sog‘liqni saqlash sohasidagi axborot va konsalting xizmatlari",
+ "url": "https://etender.uzex.uz/lot/525135",
+ "customer": {
+  "name": "Шахар Эндокринология диспансери",
+  "tin": "200626955"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 51000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T15:34:24",
+ "end_date": "2026-11-24T15:34:24",
+ "clarific_date": "2026-11-24T15:34:24",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 25,
+  "criteria": [
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525135.pdf",
+  "pages": 6,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Tibbiyot tashkilotini milliy akkreditatsiyaga tayyorlash bo'yicha o'qitish, konsultatsiya va tayyorgarlikni baholash xizmati (51 mln so'm)",
+ "sector": "health",
+ "customer_sector": "health",
+ "customer_kind": "unknown",
+ "financing_source": "budjetdan tashqari mablag'lari",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Xizmat 100 o'ringacha shifoxonaga ega tibbiyot tashkilotini milliy akkreditatsiyaga tayyorlashga qaratilgan: xodimlarni o'qitish va konsultatsiya.",
+   "summary_en": "The service prepares a medical organisation with up to 100 beds for national accreditation through staff training and consulting.",
+   "quote": "Buyurtmachining 0 dan100 tagacha shifo o'miga ega ambulator yoki statsionar turdagi tibbiyot tashkilotini milliy akkreditatsiyadan o'tishga tayyorlash maqsadida",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Ijrochi tayyorgarlik darajasini tashkilot joyiga borib baholaydi (hujjatlar tahlili, suhbat, kuzatuv).",
+   "summary_en": "The provider assesses readiness on site (document review, interviews, observation).",
+   "quote": "Ijrochi tibbiyot tashkilotining akkreditatsiyaga amaldagi tayyorgarlik darajasini joyiga chiqqan holda",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Xizmat rasmiy akkreditatsiyani o'tkazmaydi; tayyorlash, o'qitish, konsultatsiya, baholash va tavsiyalar bilan cheklanadi.",
+   "summary_en": "The service does not include the official accreditation; it is limited to preparation, training, consulting, assessment and recommendations.",
+   "quote": "Xizmat tayyorlash, o'qitish, konsultatsiya, diagnostik baholash va tavsiyalar berish bilan cheklanadi.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "delivery",
+   "summary_uz": "Xizmat shartnoma kuchga kirgach va boshlanish sanasi kelishilgach 5 ish kuni ichida ko'rsatiladi.",
+   "summary_en": "The service is delivered within 5 working days after the contract takes effect and the start date is agreed.",
+   "quote": "shartnoma kuchga kirganidan va xizmatm boshlash sanasi Buyurtmachi bilan kelishilganidan so'ng 5 ish kuni.",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Yakunda yozma hisobot (tayyorgarlik xulosasi, nomuvofiqliklar, xavflar, tavsiyalar) topshiriladi; shu bilan xizmat qabul qilinadi.",
+   "summary_en": "A written final report (readiness conclusion, non-conformities, risks, recommendations) is delivered and forms the basis for acceptance.",
+   "quote": "Xizmat yakunida Ijrochi Buyurtmachiga yozma yakuniy hisobot taqdim etadi.",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ijrochi O'zbekiston qonunchiligiga muvofiq faoliyat yurituvchi xo'jalik yurituvchi subyekt bo'lishi kerak.",
+   "summary_en": "The provider must be a business entity operating under Uzbek law.",
+   "quote": "Ijrochi o'zbekiston Respublikasi qonunchiligiga muvofiq faoliyat yurituvchi xoJalik yurituvchi subyekt bo'lishi lozim.",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Jalb etiladigan mutaxassislar tibbiyot tashkilotlari faoliyati va akkreditatsiya mezonlari bo'yicha yetarli bilim va kompetensiyaga ega bo'lishi kerak.",
+   "summary_en": "Specialists involved must have sufficient knowledge of healthcare operations and accreditation criteria.",
+   "quote": "xavfsizligi hamda akkreditatsiya mezonlari bo'yicha iizmatni lozim darajada uajarish uchun yetarli kasbiy bilim va kompetensiyaga egabo,lishi lozim.",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Mutaxassislar mavjudligi (ish tajribasi) mezoni ekspert tomonidan 5 ballgacha baholanadi; tasdiqlovchi hujjat majburiy.",
+   "summary_en": "Specialist availability (work experience) is scored by experts up to 5 points; a supporting document is mandatory.",
+   "quote": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Natijalar sifati va kafolati uchun kafolat xati 5 ballgacha baholanadi.",
+   "summary_en": "A guarantee letter on the quality and warranty of results is scored up to 5 points.",
+   "quote": "Иш хизматларнинг натиджалари ва кафолати учун кафолат хати",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "payment",
+   "summary_uz": "Oldindan to'lov 30 foiz (20 kun ichida), to'liq to'lov 30 bank kunida; sahifadagi muddat sarlavhadagi 15 kundan farq qiladi.",
+   "summary_en": "30 percent advance (within 20 days) and full payment in 30 banking days; the page term differs from the 15 days shown in the lot header.",
+   "quote": "Oldindan to'lovni kiritish muddati 20 kun To'liq to'lov amalga oshirilish muddati 30 bank kuni",
+   "page": 1,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 100,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va bank rekvizitlari",
+  "Soliq qarzdorligi yo'qligi va insofsiz ijrochilar reestrida yo'qligi bo'yicha ma'lumotlar",
+  "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi bo'yicha nusxa",
+  "Texnik taklif: xizmat ko'rsatish metodikasi va ish rejasi",
+  "Mutaxassislar ro'yxati, ularning malakasi va ish tajribasini tasdiqlovchi hujjatlar",
+  "Xodimlarni o'qitish bo'yicha tasdiqlovchi hujjatlar",
+  "Natijalar sifati va kafolati bo'yicha kafolat xati",
+  "Texnik shartlarga muvofiqlik tasdig'i",
+  "Malakaviy hujjatlar to'plami",
+  "tasdiqlovchi xujjat"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 0,
+  "median_bidders": 0,
+  "share_le2_bidders": 0.0,
+  "top_winner_share": 0.0,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 6956400.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

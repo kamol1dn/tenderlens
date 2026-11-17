@@ -1,0 +1,190 @@
+{
+ "lot_id": 524103,
+ "display_no": "26120012524103",
+ "title": "Услуга по доставке готовой бетонной смеси / Тайёр бетон қоришмасини етказиб бериш хизмати",
+ "url": "https://etender.uzex.uz/lot/524103",
+ "customer": {
+  "name": "АО OLMALIQ KON-METALLURGIYA KOMBINATI",
+  "tin": "202328794"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 895168800.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T09:27:01",
+ "end_date": "2026-11-23T09:27:01",
+ "clarific_date": "2026-11-23T09:27:01",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 3,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524103.pdf",
+  "pages": 5,
+  "text_source": "text",
+  "language": "ru",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Tayyor beton qorishmasini avtobetonaralashtirgichlarda (mikserlarda) qurilish obyektlariga yetkazib berish xizmati",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Ўз маблағларимиз / Собственные средства",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Ishtirokchida hajmi 10 m3 bo'lgan kamida 4 ta avtobetonaralashtirgich bo'lishi kerak.",
+   "summary_en": "The bidder must have at least 4 concrete mixer trucks of 10 m3 drum volume.",
+   "quote": "наличие автобетоносмеителей 4 единиц, объём миксера 10,0 м3",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Ishlarni davomli (sutka davomida) bajarish uchun yetarli sonda malakali haydovchilar bo'lishi kerak.",
+   "summary_en": "Enough qualified drivers to run the work around the clock where needed.",
+   "quote": "наличие квалифицированных водителей в необходимом количестве для обеспечения производства работ в круглосуточном режиме",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "So'nggi 3 yilda shunga o'xshash loyihalarni bajarganlik tajribasi tasdiqlanishi kerak.",
+   "summary_en": "Experience with similar projects over the last 3 years must be confirmed.",
+   "quote": "подтверждение наличия опыта реализации аналогичных проектов по предмету отбора за последние 3 года",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchiga nisbatan bankrotlik jarayonlari yo'qligi tasdiqlanishi kerak.",
+   "summary_en": "Confirmation that no bankruptcy proceedings are open against the bidder.",
+   "quote": "подтверждение отсутствия введенных в отношении них процедур банкротства",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasining tasdiqlangan nusxalari (berilganiga 6 oydan oshmagan) taqdim etiladi.",
+   "summary_en": "Certified copies of constitutive documents and registration certificate, issued within the last 6 months.",
+   "quote": "заверенные копии учредительных документов и свидетельства о государственной регистрации юридического лица (срок действия не позднее 6-ти месяцев с даты выдачи)",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "delivery",
+   "summary_uz": "O'rtacha oylik yetkazib berish hajmi taxminan 4000 m3, ikki smenada ishlanadi.",
+   "summary_en": "Average monthly delivery volume of about 4000 m3, in two shifts.",
+   "quote": "Среднемесячный объем доставки бетонной продукции на строительные объекты — 4000 м³",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "delivery",
+   "summary_uz": "Ishlar taxminan 2026-yil 15-sentyabrdan 31-dekabrgacha bajariladi.",
+   "summary_en": "Work is planned from 15 September to 31 December 2026.",
+   "quote": "Ориентировочные сроки выполнения работ с 15.09.2026г. по 31.12.2026г",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "payment",
+   "summary_uz": "Bajarilgan ish hajmi mashina-soatlarda hisoblanadi va to'lov shu asosda amalga oshiriladi.",
+   "summary_en": "Work done is measured in machine-hours and payment is made on that basis.",
+   "quote": "Объем выполненных работ учитывается в маш/часах, на основании чего осуществляется оплата.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Baholash faqat narx bo'yicha (100%), texnik talablarga mosligi ekspert tomonidan 2 ball bilan baholanadi.",
+   "summary_en": "Scoring is price-only (100%); conformity with the technical specification is an expert check worth 2 points.",
+   "quote": "Соответствие требованиям Технического задания / Техник топшириқ талабларига мослиги",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 97,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 3.4,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 437 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 48% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 5%."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 437 deals the median number of bidders was 3; 48% of deals had two or fewer bidders; the most frequent winner took 5%."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ta'sis hujjatlarining tasdiqlangan nusxalari",
+  "Yuridik shaxsni davlat ro'yxatidan o'tkazish guvohnomasi nusxasi",
+  "Bankrotlik jarayoni yo'qligini tasdiqlovchi hujjat",
+  "O'xshash loyihalarni so'nggi 3 yilda bajarganlik tajribasini tasdiqlovchi hujjatlar (shartnomalar, dalolatnomalar)",
+  "Avtobetonaralashtirgichlar (4 ta, 10 m3) mavjudligini tasdiqlovchi hujjatlar",
+  "Malakali haydovchilar ro'yxati",
+  "Kompaniyaning umumiy tajribasi va logistika imkoniyatlari haqida ma'lumotnoma",
+  "Texnik topshiriqqa muvofiqlik haqida ma'lumot",
+  "Соответствие требованиям Технического задания / Техник топшириқ талабларига мослиги",
+  "Компания умумий тажриба тавсифи (қайси йўналишда ва қанча муддатдан бери фаолият юритаётгани, асосий ихтисослашуви ва ўҳшаш товар ёки хизматлар билан ишлаш тажрибаси) логистика имкониятлари, буюртмани ўз вақтида, тўлиқ ва сифатли бажариш қобилиятига эгалиги ҳақида маълумот / Информация об общем опыте компании (в какой сфере и на протяжении какого времени она осуществляет деятельность, её основная специализация, а также опыт работы с аналогичными товарами или услугами), а также о её логистических возможностях и способности выполнять заказы своевременно, в полном объёме и с надлежащим качеством"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 437,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4828,
+  "top_winner_share": 0.0481,
+  "share_price_drop_lt1pct": 0.151,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 126218800.8,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

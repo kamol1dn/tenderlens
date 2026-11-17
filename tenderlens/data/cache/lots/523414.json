@@ -1,0 +1,291 @@
+{
+ "lot_id": 523414,
+ "display_no": "26111006523414",
+ "title": "Respublika qon quyish xizmatlari uchun yopiq turdagi IXLA reagentlarini xarid qilish (PQ-19)",
+ "url": "https://etender.uzex.uz/lot/523414",
+ "customer": {
+  "name": "Узбекистон Республикаси Согликни саклаш вазирлиги хузуридаги Харидлар маркази ДМ",
+  "tin": "311894188"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 64054289852.0,
+ "currency": "UZS",
+ "start_date": "2026-11-04T17:54:11",
+ "end_date": "2026-11-20T17:54:11",
+ "clarific_date": "2026-11-20T17:54:11",
+ "type": "tender",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 60.0,
+  "cost_coef": 40.0,
+  "min_point": 11,
+  "criteria": [
+   {
+    "label": "Texnik topshiriqqa muvofiqligi 0 yoki 10-ball Muvofiq kelmasa-0 ball Muvofiq kelsa-10 ball",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Tibbiyot mahsulotlarini sertifikatlashtirish bo‘yicha xalqaro organlar tomonidan berilgan tovar sertifikatlarining mavjudligi (sifatli mahsulot olish maqsadida) MDR (CE) yoki FDA sertifikatlari mavjud bo‘lganda 0 yoki 1 ball",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Yetkazib berish muddati (qo‘shimcha ravishda beriladi) Yetkazib berish muddatlari qisqartirilmaganda-0 ball Yetkazib berish muddatlari belgilangan muddatning kamida 50 foizga qisqartirilganda-1 ball Yetkazib berish muddatlari belgilangan muddatning kamida 75 foizga qisqartirilganda-2 ball",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ishlab chiqaruvchi zavod avtorizatsiyasining mavjudligi (xarid ishtirokchisi taklif etilayotgan tovar ishlab chiqaruvchisi bo‘lmagan taqdirda) Avtorizatsiya mavjud bo‘lmasa-0 ball Avtorizatsiya mavjudligi-1 ball",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523414.pdf",
+  "pages": 36,
+  "text_source": "text",
+  "language": "ru",
+  "unreadable_pages": [
+   18,
+   36
+  ]
+ },
+ "subject_uz": "Qon quyish xizmati uchun yopiq tizimli IXLA reagentlari (HBsAg, OIV Ag/Ab, sifilis, anti-HCV) xaridi",
+ "sector": "health",
+ "customer_sector": "health",
+ "customer_kind": "budget",
+ "financing_source": "O‘zbekiston Respublikasi Davlat byudjeti mablag‘lari",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Reagentlar yopiq avtomatik IXLA tizimida ishlashga moʻljallangan serologik tekshiruvlar uchun.",
+   "summary_en": "Reagents for serological tests run on an automatic closed IXLA (chemiluminescent) system.",
+   "quote": "для анализатора Abbott Architect (закрытая система)",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "HBsAg testi: sezgirlik VOZ 2-standarti boʻyicha kamida 0,019 va koʻpi bilan 0,020 ME/ml.",
+   "summary_en": "HBsAg test: sensitivity against the WHO 2nd standard of at least 0.019 and at most 0.020 IU/ml.",
+   "quote": "Чувствительность по 2-му стандарту ВОЗ Не менее 0,019 и не более 0,020 МЕ/мл",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Har bir tur uchun 500 000 testga standartlar, nazorat va sarf materiallari toʻplami (trigger, pre-trigger, yuvish buferi va boshqalar).",
+   "summary_en": "For each test type the supply must include standards, controls and consumables (trigger, pre-trigger, wash buffer, etc.) for 500,000 tests.",
+   "quote": "Количество – 500 000 тестов; сроки и место поставки – согласно закупочной документации",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Mahsulot yangi boʻlishi, ishlatilmagan va ishlab chiqarishdan olinmagan boʻlishi kerak; ishlab chiqarilgan yili 2026-yildan oldin emas.",
+   "summary_en": "The goods must be new, unused and not discontinued; production year not before 2026.",
+   "quote": "Закупаемый товар должен быть новым, ранее не использованным, не находившимся в эксплуатации и не снятым с производства.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berilganda qolgan yaroqlilik muddati ishlab chiqaruvchi belgilagan muddatning kamida 80 foizi boʻlishi kerak.",
+   "summary_en": "Remaining shelf life at delivery must be at least 80% of the manufacturer's stated shelf life.",
+   "quote": "Остаточный срок годности на момент поставки должны составлять не менее 80% от срока годности, установленного производителем",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Mahsulot Sogʻliqni saqlash vazirligi huzuridagi Farmatsevtik mahsulotlar xavfsizligi markazida roʻyxatdan oʻtgan boʻlishi kerak (agar majburiy roʻyxatdan oʻtishga tushsa).",
+   "summary_en": "The product must be registered with the Pharmaceutical Product Safety Centre of the Ministry of Health, where registration is mandatory.",
+   "quote": "Изделие должно быть зарегистрировано в ГУ «Центр безопасности фармацевтической продукции» при Министерстве здравоохранения Республики Узбекистан",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Texnik hujjatlar roʻyxati (broshyura, pasport, yoʻriqnoma) va har bir talabga tasdiqlovchi hujjatga havola taqdim etiladi.",
+   "summary_en": "A list of technical documentation (brochures, passports, instructions) with a reference to a supporting document for each requirement must be submitted.",
+   "quote": "Участник торгов обязан предоставить перечень технической документации (брошюры, технические паспорта, инструкции по эксплуатации",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Texnik topshiriqqa muvofiqlik 10 ball; muvofiq boʻlmasa ishtirokchi chetlashtiriladi. Oʻtish bali 11, jami 14 ball.",
+   "summary_en": "Conformity to the technical specification is worth 10 points; a non-conforming bidder is excluded. Pass mark 11 out of 14 points in total.",
+   "quote": "Agar muvofiq bo‘lmasa, ishtirokchi tenderda qatnashishdan chetlashtiriladi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "MDR (CE) yoki FDA sertifikati boʻlsa 1 ball.",
+   "summary_en": "1 point for holding an MDR (CE) or FDA certificate.",
+   "quote": "Tibbiyot mahsulotlarini sertifikatlashtirish bo‘yicha xalqaro organlar tomonidan berilgan tovar sertifikatlarining mavjudligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Yetkazib berish muddati belgilanganidan 50% yoki 75% qisqartirilsa 1 yoki 2 ball (kafolat xati bilan).",
+   "summary_en": "1 or 2 points if the delivery period is shortened by at least 50% or 75% (confirmed by a guarantee letter).",
+   "quote": "Yetkazib berish muddatini tasdiqlovchi kafolat xati",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r11",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi ishlab chiqaruvchi boʻlmasa, ishlab chiqaruvchi zavod avtorizatsiyasi (5-shakl) talab qilinadi; boʻlmasa chetlashtiriladi.",
+   "summary_en": "If the bidder is not the manufacturer, a manufacturer authorisation (form 5) is required; without it the bidder is excluded.",
+   "quote": "Xarid ishtirokchisi taklif etilayotgan tovar ishlab chiqaruvchisi bo‘lmagan taqdirda 5-shaklga muvofiq rasmiylashtiriladi.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "narrow_params",
+   "severity": "medium",
+   "quote": "Чувствительность по 2-му стандарту ВОЗ Не менее 0,019 и не более 0,020 МЕ/мл",
+   "page": 1,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "HBsAg testi uchun sezgirlik 0,019 dan 0,020 ME/ml gacha, ya'ni 0,001 ME/ml li juda tor oraliqda talab qilinmoqda; bunday ikki tomonlama chegara odatda bitta mahsulot koʻrsatkichiga mos keladi. Yuqori sezgirlikka ega boshqa tegishli testlar ham talab qilingan maqsadga (qon skriningi) xizmat qilsa-da, chetlashtirilishi mumkin. Bu band HBsAg boʻyicha ikki pozitsiyaga (jami taxminan 11,7 mlrd soʻm, lot boshlangʻich narxi 64,05 mlrd soʻmning taxminan 18 foizi) taʼsir qiladi.",
+   "explanation_en": "Sensitivity for the HBsAg test is required to fall in a very narrow two-sided band of 0.019 to 0.020 IU/ml (a 0.001 IU/ml window), which typically matches the figure of one specific product. Other suitable tests that are equally or more sensitive could be excluded although they serve the same blood-screening purpose. The clause affects two HBsAg positions (about 11.7 billion UZS, roughly 18% of the 64.05 billion UZS start price).",
+   "rewrite_uz": "Sezgirlik VOZ 2-xalqaro standarti boʻyicha 0,020 ME/ml dan yomon boʻlmasligi (ya'ni 0,020 ME/ml yoki undan past).",
+   "rewrite_en": "Sensitivity against the WHO 2nd international standard no worse than 0.020 IU/ml (that is, 0.020 IU/ml or lower).",
+   "group_id": "closed_system_brand",
+   "type_label_uz": "Haddan tashqari tor texnik parametrlar",
+   "type_label_en": "Over-narrow technical parameters",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "brand_no_equivalent",
+   "severity": "medium",
+   "quote": "для анализатора Abbott Architect (закрытая система)",
+   "page": 1,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Reagentlar Abbott Architect (boshqa pozitsiyalarda Abbott Alinity) yopiq tizimi uchun talab qilinmoqda va ekvivalent yoki mos analog nazarda tutilmagan. Agar qon xizmatida shu analizatorlar oʻrnatilgan boʻlsa, buning texnik sababi boʻlishi mumkin, lekin amalda faqat shu ishlab chiqaruvchi yoki uning vakillari taklif bera oladi (lot boshlangʻich narxi 64,05 mlrd soʻm). Hujjatda koʻrsatilishicha, kooperatsiya portalidagi 65 ta faol taklifning birortasi texnik topshiriqqa mos kelmagan.",
+   "explanation_en": "The reagents are specified for the Abbott Architect (and Abbott Alinity for other items) closed system, with no equivalent or compatible alternative allowed. If the blood service has these analysers installed there may be a technical reason, but in practice only that manufacturer or its representatives can bid (start price 64.05 billion UZS). The document itself records that none of the 65 active offers on the cooperation portal matched the technical specification.",
+   "rewrite_uz": "Qon xizmatida oʻrnatilgan Abbott Architect va Abbott Alinity analizatorlarida ishlaydigan, ishlab chiqaruvchi tomonidan mosligi tasdiqlangan reagentlar (analizatorlarning aniq modeli va soni texnik topshiriqda koʻrsatiladi).",
+   "rewrite_en": "Reagents confirmed by the manufacturer as compatible with the Abbott Architect and Abbott Alinity analysers installed in the blood service (the exact analyser models and number to be stated in the technical specification).",
+   "group_id": "closed_system_brand",
+   "type_label_uz": "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan",
+   "type_label_en": "Brand or model named with no equivalent allowed",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "narrow_params",
+   "severity": "low",
+   "quote": "Чувствительность по стандарту AFSSAPS и ВОЗ NIBSC 90/636 (антиген р24 ВИЧ-1) ≤18,06 пг/мл или ≤0,87 МЕ/мл",
+   "page": 13,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "OIV Ag/Ab testi uchun p24 antigeni sezgirligi 18,06 pg/ml va 0,87 ME/ml kabi aniq kasr qiymatlar bilan berilgan; bunday aniq raqamlar odatda bitta ishlab chiqaruvchining qoʻllanmasidan olinadi. Teng sezgirlikdagi boshqa testlar chetlashtirilishi mumkin. Bu band OIV boʻyicha pozitsiyalarga (jami taxminan 17,5 mlrd soʻm) taʼsir qiladi.",
+   "explanation_en": "Sensitivity for the HIV Ag/Ab test is given as the exact fractions 18.06 pg/ml and 0.87 IU/ml for p24 antigen, figures that usually come from one manufacturer's package insert. Other tests with comparable sensitivity could be shut out. This affects the HIV positions (about 17.5 billion UZS in total).",
+   "rewrite_uz": "p24 antigeni sezgirligi VOZ NIBSC 90/636 standarti boʻyicha 20 pg/ml dan yomon boʻlmasligi yoki 1,0 ME/ml dan yomon boʻlmasligi.",
+   "rewrite_en": "p24 antigen sensitivity against the WHO NIBSC 90/636 standard no worse than 20 pg/ml, or no worse than 1.0 IU/ml.",
+   "group_id": "closed_system_brand",
+   "type_label_uz": "Haddan tashqari tor texnik parametrlar",
+   "type_label_en": "Over-narrow technical parameters",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 73,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 4.8,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Haddan tashqari tor texnik parametrlar (1-bet): HBsAg testi uchun sezgirlik 0,019 dan 0,020 ME/ml gacha, ya'ni 0,001 ME/ml li juda tor oraliqda talab qilinmoqda; bunday ikki tomonlama chegara odatda bitta mahsulot koʻrsatkichiga mos keladi. Yuqori sezgirlikka ega boshqa tegishli testlar ham talab qilingan maqsadga (qon skriningi) xizmat qilsa-da, chetlashtirilishi mumkin. Bu band HBsAg boʻyicha ikki pozitsiyaga (jami taxminan 11,7 mlrd soʻm, lot boshlangʻich narxi 64,05 mlrd soʻmning taxminan 18 foizi) taʼsir qiladi.",
+   "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan (1-bet): Reagentlar Abbott Architect (boshqa pozitsiyalarda Abbott Alinity) yopiq tizimi uchun talab qilinmoqda va ekvivalent yoki mos analog nazarda tutilmagan. Agar qon xizmatida shu analizatorlar oʻrnatilgan boʻlsa, buning texnik sababi boʻlishi mumkin, lekin amalda faqat shu ishlab chiqaruvchi yoki uning vakillari taklif bera oladi (lot boshlangʻich narxi 64,05 mlrd soʻm). Hujjatda koʻrsatilishicha, kooperatsiya portalidagi 65 ta faol taklifning birortasi texnik topshiriqqa mos kelmagan.",
+   "Haddan tashqari tor texnik parametrlar (13-bet): OIV Ag/Ab testi uchun p24 antigeni sezgirligi 18,06 pg/ml va 0,87 ME/ml kabi aniq kasr qiymatlar bilan berilgan; bunday aniq raqamlar odatda bitta ishlab chiqaruvchining qoʻllanmasidan olinadi. Teng sezgirlikdagi boshqa testlar chetlashtirilishi mumkin. Bu band OIV boʻyicha pozitsiyalarga (jami taxminan 17,5 mlrd soʻm) taʼsir qiladi.",
+   "Buyurtmachining so'nggi 251 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 67% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 6%.",
+   "Tushuntirish so'rash muddati: 20.11.2026 17:54.",
+   "Diqqat: hujjatning 2 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Over-narrow technical parameters (page 1): Sensitivity for the HBsAg test is required to fall in a very narrow two-sided band of 0.019 to 0.020 IU/ml (a 0.001 IU/ml window), which typically matches the figure of one specific product. Other suitable tests that are equally or more sensitive could be excluded although they serve the same blood-screening purpose. The clause affects two HBsAg positions (about 11.7 billion UZS, roughly 18% of the 64.05 billion UZS start price).",
+   "Brand or model named with no equivalent allowed (page 1): The reagents are specified for the Abbott Architect (and Abbott Alinity for other items) closed system, with no equivalent or compatible alternative allowed. If the blood service has these analysers installed there may be a technical reason, but in practice only that manufacturer or its representatives can bid (start price 64.05 billion UZS). The document itself records that none of the 65 active offers on the cooperation portal matched the technical specification.",
+   "Over-narrow technical parameters (page 13): Sensitivity for the HIV Ag/Ab test is given as the exact fractions 18.06 pg/ml and 0.87 IU/ml for p24 antigen, figures that usually come from one manufacturer's package insert. Other tests with comparable sensitivity could be shut out. This affects the HIV positions (about 17.5 billion UZS in total).",
+   "In the customer's last 251 deals the median number of bidders was 2; 67% of deals had two or fewer bidders; the most frequent winner took 6%.",
+   "Clarification requests are accepted until 20.11.2026 17:54.",
+   "Note: 2 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik taklif (4-shakl va 4a-shakl ilovasiga muvofiq)",
+  "Texnik hujjatlar roʻyxati (broshyura, texnik pasport, yoʻriqnoma) va har bir talabga tasdiqlovchi hujjatga havola",
+  "MDR (CE) yoki FDA sertifikati nusxalari",
+  "Yetkazib berish muddatini tasdiqlovchi kafolat xati",
+  "Ishlab chiqaruvchi zavod avtorizatsiyasi (5-shakl), agar ishtirokchi ishlab chiqaruvchi boʻlmasa",
+  "Farmatsevtik mahsulotlar xavfsizligi markazida roʻyxatdan oʻtganlik hujjati",
+  "Sifat sertifikatlarining muhr bilan tasdiqlangan nusxalari",
+  "Davlat roʻyxatidan oʻtganlik guvohnomasi va taʼsis hujjatlari",
+  "Soliq va yigʻimlar boʻyicha qarzdorlik yoʻqligi haqida maʼlumotnoma",
+  "Manfaatlar toʻqnashuvi va affillanganlik holatlari yoʻqligi haqida tasdiq",
+  "Offshor hududlarda roʻyxatdan oʻtmaganlik haqida tasdiq",
+  "Texnik taklif",
+  "Sertifikatlar",
+  "Kafolat xati",
+  "Avtorizatsiya"
+ ],
+ "clarification_letter_uz": "Kimga: Узбекистон Республикаси Согликни саклаш вазирлиги хузуридаги Харидлар маркази ДМ, xarid komissiyasiga\nLot raqami: 26111006523414\nXarid predmeti: Respublika qon quyish xizmatlari uchun yopiq turdagi IXLA reagentlarini xarid qilish (PQ-19)\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 1-bet.\n   Hujjatdagi matn: «Чувствительность по 2-му стандарту ВОЗ Не менее 0,019 и не более 0,020 МЕ/мл»\n   Savolimiz: HBsAg testi uchun sezgirlik 0,019 dan 0,020 ME/ml gacha, ya'ni 0,001 ME/ml li juda tor oraliqda talab qilinmoqda; bunday ikki tomonlama chegara odatda bitta mahsulot koʻrsatkichiga mos keladi. Yuqori sezgirlikka ega boshqa tegishli testlar ham talab qilingan maqsadga (qon skriningi) xizmat qilsa-da, chetlashtirilishi mumkin. Bu band HBsAg boʻyicha ikki pozitsiyaga (jami taxminan 11,7 mlrd soʻm, lot boshlangʻich narxi 64,05 mlrd soʻmning taxminan 18 foizi) taʼsir qiladi.\n   Taklif etilayotgan tahrir: Sezgirlik VOZ 2-xalqaro standarti boʻyicha 0,020 ME/ml dan yomon boʻlmasligi (ya'ni 0,020 ME/ml yoki undan past).\n\n2. Texnik topshiriq, 1-bet.\n   Hujjatdagi matn: «для анализатора Abbott Architect (закрытая система)»\n   Savolimiz: Reagentlar Abbott Architect (boshqa pozitsiyalarda Abbott Alinity) yopiq tizimi uchun talab qilinmoqda va ekvivalent yoki mos analog nazarda tutilmagan. Agar qon xizmatida shu analizatorlar oʻrnatilgan boʻlsa, buning texnik sababi boʻlishi mumkin, lekin amalda faqat shu ishlab chiqaruvchi yoki uning vakillari taklif bera oladi (lot boshlangʻich narxi 64,05 mlrd soʻm). Hujjatda koʻrsatilishicha, kooperatsiya portalidagi 65 ta faol taklifning birortasi texnik topshiriqqa mos kelmagan.\n   Taklif etilayotgan tahrir: Qon xizmatida oʻrnatilgan Abbott Architect va Abbott Alinity analizatorlarida ishlaydigan, ishlab chiqaruvchi tomonidan mosligi tasdiqlangan reagentlar (analizatorlarning aniq modeli va soni texnik topshiriqda koʻrsatiladi).\n\n3. Texnik topshiriq, 13-bet.\n   Hujjatdagi matn: «Чувствительность по стандарту AFSSAPS и ВОЗ NIBSC 90/636 (антиген р24 ВИЧ-1) ≤18,06 пг/мл или ≤0,87 МЕ/мл»\n   Savolimiz: OIV Ag/Ab testi uchun p24 antigeni sezgirligi 18,06 pg/ml va 0,87 ME/ml kabi aniq kasr qiymatlar bilan berilgan; bunday aniq raqamlar odatda bitta ishlab chiqaruvchining qoʻllanmasidan olinadi. Teng sezgirlikdagi boshqa testlar chetlashtirilishi mumkin. Bu band OIV boʻyicha pozitsiyalarga (jami taxminan 17,5 mlrd soʻm) taʼsir qiladi.\n   Taklif etilayotgan tahrir: p24 antigeni sezgirligi VOZ NIBSC 90/636 standarti boʻyicha 20 pg/ml dan yomon boʻlmasligi yoki 1,0 ME/ml dan yomon boʻlmasligi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (20.11.2026 17:54) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 251,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.6693,
+  "top_winner_share": 0.0558,
+  "share_price_drop_lt1pct": 0.239,
+  "reannounced_lots": 13
+ },
+ "money_on_table_uzs": 8737005135.81,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 16.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "lint_backend": "in-session"
+}

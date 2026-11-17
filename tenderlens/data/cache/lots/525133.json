@@ -1,0 +1,249 @@
+{
+ "lot_id": 525133,
+ "display_no": "26110012525133",
+ "title": "Охангарон туман хокимлигининг 08.10.2026 йил 225-0-134-F/26-сонли фармойиши",
+ "url": "https://etender.uzex.uz/lot/525133",
+ "customer": {
+  "name": "Тошкент вилояти Охангарон туман Хокимияти",
+  "tin": "200609532"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 721033600.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T14:54:28",
+ "end_date": "2026-11-25T14:54:28",
+ "clarific_date": "2026-11-25T14:54:28",
+ "type": "selection",
+ "old_id": 524805,
+ "evaluation": {
+  "tech_coef": 65.0,
+  "cost_coef": 35.0,
+  "min_point": 13,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 3.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525133.pdf",
+  "pages": 28,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   1
+  ]
+ },
+ "subject_uz": "Vaziyat markazi uchun kompyuterlar, LED ekranlar, tarmoq, IP-telefoniya va konferensiya uskunalari majmuasini yetkazib berish (15 pozitsiya, jami 721 033 600 so'm)",
+ "sector": "it",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "11 dona shaxsiy kompyuter: i5 12-avlod, 16 GB RAM, 256 GB NVMe SSD.",
+   "summary_en": "11 personal computers: Core i5 12th generation, 16 GB RAM, 256 GB NVMe SSD.",
+   "quote": "Shaxsiy kompyuter: CPU i5 gen12, RAM 16GB, SSD 256GB NVMe",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Ichki foydalanish uchun 2 dona LED ekran (har biri 2,5 x 1,5 m, P2 yoki undan kichik qadam).",
+   "summary_en": "Two indoor LED screens (each 2.5 x 1.5 m, pixel pitch P2 or finer).",
+   "quote": "komplekt tarkibida **2 dona LED ekran** bo‘lishi",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Xavfsizlik devori: Firewall 10, IPS 4, NGFW 3 Gbit/s dan kam bo'lmasligi kerak.",
+   "summary_en": "Firewall appliance: at least 10 Gbit/s firewall, 4 Gbit/s IPS and 3 Gbit/s NGFW throughput.",
+   "quote": "Firewall throughput — kamida 10 Gbit/s; IPS throughput — kamida 4 Gbit/s; NGFW throughput — kamida 3 Gbit/s",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Simsiz kirish nuqtalari Wi-Fi 7 (802.11be) standartini qo'llab-quvvatlashi kerak.",
+   "summary_en": "Wireless access points must support the Wi-Fi 7 (IEEE 802.11be) standard.",
+   "quote": "Wi-Fi 7 (IEEE 802.11be) standartini qo‘llab-quvvatlashi",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "G'olib bilan shartnoma 2 kun ichida rasmiylashtiriladi.",
+   "summary_en": "The contract with the winner is to be concluded within 2 days.",
+   "quote": "Tanlash natijasiga ko‘ra tanlash g‘olibi bilan 2 kun muddatda tegishli shartnomalar rasmiylashtiriladi.",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Tashkilotning ro'yxatdan o'tganligi hujjatlari to'plami 3 ballgacha baholanadi.",
+   "summary_en": "A set of the bidder's registration documents is scored up to 3 points.",
+   "quote": "Tashkilotning davlat idoralari ro‘yxatidan o‘tkazilganligi haqidagi xujjatlar to‘plami",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Oxirgi uch yildagi o'xshash ishlar to'g'risida shartnoma va hisob-fakturalar bilan ma'lumot (5 ballgacha).",
+   "summary_en": "Information on similar work over the last three years, with contracts and invoices attached (up to 5 points).",
+   "quote": "Oxirgi uch yillik ma’lumotlar (ma’lumotning ilovasiga shartnoma va xisob fakturalar ilova qilinishi shart)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Sifat kafolati bo'yicha 3 yil nuqsonsizlik haqida kafolat xati (10 ballgacha).",
+   "summary_en": "A guarantee letter of no defects for 3 years (up to 10 points).",
+   "quote": "Maxsulotlari 3- yil ichida xech kanday nukson bulmasdigi tugrisida kafolat xati",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchining ishbilarmonlik obro'sini (xodimlar malakasi, tajriba) tasdiqlovchi hujjatlar talab etiladi.",
+   "summary_en": "Documents confirming the bidder's business reputation (staff qualifications, experience) are required.",
+   "quote": "Иштирокчиларнинг ишбилармонлик обрўсини (ишчи-ходимлари малакаси, иш тажрибаси, шу жумладан махсус фаолият бўйича тажрибаси) тасдиқловчи ҳужжатлар.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "Taqdim etilgan ma'lumotlar imzogan hamda buyurmaching berilgan tartibda taqdim etilgan bo'lsa ya'ni anik va tinik xolda (tasischilat imzolari bilan) .PDF formatida",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Mezon 3 (sifat kafolati) 10 ballgacha baholanadi, ammo ball kafolat mazmuniga emas, balki hujjat qanchalik aniq skaner qilingani, \"tasischilat imzolari\" borligi va PDF formatiga qarab 1 dan 10 gacha o'zgaradi. Bu platformaning standart shablon matniga o'xshaydi. Texnik ballar jami 18 ball, o'tish bali 13, shuning uchun hujjat ko'rinishidagi farq g'olibni belgilashi mumkin; tovarni yetkazib bera oladigan, lekin ta'sischilar imzosi bo'lmagan ta'minotchi eng ko'pi bilan 8 ball oladi.",
+   "explanation_en": "Criterion 3 (quality guarantees) is worth up to 10 points, but the score runs from 1 to 10 according to how clearly the document is scanned, whether it carries the founders' signatures and whether it is a PDF, not according to the content of the guarantee. It looks like standard platform template wording. Technical points total 18 with a pass mark of 13, so differences in document appearance can decide the outcome; a supplier able to deliver the goods but without founders' signatures can score at most 8.",
+   "rewrite_uz": "Sifat kafolati bo'yicha ball ta'minotchining kafolat muddati va shartlariga qarab beriladi (masalan, 12 oy – 5 ball, 24 oy – 8 ball, 36 oy va undan ko'p – 10 ball); hujjatning o'qiladigan PDF shaklida taqdim etilishi yetarli.",
+   "rewrite_en": "Points for quality guarantees are awarded according to the length and terms of the supplier's warranty (for example 12 months - 5 points, 24 months - 8 points, 36 months or more - 10 points); a legible PDF is sufficient.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "Taqdim etilgan ma'lumotlar imzogan hamda buyurmaching berilgan tartibda taqdim etilgan bo'lsa (xira sifatsiz)..PDF formatida",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Mezon 2 (5 ball) tovarning yaroqlilik va saqlash muddatiga emas, o'xshash ishlar tajribasiga bog'langan va ball hujjatning aniqligi hamda ta'sischilar imzosi bilan 1 dan 5 gacha o'zgaradi. Bu platformaning standart shablon matniga o'xshaydi; sarlavha va ball asosi bir-biriga mos kelmaydi, shuning uchun tushuntirish so'rash tavsiya etiladi.",
+   "explanation_en": "Criterion 2 (5 points) is titled shelf life and storage but is scored on similar-work experience, and the score runs from 1 to 5 according to document clarity and founders' signatures. It looks like standard platform template wording; the heading and the scoring basis do not match, so a clarifying question is worthwhile.",
+   "rewrite_uz": "Mezon 2 bo'yicha ball oxirgi 3 yilda bajarilgan o'xshash yetkazib berish shartnomalari soni va hajmiga qarab beriladi; ballar hujjat ko'rinishiga bog'lanmaydi.",
+   "rewrite_en": "Points for criterion 2 are awarded according to the number and value of similar supply contracts over the last 3 years; points do not depend on the appearance of the document.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 52,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 44,
+  "history_penalty": 3.8,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): Mezon 3 (sifat kafolati) 10 ballgacha baholanadi, ammo ball kafolat mazmuniga emas, balki hujjat qanchalik aniq skaner qilingani, \"tasischilat imzolari\" borligi va PDF formatiga qarab 1 dan 10 gacha o'zgaradi. Bu platformaning standart shablon matniga o'xshaydi. Texnik ballar jami 18 ball, o'tish bali 13, shuning uchun hujjat ko'rinishidagi farq g'olibni belgilashi mumkin; tovarni yetkazib bera oladigan, lekin ta'sischilar imzosi bo'lmagan ta'minotchi eng ko'pi bilan 8 ball oladi.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): Mezon 2 (5 ball) tovarning yaroqlilik va saqlash muddatiga emas, o'xshash ishlar tajribasiga bog'langan va ball hujjatning aniqligi hamda ta'sischilar imzosi bilan 1 dan 5 gacha o'zgaradi. Bu platformaning standart shablon matniga o'xshaydi; sarlavha va ball asosi bir-biriga mos kelmaydi, shuning uchun tushuntirish so'rash tavsiya etiladi.",
+   "Buyurtmachining so'nggi 12 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 42% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 33%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524805).",
+   "Tushuntirish so'rash muddati: 25.11.2026 14:54.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): Criterion 3 (quality guarantees) is worth up to 10 points, but the score runs from 1 to 10 according to how clearly the document is scanned, whether it carries the founders' signatures and whether it is a PDF, not according to the content of the guarantee. It looks like standard platform template wording. Technical points total 18 with a pass mark of 13, so differences in document appearance can decide the outcome; a supplier able to deliver the goods but without founders' signatures can score at most 8.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): Criterion 2 (5 points) is titled shelf life and storage but is scored on similar-work experience, and the score runs from 1 to 5 according to document clarity and founders' signatures. It looks like standard platform template wording; the heading and the scoring basis do not match, so a clarifying question is worthwhile.",
+   "In the customer's last 12 deals the median number of bidders was 3; 42% of deals had two or fewer bidders; the most frequent winner took 33%.",
+   "This lot was re-announced (previous lot: 524805).",
+   "Clarification requests are accepted until 25.11.2026 14:54.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Tashkilot guvohnomasi va stat.uz saytidan tashkilot ma'lumoti (PDF)",
+  "Korxona ustavi va ta'sis hujjatlari",
+  "Litsenziya va sertifikatlar (mavjud bo'lsa)",
+  "Oxirgi 3 yildagi o'xshash ishlar bo'yicha shartnomalar va hisob-fakturalar",
+  "O'z vaqtida yetkazib berish haqida kafolat xati",
+  "3 yil nuqsonsizlik haqida kafolat xati",
+  "Namuna ko'rsatish va zaxira mavjudligi haqida ma'lumot",
+  "Soliq va yig'imlar bo'yicha qarzdorlik yo'qligi haqida hujjat",
+  "Bankrotlik tartib-taomillari yo'qligi haqida ma'lumotnoma",
+  "Insofsiz ijrochilar reyestrida yo'qligi haqida hujjat",
+  "Majburiy ijro byurosi bo'yicha qarzi yo'qligi haqida ma'lumotnoma",
+  "Moliyaviy hisobotlar",
+  "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ma'lumot",
+  "Ishbilarmonlik obro'sini tasdiqlovchi hujjatlar",
+  "Xarid jarayonida qoidabuzarliklarga yo'l qo'ymaslik haqidagi ariza",
+  "Texnik taklif va mahsulotlarning texnik tavsiflari",
+  "Taklif ta'minoti (3 foiz)"
+ ],
+ "clarification_letter_uz": "Kimga: Тошкент вилояти Охангарон туман Хокимияти, xarid komissiyasiga\nLot raqami: 26110012525133\nXarid predmeti: Охангарон туман хокимлигининг 08.10.2026 йил 225-0-134-F/26-сонли фармойиши\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Taqdim etilgan ma'lumotlar imzogan hamda buyurmaching berilgan tartibda taqdim etilgan bo'lsa ya'ni anik va tinik xolda (tasischilat imzolari bilan) .PDF formatida»\n   Savolimiz: Mezon 3 (sifat kafolati) 10 ballgacha baholanadi, ammo ball kafolat mazmuniga emas, balki hujjat qanchalik aniq skaner qilingani, \"tasischilat imzolari\" borligi va PDF formatiga qarab 1 dan 10 gacha o'zgaradi. Bu platformaning standart shablon matniga o'xshaydi. Texnik ballar jami 18 ball, o'tish bali 13, shuning uchun hujjat ko'rinishidagi farq g'olibni belgilashi mumkin; tovarni yetkazib bera oladigan, lekin ta'sischilar imzosi bo'lmagan ta'minotchi eng ko'pi bilan 8 ball oladi.\n   Taklif etilayotgan tahrir: Sifat kafolati bo'yicha ball ta'minotchining kafolat muddati va shartlariga qarab beriladi (masalan, 12 oy – 5 ball, 24 oy – 8 ball, 36 oy va undan ko'p – 10 ball); hujjatning o'qiladigan PDF shaklida taqdim etilishi yetarli.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Taqdim etilgan ma'lumotlar imzogan hamda buyurmaching berilgan tartibda taqdim etilgan bo'lsa (xira sifatsiz)..PDF formatida»\n   Savolimiz: Mezon 2 (5 ball) tovarning yaroqlilik va saqlash muddatiga emas, o'xshash ishlar tajribasiga bog'langan va ball hujjatning aniqligi hamda ta'sischilar imzosi bilan 1 dan 5 gacha o'zgaradi. Bu platformaning standart shablon matniga o'xshaydi; sarlavha va ball asosi bir-biriga mos kelmaydi, shuning uchun tushuntirish so'rash tavsiya etiladi.\n   Taklif etilayotgan tahrir: Mezon 2 bo'yicha ball oxirgi 3 yilda bajarilgan o'xshash yetkazib berish shartnomalari soni va hajmiga qarab beriladi; ballar hujjat ko'rinishiga bog'lanmaydi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (25.11.2026 14:54) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 12,
+  "median_bidders": 3.0,
+  "share_le2_bidders": 0.4167,
+  "top_winner_share": 0.3333,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 101665737.6,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 8.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "lint_backend": "in-session"
+}

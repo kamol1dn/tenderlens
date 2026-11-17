@@ -1,0 +1,248 @@
+{
+ "lot_id": 522594,
+ "display_no": "26120012522594",
+ "title": "LED экран — монтаж қилиш, созлаш ва ишга тушириш ишларини ўз ичига олган ҳолда (техник топшириққа мувофиқ)",
+ "url": "https://etender.uzex.uz/lot/522594",
+ "customer": {
+  "name": "\"O`ZBEKISTON METALLURGIYA KOMBINATI\" AJ",
+  "tin": "200460222"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 1110096000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-04T13:03:35",
+ "end_date": "2026-11-18T13:03:35",
+ "clarific_date": "2026-11-18T13:03:35",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 2,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/522594.pdf",
+  "pages": 34,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": []
+ },
+ "subject_uz": "LED ekran (9,60 x 3,84 m, GOB, qadam 1,25 mm) yetkazib berish, montaj va ishga tushirish",
+ "sector": "it",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Korxona mablag'lari/собственные средства",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "GOB turidagi LED ekran, oʻlchami 9,60 x 3,84 m, piksel qadami 1,25 mm, ruxsat 7680 x 3072.",
+   "summary_en": "GOB-type LED screen, 9.60 x 3.84 m, pixel pitch 1.25 mm, resolution 7680 x 3072.",
+   "quote": "Разрешение экрана: 7680 × 3072 пикс.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Ekran 30 x 24 modul (720 modul) konfiguratsiyasida boʻlishi kerak.",
+   "summary_en": "The screen must be built as 30 x 24 modules (720 modules).",
+   "quote": "30 × 24 модулей (720 модулей)",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Elektr taʼminoti (N+1) va signal yoʻli (Dual Backup) rezervlanishi, 24x7x365 rejimida ishlash talab qilinadi.",
+   "summary_en": "Power (N+1) and signal path (Dual Backup) redundancy and 24x7x365 operation are required.",
+   "quote": "резервирование сигнального тракта (Dual Backup);",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "NovaStar qabul qiluvchi va uzatuvchi kartalarning toʻliq toʻplami talab qilinadi.",
+   "summary_en": "A full set of NovaStar receiving and sending cards is required.",
+   "quote": "полный комплект приёмных и передающих карт NovaStar;",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "NovaStar H5 dan past boʻlmagan videoprotsessor (yoki ekvivalent) va DH-3208 qabul kartalari (yoki ekvivalent).",
+   "summary_en": "NovaStar video processor not lower than H5 (or equivalent) and DH-3208 receiving cards (or equivalent).",
+   "quote": "видеопроцессор NovaStar не ниже H5 (или эквивалент);",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Kamida 6 manbadan signal va kamida 6 operator uchun boshqaruv dasturi litsenziyalari.",
+   "summary_en": "Input from at least 6 sources and control-software licences for at least 6 operators.",
+   "quote": "лицензии на ПО управления не менее чем на 6 пользователей.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish va ishga tushirish muddati shartnoma imzolangan kundan 15 kun.",
+   "summary_en": "Delivery period is 15 days from the date of signing the contract.",
+   "quote": "Срок поставки товара (выполнения работы, оказания услуги) (указать в днях) 15 дней с даты подписания договора",
+   "page": 19,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "payment",
+   "summary_uz": "Toʻlov: 20% avans, yetkazilgandan keyin 60%, oʻrnatish va ishga tushirishdan keyin 20%; toʻlov muddati 10 ish kuni.",
+   "summary_en": "Payment: 20% advance, 60% after delivery, 20% after installation and commissioning; payment within 10 working days.",
+   "quote": "20 % аванс 60% после поставки товара 20% после установки и пусконаладки",
+   "page": 19,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Kafolat muddati foydalanishga topshirilgan kundan 12 oy.",
+   "summary_en": "Warranty is 12 months from commissioning.",
+   "quote": "12 месяцев с даты ввода в эксплуатацию",
+   "page": 19,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "qualification",
+   "summary_uz": "Mol yetkazib berish bilan birga muvofiqlik sertifikati, sifat sertifikati, mahsulot pasporti va kelib chiqish sertifikati (CT-1) topshiriladi.",
+   "summary_en": "Delivery must be accompanied by a conformity certificate, quality certificate, product passport and certificate of origin (CT-1).",
+   "quote": "При поставки товара поставщик объязан предоставить Сертификат соответствия,",
+   "page": 19,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Baholash eng past narx usulida; texnik taklif ayrim hujjatlar bilan birga oʻtish/oʻtmaslik tartibida tekshiriladi.",
+   "summary_en": "Evaluation is by lowest price; the technical offer is a pass/fail check alongside the other documents.",
+   "quote": "Метод оценки предложений – Метод наименьшей цены",
+   "page": 33,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "unrealistic_deadline",
+   "severity": "medium",
+   "quote": "Срок поставки товара (выполнения работы, оказания услуги) (указать в днях) 15 дней с даты подписания договора",
+   "page": 19,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Katta formatli (720 modul) GOB LED ekranni yetkazish, montaj, sozlash va ishga tushirish uchun shartnoma imzolangandan keyin atigi 15 kun berilgan; toʻlovning 60 foizi yetkazilgandan keyin boʻladi. Bunday muddatga omborida tayyor modul va karta zaxirasi boʻlgan yetkazib beruvchilargina ulgura oladi, qolgan imkoniyatli ishtirokchilar chetda qolishi mumkin. Lot boshlangʻich narxi 1 110 096 000 soʻm.",
+   "explanation_en": "Only 15 days from signing are given to supply, install, configure and commission a large-format (720-module) GOB LED screen, with 60% of payment due after delivery. Only suppliers holding ready module and card stock could meet this, so other capable bidders may be shut out. The lot's start price is 1,110,096,000 UZS.",
+   "rewrite_uz": "Yetkazib berish, montaj va ishga tushirish muddati shartnoma imzolangan kundan boshlab 45-60 kalendar kun.",
+   "rewrite_en": "Delivery, installation and commissioning within 45 to 60 calendar days from the date of signing the contract.",
+   "type_label_uz": "Bajarish qiyin bo'lgan muddat",
+   "type_label_en": "Deadline that is hard to meet",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "brand_no_equivalent",
+   "severity": "low",
+   "quote": "полный комплект приёмных и передающих карт NovaStar;",
+   "page": 2,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Boshqa bandlarda (videoprotsessor, qabul kartalari) NovaStar uchun ekvivalent ruxsat etilgan, lekin kartalar toʻplami uchun bunday qayd yoʻq. Bu bandni bir xil ravishda aniqlashtirish kerak.",
+   "explanation_en": "Elsewhere (video processor, receiving cards) NovaStar allows an equivalent, but this line about the full set of cards has no such note. One clarifying question would resolve the inconsistency.",
+   "rewrite_uz": "Qabul qiluvchi va uzatuvchi kartalarning toʻliq toʻplami (NovaStar yoki ekvivalent).",
+   "rewrite_en": "Full set of receiving and sending cards (NovaStar or equivalent).",
+   "type_label_uz": "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan",
+   "type_label_en": "Brand or model named with no equivalent allowed",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 69,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 28,
+  "history_penalty": 3.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Bajarish qiyin bo'lgan muddat (19-bet): Katta formatli (720 modul) GOB LED ekranni yetkazish, montaj, sozlash va ishga tushirish uchun shartnoma imzolangandan keyin atigi 15 kun berilgan; toʻlovning 60 foizi yetkazilgandan keyin boʻladi. Bunday muddatga omborida tayyor modul va karta zaxirasi boʻlgan yetkazib beruvchilargina ulgura oladi, qolgan imkoniyatli ishtirokchilar chetda qolishi mumkin. Lot boshlangʻich narxi 1 110 096 000 soʻm.",
+   "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan (2-bet): Boshqa bandlarda (videoprotsessor, qabul kartalari) NovaStar uchun ekvivalent ruxsat etilgan, lekin kartalar toʻplami uchun bunday qayd yoʻq. Bu bandni bir xil ravishda aniqlashtirish kerak.",
+   "Buyurtmachining so'nggi 139 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 36% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 10%.",
+   "Tushuntirish so'rash muddati: 18.11.2026 13:03."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Deadline that is hard to meet (page 19): Only 15 days from signing are given to supply, install, configure and commission a large-format (720-module) GOB LED screen, with 60% of payment due after delivery. Only suppliers holding ready module and card stock could meet this, so other capable bidders may be shut out. The lot's start price is 1,110,096,000 UZS.",
+   "Brand or model named with no equivalent allowed (page 2): Elsewhere (video processor, receiving cards) NovaStar allows an equivalent, but this line about the full set of cards has no such note. One clarifying question would resolve the inconsistency.",
+   "In the customer's last 139 deals the median number of bidders was 3; 36% of deals had two or fewer bidders; the most frequent winner took 10%.",
+   "Clarification requests are accepted until 18.11.2026 13:03."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirokchi va uning taʼsischilari haqida umumiy maʼlumot (1-shakl)",
+  "Qayta tashkil etish, tugatish, bankrotlik yoki sud jarayonida emasligi va avvalgi shartnomalar bajarilganligi haqida kafolat xati (2-shakl)",
+  "Halollik va manfaatlar toʻqnashuvi yoʻqligi haqida ariza (3-shakl)",
+  "Texnik taklif (4-shakl), texnik parametrlar bilan",
+  "Yetkazib berish va toʻlov shartlari haqida maʼlumot (5-shakl)",
+  "Soliq inspeksiyasidan muddati oʻtgan qarz yoʻqligi haqida maʼlumotnoma",
+  "Davlat roʻyxatidan oʻtganlik guvohnomasi va rahbar pasporti nusxasi (afzal)",
+  "Texnik taklif/Техническое предложение",
+  "Етказиб бериш ва тулов шартлари/условия доставки и оплаты"
+ ],
+ "clarification_letter_uz": "Kimga: \"O`ZBEKISTON METALLURGIYA KOMBINATI\" AJ, xarid komissiyasiga\nLot raqami: 26120012522594\nXarid predmeti: LED экран — монтаж қилиш, созлаш ва ишга тушириш ишларини ўз ичига олган ҳолда (техник топшириққа мувофиқ)\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 19-bet.\n   Hujjatdagi matn: «Срок поставки товара (выполнения работы, оказания услуги) (указать в днях) 15 дней с даты подписания договора»\n   Savolimiz: Katta formatli (720 modul) GOB LED ekranni yetkazish, montaj, sozlash va ishga tushirish uchun shartnoma imzolangandan keyin atigi 15 kun berilgan; toʻlovning 60 foizi yetkazilgandan keyin boʻladi. Bunday muddatga omborida tayyor modul va karta zaxirasi boʻlgan yetkazib beruvchilargina ulgura oladi, qolgan imkoniyatli ishtirokchilar chetda qolishi mumkin. Lot boshlangʻich narxi 1 110 096 000 soʻm.\n   Taklif etilayotgan tahrir: Yetkazib berish, montaj va ishga tushirish muddati shartnoma imzolangan kundan boshlab 45-60 kalendar kun.\n\n2. Texnik topshiriq, 2-bet.\n   Hujjatdagi matn: «полный комплект приёмных и передающих карт NovaStar;»\n   Savolimiz: Boshqa bandlarda (videoprotsessor, qabul kartalari) NovaStar uchun ekvivalent ruxsat etilgan, lekin kartalar toʻplami uchun bunday qayd yoʻq. Bu bandni bir xil ravishda aniqlashtirish kerak.\n   Taklif etilayotgan tahrir: Qabul qiluvchi va uzatuvchi kartalarning toʻliq toʻplami (NovaStar yoki ekvivalent).\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 13:03) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 139,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3597,
+  "top_winner_share": 0.1007,
+  "share_price_drop_lt1pct": 0.1511,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 156523536.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 14.0
+ },
+ "analyzed_at": "2026-11-18T00:20:02+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

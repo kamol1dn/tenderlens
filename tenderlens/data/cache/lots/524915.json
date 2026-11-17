@@ -1,0 +1,244 @@
+{
+ "lot_id": 524915,
+ "display_no": "26120012524915",
+ "title": "Gidravlik nasoslar va gidromotorlarni diagnostika qilish, ta'mirlash va sinovdan o'tkazish bo'yicha xizmatlar ko'rsatish",
+ "url": "https://etender.uzex.uz/lot/524915",
+ "customer": {
+  "name": "AJ O`ZBEK GEOLOGIYA QIDIRUV",
+  "tin": "308743271"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 2200000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T16:58:55",
+ "end_date": "2026-11-24T16:58:55",
+ "clarific_date": "2026-11-24T16:58:55",
+ "type": "selection",
+ "old_id": 524826,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 5,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524915.pdf",
+  "pages": 12,
+  "text_source": "ocr",
+  "language": "mixed",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Burg'ilash va yo'l-qurilish texnikalarining 49 dona gidravlik nasoslari va gidromotorlarini diagnostika qilish, ta'mirlash va sinash xizmati",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "O'z mablag'lari xisobidan",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "49 dona gidravlik nasos va gidromotorni diagnostika qilish, ta'mirlash va sinovdan o'tkazish.",
+   "summary_en": "Diagnose, repair and test 49 hydraulic pumps and motors.",
+   "quote": "gidromotorlarini diagnostika qilish, ta'mirlash va sinovdan o'tkazish bo'yicha xizmatlar",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Ijrochi uskuna ishlab chiqaruvchisi sertifikatlagan elektron uskunaga muvofiqlik sertifikati va distribyutorning ishonchnomasiga ega bo'lishi shart.",
+   "summary_en": "The contractor must hold a conformity certificate for manufacturer-certified electronics and a distributor's power of attorney.",
+   "quote": "ularga xizmat ko'rsatish bo'yicha xizmatlar ko'rsatish uchun distribyuto-ing ishonchnomasiga ega bo'lishi shart.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Davlat organi tasdiqlagan kamida 5 nafar malakali xodim.",
+   "summary_en": "At least 5 qualified staff confirmed by documents of a state body.",
+   "quote": "davlat organining hujjatli tasdiqiga ega bo'lgan kamida 5 kishidan iboratligini taqdim eting",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Kamida 2 xodimning mexanika bo'yicha xalqaro malaka oshirish sertifikatlari.",
+   "summary_en": "International mechanics training certificates for at least 2 staff.",
+   "quote": "Kamida 2 ta xodimning mexanika yo'nalishida xalqaro malaka oshirish tasdiqlangan sertifikatlari ilova qilinadi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Asbob, ustaxona va uskunalarni ta'mirlash uchun ombor mavjudligi haqida ma'lumot va rasmlar.",
+   "summary_en": "Information and photos showing a warehouse for tools, workshop and equipment repair.",
+   "quote": "Asboblar, ustaxona va uskunalarni ta'mirlash uchun ombor mavjudligi haqida ma'lumot.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "delivery",
+   "summary_uz": "Xizmat buyurtma berilgan va nuqson dalolatnomasi rasmiylashtirilgandan keyin 15 ish kunidan oshmasligi kerak.",
+   "summary_en": "Work must be completed within 15 working days of the order and the defect report.",
+   "quote": "buyurtrna berilgan va nuqson dalolatnomasi rasmiylashtirilgan vaqtdan boshlab 15 ish kunidan oshmasligi kerak",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "technical",
+   "summary_uz": "Sarflash materiallari va ehtiyot qismlar ishlab chiqaruvchi mahsulotlariga o'xshash yangi, sertifikatlangan bo'lishi kerak.",
+   "summary_en": "Consumables and spare parts must be new, certified and equivalent to the manufacturer's products.",
+   "quote": "xususiyatlari bo'yicha ishlab chiqaruvchi zavod mahsulotlariga o'xshash boolgan yangi,",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "other",
+   "summary_uz": "Kafolat: kamida 6 oy va ta'mirdan keyin kamida 6000 motosoat.",
+   "summary_en": "Warranty: at least 6 months and 6,000 engine hours after repair.",
+   "quote": "Ta'mirlash va Buyurtmachiga topshirishdan keyingi kafolatli foydalanish muddati kamida б 000",
+   "page": 3,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "dealer_letter",
+   "severity": "high",
+   "quote": "ularga xizmat ko'rsatish bo'yicha xizmatlar ko'rsatish uchun distribyuto-ing ishonchnomasiga ega bo'lishi shart.",
+   "page": 2,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ta'mirlash xizmati uchun burg'ilash qurilmalari ishlab chiqaruvchisining distribyutori ishonchnomasi majburiy qilib qo'yilgan. Ro'yxatda bir nechta turli rusumdagi texnika (Boyles, DBC Makina, Hanjin, XE, TY va boshqalar) bor, shuning uchun bu talab gidravlik nasoslarni ta'mirlash bo'yicha malakali mustaqil ustaxonalarni 2,2 mlrd so'mlik lotdan chetlatishi mumkin.",
+   "explanation_en": "A distributor's power of attorney from the rig makers is mandatory for the repair service. The list covers several different makes (Boyles, DBC Makina, Hanjin, XE, TY and others), so the requirement may shut out capable independent hydraulic repair shops from a 2.2 billion UZS lot.",
+   "rewrite_uz": "Ijrochi gidravlik nasos va gidromotorlarni ta'mirlash bo'yicha tegishli malaka, uskuna va tajribaga ega ekanini tasdiqlovchi hujjatlarni (yoki ishlab chiqaruvchi yoki uning distribyutori ruxsatnomasini) taqdim etishi mumkin.",
+   "rewrite_en": "The contractor may show suitable qualification, test equipment and experience in repairing hydraulic pumps and motors (or, alternatively, an authorisation from the manufacturer or its distributor).",
+   "type_label_uz": "Ishlab chiqaruvchi yoki diler xati talabi",
+   "type_label_en": "Manufacturer or dealer letter required",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "medium",
+   "quote": "Kamida 2 ta xodimning mexanika yo'nalishida xalqaro malaka oshirish tasdiqlangan sertifikatlari ilova qilinadi",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Beshta mezonning har biri 1 balldan, o'tish bali esa 5; shuning uchun har bir mezon amalda majburiy bo'lib qolishi mumkin. Xalqaro malaka oshirish sertifikati talabi bir xil matn bilan ikki mezonda takrorlangan va mahalliy malakali ustalarni chetlatishi mumkin.",
+   "explanation_en": "Each of the five criteria is worth 1 point and the pass mark is 5, so every criterion may in practice be mandatory. The international training certificate requirement is repeated in two criteria and may exclude locally qualified technicians.",
+   "rewrite_uz": "Xodimlarning malakasi mexanika yo'nalishidagi diplom, mahalliy yoki xalqaro malaka sertifikati yoki tegishli ish tajribasi bilan tasdiqlanishi mumkin.",
+   "rewrite_en": "Staff competence may be shown by a mechanics diploma, a local or international training certificate, or relevant work experience.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 33,
+ "traffic_light": "red",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 62,
+  "history_penalty": 5.4,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Ishlab chiqaruvchi yoki diler xati talabi (2-bet): Ta'mirlash xizmati uchun burg'ilash qurilmalari ishlab chiqaruvchisining distribyutori ishonchnomasi majburiy qilib qo'yilgan. Ro'yxatda bir nechta turli rusumdagi texnika (Boyles, DBC Makina, Hanjin, XE, TY va boshqalar) bor, shuning uchun bu talab gidravlik nasoslarni ta'mirlash bo'yicha malakali mustaqil ustaxonalarni 2,2 mlrd so'mlik lotdan chetlatishi mumkin.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): Beshta mezonning har biri 1 balldan, o'tish bali esa 5; shuning uchun har bir mezon amalda majburiy bo'lib qolishi mumkin. Xalqaro malaka oshirish sertifikati talabi bir xil matn bilan ikki mezonda takrorlangan va mahalliy malakali ustalarni chetlatishi mumkin.",
+   "Buyurtmachining so'nggi 62 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 73% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 15%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524826).",
+   "Tushuntirish so'rash muddati: 24.11.2026 16:58."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Manufacturer or dealer letter required (page 2): A distributor's power of attorney from the rig makers is mandatory for the repair service. The list covers several different makes (Boyles, DBC Makina, Hanjin, XE, TY and others), so the requirement may shut out capable independent hydraulic repair shops from a 2.2 billion UZS lot.",
+   "Other clause that may limit competition (platform criteria form): Each of the five criteria is worth 1 point and the pass mark is 5, so every criterion may in practice be mandatory. The international training certificate requirement is repeated in two criteria and may exclude locally qualified technicians.",
+   "In the customer's last 62 deals the median number of bidders was 2; 73% of deals had two or fewer bidders; the most frequent winner took 15%.",
+   "This lot was re-announced (previous lot: 524826).",
+   "Clarification requests are accepted until 24.11.2026 16:58."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik haqidagi hujjat va ta'sis hujjatlari",
+  "Soliq va yig'imlar bo'yicha qarzdorlik yo'qligi haqida ma'lumotnoma",
+  "Bankrotlik tartib-taomillari yo'qligi haqida ma'lumot",
+  "Insofsiz ijrochilar yagona reyestrida qayd etilmaganlik haqida ma'lumot",
+  "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+  "Texnik topshiriq bo'yicha taqqoslash jadvali (korxona blankasida)",
+  "Kamida 5 malakali xodimni tasdiqlovchi hujjatlar",
+  "Kamida 2 xodimning mexanika bo'yicha malaka sertifikatlari",
+  "Asbob, ustaxona va ta'mirlash uchun ombor mavjudligi haqida ma'lumotnoma va rasmlar",
+  "Ishlab chiqaruvchi uskunalari uchun IEC 60204-1 muvofiqlik sertifikati va distribyutor ishonchnomasi",
+  "Taklif ta'minoti (zakalat) to'langanligi haqida tasdiq",
+  "korxona rasmiy blankasi shaklida",
+  "Tasdiqlovchi hujjatlar",
+  "Sertifikat",
+  "ma’lumotnoma, tasdiqlovchi rasmlar talab etiladi"
+ ],
+ "clarification_letter_uz": "Kimga: AJ O`ZBEK GEOLOGIYA QIDIRUV, xarid komissiyasiga\nLot raqami: 26120012524915\nXarid predmeti: Gidravlik nasoslar va gidromotorlarni diagnostika qilish, ta'mirlash va sinovdan o'tkazish bo'yicha xizmatlar ko'rsatish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 2-bet.\n   Hujjatdagi matn: «ularga xizmat ko'rsatish bo'yicha xizmatlar ko'rsatish uchun distribyuto-ing ishonchnomasiga ega bo'lishi shart.»\n   Savolimiz: Ta'mirlash xizmati uchun burg'ilash qurilmalari ishlab chiqaruvchisining distribyutori ishonchnomasi majburiy qilib qo'yilgan. Ro'yxatda bir nechta turli rusumdagi texnika (Boyles, DBC Makina, Hanjin, XE, TY va boshqalar) bor, shuning uchun bu talab gidravlik nasoslarni ta'mirlash bo'yicha malakali mustaqil ustaxonalarni 2,2 mlrd so'mlik lotdan chetlatishi mumkin.\n   Taklif etilayotgan tahrir: Ijrochi gidravlik nasos va gidromotorlarni ta'mirlash bo'yicha tegishli malaka, uskuna va tajribaga ega ekanini tasdiqlovchi hujjatlarni (yoki ishlab chiqaruvchi yoki uning distribyutori ruxsatnomasini) taqdim etishi mumkin.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Kamida 2 ta xodimning mexanika yo'nalishida xalqaro malaka oshirish tasdiqlangan sertifikatlari ilova qilinadi»\n   Savolimiz: Beshta mezonning har biri 1 balldan, o'tish bali esa 5; shuning uchun har bir mezon amalda majburiy bo'lib qolishi mumkin. Xalqaro malaka oshirish sertifikati talabi bir xil matn bilan ikki mezonda takrorlangan va mahalliy malakali ustalarni chetlatishi mumkin.\n   Taklif etilayotgan tahrir: Xodimlarning malakasi mexanika yo'nalishidagi diplom, mahalliy yoki xalqaro malaka sertifikati yoki tegishli ish tajribasi bilan tasdiqlanishi mumkin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (24.11.2026 16:58) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 62,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.7258,
+  "top_winner_share": 0.1452,
+  "share_price_drop_lt1pct": 0.2097,
+  "reannounced_lots": 2
+ },
+ "money_on_table_uzs": 300080000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

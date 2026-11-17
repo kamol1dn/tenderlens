@@ -1,0 +1,267 @@
+{
+ "lot_id": 524076,
+ "display_no": "26120012524076",
+ "title": "Tokarlik stanogi, moy analizatori, alyuminiy poplavok xarid qilish uchun (на закупку токарного станка, анализатора масла, алюминиевого поплавка)",
+ "url": "https://etender.uzex.uz/lot/524076",
+ "customer": {
+  "name": "\"BUXORO NEFTNI QAYTA ISHLASH ZAVODI\" MCHJ",
+  "tin": "202080378"
+ },
+ "region": "Бухоро вилояти",
+ "start_cost": 43577.0,
+ "currency": "USD",
+ "start_date": "2026-11-12T15:12:42",
+ "end_date": "2026-11-19T15:12:42",
+ "clarific_date": "2026-11-19T15:12:42",
+ "type": "selection",
+ "old_id": 521171,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 7,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолат бўйича талаблар (муддати, жойи)",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш муддати бўйича талаблар (норезидент ва резидентлар учун алоҳида манзиллар белгиланиши мумкин)",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524076.rar",
+  "pages": 44,
+  "text_source": "text",
+  "language": "ru",
+  "unreadable_pages": [
+   1,
+   2,
+   3,
+   4,
+   29,
+   30,
+   32,
+   35,
+   36,
+   37,
+   40,
+   44
+  ]
+ },
+ "subject_uz": "Neftni qayta ishlash zavodi uchun tokarlik dastgohi, moy analizatori va alyuminiy poplavoklar (54 dona) xarid qilish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "O'z mablag'lari (собственное средство)",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "other",
+   "summary_uz": "Xaridning chegaraviy qiymati 43 577,6 AQSH dollari; taklif narxi undan oshmasligi kerak.",
+   "summary_en": "The ceiling price is USD 43,577.6 and bids may not exceed it.",
+   "quote": "Предельная стоимость отбора 43 577,6 долларов.",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Gʻolib malaka, texnik va narx parametrlari boʻyicha eng koʻp ball toʻplagan ishtirokchi.",
+   "summary_en": "The winner is the bidder with the most points across qualification, technical and price parameters.",
+   "quote": "победителем является участник набравший наибольшее количество баллов",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Tovarning texnik xususiyatlari texnik topshiriqqa mos kelishi baholanadi.",
+   "summary_en": "Conformity of the goods' technical characteristics with the technical specification is scored.",
+   "quote": "Tovarning texnik xususiyatlarining Texnik topshiriqqa muvofiqligi (Соответствие технических характеристик товара Техническому Заданию)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Xarid qilinayotgan tovarni ishlab chiqarish yoki yetkazib berish tajribasi baholanadi.",
+   "summary_en": "Experience in producing or supplying the purchased goods is scored.",
+   "quote": "Xarid qilinayotgan tovarni ishlab chiqarish va/yoki yetkazib berish tajribasi (Опыт производства и / или поставки закупаемого Товара)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi asosiy benefitsiar mulkdor haqida maʼlumot berishi kerak.",
+   "summary_en": "The bidder must provide information on its main beneficial owner.",
+   "quote": "Ishtirokchi tomonidan asosiy benefitsiar mulkdor to‘g‘risidagi ma’lumotlarni taqdim etishi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Korxona va uning nazoratchilari sanksiyalar roʻyxatida yoʻqligini tasdiqlovchi hujjat talab qilinadi.",
+   "summary_en": "A document is required confirming that the company and those controlling it are not on sanctions lists.",
+   "quote": "Korxona yoki uning vakillarining korxonadagi kapitalning kamida 50 % ulushiga to‘g‘ridan-to‘g‘ri yoki bilvosita egalik qilishi yoki uni nazorat qilishi mumkin bo‘lgan shaxslarning sanksiyalar ro‘yxatida mavjud emasligini tasdiqlovchi hujjat",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Kontragent anketasi shakli toʻldirilib topshirilishi kerak.",
+   "summary_en": "A completed counterparty questionnaire must be submitted.",
+   "quote": "Kontragent anketasi shakli (Форма анкеты контрагента)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi manfaatlar toʻqnashuviga yoʻl qoʻymaslik haqida firma blankasida ariza berishi kerak.",
+   "summary_en": "The bidder must submit a conflict-of-interest statement on letterhead.",
+   "quote": "Ishtirokchi tomonidan manfaatlar to‘qnashuviga yo‘l qo‘ymaslik to‘g‘risidagi arizani firma blankasida taqdim etishi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish avtotransport yoki temir yoʻl orqali Qorovulbozor (DAP) boʻyicha; rezidentlar uchun DDP.",
+   "summary_en": "Delivery is DAP Karaulbazar by road or rail; DDP for Uzbek residents.",
+   "quote": "Авто – DAP г.Караулбазар и/или Ж/Д – DAP станция Караулбазар",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "payment",
+   "summary_uz": "Toʻlov yetkazib berilgandan keyin 30 bank kuni ichida amalga oshiriladi.",
+   "summary_en": "Payment is made after delivery within 30 banking days.",
+   "quote": "Срок оплаты (банковские дни) 30 банковских дней",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "other",
+   "summary_uz": "Kafolat muddati kamida 12 oy boʻlishi kerak.",
+   "summary_en": "The warranty period must be at least 12 months.",
+   "quote": "Срок гарантии Не менее 12 месяцев",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "other",
+   "summary_uz": "Taklif taklif topshirish muddati tugagandan keyin kamida 60 kun amal qilishi kerak.",
+   "summary_en": "The offer must remain valid for at least 60 days after the submission deadline.",
+   "quote": "Срок действия ТКП участников должен составлять не менее 60 дней со дня окончания представления ТКП.",
+   "page": 7,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 98,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 2.5,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 155 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 38% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 5%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 521171).",
+   "Diqqat: hujjatning 12 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 155 deals the median number of bidders was 3; 38% of deals had two or fewer bidders; the most frequent winner took 5%.",
+   "This lot was re-announced (previous lot: 521171).",
+   "Note: 12 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirokchi va taʼsischilar haqida umumiy maʼlumot (1-shakl)",
+  "Halollik va etika shartnoma bandi boʻyicha ariza (2-shakl)",
+  "Oʻxshash tovar yetkazib berish tajribasi haqida maʼlumot (3-shakl)",
+  "Texnik taklif (4-shakl)",
+  "Yetkazib berish, toʻlov shartlari va muddatlari haqida maʼlumot (5-shakl)",
+  "Kontragent anketasi (6-shakl)",
+  "Sanksiyalar roʻyxatida yoʻqligi haqida kafolat xati (7-shakl)",
+  "Davlat roʻyxatidan oʻtganlik guvohnomasi, ustav va taʼsis hujjatlari",
+  "Egalik tuzilmasi va benefitsiar mulkdorlar haqida maʼlumotnoma",
+  "Soʻnggi hisobot davri uchun buxgalteriya va soliq hisobotlari",
+  "Vakolatni tasdiqlovchi ishonchnoma",
+  "Sifat va moslik sertifikatlari (ISO 9001, 14001 va boshqalar)",
+  "Tegishli hujjatlar (Соответствующие документы)"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 155,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3806,
+  "top_winner_share": 0.0516,
+  "share_price_drop_lt1pct": 0.071,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 0.0,
+ "money_on_table_basis": "not_estimated_non_uzs",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

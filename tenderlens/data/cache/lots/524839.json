@@ -1,0 +1,300 @@
+{
+ "lot_id": 524839,
+ "display_no": "26110012524839",
+ "title": "57 сон ММТМ да аутсоринг хизматини курсатиш",
+ "url": "https://etender.uzex.uz/lot/524839",
+ "customer": {
+  "name": "Бухоро шахар 57-сон Ихтисослаштирилган мактабгача таълим ташкилоти",
+  "tin": "207025259"
+ },
+ "region": "Бухоро вилояти",
+ "start_cost": 43747200.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T19:22:17",
+ "end_date": "2026-11-20T19:22:17",
+ "clarific_date": "2026-11-20T19:22:17",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 55,
+  "criteria": [
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524839.pdf",
+  "pages": 39,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   1,
+   26,
+   35,
+   36,
+   37,
+   38,
+   39
+  ]
+ },
+ "subject_uz": "Buxoro shahar 57-son maktabgacha ta'lim tashkilotida tarbiyalanuvchilarni autsorsing asosida ovqatlantirish xizmati (2026-yil oktyabr-dekabr)",
+ "sector": "food",
+ "customer_sector": "education",
+ "customer_kind": "unknown",
+ "financing_source": "бюжет маблаглари хисобидан",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "delivery",
+   "summary_uz": "Xizmat muddati 2026-yil 1-oktyabrdan 31-dekabrgacha.",
+   "summary_en": "Service period is 1 October to 31 December 2026.",
+   "quote": "Xizmat koʻrsatish muddati: 2026-yil “01” oktyabrdan 2026-yil 31-dekabrgacha.",
+   "page": 27,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Jami 62 nafar tarbiyalanuvchi uchun ovqatlantirish xizmati ko'rsatiladi.",
+   "summary_en": "Meals are provided for 62 children.",
+   "quote": "Ovqatlanuvchilar soni va toifalari: Jami: 62 nafar.",
+   "page": 28,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Kuniga 4 mahal ovqat beriladi.",
+   "summary_en": "Four meals a day.",
+   "quote": "Ovqatlanishi (mahal): bir kunda 4 mahal",
+   "page": 28,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Taomnoma Ijtimoiy himoya milliy agentligining namunaviy taomnomasiga mos bo'lishi shart.",
+   "summary_en": "The menu must follow the Agency's model menu.",
+   "quote": "Taomnoma: Ijtimoiy himoya milliy agentligi tomonidan taqdim etiladigan namunaviy taomnomaga mos ravishda.",
+   "page": 28,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "payment",
+   "summary_uz": "Taklif etiladigan ustama haq 30 foizdan oshmasligi shart; oshgan takliflar rad etiladi.",
+   "summary_en": "The offered markup must not exceed 30%; higher offers are rejected.",
+   "quote": "Ijrochi tomonidan taklif etiladigan ustama haq miqdori 30 foizdan oshmasligi shart.",
+   "page": 18,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "payment",
+   "summary_uz": "Avans oldingi oydagi haqiqiy xarajatning 30 foizi miqdorida to'lanadi.",
+   "summary_en": "Advance is 30% of the previous month's actual cost.",
+   "quote": "Buyurtmachi tomonidan avvalgi oyda ovqatlanish uchun amalga oshirilgan haqiqiy xarajatlarning 30 foizi miqdorida oldindan toʻlov (avans) amalga oshiriladi",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Kamida uch oylik shartnoma summasiga teng aylanma mablag' moliyaviy hujjatlar bilan tasdiqlanishi kerak.",
+   "summary_en": "Working capital of at least three months of the contract value must be proven with financial documents.",
+   "quote": "Ishtirokchi kamida uch oylik shartnoma summasiga teng aylanma mablagʻlarga ega ekanligini moliyaviy hujjatlar bilan tasdiqlaydi.",
+   "page": 33,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "So'nggi 3 yildagi xizmat ko'rsatilgan tashkilotlar ro'yxati va kamida 5 ta tavsiyanoma uchun 15 ballgacha.",
+   "summary_en": "Up to 15 points for a 3-year client list with at least five recommendation letters.",
+   "quote": "Ishtirokchi so‘nggi 3 yil davomida xizmat ko‘rsatgan tashkilotlar ro‘yxatini taqdim etadi (nomi, manzili, xizmat turi, muddati, shartnoma summasi bilan).",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "SanQvaN ga mos taomnoma va menyu-kalkulyatsiya uchun 20 ballgacha.",
+   "summary_en": "Up to 20 points for a SanQvaN-compliant menu and cost calculation.",
+   "quote": "Ishtirokchi amaldagi SanQvaN talablariga muvofiq taomnoma, menyu-kalkulyatsiya, har bir taom bo‘yicha chiqish vazni",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Oshxona, ombor, sovitkich, transport va xodimlar mavjudligi uchun 20 ballgacha.",
+   "summary_en": "Up to 20 points for kitchen, storage, refrigeration, transport and staff.",
+   "quote": "Ishtirokchi autsorsing xizmatini bajarish uchun mavjud moddiy-texnik baza, oshxona va ishlab chiqarish jihozlari, omborxona, sovitkich uskunalari, transport vositalari, inventarlar hamda xodimlar tarkibi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Ruxsat etuvchi hujjatlar 2025-yildan keyin berilgan bo'lishi shart; soni bo'yicha ball beriladi.",
+   "summary_en": "Permits must be issued after 2025; points depend on how many are submitted.",
+   "quote": "Hujjatlar amal qilish muddati tugamagan bo‘lishi shart hamda eng kamida 2025 yildan keyin tasdiqlangan boʻlishi shart.",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "evaluation",
+   "summary_uz": "Xalqaro tajriba va xalqaro standartlar bo'yicha hujjatlar uchun 20 ballgacha beriladi.",
+   "summary_en": "Up to 20 points for documents on international experience and international standards.",
+   "quote": "Ishtirokchi tomonidan xalqaro tajriba va hamkorlik imkoniyatlari, oziq-ovqat xavfsizligi va sifat menejmenti sohasidagi xalqaro standartlar asosida ishlash imkoniyatini tasdiqlovchi hujjatlar",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r13",
+   "kind": "other",
+   "summary_uz": "G'olib shartnoma summasining kamida 1 foizi miqdorida investitsiya kiritishga rozilik beradi (10 ball).",
+   "summary_en": "The winner agrees to invest at least 1% of the contract value (10 points).",
+   "quote": "Ishtirokchi shartnoma umumiy summasining kamida 1 foizi miqdorida investitsiya kiritishga roziligi haqida kafolat xatini taqdim etadi",
+   "page": 14,
+   "source": "spec"
+  },
+  {
+   "id": "r14",
+   "kind": "other",
+   "summary_uz": "Qish-bahor mavsumida asosiy oziq-ovqat mahsulotlarining kamida uch oylik zaxirasi shakllantirilishi kerak.",
+   "summary_en": "A stock of staple foods for at least three months must be built for winter-spring.",
+   "quote": "Qish-bahor mavsumida asosiy turdagi oziq-ovqat mahsulotlarining kamida uch oylik zaxirasini shakllantirish",
+   "page": 34,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "irrelevant_requirement",
+   "severity": "high",
+   "quote": "Ishtirokchi tomonidan xalqaro tajriba va hamkorlik imkoniyatlari, oziq-ovqat xavfsizligi va sifat menejmenti sohasidagi xalqaro standartlar asosida ishlash imkoniyatini tasdiqlovchi hujjatlar",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Mezon xalqaro tajriba, hamkorlik bitimlari va xalqaro standartlar bo'yicha hujjatlar uchun 20 ball beradi. Bu bitta bog'chada ovqatlantirish xizmati uchun mos kelmaydi va bunday hujjatlarga ega bo'lmagan, lekin ishni yaxshi bajara oladigan mahalliy ijrochilar texnik ballning katta qismini yo'qotadi. Bu standart shablon matniga o'xshaydi; shuningdek u ilovadagi mezonlar jadvalida ko'rsatilmagan.",
+   "explanation_en": "This criterion awards up to 20 points for international experience, cooperation agreements and international standards. That does not fit catering at a single kindergarten, and capable local suppliers without such documents lose a large share of the technical score. It looks like standard template wording and does not appear in the criteria table in the attached annex.",
+   "rewrite_uz": "Mezonni olib tashlash yoki uni xizmat predmetiga mos mezon bilan almashtirish: masalan, 'oziq-ovqat xavfsizligi tizimi (masalan, HACCP yoki shunga teng hujjat) mavjudligi - mavjud bo'lsa 5 ball'.",
+   "rewrite_en": "Remove the criterion or replace it with one tied to the service, for example 'a food-safety system (such as HACCP or an equivalent document) - 5 points if present'.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 60,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 40,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): Mezon xalqaro tajriba, hamkorlik bitimlari va xalqaro standartlar bo'yicha hujjatlar uchun 20 ball beradi. Bu bitta bog'chada ovqatlantirish xizmati uchun mos kelmaydi va bunday hujjatlarga ega bo'lmagan, lekin ishni yaxshi bajara oladigan mahalliy ijrochilar texnik ballning katta qismini yo'qotadi. Bu standart shablon matniga o'xshaydi; shuningdek u ilovadagi mezonlar jadvalida ko'rsatilmagan.",
+   "Tushuntirish so'rash muddati: 20.11.2026 19:22.",
+   "Diqqat: hujjatning 7 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): This criterion awards up to 20 points for international experience, cooperation agreements and international standards. That does not fit catering at a single kindergarten, and capable local suppliers without such documents lose a large share of the technical score. It looks like standard template wording and does not appear in the criteria table in the attached annex.",
+   "Clarification requests are accepted until 20.11.2026 19:22.",
+   "Note: 7 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirokchi blankasida kafolat xati (1-son shakl)",
+  "Ishtirokchi to'g'risida umumiy ma'lumot (2-son shakl)",
+  "Tanlov qoidalariga rioya etish to'g'risidagi ariza (3-son shakl)",
+  "Texnik kafolat xati (4-son shakl)",
+  "Moddiy-texnik baza va logistika to'g'risida ma'lumot: oshxona jihozlari, ombor, sovitkichlar, transport (5-son shakl)",
+  "Moliyaviy imkoniyatlar to'g'risida ma'lumot, bank ma'lumotnomasi (kamida 3 oylik shartnoma summasiga teng aylanma mablag') (6-son shakl)",
+  "Tajriba to'g'risida ma'lumot: so'nggi 3 yilda xizmat ko'rsatilgan tashkilotlar ro'yxati va kamida 5 ta tavsiyanoma (7-son shakl)",
+  "Xalqaro tajriba va xalqaro standartlar bo'yicha ishlash imkoniyatini tasdiqlovchi hujjatlar (hamkorlik bitimlari, tavsiyanomalar)",
+  "SanQvaN talablariga mos taomnoma va menyu-kalkulyatsiya (chiqish vazni, tarkibi, mahsulot sarfi)",
+  "Ruxsat etuvchi hujjatlar, sanitariya-epidemiologiya xulosalari, muvofiqlik va sifat sertifikatlari",
+  "Shartnoma summasining kamida 1 foizi miqdorida investitsiya kiritishga roziligi haqida kafolat xati",
+  "Xodimlarning sanitariya kitobchasi va tibbiy ko'rikdan o'tganligini tasdiqlovchi hujjatlar, shtat ro'yxati, diplom va malaka hujjatlari",
+  "Soliq qarzdorligi yo'qligi va Majburiy ijro byurosi bazalarida bajarilmagan majburiyatlar yo'qligi to'g'risida ma'lumotnoma",
+  "Taklifni ta'minlash (zakalat) to'g'risida tasdiq",
+  "зарур"
+ ],
+ "clarification_letter_uz": "Kimga: Бухоро шахар 57-сон Ихтисослаштирилган мактабгача таълим ташкилоти, xarid komissiyasiga\nLot raqami: 26110012524839\nXarid predmeti: 57 сон ММТМ да аутсоринг хизматини курсатиш\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Ishtirokchi tomonidan xalqaro tajriba va hamkorlik imkoniyatlari, oziq-ovqat xavfsizligi va sifat menejmenti sohasidagi xalqaro standartlar asosida ishlash imkoniyatini tasdiqlovchi hujjatlar»\n   Savolimiz: Mezon xalqaro tajriba, hamkorlik bitimlari va xalqaro standartlar bo'yicha hujjatlar uchun 20 ball beradi. Bu bitta bog'chada ovqatlantirish xizmati uchun mos kelmaydi va bunday hujjatlarga ega bo'lmagan, lekin ishni yaxshi bajara oladigan mahalliy ijrochilar texnik ballning katta qismini yo'qotadi. Bu standart shablon matniga o'xshaydi; shuningdek u ilovadagi mezonlar jadvalida ko'rsatilmagan.\n   Taklif etilayotgan tahrir: Mezonni olib tashlash yoki uni xizmat predmetiga mos mezon bilan almashtirish: masalan, 'oziq-ovqat xavfsizligi tizimi (masalan, HACCP yoki shunga teng hujjat) mavjudligi - mavjud bo'lsa 5 ball'.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (20.11.2026 19:22) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 0,
+  "median_bidders": 0,
+  "share_le2_bidders": 0.0,
+  "top_winner_share": 0.0,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 5967118.08,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

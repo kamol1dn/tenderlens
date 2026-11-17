@@ -1,0 +1,239 @@
+{
+ "lot_id": 518733,
+ "display_no": "26111006518733",
+ "title": "Вақт ва частота эталон комплексини харид қилиш /Закупка эталона единиц времени и частоты",
+ "url": "https://etender.uzex.uz/lot/518733",
+ "customer": {
+  "name": "ГП ?УЗБЕКСКИЙ НАЦИОНАЛЬНЫЙ ИНСТИТУТ МЕТРОЛОГИИ?",
+  "tin": "304909478"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 25714728417.35,
+ "currency": "UZS",
+ "start_date": "2026-10-15T14:28:07",
+ "end_date": "2026-11-18T12:16:25",
+ "clarific_date": "2026-11-18T12:16:25",
+ "type": "tender",
+ "old_id": 508361,
+ "evaluation": {
+  "tech_coef": 60.0,
+  "cost_coef": 40.0,
+  "min_point": 32,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйилгадиган талаблар. Техник топширикда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. /Требования к необходимым техническим характеристикам товара. Соответствие объему, техническим параметрам и требованиям, предусмотренным в техническом задании.",
+    "max_score": 40.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг техник тартибга солиш соҳасидаги норматив ҳужжатларга мувофиқлиги бўйича талаблар /Требования по соответствию товара нормативным документам в области технического регулирования",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ходимларни ўқитиш бўйича талаблар/Требования к обучению персонала",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш муддати бўйича талаблар/Требования по срокам поставки товара",
+    "max_score": 8.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолат бўйича талаблар (муддати, жойи)/Требования по гарантии (срок, место)",
+    "max_score": 8.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/518733.rar",
+  "pages": 50,
+  "text_source": "ocr",
+  "language": "mixed",
+  "unreadable_pages": [
+   2,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   24
+  ]
+ },
+ "subject_uz": "Milliy metrologiya instituti uchun vaqt va chastota etalon kompleksini xarid qilish (yetkazib berish, o'rnatish, sozlash va xodimlarni o'qitish bilan)",
+ "sector": "other",
+ "customer_sector": "education",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "evaluation",
+   "summary_uz": "Taklif texnik topshiriqqa to'liq mos bo'lishi shart (40 ball); mos kelmasa ishtirokchi chetlashtiriladi.",
+   "summary_en": "The offer must fully match the technical specification (40 points); a mismatch leads to disqualification.",
+   "quote": "Если не соответствует, то оценивается в 0 (ноль) балла и участник отстраняется несмотря на результаты технической оценки.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "CIPM MRA yoki ILAC MRA belgili kalibrlash sertifikati talab qilinadi (CIPM uchun 5 ball, ILAC uchun 2 ball).",
+   "summary_en": "A calibration certificate with the CIPM MRA or ILAC MRA logo is required (5 points for CIPM, 2 points for ILAC).",
+   "quote": "Представление сертификата калибровки с логотипом CIPM MRA или ILAC MRA",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Har bir o'lchash vositasi uchun amaldagi kalibrlash sertifikatlari va kelib chiqish sertifikati, invoys va aviayuk xati asl nusxada bo'lishi kerak.",
+   "summary_en": "Each measuring instrument needs original valid calibration certificates, plus original certificates of origin, invoice and air waybill.",
+   "quote": "должно иметь оригиналы сертификатов происхождение товаров, инвойс и авианакладную.",
+   "page": 27,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Mahsulot yangi bo'lishi, 2026-yildan oldin ishlab chiqarilmagan va ilgari ishlatilmagan bo'lishi shart.",
+   "summary_en": "The goods must be new, not manufactured before 2026 and never previously used.",
+   "quote": "Yetkazib beriladigan mahsulot yangi boolishi, ishlab chiqarishdan olinmagan hamda 2026- yildan oldin ishlab chiqarilmagan bo'lishi shart",
+   "page": 37,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Xorijiy ishtirokchilar uchun yetkazib berish akkreditiv ochilgandan keyin 365 kalendar kundan oshmasligi kerak (DDP Toshkent).",
+   "summary_en": "For foreign bidders delivery must be within 365 calendar days of the letter of credit being opened (DDP Tashkent).",
+   "quote": "иностранных участников - поставка товара не более 365 календарных дней с момента открытия аккредитива.",
+   "page": 31,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Yetkazib berish muddati qisqa bo'lsa ko'proq ball: 259 kungacha 8 ball, 340-365 kun uchun 3 ball.",
+   "summary_en": "Shorter delivery earns more points: 8 points for up to 259 days, 3 points for 340-365 days.",
+   "quote": "Етказиб бериш муддати 340-365 календар кун 3 балл; Етказиб бериш муддати 320-339 календар кун 4 балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Kafolat kamida 12 oy; 12 oy uchun 4 ball, 36 oy va undan ko'p uchun 8 ball.",
+   "summary_en": "Warranty of at least 12 months; 4 points for 12 months, 8 points for 36 months or more.",
+   "quote": "Кафолат муддати-12 ой – 4 балл; Кафолат муддати -18 ой – 5 балл; Кафолат муддати – 24 ой – 6 балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Buyurtmachining kamida 3 xodimini o'qitish shart (3 xodim uchun 3 ball, 5 va undan ko'p uchun 5 ball).",
+   "summary_en": "Training of at least 3 customer employees is mandatory (3 points for 3 staff, 5 points for 5 or more).",
+   "quote": "3 нафар ходимни ўқитса - 3 балл; 4 нафар ходимни ўқитса -4 балл; 5 нафар ва ундан кўп ходимни ўқитса -5 балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Oxirgi hisobot davri va oldingi 3 yil uchun moliyaviy hisobotlar (balans va moliyaviy natijalar) taqdim etiladi.",
+   "summary_en": "Financial statements (balance sheet and results) for the last reporting period and the previous 3 years must be submitted.",
+   "quote": "молиявий ҳисобот (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) (бириктирилган баланс ва молиявий натижалар) охирги ҳисобот даври ва охирги ўтган 3 йил учун",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "qualification",
+   "summary_uz": "Kamida 5 yillik staj egasi metrologlar diplomlari va sertifikatlari hamda mijozlarning tavsiyanomalari taqdim etiladi.",
+   "summary_en": "Diplomas and certificates of metrologists with at least 5 years' experience, plus customer recommendation letters, must be provided.",
+   "quote": "5 йилдан кам бўлмаган иш стажига эга бўлган мутахассислар (метрологлар) дипломлари, сертификатлари ва ҳ.қ.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 94,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 6.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 9 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 44% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 33%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 508361).",
+   "Diqqat: hujjatning 15 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 9 deals the median number of bidders was 3; 44% of deals had two or fewer bidders; the most frequent winner took 33%.",
+   "This lot was re-announced (previous lot: 508361).",
+   "Note: 15 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Resurslar mavjudligini tasdiqlovchi ma'lumotnoma (ijrochi blankasida, erkin shaklda)",
+  "Shartnoma tuzish uchun qonuniy huquqni tasdiqlovchi hujjatlar (rahbar tayinlanishi to'g'risida buyruq, ta'sischi qarori, pasport nusxasi)",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+  "Soliq qarzdorligi, bankrotlik, insofsiz ijrochilar reyestri va Majburiy ijro byurosi bo'yicha ma'lumotlar",
+  "Oxirgi hisobot davri va oldingi 3 yil uchun moliyaviy hisobotlar (5-shakl)",
+  "Biznes obro'sini tasdiqlovchi hujjatlar: avvalgi yetkazib berishlar bo'yicha tavsiyanomalar, shartnomalar nusxasi, metrologlar diplomlari (6-shakl)",
+  "Oflshor hududlarda ro'yxatdan o'tmaganlik, sud ishlari, manfaatlar to'qnashuvi va sanksiyalar yo'qligi haqida ijrochi blankasidagi ma'lumotlar",
+  "Halollik majburiyati to'g'risidagi ariza",
+  "Texnik topshiriqqa muvofiqlik jadvali va 11-shakl (taqqoslash jadvallari bilan)",
+  "CIPM MRA yoki ILAC MRA belgili kalibrlash sertifikati (namuna) va har bir o'lchash vositasi uchun kalibrlash protokollari",
+  "Kafolat muddati, yetkazib berish muddati va xodimlarni o'qitish bo'yicha taklif (11-shakl ilovalari)",
+  "Тендер бўйича харид қилиш ҳужжатларини 11-сонли шакл ва солиштирма жадваллар/Форма №11 к закупочной документации по тендеру и сравнительная таблица",
+  "Тендер бўйича харид қилиш ҳужжатларини 11-сонли шакл иловалари билан ва калибрлаш сертификати (намуна)/Форма №11 к закупочной документации по тендеру и приложения, а также сертификат калибровки (образец)",
+  "Тендер бўйича харид қилиш ҳужжатларини 11-сонли шакл иловалари билан/Форма №11 к закупочной документации по тендеру и приложения",
+  "Тендербўйича харид қилиш ҳужжатларини 11-сонли шакл иловалари билан/Форма №11 к закупочной документации по тендеру и приложения"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 9,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4444,
+  "top_winner_share": 0.3333,
+  "share_price_drop_lt1pct": 0.4444,
+  "reannounced_lots": 3
+ },
+ "money_on_table_uzs": 3625776706.85,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 33.9
+ },
+ "analyzed_at": "2026-11-18T00:20:02+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

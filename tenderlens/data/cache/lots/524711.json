@@ -1,0 +1,217 @@
+{
+ "lot_id": 524711,
+ "display_no": "26110012524711",
+ "title": "Namangan viloyati, Chust tumani “Yangiobod” MFY hududidan oqib o‘tuvchi G‘ovasoy soyi o‘zanidagi uchastka",
+ "url": "https://etender.uzex.uz/lot/524711",
+ "customer": {
+  "name": "?Сув хужалигида бозор механизмларини жорий жорий килиш? давлат муассасаси",
+  "tin": "305666630"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 89000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T09:39:41",
+ "end_date": "2026-11-20T09:39:41",
+ "clarific_date": "2026-11-20T09:39:41",
+ "type": "selection",
+ "old_id": 520551,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 4,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524711.pdf",
+  "pages": 12,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "G'ovasoy soyi o'zanini tozalash va to'kma damba tiklash ishlariga atrof-muhitga ta'sirni baholash bo'yicha loyiha hujjatlarini ishlab chiqish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Atrof-muhitga ta'sirni baholash bo'yicha loyiha hujjatlari ishlab chiqiladi.",
+   "summary_en": "Environmental impact assessment project documents are to be prepared.",
+   "quote": "atrof-muhitga ta’sirni baholash bo‘yicha loyiha hujjatlarini ishlab chiqish",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Suv xo'jaligi va gidrotexnika sohasida tajribali mutaxassis doimiy xodimlar ro'yxatida bo'lsa 4 ball.",
+   "summary_en": "A specialist with water-management and hydro-engineering experience on the permanent staff list earns 4 points.",
+   "quote": "Doimiy ishlaydigan umumiy xodimlar ro‘yxati (Yagona milliy mehnat tizimidan) bunda, suv xo‘jaligi va gidrotexnika inshootlari soxasi bo‘yicha ish tajribasiga ega bo‘lgan mutaxassis mavjud bo‘lishi shart",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Ustav, davlat ro'yxatidan o'tganlik guvohnomasi va rahbar tayinlanganligi buyrug'i to'liq bo'lsa 6 ball.",
+   "summary_en": "Charter, registration certificate and the director's appointment order, if complete, earn 6 points.",
+   "quote": "Tanlov ishtirokchisi tomonidan Korxona ustavi, Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnomasi va rahbar tayinlanganligi to‘g‘risidagi buyrug‘i nusxasi taqdim etilishi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Bankdan K-2 qarzdorlik yo'qligi ma'lumoti (oxirgi bir oy) bo'lsa 6 ball.",
+   "summary_en": "A bank K-2 certificate of no debts (last month) earns 6 points.",
+   "quote": "Qarzdorligi yo‘qligi bo‘yicha K-2 ma’lumoti (ohirgi bir oy muddatdagi)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "QR kodli soliq qarzi yo'qligi haqida ma'lumotnoma (oxirgi bir oy) bo'lsa 4 ball.",
+   "summary_en": "A QR-coded tax-debt certificate (last month) earns 4 points.",
+   "quote": "Yuridik shaxs-soliq to‘lovchining soliqlar va yig‘malardan soliq qarzi mavjud yoki mavjud emasligi haqidagi ma’lumotnoma (QR kodli va ohirgi bir oy muddatdagi)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "So'nggi 3 yilda 10 tadan ortiq obyekt bo'yicha ishlar va DEEM ijobiy xulosalari bo'lsa 10 ball, kam bo'lsa 0 ball.",
+   "summary_en": "More than 10 works in the last 3 years with positive DEEM opinions earn 10 points; fewer earn 0.",
+   "quote": "Mazkur e’longa doir obyektlarda ohirgi 3 yilda bajargan ishlar ro‘yxati hamda DEEMning ijobiy xulosalari: 10 dan ortiq bo‘lsa 10 ball, 10 dan kam bo‘lsa 0 ball",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Geodeziya, kartografiya va marksheyderlik ishlari uchun ruxsatnoma bo'lsa 5 ball.",
+   "summary_en": "A permit for geodesy, cartography and mine-surveying work earns 5 points.",
+   "quote": "Geodeziya, kartografiya va marksheyderlik ishlarini amalga oshirish uchun tasdiqnoma (ruxsatnoma) mavjud bo‘lsa 5 ball",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "GNSS, elektron taxeometr yoki 3D skanerdan biri va O'zstandart tekshiruvi ruxsatnomasi bo'lsa 10 ball.",
+   "summary_en": "One of GNSS, electronic total station or 3D scanner, with a valid Ozstandart verification, earns 10 points.",
+   "quote": "Geodezik, topografik va toposyomka ishlarini amalga oshirish uchun zaruriy asbob uskunalar hamda yuqori aniqlikda ishlovchi qurilmalardan (GNSS, elektron taxeometr va lazerli yoki uch o‘lchamli (3D) skaner) biri bo‘lishi lozim",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_experience",
+   "severity": "medium",
+   "quote": "Mazkur e’longa doir obyektlarda ohirgi 3 yilda bajargan ishlar ro‘yxati hamda DEEMning ijobiy xulosalari: 10 dan ortiq bo‘lsa 10 ball, 10 dan kam bo‘lsa 0 ball",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Lot qiymati taxminan 89 mln so'm bo'lgan bitta hujjat uchun so'nggi 3 yilda 10 tadan ortiq xulosa talab qilinadi, kam bo'lsa ball umuman berilmaydi. Bu o'xshash ishni bajara oladigan, lekin kamroq loyiha tajribasiga ega tashkilotlarning ballini yo'qotishiga olib kelishi mumkin.",
+   "explanation_en": "For a single document worth about 89 m UZS, more than 10 projects with positive opinions in 3 years are needed for any points, and fewer score zero. Capable firms with a shorter track record may lose these points.",
+   "rewrite_uz": "So'nggi 3 yilda o'xshash atrof-muhitga ta'sirni baholash bo'yicha kamida 3 ta bajarilgan ish bo'lsa, to'liq ball beriladi; kamroq bo'lsa, ball nisbatan beriladi.",
+   "rewrite_en": "Full points for at least 3 comparable environmental impact assessments completed in the last 3 years, with proportionate points for fewer.",
+   "type_label_uz": "Lot hajmiga nomutanosib tajriba yoki resurs talabi",
+   "type_label_en": "Experience or resource demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 69,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 8.6,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Lot hajmiga nomutanosib tajriba yoki resurs talabi (platformadagi mezonlar): Lot qiymati taxminan 89 mln so'm bo'lgan bitta hujjat uchun so'nggi 3 yilda 10 tadan ortiq xulosa talab qilinadi, kam bo'lsa ball umuman berilmaydi. Bu o'xshash ishni bajara oladigan, lekin kamroq loyiha tajribasiga ega tashkilotlarning ballini yo'qotishiga olib kelishi mumkin.",
+   "Buyurtmachining so'nggi 162 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 72% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 52%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 520551).",
+   "Tushuntirish so'rash muddati: 20.11.2026 09:39."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Experience or resource demand out of proportion to the lot (platform criteria form): For a single document worth about 89 m UZS, more than 10 projects with positive opinions in 3 years are needed for any points, and fewer score zero. Capable firms with a shorter track record may lose these points.",
+   "In the customer's last 162 deals the median number of bidders was 2; 72% of deals had two or fewer bidders; the most frequent winner took 52%.",
+   "This lot was re-announced (previous lot: 520551).",
+   "Clarification requests are accepted until 20.11.2026 09:39."
+  ]
+ },
+ "documents_needed_uz": [
+  "Korxona ustavi, davlat ro'yxatidan o'tganlik guvohnomasi, rahbar tayinlanganligi buyrug'i",
+  "Yagona milliy mehnat tizimidan doimiy xodimlar ro'yxati",
+  "Bankdan K-2 qarzdorlik yo'qligi ma'lumoti",
+  "QR kodli soliq qarzi yo'qligi haqida ma'lumotnoma",
+  "So'nggi 3 yilda bajarilgan ishlar ro'yxati va DEEM xulosalari",
+  "Geodeziya, kartografiya va marksheyderlik ishlari uchun ruxsatnoma",
+  "Asbob-uskunalar ro'yxati va O'zstandart tekshiruvi ruxsatnomasi",
+  "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ariza",
+  "Tanlov ishtirokchisi to‘g‘risida ma’lumotlar:",
+  "Tanlov ishtirokchisining moliyaviy holati to‘g‘risida ma’lumotlar",
+  "Tanlovga qo‘yilgan obyektlarga doir ishlar bo‘yicha tajribasi",
+  "Ishlarni bajarishda foydalaniladigan zarur asbob-uskuna va anjomlar ro‘yxati"
+ ],
+ "clarification_letter_uz": "Kimga: ?Сув хужалигида бозор механизмларини жорий жорий килиш? давлат муассасаси, xarid komissiyasiga\nLot raqami: 26110012524711\nXarid predmeti: Namangan viloyati, Chust tumani “Yangiobod” MFY hududidan oqib o‘tuvchi G‘ovasoy soyi o‘zanidagi uchastka\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Mazkur e’longa doir obyektlarda ohirgi 3 yilda bajargan ishlar ro‘yxati hamda DEEMning ijobiy xulosalari: 10 dan ortiq bo‘lsa 10 ball, 10 dan kam bo‘lsa 0 ball»\n   Savolimiz: Lot qiymati taxminan 89 mln so'm bo'lgan bitta hujjat uchun so'nggi 3 yilda 10 tadan ortiq xulosa talab qilinadi, kam bo'lsa ball umuman berilmaydi. Bu o'xshash ishni bajara oladigan, lekin kamroq loyiha tajribasiga ega tashkilotlarning ballini yo'qotishiga olib kelishi mumkin.\n   Taklif etilayotgan tahrir: So'nggi 3 yilda o'xshash atrof-muhitga ta'sirni baholash bo'yicha kamida 3 ta bajarilgan ish bo'lsa, to'liq ball beriladi; kamroq bo'lsa, ball nisbatan beriladi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (20.11.2026 09:39) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 162,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.7222,
+  "top_winner_share": 0.5185,
+  "share_price_drop_lt1pct": 0.4815,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 12139600.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

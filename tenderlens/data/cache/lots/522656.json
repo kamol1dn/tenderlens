@@ -1,0 +1,184 @@
+{
+ "lot_id": 522656,
+ "display_no": "26110012522656",
+ "title": "Тушлик ташкиллаштириш хизмати",
+ "url": "https://etender.uzex.uz/lot/522656",
+ "customer": {
+  "name": "Бухоро вилояти хокимлиги",
+  "tin": "201512528"
+ },
+ "region": "Бухоро вилояти",
+ "start_cost": 104193600.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T16:32:41",
+ "end_date": "2026-11-18T16:32:41",
+ "clarific_date": "2026-11-18T16:32:41",
+ "type": "selection",
+ "old_id": 521785,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 15,
+  "criteria": [
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/522656.pdf",
+  "pages": 10,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   1,
+   3
+  ]
+ },
+ "subject_uz": "Tushlik (ovqatlanish) tadbirini tashkil etish xizmati, 350 birlik",
+ "sector": "food",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "Бюджет маблағлари ҳисобидан",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "other",
+   "summary_uz": "Xizmat Buxoro shahri markazida, kirish-chiqishi qulay joyda o'tkaziladigan tadbir uchun taqdim etiladi.",
+   "summary_en": "The service is for an event held in the centre of Bukhara city with convenient access.",
+   "quote": "Тадбир ўтказиладиган жой шахар марказида жойлашган бўлиши керак",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "Xizmat 5 ish kuni ichida ko'rsatilishi kerak.",
+   "summary_en": "The service must be delivered within 5 working days.",
+   "quote": "Етказиб бериш 5 иш куни",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "payment",
+   "summary_uz": "30 foiz oldindan to'lov nazarda tutilgan.",
+   "summary_en": "A 30 percent advance payment is provided.",
+   "quote": "Олдиндан тўлов 30%",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Umumiy ovqatlanish xizmatida ish tajribasi to'g'risidagi ma'lumotnoma baholanadi (10 ballgacha).",
+   "summary_en": "A reference on experience in catering services is scored (up to 10 points).",
+   "quote": "Умумий овқатланиш хизматида иш тажрибаси тўғрисида маълумотлар",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Oldingi tadbirlar fotosuratlari va sanitariya-epidemiologiya xulosasi baholanadi (10 ballgacha).",
+   "summary_en": "Photos of previous events and a sanitary-epidemiological conclusion are scored (up to 10 points).",
+   "quote": "Олдинги тадбирлар қилинганни тўғрисида фото суратлар ва санитария-эпидемиология хулосаси",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchida shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari bo'lishi kerak.",
+   "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reyestrida bo'lmasligi kerak.",
+   "summary_en": "The bidder must not be listed in the unified register of unfair suppliers.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "other",
+   "summary_uz": "Boshlang'ich narx QQS bilan 104 193 600 so'm.",
+   "summary_en": "The start price is 104,193,600 UZS including VAT.",
+   "quote": "104 193 600 (бир юз тўрт миллион бир юз тўқсон уч минг олти юз) сўм",
+   "page": 2,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 91,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 8.7,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 15 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 93% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 27%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 521785).",
+   "Diqqat: hujjatning 2 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 15 deals the median number of bidders was 2; 93% of deals had two or fewer bidders; the most frequent winner took 27%.",
+   "This lot was re-announced (previous lot: 521785).",
+   "Note: 2 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Umumiy ovqatlanish xizmatida ish tajribasi to'g'risida ma'lumotnoma",
+  "Oldingi tadbirlar fotosuratlari",
+  "Sanitariya-epidemiologiya xulosasi",
+  "Resurslar mavjudligi to'g'risida ma'lumot",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+  "Majburiy ijro byurosi bazasidan ma'lumot"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 15,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.9333,
+  "top_winner_share": 0.2667,
+  "share_price_drop_lt1pct": 0.5333,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 14212007.04,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:02+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,318 @@
+{
+ "lot_id": 523435,
+ "display_no": "26120012523435",
+ "title": "Отбор",
+ "url": "https://etender.uzex.uz/lot/523435",
+ "customer": {
+  "name": "O’ZBEKISTON TEXNOLOGIK METALLAR KOMBINATI AJ",
+  "tin": "311415426"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 89303.0,
+ "currency": "USD",
+ "start_date": "2026-11-16T19:36:59",
+ "end_date": "2026-11-23T19:36:59",
+ "clarific_date": "2026-11-23T19:36:59",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 60,
+  "criteria": [
+   {
+    "label": "Кафолат бўйича талаблар (муддати, жойи)",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолат бўйича талаблар (муддати, жойи)",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+    "max_score": 30.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолат бўйича талаблар (муддати, жойи)",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни суғурталаш зарурати бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523435.zip",
+  "pages": 38,
+  "text_source": "text",
+  "language": "ru",
+  "unreadable_pages": [
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38
+  ]
+ },
+ "subject_uz": "Azot kislotasi eritmalari uchun kamerali filtr-press (30 kamera, 1000x1000 mm) xaridi",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Buyurtmachi o‘z mablag‘lari hisobidan Собственные средства Заказчика",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Azot kislotasi eritmalari uchun 30 kamerali, 1000×1000 mm plitali kamerali filtr-press yetkazib beriladi.",
+   "summary_en": "A chamber filter press for nitric acid solutions, 30 chambers with 1000×1000 mm plates.",
+   "quote": "камерный фильтр-пресс для растворов азотной кислоты (30 камер, 1000×1000 мм)",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Filtrlash plitalari yuqori haroratga va kislotaga chidamli sof polipropilendan bo'lishi, oddiy PP ruxsat etilmaydi.",
+   "summary_en": "Filter plates must be high-temperature, acid-resistant pure polypropylene; standard PP is not permitted.",
+   "quote": "Высокотемпературный химически стойкий чистый полипропилен (High-Temp & Acid Resistant PP)",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Zichlagichlar Viton (FKM) dan bo'lishi, EPDM yoki NBR rezinasi taqiqlanadi.",
+   "summary_en": "Seals must be Viton (FKM); EPDM or NBR rubber is prohibited.",
+   "quote": "Витон (Viton / FKM). Применение резины EPDM или NBR запрещено",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Plitalarni siqishning maksimal gidravlik bosimi 21 MPa (210 bar) bo'lishi kerak.",
+   "summary_en": "Maximum hydraulic plate-clamping pressure of 21 MPa (210 bar).",
+   "quote": "Plitalarni siqishning maksimal bosimi (gidravlik): 21 MPa (210 bar)",
+   "page": 21,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Boshqaruv tizimi PLC (Siemens / Delta) kontrolleri va sensorli operator paneli asosida bo'ladi.",
+   "summary_en": "Control system based on a PLC (Siemens / Delta) controller with a touch HMI panel.",
+   "quote": "Boshqaruv tizimi: PLC (Siemens / Delta) kontrolleri va sensorli operator paneli (HMI)",
+   "page": 21,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Uskuna yangi bo'lishi va 2026-yildan oldin ishlab chiqarilmagan bo'lishi lozim.",
+   "summary_en": "The equipment must be new and manufactured no earlier than 2026.",
+   "quote": "hamda 2026-yildan oldin ishlab chiqarilmagan bo‘lishi lozim",
+   "page": 19,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "delivery",
+   "summary_uz": "Bajarish muddati 70 kun.",
+   "summary_en": "Delivery period is 70 days.",
+   "quote": "Сроки выполнения работ | 70 дней",
+   "page": 18,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Ishga tushirish-sozlash ishlari ishlab chiqaruvchi zavod mutaxassislari tomonidan bajarilishi shart.",
+   "summary_en": "Commissioning must be done by specialists of the manufacturing plant.",
+   "quote": "Mazkur ishlar ishlab chiqaruvchi zavod mutaxassislari tomonidan amalga oshirilishi lozim.",
+   "page": 26,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "payment",
+   "summary_uz": "30 foiz avans 15 kalendar kun ichida, bank kafolati yoki avans sug'urtasi bilan to'lanadi; qolgan 70 foiz yetkazishdan keyin.",
+   "summary_en": "30% advance within 15 calendar days against a bank guarantee or advance insurance; 70% after delivery.",
+   "quote": "Предоплата в размере 30% от общей суммы Договора производится в течение 15 (пятнадцать) календарных дней",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Oxirgi 3 yilda 3 tadan ortiq o'xshash yetkazib berish 20 ball, 1-2 ta esa 10 ball beradi.",
+   "summary_en": "More than 3 similar supply projects in the last 3 years earns 20 points; 1-2 projects earn 10.",
+   "quote": "Более 3 проектов за последние 3 года — 20 баллов",
+   "page": 17,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "3 yil va undan ortiq kafolat hamda sug'urta hujjati bo'lsa 10 ball beriladi.",
+   "summary_en": "A warranty of 3 years or more plus an insurance document earns 10 points.",
+   "quote": "Предоставлены гарантийные обязательства на 3 года и более + официальное письмо или страховой полис от страховой компании — 10 баллов",
+   "page": 17,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "evaluation",
+   "summary_uz": "Ishlab chiqaruvchi zavodning dilerlik sertifikati yoki avtorizatsiya xati 10 ball bilan baholanadi.",
+   "summary_en": "A dealer certificate or authorisation letter from the manufacturer is scored at 10 points.",
+   "quote": "Zavod ishlab chiqaruvchisining dilerlik sertifikati yoki avtorizatsiya xati",
+   "page": 18,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "dealer_letter",
+   "severity": "medium",
+   "quote": "Zavod ishlab chiqaruvchisining dilerlik sertifikati yoki avtorizatsiya xati",
+   "page": 18,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ishlab chiqaruvchining dilerlik sertifikati yoki avtorizatsiya xati 10 ball (jami 96 balldan) bilan baholanadi. Ishlab chiqaruvchining rasmiy vakili bo'lmagan, lekin uskunani texnik topshiriq talablariga mos holda yetkaza oladigan yetkazib beruvchilar bu ballni yoʻqotishi mumkin. Texnik mosligi boshqa mezonlar (texnik taklif, kafolat) orqali tekshiriladi.",
+   "explanation_en": "A manufacturer's dealer certificate or authorisation letter is scored at 10 points (out of 96). Suppliers who are not official representatives but can deliver equipment meeting the specification may lose these points. Technical suitability is already checked through other criteria (technical offer, warranty).",
+   "rewrite_uz": "Ishlab chiqaruvchining dilerlik sertifikati yoki avtorizatsiya xati yoki yetkazib beruvchining uskuna sifati va kafolat majburiyatlarini tasdiqlovchi boshqa hujjat (masalan, ishlab chiqaruvchi kafolat xati) taqdim etilishi mumkin.",
+   "rewrite_en": "A manufacturer's dealer certificate or authorisation letter, or another document confirming the supplier's ability to guarantee equipment quality and warranty (for example a manufacturer warranty letter), may be submitted.",
+   "type_label_uz": "Ishlab chiqaruvchi yoki diler xati talabi",
+   "type_label_en": "Manufacturer or dealer letter required",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "irrelevant_requirement",
+   "severity": "low",
+   "quote": "имеющие опыт проведения полного цикла аудита, осуществляемого на конкурентной основе",
+   "page": 7,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ishtirokchilarga qo'yiladigan talablar qatorida 'to'liq audit o'tkazish tajribasi' ko'rsatilgan, bu esa filtr-press yetkazib berishga aloqador emas. Bu odatiy shablon matniga o'xshaydi; talab aniq bo'lmagani sababli ishtirokchilar tushunmovchilikka duch kelishi mumkin.",
+   "explanation_en": "The participant requirements mention experience of a full audit cycle, which has nothing to do with supplying a filter press. It looks like standard template wording; because it is unclear, bidders may be unsure whether they qualify.",
+   "rewrite_uz": "Ishtirokchi shunga o'xshash uskunalarni yetkazib berish tajribasiga ega bo'lishi kerak; audit tajribasi haqidagi band chiqarib tashlansin.",
+   "rewrite_en": "Participants should have experience supplying similar equipment; the sentence about audit experience should be removed.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 68,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 28,
+  "history_penalty": 4.4,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Ishlab chiqaruvchi yoki diler xati talabi (18-bet): Ishlab chiqaruvchining dilerlik sertifikati yoki avtorizatsiya xati 10 ball (jami 96 balldan) bilan baholanadi. Ishlab chiqaruvchining rasmiy vakili bo'lmagan, lekin uskunani texnik topshiriq talablariga mos holda yetkaza oladigan yetkazib beruvchilar bu ballni yoʻqotishi mumkin. Texnik mosligi boshqa mezonlar (texnik taklif, kafolat) orqali tekshiriladi.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (7-bet): Ishtirokchilarga qo'yiladigan talablar qatorida 'to'liq audit o'tkazish tajribasi' ko'rsatilgan, bu esa filtr-press yetkazib berishga aloqador emas. Bu odatiy shablon matniga o'xshaydi; talab aniq bo'lmagani sababli ishtirokchilar tushunmovchilikka duch kelishi mumkin.",
+   "Buyurtmachining so'nggi 8 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 62% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 12%.",
+   "Tushuntirish so'rash muddati: 23.11.2026 19:36.",
+   "Diqqat: hujjatning 11 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Manufacturer or dealer letter required (page 18): A manufacturer's dealer certificate or authorisation letter is scored at 10 points (out of 96). Suppliers who are not official representatives but can deliver equipment meeting the specification may lose these points. Technical suitability is already checked through other criteria (technical offer, warranty).",
+   "Requirement unrelated to the subject of the purchase (page 7): The participant requirements mention experience of a full audit cycle, which has nothing to do with supplying a filter press. It looks like standard template wording; because it is unclear, bidders may be unsure whether they qualify.",
+   "In the customer's last 8 deals the median number of bidders was 2; 62% of deals had two or fewer bidders; the most frequent winner took 12%.",
+   "Clarification requests are accepted until 23.11.2026 19:36.",
+   "Note: 11 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirok etish uchun ariza (1-shakl)",
+  "Kafolat xati: tugatish, bankrotlik, soliq qarzi va manfaatlar to'qnashuvi yo'qligi (2-shakl)",
+  "Ishtirokchi to'g'risida umumiy ma'lumot (3-shakl)",
+  "Moliyaviy holat to'g'risida ma'lumot va buxgalteriya balansi (4-shakl)",
+  "Halollik va manfaatlar bo'yicha ariza hamda kontragent anketasi (5-shakl)",
+  "Texnik taklif va texnik xususiyatlar solishtirma jadvali (6-shakl)",
+  "Ishlab chiqaruvchi zavoddan ishonchnoma (ishlab chiqaruvchi bo'lmagan ishtirokchi uchun)",
+  "O'xshash tovarlarni yetkazib berish tajribasi ro'yxati va kamida 3 ta shartnoma, dalolatnoma yoki hisob-faktura (7-shakl)",
+  "Kafolat majburiyatlari va sug'urta qoplamasi to'g'risida kafolat xati hamda sug'urta polisi (8-shakl)",
+  "Yetkazib berish va to'lov shartlari to'g'risida ma'lumot (9-shakl)",
+  "Ishlab chiqaruvchining dilerlik sertifikati yoki avtorizatsiya xati",
+  "Ishlab chiqaruvchi zavodning kafolat xati (kamida 12 oy)",
+  "Xalqaro namunadagi sifat sertifikati va texnik muvofiqlik sertifikati",
+  "Sanksiya ro'yxatlarida yo'qligi bo'yicha kafolat",
+  "Согласно ТЕН ДОК",
+  "Tanlov hujjatlariga muvofiq"
+ ],
+ "clarification_letter_uz": "Kimga: O’ZBEKISTON TEXNOLOGIK METALLAR KOMBINATI AJ, xarid komissiyasiga\nLot raqami: 26120012523435\nXarid predmeti: Отбор\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 18-bet.\n   Hujjatdagi matn: «Zavod ishlab chiqaruvchisining dilerlik sertifikati yoki avtorizatsiya xati»\n   Savolimiz: Ishlab chiqaruvchining dilerlik sertifikati yoki avtorizatsiya xati 10 ball (jami 96 balldan) bilan baholanadi. Ishlab chiqaruvchining rasmiy vakili bo'lmagan, lekin uskunani texnik topshiriq talablariga mos holda yetkaza oladigan yetkazib beruvchilar bu ballni yoʻqotishi mumkin. Texnik mosligi boshqa mezonlar (texnik taklif, kafolat) orqali tekshiriladi.\n   Taklif etilayotgan tahrir: Ishlab chiqaruvchining dilerlik sertifikati yoki avtorizatsiya xati yoki yetkazib beruvchining uskuna sifati va kafolat majburiyatlarini tasdiqlovchi boshqa hujjat (masalan, ishlab chiqaruvchi kafolat xati) taqdim etilishi mumkin.\n\n2. Texnik topshiriq, 7-bet.\n   Hujjatdagi matn: «имеющие опыт проведения полного цикла аудита, осуществляемого на конкурентной основе»\n   Savolimiz: Ishtirokchilarga qo'yiladigan talablar qatorida 'to'liq audit o'tkazish tajribasi' ko'rsatilgan, bu esa filtr-press yetkazib berishga aloqador emas. Bu odatiy shablon matniga o'xshaydi; talab aniq bo'lmagani sababli ishtirokchilar tushunmovchilikka duch kelishi mumkin.\n   Taklif etilayotgan tahrir: Ishtirokchi shunga o'xshash uskunalarni yetkazib berish tajribasiga ega bo'lishi kerak; audit tajribasi haqidagi band chiqarib tashlansin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (23.11.2026 19:36) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 8,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.625,
+  "top_winner_share": 0.125,
+  "share_price_drop_lt1pct": 0.125,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 0.0,
+ "money_on_table_basis": "not_estimated_non_uzs",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

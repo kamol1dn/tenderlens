@@ -1,0 +1,264 @@
+{
+ "lot_id": 524108,
+ "display_no": "26120012524108",
+ "title": "Islomiy darcha amaliyotini joriy etish bo‘yicha konsultatsiya xizmatlarini ko‘rsatish hamda konsalting kompaniyasini jalb qilish",
+ "url": "https://etender.uzex.uz/lot/524108",
+ "customer": {
+  "name": "MIKROKREDITBANK ATB",
+  "tin": "200547792"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 1000000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T19:31:09",
+ "end_date": "2026-11-18T19:31:09",
+ "clarific_date": "2026-11-18T19:31:09",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 60,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524108.pdf",
+  "pages": 7,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Islomiy darcha amaliyotini joriy etish bo'yicha konsalting xizmatlari",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "O'z mablag'lari hisobidan",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Konsultant Markaziy bankdan islomiy bank faoliyati uchun litsenziya olish hujjatlar to'plamini tayyorlaydi.",
+   "summary_en": "The consultant prepares the document package for obtaining an Islamic banking licence from the Central Bank.",
+   "quote": "Markaziy bankdan Islomiy bank faoliyatini yuritish uchun litsenziya olish uchun",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Jamoada xalqaro islomiy moliya bozorlarida ish tajribasi va bilimga ega mutaxassislar bo'lishi kerak.",
+   "summary_en": "The team must have experience and knowledge in international Islamic finance markets.",
+   "quote": "Xalqaro islomiy moliya bozorlarida ish tajribasi va bilimga ega bo'lishi",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "O'zbekistondagi o'xshash islomiy moliya loyihalaridagi ishtiroki uchun 15 ballgacha beriladi (5 tadan ortiq loyiha - 15 ball).",
+   "summary_en": "Up to 15 points for participation in similar Islamic finance projects in Uzbekistan (more than 5 projects gives the maximum).",
+   "quote": "O‘zbekistonda islomiy moliya bo‘yicha o‘xshash loyihalarda ishtiroki (shartnoma)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Islomiy moliya bo'yicha xalqaro sertifikatli mutaxassislar soniga qarab 15 ballgacha beriladi.",
+   "summary_en": "Up to 15 points depending on the number of specialists with an international Islamic finance certificate.",
+   "quote": "Ishtirokchi jamoasi tarkibida islomiy moliya bo‘yicha xalqaro sertifikatga ega mutaxassislarning mavjudligi.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Xorijiy islom banklari yoki Islamic Windowlarda ishlagan mutaxassislar uchun 10 ballgacha beriladi.",
+   "summary_en": "Up to 10 points for staff who worked in foreign Islamic banks or Islamic Windows.",
+   "quote": "Ishtirokchi shtatida xorijiy islom banklari, islomiy mikromoliya tashkilotlari yoki an’anaviy banklarning Islamic Windowlarida faoliyat yuritgan mutaxassislarning mavjudligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "O'zbekistonda markaziy ofis, filial yoki vakolatxonaning mavjudligi uchun 10 ball beriladi.",
+   "summary_en": "10 points for having a head office, branch or representative office in Uzbekistan.",
+   "quote": "Ishtirokchining O‘zbekiston hududida markaziy ofisi, filiali yoki vakolatxonasi mavjudligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Soliq idorasi tasdiqlagan oxirgi yillik moliyaviy hisobot (balans) uchun 10 ball beriladi.",
+   "summary_en": "10 points for the latest annual financial statement (balance sheet) confirmed by the tax office.",
+   "quote": "Soliq idorasi tomonidan tasdiqlangan so’nggi yillik moliyaviy xisobot (balans)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Xizmat banki ma'lumoti (oxirgi 6 oylik aylanma, qarzdorlik, hisobvaraq holati) uchun 10 ball beriladi.",
+   "summary_en": "10 points for a bank statement (6-month turnover, debt status, account restrictions).",
+   "quote": "Faoliyat yurituvchi bankdan ma’lumot: 1. Asosiy hisobvaraqlar harakatda ekanligi, tanlash e’lon qilingan sanadan oxirgi 6 oylik bank aylanmasi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarz bo'lmasligi kerak.",
+   "summary_en": "No overdue tax or fee debt.",
+   "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchiga nisbatan bankrotlik tartib-taomillari joriy etilmagan bo'lishi kerak.",
+   "summary_en": "No bankruptcy proceedings opened against the bidder.",
+   "quote": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_experience",
+   "severity": "medium",
+   "quote": "O‘zbekistonda islomiy moliya bo‘yicha o‘xshash loyihalarda ishtiroki (shartnoma)",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Maksimal 15 ball O'zbekistonning o'zida bajarilgan islomiy moliya loyihalariga bog'liq. Bu yo'nalish mamlakatda endigina joriy etilayotgani sababli, xorijda katta tajribaga ega bo'lgan layoqatli konsultantlar ham bu ballarni ola olmasligi mumkin. Mezonni tekshirib chiqish tavsiya etiladi.",
+   "explanation_en": "Up to 15 points depend on Islamic finance projects delivered inside Uzbekistan. Because this field is only now being introduced in the country, capable consultants with strong experience abroad may not be able to earn these points. Worth a check by the commission.",
+   "rewrite_uz": "O'zbekistonda yoki xorijda islomiy moliya bo'yicha o'xshash loyihalarda ishtiroki (shartnoma yoki buyurtmachining tasdiqlovchi xati).",
+   "rewrite_en": "Participation in similar Islamic finance projects in Uzbekistan or abroad (contract or confirmation letter from the client).",
+   "type_label_uz": "Lot hajmiga nomutanosib tajriba yoki resurs talabi",
+   "type_label_en": "Experience or resource demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "irrelevant_requirement",
+   "severity": "low",
+   "quote": "Ishtirokchi korxonasining direktor va ta’sischilari to‘g‘risida ma’lumot",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Direktor va ta'sischilar haqidagi ma'lumot uchun 10 ball beriladi, bu esa konsalting xizmatini bajarish qobiliyatini o'lchamaydi. Bu platformaning standart shablon matniga o'xshaydi (xavfsizlik mezoni ostida joylashgan).",
+   "explanation_en": "10 points are given for information about the director and founders, which does not measure ability to deliver consulting services. The wording looks like standard platform template text (placed under a safety criterion).",
+   "rewrite_uz": "Ishtirokchi rahbari va jamoasining tegishli sohadagi malakasi to'g'risida ma'lumot (rezyume).",
+   "rewrite_en": "Information on the qualifications of the bidder's management and team in the relevant field (CVs).",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 70,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 28,
+  "history_penalty": 1.6,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Lot hajmiga nomutanosib tajriba yoki resurs talabi (platformadagi mezonlar): Maksimal 15 ball O'zbekistonning o'zida bajarilgan islomiy moliya loyihalariga bog'liq. Bu yo'nalish mamlakatda endigina joriy etilayotgani sababli, xorijda katta tajribaga ega bo'lgan layoqatli konsultantlar ham bu ballarni ola olmasligi mumkin. Mezonni tekshirib chiqish tavsiya etiladi.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): Direktor va ta'sischilar haqidagi ma'lumot uchun 10 ball beriladi, bu esa konsalting xizmatini bajarish qobiliyatini o'lchamaydi. Bu platformaning standart shablon matniga o'xshaydi (xavfsizlik mezoni ostida joylashgan).",
+   "Buyurtmachining so'nggi 19 ta savdosida ishtirokchilar medianasi 4 ta; savdolarning 16% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 5%.",
+   "Tushuntirish so'rash muddati: 18.11.2026 19:31."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Experience or resource demand out of proportion to the lot (platform criteria form): Up to 15 points depend on Islamic finance projects delivered inside Uzbekistan. Because this field is only now being introduced in the country, capable consultants with strong experience abroad may not be able to earn these points. Worth a check by the commission.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): 10 points are given for information about the director and founders, which does not measure ability to deliver consulting services. The wording looks like standard platform template text (placed under a safety criterion).",
+   "In the customer's last 19 deals the median number of bidders was 4; 16% of deals had two or fewer bidders; the most frequent winner took 5%.",
+   "Clarification requests are accepted until 18.11.2026 19:31."
+  ]
+ },
+ "documents_needed_uz": [
+  "Faoliyat yurituvchi bankdan ma'lumot (6 oylik aylanma, Kartoteka-2, ta'qiq, muddati o'tgan qarz)",
+  "Soliq idorasi tasdiqlagan oxirgi yillik moliyaviy hisobot (balans)",
+  "Direktor va ta'sischilar to'g'risida ma'lumot",
+  "O'zbekistonda islomiy moliya bo'yicha o'xshash loyihalar shartnomalari",
+  "Islomiy moliya bo'yicha xalqaro sertifikatlar va mutaxassislar rezyumesi",
+  "O'zbekistonda ofis, filial yoki vakolatxona mavjudligini tasdiqlovchi hujjat",
+  "Xorijiy islom banklarida ishlagan mutaxassislarning CV va tajriba hujjatlari",
+  "Loyiha jamoasi tarkibi va har bir a'zoning rezyumesi",
+  "Davlat ro'yxatidan o'tganlik va ta'sis hujjatlari"
+ ],
+ "clarification_letter_uz": "Kimga: MIKROKREDITBANK ATB, xarid komissiyasiga\nLot raqami: 26120012524108\nXarid predmeti: Islomiy darcha amaliyotini joriy etish bo‘yicha konsultatsiya xizmatlarini ko‘rsatish hamda konsalting kompaniyasini jalb qilish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «O‘zbekistonda islomiy moliya bo‘yicha o‘xshash loyihalarda ishtiroki (shartnoma)»\n   Savolimiz: Maksimal 15 ball O'zbekistonning o'zida bajarilgan islomiy moliya loyihalariga bog'liq. Bu yo'nalish mamlakatda endigina joriy etilayotgani sababli, xorijda katta tajribaga ega bo'lgan layoqatli konsultantlar ham bu ballarni ola olmasligi mumkin. Mezonni tekshirib chiqish tavsiya etiladi.\n   Taklif etilayotgan tahrir: O'zbekistonda yoki xorijda islomiy moliya bo'yicha o'xshash loyihalarda ishtiroki (shartnoma yoki buyurtmachining tasdiqlovchi xati).\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Ishtirokchi korxonasining direktor va ta’sischilari to‘g‘risida ma’lumot»\n   Savolimiz: Direktor va ta'sischilar haqidagi ma'lumot uchun 10 ball beriladi, bu esa konsalting xizmatini bajarish qobiliyatini o'lchamaydi. Bu platformaning standart shablon matniga o'xshaydi (xavfsizlik mezoni ostida joylashgan).\n   Taklif etilayotgan tahrir: Ishtirokchi rahbari va jamoasining tegishli sohadagi malakasi to'g'risida ma'lumot (rezyume).\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 19:31) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 19,
+  "median_bidders": 4,
+  "share_le2_bidders": 0.1579,
+  "top_winner_share": 0.0526,
+  "share_price_drop_lt1pct": 0.1053,
+  "reannounced_lots": 2
+ },
+ "money_on_table_uzs": 135600000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

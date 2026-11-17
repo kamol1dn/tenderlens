@@ -1,0 +1,372 @@
+{
+ "lot_id": 523959,
+ "display_no": "26121006523959",
+ "title": "\"BYD UZBEKISTAN FACTORY\" MCHJ QK uchun payvandlash yordamchi liniyasini tashkil etish",
+ "url": "https://etender.uzex.uz/lot/523959",
+ "customer": {
+  "name": "\"BYD UZBEKISTAN FACTORY\" MCHJ QK",
+  "tin": "310161998"
+ },
+ "region": "Жиззах вилояти",
+ "start_cost": 44072974000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T16:33:58",
+ "end_date": "2026-12-02T16:33:58",
+ "clarific_date": "2026-12-02T16:33:58",
+ "type": "tender",
+ "old_id": 523928,
+ "evaluation": {
+  "tech_coef": 30.0,
+  "cost_coef": 70.0,
+  "min_point": 16,
+  "criteria": [
+   {
+    "label": "Харидлар комиссияси раиси номига электрон тендерда иштирок етиш учун ариза (1-шакл)/ Заявка для участия в электронном тендере на имя председателя Закупочной комиссии (форма №1)",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Иштирокчи ҳақида умумий маълумот/ Общая информация об участнике тендера",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Коррупциянинг олдини олиш тўғрисидаги баёнот/ Заявление по недопущению коррупционных проявлений",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Маҳсулот ишлаб чиқарувчисидан (ишлаб чиқарувчисидан) ишончнома ёки ишлаб чиқарувчидан авторизация хати (агар електрон tender иштирокчиси таклиф етилаётган маҳсулот ишлаб чиқарувчиси бўлмаса) / Доверенность от завода-изготовителя (производителя) товара или авторизационное письмо от производителя (в случае если участник электронного тендера не является производителем предлагаемого товара)",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Етказиб бериш шартлари, тўлов шартлари ҳақида маълумот/ Информация об условиях и сроках поставки, условиях оплаты",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Иштирокчи бошқа иштирокчилар ва/ёки мижоз билан манфаатлар тўқнашуви ва алоқадорлиги йўқ/ У участника отсутствует конфликт интересов и аффилированность с другими участниками и/или Заказчиком",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Харид қилиш тартиб-таомилларининг иштирокчиси (ижрочиси) на ишлаб чиқарувчи / Етказиб берувчи томонидан кафолатланганлиги тўғрисида кафолат хати тақдим етади. У жалб қиладиган суб-етказиб берувчилар ҳам, уларнинг филиаллари ҳам, шу жумладан бенефициарлари ҳам Ақш Молия вазирлиги томонидан нашр етилган махсус тайинланган фуқаролар ва блокланган шахслар рўйхатига (СДН) ёки бошқа мамлакатларнинг бошқа шунга ўхшаш рўйхатига киритилмаган/ Участник (исполнитель) закупочных процедур предоставляет гарантийное письмо о том, что ни Производитель/ Поставщик. Ни привлекаемые им субпоставщики, а также их аффилированные лица, в том числе бенефициары не включены в списки заблокированных лиц (Specially Designated Nationals And Blocked Persons List (SDN)), опубликованный Министерством финансов США или какой-либо иной анологичный список других государств",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Тендер иштирокчиларини локализация даражаси бўйича баҳолаш Буюртмачининг локализация бўлими томонидан тақдим этилган тегишли ҳужжатлар асосида берилган хулосага мувофиқ амалга оширилади. Баллар Буюртмачининг локализация бўлими хулосасига мувофиқ пропорционал тарзда берилади. Бунда товарларнинг локализация даражаси юқори бўлиши якуний баллнинг фоиз нисбатида пропорционал равишда ошишига олиб келади, аксинча — локализация даражаси паст бўлса, балл ҳам мутаносиб равишда камайтирилади./ Оценка участников тендера по уровню локализации согласно заключению отдела локализации Заказчика по предоставлению соответсвующих докментов. Баллы присваиваются пропорцианально согласно заключению отдела локализации Заказчика. При этом, более высокий уровень локализации товаров приводит к пропорциональному увеличению итогового балла в процентном соотношении, и наоборот — более низкий уровень локализации влечёт за собой соразмерное снижение балла.",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Тендер бўйича харид қилиш ҳужжатларининг техник қисми талабларига мослиги/ Соответствие требованиям Технического задания",
+    "max_score": 4.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ташкилотнинг Давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома тўғрисидаги ҳужжат/ Документ о свидетельстве Государственной регистрации организации",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Иштирокчининг молиявий ҳолати тўғрисида маълумот/ Информация о финансовом положении участника",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Керакли ёки шунга ўхшаш товарларни етказиб бериш тажрибаси ҳақида маълумот/Информация об опыте поставки требуемого или аналогичного товара",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Буни тасдиқловчи кафолат хати: - иштирокчи мижоз билан суд ёки ҳакамлик муҳокамаси ҳолатида емас; - иштирокчи илгари тузилган шартномалар бўйича нотўғри бажарилган мажбуриятларга эга эмас; - имтиёзли солиқ имтиёзларини тақдим этадиган ва/ёки молиявий операциялар (оффшор зоналар) пайтида маълумотларни ошкор қилиш ва тақдим етишни назарда тутмайдиган Штатларда ёки ҳудудларда рўйхатдан ўтмаган ва банк ҳисоб рақамига эга эмас. / Гарантийное письмо, свидетельствующее, о том, что: - участник не находится в состоянии судебного или арбитражного разбирательства с заказчиком; - у участника отсутствуют ненадлежаще исполненные обязательства по ранее заключенным договорам; - не зарегистрирована и не имеет банковский счёт в государствах или на территориях, предоставляющих льготный налоговый режим и/или не предусматривающих раскрытие и предоставление информации при проведении финансовых операций (офшорные зоны).",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Солиқлар ва йиғимларни тўлаш учун муддати ўтган қарзларнинг йўқлиги ҳақида маълумот/ Информация об отсутствии просроченной задолженности по уплате налогов и сборов",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Виждонсиз ижрочиларнинг ягона реестрида иштирокчи ҳақида ҳеч қандай ёзув йўқ/ Об участнике отсутствует запись в Едином реестре недобросовестных исполнителей",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523959.pdf",
+  "pages": 25,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23
+  ]
+ },
+ "subject_uz": "BYD Uzbekistan Factory uchun Jizzaxda payvandlash yordamchi liniyasini tashkil etish va avtomobil kuzov detallarini payvandlab yetkazish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "joint_venture",
+ "financing_source": "o'z mablag'lari",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Ishlab chiqarish binosi kamida 4000 kv.m bo'lishi va payvandlash uskunalari uchun 5,8 m x 264 m metall konstruksiyani sig'dirishi kerak.",
+   "summary_en": "A production building of at least 4000 sq.m that can hold a 5.8 m x 264 m steel structure for the welding equipment.",
+   "quote": "Ishlab chiqarish binosi - umumiy maydoni 4000 m2 dan kаm Ьо'lmаgап bino.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Kommunal tizimlar (elektr, havo, suv, kanalizatsiya, shamollatish) yetkazib beruvchi hisobidan quriladi.",
+   "summary_en": "Utility systems (power, air, water, sewage, ventilation) are built at the supplier's own cost.",
+   "quote": "tizimlarini tashНl qilish Yetkazib beruvchi tomonidan amalga oshirilishi zarulr.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Talab qilinadigan quvvat: soatiga 12 ta detal komplekti (net JPH 12).",
+   "summary_en": "Required capacity: 12 part sets per hour (net JPH 12).",
+   "quote": "Talab qilinadigan ishlab chiqarish quwati - net JPH 12 (ta detal komplekt soatiga).",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Buyurtmachi payvandlash uskunalari va moslamalarini beradi; yetkazib beruvchi ularni o'rnatadi, saqlaydi va xizmat ko'rsatadi.",
+   "summary_en": "The customer provides welding equipment and jigs; the supplier installs, maintains and services them.",
+   "quote": "Ishlab chiqarish jarayonida foydalaniladigan quyidagi texnologik uskunalar",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Sifat nazorati uchun 3D koordinatali o'lchov tizimi yetkazib beruvchi hisobidan sotib olinadi (teng yoki yuqori tizim qabul qilinadi).",
+   "summary_en": "A 3D coordinate measuring system must be bought by the supplier (an equal or better system is accepted).",
+   "quote": "Buning uchun Yetkazib beruvchi uch o'lchovli (3D) koordinatali o'lchov tizimini o'z hisobidan sotib olishi va ishlab chiqarish maydonchasida doimiy joylashtiгishi shагt.",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Sifat menejmenti tizimi joriy etilishi va buyurtmachining texnik auditidan o'tishi kerak.",
+   "summary_en": "A quality-management system must be introduced and pass the customer's technical audit.",
+   "quote": "Yetkazib beruvchi Buyurtmachi talablariga muvofiq sifat menejmenti tizimini lshlab chiqarishga joriy qilishi shаrt.",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "BYD uchun detal ishlab chiqarish tajribasi yoki BYD bilan ishlagan kompaniyadan texnik yordam kelishuvi talab qilinadi.",
+   "summary_en": "Experience producing parts for BYD, or an agreement for technical help from a company with BYD experience, is required.",
+   "quote": "ko'rsafish tajribasiga ega bo'lishi уоН BYD kompaniyasi bilan ish tajгibasiga ega kompaniyadan texnik ko'mak olish kelishuviga ega bo'lishi lozim.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Loyiha jadvali: bino T0+30 kun, uskunalar T0+45, sinov T0+50, ommaviy ishlab chiqarish (SOP) T0+60 kun.",
+   "summary_en": "Project schedule: building T0+30 days, equipment T0+45, trial production T0+50, start of mass production (SOP) T0+60 days.",
+   "quote": "Bino ча inshoatlami tayyorlash Т0 + 30 kun",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "delivery",
+   "summary_uz": "Kamida 3 kunlik tayyor mahsulot zaxirasi uzluksiz ta'minlanishi shart.",
+   "summary_en": "At least 3 days of finished-product stock must be maintained without interruption.",
+   "quote": "kamida 3 (uй) kunlik sifatli mahsulot zaxirasi Ьilап uzluksiz ta'minlashl shart.",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "payment",
+   "summary_uz": "To'lov bosqichma-bosqich, qabul dalolatnomalari imzolanganiga bog'liq; 5-10 foiz yakuniy to'lov ushlab qolinadi.",
+   "summary_en": "Payment is milestone-based, tied to signed acceptance acts, with 5-10% of the final payment withheld.",
+   "quote": "To'lovlar kalendar muddatlarga emas, balН qabul qilish dalolatnomalari (Deliverables) to'liq imzolanganiga bog'lanishi.",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Mahalliylashtirish darajasi buyurtmachining mahalliylashtirish bo'limi xulosasi bo'yicha 2 ball bilan baholanadi.",
+   "summary_en": "Localisation level is scored at 2 points on the conclusion of the customer's own localisation department.",
+   "quote": "Баллар Буюртмачининг локализация бўлими хулосасига мувофиқ пропорционал тарзда берилади.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r12",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi, uning sub-yetkazib beruvchilari va benefitsiarlari AQSh SDN ro'yxatida bo'lmasligi haqida kafolat xati.",
+   "summary_en": "Guarantee letter that the bidder, its sub-suppliers and beneficiaries are not on the US SDN list.",
+   "quote": "Ақш Молия вазирлиги томонидан нашр етилган махсус тайинланган фуқаролар ва блокланган шахслар рўйхатига (СДН)",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "unrealistic_deadline",
+   "severity": "medium",
+   "quote": "Bino ча inshoatlami tayyorlash Т0 + 30 kun",
+   "page": 10,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Shartnoma imzolanganidan 30 kun ichida kamida 4000 kv.m bino, 264 m uzunlikdagi metall konstruksiya va barcha kommunal tizimlar tayyor bo'lishi, 60-kunda esa ommaviy ishlab chiqarish boshlanishi kerak. Tayyor, mos binosi Jizzaxda allaqachon bor ishtirokchilargina bunga ulgura oladi; yangi qurish yoki ijaraga olish bu muddatga sig'maydi.",
+   "explanation_en": "Within 30 days of signing, a building of at least 4000 sq.m, a 264 m steel structure and all utilities must be ready, with mass production starting at day 60. Only bidders that already have a suitable building in Jizzakh could meet this; building or leasing and fitting out a new one would not fit the timeline.",
+   "rewrite_uz": "Bino va kommunal tizimlarni tayyorlash muddati loyiha murakkabligiga mos ravishda (masalan, T0 + 90 kun) belgilansin yoki ishtirokchi taklif qilgan jadval baholansin.",
+   "rewrite_en": "Set the building and utilities readiness date in line with the scope of work (for example T0 + 90 days), or evaluate the schedule proposed by the bidder.",
+   "type_label_uz": "Bajarish qiyin bo'lgan muddat",
+   "type_label_en": "Deadline that is hard to meet",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "medium",
+   "quote": "ko'rsafish tajribasiga ega bo'lishi уоН BYD kompaniyasi bilan ish tajгibasiga ega kompaniyadan texnik ko'mak olish kelishuviga ega bo'lishi lozim.",
+   "page": 2,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ishtirokchi BYD bilan ishlagan tajribaga ega bo'lishi yoki shunday kompaniya bilan texnik yordam kelishuvi tuzgan bo'lishi kerak. Boshqa avtomobil ishlab chiqaruvchilar uchun payvandlangan kuzov detallarini yetkazgan, lekin BYD bilan ishlamagan ta'minotchi kelishuv topa olmasa, chetda qolishi mumkin.",
+   "explanation_en": "The bidder must have worked for BYD or have a technical-assistance agreement with a company that has. A supplier that has produced welded body parts for other carmakers but not for BYD may be shut out if it cannot find such a partner.",
+   "rewrite_uz": "Ishtirokchi avtomobil kuzov detallarini payvandlash bo'yicha o'xshash ishlab chiqarish tajribasiga ega bo'lishi kerak (har qanday avtomobil ishlab chiqaruvchi uchun), tajriba shartnomalar bilan tasdiqlanadi.",
+   "rewrite_en": "The bidder must have comparable experience in welding automotive body parts (for any vehicle manufacturer), confirmed by contracts.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "other",
+   "severity": "medium",
+   "quote": "olish va sагf хаrаjаtlагпi nrinimallashtiгish maqsadida Jizzax slrаhгi hududida bo'lishi",
+   "page": 3,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Barcha bino va inshootlar Jizzax shahri hududida bo'lishi shart qilingan. Sabab (logistika va sifat) keltirilgan, ammo Jizzaxda mos bino va uskuna o'rnatish joyi bo'lmagan boshqa hududdagi ishtirokchilar avtomatik chetlashadi. Masofa o'rniga yetkazib berish muddati va logistika xarajatlarini baholash mumkin.",
+   "explanation_en": "All buildings must be located within Jizzakh city. A reason (logistics and quality) is given, but bidders elsewhere, or without suitable premises in Jizzakh, are excluded automatically. Delivery time and logistics cost could be evaluated instead of location.",
+   "rewrite_uz": "Ishlab chiqarish maydonchasi buyurtmachi zavodidan belgilangan masofada (masalan, 50 km radiusda) joylashgan bo'lishi yoki yetkazib berish muddati ta'minlanishi kerak.",
+   "rewrite_en": "The production site must be within a stated distance of the customer's plant (for example a 50 km radius), or guarantee the required delivery times.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 31,
+ "traffic_light": "red",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 66,
+  "history_penalty": 3.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Bajarish qiyin bo'lgan muddat (10-bet): Shartnoma imzolanganidan 30 kun ichida kamida 4000 kv.m bino, 264 m uzunlikdagi metall konstruksiya va barcha kommunal tizimlar tayyor bo'lishi, 60-kunda esa ommaviy ishlab chiqarish boshlanishi kerak. Tayyor, mos binosi Jizzaxda allaqachon bor ishtirokchilargina bunga ulgura oladi; yangi qurish yoki ijaraga olish bu muddatga sig'maydi.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (2-bet): Ishtirokchi BYD bilan ishlagan tajribaga ega bo'lishi yoki shunday kompaniya bilan texnik yordam kelishuvi tuzgan bo'lishi kerak. Boshqa avtomobil ishlab chiqaruvchilar uchun payvandlangan kuzov detallarini yetkazgan, lekin BYD bilan ishlamagan ta'minotchi kelishuv topa olmasa, chetda qolishi mumkin.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (3-bet): Barcha bino va inshootlar Jizzax shahri hududida bo'lishi shart qilingan. Sabab (logistika va sifat) keltirilgan, ammo Jizzaxda mos bino va uskuna o'rnatish joyi bo'lmagan boshqa hududdagi ishtirokchilar avtomatik chetlashadi. Masofa o'rniga yetkazib berish muddati va logistika xarajatlarini baholash mumkin.",
+   "Buyurtmachining so'nggi 65 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 46% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 8%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 523928).",
+   "Tushuntirish so'rash muddati: 02.12.2026 16:33.",
+   "Diqqat: hujjatning 10 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Deadline that is hard to meet (page 10): Within 30 days of signing, a building of at least 4000 sq.m, a 264 m steel structure and all utilities must be ready, with mass production starting at day 60. Only bidders that already have a suitable building in Jizzakh could meet this; building or leasing and fitting out a new one would not fit the timeline.",
+   "Other clause that may limit competition (page 2): The bidder must have worked for BYD or have a technical-assistance agreement with a company that has. A supplier that has produced welded body parts for other carmakers but not for BYD may be shut out if it cannot find such a partner.",
+   "Other clause that may limit competition (page 3): All buildings must be located within Jizzakh city. A reason (logistics and quality) is given, but bidders elsewhere, or without suitable premises in Jizzakh, are excluded automatically. Delivery time and logistics cost could be evaluated instead of location.",
+   "In the customer's last 65 deals the median number of bidders was 3; 46% of deals had two or fewer bidders; the most frequent winner took 8%.",
+   "This lot was re-announced (previous lot: 523928).",
+   "Clarification requests are accepted until 02.12.2026 16:33.",
+   "Note: 10 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Xarid komissiyasi raisi nomiga ishtirok etish uchun ariza (1-shakl)",
+  "Ishtirokchi haqida umumiy ma'lumot",
+  "Halollik majburiyati to'g'risida bayonot",
+  "Ishlab chiqaruvchidan ishonchnoma yoki avtorizatsiya xati (agar ishtirokchi ishlab chiqaruvchi bo'lmasa)",
+  "Yetkazib berish va to'lov shartlari haqida ma'lumot",
+  "AQSh SDN va shunga o'xshash ro'yxatlarda yo'qligi haqida kafolat xati",
+  "Mahalliylashtirish darajasini tasdiqlovchi hujjatlar",
+  "Texnik topshiriq talablariga muvofiqlik hujjatlari",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi",
+  "Moliyaviy holat to'g'risida ma'lumot",
+  "O'xshash tovarlarni yetkazib berish tajribasi haqida ma'lumot",
+  "Kafolat xati: buyurtmachi bilan sud nizosi, oldingi shartnomalar va offshor hududlar bo'yicha",
+  "Soliq va yig'imlar bo'yicha muddati o'tgan qarz yo'qligi haqida ma'lumot",
+  "Insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumot",
+  "Tijorat taklifi (rasmiy blankda, PDF, batafsil kalkulyatsiya bilan)",
+  "Харидлар комиссияси раиси номига электрон тендерда иштирок етиш учун ариза (1-шакл)/ Заявка для участия в электронном тендере на имя председателя Закупочной комиссии (форма №1)",
+  "Иштирокчи ҳақида умумий маълумот /Общая информация об участнике тендера",
+  "Halollik va manfaatlar to'qnashuvi yo'qligi to'g'risidagi kafolat xati (platformadagi shakl bo'yicha)",
+  "Маҳсулот ишлаб чиқарувчисидан (ишлаб чиқарувчисидан) ишончнома ёки ишлаб чиқарувчидан авторизация хати (агар електрон tender иштирокчиси таклиф етилаётган маҳсулот ишлаб чиқарувчиси бўлмаса) / Доверенность от завода-изготовителя (производителя) товара или авторизационное письмо от производителя (в случае если участник электронного тендера не является производителем предлагаемого товара)",
+  "Етказиб бериш шартлари, тўлов шартлари ҳақида маълумот/ Информация об условиях и сроках поставки, условиях оплаты",
+  "Иштирокчи бошқа иштирокчилар ва/ёки мижоз билан манфаатлар тўқнашуви ва алоқадорлиги йўқ/ У участника отсутствует конфликт интересов и аффилированность с другими участниками и/или Заказчиком",
+  "Тендер бўйича харид қилиш ҳужжатларининг техник қисми талабларига мослиги/ Соответствие требованиям Технического задания",
+  "Ташкилотнинг Давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома тўғрисидаги ҳужжат/ Документ о свидетельстве Государственной регистрации организации",
+  "Иштирокчининг молиявий ҳолати тўғрисида маълумот/ Информация о финансовом положении участника",
+  "Керакли ёки шунга ўхшаш товарларни етказиб бериш тажрибаси ҳақида маълумот/Информация об опыте поставки требуемого или аналогичного товара"
+ ],
+ "clarification_letter_uz": "Kimga: \"BYD UZBEKISTAN FACTORY\" MCHJ QK, xarid komissiyasiga\nLot raqami: 26121006523959\nXarid predmeti: \"BYD UZBEKISTAN FACTORY\" MCHJ QK uchun payvandlash yordamchi liniyasini tashkil etish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 10-bet.\n   Hujjatdagi matn: «Bino ча inshoatlami tayyorlash Т0 + 30 kun»\n   Savolimiz: Shartnoma imzolanganidan 30 kun ichida kamida 4000 kv.m bino, 264 m uzunlikdagi metall konstruksiya va barcha kommunal tizimlar tayyor bo'lishi, 60-kunda esa ommaviy ishlab chiqarish boshlanishi kerak. Tayyor, mos binosi Jizzaxda allaqachon bor ishtirokchilargina bunga ulgura oladi; yangi qurish yoki ijaraga olish bu muddatga sig'maydi.\n   Taklif etilayotgan tahrir: Bino va kommunal tizimlarni tayyorlash muddati loyiha murakkabligiga mos ravishda (masalan, T0 + 90 kun) belgilansin yoki ishtirokchi taklif qilgan jadval baholansin.\n\n2. Texnik topshiriq, 2-bet.\n   Hujjatdagi matn: «ko'rsafish tajribasiga ega bo'lishi уоН BYD kompaniyasi bilan ish tajгibasiga ega kompaniyadan texnik ko'mak olish kelishuviga ega bo'lishi lozim.»\n   Savolimiz: Ishtirokchi BYD bilan ishlagan tajribaga ega bo'lishi yoki shunday kompaniya bilan texnik yordam kelishuvi tuzgan bo'lishi kerak. Boshqa avtomobil ishlab chiqaruvchilar uchun payvandlangan kuzov detallarini yetkazgan, lekin BYD bilan ishlamagan ta'minotchi kelishuv topa olmasa, chetda qolishi mumkin.\n   Taklif etilayotgan tahrir: Ishtirokchi avtomobil kuzov detallarini payvandlash bo'yicha o'xshash ishlab chiqarish tajribasiga ega bo'lishi kerak (har qanday avtomobil ishlab chiqaruvchi uchun), tajriba shartnomalar bilan tasdiqlanadi.\n\n3. Texnik topshiriq, 3-bet.\n   Hujjatdagi matn: «olish va sагf хаrаjаtlагпi nrinimallashtiгish maqsadida Jizzax slrаhгi hududida bo'lishi»\n   Savolimiz: Barcha bino va inshootlar Jizzax shahri hududida bo'lishi shart qilingan. Sabab (logistika va sifat) keltirilgan, ammo Jizzaxda mos bino va uskuna o'rnatish joyi bo'lmagan boshqa hududdagi ishtirokchilar avtomatik chetlashadi. Masofa o'rniga yetkazib berish muddati va logistika xarajatlarini baholash mumkin.\n   Taklif etilayotgan tahrir: Ishlab chiqarish maydonchasi buyurtmachi zavodidan belgilangan masofada (masalan, 50 km radiusda) joylashgan bo'lishi yoki yetkazib berish muddati ta'minlanishi kerak.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (02.12.2026 16:33) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 65,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4615,
+  "top_winner_share": 0.0769,
+  "share_price_drop_lt1pct": 0.0615,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 6214289334.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 16.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

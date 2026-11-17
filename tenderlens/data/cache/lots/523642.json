@@ -1,0 +1,194 @@
+{
+ "lot_id": 523642,
+ "display_no": "26111006523642",
+ "title": "Respublika Ixtisoslashtirilgan Pediatriya ilmiy-amaliy tibbiyot markazi uchun Alglyukozidaza-alfa 50 mg (ta'sir birligi) dori vositasini xarid qilish",
+ "url": "https://etender.uzex.uz/lot/523642",
+ "customer": {
+  "name": "Болаларни куллаб-кувватлаш жамоат фонди",
+  "tin": "207344147"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 4560734178.0,
+ "currency": "UZS",
+ "start_date": "2026-11-06T09:36:40",
+ "end_date": "2026-11-24T09:36:40",
+ "clarific_date": "2026-11-24T09:36:40",
+ "type": "tender",
+ "old_id": 512454,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 50,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523642.pdf",
+  "pages": 5,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Pompe kasalligini davolash uchun alglyukozidaza-alfa 50 mg dori vositasi (726 flakon)",
+ "sector": "health",
+ "customer_sector": "health",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Dori vositasi infuziya eritmasi uchun liofilizat, 50 mg li 1 flakon o'lchov birligida bo'lishi kerak.",
+   "summary_en": "The medicine must be a lyophilisate for infusion solution concentrate, supplied as 50 mg vials.",
+   "quote": "1.6. O'Ichov birligi: 50 ms li 1 flakon",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Dori vositasi GMP talablari bo'yicha sertifikatlangan ishlab chiqarish maydonchasida ishlab chiqarilgan bo'lishi shart.",
+   "summary_en": "The medicine must be made at a manufacturing site certified to GMP requirements.",
+   "quote": "Dori vositasi GMP talablari bo'yicha seгtifi katlangan ishlab chiqarish maydonchasida",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Ikkilamchi qadoqda 'Sotish taqiqlanadi' yozuvi, davlat va rus tillarida tamg'alash hamda raqamli markirovka bo'lishi kerak.",
+   "summary_en": "Secondary packaging must carry a 'not for sale' notice, labelling in Uzbek and Russian, and digital marking.",
+   "quote": "Ikkilamchi qadoqda: \"Sotish taqiqlanadi\"",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "delivery",
+   "summary_uz": "2026 yil uchun ajratilgan mablag' asosida 732 dona flakon (50 mg) yetkazib beriladi; e'londa 726 dona ko'rsatilgan.",
+   "summary_en": "The specification states 732 vials (50 mg) for 2026, while the lot header lists 726 units.",
+   "quote": "2026 yil uсhuп ajratilgan mablag' asosida 732 dona flakon (50 mg) miqdori.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Yetkazib berish kunida qoldiq yaroqlilik muddati umumiy muddatdan belgilangan foizdan ko'proq qisqargan bo'lmasligi kerak (2 yilgacha 30%, 3 yilgacha 40%, undan ortiq 50%).",
+   "summary_en": "Remaining shelf life at delivery may not have shortened by more than 30% / 40% / 50% depending on total shelf life.",
+   "quote": "Yaroqlilik muddati yuqorida ko'rsatilgan",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ulgurji savdo qiluvchi ishtirokchi GDP muvofiqlik sertifikati va amaldagi litsenziyaga ega bo'lishi shart.",
+   "summary_en": "Wholesale participants must hold a GDP conformity certificate and a valid licence.",
+   "quote": "distribyutorlik amaliyoti (GDP) muvofi qlik",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "other",
+   "summary_uz": "Orfan preparatlar uchun ishlab chiqaruvchi mamlakat tartibga soluvchi organida ro'yxatdan o'tish talab qilinadi, O'zbekistonda ro'yxatdan o'tish majburiy emas.",
+   "summary_en": "Orphan medicines must be registered with the manufacturer country's regulator; Uzbek registration is not mandatory.",
+   "quote": "ushbu dori vositalari ishlab chiqaruvchi",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Har bir partiya bilan seriya bo'yicha tahlil sertifikati, sifat pasporti va sinov uchun qo'shimcha namunalar taqdim etiladi.",
+   "summary_en": "Each batch must come with a certificate of analysis, quality passport and extra samples for certification testing.",
+   "quote": "Dori vositasining hаr Ьir рагtiуаsiпi yetkazib",
+   "page": 4,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 100,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 512454)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "This lot was re-announced (previous lot: 512454)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik hujjati yoki ishlab chiqaruvchi mamlakat regulyatorida ro'yxatdan o'tganlik tasdig'i",
+  "GMP sertifikati",
+  "GDP muvofiqlik sertifikati va amaldagi litsenziya (ulgurji sotuvchilar uchun)",
+  "Texnik talablarga muvofiqlikni asoslovchi hujjatlar",
+  "Yaroqlilik va saqlash muddati bo'yicha hujjatlar",
+  "Sifat kafolati sertifikatlari",
+  "Yetkazib berish davriyligi va miqdori bo'yicha hujjatlar",
+  "Namunalar soni va nomi ko'rsatilgan rasmiy rozilik xati",
+  "Soliq qarzi yo'qligi va insofsiz ijrochilar reyestrida yo'qligi to'g'risidagi ma'lumotlar",
+  "Товарнинг зарур техник тавсифи",
+  "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+  "сертификатлар мавжудлилиги",
+  "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 4,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.75,
+  "top_winner_share": 0.25,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 622084141.88,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": true,
+  "window_days": 18.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

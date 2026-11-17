@@ -1,0 +1,248 @@
+{
+ "lot_id": 523912,
+ "display_no": "26120012523912",
+ "title": "Автоматик чиқариладиган ўчиргичлар ассортиментда (Техник топшириққа мувофиқ)/Автоматические выключатели выкатного исполнения в ассортименте (согласно ТЗ)",
+ "url": "https://etender.uzex.uz/lot/523912",
+ "customer": {
+  "name": "\"O`ZBEKISTON METALLURGIYA KOMBINATI\" AJ",
+  "tin": "200460222"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 930344800.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T09:28:29",
+ "end_date": "2026-12-01T09:28:29",
+ "clarific_date": "2026-12-01T09:28:29",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 2,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523912.pdf",
+  "pages": 46,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Chiqariladigan (vikatnoy) avtomatik o'chirgichlar VA-45 (45 dona, 3 xil turi) yetkazib berish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Korxona mablag'lari/собственные средства",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Birinchi pozitsiya: VA-45 3200/2500 3P 80 kA chiqariladigan avtomatik o'chirgich, 10 dona.",
+   "summary_en": "Item 1: VA-45 3200/2500 3P 80 kA draw-out circuit breaker, 10 units.",
+   "quote": "АВТОМАТИЧЕСКИЙ ВЫ КЛЮ ЧАТЕЛЬ ВЫ КАТНОЙ ВА-45 3200/2500 3P 80КА выкатной",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Ish sharoiti: atrof-muhit harorati -20 dan +50 darajagacha.",
+   "summary_en": "Operating conditions: ambient temperature from -20 to +50 degrees C.",
+   "quote": "Температура окружающей среды — от -20 до +50℃",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Tovar yangi bo'lishi va ishlab chiqarilgan yili joriy yildan oldin bo'lmasligi kerak.",
+   "summary_en": "Goods must be new, with a production year not earlier than the current year.",
+   "quote": "и годом выпуска не ранее текущего года.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Yetkazib berishda sifat sertifikati, muvofiqlik sertifikati va ekspluatatsiya qo'llanmasi topshiriladi.",
+   "summary_en": "Quality certificate, conformity certificate and operating manual must be supplied with the goods.",
+   "quote": "-сертификат соответствия; -руководство по эксплуатации",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Matnli ma'lumot va sertifikatlar rus tilida, qog'oz shaklida topshiriladi.",
+   "summary_en": "Text information and certificates must be submitted in Russian, on paper.",
+   "quote": "Текстовая информация и сертификаты должны быть предоставлены на русском языке в бумажном виде.",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati shartnoma imzolangan kundan 35 kun (lot sarlavhasida '35 oy' deb yozilgan).",
+   "summary_en": "Delivery within 35 days of signing the contract (the lot header says '35 months').",
+   "quote": "35 дней с даты подписания договора",
+   "page": 30,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "other",
+   "summary_uz": "Kafolat muddati kamida 12 oy, qabul qilish dalolatnomasi imzolangan kundan boshlab.",
+   "summary_en": "Warranty of at least 12 months from signing of the acceptance act.",
+   "quote": "Гарантийный срок эксплуатации не менее 12 месяцев со дня подписания «Акта-приемки».",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "payment",
+   "summary_uz": "To'lov yetkazib berish faktiga ko'ra, 10 ish kuni ichida; avans yo'q.",
+   "summary_en": "Payment on delivery within 10 working days; no advance payment.",
+   "quote": "Условия оплаты По факту поставки Срок оплаты (банковские дни) в течении 10 рабочих дней",
+   "page": 30,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "G'olib eng past narx usuli bilan aniqlanadi; texnik taklif va hujjatlar 'bor/yo'q' tarzida ball oladi.",
+   "summary_en": "Winner is chosen by lowest price; technical offer and documents are scored pass/fail style.",
+   "quote": "Метод оценки предложений – Метод наименьшей цены",
+   "page": 45,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "qualification",
+   "summary_uz": "Soliq organidan muddati o'tgan qarz yo'qligi haqida ma'lumotnoma taqdim etiladi.",
+   "summary_en": "Tax-office certificate of no overdue tax debt must be provided.",
+   "quote": "Предоставление справки от налоговой инспекции о том, что участник не имеет просроченной задолженности по уплате налогов и сборов",
+   "page": 38,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "qualification",
+   "summary_uz": "Qayta tashkil etish, tugatish, bankrotlik, sud nizosi va o'tgan shartnomalar bajarilishi haqida kafolat xati (2-shakl).",
+   "summary_en": "Guarantee letter on no reorganisation, liquidation, bankruptcy, litigation or past non-performance (form 2).",
+   "quote": "Гарантийное письмо, свидетельствующее, о том, что участник не находится в стадии реорганизации, ликвидации или банкротства",
+   "page": 38,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "brand_no_equivalent",
+   "severity": "medium",
+   "quote": "АВТОМАТИЧЕСКИЙ ВЫ КЛЮ ЧАТЕЛЬ ВЫ КАТНОЙ ВА-45 3200/2500 3P 80КА выкатной",
+   "page": 2,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Texnik topshiriqda barcha uch pozitsiya (45 dona, lot narxi 930 344 800 so'm) 'VA-45' modeli nomi bilan berilgan, 'yoki ekvivalent' degan so'z yo'q. Bundan tashqari aniq o'lchamlar (480x500x500 mm), UXL-3.1 iqlim varianti va 'retrofit' komplekti ko'rsatilgan, shuning uchun faqat shu seriya yetkazib beruvchilari ishtirok eta oladi. Agar mavjud shkaflarga moslik kerak bo'lsa, buni hujjatda sabab sifatida yozish mumkin.",
+   "explanation_en": "All three items in the technical specification (45 units, lot price 930,344,800 UZS) are given by the model name 'VA-45' with no 'or equivalent' wording. Exact dimensions (480x500x500 mm), the UHL-3.1 climate version and a retrofit kit are also fixed, so in practice only suppliers of that series can bid. If compatibility with existing cubicles is the reason, the document could say so.",
+   "rewrite_uz": "Avtomatik o'chirgich VA-45 yoki unga ekvivalent (nominal tok, uzish qobiliyati, qutblar soni, elektron ajratgich, GOST R 50030.2 va o'rnatish o'lchamlari 480x500x500 mm gacha moslik shartida).",
+   "rewrite_en": "VA-45 circuit breaker or equivalent (matching rated current, breaking capacity, pole count, electronic trip unit, GOST R 50030.2 and mounting dimensions of 480x500x500 mm).",
+   "type_label_uz": "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan",
+   "type_label_en": "Brand or model named with no equivalent allowed",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "low",
+   "quote": "Автоматический выключатель ВА-45 2000/630А 3P 50кА выкатной",
+   "page": 10,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ikkinchi pozitsiya (25 dona, 498 036 000 so'm, ya'ni lot narxining yarmidan ko'pi) nomi '2000/800' deb yozilgan, texnik jadvalda esa nominal tok 630 A. Birinchi pozitsiyada nom 80 kA, jadvalda uzish qobiliyati 50 kA. Ishtirokchi qaysi parametrni taklif qilishini bilmasligi mumkin, shuning uchun bitta aniqlashtiruvchi savol berish mumkin.",
+   "explanation_en": "Item 2 (25 units, 498,036,000 UZS, over half of the lot price) is named '2000/800' but the parameter table gives 630 A rated current. Item 1 is named 80 kA while its table says 50 kA breaking capacity. A bidder cannot be sure which value to offer, so one clarifying question is worth asking.",
+   "rewrite_uz": "Texnik topshiriq jadvalidagi nominal tok va uzish qobiliyati qiymatlari pozitsiya nomidagi qiymatlarga to'liq mos qilib tuzatilsin (masalan, 2000/800 A va 80 kA).",
+   "rewrite_en": "Align the rated current and breaking capacity in the parameter tables with those in each item name (for example 2000/800 A and 80 kA).",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 69,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 28,
+  "history_penalty": 3.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan (2-bet): Texnik topshiriqda barcha uch pozitsiya (45 dona, lot narxi 930 344 800 so'm) 'VA-45' modeli nomi bilan berilgan, 'yoki ekvivalent' degan so'z yo'q. Bundan tashqari aniq o'lchamlar (480x500x500 mm), UXL-3.1 iqlim varianti va 'retrofit' komplekti ko'rsatilgan, shuning uchun faqat shu seriya yetkazib beruvchilari ishtirok eta oladi. Agar mavjud shkaflarga moslik kerak bo'lsa, buni hujjatda sabab sifatida yozish mumkin.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (10-bet): Ikkinchi pozitsiya (25 dona, 498 036 000 so'm, ya'ni lot narxining yarmidan ko'pi) nomi '2000/800' deb yozilgan, texnik jadvalda esa nominal tok 630 A. Birinchi pozitsiyada nom 80 kA, jadvalda uzish qobiliyati 50 kA. Ishtirokchi qaysi parametrni taklif qilishini bilmasligi mumkin, shuning uchun bitta aniqlashtiruvchi savol berish mumkin.",
+   "Buyurtmachining so'nggi 139 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 36% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 10%.",
+   "Tushuntirish so'rash muddati: 01.12.2026 09:28."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Brand or model named with no equivalent allowed (page 2): All three items in the technical specification (45 units, lot price 930,344,800 UZS) are given by the model name 'VA-45' with no 'or equivalent' wording. Exact dimensions (480x500x500 mm), the UHL-3.1 climate version and a retrofit kit are also fixed, so in practice only suppliers of that series can bid. If compatibility with existing cubicles is the reason, the document could say so.",
+   "Other clause that may limit competition (page 10): Item 2 (25 units, 498,036,000 UZS, over half of the lot price) is named '2000/800' but the parameter table gives 630 A rated current. Item 1 is named 80 kA while its table says 50 kA breaking capacity. A bidder cannot be sure which value to offer, so one clarifying question is worth asking.",
+   "In the customer's last 139 deals the median number of bidders was 3; 36% of deals had two or fewer bidders; the most frequent winner took 10%.",
+   "Clarification requests are accepted until 01.12.2026 09:28."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirokchi va uning ta'sischilari haqida umumiy ma'lumot (1-shakl)",
+  "Kafolat xati: qayta tashkil etish, bankrotlik, sud nizosi, oldingi shartnomalar va offshor hududlar bo'yicha (2-shakl)",
+  "Halollik majburiyati to'g'risida ariza (3-shakl)",
+  "Taklifning texnik qismi va texnik parametrlar (4-shakl)",
+  "Yetkazib berish va to'lov shartlari haqida ma'lumot (5-shakl)",
+  "Soliq organidan muddati o'tgan qarz yo'qligi haqida ma'lumotnoma",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va rahbar pasporti nusxasi (ixtiyoriy)",
+  "Yetkazib berishda: muvofiqlik sertifikati, sifat sertifikati, mahsulot pasporti, kelib chiqish sertifikati (SТ-1)",
+  "Texnik taklif/Техническое предложение"
+ ],
+ "clarification_letter_uz": "Kimga: \"O`ZBEKISTON METALLURGIYA KOMBINATI\" AJ, xarid komissiyasiga\nLot raqami: 26120012523912\nXarid predmeti: Автоматик чиқариладиган ўчиргичлар ассортиментда (Техник топшириққа мувофиқ)/Автоматические выключатели выкатного исполнения в ассортименте (согласно ТЗ)\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 2-bet.\n   Hujjatdagi matn: «АВТОМАТИЧЕСКИЙ ВЫ КЛЮ ЧАТЕЛЬ ВЫ КАТНОЙ ВА-45 3200/2500 3P 80КА выкатной»\n   Savolimiz: Texnik topshiriqda barcha uch pozitsiya (45 dona, lot narxi 930 344 800 so'm) 'VA-45' modeli nomi bilan berilgan, 'yoki ekvivalent' degan so'z yo'q. Bundan tashqari aniq o'lchamlar (480x500x500 mm), UXL-3.1 iqlim varianti va 'retrofit' komplekti ko'rsatilgan, shuning uchun faqat shu seriya yetkazib beruvchilari ishtirok eta oladi. Agar mavjud shkaflarga moslik kerak bo'lsa, buni hujjatda sabab sifatida yozish mumkin.\n   Taklif etilayotgan tahrir: Avtomatik o'chirgich VA-45 yoki unga ekvivalent (nominal tok, uzish qobiliyati, qutblar soni, elektron ajratgich, GOST R 50030.2 va o'rnatish o'lchamlari 480x500x500 mm gacha moslik shartida).\n\n2. Texnik topshiriq, 10-bet.\n   Hujjatdagi matn: «Автоматический выключатель ВА-45 2000/630А 3P 50кА выкатной»\n   Savolimiz: Ikkinchi pozitsiya (25 dona, 498 036 000 so'm, ya'ni lot narxining yarmidan ko'pi) nomi '2000/800' deb yozilgan, texnik jadvalda esa nominal tok 630 A. Birinchi pozitsiyada nom 80 kA, jadvalda uzish qobiliyati 50 kA. Ishtirokchi qaysi parametrni taklif qilishini bilmasligi mumkin, shuning uchun bitta aniqlashtiruvchi savol berish mumkin.\n   Taklif etilayotgan tahrir: Texnik topshiriq jadvalidagi nominal tok va uzish qobiliyati qiymatlari pozitsiya nomidagi qiymatlarga to'liq mos qilib tuzatilsin (masalan, 2000/800 A va 80 kA).\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (01.12.2026 09:28) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 139,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3597,
+  "top_winner_share": 0.1007,
+  "share_price_drop_lt1pct": 0.1511,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 131178616.8,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 14.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

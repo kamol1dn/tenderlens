@@ -1,0 +1,217 @@
+{
+ "lot_id": 524170,
+ "display_no": "26110012524170",
+ "title": "Тил ва адабиёт таълими журнали 2026 йил 8-сони",
+ "url": "https://etender.uzex.uz/lot/524170",
+ "customer": {
+  "name": "Til va adabiyot ta`limi ilmiy-metodik jurnali",
+  "tin": "202557074"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 72800000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T15:10:57",
+ "end_date": "2026-11-23T15:10:57",
+ "clarific_date": "2026-11-23T15:10:57",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 30,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524170.pdf",
+  "pages": 4,
+  "text_source": "ocr",
+  "language": "uz-cyrl",
+  "unreadable_pages": [
+   4
+  ]
+ },
+ "subject_uz": "\"Til va adabiyot ta'limi\" jurnalining 2026-yil 8-sonini chop etish xizmati (5600 nusxa, 80 bet)",
+ "sector": "other",
+ "customer_sector": "education",
+ "customer_kind": "budget",
+ "financing_source": "не бюджет",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Tiraj 5600 nusxa, shundan 100 nusxasi melovka qog'ozda; bir nusxa narxi 13 000 so'm (jami 72,8 mln so'm).",
+   "summary_en": "Print run of 5,600 copies, 100 of them on coated paper; 13,000 UZS per copy (72.8 million UZS in total).",
+   "quote": "Тираж ҳажми: 5600 (беш минг олти юз) нусха шундан 100 донаси меловка қоғозда",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Muqova uchun zichligi 170-200 g/m2 bo'rlangan qog'oz ishlatiladi.",
+   "summary_en": "The cover must use coated paper of 170-200 g/m2 density.",
+   "quote": "Мукова учун ишлатиладиган қоғоз зичлиги 170-200 g/m2 бўрланган қоғоз",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Mahsulotning kimyoviy xavfsizligi UzTR.146-003:2015 ga mos bo'lishi shart.",
+   "summary_en": "The product's chemical safety must conform to UzTR.146-003:2015.",
+   "quote": "Маҳсулот кимёвий хавфсизлиги UzTR.146-003:2015 га мувофиқ",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Bosmaxona rang ajratish va dizayn ishlarini sifatli bajarishi kerak.",
+   "summary_en": "The printer must carry out the final design work and colour separation to a good standard.",
+   "quote": "Босмахона нашр этиладиган журнални охирги дизайнерлик ишларини ва журнал саҳифаларидаги рангларни алоҳида-алоҳида ажратиш амалиётларини сифатли бажариши зарур.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Bosishdan oldin bitta nusxa tahririyatga ko'rsatilib, ruxsat olingach chop etish boshlanadi.",
+   "summary_en": "Before the print run, one copy must be shown to the editorial office and approved before printing starts.",
+   "quote": "Тайёр журнални чоп этишдан аввал унинг бир нусхасини таҳририятга ҳавола этиб",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ijrochining o'z texnikasi va asbob-uskunalari bo'lishi kerak.",
+   "summary_en": "The contractor must have its own equipment and tooling.",
+   "quote": "ишларни сифатли бажариш учун ижрочининг ўз хусусий техника ва асбоб-ускуналари мавжуд бўлиши",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Ijrochi shtatida yetarli malaka va tajribaga ega mutaxassislar bo'lishi talab etiladi.",
+   "summary_en": "The contractor must have enough qualified and experienced specialists on staff.",
+   "quote": "ижрочи ташкилот штатида етарли малака ва тажрибага эга бўлган зарур мутахассисларга эга бўлиши талаб этилади",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "payment",
+   "summary_uz": "Shartnoma imzolanganidan keyin 5 ish kunida 30 foiz avans, qolgan 70 foiz ish bajarilgach to'lanadi.",
+   "summary_en": "30 percent advance within 5 working days of signing; the remaining 70 percent after the work is done.",
+   "quote": "Шартнома имзоланган санадан 5 иш куни ичида шартнома баҳосининг 30 фоизи миқдорида олдиндан тўлов амалга оширилади",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Natijalar topshirilgan kundan boshlab 12 oy kafolatlanadi.",
+   "summary_en": "The results are guaranteed for 12 months from handover.",
+   "quote": "натижалар буюртмачига топширилган санадан бошлаб 12 ой давомида кафолатланади",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Ballar jihozlar va texnologik vositalarning mavjudligi (20 ball) bo'yicha ham beriladi.",
+   "summary_en": "Up to 20 points are scored for the equipment and technological means available to the bidder.",
+   "quote": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 97,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 2.8,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 18 ta savdosida ishtirokchilar medianasi 5 ta; savdolarning 22% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 33%.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 18 deals the median number of bidders was 5; 22% of deals had two or fewer bidders; the most frequent winner took 33%.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi",
+  "Soliq va yig'imlar bo'yicha qarzdorlik yo'qligi haqida hujjat",
+  "Bankrotlik tartib-taomillari yo'qligi haqida ma'lumotnoma",
+  "Insofsiz ijrochilar reyestrida yo'qligi haqida hujjat",
+  "Majburiy ijro byurosi bo'yicha qarzi yo'qligi haqida ma'lumotnoma",
+  "Moliyaviy hisobotlar",
+  "Resurslar (texnika, mutaxassislar) mavjudligini tasdiqlovchi hujjatlar (PDF)",
+  "Shunga o'xshash ishlar tajribasi haqida ma'lumot",
+  "Kafolat xati (12 oylik sifat kafolati)",
+  "Texnik taklif (PDF)",
+  "Xarid jarayonida qoidabuzarliklarga yo'l qo'ymaslik haqidagi ariza",
+  "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ma'lumot",
+  "Taklif ta'minoti (bid security, 1 foiz)",
+  "пдф форматда"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 18,
+  "median_bidders": 5.0,
+  "share_le2_bidders": 0.2222,
+  "top_winner_share": 0.3333,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 5824000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

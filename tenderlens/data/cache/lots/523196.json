@@ -1,0 +1,245 @@
+{
+ "lot_id": 523196,
+ "display_no": "26120012523196",
+ "title": "Иссиқ овқат учун аутсорсинг хизмати (Прен) 4-чорак",
+ "url": "https://etender.uzex.uz/lot/523196",
+ "customer": {
+  "name": "NAMANGAN VILOYAT ICHKI ISHLAR BOSHQARMASI",
+  "tin": "200056486"
+ },
+ "region": "Наманган вилояти",
+ "start_cost": 23427000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T09:04:22",
+ "end_date": "2026-11-18T09:04:22",
+ "clarific_date": "2026-11-18T09:04:22",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 40,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларда суғурталашга қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523196.pdf",
+  "pages": 10,
+  "text_source": "ocr",
+  "language": "uz-cyrl",
+  "unreadable_pages": [
+   1
+  ]
+ },
+ "subject_uz": "Ichki ishlar boshqarmasi qaramog'idagi voyaga yetmaganlar uchun issiq ovqat yetkazib berish bo'yicha autsorsing xizmati (4-chorak)",
+ "sector": "food",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "не бюджет",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "evaluation",
+   "summary_uz": "Issiq ovqat yetkazish bo'yicha SES ruxsatnomasi talab qilinadi; 2026-yilda olingan bo'lsa 20 ball.",
+   "summary_en": "A sanitary (SES) permit for hot meal delivery is required; one obtained in 2026 earns 20 points.",
+   "quote": "Иссиқ овқат етказиб бериш бўйича СЕСдан рухсатнома.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Bank ma'lumotnomasi bilan tasdiqlangan aylanma mablag'lar mavjudligi ball beradi.",
+   "summary_en": "Working capital confirmed by a bank certificate is scored.",
+   "quote": "Аутсорсинг хизматлари бўйича айланма маблағларининг мавжудлиги",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Oshpaz, dietolog, haydovchi va xizmatchilar soni ball bilan baholanadi; 10 tadan ko'p bo'lsa 20 ball.",
+   "summary_en": "The number of cooks, dietitians, drivers and staff is scored; more than 10 earns 20 points.",
+   "quote": "10 тадан кўп ошпаз, диетолог, шофёр ва хизматчилар учун 20 балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Budjet tashkilotlari bilan avval bajarilgan shartnomalar soni ball beradi; 10 tadan ko'p bo'lsa 20 ball.",
+   "summary_en": "The number of earlier fully performed contracts with budget bodies is scored; more than 10 earns 20 points.",
+   "quote": "Бюджет ва бюджетдан маблағ олувчиларга шу каби хизатларни етказиб берганлиги тўғрисида аввал тузилган шартномалар",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Issiq ovqat yetkazish uchun transport vositalari ishtirokchi nomida yoki ijara asosida bo'lishi kerak (10 ball).",
+   "summary_en": "Vehicles for hot meal delivery, owned or leased, are scored (10 points).",
+   "quote": "Иссиқ овқат етказиш бўйича транспортларнинг мавжудлиги",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Taomnoma menyusi taqdim etilsa 10 ball beriladi.",
+   "summary_en": "Submitting a menu earns 10 points.",
+   "quote": "Махбуслар учун меъёрий таомнома менюси тақдим қилса 10 балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "payment",
+   "summary_uz": "30 foiz avans shartnoma imzolanib, g'aznachilikda ro'yxatdan o'tgach 10 kun ichida to'lanadi.",
+   "summary_en": "A 30% advance is paid within 10 days after the contract is signed and registered with the Treasury.",
+   "quote": "30% олдиндан т}лов томонлар томонидан",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi insofsiz ijrochilar yagona reestrida bo'lmasligi kerak.",
+   "summary_en": "The bidder must not be on the unified register of unfair suppliers.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "камида 3 (уч) ойлик шартнома суммасига тенг айланма маблагларининг",
+   "page": 7,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Baholash mezonida kamida 3 oylik shartnoma summasiga teng aylanma mablag' borligini bank ma'lumotnomasi bilan tasdiqlash so'ralgan (10 ball, undan ko'p bo'lsa 20 ball, aks holda 0 ball). Shartnoma bir chorakka tuzilgani uchun bu amalda shartnomaning to'liq summasini hisobvaraqda saqlashni anglatadi. Kichik ovqatlantirish korxonalari uchun bu og'ir shart bo'lib, ball yo'qotishga olib kelishi mumkin.",
+   "explanation_en": "A scored criterion asks for a bank statement showing working capital equal to at least 3 months of the contract sum (10 points, 20 for more, 0 otherwise). The contract itself covers one quarter, so in effect the bidder must hold the whole contract value in cash. That is heavy for small caterers and may cost them points.",
+   "rewrite_uz": "«Ishtirokchi kamida bir oylik shartnoma summasiga teng aylanma mablag'ga yoki shu miqdordagi bank kafolatiga (kredit liniyasiga) ega ekanini tasdiqlaydi» deb o'zgartirilsin.",
+   "rewrite_en": "Change to: \"The bidder confirms working capital equal to at least one month of the contract sum, or a bank guarantee (credit line) of the same amount.\"",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "excessive_experience",
+   "severity": "medium",
+   "quote": "10 тадан кўп ошпаз, диетолог, шофёр ва хизматчилар учун 20 балл",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Lot qiymati taxminan 23,4 mln so'm bo'lib, ovqatlanuvchilar soni cheklangan. Shunga qaramay xodimlar soni bo'yicha 10 tadan ko'p kishi uchun eng yuqori ball, 3-5 kishi uchun esa ancha past ball beriladi. Bu kichikroq, lekin ishni uddalay oladigan tashkilotlar ballini kamaytirishi mumkin.",
+   "explanation_en": "The lot is worth about 23.4 m UZS for a limited number of diners, yet the top score goes to bidders with more than 10 cooks, dietitians, drivers and staff, and much less to 3-5 people. This may cost points for smaller suppliers who could do the job.",
+   "rewrite_uz": "Ishni bajarish uchun zarur bo'lgan malakali oshpaz va dietolog mavjudligi (kamida 2 nafar) tasdiqlansa, to'liq ball beriladi.",
+   "rewrite_en": "Full points are given if the availability of the qualified cooks and a dietitian needed for the job (at least 2) is confirmed.",
+   "type_label_uz": "Lot hajmiga nomutanosib tajriba yoki resurs talabi",
+   "type_label_en": "Experience or resource demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 52,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 44,
+  "history_penalty": 4.3,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Lot hajmiga nomutanosib moliyaviy talab (7-bet): Baholash mezonida kamida 3 oylik shartnoma summasiga teng aylanma mablag' borligini bank ma'lumotnomasi bilan tasdiqlash so'ralgan (10 ball, undan ko'p bo'lsa 20 ball, aks holda 0 ball). Shartnoma bir chorakka tuzilgani uchun bu amalda shartnomaning to'liq summasini hisobvaraqda saqlashni anglatadi. Kichik ovqatlantirish korxonalari uchun bu og'ir shart bo'lib, ball yo'qotishga olib kelishi mumkin.",
+   "Lot hajmiga nomutanosib tajriba yoki resurs talabi (platformadagi mezonlar): Lot qiymati taxminan 23,4 mln so'm bo'lib, ovqatlanuvchilar soni cheklangan. Shunga qaramay xodimlar soni bo'yicha 10 tadan ko'p kishi uchun eng yuqori ball, 3-5 kishi uchun esa ancha past ball beriladi. Bu kichikroq, lekin ishni uddalay oladigan tashkilotlar ballini kamaytirishi mumkin.",
+   "Buyurtmachining so'nggi 29 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 31% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 45%.",
+   "Tushuntirish so'rash muddati: 18.11.2026 09:04.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Financial demand out of proportion to the lot (page 7): A scored criterion asks for a bank statement showing working capital equal to at least 3 months of the contract sum (10 points, 20 for more, 0 otherwise). The contract itself covers one quarter, so in effect the bidder must hold the whole contract value in cash. That is heavy for small caterers and may cost them points.",
+   "Experience or resource demand out of proportion to the lot (platform criteria form): The lot is worth about 23.4 m UZS for a limited number of diners, yet the top score goes to bidders with more than 10 cooks, dietitians, drivers and staff, and much less to 3-5 people. This may cost points for smaller suppliers who could do the job.",
+   "In the customer's last 29 deals the median number of bidders was 3; 31% of deals had two or fewer bidders; the most frequent winner took 45%.",
+   "Clarification requests are accepted until 18.11.2026 09:04.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Issiq ovqat yetkazish bo'yicha SES ruxsatnomasi",
+  "Aylanma mablag'lar mavjudligi haqida bank ma'lumotnomasi",
+  "my.mehnat.uz ma'lumotlari: oshpaz, dietolog va xizmatchilar ro'yxati",
+  "Budjet tashkilotlari bilan avval bajarilgan shartnomalar va hisob-fakturalar",
+  "Transport vositalari hujjatlari yoki ijara shartnomasi",
+  "Taomnoma menyusi",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+  "Soliq qarzi yo'qligi haqida ma'lumotnoma",
+  "хужжат"
+ ],
+ "clarification_letter_uz": "Kimga: NAMANGAN VILOYAT ICHKI ISHLAR BOSHQARMASI, xarid komissiyasiga\nLot raqami: 26120012523196\nXarid predmeti: Иссиқ овқат учун аутсорсинг хизмати (Прен) 4-чорак\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 7-bet.\n   Hujjatdagi matn: «камида 3 (уч) ойлик шартнома суммасига тенг айланма маблагларининг»\n   Savolimiz: Baholash mezonida kamida 3 oylik shartnoma summasiga teng aylanma mablag' borligini bank ma'lumotnomasi bilan tasdiqlash so'ralgan (10 ball, undan ko'p bo'lsa 20 ball, aks holda 0 ball). Shartnoma bir chorakka tuzilgani uchun bu amalda shartnomaning to'liq summasini hisobvaraqda saqlashni anglatadi. Kichik ovqatlantirish korxonalari uchun bu og'ir shart bo'lib, ball yo'qotishga olib kelishi mumkin.\n   Taklif etilayotgan tahrir: «Ishtirokchi kamida bir oylik shartnoma summasiga teng aylanma mablag'ga yoki shu miqdordagi bank kafolatiga (kredit liniyasiga) ega ekanini tasdiqlaydi» deb o'zgartirilsin.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «10 тадан кўп ошпаз, диетолог, шофёр ва хизматчилар учун 20 балл»\n   Savolimiz: Lot qiymati taxminan 23,4 mln so'm bo'lib, ovqatlanuvchilar soni cheklangan. Shunga qaramay xodimlar soni bo'yicha 10 tadan ko'p kishi uchun eng yuqori ball, 3-5 kishi uchun esa ancha past ball beriladi. Bu kichikroq, lekin ishni uddalay oladigan tashkilotlar ballini kamaytirishi mumkin.\n   Taklif etilayotgan tahrir: Ishni bajarish uchun zarur bo'lgan malakali oshpaz va dietolog mavjudligi (kamida 2 nafar) tasdiqlansa, to'liq ball beriladi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 09:04) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 29,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3103,
+  "top_winner_share": 0.4483,
+  "share_price_drop_lt1pct": 0.1034,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 3303207.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "lint_backend": "in-session"
+}

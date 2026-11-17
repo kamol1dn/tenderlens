@@ -1,0 +1,272 @@
+{
+ "lot_id": 522099,
+ "display_no": "26111006522099",
+ "title": "Respublika pulmonologiya va ftiziatriya xizmati uchun dori vositalar xarid qilish (PQ 12) 4 квартал",
+ "url": "https://etender.uzex.uz/lot/522099",
+ "customer": {
+  "name": "Республиканский специализированный научно-практический медицинский центр фтизиатрии и пульмонологии",
+  "tin": "200935928"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 16499945541.6,
+ "currency": "UZS",
+ "start_date": "2026-11-03T16:03:17",
+ "end_date": "2026-11-19T16:03:17",
+ "clarific_date": "2026-11-19T16:03:17",
+ "type": "tender",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 60.0,
+  "cost_coef": 40.0,
+  "min_point": 11,
+  "criteria": [
+   {
+    "label": "Техник топшириқга мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Етказиб бериш муддати",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлаб чиқарувчи завод авторизациясининг мавжудлиги (харид иштирокчиси таклиф этилаётган товар ишлаб чиқарувчиси бўлмаган тақдирда)",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/522099.pdf",
+  "pages": 11,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": [
+   1
+  ]
+ },
+ "subject_uz": "Diaskintest (tuberkulyoz allergen, rekombinant) in'ektsiya eritmasi, 3 ml (30 doza) flakon",
+ "sector": "health",
+ "customer_sector": "health",
+ "customer_kind": "unknown",
+ "financing_source": "O'zbekiston Respublikasi Davlat byudjeti mablag'lari",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Mahsulot: Diaskintest, ichki terisiga yuborish uchun eritma 0,2 mkg/1 doza, 3 ml (30 doza) flakon.",
+   "summary_en": "Product: Diaskintest, solution for intradermal injection 0.2 mcg/1 dose, 3 ml (30 doses) vial.",
+   "quote": "Диаскинтест (аллерген туберкулёзный рекомбинантный для диагностики туберкулёза).",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Ishlab chiqarish GMP bo'yicha sertifikatlangan maydonda amalga oshirilishi kerak.",
+   "summary_en": "Manufacture must take place at a GMP-certified site.",
+   "quote": "Ишлаб чиқариш GMP талаблари бўйича сертификатланган майдонда амалга оширилиши лозим.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Saqlash va tashish +2 dan +8 daraja Selsiygacha, sovuq zanjir, termoindikator yoki logger majburiy.",
+   "summary_en": "Storage and transport at +2 to +8 C under cold chain, with thermo-indicators or loggers mandatory.",
+   "quote": "Наличие термоиндикаторов или логгеров температуры обязательно.",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Birlamchi va ikkilamchi qadoqda «Sotish man etiladi» yozuvi, davlat va rus tillarida raqamli markirovka (Data Matrix).",
+   "summary_en": "Primary and secondary packs must carry the sales-prohibited text and Data Matrix digital marking in state and Russian languages.",
+   "quote": "На первичной и вторичной упаковке наносится надпись «Sotish man etiladi».",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Qolgan yaroqlilik muddati: 3 yildan ortiq umumiy muddatda yetkazish kunida 50 foizdan ko'p qisqargan dori qabul qilinmaydi (2 yilgacha - 30, 3 yilgacha - 40 foiz).",
+   "summary_en": "Remaining shelf life: product whose shelf life has shrunk by more than 30/40/50 percent at delivery (by total shelf life class) is not accepted.",
+   "quote": "если срок их годности на день поставки сократился более чем на 30 процентов",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ulgurji yetkazib beruvchida amaldagi faoliyat litsenziyasi va GDP bo'yicha milliy sertifikat bo'lishi kerak.",
+   "summary_en": "A wholesale supplier needs a valid activity licence and the national GDP certificate.",
+   "quote": "Наличие действующей лицензии на деятельность и национального сертификата надлежащей дистрибьюторской практики GDP",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Xorijiy dori vositasi O'zbekiston Sog'liqni saqlash vazirligi huzuridagi Farmatsevtika mahsulotlari xavfsizligi markazida ro'yxatdan o'tgan bo'lishi kerak.",
+   "summary_en": "A foreign medicine must be registered with the Pharmaceutical Product Safety Centre under the Ministry of Health.",
+   "quote": "ҳузуридаги «Фармацевтика маҳсулотлари хавфсизлиги маркази» давлат муассасасида рўйхатдан ўтказилган бўлиши керак",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Ishlab chiqaruvchi zavod avtorizatsiyasi (ishtirokchi ishlab chiqaruvchi bo'lmasa) 5-shakl bo'yicha; yo'q bo'lsa ishtirokchi chetlatiladi.",
+   "summary_en": "Manufacturer authorisation on form 5 is required if the bidder is not the producer; without it the bidder is excluded.",
+   "quote": "Харид иштирокчиси таклиф этилаётган товар ишлаб чиқарувчиси бўлмаган тақдирда 5-шаклга мувофиқ расмийлаштирилади",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "delivery",
+   "summary_uz": "Har bir seriya uchun ishlab chiqaruvchi yoki vakolatli organ bergan tahlil sertifikati, birlamchi sifat nazorati ma'lumotlari bilan.",
+   "summary_en": "Each batch needs a certificate of analysis from the manufacturer or regulator with primary quality-control data.",
+   "quote": "Поставщик обязан предоставить сертификат анализа на каждую поставляемую серию лекарственного средства",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib beruvchi har bir seriya uchun sertifikatlash uchun qo'shimcha miqdor va standart namunalarni taqdim etishi shart.",
+   "summary_en": "The supplier must provide extra quantity of each batch and standard samples for certification and quality testing.",
+   "quote": "поставщик обязан представить стандартные образцы действующего вещества, посторонних примесей и родственных веществ",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Texnik topshiriqqa muvofiqlik (4 va 4a shakl) uchun 10 ball; yetkazish muddati qisqartirilsa 2 ballgacha; avtorizatsiya 1 ball. Texnik qism 60, narx 40 foiz, o'tish bali 11.",
+   "summary_en": "Technical conformity (forms 4 and 4a) gives 10 points; shortened delivery up to 2; authorisation 1. Technical 60 percent, price 40, pass mark 11.",
+   "quote": "4-шакл ва 4а-шакл иловасига мувофиқ расмийлаштирилади.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r12",
+   "kind": "other",
+   "summary_uz": "Tasdiqlovchi hujjatlar qog'ozda tasdiqlangan nusxa yoki vakolatli organning rasmiy elektron resursiga havola ko'rinishida taqdim etiladi.",
+   "summary_en": "Supporting documents are provided as certified paper copies or as links to the issuing authority's official electronic resource.",
+   "quote": "Подтверждающие документы предоставляются в виде заверенных копий на бумажном носителе",
+   "page": 8,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "brand_no_equivalent",
+   "severity": "medium",
+   "quote": "Диаскинтест (аллерген туберкулёзный рекомбинантный для диагностики туберкулёза).",
+   "page": 5,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Xaridning predmeti savdo nomi (Diaskintest) bilan ko'rsatilgan, u xalqaro nopatent nomi sifatida berilgan va unga teng keluvchi (ekvivalent) mahsulot qabul qilinishi aytilmagan. Bu faqat bitta ishlab chiqaruvchi mahsulotini ko'rsatadi, boshlang'ich narx 16 499 945 541,6 so'm. Tibbiy sabab bo'lishi mumkin, shuning uchun mutaxassis tekshirishi kerak.",
+   "explanation_en": "The purchase is specified by trade name (Diaskintest), given in the place of an international non-proprietary name, and no equivalent product is said to be acceptable. This points to a single manufacturer's product; the start price is 16,499,945,541.6 UZS. A clinical reason may exist, so a specialist should check it.",
+   "rewrite_uz": "Rekombinant tuberkulyoz allergen (ESAT-6 va CFP-10 oqsillari), ichki terisiga yuborish uchun eritma 0,2 mkg/1 doza, BSJ vaksinasiga reaksiya bermaydigan, yoki unga teng ekvivalent dori vositasi.",
+   "rewrite_en": "Recombinant tuberculosis allergen (ESAT-6 and CFP-10 proteins), solution for intradermal use 0.2 mcg/1 dose, not reacting to BCG vaccination, or an equivalent medicine.",
+   "type_label_uz": "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan",
+   "type_label_en": "Brand or model named with no equivalent allowed",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "medium",
+   "quote": "поставщик обязан представить стандартные образцы действующего вещества, посторонних примесей и родственных веществ",
+   "page": 8,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Har bir seriya uchun yetkazib beruvchidan faol modda, begona aralashmalar va turdosh moddalarning standart namunalari talab qilinmoqda. Rekombinant biologik preparat uchun bunday namunalarni faqat ishlab chiqaruvchi bera oladi, shuning uchun vositachi yetkazib beruvchilar qatnasha olmasligi mumkin.",
+   "explanation_en": "The supplier must provide standard samples of the active substance, impurities and related substances for every batch. For a recombinant biological product only the manufacturer can usually supply these, so intermediary suppliers may be unable to bid.",
+   "rewrite_uz": "Yetkazib beruvchi har bir seriya uchun ishlab chiqaruvchining tahlil sertifikatini va seriyaning qo'shimcha namunasini taqdim etadi; standart namunalar ishlab chiqaruvchi yoki vakolatli laboratoriya orqali olinishi mumkin.",
+   "rewrite_en": "The supplier provides the manufacturer's certificate of analysis and a retention sample of each batch; standard samples may be obtained through the manufacturer or an authorised laboratory.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 56,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 44,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan (5-bet): Xaridning predmeti savdo nomi (Diaskintest) bilan ko'rsatilgan, u xalqaro nopatent nomi sifatida berilgan va unga teng keluvchi (ekvivalent) mahsulot qabul qilinishi aytilmagan. Bu faqat bitta ishlab chiqaruvchi mahsulotini ko'rsatadi, boshlang'ich narx 16 499 945 541,6 so'm. Tibbiy sabab bo'lishi mumkin, shuning uchun mutaxassis tekshirishi kerak.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (8-bet): Har bir seriya uchun yetkazib beruvchidan faol modda, begona aralashmalar va turdosh moddalarning standart namunalari talab qilinmoqda. Rekombinant biologik preparat uchun bunday namunalarni faqat ishlab chiqaruvchi bera oladi, shuning uchun vositachi yetkazib beruvchilar qatnasha olmasligi mumkin.",
+   "Tushuntirish so'rash muddati: 19.11.2026 16:03.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Brand or model named with no equivalent allowed (page 5): The purchase is specified by trade name (Diaskintest), given in the place of an international non-proprietary name, and no equivalent product is said to be acceptable. This points to a single manufacturer's product; the start price is 16,499,945,541.6 UZS. A clinical reason may exist, so a specialist should check it.",
+   "Other clause that may limit competition (page 8): The supplier must provide standard samples of the active substance, impurities and related substances for every batch. For a recombinant biological product only the manufacturer can usually supply these, so intermediary suppliers may be unable to bid.",
+   "Clarification requests are accepted until 19.11.2026 16:03.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "4-shakl va 4a-shakl (texnik topshiriqqa muvofiqlik)",
+  "Xarid hujjati 1-ilovasi 1-jadvaldagi 15-19 bandlar bo'yicha hujjatlar",
+  "5-shakl bo'yicha ishlab chiqaruvchi zavod avtorizatsiyasi (ishlab chiqaruvchi bo'lmasa)",
+  "Yetkazib berish muddatini tasdiqlovchi kafolat xati",
+  "Resurslar mavjudligi to'g'risidagi hujjatlar yoki kafolat xati",
+  "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasi",
+  "Soliq qarzdorligi yo'qligi haqida rasmiy hujjat",
+  "1-shakl (bankrotlik, offshor, sud ishlari bo'yicha)",
+  "Insofsiz ijrochilar reyestridan va Majburiy ijro byurosi bazasidan ma'lumot",
+  "2-shakl (manfaatlar to'qnashuvi va affillanganlik)",
+  "3-shakl bo'yicha halollik majburiyati arizasi",
+  "Dori vositasini ro'yxatdan o'tkazish guvohnomasi (Farmatsevtika mahsulotlari xavfsizligi markazi)",
+  "GMP sertifikati",
+  "Ulgurji yetkazib beruvchi uchun faoliyat litsenziyasi va GDP milliy sertifikati",
+  "Namunalar miqdori va standart namunalar nomi hamda miqdori ko'rsatilgan rasmiy xat",
+  "4 va 4a shakl",
+  "5 шакл"
+ ],
+ "clarification_letter_uz": "Kimga: Республиканский специализированный научно-практический медицинский центр фтизиатрии и пульмонологии, xarid komissiyasiga\nLot raqami: 26111006522099\nXarid predmeti: Respublika pulmonologiya va ftiziatriya xizmati uchun dori vositalar xarid qilish (PQ 12) 4 квартал\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 5-bet.\n   Hujjatdagi matn: «Диаскинтест (аллерген туберкулёзный рекомбинантный для диагностики туберкулёза).»\n   Savolimiz: Xaridning predmeti savdo nomi (Diaskintest) bilan ko'rsatilgan, u xalqaro nopatent nomi sifatida berilgan va unga teng keluvchi (ekvivalent) mahsulot qabul qilinishi aytilmagan. Bu faqat bitta ishlab chiqaruvchi mahsulotini ko'rsatadi, boshlang'ich narx 16 499 945 541,6 so'm. Tibbiy sabab bo'lishi mumkin, shuning uchun mutaxassis tekshirishi kerak.\n   Taklif etilayotgan tahrir: Rekombinant tuberkulyoz allergen (ESAT-6 va CFP-10 oqsillari), ichki terisiga yuborish uchun eritma 0,2 mkg/1 doza, BSJ vaksinasiga reaksiya bermaydigan, yoki unga teng ekvivalent dori vositasi.\n\n2. Texnik topshiriq, 8-bet.\n   Hujjatdagi matn: «поставщик обязан представить стандартные образцы действующего вещества, посторонних примесей и родственных веществ»\n   Savolimiz: Har bir seriya uchun yetkazib beruvchidan faol modda, begona aralashmalar va turdosh moddalarning standart namunalari talab qilinmoqda. Rekombinant biologik preparat uchun bunday namunalarni faqat ishlab chiqaruvchi bera oladi, shuning uchun vositachi yetkazib beruvchilar qatnasha olmasligi mumkin.\n   Taklif etilayotgan tahrir: Yetkazib beruvchi har bir seriya uchun ishlab chiqaruvchining tahlil sertifikatini va seriyaning qo'shimcha namunasini taqdim etadi; standart namunalar ishlab chiqaruvchi yoki vakolatli laboratoriya orqali olinishi mumkin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (19.11.2026 16:03) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 0,
+  "median_bidders": 0,
+  "share_le2_bidders": 0.0,
+  "top_winner_share": 0.0,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 2250592571.87,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": false,
+  "window_days": 16.0
+ },
+ "analyzed_at": "2026-11-18T00:20:02+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

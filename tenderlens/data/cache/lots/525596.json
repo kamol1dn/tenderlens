@@ -1,0 +1,259 @@
+{
+ "lot_id": 525596,
+ "display_no": "26120012525596",
+ "title": "GB-1201 МР kompressorining quruq gaz zichlagichlarini ta'mirlash va tiklash xizmati/ Ремонт и восстановление сухих газовых уплотнений компрессора GB-1201 МР/ Repair and reconditioning of dry gas seals",
+ "url": "https://etender.uzex.uz/lot/525596",
+ "customer": {
+  "name": "\"SHURTAN GAZ KIMYO MAJMUASI\" MCHJ",
+  "tin": "203195074"
+ },
+ "region": "Қашқадарё вилояти",
+ "start_cost": 1591062500.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T15:31:27",
+ "end_date": "2026-11-25T15:31:27",
+ "clarific_date": "2026-11-25T15:31:27",
+ "type": "selection",
+ "old_id": 520522,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 1,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525596.rar",
+  "pages": 23,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": []
+ },
+ "subject_uz": "GB-1201 MR kompressorining quruq gaz zichlagichlarini (2 ta) ta'mirlash va tiklash xizmati (1 591 062 500 so'm)",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Texnik taklif texnik topshiriqning barcha talablariga muvofiq bo'lishi kerak.",
+   "summary_en": "The technical offer must comply with all requirements of the technical assignment.",
+   "quote": "Texnik taklif texnik topshiriqning barcha talablariga muvofiq bo'lishi lozim",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Ta'mirlash doirasi: qismlarga ajratish, tozalash va tekshirish, juftlashuvchi halqalarni silliqlash, o'lchash va aylanish sinovi, yangi halqa va prokladkalar, qayta yig'ish.",
+   "summary_en": "Repair scope: disassembly, cleaning and inspection, polishing, measuring and spin test of mating rings, new seal rings and gaskets, reassembly.",
+   "quote": "Juftlashuvchi halqa, 4-pozitsiya, silliqlash, o'lchash va aylanish sinovi",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Ijrochi API standartiga muvofiq statik va dinamik tekshiruv o'tkazib, sinov natijalarini berishi kerak.",
+   "summary_en": "The contractor must perform static and dynamic tests per the API standard and supply the results.",
+   "quote": "It must state that it will conduct static and dynamic inspections in accordance with the API",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Ijrochi oxirgi 2 yilda shu turdagi quruq gaz zichlagichlarini ta'mirlaganligi to'g'risida ma'lumot (buyurtmachi va davlat ko'rsatilgan holda) taqdim etishi kerak.",
+   "summary_en": "The contractor must show repair of this type of dry gas seal in the last 2 years (customer and country named).",
+   "quote": "oxirgi 2 yil davomida shu turdagi quruq",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Ijrochi kompressor ishlab chiqaruvchisi MITSUBISHI HEAVY INDUSTRIES tavsiya etgan yoki Shurtan GKM uskunalarida ilgari shunday ta'mirlashni bajargan kompaniya bo'lishi kerak.",
+   "summary_en": "The contractor must be recommended by compressor maker Mitsubishi Heavy Industries or have previously repaired such seals on Shurtan GCC equipment.",
+   "quote": "должна быть рекомендована компанией MITSUBISHI HEAVY INDUSTRIES (Япония) или ООО",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Yetkazib beruvchi ishlab chiqaruvchi yoki uning rasmiy dileri bo'lishi va dilerlik sertifikati nusxasini taqdim etishi kerak.",
+   "summary_en": "The supplier must be the manufacturer or its official dealer and attach a dealer certificate copy.",
+   "quote": "(обязательно предостzlвить копию дилерского сертификата);",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "delivery",
+   "summary_uz": "Ijrochi zichlagichlarni Shurtan GKM obyektidan o'z hisobidan chet elga olib chiqib, ta'mirdan keyin qaytarib olib kiradi; barcha tashish, sug'urta va bojxona xarajatlari narxga kiritiladi.",
+   "summary_en": "The contractor exports the seals for repair abroad and re-imports them at its own cost; transport, insurance and customs are included in the price.",
+   "quote": "Подрядчик по ремонту обязан вывезти уплотнения сухого газа (DGS) с объекта Заказчика",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Tashishdan oldin zichlagichlar sug'urtalanishi va sug'urta polisi nusxasi buyurtmachiga berilishi kerak.",
+   "summary_en": "Seals must be insured before transport and a copy of the policy given to the customer.",
+   "quote": "Перед транспортировкой СГУ подлежат страхованию в установленном порядке.",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "delivery",
+   "summary_uz": "Ta'mirdan keyin zichlagichlar Shurtan posyolkasida buyurtmachi manziliga DDP shartlarida yetkaziladi.",
+   "summary_en": "After repair the seals are delivered DDP to the customer in Shurtan.",
+   "quote": "Базис поставки для резидентов/ Delivery basis for residents: DDP Узбекистан, индекс 180300, Кашкадарьинская область, Гузарский район, поселок Шуртан",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Kafolat muddati yetkazib berilgan kundan kamida 12 oy.",
+   "summary_en": "Warranty of at least 12 months from delivery.",
+   "quote": "Поставщик устанавливает на товар гарантийный срок не менее 12 месяцев с момента передачи товара.",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "qualification",
+   "summary_uz": "Moliyaviy hisobotlar (auditor yoki soliq organi tasdiqlagan buxgalteriya balansi) taqdim etilishi kerak.",
+   "summary_en": "Financial statements (accounting balance sheet confirmed by an auditor or the tax authority) are required.",
+   "quote": "Молиявий ҳисоботлар* (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда): 1. Бухгалтерия баланси",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r12",
+   "kind": "other",
+   "summary_uz": "1, 2, 3-shakllar va talab qilingan hujjatlar to'liq topshirilmasa, ishtirokchi diskvalifikatsiya qilinadi.",
+   "summary_en": "Bidders who do not submit Forms 1, 2, 3 and the required documents in full are disqualified.",
+   "quote": "Участники, не предоставившие документы, указанные в разделах «Квалификационные требования» и «Технические требования», включая формы 1, 2, 3 и приложении к ним, в полном объеме",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "должна быть рекомендована компанией MITSUBISHI HEAVY INDUSTRIES (Япония) или ООО",
+   "page": 3,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ta'mirlovchi kompaniya kompressor ishlab chiqaruvchisi MITSUBISHI HEAVY INDUSTRIES tavsiyasiga ega bo'lishi yoki Shurtan GKM uskunalarida ilgari xuddi shunday ishni bajargan bo'lishi kerak. Bu 1 591 062 500 so'mlik lotda dunyoning boshqa malakali ta'mirlash ustaxonalarini ishtirokdan chetlatishi mumkin; buyurtmachi kompressor kafolati sababli buni asoslashi mumkin, shuning uchun tekshirish tavsiya etiladi.",
+   "explanation_en": "The repairer must be recommended by compressor maker Mitsubishi Heavy Industries or have previously done the same work on Shurtan GCC equipment. On a lot of 1,591,062,500 UZS this may exclude other qualified repair shops; the customer may justify it by the compressor warranty, so a person should check it.",
+   "rewrite_uz": "Ijrochi API standartiga muvofiq quruq gaz zichlagichlarini ta'mirlash bo'yicha oxirgi 2 yilda kamida bitta shunday ishni bajarganini hujjatlar bilan tasdiqlashi kerak.",
+   "rewrite_en": "The contractor must document at least one comparable dry gas seal repair in the last 2 years carried out to the API standard.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "dealer_letter",
+   "severity": "medium",
+   "quote": "(обязательно предостzlвить копию дилерского сертификата);",
+   "page": 10,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Texnik topshiriq yetkazib beruvchi ishlab chiqaruvchi yoki uning rasmiy dileri bo'lishi va dilerlik sertifikati nusxasini berishini talab qiladi; bundan tashqari ishlab chiqaruvchi tasdiqlagan maxsus blankadagi rasmiy hujjat so'raladi. Bu ta'mirlash xizmati uchun mustaqil ta'mirlash korxonalarini chetlashtirishi mumkin va u yuqoridagi tavsiya talabi bilan bir-birini to'ldiradi.",
+   "explanation_en": "The assignment requires the supplier to be the manufacturer or its official dealer and to provide a dealer certificate copy, and also asks for an official document on a special form approved by the manufacturer. For a repair service this may shut out independent repair companies, on top of the recommendation requirement above.",
+   "rewrite_uz": "Dilerlik sertifikati o'rniga ishtirokchining shu turdagi ta'mirlash ishlariga malakasini tasdiqlovchi har qanday hujjatni (sinov hisoboti, avvalgi shartnoma, sifat tizimi sertifikati) qabul qiling.",
+   "rewrite_en": "Instead of a dealer certificate, accept any document showing the bidder's competence for this type of repair (test report, prior contract, quality-system certificate).",
+   "type_label_uz": "Ishlab chiqaruvchi yoki diler xati talabi",
+   "type_label_en": "Manufacturer or dealer letter required",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 54,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 44,
+  "history_penalty": 2.5,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (3-bet): Ta'mirlovchi kompaniya kompressor ishlab chiqaruvchisi MITSUBISHI HEAVY INDUSTRIES tavsiyasiga ega bo'lishi yoki Shurtan GKM uskunalarida ilgari xuddi shunday ishni bajargan bo'lishi kerak. Bu 1 591 062 500 so'mlik lotda dunyoning boshqa malakali ta'mirlash ustaxonalarini ishtirokdan chetlatishi mumkin; buyurtmachi kompressor kafolati sababli buni asoslashi mumkin, shuning uchun tekshirish tavsiya etiladi.",
+   "Ishlab chiqaruvchi yoki diler xati talabi (10-bet): Texnik topshiriq yetkazib beruvchi ishlab chiqaruvchi yoki uning rasmiy dileri bo'lishi va dilerlik sertifikati nusxasini berishini talab qiladi; bundan tashqari ishlab chiqaruvchi tasdiqlagan maxsus blankadagi rasmiy hujjat so'raladi. Bu ta'mirlash xizmati uchun mustaqil ta'mirlash korxonalarini chetlashtirishi mumkin va u yuqoridagi tavsiya talabi bilan bir-birini to'ldiradi.",
+   "Buyurtmachining so'nggi 178 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 37% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 4%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 520522).",
+   "Tushuntirish so'rash muddati: 25.11.2026 15:31."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Other clause that may limit competition (page 3): The repairer must be recommended by compressor maker Mitsubishi Heavy Industries or have previously done the same work on Shurtan GCC equipment. On a lot of 1,591,062,500 UZS this may exclude other qualified repair shops; the customer may justify it by the compressor warranty, so a person should check it.",
+   "Manufacturer or dealer letter required (page 10): The assignment requires the supplier to be the manufacturer or its official dealer and to provide a dealer certificate copy, and also asks for an official document on a special form approved by the manufacturer. For a repair service this may shut out independent repair companies, on top of the recommendation requirement above.",
+   "In the customer's last 178 deals the median number of bidders was 3; 37% of deals had two or fewer bidders; the most frequent winner took 4%.",
+   "This lot was re-announced (previous lot: 520522).",
+   "Clarification requests are accepted until 25.11.2026 15:31."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+  "1-shakl: halollik majburiyati to'g'risidagi ariza",
+  "2-shakl: kontragent so'rovnomasi",
+  "4-shakl: texnik taklif, 1- va 2-ilovalari bilan (solishtirma jadval)",
+  "Moliyaviy hisobotlar (buxgalteriya balansi) auditor yoki soliq organi tasdig'i bilan",
+  "Ishlab chiqaruvchi tasdiqlagan maxsus blankada kafolat majburiyatlari to'g'risidagi rasmiy hujjat",
+  "Dilerlik sertifikati nusxasi",
+  "Oxirgi 2 yilda shunday zichlagichlarni ta'mirlash tajribasi to'g'risida ma'lumot (buyurtmachi va davlat)",
+  "Ta'mirlash o'tkaziladigan joy va mamlakat ko'rsatilgan ma'lumot",
+  "Statik va dinamik sinov hamda tekshiruv hisobotlari uchun majburiyat",
+  "Tashish uchun sug'urta polisi nusxasi",
+  "Sifat sertifikati (asl nusxa yoki muhrli nusxa)",
+  "Kafolat xati (kamida 12 oy)",
+  "3-sonli shakl hamda 1 va 2-ilovasiga muvofiq shakllantiriladi / Оформляется согласно Форме №3 и приложений №1 и №2 / According to form No. 3 and attachments 1 and 2"
+ ],
+ "clarification_letter_uz": "Kimga: \"SHURTAN GAZ KIMYO MAJMUASI\" MCHJ, xarid komissiyasiga\nLot raqami: 26120012525596\nXarid predmeti: GB-1201 МР kompressorining quruq gaz zichlagichlarini ta'mirlash va tiklash xizmati/ Ремонт и восстановление сухих газовых уплотнений компрессора GB-1201 МР/ Repair and reconditioning of dry gas seals\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 3-bet.\n   Hujjatdagi matn: «должна быть рекомендована компанией MITSUBISHI HEAVY INDUSTRIES (Япония) или ООО»\n   Savolimiz: Ta'mirlovchi kompaniya kompressor ishlab chiqaruvchisi MITSUBISHI HEAVY INDUSTRIES tavsiyasiga ega bo'lishi yoki Shurtan GKM uskunalarida ilgari xuddi shunday ishni bajargan bo'lishi kerak. Bu 1 591 062 500 so'mlik lotda dunyoning boshqa malakali ta'mirlash ustaxonalarini ishtirokdan chetlatishi mumkin; buyurtmachi kompressor kafolati sababli buni asoslashi mumkin, shuning uchun tekshirish tavsiya etiladi.\n   Taklif etilayotgan tahrir: Ijrochi API standartiga muvofiq quruq gaz zichlagichlarini ta'mirlash bo'yicha oxirgi 2 yilda kamida bitta shunday ishni bajarganini hujjatlar bilan tasdiqlashi kerak.\n\n2. Texnik topshiriq, 10-bet.\n   Hujjatdagi matn: «(обязательно предостzlвить копию дилерского сертификата);»\n   Savolimiz: Texnik topshiriq yetkazib beruvchi ishlab chiqaruvchi yoki uning rasmiy dileri bo'lishi va dilerlik sertifikati nusxasini berishini talab qiladi; bundan tashqari ishlab chiqaruvchi tasdiqlagan maxsus blankadagi rasmiy hujjat so'raladi. Bu ta'mirlash xizmati uchun mustaqil ta'mirlash korxonalarini chetlashtirishi mumkin va u yuqoridagi tavsiya talabi bilan bir-birini to'ldiradi.\n   Taklif etilayotgan tahrir: Dilerlik sertifikati o'rniga ishtirokchining shu turdagi ta'mirlash ishlariga malakasini tasdiqlovchi har qanday hujjatni (sinov hisoboti, avvalgi shartnoma, sifat tizimi sertifikati) qabul qiling.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (25.11.2026 15:31) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 178,
+  "median_bidders": 3.0,
+  "share_le2_bidders": 0.3652,
+  "top_winner_share": 0.0449,
+  "share_price_drop_lt1pct": 0.0899,
+  "reannounced_lots": 6
+ },
+ "money_on_table_uzs": 224339812.5,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 9.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,239 @@
+{
+ "lot_id": 525196,
+ "display_no": "26120012525196",
+ "title": "“Biznesni Rivojlantirish Banki” ATB Qarshi BXO binosining joriy ta’mirlash",
+ "url": "https://etender.uzex.uz/lot/525196",
+ "customer": {
+  "name": "BIZNESNI RIVOJLANTIRISH BANKI AKSIYADORLIK TIJORAT BANKI",
+  "tin": "206916313"
+ },
+ "region": "Қашқадарё вилояти",
+ "start_cost": 75754546.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T09:14:38",
+ "end_date": "2026-11-20T09:14:38",
+ "clarific_date": "2026-11-20T09:14:38",
+ "type": "selection",
+ "old_id": 523692,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 16,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 60.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525196.rar",
+  "pages": 45,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   20,
+   27,
+   29,
+   30,
+   31,
+   33,
+   35,
+   37,
+   39,
+   41,
+   43
+  ]
+ },
+ "subject_uz": "Bank xizmatlari ofisi binosini joriy ta'mirlash (Qarshi)",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Loyiha-smeta hujjatlarida ko'rsatilgan ishlar to'liq va sifatli bajarilishi kerak.",
+   "summary_en": "Works listed in the design and estimate documents must be completed fully and to quality.",
+   "quote": "Loyiha-smeta hujjatlarida (ilova qilinadi) ko‘rsatilgan ishlarni to‘liq va sifatli bajarish talab etiladi",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "Ishlar shartnoma rasmiylashtirilganidan keyin 25 kalendar kun ichida bajariladi.",
+   "summary_en": "Works must be completed within 25 calendar days of contract signing.",
+   "quote": "Shartnoma rasmiylashtirilganidan so‘ng 25 kalendar kuni.",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Pudratchining qurilish tashkilotlari reytingi kamida DD bo'lishi talab etiladi.",
+   "summary_en": "The contractor must hold a construction organisation rating of at least DD.",
+   "quote": "DD va undan yuqori bo‘lishi talab etiladi.",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Texnik ballning deyarli hammasi (60/61) qurilish reytingi toifasiga bog'liq: A uchun 60, D uchun 15 ball.",
+   "summary_en": "Almost all technical points (60 of 61) depend on the construction rating category: 60 for A, 15 for D.",
+   "quote": "“A” toifasi bo‘yicha reyting bahosi (A/AA/AAA) uchun - 60 ball",
+   "page": 17,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "payment",
+   "summary_uz": "Avans yo'q; 15 foiz ushlab qolinib, 85 foiz 10 bank ish kunida to'lanadi, 12 oylik kafolat uchun 5 foiz saqlanadi.",
+   "summary_en": "No advance; 15 percent is withheld and 85 percent paid within 10 banking days, with 5 percent held for the 12-month warranty.",
+   "quote": "jami 15% to‘lov ushlab qolinib, 10 (o‘n) bank ish kuni ichida shartnoma summasining 85% miqdorida to‘lov amalga oshiriladi.",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "So'nggi hisobot yili buxgalteriya hisoboti soliq organi tomonidan qabul qilingan QR-kodli ma'lumotnoma bilan taqdim etiladi.",
+   "summary_en": "Financial statements for the last reporting year with a tax-authority QR-coded confirmation must be provided.",
+   "quote": "So‘ngi hisobot yili uchun buxgalteriya hisoboti, Soliq organi tomonidan qabul qilingan QR-kodli ma’lumotnoma",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Barcha mulk egalari va benefitsiarlar ko'rsatilgan egalik tuzilmasi hamda ta'sis hujjatlari taqdim etiladi.",
+   "summary_en": "An ownership structure naming all owners and beneficiaries plus founding documents must be provided.",
+   "quote": "Kontragent egaligi tuzilmasi, bunga benefitsiar (ta’sischi) mulkiy egalarni ham hisobga olgan holda barcha mulk egalari kiritiladi",
+   "page": 14,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Resurslar mavjudligi haqida 4-shakl bo'yicha kafolat xati taqdim etiladi.",
+   "summary_en": "A guarantee letter on available resources (form 4) must be provided.",
+   "quote": "Ishtirokchi tomonidan shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy, kadrlar resurslarining hamda boshqa resurslarning mavjudligi to‘g‘risida kafolat xati (4-shakl) taqdim etiladi.",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Taklif ta'minoti 3 foiz zakalat ko'rinishida kiritiladi.",
+   "summary_en": "Bid security of 3 percent is placed as a deposit.",
+   "quote": "platformasiga e’londa belgilangan 3% miqdorda zakalat ko‘rinishida",
+   "page": 11,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Konsorsium shartnomasi asosida qatnashish taqiqlanadi.",
+   "summary_en": "Participation under a consortium agreement is not allowed.",
+   "quote": "“Konsorsium” shartnomasi asosida tanlashda ishtirok etish taqiqlanadi",
+   "page": 11,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "“A” toifasi bo‘yicha reyting bahosi (A/AA/AAA) uchun - 60 ball",
+   "page": 17,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Texnik qismning 61 balldan 60 tasi faqat qurilish reytingi toifasiga bog'liq, shu bois taklifning mazmuni baholanmaydi. Reytingi pastroq, lekin ishni bajara oladigan kichik pudratchilar bu mezonda 15 balldan oshmaydi, bu esa 75,7 mln so'mlik joriy ta'mir uchun mutanosib emasligi mumkin.",
+   "explanation_en": "60 of the 61 technical points depend solely on the construction rating category, so the content of the offer is hardly scored. Smaller contractors with a lower rating who could do the job are capped at 15 points, which may be disproportionate for a routine repair of about 75.7 million UZS.",
+   "rewrite_uz": "Qurilish tashkilotlari reytingi (DD va undan yuqori) ishtirokchiga qo'yiladigan malaka talabi sifatida saqlansin, texnik ball esa ish usuli, muddat va kafolat kabi taklif mazmuniga ham taqsimlansin.",
+   "rewrite_en": "Keep the construction rating (DD or above) as a qualification requirement, and spread the technical points over the content of the offer such as method, schedule and warranty.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 74,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 3.6,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (17-bet): Texnik qismning 61 balldan 60 tasi faqat qurilish reytingi toifasiga bog'liq, shu bois taklifning mazmuni baholanmaydi. Reytingi pastroq, lekin ishni bajara oladigan kichik pudratchilar bu mezonda 15 balldan oshmaydi, bu esa 75,7 mln so'mlik joriy ta'mir uchun mutanosib emasligi mumkin.",
+   "Buyurtmachining so'nggi 149 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 43% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 5%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 523692).",
+   "Tushuntirish so'rash muddati: 20.11.2026 09:14.",
+   "Diqqat: hujjatning 11 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Other clause that may limit competition (page 17): 60 of the 61 technical points depend solely on the construction rating category, so the content of the offer is hardly scored. Smaller contractors with a lower rating who could do the job are capped at 15 points, which may be disproportionate for a routine repair of about 75.7 million UZS.",
+   "In the customer's last 149 deals the median number of bidders was 3; 43% of deals had two or fewer bidders; the most frequent winner took 5%.",
+   "This lot was re-announced (previous lot: 523692).",
+   "Clarification requests are accepted until 20.11.2026 09:14.",
+   "Note: 11 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik to'g'risidagi hujjat",
+  "Egalik tuzilmasi ma'lumotnomasi (2-shakl) va ta'sis hujjatlari nusxasi",
+  "Kafolat xati (1-shakl)",
+  "Halollik majburiyati to'g'risida ariza (3-shakl)",
+  "Buxgalteriya hisoboti va QR-kodli ma'lumotnoma yoki auditorlik xulosasi",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+  "To'lovga qobiliyatsizlik tartib-taomillari yo'qligi haqida ma'lumotnoma",
+  "Insofsiz ijrochilar reyestridan skrinshot",
+  "Majburiy ijro byurosi bazasidan nusxa",
+  "Resurslar mavjudligi haqida kafolat xati (4-shakl)",
+  "Texnik topshiriqqa muvofiqlik haqida kafolat xati (5-shakl)",
+  "Qurilish tashkilotlari reytingi bo'yicha reyting.mc.uz ma'lumoti"
+ ],
+ "clarification_letter_uz": "Kimga: BIZNESNI RIVOJLANTIRISH BANKI AKSIYADORLIK TIJORAT BANKI, xarid komissiyasiga\nLot raqami: 26120012525196\nXarid predmeti: “Biznesni Rivojlantirish Banki” ATB Qarshi BXO binosining joriy ta’mirlash\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 17-bet.\n   Hujjatdagi matn: «“A” toifasi bo‘yicha reyting bahosi (A/AA/AAA) uchun - 60 ball»\n   Savolimiz: Texnik qismning 61 balldan 60 tasi faqat qurilish reytingi toifasiga bog'liq, shu bois taklifning mazmuni baholanmaydi. Reytingi pastroq, lekin ishni bajara oladigan kichik pudratchilar bu mezonda 15 balldan oshmaydi, bu esa 75,7 mln so'mlik joriy ta'mir uchun mutanosib emasligi mumkin.\n   Taklif etilayotgan tahrir: Qurilish tashkilotlari reytingi (DD va undan yuqori) ishtirokchiga qo'yiladigan malaka talabi sifatida saqlansin, texnik ball esa ish usuli, muddat va kafolat kabi taklif mazmuniga ham taqsimlansin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (20.11.2026 09:14) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 149,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4295,
+  "top_winner_share": 0.047,
+  "share_price_drop_lt1pct": 0.2416,
+  "reannounced_lots": 6
+ },
+ "money_on_table_uzs": 10681390.99,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

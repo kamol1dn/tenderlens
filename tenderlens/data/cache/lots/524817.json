@@ -1,0 +1,225 @@
+{
+ "lot_id": 524817,
+ "display_no": "26120012524817",
+ "title": "Реконструкция пассажирского терминала аэропорта Термез и аэропорта Сариасия Сурхандарьинской области, с целью создания комфортной и безбарьерной среды для лиц с ограниченными возможностями",
+ "url": "https://etender.uzex.uz/lot/524817",
+ "customer": {
+  "name": "TERMIZ XALQARO AEROPORT MCHJ",
+  "tin": "200473514"
+ },
+ "region": "Сурхандарё вилояти",
+ "start_cost": 1976391489.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T17:05:35",
+ "end_date": "2026-11-20T17:05:35",
+ "clarific_date": "2026-11-20T17:05:35",
+ "type": "selection",
+ "old_id": 524687,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 13,
+  "criteria": [
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524817.pdf",
+  "pages": 21,
+  "text_source": "text",
+  "language": "ru",
+  "unreadable_pages": [
+   2,
+   4
+  ]
+ },
+ "subject_uz": "Termiz va Sariosiyo aeroportlari yo'lovchi terminallarini nogironligi bo'lgan shaxslar uchun qulay muhit yaratish maqsadida ta'mirlash",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Не бюджет",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Ishlar loyiha-smeta hujjatlariga muvofiq bajariladi: taktil indikatorlar va plitkalar, piktogrammalar, Brayl yozuvli belgilar, yordam chaqiruv tugmalari, induksion sirtmoq va boshqa jihozlar o'rnatiladi.",
+   "summary_en": "Works follow the design and estimate documents: tactile indicators and tiles, pictograms, Braille signs, call buttons, induction loops and other accessibility fittings.",
+   "quote": "Nogironligi bo‘lgan shaxslar (NBSh) uchun aeroportlarda qulay va to‘siqsiz muhit yaratish.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "other",
+   "summary_uz": "Qurilish turi joriy ta'mirlash; loyiha bo'yicha ijobiy yig'ma ekspert xulosasi mavjud (amal qilish muddati 2 yil).",
+   "summary_en": "Type of works is current repair; a positive consolidated expert opinion exists (valid 2 years).",
+   "quote": "Qurilish turi: Joriy ta’mirlash",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "payment",
+   "summary_uz": "Boshlang'ich narx 1 976 391 489 so'm; 30 foiz avans; to'lov 10 kun ichida; moliyalashtirish buyurtmachining o'z mablag'lari hisobidan.",
+   "summary_en": "Start price 1,976,391,489 UZS; 30 percent advance; payment within 10 days; funded from the customer's own funds.",
+   "quote": "Moliyalashtirish manbai: Buyurtmachining o'z mablag'lari hisobidan",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Baholash narx bo'yicha 100 foiz; 5 ta mezon (har biri 5 ball, jami 25), o'tish bali 13. Ma'lumot taqdim etilmasa ishtirokchi diskvalifikatsiya qilinadi.",
+   "summary_en": "Evaluation is 100 percent on price; five criteria of 5 points each (25 total) with a pass mark of 13. Missing information leads to disqualification.",
+   "quote": "Информация о наличии ресурсов",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi haqida umumiy ma'lumot (1-shakl) va davlat ro'yxatidan o'tganlik guvohnomasi nusxasi majburiy.",
+   "summary_en": "General information on the participant (form 1) and a copy of the state registration certificate are mandatory.",
+   "quote": "Ishtirokchi belgilangan 1-sonli shaklga (1-ilova) asosan ma’lumot taqdim etishi hamda unga tanlov ishtirokchisining muhri bilan tasdiqlangan Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnoma nusxasini ilova qilishi lozim.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Oxirgi 3 yillik moliyaviy holat (2-shakl), balans va moliyaviy natijalar hisoboti majburiy.",
+   "summary_en": "Financial position for the last 3 years (form 2) with balance sheet and results report is mandatory.",
+   "quote": "Ishtirokchining so‘nggi 3 yildagi moliyaviy holati to‘g‘risidagi ma’lumotlarni 2-sonli shaklga (1-ilova) muvofiq taqdim etishi lozim.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Resurslar (xodimlar ro'yxati mehnat.uz tasdig'i bilan, texnika ro'yxati va hujjatlari) hamda bankdan oxirgi 6 oylik hisobvaraq aylanmalari ma'lumotnomasi majburiy.",
+   "summary_en": "Resources (staff list confirmed via mehnat.uz, equipment list with documents) and a bank certificate of account turnover for the last 6 months are mandatory.",
+   "quote": "hamda xizmat ko‘rsatuvchi bankdan so‘nggi 6 oy davomidagi joriy hisobvaraq bo‘yicha kirim va chiqim aylanmalari aks ettirilgan ma’lumotnoma.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Oxirgi 3 yilda bajarilgan o'xshash ishlar ro'yxati (5-shakl) buyurtmachi, ish nomi va shartnoma qiymati bilan, tasdiqlovchi hujjatlar ilova qilinadi; miqdoriy yoki qiymat chegarasi belgilanmagan.",
+   "summary_en": "List of similar works in the last 3 years (form 5) with customer, work name and contract value, with supporting documents; no minimum number or value is set.",
+   "quote": "So‘nggi uch yil mobaynida shu turdagi bajarilgan ishlar to‘g‘risida ma’lumot 5-sonli shaklga (1-ilova) muvofiq buyurtmachi, ish (yoki loyiha) nomi va shartnoma qiymatini ko‘rsatgan holda, ushbu ishlar ro‘yxatini taqdim eting.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Loyiha-smeta hujjatlari bilan tanishganlik va ularni bajarishga tayyorlik haqida 6-shakldagi kafolat xati majburiy.",
+   "summary_en": "A form 6 guarantee letter confirming review of and readiness to follow the design and estimate documents is mandatory.",
+   "quote": "Ishtirokchi loyiha-smeta hujjatlari shartlari bilan tanishib chiqqanligini, ularga rozi ekanligini hamda g‘olib deb topilgan taqdirda ushbu shartlarni bajarishga tayyor ekanligini tasdiqlovchi kafolat xati, 6-sonli shakl (1-ilova).",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "delivery",
+   "summary_uz": "Lot ma'lumotida ishlarni bajarish muddati 60 oy deb ko'rsatilgan; hujjatlarda aniq tugash sanasi yo'q (qayta e'lon qilingan lot, avvalgisi 524687).",
+   "summary_en": "The lot header gives a 60-month performance period; no firm completion date appears in the documents (re-announced lot, previous lot 524687).",
+   "quote": "Yakuniy xarajat buyurtmachi va pudratchi tomonidan qurilish tugagandan so‘ng nazorat o‘ lchovi natijalari asosida aniqlanadi.",
+   "page": 3,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 97,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 3.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 5 ta savdosida ishtirokchilar medianasi 4 ta; savdolarning 20% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 40%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524687).",
+   "Diqqat: hujjatning 2 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 5 deals the median number of bidders was 4; 20% of deals had two or fewer bidders; the most frequent winner took 40%.",
+   "This lot was re-announced (previous lot: 524687).",
+   "Note: 2 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirokchi haqida umumiy ma'lumot (1-shakl)",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi nusxasi",
+  "Oxirgi 3 yillik moliyaviy holat ma'lumoti (2-shakl), balans va moliyaviy natijalar hisoboti",
+  "Resurslar to'g'risida ma'lumot: xodimlar ro'yxati (mehnat.uz tasdig'i bilan), texnika ro'yxati va hujjatlari",
+  "Bankdan oxirgi 6 oylik hisobvaraq kirim va chiqim aylanmalari ma'lumotnomasi",
+  "Oxirgi 3 yilda bajarilgan o'xshash ishlar ro'yxati (5-shakl) va tasdiqlovchi shartnoma, hisob-faktura, dalolatnomalar",
+  "Loyiha-smeta hujjatlari bilan tanishganlik haqida kafolat xati (6-shakl)",
+  "Halollik majburiyati to'g'risida ariza (4-shakl)",
+  "Soliq qarzdorligi, bankrotlik va insofsiz ijrochilar reyestri bo'yicha ma'lumotlar",
+  "Участник прикрепляет информацию по установленной форме №1 (приложение №1) с прикреплением копию документа о свидетельстве Государственной регистрации, заверенная печатью участника отбора. Ishtirokchi belgilangan 1-sonli shaklga (1-ilova) asosan ma’lumot taqdim etishi hamda unga tanlov ishtirokchisining muhri bilan tasdiqlangan Davlat ro‘yxatidan o‘tganligi to‘g‘risidagi guvohnoma nusxasini ilova qilishi lozim",
+  "Информация о финансовом положении участника согласно форме №2 (приложение №1) за последние 3 года. Необходимо прикрепить баланс и отчет о финансовых результатах. Иностранные компании, финансовое положение которых определяется иными критериями, могут предоставить согласно форме №3 (приложение №1) определяющую его финансовое положение. Ishtirokchining so‘nggi 3 yildagi moliyaviy holati to‘g‘risidagi ma’lumotlarni 2-sonli shaklga (1-ilova) muvofiq taqdim etishi lozim. Bunda balans va moliyaviy natijalar to‘g‘risidagi hisobot ilova qilinishi shart. Moliyaviy holati boshqa mezonlar asosida belgilanadigan xorijiy kompaniyalar o‘z moliyaviy holatini aks ettiruvchi ma’lumotlarni 3-sonli shaklga (1-ilova) muvofiq taqdim etishlari mumkin",
+  "Информация о наличии ресурсов (финансовых, людских и технических. - список сотрудников и подтверждающая информация с сайта mehnat.uz, - список спецтехники, машин и механизмов, с подтверждающими документами - справка из обслуживающего банка о дебетовом и кредитовом обороте расчетного счета за последние 6 месяцев. Mavjud resurslar (moliyaviy, inson va texnik resurslar) to‘g‘risidagi ma’lumotlar: xodimlar ro‘yxati (mehnat.uz portalidan olingan tasdiqlovchi ma’lumotlar bilan birga); uskunalar, transport vositalari va texnikalari ro‘yxati (tasdiqlovchi hujjatlar bilan birga); hamda xizmat ko‘rsatuvchi bankdan so‘nggi 6 oy davomidagi joriy hisobvaraq bo‘yicha kirim va chiqim aylanmalari aks ettirilgan ma’lumotnoma",
+  "Информация о выполненных за последние три года аналогичных работ согласно форме №5 (приложение №1). Необходимо составить список работ с указанием заказчика, наименование работ (объекта), суммы по договору. Необходимо прикрепить доказательную документацию. So‘nggi uch yil mobaynida shu turdagi bajarilgan ishlar to‘g‘risida ma’lumot 5-sonli shaklga (1-ilova) muvofiq buyurtmachi, ish (yoki loyiha) nomi va shartnoma qiymatini ko‘rsatgan holda, ushbu ishlar ro‘yxatini taqdim eting. Bunda tasdiqlovchi hujjatlar ilova qilinishi shart",
+  "Гарантийное письмо согласно форме №6 (приложение №1), свидетельствующее, о том, что участник ознакомлен и согласен с условиями проектно-сметной документации, а также, что готов их исполнить в случае определения его победителем. Ishtirokchi loyiha-smeta hujjatlari shartlari bilan tanishib chiqqanligini, ularga rozi ekanligini hamda g‘olib deb topilgan taqdirda ushbu shartlarni bajarishga tayyor ekanligini tasdiqlovchi kafolat xati, 6-sonli shakl (1-ilova)"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 5,
+  "median_bidders": 4,
+  "share_le2_bidders": 0.2,
+  "top_winner_share": 0.4,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 267998685.91,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

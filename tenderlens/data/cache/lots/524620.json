@@ -1,0 +1,231 @@
+{
+ "lot_id": 524620,
+ "display_no": "26110012524620",
+ "title": "Қашқадарё вилоят прокуратурасининг хизмат уйига ҳарид қилинадиган қурилиш ва хўжалик моллари",
+ "url": "https://etender.uzex.uz/lot/524620",
+ "customer": {
+  "name": "Кашкадаре вилоят прокуратураси",
+  "tin": "202375437"
+ },
+ "region": "Қашқадарё вилояти",
+ "start_cost": 54936475.64,
+ "currency": "UZS",
+ "start_date": "2026-11-12T18:15:54",
+ "end_date": "2026-11-19T18:15:54",
+ "clarific_date": "2026-11-19T18:15:54",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 50,
+  "criteria": [
+   {
+    "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг ишлаб чиқарилган йилига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524620.pdf",
+  "pages": 45,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ "subject_uz": "Qashqadaryo viloyati prokuraturasi xizmat uyi uchun pardalar va jalyuzilar (shtor) xarid qilish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "Ўз маблағлари ҳисобидан",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "evaluation",
+   "summary_uz": "Manfaatlar to'qnashuviga yo'l qo'ymaslik bo'yicha kafolat uchun 20 ball beriladi (mezon 'kafolatdan keyingi xizmat' deb nomlangan).",
+   "summary_en": "20 points are given for a guarantee against conflicts of interest (the criterion is titled 'post-warranty service').",
+   "quote": "манфаатлар тўқнашувига йўл қўймаслик бўйича кафолат",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Mahsulotlar texnik topshiriqqa mosligi va 10 kun ichida o'z vaqtida yetkazish kafolati 20 ball bilan baholanadi.",
+   "summary_en": "A guarantee that goods match the technical task and are delivered within 10 days is scored at 20 points.",
+   "quote": "ўз вақтида сифатли етказиб беришни таъминлаш бўйича кафолат ( 10 кун ичида)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Avval shunga o'xshash xizmatlarni bajarganlik haqida ma'lumot 20 ball bilan baholanadi.",
+   "summary_en": "Information on having performed similar services before is scored at 20 points.",
+   "quote": "Аввал шунга ўхшаш хизматларни бажарганлиги тўғрисида",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Nuqsonli mahsulot 5 ish kuni ichida yangisiga almashtirilishi haqida kafolat xati 20 ball bilan baholanadi.",
+   "summary_en": "A guarantee letter on replacing defective goods within 5 working days is scored at 20 points.",
+   "quote": "5 иш куни ичида янгисига алмаштириб бериш бўйича кафолат хати",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Barcha mahsulotlar yangi, 2026-yildan oldin ishlab chiqarilmagan va ishlatilmagan bo'lishi kerak (kafolat xati bilan, 20 ball).",
+   "summary_en": "All goods must be new, not made before 2026 and unused, with a guarantee letter (20 points).",
+   "quote": "Барча махсулотлар янги, 2026-йилдан аввал ишлаб чиқарилмаган, аввал фойдаланилмаган бўлиши зарур",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Qiyoslash uchun keltirilgan takliflarda shtor zich poliefir matodan (kamida 250 g/m2), 70-100 foiz xiralashtirish bilan tayyorlanadi.",
+   "summary_en": "Reference offers describe curtains of dense polyester fabric (at least 250 g/sq m) with 70-100% blackout.",
+   "quote": "штор из плотной полиэстеровой ткани (не менее 250 г/м²) с затемнением от 70% до 100%",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadr resurslari mavjud bo'lishi kerak.",
+   "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+   "summary_en": "There must be no overdue tax or levy debt.",
+   "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Buyurtmachining izohiga ko'ra, mahalliy takliflar sifat, kafolat va texnik parametrlar bo'yicha talabga mos kelmagan.",
+   "summary_en": "The customer's note says the local offers did not fit the required quality, warranty and technical parameters.",
+   "quote": "Tovar (ish, xizmat)ning sifati, kafolati, texnik parametrlari talab darajasiga muvofiq kelmasligi",
+   "page": 5,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "манфаатлар тўқнашувига йўл қўймаслик бўйича кафолат",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "1-mezon 'kafolatdan keyingi xizmat ko'rsatish' deb nomlangan, lekin 20 ball manfaatlar to'qnashuviga yo'l qo'ymaslik haqidagi kafolat xati uchun beriladi, bu esa pardalar xizmatiga yoki kafolat muddatiga aloqador emas. Bu platformaning standart shablon matniga o'xshaydi; 100 balldan 20 tasi shu hujjatga bog'liq.",
+   "explanation_en": "Criterion 1 is titled 'post-warranty service' but its 20 points are given for a guarantee letter about avoiding conflicts of interest, which has nothing to do with curtains or warranty terms. It looks like standard platform template wording; 20 points of the technical score depend on this one document.",
+   "rewrite_uz": "Kafolatdan keyingi xizmat mezoni bo'yicha ball yetkazib beruvchining kafolat muddati, nuqsonlarni bartaraf etish muddati va o'rnatib berish xizmatiga qarab berilsin.",
+   "rewrite_en": "Score the post-warranty service criterion on the supplier's warranty period, defect-repair time and installation service.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 66,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 11.7,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): 1-mezon 'kafolatdan keyingi xizmat ko'rsatish' deb nomlangan, lekin 20 ball manfaatlar to'qnashuviga yo'l qo'ymaslik haqidagi kafolat xati uchun beriladi, bu esa pardalar xizmatiga yoki kafolat muddatiga aloqador emas. Bu platformaning standart shablon matniga o'xshaydi; 100 balldan 20 tasi shu hujjatga bog'liq.",
+   "Buyurtmachining so'nggi 6 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 67% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 83%.",
+   "Tushuntirish so'rash muddati: 19.11.2026 18:15.",
+   "Diqqat: hujjatning 4 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): Criterion 1 is titled 'post-warranty service' but its 20 points are given for a guarantee letter about avoiding conflicts of interest, which has nothing to do with curtains or warranty terms. It looks like standard platform template wording; 20 points of the technical score depend on this one document.",
+   "In the customer's last 6 deals the median number of bidders was 2; 67% of deals had two or fewer bidders; the most frequent winner took 83%.",
+   "Clarification requests are accepted until 19.11.2026 18:15.",
+   "Note: 4 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Manfaatlar to'qnashuviga yo'l qo'ymaslik bo'yicha kafolat (PDF)",
+  "Mahsulotlar texnik topshiriqqa mosligi va 10 kunda yetkazish kafolati (PDF)",
+  "Avval shunga o'xshash xizmatlar bajarilgani haqida ma'lumot (PDF)",
+  "Nuqsonli mahsulotni 5 ish kunida almashtirish kafolat xati (PDF)",
+  "Mahsulotlar yangi va 2026-yildan oldin ishlab chiqarilmaganligi haqida kafolat xati (PDF)",
+  "Soliq qarzi yo'qligi haqida ma'lumot",
+  "Bankrotlik jarayoni yo'qligi va insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumot"
+ ],
+ "clarification_letter_uz": "Kimga: Кашкадаре вилоят прокуратураси, xarid komissiyasiga\nLot raqami: 26110012524620\nXarid predmeti: Қашқадарё вилоят прокуратурасининг хизмат уйига ҳарид қилинадиган қурилиш ва хўжалик моллари\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «манфаатлар тўқнашувига йўл қўймаслик бўйича кафолат»\n   Savolimiz: 1-mezon 'kafolatdan keyingi xizmat ko'rsatish' deb nomlangan, lekin 20 ball manfaatlar to'qnashuviga yo'l qo'ymaslik haqidagi kafolat xati uchun beriladi, bu esa pardalar xizmatiga yoki kafolat muddatiga aloqador emas. Bu platformaning standart shablon matniga o'xshaydi; 100 balldan 20 tasi shu hujjatga bog'liq.\n   Taklif etilayotgan tahrir: Kafolatdan keyingi xizmat mezoni bo'yicha ball yetkazib beruvchining kafolat muddati, nuqsonlarni bartaraf etish muddati va o'rnatib berish xizmatiga qarab berilsin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (19.11.2026 18:15) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 6,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.6667,
+  "top_winner_share": 0.8333,
+  "share_price_drop_lt1pct": 0.8333,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 7493335.28,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

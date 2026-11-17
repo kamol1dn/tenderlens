@@ -1,0 +1,296 @@
+{
+ "lot_id": 522893,
+ "display_no": "26111006522893",
+ "title": "ЛОТ №3 - Т-ЭКГ (ПҚ-20: ҚР ва ВИЛОЯТЛАР)",
+ "url": "https://etender.uzex.uz/lot/522893",
+ "customer": {
+  "name": "Узбекистон Республикаси Согликни саклаш вазирлиги хузуридаги Харидлар маркази ДМ",
+  "tin": "311894188"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 76296000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-02T17:51:19",
+ "end_date": "2026-11-18T17:51:19",
+ "clarific_date": "2026-11-18T17:51:19",
+ "type": "tender",
+ "old_id": 517270,
+ "evaluation": {
+  "tech_coef": 60.0,
+  "cost_coef": 40.0,
+  "min_point": 12,
+  "criteria": [
+   {
+    "label": "Техник топшириқга мувофиқлиги 0 ёки 10 балл Мувофиқ келмаса 0 балл Мувофиқ келса 10 балл",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Қўшимча баллар харид предметининг бевосита функционал вазифасининг фақат техник параметрларини кўриб чиқиш якунлари бўйича берилади. Агар таклиф этилаётган параметрлар техник топшириқ талабларидан юқори бўлса. (юқорироқ сифатли маҳсулот олиш мақсадида) Такомиллаштирилган дизайн, ташқи кўриниш ва бошқаларга тегишли параметрлар (таклиф этилаётган ускунанинг тўлақонли ишлаши учун зарур бўлганларидан ташқари, техник топшириқда кўрсатилмаган қўшимча аксессуарлар, комплектация) кўриб чиқилмайди. 0 ёки 2 балл",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Тиббиёт маҳсулотларини сертификатлаштириш бўйича халқаро органлар томонидан берилган товар сертификатларининг мавжудлиги (сифатли маҳсулот олиш мақсадида) CE сертификати мавжуд бўлганда 0 ёки 1 балл",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Белгиланган муддатдан ортиқ кафолатли хизмат муддатининг мавжудлиги 0-1 балл Қўшимча кафолат муддати бўлмаган тақдирда 0 балл Белгиланган муддатдан камида 12 ой ортиқ 1 балл",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Етказиб бериш муддати (қўшимча равишда берилади) 0-2 балл Етказиб бериш муддати қисқартирилмаганда 0 балл Етказиб бериш муддатлари белгиланган муддатнинг камида 50 фоизга қисқартирилганда 1 балл Етказиб бериш муддатлари белгиланган муддатнинг камида 75 фоизга қисқартирилганда 2 балл",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлаб чиқарувчи завод авторизациясининг мавжудлиги (харид иштирокчиси таклиф этилаётган товар ишлаб чиқарувчиси бўлмаган тақдирда) 0-1 балл Авторизация мавжуд бўлмаса 0 балл Авторизация мавжудлиги 1 балл",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ўзбекистон Республикасида сервис марказининг мавжудлиги 0-2 балл Хизмат кўрсатиш маркази бўлмаган тақдирда 0 балл Шартнома асосида хизмат кўрсатувчи сервис маркази мавжуд бўлганда (аутсорсинг) 1 балл Иштирокчининг ўз хизмат кўрсатиш маркази мавжуд бўлганда 2 балл",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/522893.pdf",
+  "pages": 29,
+  "text_source": "text",
+  "language": "ru",
+  "unreadable_pages": []
+ },
+ "subject_uz": "2312 dona T-EKG masofaviy EKG kompleksi (EKG-apparat, kardioserver va shifokor ish joyi dasturi, sun'iy intellekt asosida avtomatik xulosa bilan)",
+ "sector": "health",
+ "customer_sector": "health",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Sun'iy intellekt asosidagi avtomatik EKG xulosasi EKG-apparatning o'z dasturida, tarmoqsiz shakllanishi kerak; faqat serverda ishlaydigan yechimlar mos kelmaydi.",
+   "summary_en": "The AI-based automatic ECG conclusion must be produced in the ECG device software without a network; server-only solutions do not comply.",
+   "quote": "Решения, в которых автоматическая интерпретация выполняется исключительно на серверной стороне, требованию не соответствуют.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Algoritm sindromlar bo'yicha belgilangan sezgirlik va o'ziga xoslik darajasini ko'rsatishi kerak (masalan, fibrillyatsiya 90/90, o'tkir koronar sindrom 90/93).",
+   "summary_en": "The algorithm must meet set sensitivity and specificity levels per syndrome (for example atrial fibrillation 90/90, acute coronary syndrome 90/93).",
+   "quote": "Точность формирования автоматического заключения «Фибрилляция или трепетание предсердий»: Чувствительность — не менее 90%; Специфичность — не менее 90%;",
+   "page": 17,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Sun'iy intellekt moduli kamida 10 000 ta EKG tekshiruvi namunasida validatsiya qilingan bo'lishi va natijalar hujjatda berilishi kerak.",
+   "summary_en": "The AI module must have been validated on a sample of at least 10,000 ECG studies, with results documented.",
+   "quote": "Проведена на выборке не менее 10 000 ЭКГ исследований, результаты представлены в соответствующем документе",
+   "page": 27,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Kompleks Milliy raqamli sog'liqni saqlash platformasi (DHP) bilan integratsiyalanishi kerak, narxi taklif narxiga kiradi.",
+   "summary_en": "The complex must be integrated with the National Digital Health Platform (DHP) at no extra charge.",
+   "quote": "Стоимость указанных работ включается в цену предложения и отдельной оплате не подлежит.",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "DHP va tez tibbiy yordam tizimi (ЭАСУСМП) bilan integratsiya test muhiti berilgandan keyin 30 kalendar kundan oshmasligi kerak.",
+   "summary_en": "Integration with DHP and the emergency-medical-service system must be done within 30 calendar days of test access being granted.",
+   "quote": "выполняется Поставщиком в срок не более 30 календарных дней с даты предоставления Заказчиком доступа к тестовому контуру и интеграционной документации",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Dasturlar cheksiz o'rnatish bilan muddatsiz litsenziyada, yangilanishlar butun xizmat muddati davomida bepul berilishi kerak.",
+   "summary_en": "Software must come under a perpetual licence with unlimited installations, with updates free throughout service life.",
+   "quote": "является бессрочной, не требует активации, лицензионных ключей, аппаратных ключей защиты, привязки к конкретному оборудованию",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Ishlab chiqaruvchining avtorizatsiya xati, O'zbekistonda servis markazi va ishlab chiqaruvchi tomonidan o'qitilgan kamida 2 servis muhandisi talab qilinadi.",
+   "summary_en": "A manufacturer authorisation letter, a service centre in Uzbekistan and at least 2 manufacturer-trained service engineers are required.",
+   "quote": "Авторизационное письмо производителя, подтверждающее полномочия участника торгов и (или) сервисного центра на гарантийное обслуживание",
+   "page": 25,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Ro'yxatdan o'tish guvohnomasi (Dori vositalari xavfsizligi markazi) taklif topshirish sanasida amalda bo'lishi kerak; ISO 9001 va ISO 13485 sertifikatlari talab qilinadi.",
+   "summary_en": "A valid medical-device registration certificate on the bid date is required, along with ISO 9001 and ISO 13485 certificates.",
+   "quote": "копии сертификатов ISO 9001, ISO 13485, заверенные в установленном порядке.",
+   "page": 26,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "delivery",
+   "summary_uz": "Kafolat muddati foydalanishga topshirilgandan 24 oy; mutaxassis chaqiruvdan keyin 5 ish kunidan kechiktirmay yetib kelishi kerak.",
+   "summary_en": "Warranty of 24 months from commissioning; a specialist must arrive within 5 working days of a written request.",
+   "quote": "Гарантийный срок со дня сдачи в эксплуатацию: 24 месяца",
+   "page": 25,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Texnik topshiriqqa muvofiqlik 10 ball, qo'shimcha parametrlar 2 ball, CE 1 ball, qo'shimcha kafolat 1 ball, muddat qisqartirish 2 ball, avtorizatsiya 1 ball, servis markazi 2 ball.",
+   "summary_en": "Scores: compliance with the technical task 10, extra parameters 2, CE 1, extra warranty 1, shorter delivery 2, authorisation 1, service centre 2.",
+   "quote": "Ўзбекистон Республикасида сервис марказининг мавжудлиги 0-2 балл",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "narrow_params",
+   "severity": "medium",
+   "quote": "Решения, в которых автоматическая интерпретация выполняется исключительно на серверной стороне, требованию не соответствуют.",
+   "page": 2,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Sun'iy intellekt xulosasi faqat EKG-apparatning o'zida, tarmoqsiz shakllanishi va buni namoyish qilish shart; serverga asoslangan yechimlar mos kelmaydi. Boshqa joyda esa xuddi shu modul bulutli server dasturida yoki apparat dasturida joylashishi mumkin deyilgan, ya'ni hujjatda o'zaro ziddiyat bor. 76,3 mlrd so'mlik lotda faqat qurilmada ishlaydigan algoritmi bor ishtirokchilar qoladi; tez yordam brigadalari uchun sabab bor, shuning uchun aniqlashtirish kerak.",
+   "explanation_en": "The AI conclusion must be produced on the ECG device itself without a network, with an on-demand demonstration; server-based solutions are declared non-compliant. Elsewhere the same module may sit in cloud server software or in the device software, so the document contradicts itself. On a 76.3 billion UZS lot this leaves only bidders whose algorithm runs on the device; a field-use reason exists for ambulance crews, so this should be clarified.",
+   "rewrite_uz": "Avtomatik xulosa EKG-apparat dasturida yoki serverda shakllantirilishi mumkin; aloqa bo'lmagan hududlar uchun apparat dasturi EKGni saqlab, aloqa tiklanganda serverga uzatishi va xulosani aloqa tiklangach ko'rsatishi kifoya.",
+   "rewrite_en": "The automatic conclusion may be generated in the ECG device software or on the server; for areas without coverage it is enough that the device stores the ECG, transmits it when the link is restored and shows the conclusion then.",
+   "type_label_uz": "Haddan tashqari tor texnik parametrlar",
+   "type_label_en": "Over-narrow technical parameters",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "narrow_params",
+   "severity": "medium",
+   "quote": "Точность формирования автоматического заключения «Гипертрофия левого желудочка»: Чувствительность — не менее 70%; специфичность — не менее 91%",
+   "page": 17,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Sun'iy intellekt algoritmi uchun sezgirlik va o'ziga xoslik chegaralari har bir sindrom bo'yicha turlicha va g'alati (masalan, 70/91, 75/90, 90/93, 90/95), qo'shimcha ravishda kamida 10 000 ta EKG namunasida validatsiya talab qilinadi. Bunday aralash qiymatlar bitta mahsulotning ko'rsatkichlariga moslashtirilganga o'xshaydi va xuddi shunday sifatdagi boshqa algoritmlarni chetlatishi mumkin.",
+   "explanation_en": "The sensitivity and specificity thresholds differ per syndrome and take unusual values (for example 70/91, 75/90, 90/93, 90/95), and validation on at least 10,000 ECG studies is required on top. Such mixed values look fitted to one product's figures and may exclude algorithms of similar quality.",
+   "rewrite_uz": "Sezgirlik va o'ziga xoslik: asosiy sindromlar uchun kamida 85 foiz; validatsiya xalqaro yoki mahalliy ochiq ma'lumotlar bazasida yoki kamida 1000 ta EKG namunasida o'tkazilgan bo'lishi mumkin; natijalar hujjatda keltiriladi.",
+   "rewrite_en": "Sensitivity and specificity: at least 85 percent for the main syndromes; validation may be done on an international or local open database or on at least 1,000 ECG records, with results documented.",
+   "type_label_uz": "Haddan tashqari tor texnik parametrlar",
+   "type_label_en": "Over-narrow technical parameters",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "unrealistic_deadline",
+   "severity": "low",
+   "quote": "выполняется Поставщиком в срок не более 30 календарных дней с даты предоставления Заказчиком доступа к тестовому контуру и интеграционной документации",
+   "page": 9,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "DHP va tez yordam tizimi bilan integratsiya uchun 30 kalendar kun berilgan, boshqa bandda esa DHP integratsiyasi uchun 90 kun ko'rsatilgan. Ikki sonning ziddiyati va qisqa muddat bu tizimlar bilan avval ishlamagan yetkazib beruvchilar uchun to'siq bo'lishi mumkin.",
+   "explanation_en": "Integration with DHP and the ambulance system is allowed 30 calendar days, while another clause gives 90 days for DHP integration. The conflict and the shorter term could be a barrier for suppliers who have not worked with these systems before.",
+   "rewrite_uz": "Integratsiya DHP va ЭАСУСМП bilan test muhiti va hujjatlar berilgan kundan boshlab 90 kalendar kun ichida bajariladi.",
+   "rewrite_en": "Integration with DHP and the ambulance system is completed within 90 calendar days from the day test access and documentation are provided.",
+   "type_label_uz": "Bajarish qiyin bo'lgan muddat",
+   "type_label_en": "Deadline that is hard to meet",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 45,
+ "traffic_light": "red",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 50,
+  "history_penalty": 4.8,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Haddan tashqari tor texnik parametrlar (2-bet): Sun'iy intellekt xulosasi faqat EKG-apparatning o'zida, tarmoqsiz shakllanishi va buni namoyish qilish shart; serverga asoslangan yechimlar mos kelmaydi. Boshqa joyda esa xuddi shu modul bulutli server dasturida yoki apparat dasturida joylashishi mumkin deyilgan, ya'ni hujjatda o'zaro ziddiyat bor. 76,3 mlrd so'mlik lotda faqat qurilmada ishlaydigan algoritmi bor ishtirokchilar qoladi; tez yordam brigadalari uchun sabab bor, shuning uchun aniqlashtirish kerak.",
+   "Haddan tashqari tor texnik parametrlar (17-bet): Sun'iy intellekt algoritmi uchun sezgirlik va o'ziga xoslik chegaralari har bir sindrom bo'yicha turlicha va g'alati (masalan, 70/91, 75/90, 90/93, 90/95), qo'shimcha ravishda kamida 10 000 ta EKG namunasida validatsiya talab qilinadi. Bunday aralash qiymatlar bitta mahsulotning ko'rsatkichlariga moslashtirilganga o'xshaydi va xuddi shunday sifatdagi boshqa algoritmlarni chetlatishi mumkin.",
+   "Bajarish qiyin bo'lgan muddat (9-bet): DHP va tez yordam tizimi bilan integratsiya uchun 30 kalendar kun berilgan, boshqa bandda esa DHP integratsiyasi uchun 90 kun ko'rsatilgan. Ikki sonning ziddiyati va qisqa muddat bu tizimlar bilan avval ishlamagan yetkazib beruvchilar uchun to'siq bo'lishi mumkin.",
+   "Buyurtmachining so'nggi 251 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 67% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 6%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 517270).",
+   "Tushuntirish so'rash muddati: 18.11.2026 17:51."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Over-narrow technical parameters (page 2): The AI conclusion must be produced on the ECG device itself without a network, with an on-demand demonstration; server-based solutions are declared non-compliant. Elsewhere the same module may sit in cloud server software or in the device software, so the document contradicts itself. On a 76.3 billion UZS lot this leaves only bidders whose algorithm runs on the device; a field-use reason exists for ambulance crews, so this should be clarified.",
+   "Over-narrow technical parameters (page 17): The sensitivity and specificity thresholds differ per syndrome and take unusual values (for example 70/91, 75/90, 90/93, 90/95), and validation on at least 10,000 ECG studies is required on top. Such mixed values look fitted to one product's figures and may exclude algorithms of similar quality.",
+   "Deadline that is hard to meet (page 9): Integration with DHP and the ambulance system is allowed 30 calendar days, while another clause gives 90 days for DHP integration. The conflict and the shorter term could be a barrier for suppliers who have not worked with these systems before.",
+   "In the customer's last 251 deals the median number of bidders was 2; 67% of deals had two or fewer bidders; the most frequent winner took 6%.",
+   "This lot was re-announced (previous lot: 517270).",
+   "Clarification requests are accepted until 18.11.2026 17:51."
+  ]
+ },
+ "documents_needed_uz": [
+  "4 va 4a shakllari (texnik topshiriqqa muvofiqlik) va har bir band bo'yicha asoslovchi hujjat",
+  "Tibbiy buyum ro'yxatdan o'tish guvohnomasi (Dori vositalari xavfsizligi markazi)",
+  "ISO 9001 va ISO 13485 sertifikatlari nusxalari (CE bo'lsa)",
+  "IEC 60601-1 va IEC 60601-2-25 muvofiqlik sertifikati va ishlab chiqaruvchi sinov bayonnomalari",
+  "Algoritm sifati bo'yicha ma'lumot (sezgirlik, o'ziga xoslik, ma'lumotlar bazasi) va validatsiya hujjati",
+  "Ishlab chiqaruvchi avtorizatsiyasi (5-shakl)",
+  "Servis markazi hujjatlari yoki shartnomasi, kamida 2 servis muhandisining sertifikatlari",
+  "Foydalanish qo'llanmalari (o'zbek, rus va qoraqalpoq tillarida)",
+  "Integratsiya hujjatlari (API tavsifi, standartlar ro'yxati) va integratsiya muddati bo'yicha kafolat xati",
+  "Dasturiy ta'minot ro'yxati va qo'shimcha to'lovsiz yetkazish kafolat xati",
+  "O'qitish dasturi va kafolat xatlari",
+  "2024-2025 yillar uchun soliq organlariga topshirilgan moliyaviy hisobotlar",
+  "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasi",
+  "Soliq qarzi, bankrotlik va insofsiz ijrochilar reestri bo'yicha ma'lumotlar, 1-shakl, 2-shakl, 2a-shakl va 3-shakl bo'yicha arizalar",
+  "4-4а-шакл",
+  "4а-шакл",
+  "Техник топшириқда белгиланган муддатдан ортиқ кафолатли хизмат кўрсатиш муддатини тасдиқловчи кафолат хати",
+  "Етказиб бериш муддатини тасдиқловчи кафолат хати",
+  "5-шакл",
+  "Ўзбекистон Республикасида рўйхатдан ўтган юридик шахс тўғрисидаги маълумотлар (номи, манзили, СТИР, алоқа маълумотлари) ва шартнома асосида хизмат кўрсатувчи сервис маркази билан тузилган шартнома маълумотларни, манзилни, алоқа маълумотлар"
+ ],
+ "clarification_letter_uz": "Kimga: Узбекистон Республикаси Согликни саклаш вазирлиги хузуридаги Харидлар маркази ДМ, xarid komissiyasiga\nLot raqami: 26111006522893\nXarid predmeti: ЛОТ №3 - Т-ЭКГ (ПҚ-20: ҚР ва ВИЛОЯТЛАР)\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 2-bet.\n   Hujjatdagi matn: «Решения, в которых автоматическая интерпретация выполняется исключительно на серверной стороне, требованию не соответствуют.»\n   Savolimiz: Sun'iy intellekt xulosasi faqat EKG-apparatning o'zida, tarmoqsiz shakllanishi va buni namoyish qilish shart; serverga asoslangan yechimlar mos kelmaydi. Boshqa joyda esa xuddi shu modul bulutli server dasturida yoki apparat dasturida joylashishi mumkin deyilgan, ya'ni hujjatda o'zaro ziddiyat bor. 76,3 mlrd so'mlik lotda faqat qurilmada ishlaydigan algoritmi bor ishtirokchilar qoladi; tez yordam brigadalari uchun sabab bor, shuning uchun aniqlashtirish kerak.\n   Taklif etilayotgan tahrir: Avtomatik xulosa EKG-apparat dasturida yoki serverda shakllantirilishi mumkin; aloqa bo'lmagan hududlar uchun apparat dasturi EKGni saqlab, aloqa tiklanganda serverga uzatishi va xulosani aloqa tiklangach ko'rsatishi kifoya.\n\n2. Texnik topshiriq, 17-bet.\n   Hujjatdagi matn: «Точность формирования автоматического заключения «Гипертрофия левого желудочка»: Чувствительность — не менее 70%; специфичность — не менее 91%»\n   Savolimiz: Sun'iy intellekt algoritmi uchun sezgirlik va o'ziga xoslik chegaralari har bir sindrom bo'yicha turlicha va g'alati (masalan, 70/91, 75/90, 90/93, 90/95), qo'shimcha ravishda kamida 10 000 ta EKG namunasida validatsiya talab qilinadi. Bunday aralash qiymatlar bitta mahsulotning ko'rsatkichlariga moslashtirilganga o'xshaydi va xuddi shunday sifatdagi boshqa algoritmlarni chetlatishi mumkin.\n   Taklif etilayotgan tahrir: Sezgirlik va o'ziga xoslik: asosiy sindromlar uchun kamida 85 foiz; validatsiya xalqaro yoki mahalliy ochiq ma'lumotlar bazasida yoki kamida 1000 ta EKG namunasida o'tkazilgan bo'lishi mumkin; natijalar hujjatda keltiriladi.\n\n3. Texnik topshiriq, 9-bet.\n   Hujjatdagi matn: «выполняется Поставщиком в срок не более 30 календарных дней с даты предоставления Заказчиком доступа к тестовому контуру и интеграционной документации»\n   Savolimiz: DHP va tez yordam tizimi bilan integratsiya uchun 30 kalendar kun berilgan, boshqa bandda esa DHP integratsiyasi uchun 90 kun ko'rsatilgan. Ikki sonning ziddiyati va qisqa muddat bu tizimlar bilan avval ishlamagan yetkazib beruvchilar uchun to'siq bo'lishi mumkin.\n   Taklif etilayotgan tahrir: Integratsiya DHP va ЭАСУСМП bilan test muhiti va hujjatlar berilgan kundan boshlab 90 kalendar kun ichida bajariladi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 17:51) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 251,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.6693,
+  "top_winner_share": 0.0558,
+  "share_price_drop_lt1pct": 0.239,
+  "reannounced_lots": 13
+ },
+ "money_on_table_uzs": 10406774400.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 16.0
+ },
+ "analyzed_at": "2026-11-18T00:20:02+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,250 @@
+{
+ "lot_id": 523745,
+ "display_no": "26120012523745",
+ "title": "АО \"Узбекнефтегаз\" Мубарекский МНГУ. Услуги по геолого-технологическим исследованиям.",
+ "url": "https://etender.uzex.uz/lot/523745",
+ "customer": {
+  "name": "\"O'ZBEKNEFTGAZ\" AJ",
+  "tin": "200837914"
+ },
+ "region": "Қашқадарё вилояти",
+ "start_cost": 1507029613.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T16:41:43",
+ "end_date": "2026-11-23T16:41:43",
+ "clarific_date": "2026-11-23T16:41:43",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 60,
+  "criteria": [
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларда суғурталашга қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 60.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523745.pdf",
+  "pages": 41,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   36,
+   37,
+   38,
+   39,
+   40,
+   41
+  ]
+ },
+ "subject_uz": "Muborak neft-gaz konlarida quduq geologik-texnologik tadqiqotlari: qatlam bosimi va haroratini o'lchash, GDI/GKI, PLT",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "АО \"Узбекнефтегаз\" собственные средства",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "payment",
+   "summary_uz": "Shartnoma summasining 15 foizi avans sifatida shartnoma ro'yxatdan o'tgach 15 kalendar kun ichida to'lanadi.",
+   "summary_en": "15 percent of the contract value is paid as an advance within 15 calendar days after registration.",
+   "quote": "kalendar kun ichida shartnoma summasining 15% miqdorida avans",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "payment",
+   "summary_uz": "Qolgan 85 foiz oylik hisob-faktura va qabul qilish dalolatnomasi asosida 90 kalendar kun ichida to'lanadi.",
+   "summary_en": "The remaining 85 percent is paid within 90 calendar days against monthly invoices and acceptance acts.",
+   "quote": "hamda qabul qilish dalolatnomasiga asosan buyurtmachi tomonidan qabul qilingan hamda kreditorlik",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "other",
+   "summary_uz": "Taklif narxi boshlang'ich narxdan (QQS bilan 1 507 029 773 so'm) oshmasligi kerak.",
+   "summary_en": "The bid price must not exceed the start price (1,507,029,773 UZS including VAT).",
+   "quote": "Tanlov taklifida ko'rsatilgan narxlar boshlang'ich narxdan oshmasligi kerak.",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "other",
+   "summary_uz": "Taklif ta'minoti (depozit yoki bank kafolati) talab qilinmaydi.",
+   "summary_en": "No bid security (deposit or bank guarantee) is required.",
+   "quote": "Tanlov taklifini ta'minlash uchun kafolat miqdori (depozit yoki bank kafolati): Talab qilinmaydi.",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Takliflarni topshirishning oxirgi muddati 5 ish kuni deb ko'rsatilgan.",
+   "summary_en": "The deadline for submitting bids is stated as 5 working days.",
+   "quote": "Takliflarni topshirishning oxirgi muddati 5 ish kuni",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "other",
+   "summary_uz": "Taklif topshirilgan kundan kamida 90 kun amal qilishi kerak.",
+   "summary_en": "The bid must stay valid for at least 90 days from submission.",
+   "quote": "takliflar topshirilgan kundan boshlab kamida 90 kun.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi soliq organidan soliq qarzi yo'qligi haqida ma'lumotnoma taqdim etishi shart.",
+   "summary_en": "A tax-authority certificate confirming no tax debt must be provided.",
+   "quote": "soliq organlaridan olingan, soliq qarzdorligi mavjud emasligini tasdiqlovchi",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Kafolat xatida ishtirokchi mijoz bilan sud yoki arbitraj jarayonida emasligini tasdiqlaydi.",
+   "summary_en": "A guarantee letter must confirm the bidder is not in court or arbitration proceedings with the customer.",
+   "quote": "ishtirokchi mijoz bilan sud yoki arbitraj jarayoni holatida emas",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Moliyaviy holat (4-shakl) bilan birga moliyaviy hisobotlar nusxasi ilova qilinadi.",
+   "summary_en": "Copies of financial statements must accompany the financial position form (form 4).",
+   "quote": "Ishtirokchilar moliyaviy natijalar to'g'risidagi hisobotlarning (balanslarning) nusxalarini",
+   "page": 21,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "technical",
+   "summary_uz": "Texnik taklif bilan taklif etilayotgan xizmat xususiyatlarining qiyosiy jadvali taqdim etiladi.",
+   "summary_en": "The technical proposal must include a comparison table of the offered specifications.",
+   "quote": "varaqlarda taklif qilingan mahsulotlarning texnik xususiyatlarining qiyosiy jadvali",
+   "page": 32,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Texnik baholashdan o'tmagan takliflar chetlashtiriladi; texnik taklif 60 ballgacha baholanadi.",
+   "summary_en": "Bids failing the technical evaluation are excluded; the technical proposal is scored up to 60 points.",
+   "quote": "Takliflari texnik baholashdan o'tmagan ishtirokchilar tanlov jarayonidan chetlashtiriladi.",
+   "page": 34,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 96,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 4.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 252 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 50% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 12%.",
+   "Diqqat: hujjatning 6 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 252 deals the median number of bidders was 3; 50% of deals had two or fewer bidders; the most frequent winner took 12%.",
+   "Note: 6 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Xarid komissiyasi nomiga ariza (1-shakl)",
+  "Tashkilotning davlat ro'yxatidan o'tganligi to'g'risidagi guvohnoma",
+  "Kafolat xati: qayta tashkil etish, tugatish, sud yoki arbitraj jarayoni, muddati o'tgan qarz va sanksiyalar ro'yxati bo'yicha (2-shakl)",
+  "Tanlov ishtirokchisi haqida umumiy ma'lumot, ta'sischilar va foydali egalar (3-shakl)",
+  "Yetkazib berish (xizmat ko'rsatish) tajribasi to'g'risida ma'lumot",
+  "Moliyaviy holat to'g'risida ma'lumot va moliyaviy hisobotlar nusxasi (4-shakl)",
+  "Soliq va yig'imlar bo'yicha qarzi yo'qligi haqida soliq organi ma'lumotnomasi",
+  "Halollik majburiyatlari bayonoti (5-shakl)",
+  "Kontragent va sanksiyalar so'rovnomasi hamda tegishli hujjatlar (6-shakl)",
+  "Texnik taklif va xususiyatlarning qiyosiy jadvali (7-shakl)",
+  "Kafolat muddati va kafolat hajmi bo'yicha kafolat xati",
+  "ARIZA",
+  "KAFOLAT HATI",
+  "TANLOV ISHTIROKCHISI HAQIDA MALUMOT",
+  "ISHTIROKCHINING MOLIYAVIY AHVOLI",
+  "Halollik va manfaatlar to'qnashuvi yo'qligi to'g'risidagi kafolat xati (platformadagi shakl bo'yicha)",
+  "AYLANTIRISH ishtirokchilar tomonidan taqdim etilishi kerak bo'lgan hujjatlar",
+  "Tanlov bo'yicha texnik taklif"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 252,
+  "median_bidders": 3.0,
+  "share_le2_bidders": 0.496,
+  "top_winner_share": 0.1151,
+  "share_price_drop_lt1pct": 0.2143,
+  "reannounced_lots": 2
+ },
+ "money_on_table_uzs": 212491175.43,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

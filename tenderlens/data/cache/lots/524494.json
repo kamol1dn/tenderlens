@@ -1,0 +1,240 @@
+{
+ "lot_id": 524494,
+ "display_no": "26110012524494",
+ "title": "ПП-186_ЛОТ №20 (Набор офтальмоскоп / отоскоп)",
+ "url": "https://etender.uzex.uz/lot/524494",
+ "customer": {
+  "name": "Узбекистон Республикаси Согликни саклаш вазирлиги хузуридаги Харидлар маркази ДМ",
+  "tin": "311894188"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 250000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T18:26:58",
+ "end_date": "2026-11-18T18:26:58",
+ "clarific_date": "2026-11-18T18:26:58",
+ "type": "selection",
+ "old_id": 522468,
+ "evaluation": {
+  "tech_coef": 60.0,
+  "cost_coef": 40.0,
+  "min_point": 12,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524494.pdf",
+  "pages": 8,
+  "text_source": "text",
+  "language": "ru",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Pediatriya uchun oftalmoskop va otoskop toʻplami (1 toʻplam) xarid qilish",
+ "sector": "health",
+ "customer_sector": "health",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "evaluation",
+   "summary_uz": "Texnik topshiriqqa muvofiqlik 0 yoki 10 ball bilan baholanadi; hujjatlar bilan tasdiqlanmasa ishtirokchi chetlashtiriladi.",
+   "summary_en": "Compliance with the technical specification is scored 0 or 10; unsupported claims lead to exclusion.",
+   "quote": "Техник топшириқга мувофиқлиги (0 ёки 10 балл).",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Quloq voronkalari 5 oʻlchamda boʻlishi kerak (neonatal 2,5 mm ham).",
+   "summary_en": "Ear specula must come in 5 sizes, including a neonatal 2.5 mm.",
+   "quote": "5 размеров: 2,5; 3,0; 4,0; 5,0; 6,0 мм",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Yorugʻlik LED boʻlishi va CRI kamida 90 boʻlishi kerak.",
+   "summary_en": "LED illumination with a colour rendering index (CRI) of at least 90 is required.",
+   "quote": "Светодиодная подсветка с цветопередачей CRI не менее 90",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Tovar 2026-yildan oldin ishlab chiqarilmagan boʻlishi kerak.",
+   "summary_en": "The product must be manufactured no earlier than 2026.",
+   "quote": "Год выпуска товара — не ранее 2026 года",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Texnik tavsiflar yoʻnaltiruvchi; teng yoki yuqori koʻrsatkichli boshqa uskunani taklif qilish mumkin.",
+   "summary_en": "The technical values are indicative; equal or better equipment with different values may be offered.",
+   "quote": "Участники имеют право предлагать медицинское оборудование с техническими характеристиками, отличающимися от указанных в технической спецификации",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Taklif topshirilganda amaldagi roʻyxatdan oʻtish guvohnomasi yoki roʻyxatdan oʻtkazish boshlangani haqida kafolat xati boʻlishi kerak.",
+   "summary_en": "At bid time a valid registration certificate, or a letter confirming registration has started, is required.",
+   "quote": "На момент подачи предложения наличие действующего регистрационного удостоверения",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Oxirgi marta soliq organlariga topshirilgan moliyaviy hisobotlar taqdim etilishi kerak.",
+   "summary_en": "The latest financial statements filed with the tax authorities must be provided.",
+   "quote": "сўнги марта солиқ органларига тақдим этилган молиявий ҳисоботлар (бухгалтерия баланси, молиявий натижалар тўғрисида)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "other",
+   "summary_uz": "Ishlab chiqaruvchi boʻlmagan ishtirokchi ishlab chiqaruvchi vakolatini tasdiqlovchi hujjat taqdim etadi (1 ball).",
+   "summary_en": "A non-manufacturer bidder submits the manufacturer's authorisation (1 point).",
+   "quote": "Ишлаб чиқарувчи завод авторизациясининг мавжудлиги (харид иштирокчиси таклиф этилаётган товар ишлаб чиқарувчиси бўлмаган тақдирда)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Oʻzbekistonda servis markazi boʻlishi kerak; oʻz markazi 2 ball, shartnoma asosidagisi 1 ball.",
+   "summary_en": "A service centre in Uzbekistan is expected; own centre earns 2 points, contracted centre 1 point.",
+   "quote": "Ўзбекистон Республикасида сервис марказининг мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Kafolat muddati foydalanishga topshirilgandan boshlab 24 oy.",
+   "summary_en": "The warranty is 24 months from commissioning.",
+   "quote": "Гарантийный срок со дня сдачи в эксплуатацию — 24 месяца",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "delivery",
+   "summary_uz": "Mahalliy yetkazib beruvchilar uchun muddat oldindan toʻlov kunidan 90 kun.",
+   "summary_en": "For domestic suppliers the delivery period is 90 days from the advance payment.",
+   "quote": "90 дней со дня проведения предоплаты.",
+   "page": 4,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 95,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 4.8,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 251 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 67% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 6%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 522468)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 251 deals the median number of bidders was 2; 67% of deals had two or fewer bidders; the most frequent winner took 6%.",
+   "This lot was re-announced (previous lot: 522468)."
+  ]
+ },
+ "documents_needed_uz": [
+  "4 va 4a shakllar (texnik muvofiqlik jadvali, doc formatida ham)",
+  "Datasheet, prospekt yoki katalog (har bir texnik parametr boʻyicha)",
+  "CE sertifikati va ISO 13485 sertifikati nusxalari",
+  "Roʻyxatdan oʻtish guvohnomasi yoki Farmatsevtika mahsulotlari xavfsizligi markazi kafolat xati",
+  "Ishlab chiqaruvchi vakolati (5-shakl), agar ishtirokchi ishlab chiqaruvchi boʻlmasa",
+  "Servis markazi haqida maʼlumot yoki shartnoma nusxasi",
+  "Soʻnggi moliyaviy hisobotlar (balans, moliyaviy natijalar)",
+  "Davlat roʻyxatidan oʻtganlik guvohnomasi",
+  "Soliq qarzdorligi yoʻqligi haqida hujjat",
+  "1, 2, 2a va 3-shakllar boʻyicha arizalar",
+  "Kafolat xati (qoʻshimcha kafolat va yetkazish muddati boʻyicha)",
+  "4 ва 4а шакллари",
+  "Сертификат",
+  "Кафолат хати",
+  "5-шакл"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 251,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.6693,
+  "top_winner_share": 0.0558,
+  "share_price_drop_lt1pct": 0.239,
+  "reannounced_lots": 13
+ },
+ "money_on_table_uzs": 34100000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

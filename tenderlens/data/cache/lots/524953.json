@@ -1,0 +1,244 @@
+{
+ "lot_id": 524953,
+ "display_no": "26120012524953",
+ "title": "“Surxondaryo viloyati Sariosiyo tumanida To‘palang daryosining yuvilgan uchastkalarida qirg‘oqni mustahkamlash ishlari loyihasi” obyekti bo‘yicha loyiha-smeta hujjatlarini ishlab chiqish",
+ "url": "https://etender.uzex.uz/lot/524953",
+ "customer": {
+  "name": "GIDROQURILISH BUYURTMACHI XIZMATI MCHJ",
+  "tin": "305071842"
+ },
+ "region": "Сурхандарё вилояти",
+ "start_cost": 2400000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T17:49:55",
+ "end_date": "2026-11-18T17:49:55",
+ "clarific_date": "2026-11-18T17:49:55",
+ "type": "selection",
+ "old_id": 523367,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 70,
+  "criteria": [
+   {
+    "label": "Loyihani bajarish bo‘yicha kafolat xatini taqdim etish",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Texnik xodimlarning malakasi va tajribasi",
+    "max_score": 30.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Loyihalarni amalga oshirish tajribasi",
+    "max_score": 30.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ishtirokchining moliyaviy barqarorligi",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Loyiha-smeta hujjatlarini ishlab chiqish uchun zarur bo‘lgan kompyuter texnikasi",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524953.pdf",
+  "pages": 6,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "To'palang daryosining yuvilgan uchastkalarida qirg'oqni mustahkamlash obyekti bo'yicha loyiha-smeta hujjatlarini ishlab chiqish",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "evaluation",
+   "summary_uz": "Loyihani bajarish bo'yicha kafolat xati taqdim etilishi kerak (10 ball).",
+   "summary_en": "A guarantee letter on carrying out the design must be submitted (10 points).",
+   "quote": "Loyihani bajarish bo‘yicha kafolat xatini taqdim etish",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Malakali muhandis-texnik xodimlar, ularning ma'lumoti va o'xshash loyihalardagi ishtiroki baholanadi (30 ball).",
+   "summary_en": "Qualified engineering staff, their education and participation in similar projects are scored (30 points).",
+   "quote": "Ishtirokchida loyiha bo‘yicha ishlarni bajarish uchun zarur bo‘lgan malakali muhandis-texnik xodimlarning mavjudligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "So'nggi 5 yilda kamida 3 ta shartnoma, har biri boshlang'ich narxning kamida 30 foizi (720 mln so'm) bo'lishi kerak (30 ball).",
+   "summary_en": "At least 3 contracts in the last 5 years, each worth at least 30 percent of the start price (720 million UZS), are scored (30 points).",
+   "quote": "kamida 3 (uch) ta shartnoma mavjud bo‘lishi lozim, bunda har bir shartnomaning qiymati Tanlovning boshlang‘ich qiymatining kamida 30 foizini tashkil etishi kerak",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "O'rtacha yillik aylanma kamida 5 mlrd, o'z kapitali kamida 5 mlrd so'm, likvidlik kamida 1,0 (15 ball).",
+   "summary_en": "Average annual turnover of at least 5 billion UZS, net worth of at least 5 billion UZS and liquidity of at least 1.0 (15 points).",
+   "quote": "So‘nggi 3 yil uchun o‘rtacha yillik aylanma — kamida 5 mlrd so‘m. Joriy likvidlik koeffitsiyenti — kamida 1,0. O‘z kapitali (Net Worth) — kamida 5 mlrd so‘m.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Kamida 10 ta kompyuter/ishchi stansiya va kamida 3 turdagi loyihalash va smeta dasturlari talab qilinadi (15 ball).",
+   "summary_en": "At least 10 computers or workstations and at least 3 types of design and estimating software are required (15 points).",
+   "quote": "kompyuter va ishchi stansiyalar — kamida 10 ta, maxsus loyihalash va smeta dasturiy ta’minoti — kamida 3 turdagi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "delivery",
+   "summary_uz": "Hujjatlar shartnoma imzolangan kundan 60 kun ichida topshiriladi.",
+   "summary_en": "The documents are due within 60 days of signing the contract.",
+   "quote": "Shaгtno111a i111zolangan kundan boshlab 60 kun ichida.",
+   "page": 5,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_experience",
+   "severity": "medium",
+   "quote": "kamida 3 (uch) ta shartnoma mavjud bo‘lishi lozim, bunda har bir shartnomaning qiymati Tanlovning boshlang‘ich qiymatining kamida 30 foizini tashkil etishi kerak",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Mezon 3 uchun 100 balldan 30 ball beriladi va talab: so'nggi 5 yilda kamida 3 ta shartnoma, har biri kamida 720 mln so'm (lot narxi 2,4 mlrd so'mning 30 foizi), jami kamida 2,16 mlrd so'm. O'tish bali 70 bo'lgani uchun bu ballsiz boshqa mezonlarda to'liq ball olish kerak bo'ladi, shuning uchun talab amalda majburiy bo'lib qolishi va kichikroq, lekin malakali loyiha tashkilotlarini chetlashi mumkin. Obyekt yirik (taxminiy qiymati 37 mlrd so'm), shuning uchun sabab bo'lishi mumkin; tekshirib ko'rish tavsiya etiladi.",
+   "explanation_en": "Criterion 3 carries 30 of 100 points and requires at least 3 contracts in the last 5 years, each of at least 720 million UZS (30 percent of the 2.4 billion UZS lot price, so at least 2.16 billion UZS in total). With a pass mark of 70, a bidder without it must score full marks on every other criterion, so the clause is effectively mandatory and may shut out smaller but capable design firms. The facility is large (about 37 billion UZS), so a reason is conceivable, but it is worth checking.",
+   "rewrite_uz": "So'nggi 5 yilda o'xshash murakkablikdagi kamida 2 ta tugallangan loyihalash shartnomasi, har biri boshlang'ich narxning kamida 10 foizi miqdorida; ballar tajriba hajmiga mutanosib ravishda beriladi.",
+   "rewrite_en": "At least 2 completed design contracts of comparable complexity in the last 5 years, each worth at least 10 percent of the start price; points are awarded in proportion to the volume of experience.",
+   "type_label_uz": "Lot hajmiga nomutanosib tajriba yoki resurs talabi",
+   "type_label_en": "Experience or resource demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "So‘nggi 3 yil uchun o‘rtacha yillik aylanma — kamida 5 mlrd so‘m. Joriy likvidlik koeffitsiyenti — kamida 1,0. O‘z kapitali (Net Worth) — kamida 5 mlrd so‘m.",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Mezon 4 (15 ball) o'rtacha yillik aylanma kamida 5 mlrd so'm va o'z kapitali kamida 5 mlrd so'm talab qiladi; bu lot boshlang'ich narxi (2,4 mlrd so'm)dan taxminan 2,1 baravar ko'p. 60 kunlik loyihalash xizmati va 30 foiz avans sharoitida bunday moliyaviy ko'rsatkichlar kichik va o'rta loyiha tashkilotlarini ballsiz qoldirishi mumkin.",
+   "explanation_en": "Criterion 4 (15 points) asks for average annual turnover of at least 5 billion UZS and net worth of at least 5 billion UZS, about 2.1 times the lot start price of 2.4 billion UZS. For a design service with a 60-day term and a 30 percent advance, this may leave small and mid-sized design firms without these 15 points.",
+   "rewrite_uz": "So'nggi 3 yil uchun o'rtacha yillik aylanma lot boshlang'ich narxidan kam bo'lmasligi; joriy likvidlik koeffitsiyenti kamida 1,0.",
+   "rewrite_en": "Average annual turnover over the last 3 years of not less than the lot start price; current liquidity ratio of at least 1.0.",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "unrealistic_deadline",
+   "severity": "low",
+   "quote": "Shaгtno111a i111zolangan kundan boshlab 60 kun ichida.",
+   "page": 5,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ishchi loyiha texnik tekshiruv, gidrologik hisob-kitoblar, 4,5 km dan ortiq qirg'oq uchun smeta va kelishuvlarni o'z ichiga oladi, muddat esa 60 kun. Shuningdek, lot sarlavhasida muddat 60 oy deb ko'rsatilgan, hujjatda esa 60 kun; bu farqni aniqlashtirish kerak.",
+   "explanation_en": "The working design covers technical surveys, hydrological calculations, estimates and approvals for more than 4.5 km of riverbank, and the term is 60 days. The lot header shows the term as 60 months while the document says 60 days, which is worth clarifying.",
+   "rewrite_uz": "Ishchi loyiha hujjatlari shartnoma imzolangan kundan boshlab ... kun ichida topshiriladi (muddat izlanish va kelishuv hajmiga qarab aniqlashtirilsin).",
+   "rewrite_en": "The working design documents are due within ... days of signing the contract (the term to be set in line with the volume of surveys and approvals).",
+   "type_label_uz": "Bajarish qiyin bo'lgan muddat",
+   "type_label_en": "Deadline that is hard to meet",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 45,
+ "traffic_light": "red",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 50,
+  "history_penalty": 5.2,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Lot hajmiga nomutanosib tajriba yoki resurs talabi (platformadagi mezonlar): Mezon 3 uchun 100 balldan 30 ball beriladi va talab: so'nggi 5 yilda kamida 3 ta shartnoma, har biri kamida 720 mln so'm (lot narxi 2,4 mlrd so'mning 30 foizi), jami kamida 2,16 mlrd so'm. O'tish bali 70 bo'lgani uchun bu ballsiz boshqa mezonlarda to'liq ball olish kerak bo'ladi, shuning uchun talab amalda majburiy bo'lib qolishi va kichikroq, lekin malakali loyiha tashkilotlarini chetlashi mumkin. Obyekt yirik (taxminiy qiymati 37 mlrd so'm), shuning uchun sabab bo'lishi mumkin; tekshirib ko'rish tavsiya etiladi.",
+   "Lot hajmiga nomutanosib moliyaviy talab (platformadagi mezonlar): Mezon 4 (15 ball) o'rtacha yillik aylanma kamida 5 mlrd so'm va o'z kapitali kamida 5 mlrd so'm talab qiladi; bu lot boshlang'ich narxi (2,4 mlrd so'm)dan taxminan 2,1 baravar ko'p. 60 kunlik loyihalash xizmati va 30 foiz avans sharoitida bunday moliyaviy ko'rsatkichlar kichik va o'rta loyiha tashkilotlarini ballsiz qoldirishi mumkin.",
+   "Bajarish qiyin bo'lgan muddat (5-bet): Ishchi loyiha texnik tekshiruv, gidrologik hisob-kitoblar, 4,5 km dan ortiq qirg'oq uchun smeta va kelishuvlarni o'z ichiga oladi, muddat esa 60 kun. Shuningdek, lot sarlavhasida muddat 60 oy deb ko'rsatilgan, hujjatda esa 60 kun; bu farqni aniqlashtirish kerak.",
+   "Buyurtmachining so'nggi 42 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 55% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 12%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 523367).",
+   "Tushuntirish so'rash muddati: 18.11.2026 17:49."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Experience or resource demand out of proportion to the lot (platform criteria form): Criterion 3 carries 30 of 100 points and requires at least 3 contracts in the last 5 years, each of at least 720 million UZS (30 percent of the 2.4 billion UZS lot price, so at least 2.16 billion UZS in total). With a pass mark of 70, a bidder without it must score full marks on every other criterion, so the clause is effectively mandatory and may shut out smaller but capable design firms. The facility is large (about 37 billion UZS), so a reason is conceivable, but it is worth checking.",
+   "Financial demand out of proportion to the lot (platform criteria form): Criterion 4 (15 points) asks for average annual turnover of at least 5 billion UZS and net worth of at least 5 billion UZS, about 2.1 times the lot start price of 2.4 billion UZS. For a design service with a 60-day term and a 30 percent advance, this may leave small and mid-sized design firms without these 15 points.",
+   "Deadline that is hard to meet (page 5): The working design covers technical surveys, hydrological calculations, estimates and approvals for more than 4.5 km of riverbank, and the term is 60 days. The lot header shows the term as 60 months while the document says 60 days, which is worth clarifying.",
+   "In the customer's last 42 deals the median number of bidders was 2; 55% of deals had two or fewer bidders; the most frequent winner took 12%.",
+   "This lot was re-announced (previous lot: 523367).",
+   "Clarification requests are accepted until 18.11.2026 17:49."
+  ]
+ },
+ "documents_needed_uz": [
+  "Loyihani bajarish bo'yicha kafolat xati (60 kundan oshmaydigan muddat)",
+  "Malakali muhandis-texnik xodimlar ro'yxati, ularning ma'lumoti va tajribasini tasdiqlovchi hujjatlar",
+  "So'nggi 5 yildagi tugallangan shartnomalar va bajarilgan ishlar dalolatnomalari",
+  "Moliyaviy hisobotlar (buxgalteriya balansi), aylanma va o'z kapitalini tasdiqlovchi hujjatlar",
+  "Kompyuter texnikasi va dasturiy ta'minot mavjudligini tasdiqlovchi hujjatlar",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi",
+  "Soliq va yig'imlar bo'yicha qarzdorlik yo'qligi haqida hujjat",
+  "Bankrotlik tartib-taomillari yo'qligi haqida ma'lumotnoma",
+  "Insofsiz ijrochilar reyestrida yo'qligi haqida hujjat",
+  "Majburiy ijro byurosi bo'yicha qarzi yo'qligi haqida ma'lumotnoma",
+  "Joriy buyurtmachi bilan shartnomalar bo'yicha sud ishlari yo'qligi haqida ma'lumot",
+  "Xarid jarayonida qoidabuzarliklarga yo'l qo'ymaslik haqidagi ariza",
+  "Taklif ta'minoti (0,5 foiz)",
+  "Согласно отборочному документу"
+ ],
+ "clarification_letter_uz": "Kimga: GIDROQURILISH BUYURTMACHI XIZMATI MCHJ, xarid komissiyasiga\nLot raqami: 26120012524953\nXarid predmeti: “Surxondaryo viloyati Sariosiyo tumanida To‘palang daryosining yuvilgan uchastkalarida qirg‘oqni mustahkamlash ishlari loyihasi” obyekti bo‘yicha loyiha-smeta hujjatlarini ishlab chiqish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «kamida 3 (uch) ta shartnoma mavjud bo‘lishi lozim, bunda har bir shartnomaning qiymati Tanlovning boshlang‘ich qiymatining kamida 30 foizini tashkil etishi kerak»\n   Savolimiz: Mezon 3 uchun 100 balldan 30 ball beriladi va talab: so'nggi 5 yilda kamida 3 ta shartnoma, har biri kamida 720 mln so'm (lot narxi 2,4 mlrd so'mning 30 foizi), jami kamida 2,16 mlrd so'm. O'tish bali 70 bo'lgani uchun bu ballsiz boshqa mezonlarda to'liq ball olish kerak bo'ladi, shuning uchun talab amalda majburiy bo'lib qolishi va kichikroq, lekin malakali loyiha tashkilotlarini chetlashi mumkin. Obyekt yirik (taxminiy qiymati 37 mlrd so'm), shuning uchun sabab bo'lishi mumkin; tekshirib ko'rish tavsiya etiladi.\n   Taklif etilayotgan tahrir: So'nggi 5 yilda o'xshash murakkablikdagi kamida 2 ta tugallangan loyihalash shartnomasi, har biri boshlang'ich narxning kamida 10 foizi miqdorida; ballar tajriba hajmiga mutanosib ravishda beriladi.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «So‘nggi 3 yil uchun o‘rtacha yillik aylanma — kamida 5 mlrd so‘m. Joriy likvidlik koeffitsiyenti — kamida 1,0. O‘z kapitali (Net Worth) — kamida 5 mlrd so‘m.»\n   Savolimiz: Mezon 4 (15 ball) o'rtacha yillik aylanma kamida 5 mlrd so'm va o'z kapitali kamida 5 mlrd so'm talab qiladi; bu lot boshlang'ich narxi (2,4 mlrd so'm)dan taxminan 2,1 baravar ko'p. 60 kunlik loyihalash xizmati va 30 foiz avans sharoitida bunday moliyaviy ko'rsatkichlar kichik va o'rta loyiha tashkilotlarini ballsiz qoldirishi mumkin.\n   Taklif etilayotgan tahrir: So'nggi 3 yil uchun o'rtacha yillik aylanma lot boshlang'ich narxidan kam bo'lmasligi; joriy likvidlik koeffitsiyenti kamida 1,0.\n\n3. Texnik topshiriq, 5-bet.\n   Hujjatdagi matn: «Shaгtno111a i111zolangan kundan boshlab 60 kun ichida.»\n   Savolimiz: Ishchi loyiha texnik tekshiruv, gidrologik hisob-kitoblar, 4,5 km dan ortiq qirg'oq uchun smeta va kelishuvlarni o'z ichiga oladi, muddat esa 60 kun. Shuningdek, lot sarlavhasida muddat 60 oy deb ko'rsatilgan, hujjatda esa 60 kun; bu farqni aniqlashtirish kerak.\n   Taklif etilayotgan tahrir: Ishchi loyiha hujjatlari shartnoma imzolangan kundan boshlab ... kun ichida topshiriladi (muddat izlanish va kelishuv hajmiga qarab aniqlashtirilsin).\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 17:49) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 42,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.5476,
+  "top_winner_share": 0.119,
+  "share_price_drop_lt1pct": 0.381,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 327360000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

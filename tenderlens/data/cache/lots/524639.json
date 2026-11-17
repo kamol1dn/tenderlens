@@ -1,0 +1,212 @@
+{
+ "lot_id": 524639,
+ "display_no": "26110012524639",
+ "title": "Binolarning fasad qismini tozalash va yuvish",
+ "url": "https://etender.uzex.uz/lot/524639",
+ "customer": {
+  "name": "Ўзбекистон Республикаси Президенти Администрацияси Маъмурий биноларга хизмат кўрсатиш бошкармаси",
+  "tin": "205391004"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 90000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T10:59:51",
+ "end_date": "2026-11-20T10:59:51",
+ "clarific_date": "2026-11-20T10:59:51",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 15,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524639.pdf",
+  "pages": 8,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Ma'muriy bino fasadining shisha va oynalarini yuvish va tozalash xizmati (7500 kv.m)",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "Budjet",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "qualification",
+   "summary_uz": "Maxsus hududlarda ish olib borish uchun ruxsatnoma talab qilinadi va u 25 ball bilan baholanadi.",
+   "summary_en": "A permit to work in special (restricted) areas is required and is scored at 25 points.",
+   "quote": "Maxsus xududlarda ish olib borish uchun ruxsatnoma",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Ishtirokchining moliyaviy ahvoli 1 yillik bank aylanmasi bilan tasdiqlanadi (25 ball).",
+   "summary_en": "Financial standing is shown by one year of bank turnover (25 points).",
+   "quote": "1 йиллик банк айланмаси",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Kamida 5 birlik mexanizatsiya vositalari ro'yxati talab qilinadi (25 ball).",
+   "summary_en": "A list of at least 5 units of mechanisation equipment is required (25 points).",
+   "quote": "5 бирликдан кам бўлмаган механизация воситалари рўйхати",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Tanlov obyektiga o'xshash obyektlarda ishlash tajribasi talab qilinadi.",
+   "summary_en": "Experience on objects similar to the subject of the tender is required.",
+   "quote": "o‘xshash ob'ektlarda ishlash tajribasining mavjudligi",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Ijrochi qurilish narvoni, yuvish mashinalari, vositalari va anjomlari bilan o'zi jihozlanishi kerak.",
+   "summary_en": "The contractor must bring its own ladders, washing machines, detergents and tools.",
+   "quote": "kerakli (barcha jixozlar, ya'ni kurilish narvoni, yuvish",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Asosiy shisha fasad bo'limlarini yuvish va tozalash (jami 7500 kv.m, shu jumladan oynalar 1290 kv.m).",
+   "summary_en": "Washing and cleaning of main glass facade sections (7,500 sq m in total, including 1,290 sq m of windows).",
+   "quote": "Shisha oynali fasadni yuvish va tozalash (asosiy ustki qismi) Ma'muriyat",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "delivery",
+   "summary_uz": "Xizmat kunning istalgan vaqtida, dam olish va bayram kunlari ham ko'rsatilishi mumkin.",
+   "summary_en": "Services may have to be delivered at any time, including weekends, holidays and outside working hours.",
+   "quote": "olish kunlari va bayram kunlari, ish vaqtidan tashqari",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Xizmat muddati shartnoma imzolangandan 2026-yil 31-dekabrgacha.",
+   "summary_en": "Service period runs from contract signature until 31 December 2026.",
+   "quote": "shartnoma imzolangan vaqtdan boshtab 31 dekabr 2026 yilgacha",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "payment",
+   "summary_uz": "Shartnoma qiymatining 30 foizi avans, qolgan 70 foizi shartnoma shartlariga muvofiq to'lanadi.",
+   "summary_en": "30% of the contract value is paid in advance, the remaining 70% per contract terms.",
+   "quote": "30 %, qolgan 70 % shartnoma shartlariga muvofiq amalga oshiriladi",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Xizmat ko'rsatuvchi mahsulot namunasini buyurtmachiga tasdiqlatishi shart.",
+   "summary_en": "The provider must have a product sample approved by the customer.",
+   "quote": "Xizmat ko‘rsatuvchi tashkilot maxsulot na'munasini buyurtmachi tomonidan tasdiqlatishi",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Talablar bo'yicha kamchilik topilsa 0-25 ball beriladi va 0 ball olgan ishtirokchi lotdan chetlatiladi.",
+   "summary_en": "Where defects are found in the documents, 0-25 points are given and a bidder with 0 points is removed from the lot.",
+   "quote": "0 ball olgan ishtirokchi lotdan chetlatiladi",
+   "page": 8,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 96,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 4.3,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 36 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 53% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 17%."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 36 deals the median number of bidders was 2; 53% of deals had two or fewer bidders; the most frequent winner took 17%."
+  ]
+ },
+ "documents_needed_uz": [
+  "Maxsus hududlarda ish olib borish uchun ruxsatnoma",
+  "1 yillik bank aylanmasi haqida ma'lumot",
+  "Kamida 5 birlik mexanizatsiya vositalari ro'yxati",
+  "Soliq organlaridan va bankdagi kartotekada yo'qligi haqida ma'lumotnoma",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+  "Tanlov hujjati shakllari bo'yicha texnik va narx taklifi",
+  "Maxsus xududlarda ish olib borish uchun ruxsatnoma",
+  "1 йиллик банк айланмаси",
+  "5 бирликдан кам бўлмаган механизация воситалари рўйхати"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 36,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.5278,
+  "top_winner_share": 0.1667,
+  "share_price_drop_lt1pct": 0.1667,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 12276000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,326 @@
+{
+ "lot_id": 515301,
+ "display_no": "26120012515301",
+ "title": "“UMS” MChJ kompaniyasining korporativ ma’lumotlarni saqlash axborot tizimi va hisobotlarini avtomatlashtirish uchun tahliliy platformani xarid qilish",
+ "url": "https://etender.uzex.uz/lot/515301",
+ "customer": {
+  "name": "UNIVERSAL MOBILE SYSTEMS MCHJ",
+  "tin": "303020732"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 10752000000.0,
+ "currency": "UZS",
+ "start_date": "2026-10-09T14:45:44",
+ "end_date": "2026-11-20T18:25:10",
+ "clarific_date": "2026-11-20T18:25:10",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 60.0,
+  "cost_coef": 40.0,
+  "min_point": 90,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 50.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 34.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 4.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ходимларни ўқитиш бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/515301.rar",
+  "pages": 27,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": []
+ },
+ "subject_uz": "UMS MChJ uchun korporativ ma'lumotlar ombori va hisobotlarni avtomatlashtirish uchun tahliliy platforma (litsenziya, joriy etish va o'qitish)",
+ "sector": "it",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "O‘z mablag‘lari/Собственные средства",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Korporativ ma'lumotlarni saqlash axborot tizimi va tahliliy platforma xarid qilinadi, joriy etish xizmatlari bilan birga.",
+   "summary_en": "A corporate data warehouse and analytics platform is bought together with implementation services.",
+   "quote": "korporativ ma’lumotlarni saqlash axborot tizimi va hisobotlarini avtomatlashtirish uchun tahliliy platformani xarid qilish",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "1-mezon (50 ball): to'ldirilgan muvofiqlik jadvali (SoC); bitta majburiy talabga ham mos kelmaslik diskvalifikatsiyaga olib keladi.",
+   "summary_en": "Criterion 1 (50 points): completed SoC compliance table; failing even one mandatory requirement means disqualification.",
+   "quote": "Ishtirokchi to‘liq to‘ldirilgan muvofiqlik jadvalini (texnik topshiriqqa 1-ilova SoC jadvali) taqdim etishi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "2-mezon (34 ball): 17 ta majburiy bo'lmagan talabning har biriga mos kelish uchun 2 ball.",
+   "summary_en": "Criterion 2 (34 points): 2 points for each of the 17 non-mandatory requirements met.",
+   "quote": "Majburiy bo‘lmagan har bir talabga muvofiqlik - 2 ball bilan baholanadi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "3-mezon (4 ball): texnik qo'llab-quvvatlash va SLA talablariga muvofiqlik kafolat xati bilan tasdiqlanadi.",
+   "summary_en": "Criterion 3 (4 points): compliance with the technical support and SLA requirements confirmed by a guarantee letter.",
+   "quote": "Texnik topshiriqning 7.2.2.-bo‘limida ko‘rsatilgan texnik qo‘llab-quvvatlash darajasi va SLA bo‘yicha barcha talablarga muvofiqligini tasdiqlovchi kafolat xati",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "4-mezon (5 ball): ma'lumotlar bazasi (MBBT) vendori sertifikatlashtirish markazining texnik mutaxassislar sertifikatlari; har bir mutaxassisga 1 ta sertifikat, 5 va undan ko'pi 5 ball.",
+   "summary_en": "Criterion 4 (5 points): current certificates of technical specialists from the DBMS vendor's certification centre; one certificate per specialist, 5 or more give 5 points.",
+   "quote": "MBBT vendorining sertifikatlashtirish markazidan texnik mutaxassislarning amaldagi sertifikatlarini skanerlash",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "5-mezon (2 ball): MBBT ishlab chiqaruvchisidan avtorizatsiya xati majburiy, bo'lmasa ishtirokchi diskvalifikatsiya qilinadi.",
+   "summary_en": "Criterion 5 (2 points): an authorisation letter from the DBMS manufacturer is mandatory; without it the bidder is disqualified.",
+   "quote": "Ishtirokchi quyidagilarni taqdim etishi shart: - MBBT ishlab chiqaruvchisidan avtorizatsiya xati",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "technical",
+   "summary_uz": "6-mezon (5 ball): yetkazib beriladigan dasturiy ta'minot ro'yxati ko'rsatilgan narxsiz texnik taklif (spetsifikatsiya).",
+   "summary_en": "Criterion 6 (5 points): technical offer listing the software to be supplied, without prices.",
+   "quote": "Texnik topshiriqqa 2-ilovaga muvofiq yetkazib beriladigan dasturiy ta’minot ro‘yxati ko‘rsatilgan texnik taklif (narxlar ko‘rsatilmagan spetsifikatsiya)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Malaka: kafolat xati (4-ilova) va bankdan xat (5-ilova) taqdim etiladi; bank xati va soliq ma'lumotnomasi sanasiga 30 kunlik cheklov qo'yilgan.",
+   "summary_en": "Qualification: a guarantee letter (annex 4) and a bank letter (annex 5); dating limits of 30 days apply to the bank letter and tax certificate.",
+   "quote": "Bankdan xat – 5-ilova shakli bo‘yicha",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Ishbilarmonlik obro'si taqdim etilgan o'xshash xizmatlar ro'yxati bo'yicha baholanadi; taqdim etilmasa ishtirokchi chetlatiladi.",
+   "summary_en": "Business reputation is assessed from a list of similar services; failing to provide it means exclusion.",
+   "quote": "Baholash taqdim etilgan o‘xshash xizmatlar ro‘yxatiga muvofiq amalga oshiriladi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "payment",
+   "summary_uz": "Dasturiy ta'minot narxining 15% miqdorida avans; 85% joriy etish dalolatnomasi imzolangandan keyin 10 ish kuni ichida (lot summasi 10,752 mlrd so'm).",
+   "summary_en": "15% advance; the remaining 85% within 10 working days after the implementation act is signed (lot value 10.752 billion UZS).",
+   "quote": "ushbu Shartnoma umumiy qiymatining 15 foizi miqdoridagi bo‘nak to‘lovi",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "delivery",
+   "summary_uz": "Bosqichlar: ishlab chiqish va sozlash 2 oy, test 1 oy, tayyorgarlik 1 oy, sanoat ekspluatatsiyasiga kiritish 1 kun.",
+   "summary_en": "Phases: development and configuration 2 months, testing 1 month, preparation 1 month, go-live 1 day.",
+   "quote": "Тестирование ИС (длительность 1 календарный месяц)",
+   "page": 24,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "other",
+   "summary_uz": "Kafolat muddati 12 oy, shu davrda texnik qo'llab-quvvatlash ta'minlanadi.",
+   "summary_en": "Warranty period of 12 months with technical support during that time.",
+   "quote": "Kafolat muddati davomida (12 oy) texnik qo‘llab-quvvatlashni ta’minlash.",
+   "page": 12,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "Majburiy bo‘lmagan talabga javob bermasa, ishtirokchi - 0 ball oladi.",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Texnik mezonlar jami 100 ball (50+34+4+5+2+5), o'tish bali esa 90, ya'ni atigi 10 ball yo'qotish mumkin. «Majburiy bo'lmagan» 17 talabdan har biri 2 ball turadi, shuning uchun 17 tadan 12 tasiga javob bera olgan (24 ball, 10 ball yo'qotilgan) ishtirokchi chegarada, 3 tadan ko'p talab (6 ball) va MBBT sertifikatlarining bo'lmasligi (5 ball) birga bo'lsa o'tolmaydi. Amalda ixtiyoriy talablar majburiy kabi ishlaydi.",
+   "explanation_en": "The technical criteria total 100 points (50+34+4+5+2+5) and the pass mark is 90, so only 10 points can be lost. Each of the 17 'non-mandatory' requirements is worth 2 points, so missing 3 of them (6 points) together with having no vendor-certified specialists (5 points) already falls below the pass mark. In practice the optional requirements work like mandatory ones.",
+   "rewrite_uz": "O'tish balini ixtiyoriy talablarni hisobga olmagan holda, faqat majburiy talablar bo'yicha belgilang yoki o'tish balini texnik ballarning ancha past ulushida (masalan, majburiy talablar uchun beriladigan 50 ball) belgilang.",
+   "rewrite_en": "Set the pass mark on the mandatory requirements only, or at a materially lower share of the technical points (for example the 50 points given for mandatory requirements), so optional items do not act as exclusion criteria.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "dealer_letter",
+   "severity": "medium",
+   "quote": "Ishtirokchi quyidagilarni taqdim etishi shart: - MBBT ishlab chiqaruvchisidan avtorizatsiya xati",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Ma'lumotlar bazasi dasturi ishlab chiqaruvchisining avtorizatsiya xati majburiy, uni bermagan ishtirokchi diskvalifikatsiya qilinadi (mezon 2 ball, lekin chetlatish shart). Ishlab chiqaruvchi xat bermasa yoki rasmiy hamkorlar soni kam bo'lsa, boshqa qobiliyatli ishtirokchilar qatnasha olmasligi mumkin.",
+   "explanation_en": "An authorisation letter from the database software manufacturer is mandatory and a bidder without it is disqualified (the criterion is worth 2 points, but exclusion applies). If the manufacturer issues few letters, other capable bidders may be unable to take part.",
+   "rewrite_uz": "Avtorizatsiya xati o'rniga ishtirokchi taklif etilayotgan dasturiy ta'minotni qonuniy yetkazib bera olishini tasdiqlovchi har qanday hujjatni (ishlab chiqaruvchi, distribyutor yoki rasmiy hamkor xati, litsenziya shartnomasi) taqdim etishi mumkin.",
+   "rewrite_en": "Instead of requiring a manufacturer letter, accept any document showing the bidder can lawfully supply the software (manufacturer, distributor or partner letter, or a licence agreement).",
+   "type_label_uz": "Ishlab chiqaruvchi yoki diler xati talabi",
+   "type_label_en": "Manufacturer or dealer letter required",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "other",
+   "severity": "low",
+   "quote": "MBBT vendorining sertifikatlashtirish markazidan texnik mutaxassislarning amaldagi sertifikatlarini skanerlash",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "4-mezonda 5 ball faqat bitta ma'lumotlar bazasi vendorining sertifikatlariga bog'liq, bunda har bir mutaxassis uchun bitta sertifikat sanaladi va 5 ta sertifikat kerak. Boshqa tegishli sertifikatlarga yoki tajribaga ega jamoalar bu ballni ololmaydi, 90 ballik o'tish bali bilan birga bu ahamiyatli bo'lishi mumkin.",
+   "explanation_en": "Criterion 4 ties 5 points to the certificates of a single database vendor, counting one certificate per specialist and needing five for the full score. Teams with other relevant certificates or experience cannot earn these points, which matters more given the 90-point pass mark.",
+   "rewrite_uz": "Mutaxassislarning taklif etilayotgan platformaga tegishli vendor sertifikatlari yoki ma'lumotlar ombori va ETL bo'yicha teng darajadagi sertifikatlari yoki loyihalardagi tasdiqlangan tajribasi qabul qilinadi.",
+   "rewrite_en": "Accept specialists' vendor certificates for the proposed platform or equivalent certificates or documented project experience in data warehousing and ETL.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f4",
+   "type": "other",
+   "severity": "medium",
+   "quote": "bunda ma’lumotnoma berilgan sana takliflar berish muddati tugashidan kamida 30 kun oldin bo‘lishi kerak",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Soliq ma'lumotnomasi takliflar muddati tugashidan «kamida 30 kun oldin» berilgan bo'lishi kerak deyiladi (ya'ni 20-noyabrdan kamida 30 kun oldin), bank xati bandida esa shu muddat «30 kundan eski bo'lmasligi» deb yozilgan, bu qarama-qarshi ma'no. Noaniq yozuv tufayli to'g'ri hujjat taqdim etgan ishtirokchi malaka bosqichida chetlatilishi mumkin.",
+   "explanation_en": "The tax certificate must be issued 'at least 30 days before' the bid deadline (i.e. at least 30 days before 20 November), while the bank letter clause says the same period means 'not older than 30 days', which is the opposite. Because of this ambiguity a bidder with a correct document could be excluded at the qualification stage.",
+   "rewrite_uz": "Ma'lumotnoma va bank xati takliflar berish muddati tugashidan oldingi 30 kun ichida (30 kundan eski bo'lmagan) berilgan bo'lishi kerak.",
+   "rewrite_en": "The tax certificate and bank letter must be issued within the 30 days before the bid deadline (not older than 30 days).",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 26,
+ "traffic_light": "red",
+ "finding_count": 4,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 72,
+  "history_penalty": 2.5,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): Texnik mezonlar jami 100 ball (50+34+4+5+2+5), o'tish bali esa 90, ya'ni atigi 10 ball yo'qotish mumkin. «Majburiy bo'lmagan» 17 talabdan har biri 2 ball turadi, shuning uchun 17 tadan 12 tasiga javob bera olgan (24 ball, 10 ball yo'qotilgan) ishtirokchi chegarada, 3 tadan ko'p talab (6 ball) va MBBT sertifikatlarining bo'lmasligi (5 ball) birga bo'lsa o'tolmaydi. Amalda ixtiyoriy talablar majburiy kabi ishlaydi.",
+   "Ishlab chiqaruvchi yoki diler xati talabi (platformadagi mezonlar): Ma'lumotlar bazasi dasturi ishlab chiqaruvchisining avtorizatsiya xati majburiy, uni bermagan ishtirokchi diskvalifikatsiya qilinadi (mezon 2 ball, lekin chetlatish shart). Ishlab chiqaruvchi xat bermasa yoki rasmiy hamkorlar soni kam bo'lsa, boshqa qobiliyatli ishtirokchilar qatnasha olmasligi mumkin.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): 4-mezonda 5 ball faqat bitta ma'lumotlar bazasi vendorining sertifikatlariga bog'liq, bunda har bir mutaxassis uchun bitta sertifikat sanaladi va 5 ta sertifikat kerak. Boshqa tegishli sertifikatlarga yoki tajribaga ega jamoalar bu ballni ololmaydi, 90 ballik o'tish bali bilan birga bu ahamiyatli bo'lishi mumkin.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): Soliq ma'lumotnomasi takliflar muddati tugashidan «kamida 30 kun oldin» berilgan bo'lishi kerak deyiladi (ya'ni 20-noyabrdan kamida 30 kun oldin), bank xati bandida esa shu muddat «30 kundan eski bo'lmasligi» deb yozilgan, bu qarama-qarshi ma'no. Noaniq yozuv tufayli to'g'ri hujjat taqdim etgan ishtirokchi malaka bosqichida chetlatilishi mumkin.",
+   "Buyurtmachining so'nggi 187 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 36% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 6%.",
+   "Tushuntirish so'rash muddati: 20.11.2026 18:25."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Other clause that may limit competition (platform criteria form): The technical criteria total 100 points (50+34+4+5+2+5) and the pass mark is 90, so only 10 points can be lost. Each of the 17 'non-mandatory' requirements is worth 2 points, so missing 3 of them (6 points) together with having no vendor-certified specialists (5 points) already falls below the pass mark. In practice the optional requirements work like mandatory ones.",
+   "Manufacturer or dealer letter required (platform criteria form): An authorisation letter from the database software manufacturer is mandatory and a bidder without it is disqualified (the criterion is worth 2 points, but exclusion applies). If the manufacturer issues few letters, other capable bidders may be unable to take part.",
+   "Other clause that may limit competition (platform criteria form): Criterion 4 ties 5 points to the certificates of a single database vendor, counting one certificate per specialist and needing five for the full score. Teams with other relevant certificates or experience cannot earn these points, which matters more given the 90-point pass mark.",
+   "Other clause that may limit competition (platform criteria form): The tax certificate must be issued 'at least 30 days before' the bid deadline (i.e. at least 30 days before 20 November), while the bank letter clause says the same period means 'not older than 30 days', which is the opposite. Because of this ambiguity a bidder with a correct document could be excluded at the qualification stage.",
+   "In the customer's last 187 deals the median number of bidders was 3; 36% of deals had two or fewer bidders; the most frequent winner took 6%.",
+   "Clarification requests are accepted until 20.11.2026 18:25."
+  ]
+ },
+ "documents_needed_uz": [
+  "To'ldirilgan muvofiqlik jadvali (SoC) .xlsx va .pdf formatida, imzo va muhr bilan",
+  "SoC bo'yicha tasdiqlovchi ma'lumotlar (mahsulot tavsifi, hujjatlarga havolalar)",
+  "Texnik qo'llab-quvvatlash va SLA bo'yicha kafolat xati",
+  "MBBT vendorining sertifikatlashtirish markazidan texnik mutaxassislarning amaldagi sertifikatlari",
+  "MBBT ishlab chiqaruvchisidan avtorizatsiya xati",
+  "Yetkazib beriladigan dasturiy ta'minot ro'yxati ko'rsatilgan texnik taklif (narxsiz spetsifikatsiya)",
+  "Kafolat xati (4-ilova shakli)",
+  "Bankdan xat (5-ilova shakli)",
+  "Ishtirokchi to'g'risida umumiy ma'lumot (1-ilova shakli)",
+  "Soliq organining qarzdorlik yo'qligi haqida amaldagi ma'lumotnomasi",
+  "Kafolat xati (2-ilova shakli): bankrotlik, insofsiz ijrochilar reyestri, manfaatlar to'qnashuvi va offshor hududlar bo'yicha",
+  "Majburiy ijro byurosi rasmiy saytidan skrinshot",
+  "3-ilova shaklidagi ariza",
+  "O'xshash xizmatlar ro'yxati (ishbilarmonlik obro'si)",
+  "To‘ldirilgan muvofiqlik jadvali (SoC) va tasdiqlovchi ma’lumotlar",
+  "To‘ldirilgan muvofiqlik jadvali (SoC) va tasdiqlovchi ma’lumotlar/ Заполненная таблица соответствия (SoC) и подтверждающая информация",
+  "Kafolat xati/ Гарантийное письмо",
+  "Sertifikatlangan mutaxassislarining sertifikatlari; / Действующие Сертификаты сертифицированных специалистов",
+  "Avtorizatsiya xati/Авторизационное письмо",
+  "- Texnik taklif (Spetsifikatsiya);/ - Техническое предложение (Спецификация)"
+ ],
+ "clarification_letter_uz": "Kimga: UNIVERSAL MOBILE SYSTEMS MCHJ, xarid komissiyasiga\nLot raqami: 26120012515301\nXarid predmeti: “UMS” MChJ kompaniyasining korporativ ma’lumotlarni saqlash axborot tizimi va hisobotlarini avtomatlashtirish uchun tahliliy platformani xarid qilish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Majburiy bo‘lmagan talabga javob bermasa, ishtirokchi - 0 ball oladi.»\n   Savolimiz: Texnik mezonlar jami 100 ball (50+34+4+5+2+5), o'tish bali esa 90, ya'ni atigi 10 ball yo'qotish mumkin. «Majburiy bo'lmagan» 17 talabdan har biri 2 ball turadi, shuning uchun 17 tadan 12 tasiga javob bera olgan (24 ball, 10 ball yo'qotilgan) ishtirokchi chegarada, 3 tadan ko'p talab (6 ball) va MBBT sertifikatlarining bo'lmasligi (5 ball) birga bo'lsa o'tolmaydi. Amalda ixtiyoriy talablar majburiy kabi ishlaydi.\n   Taklif etilayotgan tahrir: O'tish balini ixtiyoriy talablarni hisobga olmagan holda, faqat majburiy talablar bo'yicha belgilang yoki o'tish balini texnik ballarning ancha past ulushida (masalan, majburiy talablar uchun beriladigan 50 ball) belgilang.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Ishtirokchi quyidagilarni taqdim etishi shart: - MBBT ishlab chiqaruvchisidan avtorizatsiya xati»\n   Savolimiz: Ma'lumotlar bazasi dasturi ishlab chiqaruvchisining avtorizatsiya xati majburiy, uni bermagan ishtirokchi diskvalifikatsiya qilinadi (mezon 2 ball, lekin chetlatish shart). Ishlab chiqaruvchi xat bermasa yoki rasmiy hamkorlar soni kam bo'lsa, boshqa qobiliyatli ishtirokchilar qatnasha olmasligi mumkin.\n   Taklif etilayotgan tahrir: Avtorizatsiya xati o'rniga ishtirokchi taklif etilayotgan dasturiy ta'minotni qonuniy yetkazib bera olishini tasdiqlovchi har qanday hujjatni (ishlab chiqaruvchi, distribyutor yoki rasmiy hamkor xati, litsenziya shartnomasi) taqdim etishi mumkin.\n\n3. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «MBBT vendorining sertifikatlashtirish markazidan texnik mutaxassislarning amaldagi sertifikatlarini skanerlash»\n   Savolimiz: 4-mezonda 5 ball faqat bitta ma'lumotlar bazasi vendorining sertifikatlariga bog'liq, bunda har bir mutaxassis uchun bitta sertifikat sanaladi va 5 ta sertifikat kerak. Boshqa tegishli sertifikatlarga yoki tajribaga ega jamoalar bu ballni ololmaydi, 90 ballik o'tish bali bilan birga bu ahamiyatli bo'lishi mumkin.\n   Taklif etilayotgan tahrir: Mutaxassislarning taklif etilayotgan platformaga tegishli vendor sertifikatlari yoki ma'lumotlar ombori va ETL bo'yicha teng darajadagi sertifikatlari yoki loyihalardagi tasdiqlangan tajribasi qabul qilinadi.\n\n4. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «bunda ma’lumotnoma berilgan sana takliflar berish muddati tugashidan kamida 30 kun oldin bo‘lishi kerak»\n   Savolimiz: Soliq ma'lumotnomasi takliflar muddati tugashidan «kamida 30 kun oldin» berilgan bo'lishi kerak deyiladi (ya'ni 20-noyabrdan kamida 30 kun oldin), bank xati bandida esa shu muddat «30 kundan eski bo'lmasligi» deb yozilgan, bu qarama-qarshi ma'no. Noaniq yozuv tufayli to'g'ri hujjat taqdim etgan ishtirokchi malaka bosqichida chetlatilishi mumkin.\n   Taklif etilayotgan tahrir: Ma'lumotnoma va bank xati takliflar berish muddati tugashidan oldingi 30 kun ichida (30 kundan eski bo'lmagan) berilgan bo'lishi kerak.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (20.11.2026 18:25) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 187,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3583,
+  "top_winner_share": 0.0588,
+  "share_price_drop_lt1pct": 0.0802,
+  "reannounced_lots": 4
+ },
+ "money_on_table_uzs": 1516032000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 42.2
+ },
+ "analyzed_at": "2026-11-18T00:20:02+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

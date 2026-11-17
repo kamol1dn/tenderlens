@@ -1,0 +1,218 @@
+{
+ "lot_id": 524384,
+ "display_no": "26110012524384",
+ "title": "ISITISH QOZONI",
+ "url": "https://etender.uzex.uz/lot/524384",
+ "customer": {
+  "name": "Халк таълим булими",
+  "tin": "200326735"
+ },
+ "region": "Сирдарё вилояти",
+ "start_cost": 320000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-12T11:54:26",
+ "end_date": "2026-11-19T11:54:26",
+ "clarific_date": "2026-11-19T11:54:26",
+ "type": "selection",
+ "old_id": 522461,
+ "evaluation": {
+  "tech_coef": 30.0,
+  "cost_coef": 70.0,
+  "min_point": 30,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарларни шеф-монтаж, монтаж (ўрнатиш) ва созлаш ишларини амалга ошириш (агар ушбу ишлар етказиб берувчи томонидан бажарилса) бўйича талаблар",
+    "max_score": 30.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолат бўйича талаблар (муддати, жойи)",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524384.pdf",
+  "pages": 2,
+  "text_source": "vision",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "30-sonli umumta'lim maktabi uchun isitish qozonini (koʻmir va gaz) yetkazib berish va oʻrnatish, 2 toʻplam",
+ "sector": "other",
+ "customer_sector": "education",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Ikki toʻplam isitish qozoni (koʻmir va gaz) yetkazib beriladi, birligi 160 000 000 soʻm.",
+   "summary_en": "Two sets of heating boilers (coal and gas) at 160,000,000 UZS each, 320,000,000 UZS in total.",
+   "quote": "Isitish qozoni | 2 | To'plam | (ko'mir va gaz) | 160000000 | 320000000",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati 30 kun.",
+   "summary_en": "Delivery period is 30 days.",
+   "quote": "Byurtmachi tomonidan belgilangan ishlarni bajarish (maxsulot yetkazib berish) muddati | 30 kun",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "payment",
+   "summary_uz": "Shartnoma qiymatining 30 foizi avans sifatida toʻlanadi.",
+   "summary_en": "A 30 percent advance of the contract value is paid.",
+   "quote": "shartnoma buyicha ishlar umumiy kiymatining 30% mikdorida avans utkazadi.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchida texnik, moliyaviy, moddiy va kadrlar resurslari boʻlishi, soliq qarzi va bankrotlik boʻlmasligi kerak.",
+   "summary_en": "Bidder must have technical, financial, material and staff resources, no tax debt and no bankruptcy proceedings.",
+   "quote": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy, kadlar resurslarining xamda boshka resurslarning mavjudligi;",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi mashina, mexanizm va asbob-uskunalarga ega boʻlishi talab etiladi.",
+   "summary_en": "Bidder's machinery, mechanisms and equipment are required.",
+   "quote": "Talab etiladi.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Qozonni oʻrnatish va montaj ishlari uchun 30 ball beriladi (eng yuqori ball).",
+   "summary_en": "Installation and mounting work carries 30 points, the highest-weighted criterion.",
+   "quote": "ISITISH QOZONINI YETKAZIB BERISH VA ORNATISH ISHLARI, DEMONTASH ISHLARI",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Kafolatdan keyingi xizmat: 5 yil davomida muammo chiqsa 3 ish kuni ichida bartaraf etish yozma kafolati.",
+   "summary_en": "Post-warranty service: written guarantee to fix any problem within 3 working days over 5 years.",
+   "quote": "ISITISH QOZONINI 5 YIL MUDDAT DAVOMIDA BIROR BIR MUOMMOSI CHIQSA 3 KUN ISH KUNIDA KELIB BARTARAF ETISH UCHUN KAFOLAT BERISHI",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Qozon quvvati boʻyicha rasm ilova qilinishi kerak.",
+   "summary_en": "A picture/document of the boiler capacity must be attached.",
+   "quote": "ISITISH QOZONI BO`YICHA QUVVATI RASMI ILOVA QILINISHI",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Taklif amal qilish muddati ochilgan kundan 5 kun.",
+   "summary_en": "Bid validity is 5 days from opening.",
+   "quote": "Tanlov takliflari ochilgan kundan boshlab 5 kun",
+   "page": 1,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 94,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 5.8,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 6 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 67% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 33%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 522461)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 6 deals the median number of bidders was 2; 67% of deals had two or fewer bidders; the most frequent winner took 33%.",
+   "This lot was re-announced (previous lot: 522461)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Qozon quvvatini koʻrsatuvchi rasm/hujjat",
+  "Texnik hujjatlar va sertifikatlar",
+  "5 yillik xizmat koʻrsatish boʻyicha yozma kafolat xati",
+  "Mashina va asbob-uskunalar boʻyicha maʼlumot",
+  "Soliq qarzi yoʻqligi va bankrotlik jarayoni yoʻqligi haqida maʼlumot",
+  "matnli"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 6,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.6667,
+  "top_winner_share": 0.3333,
+  "share_price_drop_lt1pct": 0.1667,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 43648000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

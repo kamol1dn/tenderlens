@@ -1,0 +1,196 @@
+{
+ "lot_id": 525394,
+ "display_no": "26120012525394",
+ "title": "Koʻprikli kranlar va kran-balkalarni qayta joylashtirish (koʻchirish) ishlarini bajarish",
+ "url": "https://etender.uzex.uz/lot/525394",
+ "customer": {
+  "name": "TOSHKENT TRAKTOR ZAVODI MCHJ",
+  "tin": "309053845"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 1455765315.13,
+ "currency": "UZS",
+ "start_date": "2026-11-13T18:33:17",
+ "end_date": "2026-11-20T18:33:17",
+ "clarific_date": "2026-11-20T18:33:17",
+ "type": "selection",
+ "old_id": 518010,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 20,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525394.pdf",
+  "pages": 3,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Ko'prikli kranlar va kran-balkani Toshkent shahridan Chirchiq shahriga demontaj qilib ko'chirish, montaj, sozlash va sinovdan o'tkazish ishlari",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "qualification",
+   "summary_uz": "Pudratchida yuk ko'tarish inshootlarini montaj qilish va sozlash huquqini beruvchi amaldagi litsenziya yoki ruxsatnoma bo'lishi shart.",
+   "summary_en": "The contractor must hold a current licence or permit to install and commission lifting structures.",
+   "quote": "yuk ko‘tarish inshootlarini montaj qilish va sozlash huquqini beruvchi amaldagi litsenziya yoki ruxsat etish xususiyatiga ega hujjatlarga ega bo‘lishi",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Yuk ko'tarish mexanizmlarini montaj va demontaj qilish bo'yicha amaliy ish tajribasi talab qilinadi.",
+   "summary_en": "Practical experience in installing and dismantling lifting mechanisms is required.",
+   "quote": "Yuk ko‘tarish mexanizmlarini montaj/demontaj qilish sohasida amaliy ish tajribasiga ega bo‘lishi.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Shtatda attestatsiyadan o'tgan, yuk ko'tarish inshootlari bilan ishlashga ruxsati bor mutaxassislar va ishchilar bo'lishi kerak.",
+   "summary_en": "The contractor needs certified specialists and workers authorised to work with lifting structures on staff.",
+   "quote": "amaldagi attestatsiyadan o‘tgan malakali mutaxassislar va ishchi xodimlar shtatiga ega bo‘lishi.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Maxsus yuk ko'tarish, transport va montaj texnikasi hamda asbob-uskunalar mavjud bo'lishi kerak.",
+   "summary_en": "Special lifting, transport and installation equipment and tools must be available.",
+   "quote": "maxsus yuk ko‘tarish, transport va montaj texnikalari, asbob-uskunalar va moslamalarga ega bo‘lishi.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Ikkita ko'prikli kran (20/5 t) va bitta kran-balka (3 t) demontaj qilinadi, tashiladi va yangi joyda montaj qilinadi.",
+   "summary_en": "Two overhead cranes (20/5 t) and one crane beam (3 t) are dismantled, transported and reinstalled at the new site.",
+   "quote": "Ko‘prikli kranlar va kran-balkani xavfsiz tashish uchun zarur bo‘lgan hajmda qismlarga ajratish va demontaj qilish.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Pudratchi demontajdan oldin ishlarni tashkil etish va bajarish hujjatlarini (PR/PPR) ishlab chiqadi.",
+   "summary_en": "The contractor prepares the work-organisation and execution documents (PR/PPR) before dismantling.",
+   "quote": "Demontaj qilish tartibi bo‘yicha tashkiliy-texnologik hujjatlarni (PR/PPR) ishlab chiqish.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "technical",
+   "summary_uz": "Montajdan so'ng statik va dinamik sinovlar o'tkazilib, dalolatnomalar rasmiylashtiriladi.",
+   "summary_en": "After installation, static and dynamic tests are carried out and formal acts are drawn up.",
+   "quote": "Amaldagi qoidalarga muvofiq Statik va Dinamik sinovlarni o‘tkazish hamda natijalar bo‘yicha tegishli dalolatnomalar va bayonnomalarni rasmiylashtirish.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Ishlar yakunida sanoat xavfsizligi ekspertizasi xulosasi va zarur bo'lsa yangilangan texnik pasportlar topshiriladi.",
+   "summary_en": "On completion the contractor hands over the industrial-safety expert conclusion and, if needed, updated technical passports.",
+   "quote": "Sanoat xavfsizligi ekspertizasi xulosasi va zarurat bo‘lganda kranlarning yangilangan texnik pasportlari.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Pudratchi bajarilgan ishlar sifatiga kamida 12 oy kafolat beradi.",
+   "summary_en": "The contractor gives a warranty of at least 12 months on the work.",
+   "quote": "kundan boshlab kamida 12 oy muddatga kafolat beradi.",
+   "page": 2,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 97,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 3.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 8 ta savdosida ishtirokchilar medianasi 2.5 ta; savdolarning 50% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 12%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 518010)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 8 deals the median number of bidders was 2.5; 50% of deals had two or fewer bidders; the most frequent winner took 12%.",
+   "This lot was re-announced (previous lot: 518010)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Kranlarni montaj qilish va sozlash huquqini beruvchi litsenziya yoki ruxsatnoma nusxasi",
+  "Attestatsiyadan o'tgan mutaxassislarning malaka sertifikatlari",
+  "Shunga o'xshash ishlar bo'yicha tajriba haqida ma'lumot",
+  "Maxsus texnika va asbob-uskunalar mavjudligi haqida ma'lumot",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+  "Insofsiz ijrochilar reyestrida yo'qligi bo'yicha tasdiq",
+  "Bankrotlik jarayoni yo'qligi haqida tasdiq",
+  "Majburiy ijro byurosi ma'lumotlar bazasida bajarilmagan majburiyat yo'qligi haqida tasdiq",
+  "Ma'lumot yuklash shart"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 8,
+  "median_bidders": 2.5,
+  "share_le2_bidders": 0.5,
+  "top_winner_share": 0.125,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 201914649.21,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,215 @@
+{
+ "lot_id": 524637,
+ "display_no": "26120012524637",
+ "title": "Turon Qashqadaryo qazib chiqarish korxonasi obyektlarida 30 m3 va undan yuqori hajmdagi neft tashuvchi avtosisternalarda neft tashish xizmatlarini ko‘rsatish, tonna-kilometr uchun haq to‘lash asosida",
+ "url": "https://etender.uzex.uz/lot/524637",
+ "customer": {
+  "name": "TURON PRODUCTION MCHJ",
+  "tin": "313293436"
+ },
+ "region": "Қашқадарё вилояти",
+ "start_cost": 1745857511.68,
+ "currency": "UZS",
+ "start_date": "2026-11-13T14:30:18",
+ "end_date": "2026-11-20T14:30:18",
+ "clarific_date": "2026-11-20T14:30:18",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 70,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524637.rar",
+  "pages": 6,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Neft tashuvchi avtosisternalarda (30 m3 va undan yuqori) neft tashish xizmati, tonna-kilometr hisobida",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "\"TURON PRODUCTION\" MCHJning o'z mablag'lari hisobidan",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "evaluation",
+   "summary_uz": "70 balldan kam toʻplagan texnik taklif qabul qilinmaydi.",
+   "summary_en": "A technical offer scoring below 70 points is rejected.",
+   "quote": "Ballarning maksimal miqdori - 100. 70 balldan kam to'plagan texnik taklif qabul qilinmaydi.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Barcha transport vositalarini GPS bilan jihozlash va monitoring tizimiga kirish haqida kafolat xati uchun 25 ball beriladi.",
+   "summary_en": "A guarantee letter to fit all vehicles with GPS and give login access to the monitoring system earns 25 points.",
+   "quote": "Shartnoma tuzilganda barcha transport vositalarini GPS bilan jihozlash hamda monitoring tizimiga kirish uchun login va parol taqdim etilishi haqida kafolat xati berilgan",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Texnikani quyish punktlariga 10 kalendar kungacha yetkazib berish kafolati uchun 10 ball beriladi.",
+   "summary_en": "A guarantee to deliver the vehicles to the loading points within 10 calendar days earns 10 points.",
+   "quote": "Buyurtmachining quyish punktlariga texnikani 10 kalendar kungacha yetkazib berishni tasdiqlovchi kafolat xati — 10 ball.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "2020-yil va undan keyin ishlab chiqarilgan texnika roʻyxati 15 ball, 2010-yildan keyingisi 10 ball beradi.",
+   "summary_en": "A list of vehicles built in 2020 or later earns 15 points; 2010 or later earns 10.",
+   "quote": "Texnikaning sozligi va foydalanishga tayyorligini tasdiqlovchi kafolat xati hamda 2020-yil va undan keyin ishlab chiqarilgan texnikalar ro‘yxati — 15 ball.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Barcha haydovchilarda xavfli yuklarni tashishga ruxsat hujjatlari boʻlishi kerak (25 ball).",
+   "summary_en": "All drivers must hold dangerous-goods transport permits (25 points).",
+   "quote": "Barcha haydovchilarning xavfli yuklarni tashishga ruxsat hujjatlari bilan ta’minlanganligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Neft va neft mahsulotlarini tashishda 3 yil va undan ortiq tajriba shartnomalar nusxalari bilan tasdiqlanadi (15 ball).",
+   "summary_en": "Three or more years of oil-transport experience, confirmed by contract copies, earns 15 points.",
+   "quote": "Neft va neft mahsulotlarini tashish bo‘yicha 3 yil va undan ortiq tajribani tasdiqlovchi shartnomalar nusxalari",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Taʼsis hujjatlari va davlat roʻyxatidan oʻtganlik haqidagi guvohnoma talab qilinadi.",
+   "summary_en": "Constituent documents and the state registration certificate are required.",
+   "quote": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Safarbarlik muddati shartnoma tuzilgan kundan boshlab texnikani quyish punktlariga yetkazib berish bilan oʻlchanadi.",
+   "summary_en": "Mobilisation time is measured from contract signing to delivery of vehicles to the loading points.",
+   "quote": "Safarbarlik muddati — shartnoma tuzilgan kundan boshlab texnikani quyish punktlariga yetkazib berish",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Tijorat taklifi taqdim etilgan sanadan boshlab kamida 90 kalendar kun amal qilishi kerak.",
+   "summary_en": "The commercial offer must remain valid for at least 90 calendar days.",
+   "quote": "ianadan boshlab kamida 90 (to'qson) kalendar kuni.",
+   "page": 5,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 100,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document."
+  ]
+ },
+ "documents_needed_uz": [
+  "Taʼsis hujjatlari va davlat roʻyxatidan oʻtganlik guvohnomasi",
+  "Texnikaning sozligi va foydalanishga tayyorligi haqida kafolat xati",
+  "Texnika pasportlari va amaldagi kalibrlash pasportlari",
+  "Xavfli yuklarni tashishga ruxsat (ADR) hujjatlari nusxalari",
+  "Haydovchilik guvohnomalari nusxalari",
+  "Shtatdagi xodimlar soni haqida maʼlumotnoma",
+  "Neft tashish boʻyicha shartnomalar, dalolatnomalar va buyurtmachilar fikrlari",
+  "GPS oʻrnatish va monitoring tizimiga kirish haqida kafolat xati",
+  "Texnikani quyish punktlariga yetkazish muddati haqida kafolat xati",
+  "Texnika roʻyxati (markasi, modeli, ishlab chiqarilgan yili, sisterna hajmi)",
+  "Masofa diapazonlari boʻyicha stavkalar koʻrsatilgan tijorat taklifi",
+  "Baholash mezonlari A blokiga muvofiq talab etilgan hujjatlarning to‘liq to‘plamini taqdim etish",
+  "Shartnoma tuzilgandan keyin barcha TS GPS-ni o'rnatish va monitoring tizimidan login va parolni taqdim etish to'g'risidagi kafolat xati",
+  "Buyurtmachining quyish punktlariga texnikani yetkazib berishni tasdiqlovchi kafolat xati",
+  "Texnikaning sozligi va foydalanishga tayyorligini tasdiqlovchi kafolat xati",
+  "Shtatdagi xodimlar soni haqida ma’lumotnoma, haydovchilik guvohnomalari va xavfli yuklarni tashishga ruxsat hujjatlari nusxalari",
+  "Neft va neft mahsulotlarini tashish bo‘yicha 3 yil va undan ortiq tajribani tasdiqlovchi shartnomalar nusxalari, ko‘rsatilgan xizmatlar dalolatnomalari va buyurtmachilar fikrlari"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 3,
+  "median_bidders": 6,
+  "share_le2_bidders": 0.3333,
+  "top_winner_share": 0.6667,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 238134964.59,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

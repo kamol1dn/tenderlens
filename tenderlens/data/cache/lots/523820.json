@@ -1,0 +1,305 @@
+{
+ "lot_id": 523820,
+ "display_no": "26121006523820",
+ "title": "Oʻzbekiston Respublikasi Markaziy banki ehtiyoji uchun kompyuter qurilmalarini xarid qilish",
+ "url": "https://etender.uzex.uz/lot/523820",
+ "customer": {
+  "name": "\"O`ZBEKISTON RESPUBLIKASI MARKAZIY BANKI\"",
+  "tin": "201053774"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 27664000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-04T10:26:14",
+ "end_date": "2026-11-20T10:26:14",
+ "clarific_date": "2026-11-20T10:26:14",
+ "type": "tender",
+ "old_id": 509868,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 7,
+  "criteria": [
+   {
+    "label": "ariza (1-shakl)",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Tender ishtirokchisi haqida umumiy maʻlumot (2-shakl)",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "5-shakl bo‘yicha texnik taklif",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "avtorizatsiya xati",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "So‘nggi uch yil davomida amalga oshirilgan o‘xshash loyihalar tajribasi to‘g‘risida ma’lumot.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ishlab chiqaruvchining Toshkent shahrida ehtiyot qismlarning ombori mavjudligi.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "O‘zbekiston Respublikasi hududida servis markazlarining mavjudligi",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Yetkazib beruvchi texnik va ekspluatatsion xususiyatlarning muvofiqligini taqqoslash jadvali orqali tasdiqlaydi",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523820.pdf",
+  "pages": 11,
+  "text_source": "text",
+  "language": "ru",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Markaziy bank ehtiyoji uchun 200 ta monoblok va 500 ta noutbuk xarid qilish",
+ "sector": "it",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Turi I: 200 ta korporativ monoblok (27 dyuym QHD ekran, kamida 20 yadroli protsessor, 32 GB DDR5, 1 TB NVMe).",
+   "summary_en": "Type I: 200 corporate all-in-one PCs (27-inch QHD, at least 20 cores, 32 GB DDR5, 1 TB NVMe).",
+   "quote": "Компьютер тип I (моноблок- All-in-One) – 200 комплектов",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Turi 2: 500 ta korporativ noutbuk (14 dyuym FHD+, kamida 12 yadro, 32 GB DDR5, 512 GB SSD, 64 Wh batareya).",
+   "summary_en": "Type 2: 500 corporate laptops (14-inch FHD+, at least 12 cores, 32 GB DDR5, 512 GB SSD, 64 Wh battery).",
+   "quote": "Компьютер тип 2 (Ноутбук - Laptop) – 500 комплектов",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Baholash faqat narx boyicha (narx 100%); texnik muvofiqlik taqqoslash jadvali (6-shakl) bilan tasdiqlanadi.",
+   "summary_en": "Evaluation is on price only (price 100%); technical conformity is confirmed by the comparison table (Form 6).",
+   "quote": "Yetkazib beruvchi texnik va ekspluatatsion xususiyatlarning muvofiqligini taqqoslash jadvali orqali tasdiqlaydi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Uskuna ishlab chiqaruvchisidan yetkazib berish va kafolatdan keyingi xizmat huquqini tasdiqlovchi avtorizatsiya xati talab qilinadi.",
+   "summary_en": "A manufacturer authorisation letter confirming the right to supply and service the equipment is required.",
+   "quote": "Ishtirokchiga uskunani yetkazib berish va/yoki ushbu uskunaga kafolatdan keyingi xizmat ko‘rsatishni amalga oshirish huquqi berilgani tasdiqlaydigan, uskuna ishlab chiqaruvchisidan berilgan avtorizatsiya xati",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Oxirgi uch yilda bajarilgan oxshash loyihalar boyicha buyurtmachilar royxati va shartnomalar nusxalari talab qilinadi.",
+   "summary_en": "A list of similar projects from the last three years with customer names and contract copies is required.",
+   "quote": "Buyurtmachilarning nomlari, ularning amaldagi aloqa ma’lumotlari hamda loyihalarni amalga oshirish sanasi (oy, yil) ko‘rsatilgan ma’lumotnoma taqdim etiladi. Tasdiqlovchi hujjat sifatida shartnomalarning PDF formatidagi nusxalari ilova qilinadi.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ishlab chiqaruvchining Toshkent shahrida ehtiyot qismlar ombori mavjudligini tasdiqlovchi hujjat talab qilinadi.",
+   "summary_en": "Proof of a manufacturer's spare-parts warehouse in Tashkent is required.",
+   "quote": "Ishlab chiqaruvchining Toshkent shahrida ehtiyot qismlarning ombori mavjudligi.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Respublika hududida servis markazlari va ishlab chiqaruvchi sertifikatiga ega muhandislar mavjudligi talab qilinadi.",
+   "summary_en": "Service centres in Uzbekistan with manufacturer-certified engineers are required.",
+   "quote": "servis markazlarining mavjudligi hamda servis markazida sertifikatlangan muhandislarning mavjudligi (servis markazi xodimlariga ishlab chiqaruvchi tomonidan berilgan sertifikatlar). Qaytarib bo‘lmaydigan axborot tashuvchilar bilan kafolatli servis xizmati, shuningdek, Next Business Day xizmati - uskunalar ishlab chiqaruvchisining rasmiy veb-saytida tasdiqlangan holda.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Moliyaviy hisobotlar (auditor tasdiqlagan yoki 2024-yil uchun QR-kodli soliq qabuli) taqdim etilishi kerak.",
+   "summary_en": "Financial statements (audited or tax-accepted with QR code for 2024) must be provided.",
+   "quote": "Moliyaviy hisobotlarning mavjudligi (tashqi audit tashkilotlari tomonidan tasdiqlangan yoki soliq organlari tomonidan 2024-yil uchun QR- kod bilan qabul qilingan",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati 90 ish kunigacha, komplektlar boyicha qisman yetkazib berish mumkin.",
+   "summary_en": "Delivery within up to 90 working days; partial delivery by sets is allowed.",
+   "quote": "Сроки поставки - до 90 рабочих дней, допускается частичная поставка по комплектам.",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Butun uskunaga 36 oy kafolat va ishlab chiqaruvchi vakolatli servis markazi orqali joyida xizmat talab qilinadi.",
+   "summary_en": "A 36-month warranty on all equipment is required, with on-site service via a manufacturer-authorised service centre.",
+   "quote": "Гарантия на все поставляемое оборудование должна быть действительна в течение тридцати шести (36) месяцев",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "technical",
+   "summary_uz": "Uskunaning ishlab chiqarilgan yili 2025-yilning ikkinchi yarmidan erta bolmasligi kerak, uskuna yangi bolishi shart.",
+   "summary_en": "Equipment must be manufactured no earlier than the second half of 2025 and be new.",
+   "quote": "Год производства поставляемого оборудования не ранее второй половины 2025 года.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "other",
+   "summary_uz": "Ishlab chiqaruvchining ISO 9001:2015 sifat sertifikati talab qilinadi.",
+   "summary_en": "A manufacturer ISO 9001:2015 quality certificate is required.",
+   "quote": "Сертификат производителя на качество ISO 9001:2015",
+   "page": 6,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "narrow_params",
+   "severity": "high",
+   "quote": "Dolby Atmos™ Harman Встроенное аудио HD Audio Senary SN6147 codec",
+   "page": 10,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Noutbuk talabida ichki audio mikrosxemasining (kodek) aniq nomi koʻrsatilgan. Bunday parametr funksional ehtiyojni emas, balki bitta modelning texnik varaqasini aks ettiradi va boshqa ishlab chiqaruvchilarning mos noutbuklarini chetlab oʻtishi mumkin.",
+   "explanation_en": "The laptop spec names an exact internal audio codec chip. This describes one model's datasheet rather than a functional need and may exclude comparable laptops from other manufacturers.",
+   "rewrite_uz": "Ichki audio: HD Audio kodek, kamida 2 x 2 W stereo dinamiklar, Dolby Atmos yoki ekvivalent.",
+   "rewrite_en": "Built-in audio: HD Audio codec, at least 2 x 2 W stereo speakers, Dolby Atmos or equivalent.",
+   "type_label_uz": "Haddan tashqari tor texnik parametrlar",
+   "type_label_en": "Over-narrow technical parameters",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "dealer_letter",
+   "severity": "medium",
+   "quote": "Авторизация от производителя оборудования (на официальном бланке производителя)",
+   "page": 10,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Kompyuter va noutbuklar keng sotiladigan tovar boʻlsa-da, ishtirokchidan ishlab chiqaruvchining oʻz blankasida avtorizatsiyasi talab qilinadi. Bu rasmiy distribyutor tarmogʻidan tashqaridagi, ammo yetkazib bera oladigan ta'minotchilarni chetlab oʻtishi mumkin.",
+   "explanation_en": "Computers and laptops are widely traded, yet a letter on the manufacturer's own letterhead is required. This may shut out capable suppliers that sit outside the official distributor network.",
+   "rewrite_uz": "Ishtirokchi uskunani yetkazib berish va kafolat xizmatini ta'minlay olishini tasdiqlovchi hujjat (ishlab chiqaruvchi yoki rasmiy distribyutor avtorizatsiyasi, yoki ishtirokchining oʻz kafolat majburiyati xati) taqdim etadi.",
+   "rewrite_en": "The bidder provides a document confirming it can supply the equipment and provide warranty service (manufacturer or official distributor authorisation, or the bidder's own warranty commitment letter).",
+   "type_label_uz": "Ishlab chiqaruvchi yoki diler xati talabi",
+   "type_label_en": "Manufacturer or dealer letter required",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 35,
+ "traffic_light": "red",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 62,
+  "history_penalty": 2.6,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Haddan tashqari tor texnik parametrlar (10-bet): Noutbuk talabida ichki audio mikrosxemasining (kodek) aniq nomi koʻrsatilgan. Bunday parametr funksional ehtiyojni emas, balki bitta modelning texnik varaqasini aks ettiradi va boshqa ishlab chiqaruvchilarning mos noutbuklarini chetlab oʻtishi mumkin.",
+   "Ishlab chiqaruvchi yoki diler xati talabi (10-bet): Kompyuter va noutbuklar keng sotiladigan tovar boʻlsa-da, ishtirokchidan ishlab chiqaruvchining oʻz blankasida avtorizatsiyasi talab qilinadi. Bu rasmiy distribyutor tarmogʻidan tashqaridagi, ammo yetkazib bera oladigan ta'minotchilarni chetlab oʻtishi mumkin.",
+   "Buyurtmachining so'nggi 33 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 39% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 6%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 509868).",
+   "Tushuntirish so'rash muddati: 20.11.2026 10:26."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Over-narrow technical parameters (page 10): The laptop spec names an exact internal audio codec chip. This describes one model's datasheet rather than a functional need and may exclude comparable laptops from other manufacturers.",
+   "Manufacturer or dealer letter required (page 10): Computers and laptops are widely traded, yet a letter on the manufacturer's own letterhead is required. This may shut out capable suppliers that sit outside the official distributor network.",
+   "In the customer's last 33 deals the median number of bidders was 3; 39% of deals had two or fewer bidders; the most frequent winner took 6%.",
+   "This lot was re-announced (previous lot: 509868).",
+   "Clarification requests are accepted until 20.11.2026 10:26."
+  ]
+ },
+ "documents_needed_uz": [
+  "Tenderda ishtirok etish uchun ariza (1-shakl)",
+  "Ishtirokchi haqida umumiy ma'lumot (2-shakl)",
+  "Texnik taklif (5-shakl)",
+  "Texnik topshiriq bilan taqqoslash jadvali (6-shakl)",
+  "Ishlab chiqaruvchining avtorizatsiya xati",
+  "Oxirgi uch yildagi oxshash loyihalar haqida ma'lumotnoma va shartnomalar nusxalari",
+  "Ishlab chiqaruvchining Toshkentdagi ehtiyot qismlar ombori mavjudligini tasdiqlovchi hujjat",
+  "Servis markazlari va sertifikatlangan muhandislar mavjudligini tasdiqlovchi hujjatlar",
+  "Davlat royxatidan otganlik guvohnomasi",
+  "Soliq qarzdorligi yoqligi haqida ma'lumotnoma",
+  "Bankrotlik tartib-taomili yoqligi haqida ma'lumotnoma",
+  "Insofsiz ijrochilar reyestrida yoqligi haqida skrinshot",
+  "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yoqligi haqida skrinshot",
+  "Moliyaviy hisobotlar (2024-yil)",
+  "Buyurtmachi bilan sud yoki arbitraj jarayoni yoqligi haqida ma'lumot (3-shakl)",
+  "Qonunbuzarliklarga yol qoymaslik haqidagi ariza (4-shakl)",
+  "Manfaatlar toqnashuvi va aloqadorlik yoqligi haqida xat",
+  "Xodimlar sonini tasdiqlovchi ma'lumotnoma (my.gov.uz)",
+  "ariza (1-shakl)",
+  "2-shakl",
+  "5-shakl",
+  "avtorizatsiya xati",
+  "shartnomalarning PDF formatidagi nusxalari",
+  "tasdiqlovchi hujjat",
+  "tasdiqlovchi hujjatlar, sertifikatlar"
+ ],
+ "clarification_letter_uz": "Kimga: \"O`ZBEKISTON RESPUBLIKASI MARKAZIY BANKI\", xarid komissiyasiga\nLot raqami: 26121006523820\nXarid predmeti: Oʻzbekiston Respublikasi Markaziy banki ehtiyoji uchun kompyuter qurilmalarini xarid qilish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 10-bet.\n   Hujjatdagi matn: «Dolby Atmos™ Harman Встроенное аудио HD Audio Senary SN6147 codec»\n   Savolimiz: Noutbuk talabida ichki audio mikrosxemasining (kodek) aniq nomi koʻrsatilgan. Bunday parametr funksional ehtiyojni emas, balki bitta modelning texnik varaqasini aks ettiradi va boshqa ishlab chiqaruvchilarning mos noutbuklarini chetlab oʻtishi mumkin.\n   Taklif etilayotgan tahrir: Ichki audio: HD Audio kodek, kamida 2 x 2 W stereo dinamiklar, Dolby Atmos yoki ekvivalent.\n\n2. Texnik topshiriq, 10-bet.\n   Hujjatdagi matn: «Авторизация от производителя оборудования (на официальном бланке производителя)»\n   Savolimiz: Kompyuter va noutbuklar keng sotiladigan tovar boʻlsa-da, ishtirokchidan ishlab chiqaruvchining oʻz blankasida avtorizatsiyasi talab qilinadi. Bu rasmiy distribyutor tarmogʻidan tashqaridagi, ammo yetkazib bera oladigan ta'minotchilarni chetlab oʻtishi mumkin.\n   Taklif etilayotgan tahrir: Ishtirokchi uskunani yetkazib berish va kafolat xizmatini ta'minlay olishini tasdiqlovchi hujjat (ishlab chiqaruvchi yoki rasmiy distribyutor avtorizatsiyasi, yoki ishtirokchining oʻz kafolat majburiyati xati) taqdim etadi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (20.11.2026 10:26) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 33,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3939,
+  "top_winner_share": 0.0606,
+  "share_price_drop_lt1pct": 0.0606,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 3900624000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 16.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

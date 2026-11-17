@@ -1,0 +1,310 @@
+{
+ "lot_id": 524497,
+ "display_no": "26120012524497",
+ "title": "“Mikrokreditbank” ATB mijozlari uchun Pos terminallari (HUMO) xarid qilish yuzasidan",
+ "url": "https://etender.uzex.uz/lot/524497",
+ "customer": {
+  "name": "MIKROKREDITBANK ATB",
+  "tin": "200547792"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 1295000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T11:20:47",
+ "end_date": "2026-11-24T11:20:47",
+ "clarific_date": "2026-11-24T11:20:47",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 55,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524497.pdf",
+  "pages": 4,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Bank mijozlari uchun 500 dona HUMO to'lov terminallari (POS) xarid qilish",
+ "sector": "it",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "O'z mablag'lari hisobidan",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "500 dona to'lov terminali: Android asosida, 4G va Wi-Fi, chip/NFC/magnit tasma o'quvchi, 6 dyuymli displey, printer.",
+   "summary_en": "500 payment terminals: Android-based, 4G and Wi-Fi, chip/NFC/magstripe reader, 6-inch display, built-in printer.",
+   "quote": "Xarid qilingan qurilmalaT quyidagi texnik talablarga javob berishi kerak",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Terminallar 2025 yildan oldin ishlab chiqarilmagan bo'lishi kerak.",
+   "summary_en": "Terminals must not have been manufactured before 2025.",
+   "quote": "Terminallar 2025 yildan oldin ishlab chiqarilmagan bo'lishi kerak.",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Texnik topshiriqda ko'rsatilganiga funksional jihatdan o'xshash yoki undan ustun jihozlar ham ko'rib chiqiladi.",
+   "summary_en": "Equipment functionally similar to or better than the listed specification is also considered.",
+   "quote": "jihozlarga fuпlвiопаl jihatdaп о'xshash yoki uпdап",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Kafolat: qabul qilish dalolatnomasi imzolangan kundan boshlab 1 yil.",
+   "summary_en": "Warranty: 1 year from the signing of the acceptance act.",
+   "quote": "imzolasan kundan boshlab 1 Фir) yil",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Yetkazib beruvchi HUMO milliy banklararo protsessing markazining dasturiy ta'minotga ulanish bo'yicha litsenziyasiga ega bo'lishi kerak.",
+   "summary_en": "The supplier must hold the HUMO national interbank processing centre's licence for software connection and programming.",
+   "quote": "dasturiy ta'minotga bog'lanish, dasturlash bo'yicha",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "O'xshash qurilmalarni sotish tajribasi shart; shartnoma va hisob-fakturalar nusxasi bilan tasdiqlanadi.",
+   "summary_en": "Experience selling similar devices is required, confirmed by copies of contracts and invoices.",
+   "quote": "Ooxshash qurilmalarni sotish tajribasiga ega bo'lish.",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "O'zbekistonda vakolatli servis markazi mavjud bo'lishi kerak.",
+   "summary_en": "An authorised service centre must exist in Uzbekistan.",
+   "quote": "O'zbekiston Respublikasida vakolatli servis markazi mavjud bo'lishi kerak.",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi qurilma ishlab chiqaruvchisidan avtorizatsiyaga ega bo'lishi lozim.",
+   "summary_en": "The bidder must hold authorisation from the device manufacturer.",
+   "quote": "Imkon bo'lsa, tavsiya xatlari ham taqdim etilishi mumkin.) Ishtirokchi qurilma ishlab chiqaruvchisidan avtorizatsiyaga",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Servis markazlari soni bo'yicha ball: 1-5 hududda 5 ball, 6-10 hududda 10 ball, barcha hududlarda 15 ball.",
+   "summary_en": "Points for regional service centres: 1-5 regions 5 points, 6-10 regions 10 points, all regions 15 points.",
+   "quote": "O‘zbekiston Respublikasi hududlarida servis markazlari mavjudligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Texnik bahoning 10 balli bank aylanmasi va qarzdorlik ma'lumotnomalariga bog'langan.",
+   "summary_en": "10 technical points depend on bank statements of turnover and debt status.",
+   "quote": "Faoliyat yurituvchi bankdan ma’lumot: 1. Asosiy hisobvaraqlar harakatda ekanligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Texnik bahoning 10 balli ishtirokchining sotuvlar tajribasi to'g'risidagi ma'lumotga bog'langan.",
+   "summary_en": "10 technical points depend on information about the bidder's past sales in this line.",
+   "quote": "Ishtirokchi ushbu yo‘nalishdagi sotuvlarni amalga oshirganligi to‘g‘risida",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r12",
+   "kind": "evaluation",
+   "summary_uz": "10 ball HUMO protsessing markazi bilan dasturiy ta'minotga ulanish bo'yicha o'zaro kelishuv mavjudligiga beriladi.",
+   "summary_en": "10 points relate to having an agreement with the HUMO processing centre on software connection.",
+   "quote": "to‘lov terminallarining dasturiy taʼminotiga bogʻlanish, dasturlash boʻyicha o‘zaro kelishuvi boʻlishi kerak",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r13",
+   "kind": "other",
+   "summary_uz": "Ishtirokchi taklif qilinayotgan qurilmalarning talablarga muvofiqligini ko'rsatuvchi texnik va foydalanish hujjatlarini taqdim etishi shart.",
+   "summary_en": "The bidder must supply technical and user documents allowing conformity of the offered devices to be checked.",
+   "quote": "texnik va foydalanish hujjatlarini taqdim etishi",
+   "page": 4,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "dealer_letter",
+   "severity": "medium",
+   "quote": "Imkon bo'lsa, tavsiya xatlari ham taqdim etilishi mumkin.) Ishtirokchi qurilma ishlab chiqaruvchisidan avtorizatsiyaga",
+   "page": 4,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ishlab chiqaruvchidan avtorizatsiya talab qilinmoqda, shu bilan birga texnik topshiriq o'xshash yoki ustun jihozlarni ham qabul qilishini aytadi. Avtorizatsiya xati faqat bir necha yirik distribyutorda bo'lishi mumkin va shu sababli 500 dona terminalni yetkaza oladigan boshqa yetkazib beruvchilar ishtirok eta olmasligi mumkin. Boshlang'ich narx 1 295 000 000 so'm.",
+   "explanation_en": "Authorisation from the manufacturer is required, while the specification also says similar or better devices are accepted. Such a letter may be held by only a few large distributors, so other suppliers able to deliver 500 terminals may be unable to bid. The lot's start price is 1,295,000,000 UZS.",
+   "rewrite_uz": "Ishtirokchi taklif etilayotgan qurilmalarning qonuniy manbadan kelganini (ishlab chiqaruvchi, uning rasmiy distribyutori yoki boshqa tasdiqlovchi hujjat orqali) va ularga kafolat berishi mumkinligini tasdiqlashi lozim.",
+   "rewrite_en": "The bidder must show that the offered devices come from a lawful source (the manufacturer, its official distributor or another supporting document) and that the bidder can honour the warranty.",
+   "type_label_uz": "Ishlab chiqaruvchi yoki diler xati talabi",
+   "type_label_en": "Manufacturer or dealer letter required",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "Ishtirokchi korxonasining direktor va ta’sischisining passport nusxasi yoki ID card",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Kafolatdan keyingi xizmat mezoni (10 ball) direktor va ta'sischining pasport nusxasi bilan baholanadi, bu esa mahsulot yoki xizmatga aloqador emas. Shu bilan birga 1-mezon (10 ball) bank aylanmasi ma'lumotiga va 2-mezon (10 ball) yillik balansga bog'langan: jami 30 ball texnik jihatga emas, umumiy hujjatlarga bog'liq. Bu shablon matnga o'xshaydi.",
+   "explanation_en": "The post-warranty service criterion (10 points) is scored on a copy of the director's and founder's passport, which has no link to the product or service. The 1st criterion (10 points, bank turnover statements) and the 2nd (10 points, annual balance sheet) are similar: 30 points in total depend on general documents rather than on the offer. This looks like standard template wording.",
+   "rewrite_uz": "Kafolatdan keyingi xizmat mezoni bo'yicha ballar kafolat muddati, xizmat ko'rsatish joyi va javob berish vaqti kabi ko'rsatkichlar bo'yicha berilsin; shaxsiy hujjatlar baholanmasin.",
+   "rewrite_en": "Score the post-warranty service criterion on warranty period, service location and response time; do not score personal identity documents.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "other",
+   "severity": "low",
+   "quote": "O‘zbekiston Respublikasi hududlarida servis markazlari mavjudligi",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Servis markazlari bo'lgan hududlar soniga qarab 5, 10 yoki 15 ball beriladi: barcha hududda markazi bor ishtirokchi, 1-5 hududda markazi bor ishtirokchidan 10 ball ortiq oladi. Bu 1-2 hududda xizmat ko'rsatishga qodir kichik yetkazib beruvchilarga ta'sir qiladi. Texnik baho 70 foiz.",
+   "explanation_en": "Points of 5, 10 or 15 are awarded by number of regions with service centres, so a bidder covering all regions gets up to 10 points more than one covering 1-5 regions. This disadvantages smaller suppliers who could service the devices through a partner. Technical score weighs 70 percent.",
+   "rewrite_uz": "Servis xizmati hududlar bo'yicha o'z markazi yoki shartnoma asosidagi hamkor orqali ta'minlanishi mumkin; ball javob berish muddati va ehtiyot qismlar mavjudligi bo'yicha berilsin.",
+   "rewrite_en": "Allow regional service to be provided through own centres or contracted partners, and score response time and spare-part availability instead of centre count.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 48,
+ "traffic_light": "red",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 50,
+  "history_penalty": 1.6,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Ishlab chiqaruvchi yoki diler xati talabi (4-bet): Ishlab chiqaruvchidan avtorizatsiya talab qilinmoqda, shu bilan birga texnik topshiriq o'xshash yoki ustun jihozlarni ham qabul qilishini aytadi. Avtorizatsiya xati faqat bir necha yirik distribyutorda bo'lishi mumkin va shu sababli 500 dona terminalni yetkaza oladigan boshqa yetkazib beruvchilar ishtirok eta olmasligi mumkin. Boshlang'ich narx 1 295 000 000 so'm.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): Kafolatdan keyingi xizmat mezoni (10 ball) direktor va ta'sischining pasport nusxasi bilan baholanadi, bu esa mahsulot yoki xizmatga aloqador emas. Shu bilan birga 1-mezon (10 ball) bank aylanmasi ma'lumotiga va 2-mezon (10 ball) yillik balansga bog'langan: jami 30 ball texnik jihatga emas, umumiy hujjatlarga bog'liq. Bu shablon matnga o'xshaydi.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): Servis markazlari bo'lgan hududlar soniga qarab 5, 10 yoki 15 ball beriladi: barcha hududda markazi bor ishtirokchi, 1-5 hududda markazi bor ishtirokchidan 10 ball ortiq oladi. Bu 1-2 hududda xizmat ko'rsatishga qodir kichik yetkazib beruvchilarga ta'sir qiladi. Texnik baho 70 foiz.",
+   "Buyurtmachining so'nggi 19 ta savdosida ishtirokchilar medianasi 4 ta; savdolarning 16% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 5%.",
+   "Tushuntirish so'rash muddati: 24.11.2026 11:20."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Manufacturer or dealer letter required (page 4): Authorisation from the manufacturer is required, while the specification also says similar or better devices are accepted. Such a letter may be held by only a few large distributors, so other suppliers able to deliver 500 terminals may be unable to bid. The lot's start price is 1,295,000,000 UZS.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): The post-warranty service criterion (10 points) is scored on a copy of the director's and founder's passport, which has no link to the product or service. The 1st criterion (10 points, bank turnover statements) and the 2nd (10 points, annual balance sheet) are similar: 30 points in total depend on general documents rather than on the offer. This looks like standard template wording.",
+   "Other clause that may limit competition (platform criteria form): Points of 5, 10 or 15 are awarded by number of regions with service centres, so a bidder covering all regions gets up to 10 points more than one covering 1-5 regions. This disadvantages smaller suppliers who could service the devices through a partner. Technical score weighs 70 percent.",
+   "In the customer's last 19 deals the median number of bidders was 4; 16% of deals had two or fewer bidders; the most frequent winner took 5%.",
+   "Clarification requests are accepted until 24.11.2026 11:20."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik topshiriqqa muvofiqlik haqida texnik va foydalanish hujjatlari",
+  "Asoslovchi hujjatlar (har bir talab bo'yicha)",
+  "Bankdan oxirgi 6 oylik aylanma, Kartoteka-2, hisobvaraqqa taqiq va muddati o'tgan qarz bo'yicha ma'lumot",
+  "Soliq idorasi tasdiqlagan oxirgi yillik moliyaviy hisobot (balans)",
+  "Direktor va ta'sischining pasport nusxasi yoki ID card",
+  "Servis markazlari mavjudligi to'g'risida asoslantiruvchi hujjat",
+  "O'xshash qurilmalarni sotish bo'yicha shartnoma yoki hisob-faktura nusxalari",
+  "HUMO (Milliy banklararo protsessing markazi) bilan dasturiy ta'minotga ulanish bo'yicha kelishuv yoki litsenziya",
+  "Qurilma ishlab chiqaruvchisidan avtorizatsiya hujjati",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+  "Bankrotlik tartib-taomili yo'qligi haqida ma'lumot",
+  "Insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumot",
+  "Majburiy ijro byurosi bazasida bajarilmagan majburiyat yo'qligi haqida ma'lumot",
+  "Halollik majburiyati to'g'risida ariza"
+ ],
+ "clarification_letter_uz": "Kimga: MIKROKREDITBANK ATB, xarid komissiyasiga\nLot raqami: 26120012524497\nXarid predmeti: “Mikrokreditbank” ATB mijozlari uchun Pos terminallari (HUMO) xarid qilish yuzasidan\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 4-bet.\n   Hujjatdagi matn: «Imkon bo'lsa, tavsiya xatlari ham taqdim etilishi mumkin.) Ishtirokchi qurilma ishlab chiqaruvchisidan avtorizatsiyaga»\n   Savolimiz: Ishlab chiqaruvchidan avtorizatsiya talab qilinmoqda, shu bilan birga texnik topshiriq o'xshash yoki ustun jihozlarni ham qabul qilishini aytadi. Avtorizatsiya xati faqat bir necha yirik distribyutorda bo'lishi mumkin va shu sababli 500 dona terminalni yetkaza oladigan boshqa yetkazib beruvchilar ishtirok eta olmasligi mumkin. Boshlang'ich narx 1 295 000 000 so'm.\n   Taklif etilayotgan tahrir: Ishtirokchi taklif etilayotgan qurilmalarning qonuniy manbadan kelganini (ishlab chiqaruvchi, uning rasmiy distribyutori yoki boshqa tasdiqlovchi hujjat orqali) va ularga kafolat berishi mumkinligini tasdiqlashi lozim.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Ishtirokchi korxonasining direktor va ta’sischisining passport nusxasi yoki ID card»\n   Savolimiz: Kafolatdan keyingi xizmat mezoni (10 ball) direktor va ta'sischining pasport nusxasi bilan baholanadi, bu esa mahsulot yoki xizmatga aloqador emas. Shu bilan birga 1-mezon (10 ball) bank aylanmasi ma'lumotiga va 2-mezon (10 ball) yillik balansga bog'langan: jami 30 ball texnik jihatga emas, umumiy hujjatlarga bog'liq. Bu shablon matnga o'xshaydi.\n   Taklif etilayotgan tahrir: Kafolatdan keyingi xizmat mezoni bo'yicha ballar kafolat muddati, xizmat ko'rsatish joyi va javob berish vaqti kabi ko'rsatkichlar bo'yicha berilsin; shaxsiy hujjatlar baholanmasin.\n\n3. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «O‘zbekiston Respublikasi hududlarida servis markazlari mavjudligi»\n   Savolimiz: Servis markazlari bo'lgan hududlar soniga qarab 5, 10 yoki 15 ball beriladi: barcha hududda markazi bor ishtirokchi, 1-5 hududda markazi bor ishtirokchidan 10 ball ortiq oladi. Bu 1-2 hududda xizmat ko'rsatishga qodir kichik yetkazib beruvchilarga ta'sir qiladi. Texnik baho 70 foiz.\n   Taklif etilayotgan tahrir: Servis xizmati hududlar bo'yicha o'z markazi yoki shartnoma asosidagi hamkor orqali ta'minlanishi mumkin; ball javob berish muddati va ehtiyot qismlar mavjudligi bo'yicha berilsin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (24.11.2026 11:20) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 19,
+  "median_bidders": 4,
+  "share_le2_bidders": 0.1579,
+  "top_winner_share": 0.0526,
+  "share_price_drop_lt1pct": 0.1053,
+  "reannounced_lots": 2
+ },
+ "money_on_table_uzs": 175602000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

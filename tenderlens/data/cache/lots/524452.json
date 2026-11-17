@@ -1,0 +1,217 @@
+{
+ "lot_id": 524452,
+ "display_no": "26110012524452",
+ "title": "Электромонтажные работы по ремонту кабельной линии",
+ "url": "https://etender.uzex.uz/lot/524452",
+ "customer": {
+  "name": "Ixtisoslashtirilgan ta`lim muassasalari agentligi huzuridagi RENESSANS bolalar sog&#699;lomlashtirish oromgohi",
+  "tin": "309379218"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 30339852.0,
+ "currency": "UZS",
+ "start_date": "2026-11-12T11:44:15",
+ "end_date": "2026-11-19T11:44:15",
+ "clarific_date": "2026-11-19T11:44:15",
+ "type": "selection",
+ "old_id": 521399,
+ "evaluation": {
+  "tech_coef": 50.0,
+  "cost_coef": 50.0,
+  "min_point": 50,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524452.pdf",
+  "pages": 36,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   5
+  ]
+ },
+ "subject_uz": "Bolalar oromgohidagi 10 kV kabel liniyasida avariya-tiklash elektr montaj ishlari",
+ "sector": "construction",
+ "customer_sector": "education",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "10 kV kabel liniyasida shikastlangan joyni aniqlash va shikastlangan qismini tiklash.",
+   "summary_en": "Locate the fault on the 10 kV cable line and restore the damaged section.",
+   "quote": "10 kV kuchlanishli kabel liniyasida avariya-tiklash ishlarini bajarisho shikastlangan joyni aniqlash va kabel liniyasining shikastlangan qismini tiklash",
+   "page": 19,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Kabel liniyasining umumiy uzunligi 3650 metr.",
+   "summary_en": "The total length of the cable line is 3650 metres.",
+   "quote": "10 kV kuchlanishli KELning umumiy uzunligi - 3650 metr",
+   "page": 19,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Ta'mirlash joyida kabel liniyasini ochish uchun yer qazish ishlari bajariladi.",
+   "summary_en": "Excavation is required to expose the cable line at the repair site.",
+   "quote": "ta'mirlash ishlari olib boriladigan joyda kabel liniyasini ochish",
+   "page": 20,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Ta'mirdan keyin elektr o'lchovlari va sinovlar o'tkazilib, natijalar hujjatlashtiriladi.",
+   "summary_en": "After the repair, electrical measurements and tests must be done and documented.",
+   "quote": "Ta'mirlash ishlari yakunlangandan so'ng Ijrochi quyidagilarni bajarishi shart",
+   "page": 20,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Elektrotexnik xodimlarning malakasi va elektr xavfsizligi bo'yicha hujjatlar ball beradi (10 ball).",
+   "summary_en": "Electrical staff qualifications and electrical-safety documents are scored (10 points).",
+   "quote": "Elektrotexnik xodimlarning malakasi va elektr xavfsizligi ' bo'yicha tegishli hujjatlarning mavjudligi",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "O'xshash ishlar tajribasi ball beradi (10 ball); o'xshash ish deb mos kuchlanishdagi kabel liniyalari ishlari sanaladi.",
+   "summary_en": "Similar-work experience is scored (10 points); work on cable lines of the relevant voltage class counts as similar.",
+   "quote": "O'xshash ishlar deganda tegishli kuchlanish sinfidagi kabel liniyalari yoki ularga o'xshash elektr-texnik obyektlarni ta'mirlash, tiklash, montaj qilish",
+   "page": 34,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Zarur uskunalar, o'lchash va sinov asboblari mavjudligi ball beradi (10 ball).",
+   "summary_en": "Availability of necessary equipment and measuring and test instruments is scored (10 points).",
+   "quote": "Zarur uskunalar, o'lchash va sinov asboblarining mavjudligi",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Maxsus texnika (laboratoriya avtotransporti, ijara ham mumkin) va moddiy-texnik resurslar ball beradi (10 ball).",
+   "summary_en": "Special vehicles (a laboratory vehicle, rental allowed) and material resources are scored (10 points).",
+   "quote": "Maxsus texnika (laboratoriya maxsus avtotransporti mavj udli gi yoki ijara shartnomasi) va moddiy-texnik resurslarning mavjudligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Ishlarni bajarish taklif etilgan tartibining texnik topshiriqqa mosligi ball beradi (10 ball).",
+   "summary_en": "The conformity of the proposed work method with the specification is scored (10 points).",
+   "quote": "Ishlarni bajarishning taklif etilayotgan tartibining texnik - topshiriq talablariga muvofiqligi",
+   "page": 16,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 94,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 6.4,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 7 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 57% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 57%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 521399).",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 7 deals the median number of bidders was 2; 57% of deals had two or fewer bidders; the most frequent winner took 57%.",
+   "This lot was re-announced (previous lot: 521399).",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Elektrotexnik xodimlarning malakasi va elektr xavfsizligi guruhi bo'yicha hujjatlar (guvohnomalar, bilimni tekshirish hujjatlari)",
+  "O'xshash ishlar tajribasi: shartnomalar ro'yxati va tasdiqlovchi hujjatlar",
+  "Zarur uskunalar, o'lchash va sinov asboblari ro'yxati (qiyoslash hujjatlari bilan)",
+  "Maxsus texnika (laboratoriya avtotransporti) va moddiy-texnik resurslar mavjudligi yoki ijara shartnomasi",
+  "Ishlarni bajarishning taklif etilayotgan tartibi tavsifi",
+  "Davlat ro'yxatidan o'tganlik hujjatlari",
+  "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik yo'qligi to'g'risida ma'lumot",
+  "Kafolat xati (2-ilova)",
+  "Qatnashuvchi haqida ma'lumot (1-ilova)",
+  "Texnik taklif va narx taklifi (4- va 5-ilovalar)",
+  "Halollik va manfaatlar to'qnashuvi yo'qligi to'g'risidagi bayonot (3-ilova)",
+  "Elektrotexnik xodimlarning malakasi va elektr xavfsizligi ' bo'yicha tegishli hujjatlarning mavjudligi",
+  "O'xshash ishlarni bajarish tajribasi",
+  "Zarur uskunalar, o'lchash va sinov asboblarining mavjudligi",
+  "Maxsus texnika (laboratoriya maxsus avtotransporti mavj udli gi 4 yoki ijara shartnomasi) va moddiy-texnik resurslarning mavjudligi",
+  "Ishlarni bajarishning taklif etilayotgan tartibining texnik - topshiriq talablariga muvofiqligi"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 7,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.5714,
+  "top_winner_share": 0.5714,
+  "share_price_drop_lt1pct": 0.1429,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 4138355.81,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,219 @@
+{
+ "lot_id": 524954,
+ "display_no": "26120012524954",
+ "title": "Toshkent viloyati Ohangaron tumanidagi Ohangaron suv ombori suv urilma qudug‘ini ta’mirlash va tiklash ishlari” obyekti bo‘yicha loyiha ishlari",
+ "url": "https://etender.uzex.uz/lot/524954",
+ "customer": {
+  "name": "GIDROQURILISH BUYURTMACHI XIZMATI MCHJ",
+  "tin": "305071842"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 330400000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T17:50:14",
+ "end_date": "2026-11-18T17:50:14",
+ "clarific_date": "2026-11-18T17:50:14",
+ "type": "selection",
+ "old_id": 521781,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 70,
+  "criteria": [
+   {
+    "label": "Loyihani bajarish bo‘yicha kafolat xatini taqdim etish",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Texnik xodimlarning malakasi va tajribasi",
+    "max_score": 30.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Loyihalarni amalga oshirish tajribasi",
+    "max_score": 30.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ishtirokchining moliyaviy barqarorligi",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Loyiha-smeta hujjatlarini ishlab chiqish uchun zarur bo‘lgan kompyuter texnikasi",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524954.pdf",
+  "pages": 6,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Ohangaron suv omboridagi suv urilma qudug'ini ta'mirlash va tiklash bo'yicha ishchi loyiha, mualliflik nazorati",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Ishchi loyiha, mualliflik nazorati va ishlarni kuzatib borish xizmatlari bajariladi.",
+   "summary_en": "Working design, author supervision and monitoring of works are to be provided.",
+   "quote": "obyekti bo‘yicha loyiha ishlari, mualliflik nazorati hamda ishlarni bajarishni kuzatib borish xizmatlari",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Loyihani 60 kundan oshmagan muddatda bajarish bo'yicha kafolat xati 10 ball beradi.",
+   "summary_en": "A guarantee letter on completing the design within 60 days earns up to 10 points.",
+   "quote": "Loyihani bajarish bo‘yicha kafolat xatini taqdim etish",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Malakali muhandis-texnik xodimlar, ularning tajribasi va o'xshash loyihalardagi ishtiroki 30 ballgacha baholanadi.",
+   "summary_en": "Qualified engineering staff, their experience and similar projects are scored up to 30 points.",
+   "quote": "Ishtirokchida loyiha bo‘yicha ishlarni bajarish uchun zarur bo‘lgan malakali muhandis-texnik xodimlarning mavjudligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "So'nggi 5 yilda kamida 3 ta yakunlangan shartnoma kerak, har biri boshlang'ich narxning kamida 20 foizi.",
+   "summary_en": "At least 3 completed contracts in the last 5 years are needed, each worth at least 20% of the start price.",
+   "quote": "kamida 3 (uch) ta shartnoma mavjud bo‘lishi lozim, bunda har bir shartnomaning qiymati tenderning boshlang‘ich qiymatining kamida 20 foizini tashkil etishi kerak",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Moliyaviy barqarorlik: o'rtacha yillik aylanma kamida 8 mlrd so'm va likvidlik koeffitsiyenti kamida 1,0.",
+   "summary_en": "Financial stability: average annual turnover of at least 8 bn UZS and a liquidity ratio of at least 1.0.",
+   "quote": "So‘nggi 3 yil uchun o‘rtacha yillik aylanma — kamida 8 mlrd so‘m.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Kamida 10 ta kompyuter yoki ishchi stansiya va kamida 3 turdagi loyihalash va smeta dasturi ball beradi.",
+   "summary_en": "At least 10 computers or workstations and at least 3 kinds of design and estimating software earn points.",
+   "quote": "kompyuter va ishchi stansiyalar — kamida 10 ta, maxsus loyihalash va smeta dasturiy ta’minoti — kamida 3 turdagi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Moliyaviy hisobotlar (buxgalteriya balansi) auditor tasdiqlagan yoki soliq organi qabul qilgan bo'lishi kerak.",
+   "summary_en": "Financial statements (balance sheet) must be audited or confirmed as accepted by the tax authority.",
+   "quote": "Молиявий ҳисоботлар* (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Mualliflik nazorati qurilish davrida amaldagi me'yoriy talablar va shartnoma shartlariga muvofiq amalga oshiriladi.",
+   "summary_en": "Author supervision is carried out during construction under the applicable norms and the contract.",
+   "quote": "amaldagi me'yoriy talablar va shartnoma shartlariga muvofiq mualliflik nazoratini amalga oshirishi shart.",
+   "page": 6,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_financial",
+   "severity": "high",
+   "quote": "So‘nggi 3 yil uchun o‘rtacha yillik aylanma — kamida 8 mlrd so‘m.",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Moliyaviy barqarorlik mezoni (100 balldan 15 ball) so'nggi 3 yildagi o'rtacha yillik aylanma kamida 8 mlrd so'm bo'lishini so'raydi. Lotning boshlang'ich narxi 330,4 mln so'm, ya'ni talab lot qiymatidan taxminan 24 baravar katta. Texnik qismdan o'tish bali 70 bo'lgani uchun bu 15 ballni yo'qotgan ishtirokchiga xato qilish uchun deyarli joy qolmaydi. Loyihalash ishini bajara oladigan kichikroq tashkilotlar chetda qolishi mumkin.",
+   "explanation_en": "The financial-stability criterion (15 of 100 points) asks for average annual turnover of at least 8 bn UZS over the last 3 years. The lot's start price is 330.4 m UZS, so the threshold is about 24 times the lot value. The technical pass mark is 70, so a bidder who loses these 15 points has almost no margin left. Smaller design firms able to do the work may be left out.",
+   "rewrite_uz": "So'nggi 3 yil uchun o'rtacha yillik aylanma shartnoma boshlang'ich narxidan kam bo'lmasligi kerak.",
+   "rewrite_en": "Average annual turnover over the last 3 years must be not less than the contract start price.",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 55,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 40,
+  "history_penalty": 5.2,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Lot hajmiga nomutanosib moliyaviy talab (platformadagi mezonlar): Moliyaviy barqarorlik mezoni (100 balldan 15 ball) so'nggi 3 yildagi o'rtacha yillik aylanma kamida 8 mlrd so'm bo'lishini so'raydi. Lotning boshlang'ich narxi 330,4 mln so'm, ya'ni talab lot qiymatidan taxminan 24 baravar katta. Texnik qismdan o'tish bali 70 bo'lgani uchun bu 15 ballni yo'qotgan ishtirokchiga xato qilish uchun deyarli joy qolmaydi. Loyihalash ishini bajara oladigan kichikroq tashkilotlar chetda qolishi mumkin.",
+   "Buyurtmachining so'nggi 42 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 55% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 12%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 521781).",
+   "Tushuntirish so'rash muddati: 18.11.2026 17:50."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Financial demand out of proportion to the lot (platform criteria form): The financial-stability criterion (15 of 100 points) asks for average annual turnover of at least 8 bn UZS over the last 3 years. The lot's start price is 330.4 m UZS, so the threshold is about 24 times the lot value. The technical pass mark is 70, so a bidder who loses these 15 points has almost no margin left. Smaller design firms able to do the work may be left out.",
+   "In the customer's last 42 deals the median number of bidders was 2; 55% of deals had two or fewer bidders; the most frequent winner took 12%.",
+   "This lot was re-announced (previous lot: 521781).",
+   "Clarification requests are accepted until 18.11.2026 17:50."
+  ]
+ },
+ "documents_needed_uz": [
+  "Loyihani 60 kundan oshmagan muddatda bajarish bo'yicha kafolat xati",
+  "Muhandis-texnik xodimlar ro'yxati, ma'lumoti va tajribasi bo'yicha hujjatlar",
+  "Yakunlangan shartnomalar va bajarilgan ishlar dalolatnomalari",
+  "Moliyaviy hisobotlar (buxgalteriya balansi)",
+  "Kompyuter texnikasi va dasturiy ta'minot ro'yxati",
+  "Soliq qarzi yo'qligi haqida ma'lumotnoma",
+  "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+  "Taklifni ta'minlash (bid security)",
+  "Согласно отборочному документу"
+ ],
+ "clarification_letter_uz": "Kimga: GIDROQURILISH BUYURTMACHI XIZMATI MCHJ, xarid komissiyasiga\nLot raqami: 26120012524954\nXarid predmeti: Toshkent viloyati Ohangaron tumanidagi Ohangaron suv ombori suv urilma qudug‘ini ta’mirlash va tiklash ishlari” obyekti bo‘yicha loyiha ishlari\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «So‘nggi 3 yil uchun o‘rtacha yillik aylanma — kamida 8 mlrd so‘m.»\n   Savolimiz: Moliyaviy barqarorlik mezoni (100 balldan 15 ball) so'nggi 3 yildagi o'rtacha yillik aylanma kamida 8 mlrd so'm bo'lishini so'raydi. Lotning boshlang'ich narxi 330,4 mln so'm, ya'ni talab lot qiymatidan taxminan 24 baravar katta. Texnik qismdan o'tish bali 70 bo'lgani uchun bu 15 ballni yo'qotgan ishtirokchiga xato qilish uchun deyarli joy qolmaydi. Loyihalash ishini bajara oladigan kichikroq tashkilotlar chetda qolishi mumkin.\n   Taklif etilayotgan tahrir: So'nggi 3 yil uchun o'rtacha yillik aylanma shartnoma boshlang'ich narxidan kam bo'lmasligi kerak.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 17:50) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 42,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.5476,
+  "top_winner_share": 0.119,
+  "share_price_drop_lt1pct": 0.381,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 45066560.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "lint_backend": "in-session"
+}

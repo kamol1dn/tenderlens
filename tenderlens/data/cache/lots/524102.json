@@ -1,0 +1,208 @@
+{
+ "lot_id": 524102,
+ "display_no": "26110012524102",
+ "title": "Xavfsizlikni ehtimoliy tahlil qilish laboratoriyasini dasturiy ta’minot bilan jihozlash. (Оснащение программным обеспечением лаборатории вероятностного анализа безопасности)",
+ "url": "https://etender.uzex.uz/lot/524102",
+ "customer": {
+  "name": "Radiatsiya va yadro xavfsizligi ilmiy-texnik markazi",
+  "tin": "311717904"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 798070000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T14:41:33",
+ "end_date": "2026-11-20T14:41:33",
+ "clarific_date": "2026-11-20T14:41:33",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 10,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524102.zip",
+  "pages": 45,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45
+  ]
+ },
+ "subject_uz": "Xavfsizlikni ehtimoliy tahlil qilish laboratoriyasi uchun dasturiy ta'minot litsenziyalari xaridi",
+ "sector": "it",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "Davlat byudjeti hisobidan. (Средства государственного бюджета)",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Taklif texnik topshiriq talablariga to'liq mos bo'lishi kerak (texnik topshiriq alohida faylda, o'qib bo'lmaydigan sahifalarda).",
+   "summary_en": "The offer must fully match the technical specification (a separate file, partly unreadable here).",
+   "quote": "Tanlov ishtirokchisining taklifi texnik topshiriq talablariga to‘liq muvofiq bo‘lishi lozim.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Dasturiy ta'minot ishlab chiqaruvchisi yoki rasmiy vakili maqomi tasdiqlanadi (10 ball).",
+   "summary_en": "Status as software developer or official representative must be confirmed (10 points).",
+   "quote": "Dasturiy ta’minot ishlab chiquvchisi yoki uning rasmiy vakili maqomini tasdiqlash",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Tanlov predmetiga o'xshash kamida 1 ta shartnoma tajribasi talab etiladi.",
+   "summary_en": "Experience with at least 1 contract similar to the subject is required.",
+   "quote": "Tanlov ishtirokchisi tanlov predmetiga o‘xshash predmet bo‘yicha kamida 1 ta shartnomani amalga oshirish tajribasiga ega bo‘lishi lozim.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Moliyaviy holat 4-shakl bo'yicha tasdiqlovchi hujjatlar bilan taqdim etiladi (2023-2025 yillar).",
+   "summary_en": "Financial position is reported on form 4 with supporting documents (2023-2025).",
+   "quote": "Tanlov ishtirokchisi moliyaviy holati to‘g‘risidagi ma’lumotlarni 4-sonli shaklga muvofiq, tasdiqlovchi hujjatlarni ilova qilgan holda taqdim etishi lozim.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati 45 kun (e'londa 45 oy ko'rsatilgan, hujjatda kun).",
+   "summary_en": "Delivery period of 45 days (the lot header says 45 months, the document says days).",
+   "quote": "Yetkazib berish muddati | 45 kun",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "payment",
+   "summary_uz": "30 foiz oldindan to'lov, 70 foiz dalolatnoma imzolangandan keyin 15 bank kuni ichida.",
+   "summary_en": "30 percent prepayment and 70 percent within 15 banking days after the acceptance act.",
+   "quote": "— Foydalanish huquqini taqdim etish uchun Shartnoma imzolangan kundan boshlab __ (5) bank kuni ichida _________________ miqdorida 30% oldindan to‘lov;",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "other",
+   "summary_uz": "Litsenziat huquqni uchinchi shaxslarga sublitsenziya bilan bera olmaydi.",
+   "summary_en": "The licensee may not sublicense the rights to third parties.",
+   "quote": "Litsenziat Foydalanish huquqini har qanday uchinchi shaxslarga sublicenziya shartnomalari asosida taqdim etishga haqli emas.",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "other",
+   "summary_uz": "Takliflar tijorat takliflarini topshirish tugagandan keyin kamida 90 kun amal qiladi.",
+   "summary_en": "Offers must remain valid for at least 90 days after bid submission closes.",
+   "quote": "Takliflar qabul qilishning oxirgi kuni sifatida belgilangan sanadan boshlab 90 kun davomida ushbu taklif shartlariga rioya etishga rozimiz.",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Kechiktirilgan har bir kun uchun 0,3 foiz penya, umumiy narxning 50 foizigacha.",
+   "summary_en": "Late-delivery penalty of 0.3 percent per day, capped at 50 percent of the price.",
+   "quote": "Litsenziar Foydalanish huquqini taqdim etish muddatlarini buzgan taqdirda, Litsenziat Litsenziardan kechiktirilgan har bir kun uchun taqdim etilmagan huquqlar qiymatining 0,3 foizi miqdorida",
+   "page": 10,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 100,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Diqqat: hujjatning 16 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "Note: 16 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirok etish uchun ariza (1-shakl)",
+  "Kafolat xati (2-shakl)",
+  "Tanlov ishtirokchisi haqida umumiy ma'lumot va o'xshash shartnomalar ro'yxati (3-shakl)",
+  "Moliyaviy holat to'g'risida ma'lumot va tasdiqlovchi hujjatlar (4-shakl)",
+  "Halollik va manfaatlar to'qnashuvi bo'yicha ariza (5-shakl)",
+  "Texnik taklif va texnik tavsiflar taqqoslash jadvali (6-shakl)",
+  "Dasturiy ta'minot ro'yxatdan o'tganligi to'g'risidagi guvohnoma yoki ishlab chiquvchining vakolat beruvchi xati yoki distribyutorning litsenziya shartnomasi",
+  "Oxirgi o'xshash shartnoma bajarilganini tasdiqlovchi hujjatlar",
+  "Ishonchnoma (rahbar bo'lmagan shaxs imzolasa)",
+  "Форма №6",
+  "Dasturiy ta’minot ro‘yxatdan o‘tkazilganligi to‘g‘risidagi guvohnoma yoki ishlab chiquvchining vakolat beruvchi xati yoxud distribyutorning litsenziya shartnomasi./Свидетельство о регистрации ПО или авторизационное письмо от разработчика или лицензионный договор дистрибьютора"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 2,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 1.0,
+  "top_winner_share": 0.5,
+  "share_price_drop_lt1pct": 0.5,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 108856748.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

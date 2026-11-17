@@ -1,0 +1,244 @@
+{
+ "lot_id": 524454,
+ "display_no": "26120012524454",
+ "title": "“O‘zbektelekom” AK uchun SPO/IPOga tayyorgarlik darajasini baholash bo‘yicha konsalting xizmatlarini xarid qilish",
+ "url": "https://etender.uzex.uz/lot/524454",
+ "customer": {
+  "name": "\"O`ZBEKTELEKOM \" AJ",
+  "tin": "203366731"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 1948800000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T13:11:42",
+ "end_date": "2026-11-24T13:11:42",
+ "clarific_date": "2026-11-24T13:11:42",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 5,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 3.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 3.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524454.rar",
+  "pages": 42,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   33
+  ]
+ },
+ "subject_uz": "O'zbektelekom AK uchun SPO/IPOga tayyorgarlik darajasini baholash bo'yicha konsalting xizmatlari",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "O'z mablag'lari",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi SPO/IPOga tayyorgarlik, SPO/IPO bo'yicha konsalting va/yoki kapital bozorlari sohasida tasdiqlangan tajribaga ega bo'lishi kerak; tajriba (4-shakl) shartnoma va hisob-faktura bilan tasdiqlanadi, aks holda ishtirokchi chetlashtiriladi.",
+   "summary_en": "Bidder must have proven SPO/IPO readiness, SPO/IPO advisory and/or capital-markets experience, documented on form 4 with contracts and invoices, otherwise it is excluded.",
+   "quote": "Ishtirokchi yoki uning ijrochi jamoasining SPO/IPOga tayyorgarlik, SPO/IPO bo‘yicha konsalting va/yoki kapital bozorlari sohasida tasdiqlangan ish tajribasining mavjudligi.",
+   "page": 24,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Tajriba bo'yicha ball: 2 tagacha yakunlangan shartnoma 1 ball, 3-4 ta 2 ball, 5 va undan ortiq 3 ball (maksimal).",
+   "summary_en": "Experience scoring: up to 2 completed contracts 1 point, 3-4 contracts 2 points, 5 or more 3 points (maximum).",
+   "quote": "5 ta va undan ortiq yakunlangan shartnomalarni tashkil etsa — 3 ball (maksimal ball)",
+   "page": 24,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Taqqoslanadigan kapital bozorlarida oxirgi 10 yilda kamida 3 ta SPO/IPO loyihasi afzal hisoblanadi (1-2 loyiha 1 ball, 3 va undan ko'p 2 ball); kamida bittasi SPO/IPO tayyorgarlik yoki maslahat loyihasi bo'lishi kerak.",
+   "summary_en": "At least 3 SPO/IPO projects in comparable capital markets in the last 10 years are preferred (1-2 projects 1 point, 3+ projects 2 points); at least one must be a readiness or advisory project.",
+   "quote": "kamida 3 (uchta) SPO/IPO loyihasini yakunlagan bo‘lishi afzal hisoblanadi",
+   "page": 24,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Jamoada loyiha rahbari, kapital bozorlari/SPO/IPO eksperti va moliyaviy hisobot (IFRS) yoki korporativ boshqaruv-huquqiy eksperti bo'lishi shart; rahbar kamida 2 ta SPO/IPO yoki tayyorgarlik loyihasida qatnashgan bo'lishi kerak, aks holda ishtirokchi chetlashtiriladi.",
+   "summary_en": "The team must include a project leader, a capital-markets/SPO/IPO expert and an IFRS or governance/legal expert; the leader must have taken part in at least 2 SPO/IPO or readiness projects, otherwise the bidder is excluded.",
+   "quote": "Loyiha rahbari yoki boshqa yuqori darajadagi asosiy ekspert SPO/IPO va/yoki ular bilan bog‘liq konsalting xizmatlari sohasida kamida 2 ta SPO/IPO yoki SPO/IPO tayyorgarlik loyihasida ishtirok etgan bo‘lishi lozim.",
+   "page": 25,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "SPO/IPOga tayyorgarlikni baholash metodologiyasi taqdim etilsa 1 ball.",
+   "summary_en": "1 point if a methodology for the readiness assessment is submitted.",
+   "quote": "Metodologiya taqdim etilmagan bo‘lsa — 0 ball; Metodologiya taqdim etilgan bo‘lsa — 1 ball.",
+   "page": 26,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "5-shakldagi kafolat xati (taklif xarid hujjatlari va texnik topshiriqqa to'liq mos) majburiy; taklif 60 kun amal qiladi.",
+   "summary_en": "A guarantee letter on form 5 confirming full conformity with the procurement documents is mandatory; the offer stays valid for 60 days.",
+   "quote": "Ishtirokchining tanlov bo‘yicha taklifi xarid hujjatlari va texnik topshiriq talablariga to‘liq muvofiqligini tasdiqlovchi 5-shaklga muvofiq kafolat xati.",
+   "page": 26,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Manfaatlar to'qnashuvi va affillanganlik yo'qligi (1-ilova), halollik majburiyati arizasi (2-ilova) va buyurtmachi bilan oldingi shartnomalar bo'yicha nizo yo'qligi (3-ilova) haqida rasmiy blankadagi xatlar talab qilinadi.",
+   "summary_en": "Letters on letterhead are required on no conflict of interest or affiliation (annex 1), an integrity statement (annex 2), and no disputes over earlier contracts with the customer (annex 3).",
+   "quote": "Buyurtmachi bilan ilgari tuzilgan shartnomalar doirasida sud yoki arbitraj tartibida nizolarga kirishilmagan.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Xizmat avans to'langan kundan keyingi ish kunidan boshlab 40 ish kunidan oshmagan muddatda ko'rsatiladi; yakuniy hisobot va taqdimot ingliz tilida (rahbariyat uchun taqdimot rus tilida bo'lishi mumkin).",
+   "summary_en": "Services must be delivered within 40 working days of the advance payment; the final report and presentation are in English (the management presentation may be requested in Russian).",
+   "quote": "Shartnoma bo‘yicha boshlang‘ich to‘lov amalga oshirilgan kundan e’tiboran 40 ish kundan oshmagan muddatda",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "payment",
+   "summary_uz": "Shartnoma qiymatining 15 foizi avans, qolgan 85 foizi hisob-faktura va dalolatnoma imzolangach 10 ish kuni ichida to'lanadi; boshlang'ich narx 1 948 800 000 so'm (QQS bilan); taklif ta'minoti 3 foiz.",
+   "summary_en": "15 percent advance, remaining 85 percent within 10 working days after invoice and acceptance act; start price 1,948,800,000 UZS incl. VAT; bid security 3 percent.",
+   "quote": "oldindan to‘lov (avans), shartnoma kuchga kirgan kundan",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Malaka-texnik qism bo'yicha o'tish bali 5 (maksimal 10); narx qismi 30 foiz, malaka-texnik qism 70 foiz.",
+   "summary_en": "Pass mark for the qualification-technical part is 5 out of 10; weights are 70 percent technical and 30 percent price.",
+   "quote": "5 (maksimal ball – 10)",
+   "page": 8,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_experience",
+   "severity": "low",
+   "quote": "Пудратчи сiнгги 10 йил давомида камида 5 та таккосланадиган каIIитЕtп",
+   "page": 40,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Texnik topshiriqda ishtirokchi oxirgi 10 yilda kamida 5 ta taqqoslanadigan kapital bozori SPO/IPO loyihasini yakunlagan bo'lishi, shundan kamida 2 tasi tayyorgarlik yoki maslahat loyihasi bo'lishi majburiy qilib yozilgan; ingliz tilidagi qismda esa shu talab 7 yil deb ko'rsatilgan. Platforma shaklida esa 3 ta loyiha faqat \"afzal\" va 2 ball beradi. Bu uch xil ko'rsatkich 1 948 800 000 so'mlik xizmat uchun qaysi biri majburiy ekanini noaniq qiladi va kichikroq xalqaro maslahatchilarni chetlatishi mumkin.",
+   "explanation_en": "The Uzbek terms of reference make it mandatory to have completed at least 5 comparable capital-markets SPO/IPO projects in the last 10 years, of which at least 2 are readiness or advisory work, while the English text of the same clause says 7 years. The platform form treats 3 projects only as preferred, worth 2 points. These three versions leave unclear which is binding for a 1,948,800,000 UZS service and may shut out smaller international advisers.",
+   "rewrite_uz": "Ishtirokchi (yoki konsorsium a'zolari yoki xalqaro tarmoq bo'linmalari) oxirgi 10 yilda taqqoslanadigan bozorlarda kamida 3 ta SPO/IPO yoki tayyorgarlik/maslahat loyihasini yakunlagan bo'lishi kerak; muddat va soni barcha tillardagi va platformadagi matnlarda bir xil ko'rsatilsin.",
+   "rewrite_en": "The bidder (or consortium members or network units) must have completed at least 3 SPO/IPO or readiness/advisory projects in comparable markets in the last 10 years; state the same period and number in all language versions and on the platform form.",
+   "type_label_uz": "Lot hajmiga nomutanosib tajriba yoki resurs talabi",
+   "type_label_en": "Experience or resource demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 91,
+ "traffic_light": "green",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 6,
+  "history_penalty": 3.2,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Lot hajmiga nomutanosib tajriba yoki resurs talabi (40-bet): Texnik topshiriqda ishtirokchi oxirgi 10 yilda kamida 5 ta taqqoslanadigan kapital bozori SPO/IPO loyihasini yakunlagan bo'lishi, shundan kamida 2 tasi tayyorgarlik yoki maslahat loyihasi bo'lishi majburiy qilib yozilgan; ingliz tilidagi qismda esa shu talab 7 yil deb ko'rsatilgan. Platforma shaklida esa 3 ta loyiha faqat \"afzal\" va 2 ball beradi. Bu uch xil ko'rsatkich 1 948 800 000 so'mlik xizmat uchun qaysi biri majburiy ekanini noaniq qiladi va kichikroq xalqaro maslahatchilarni chetlatishi mumkin.",
+   "Buyurtmachining so'nggi 93 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 45% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 4%.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "Experience or resource demand out of proportion to the lot (page 40): The Uzbek terms of reference make it mandatory to have completed at least 5 comparable capital-markets SPO/IPO projects in the last 10 years, of which at least 2 are readiness or advisory work, while the English text of the same clause says 7 years. The platform form treats 3 projects only as preferred, worth 2 points. These three versions leave unclear which is binding for a 1,948,800,000 UZS service and may shut out smaller international advisers.",
+   "In the customer's last 93 deals the median number of bidders was 3; 45% of deals had two or fewer bidders; the most frequent winner took 4%.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasi",
+  "Shartnoma tuzish huquqini tasdiqlovchi hujjat (ustav, tayinlov buyrug'i yoki ishonchnoma)",
+  "Soliq qarzdorligi yo'qligi to'g'risida ma'lumotnoma",
+  "Bankrotlik jarayoni yo'qligi haqida my.gov.uz ma'lumoti",
+  "Insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumot",
+  "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+  "Resurslar mavjudligi to'g'risida rasmiy blankadagi kafolat xati",
+  "Manfaatlar to'qnashuvi va affillanganlik yo'qligi to'g'risida xat (1-ilova)",
+  "Halollik majburiyati to'g'risida ariza (2-ilova)",
+  "Buyurtmachi bilan oldingi shartnomalar bo'yicha nizo yo'qligi haqida xat (3-ilova)",
+  "Ish tajribasi to'g'risida ma'lumot (4-shakl) va shartnomalar, hisob-fakturalar, dalolatnomalar yoki tavsiya xatlari",
+  "Asosiy mutaxassislar portfeli, sertifikatlari, CV va mehnat yoki fuqarolik-huquqiy shartnomalari",
+  "Xizmat ko'rsatish metodologiyasi tavsifi",
+  "Taklifning texnik topshiriqqa to'liq muvofiqligi to'g'risida kafolat xati (5-shakl)",
+  "Benefitsiar to'g'risida ma'lumot",
+  "Tasdiqlovchi hujjat taqdim etilishi lozim"
+ ],
+ "clarification_letter_uz": "Kimga: \"O`ZBEKTELEKOM \" AJ, xarid komissiyasiga\nLot raqami: 26120012524454\nXarid predmeti: “O‘zbektelekom” AK uchun SPO/IPOga tayyorgarlik darajasini baholash bo‘yicha konsalting xizmatlarini xarid qilish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 40-bet.\n   Hujjatdagi matn: «Пудратчи сiнгги 10 йил давомида камида 5 та таккосланадиган каIIитЕtп»\n   Savolimiz: Texnik topshiriqda ishtirokchi oxirgi 10 yilda kamida 5 ta taqqoslanadigan kapital bozori SPO/IPO loyihasini yakunlagan bo'lishi, shundan kamida 2 tasi tayyorgarlik yoki maslahat loyihasi bo'lishi majburiy qilib yozilgan; ingliz tilidagi qismda esa shu talab 7 yil deb ko'rsatilgan. Platforma shaklida esa 3 ta loyiha faqat \"afzal\" va 2 ball beradi. Bu uch xil ko'rsatkich 1 948 800 000 so'mlik xizmat uchun qaysi biri majburiy ekanini noaniq qiladi va kichikroq xalqaro maslahatchilarni chetlatishi mumkin.\n   Taklif etilayotgan tahrir: Ishtirokchi (yoki konsorsium a'zolari yoki xalqaro tarmoq bo'linmalari) oxirgi 10 yilda taqqoslanadigan bozorlarda kamida 3 ta SPO/IPO yoki tayyorgarlik/maslahat loyihasini yakunlagan bo'lishi kerak; muddat va soni barcha tillardagi va platformadagi matnlarda bir xil ko'rsatilsin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (24.11.2026 13:11) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 93,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4516,
+  "top_winner_share": 0.043,
+  "share_price_drop_lt1pct": 0.1398,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 274780800.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

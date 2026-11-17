@@ -1,0 +1,145 @@
+{
+ "lot_id": 525476,
+ "display_no": "26120012525476",
+ "title": "Tibbiy Sumka Maxsus",
+ "url": "https://etender.uzex.uz/lot/525476",
+ "customer": {
+  "name": "MAXSUS AVARIYA-TIKLASH BOSHQARMASI",
+  "tin": "200564868"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 6500000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-15T08:22:27",
+ "end_date": "2026-11-20T08:22:27",
+ "clarific_date": "2026-11-20T08:22:27",
+ "type": "selection",
+ "old_id": 523845,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 70,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 100.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525476.pdf",
+  "pages": 2,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Ikki dona 12 litrli tibbiy termosumka (termokonteyner) xaridi",
+ "sector": "health",
+ "customer_sector": "health",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Birinchi mahsulot: hajmi 12 litrli tibbiy termosumka, 1 dona.",
+   "summary_en": "Item 1: a medical thermal bag of 12 litres, 1 piece.",
+   "quote": "Tibbiy termosumka 12 litrli",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Ikkinchi mahsulot: portativ termokonteyner (bio-eko muzlatgich), 12 litr, 1 dona.",
+   "summary_en": "Item 2: a portable thermal container (bio-eco cooler), 12 litres, 1 piece.",
+   "quote": "Portativ termokonteyner (bio -eko muzlatgich)",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi shu faoliyat bilan shugʻullanish huquqini beruvchi hujjatlar (litsenziya, guvohnoma) nusxalarini muhr bilan tasdiqlab ilova qiladi.",
+   "summary_en": "The bidder attaches stamped copies of documents (licence, certificate) entitling it to carry out this type of activity.",
+   "quote": "faoliyat turi bilan shug'illanish huquqini beruvchi hujjatlarni (lisenziya, guvohnoma) nusxalarini muhr bilan tasdiqlab ilova qilib",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Baholash faqat texnik shartga muvofiqlik boʻyicha (100 ball, ekspert baholashi); oʻtish bali 70.",
+   "summary_en": "Scoring is a single criterion, conformity to the technical specification (100 points, expert assessment); pass mark 70.",
+   "quote": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslariga ega boʻlishi kerak.",
+   "summary_en": "The bidder must have the technical, financial, material and staffing resources needed to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 100,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 523845)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "This lot was re-announced (previous lot: 523845)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik taklif (texnik shartga asosan)",
+  "Faoliyat turi bilan shugʻullanish huquqini beruvchi hujjatlar (litsenziya, guvohnoma) nusxalari, muhr bilan tasdiqlangan",
+  "Davlat roʻyxatidan oʻtganlik guvohnomasi va taʼsis hujjatlari",
+  "Soliq va yigʻimlar boʻyicha qarzdorlik yoʻqligi haqida maʼlumotnoma",
+  "Manfaatlar toʻqnashuvi va affillanganlik holatlari yoʻqligi haqida tasdiq",
+  "TEXNIK shartga asosan taklif taqdim qilish"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 3,
+  "median_bidders": 6,
+  "share_le2_bidders": 0.3333,
+  "top_winner_share": 0.3333,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 3
+ },
+ "money_on_table_uzs": 886600.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": true,
+  "window_days": 5.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

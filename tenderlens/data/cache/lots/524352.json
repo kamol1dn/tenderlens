@@ -1,0 +1,273 @@
+{
+ "lot_id": 524352,
+ "display_no": "26120012524352",
+ "title": "Yuzasini silliqlash stanogi yetkazib berish/ supply of surface grinding machine",
+ "url": "https://etender.uzex.uz/lot/524352",
+ "customer": {
+  "name": "\"UZBEKISTAN GTL\" MCHJ",
+  "tin": "207041936"
+ },
+ "region": "Қашқадарё вилояти",
+ "start_cost": 837687943.51,
+ "currency": "UZS",
+ "start_date": "2026-11-16T17:39:28",
+ "end_date": "2026-11-25T17:39:28",
+ "clarific_date": "2026-11-25T17:39:28",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 2,
+  "criteria": [
+   {
+    "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524352.zip",
+  "pages": 21,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Harakatlanuvchi ustunli yuzani silliqlash stanogini yetkazib berish, o'rnatish va xodimlarni o'qitish (837 687 943,51 so'm)",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "O'z mablag'lari",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Bitta harakatlanuvchi ustunli yassi silliqlash stanogi yetkazib beriladi; asosiy texnik talablar 1-ilovada.",
+   "summary_en": "One moving-column surface grinding machine; main technical requirements are in Appendix 1.",
+   "quote": "Asosiy texnik talablar Ilova №1 da keltirilgan",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati 4 oy; texnik taklifda muddat avans to'langan sanadan kalendar kunlarda ko'rsatiladi.",
+   "summary_en": "Delivery period is 4 months; the technical offer states days from the advance payment date.",
+   "quote": "Yetkazib berish muddati - avans to‘langan sanadan boshlab ____ kalendar kun",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Uskuna 2025-yildan keyin ishlab chiqarilgan bo'lishi kerak (ruscha matnda: 2025 yildan oldin emas).",
+   "summary_en": "Equipment must be manufactured in 2025 or later (the Uzbek text says above 2025, the Russian text says not earlier than 2025).",
+   "quote": "Оборудование должно быть изготовлено не ранее 2025 года",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Stol o'lchami 500x1500 mm, shpindel o'qidan stolgacha masofa 600 mm, stol yuki 1200 kg, abraziv doira 405x50x127 mm.",
+   "summary_en": "Table 500x1500 mm, spindle-to-table distance 600 mm, table load 1200 kg, grinding wheel 405x50x127 mm.",
+   "quote": "Габариты стола (максимальная зона обработки) 500×1500 мм, максимальное расстояние от оси вращения шпинделя до стола 600 мм",
+   "page": 19,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Standart komplektatsiya: gidrostansiya, silliqlash doirasi, flanes, dastgoh tayanchlari, yoritish lampasi va texnik xizmat asboblari to'plami.",
+   "summary_en": "Standard set: hydraulic station, grinding wheel, flange, machine supports, work lamp and a maintenance tool kit.",
+   "quote": "Стандартная комплектация: гидростанция; шлифовальный круг; фланец шлифовального круга;",
+   "page": 19,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib beruvchi uskunani o'rnatadi, 3 xodimni o'qitadi va o'qitilganligi to'g'risida hujjat beradi; so'ng qabul qilish dalolatnomasi tuziladi.",
+   "summary_en": "The supplier installs the machine, trains 3 staff and provides a training document; an acceptance certificate follows.",
+   "quote": "Ishlab chiqaruvchi va buyurtmachi ishchi xodimlari bilan birgalikda Ekspluatatsiya qilish to’liq ishga tushurilib foydalanishga topshirilgandan so’ng Qabul qilish dalolatnomasini rasmiylashtirish.",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "technical",
+   "summary_uz": "Uskuna pasporti, foydalanish yo'riqnomasi, montaj va sozlash yo'riqnomasi hamda sxemalar topshiriladi.",
+   "summary_en": "Equipment passport, operating manual, installation instructions and diagrams must be handed over.",
+   "quote": "1. Uskuna pasporti 2. Ekspluatatsiya (foydalanish) yo’riqnomasi 3. Montaj va sozlash bo’yicha yo’riqnoma",
+   "page": 17,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "technical",
+   "summary_uz": "Sifat menejmenti bo'yicha ISO 9001 standartiga muvofiqlik talab qilinadi.",
+   "summary_en": "ISO 9001 quality management is required.",
+   "quote": "ISO 9001 Sifat menejmenti",
+   "page": 17,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "2-sonli shakl va xarakteristikalar solishtirma jadvali to'g'ri bo'lsa 1 ball, aks holda 0 ball va diskvalifikatsiya.",
+   "summary_en": "A correct Form 2 and comparison table earn 1 point; otherwise 0 and disqualification.",
+   "quote": "2-sonli shakl va/yoki 2-sonli shakl ilovasi va/yoki Texnik topshiriqda talab etilgan hujjatlar talablarga mos kelmasa – 0 ball (diskvalifikatsiya)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "1-sonli kontragent so'rovnomasi va so'ralgan hujjatlar to'liq topshirilishi va tekshiruv natijasi ijobiy bo'lishi kerak, aks holda 0 ball.",
+   "summary_en": "Counterparty questionnaire (Form 1) and requested documents must pass verification, otherwise 0 points and disqualification.",
+   "quote": "1-sonli shakllar va/yoki so‘ralgan hujjatlar muvofiq emas va/yoki tekshirish natijalari bo‘yicha salbiy xulosa olingan - 0 ball (diskvalifikatsiya)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r11",
+   "kind": "other",
+   "summary_uz": "Takliflar qabul qilish muddati tugagandan keyin 90 kun davomida amal qilishi kerak.",
+   "summary_en": "The offer must remain valid for 90 days after the closing date.",
+   "quote": "Biz takliflarni qabul qilish muddati tugaydigan sanadan boshlab 90 kun davomida ushbu taklif qoidalariga amal qilishga rozimiz.",
+   "page": 2,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "narrow_params",
+   "severity": "medium",
+   "quote": "Габариты стола (максимальная зона обработки) 500×1500 мм, максимальное расстояние от оси вращения шпинделя до стола 600 мм",
+   "page": 19,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "1-ilovada stol 500x1500 mm, shpindel-stol masofasi 600 mm, stol yuki 1200 kg, doira 405x50x127 mm, doira tezligi 1450 ayl/min, dvigatel 7,5 kVt kabi aniq yagona qiymatlar berilgan, diapazon yoki \"kam emas\" qo'llanilmagan. Bunday kombinatsiya bitta ishlab chiqaruvchining bitta modeliga mos kelishi mumkin, shuning uchun teng imkoniyatli stanoklar rad etilishi ehtimoli bor.",
+   "explanation_en": "Appendix 1 gives single exact values (table 500x1500 mm, spindle-to-table 600 mm, table load 1200 kg, wheel 405x50x127 mm, 1450 rpm, 7.5 kW motor) with no ranges or minimums. Such a combination may match one maker's single model, so comparable machines could be rejected.",
+   "rewrite_uz": "Asosiy o'lchamlar uchun diapazon yoki minimal qiymat belgilang (masalan, stol kamida 500x1500 mm, shpindel-stol masofasi kamida 600 mm) va \"yoki ekvivalent\" ni qo'shing.",
+   "rewrite_en": "Use ranges or minimum values for key dimensions (for example table not smaller than 500x1500 mm, spindle-to-table distance not less than 600 mm) and add \"or equivalent\".",
+   "type_label_uz": "Haddan tashqari tor texnik parametrlar",
+   "type_label_en": "Over-narrow technical parameters",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "low",
+   "quote": "Uskunalarni ishlab chiqarilgani 2025-yildan yuqori bo’lishi kerak",
+   "page": 15,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "O'zbekcha matnda \"2025-yildan yuqori\" deyilgan (bu faqat 2026 yilni bildirishi mumkin), ruscha matnda esa \"2025 yildan oldin emas\". Talqin farqi 2025 yilgi yangi stanoklarni taklif qiladigan ishtirokchini rad etishga olib kelishi mumkin; hujjatda ruscha yoki o'zbekcha matnning ustunligi ham ko'rsatilmagan.",
+   "explanation_en": "The Uzbek text says \"above 2025\" (which could only mean 2026), while the Russian text says \"not earlier than 2025\". The difference could lead to rejecting a bidder offering a new machine made in 2025, and the document does not say which language prevails.",
+   "rewrite_uz": "Uskuna 2025-yilda yoki undan keyin ishlab chiqarilgan bo'lishi kerak.",
+   "rewrite_en": "The equipment must be manufactured in 2025 or later.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "other",
+   "severity": "low",
+   "quote": "zarurat bo‘lganda, tekshirish bosqichida talab qilinadigan hujjatlar ro‘yxati Ijrochi xodimining tashabbusi bilan kengaytirilishi mumkin",
+   "page": 1,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "1-shakl bo'yicha tekshiruvda so'raladigan hujjatlar ro'yxati keyinroq buyurtmachi xodimi tashabbusi bilan kengaytirilishi mumkin, salbiy xulosa esa 0 ball va diskvalifikatsiyaga olib keladi. Ishtirokchi takliflar muddatigacha to'liq talablarni oldindan bilmaydi.",
+   "explanation_en": "The list of documents requested under Form 1 may be extended later at an employee's initiative, and a negative result leads to 0 points and disqualification. Bidders cannot know the full requirements before the deadline.",
+   "rewrite_uz": "Tekshiruv uchun so'raladigan hujjatlarning to'liq ro'yxatini tanlov hujjatlarida belgilab qo'ying va keyinchalik kengaytirmang.",
+   "rewrite_en": "Fix the full list of verification documents in the tender documents and do not extend it later.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 64,
+ "traffic_light": "amber",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 34,
+  "history_penalty": 1.8,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Haddan tashqari tor texnik parametrlar (19-bet): 1-ilovada stol 500x1500 mm, shpindel-stol masofasi 600 mm, stol yuki 1200 kg, doira 405x50x127 mm, doira tezligi 1450 ayl/min, dvigatel 7,5 kVt kabi aniq yagona qiymatlar berilgan, diapazon yoki \"kam emas\" qo'llanilmagan. Bunday kombinatsiya bitta ishlab chiqaruvchining bitta modeliga mos kelishi mumkin, shuning uchun teng imkoniyatli stanoklar rad etilishi ehtimoli bor.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (15-bet): O'zbekcha matnda \"2025-yildan yuqori\" deyilgan (bu faqat 2026 yilni bildirishi mumkin), ruscha matnda esa \"2025 yildan oldin emas\". Talqin farqi 2025 yilgi yangi stanoklarni taklif qiladigan ishtirokchini rad etishga olib kelishi mumkin; hujjatda ruscha yoki o'zbekcha matnning ustunligi ham ko'rsatilmagan.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (1-bet): 1-shakl bo'yicha tekshiruvda so'raladigan hujjatlar ro'yxati keyinroq buyurtmachi xodimi tashabbusi bilan kengaytirilishi mumkin, salbiy xulosa esa 0 ball va diskvalifikatsiyaga olib keladi. Ishtirokchi takliflar muddatigacha to'liq talablarni oldindan bilmaydi.",
+   "Buyurtmachining so'nggi 114 ta savdosida ishtirokchilar medianasi 4 ta; savdolarning 25% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 5%.",
+   "Tushuntirish so'rash muddati: 25.11.2026 17:39."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Over-narrow technical parameters (page 19): Appendix 1 gives single exact values (table 500x1500 mm, spindle-to-table 600 mm, table load 1200 kg, wheel 405x50x127 mm, 1450 rpm, 7.5 kW motor) with no ranges or minimums. Such a combination may match one maker's single model, so comparable machines could be rejected.",
+   "Other clause that may limit competition (page 15): The Uzbek text says \"above 2025\" (which could only mean 2026), while the Russian text says \"not earlier than 2025\". The difference could lead to rejecting a bidder offering a new machine made in 2025, and the document does not say which language prevails.",
+   "Other clause that may limit competition (page 1): The list of documents requested under Form 1 may be extended later at an employee's initiative, and a negative result leads to 0 points and disqualification. Bidders cannot know the full requirements before the deadline.",
+   "In the customer's last 114 deals the median number of bidders was 4; 25% of deals had two or fewer bidders; the most frequent winner took 5%.",
+   "Clarification requests are accepted until 25.11.2026 17:39."
+  ]
+ },
+ "documents_needed_uz": [
+  "1-sonli shakl: kontragent so'rovnomasi",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi nusxasi",
+  "Soliq hisobiga qo'yilganlik to'g'risidagi ma'lumot (STIR)",
+  "Ustav va boshqa ta'sis hujjatlari",
+  "Vakilning vakolatini tasdiqlovchi ishonchnoma",
+  "Egalik tuzilmasi to'g'risida ma'lumotnoma",
+  "Oxirgi hisobot davri uchun buxgalteriya va soliq hisoboti",
+  "Malakali xodimlar mavjudligi to'g'risida ma'lumot",
+  "Litsenziyalar va muvofiqlik sertifikatlari (kerak bo'lsa)",
+  "2-sonli shakl: texnik taklif",
+  "2-sonli shaklga ilova: texnik tavsiflarning solishtirma jadvali",
+  "Texnik hujjatlar (risolalar, texnik pasportlar, yo'riqnomalar)",
+  "ISO 9001 sertifikati",
+  "1-sonli shakllar va so‘ralgan hujjatlar to‘g‘ri keladi, tekshiruv natijalari bo‘yicha ijobiy xulosa olingan -1 ball; 1-sonli shakllar va/yoki so‘ralgan hujjatlar muvofiq emas va/yoki tekshirish natijalari bo‘yicha salbiy xulosa olingan - 0 ball (diskvalifikatsiya). / Форма №1 и запрашиваемые документы соответствуют, получено положительное заключение по результатам проверки –1 балл; Форма №1 и/или запрашиваемые документы не соответствуют и/или получено отрицательное заключение по результатам проверки – 0 баллов (дисквалификация)",
+  "2-sonli shakl, 2-sonli shakl ilovasi va Texnik topshiriqda talab etilgan hujjatlar talablarga mos kelsa – 1 ball, 2-sonli shakl va/yoki 2-sonli shakl ilovasi va/yoki Texnik topshiriqda talab etilgan hujjatlar talablarga mos kelmasa – 0 ball (diskvalifikatsiya). Форма №2, приложение к Форме №2, срок поставки и запрашиваемые документы в ТЗ соответствуют – 1 балл, Форма №4 и/или приложение к Форме №4 и/или срок поставки и/или запрашиваемые документы в ТЗ не соответствуют – 0 баллов (дисквалификация)"
+ ],
+ "clarification_letter_uz": "Kimga: \"UZBEKISTAN GTL\" MCHJ, xarid komissiyasiga\nLot raqami: 26120012524352\nXarid predmeti: Yuzasini silliqlash stanogi yetkazib berish/ supply of surface grinding machine\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 19-bet.\n   Hujjatdagi matn: «Габариты стола (максимальная зона обработки) 500×1500 мм, максимальное расстояние от оси вращения шпинделя до стола 600 мм»\n   Savolimiz: 1-ilovada stol 500x1500 mm, shpindel-stol masofasi 600 mm, stol yuki 1200 kg, doira 405x50x127 mm, doira tezligi 1450 ayl/min, dvigatel 7,5 kVt kabi aniq yagona qiymatlar berilgan, diapazon yoki \"kam emas\" qo'llanilmagan. Bunday kombinatsiya bitta ishlab chiqaruvchining bitta modeliga mos kelishi mumkin, shuning uchun teng imkoniyatli stanoklar rad etilishi ehtimoli bor.\n   Taklif etilayotgan tahrir: Asosiy o'lchamlar uchun diapazon yoki minimal qiymat belgilang (masalan, stol kamida 500x1500 mm, shpindel-stol masofasi kamida 600 mm) va \"yoki ekvivalent\" ni qo'shing.\n\n2. Texnik topshiriq, 15-bet.\n   Hujjatdagi matn: «Uskunalarni ishlab chiqarilgani 2025-yildan yuqori bo’lishi kerak»\n   Savolimiz: O'zbekcha matnda \"2025-yildan yuqori\" deyilgan (bu faqat 2026 yilni bildirishi mumkin), ruscha matnda esa \"2025 yildan oldin emas\". Talqin farqi 2025 yilgi yangi stanoklarni taklif qiladigan ishtirokchini rad etishga olib kelishi mumkin; hujjatda ruscha yoki o'zbekcha matnning ustunligi ham ko'rsatilmagan.\n   Taklif etilayotgan tahrir: Uskuna 2025-yilda yoki undan keyin ishlab chiqarilgan bo'lishi kerak.\n\n3. Texnik topshiriq, 1-bet.\n   Hujjatdagi matn: «zarurat bo‘lganda, tekshirish bosqichida talab qilinadigan hujjatlar ro‘yxati Ijrochi xodimining tashabbusi bilan kengaytirilishi mumkin»\n   Savolimiz: 1-shakl bo'yicha tekshiruvda so'raladigan hujjatlar ro'yxati keyinroq buyurtmachi xodimi tashabbusi bilan kengaytirilishi mumkin, salbiy xulosa esa 0 ball va diskvalifikatsiyaga olib keladi. Ishtirokchi takliflar muddatigacha to'liq talablarni oldindan bilmaydi.\n   Taklif etilayotgan tahrir: Tekshiruv uchun so'raladigan hujjatlarning to'liq ro'yxatini tanlov hujjatlarida belgilab qo'ying va keyinchalik kengaytirmang.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (25.11.2026 17:39) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 114,
+  "median_bidders": 4.0,
+  "share_le2_bidders": 0.2544,
+  "top_winner_share": 0.0526,
+  "share_price_drop_lt1pct": 0.0614,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 113590485.14,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 9.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

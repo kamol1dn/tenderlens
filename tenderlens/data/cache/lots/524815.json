@@ -1,0 +1,187 @@
+{
+ "lot_id": 524815,
+ "display_no": "26110012524815",
+ "title": "Хизмат кўрсатиш",
+ "url": "https://etender.uzex.uz/lot/524815",
+ "customer": {
+  "name": "Норин Корадарё сув иншоотлар бошкармаси",
+  "tin": "200257710"
+ },
+ "region": "Андижон вилояти",
+ "start_cost": 35883002.34,
+ "currency": "UZS",
+ "start_date": "2026-11-16T16:02:27",
+ "end_date": "2026-11-23T16:02:27",
+ "clarific_date": "2026-11-23T16:02:27",
+ "type": "selection",
+ "old_id": 524448,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 25,
+  "criteria": [
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларда суғурталашга қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524815.zip",
+  "pages": 7,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": [
+   2,
+   4,
+   5
+  ]
+ },
+ "subject_uz": "Telekommunikatsiya uskunasiga texnik xizmat ko'rsatish (aloqa vositalarini elektr tekshiruvi va sozlash)",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "Бюджет",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchida shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari boʻlishi kerak.",
+   "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Soliq va yigʻimlar boʻyicha muddati oʻtgan qarzdorlik boʻlmasligi kerak.",
+   "summary_en": "The bidder must have no overdue tax or fee debt.",
+   "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchiga nisbatan bankrotlik tartib-taomillari joriy etilmagan boʻlishi kerak.",
+   "summary_en": "No bankruptcy proceedings may be in force against the bidder.",
+   "quote": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reestrida boʻlmasligi kerak.",
+   "summary_en": "The bidder must not be listed in the unified register of unfair suppliers.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Majburiy ijro byurosi bazalarida sud qarorlari boʻyicha bajarilmagan majburiyatlar boʻlmasligi kerak.",
+   "summary_en": "The enforcement bureau databases must show no unfulfilled court-ordered obligations of the bidder.",
+   "quote": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Texnik hujjat aloqa vositalarini elektr tekshirish va sozlash, tuproqlash konturi oʻlchovlarini oʻz ichiga oladi.",
+   "summary_en": "The technical document covers electrical checking and tuning of communication equipment and earthing-loop measurements.",
+   "quote": "ЭЛЕКТРИЧЕСКАЯ ПРОВЕРКА И НАСТРОЙКА СРЕДСТВА СВЯЗИ",
+   "page": 7,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 94,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 5.8,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 13 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 85% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 31%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524448).",
+   "Diqqat: hujjatning 3 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 13 deals the median number of bidders was 2; 85% of deals had two or fewer bidders; the most frequent winner took 31%.",
+   "This lot was re-announced (previous lot: 524448).",
+   "Note: 3 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat roʻyxatidan oʻtganlik guvohnomasi",
+  "Soliq qarzdorligi yoʻqligi toʻgʻrisida maʼlumotnoma",
+  "Insofsiz ijrochilar reestrida yoʻqligi haqida maʼlumot",
+  "Majburiy ijro byurosi boʻyicha maʼlumot",
+  "Texnik va kadrlar resurslari mavjudligi toʻgʻrisida maʼlumotnoma",
+  "Kafolat shartlari boʻyicha maʼlumotnoma (mavjud boʻlsa)"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 13,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.8462,
+  "top_winner_share": 0.3077,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 4894441.52,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

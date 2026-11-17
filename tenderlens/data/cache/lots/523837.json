@@ -1,0 +1,257 @@
+{
+ "lot_id": 523837,
+ "display_no": "26110012523837",
+ "title": "ПСA кислород тизимини компрессорини таъмирлаш бўйича хизматлар",
+ "url": "https://etender.uzex.uz/lot/523837",
+ "customer": {
+  "name": "Национальный детский медицинский центр",
+  "tin": "207325289"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 102399220.81,
+ "currency": "UZS",
+ "start_date": "2026-11-11T08:50:28",
+ "end_date": "2026-11-18T08:50:28",
+ "clarific_date": "2026-11-18T08:50:28",
+ "type": "selection",
+ "old_id": 520201,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 20,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523837.pdf",
+  "pages": 4,
+  "text_source": "vision",
+  "language": "uz-cyrl",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Tibbiyot markazining PSA kislorod generatori tizimi havo kompressorini ta'mirlash xizmati (ehtiyot qismlar va moy bilan birga)",
+ "sector": "health",
+ "customer_sector": "health",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Ijrochi kompressorning tashqi va ichki texnik holatini diagnostika qilishi kerak.",
+   "summary_en": "The contractor must diagnose the external and internal technical condition of the compressor.",
+   "quote": "Компрессорнинг ташқи ва ички техник ҳолатини диагностика қилиш — 1 хизмат.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Aniqlangan nosoz detallar ta'mirlanishi yoki yaroqsiz detallar almashtirilishi kerak.",
+   "summary_en": "Faulty parts found must be repaired, or unusable parts replaced.",
+   "quote": "Аниқланган носоз деталларни таъмирлаш ёки техник жиҳатдан яроқсиз деталларни алмаштириш — 1 хизмат.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Ta'mirdan so'ng kompressor yuklama ostida sinovdan o'tkaziladi, ishchi bosim va harorat ko'rsatkichlari tekshiriladi.",
+   "summary_en": "After repair the compressor is tested under load and working pressure and temperature readings are checked.",
+   "quote": "Юклама остида синовдан ўтказиш, ишчи босим ва ҳарорат кўрсаткичларини текшириш — 1 хизмат.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Barcha ehtiyot qismlar va sarf materiallarini ijrochi o'zi ta'minlaydi.",
+   "summary_en": "All spare parts and consumables are supplied by the contractor.",
+   "quote": "Таъмирлаш жараёнида фойдаланиладиган барча эҳтиёт қисмлар ва сарф материаллари Ижрочи томонидан таъминланади.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Faqat yangi, sifatli va sertifikatlangan ehtiyot qismlar hamda materiallardan foydalanish shart.",
+   "summary_en": "Only new, good-quality and certified spare parts and materials may be used.",
+   "quote": "фақат янги, сифатли ва сертификатланган эҳтиёт қисмлар ҳамда материаллардан фойдаланиш;",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "other",
+   "summary_uz": "Yetkazib beriladigan ehtiyot qismlar uchun muvofiqlik sertifikatlari va zarur hujjatlar taqdim etiladi.",
+   "summary_en": "Conformity certificates and the necessary documents must be provided for the supplied spare parts.",
+   "quote": "етказиб бериладиган эҳтиёт қисмлар учун мувофиқлик сертификатлари ва зарур ҳужжатларни тақдим этиш;",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "payment",
+   "summary_uz": "Ehtiyot qismlar va materiallar qiymati xizmatning umumiy narxiga kiritilgan bo'lishi kerak.",
+   "summary_en": "The cost of spare parts and materials must be included in the total price of the service.",
+   "quote": "Зарур эҳтиёт қисмлар ва материаллар қиймати хизматларнинг умумий нархига киритилган бўлиши лозим.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "technical",
+   "summary_uz": "Ro'yxatda katalog raqamlari bilan ko'rsatilgan ehtiyot qism to'plamlari (har biri 2 to'plamdan) yetkazilishi kerak, masalan havo-moy filtri to'plami.",
+   "summary_en": "The spare-part kits listed by catalogue number (2 sets each) must be supplied, for example the air-oil filter kit.",
+   "quote": "2 | AIR-OIL FILTER KIT 8000 HRS / ҳаво-мой фильтри комплекти, 8000 соатлик | 3002602080 | 2 тўплам",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "delivery",
+   "summary_uz": "Ta'mirlash ishlari 20 kun ichida bajarilishi kerak.",
+   "summary_en": "The repair work must be completed within 20 days.",
+   "quote": "5.1. Таъмирлаш ишлари 20 куни ичида бажарилиши лозим.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Bajarilgan ishlar va o'rnatilgan ehtiyot qismlar uchun kafolat muddati kamida 12 oy.",
+   "summary_en": "The warranty on the work done and the parts installed must be at least 12 months.",
+   "quote": "Бажарилган ишлар ва ўрнатилган эҳтиёт қисмлар учун кафолат муддати камида 12 ойни ташкил этиши лозим.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "technical",
+   "summary_uz": "Ta'mirlash ishlari ishlab chiqaruvchining texnik talablari va ekspluatatsiya hujjatlariga muvofiq bajariladi.",
+   "summary_en": "The repair must be carried out in line with the manufacturer's technical requirements and operating documents.",
+   "quote": "таъмирлаш ишлари ишлаб чиқарувчининг техник талаблари ва эксплуатация ҳужжатларига мувофиқ бажарилиши;",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "qualification",
+   "summary_uz": "Ijrochi barcha zarur asbob-uskunalar, maxsus jihozlar va ishchi kuchiga ega bo'lishi shart.",
+   "summary_en": "The contractor must have all the necessary tools, special equipment and workforce.",
+   "quote": "Ижрочи барча зарур асбоб-ускуналар, махсус жиҳозлар ва ишчи кучи билан таъминланган бўлиши шарт.",
+   "page": 3,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "brand_no_equivalent",
+   "severity": "medium",
+   "quote": "7 | OIL RS ULTRA 20 L / компрессор мойи, 20 литрлик идишда | 1630204120 | 40 литр",
+   "page": 4,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ehtiyot qismlar ro'yxatida kompressor moyi aniq mahsulot nomi va katalog raqami bilan, qolgan to'plamlar ham bittadan katalog raqami bilan ko'rsatilgan, \"yoki ekvivalent\" degan ibora esa yo'q. Mavjud kompressorga mos kelishi zarurligi tushunarli, lekin texnik jihatdan mos keladigan muqobil moy yoki to'plamlarni taklif qiladigan ijrochi talabga javob bermaydi deb topilishi mumkin. Bu ishtirokchilar sonini cheklashi mumkin.",
+   "explanation_en": "The parts list names the compressor oil by a specific product name and catalogue number, and gives a single catalogue number for each of the other kits, with no \"or equivalent\" wording. The need to fit the existing compressor is understandable, but a contractor offering technically compatible alternative oil or kits could be treated as non-compliant. This may limit the number of bidders.",
+   "rewrite_uz": "OIL RS ULTRA 20 L yoki texnik xususiyatlari bo'yicha unga teng, kompressor ishlab chiqaruvchisining talablariga mos keladigan ekvivalent kompressor moyi — 40 litr. Ro'yxatdagi katalog raqamlari mos kelishni aniqlash uchun berilgan; texnik jihatdan to'liq mos keladigan ekvivalent ehtiyot qismlarga ruxsat etiladi.",
+   "rewrite_en": "OIL RS ULTRA 20 L or an equivalent compressor oil with the same technical characteristics that meets the compressor manufacturer's requirements — 40 litres. The catalogue numbers in the list are given to identify compatibility; fully compatible equivalent spare parts are accepted.",
+   "type_label_uz": "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan",
+   "type_label_en": "Brand or model named with no equivalent allowed",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 74,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 3.6,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan (4-bet): Ehtiyot qismlar ro'yxatida kompressor moyi aniq mahsulot nomi va katalog raqami bilan, qolgan to'plamlar ham bittadan katalog raqami bilan ko'rsatilgan, \"yoki ekvivalent\" degan ibora esa yo'q. Mavjud kompressorga mos kelishi zarurligi tushunarli, lekin texnik jihatdan mos keladigan muqobil moy yoki to'plamlarni taklif qiladigan ijrochi talabga javob bermaydi deb topilishi mumkin. Bu ishtirokchilar sonini cheklashi mumkin.",
+   "Buyurtmachining so'nggi 7 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 43% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 29%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 520201).",
+   "Tushuntirish so'rash muddati: 18.11.2026 08:50."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Brand or model named with no equivalent allowed (page 4): The parts list names the compressor oil by a specific product name and catalogue number, and gives a single catalogue number for each of the other kits, with no \"or equivalent\" wording. The need to fit the existing compressor is understandable, but a contractor offering technically compatible alternative oil or kits could be treated as non-compliant. This may limit the number of bidders.",
+   "In the customer's last 7 deals the median number of bidders was 3; 43% of deals had two or fewer bidders; the most frequent winner took 29%.",
+   "This lot was re-announced (previous lot: 520201).",
+   "Clarification requests are accepted until 18.11.2026 08:50."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirokchining texnik taklifi",
+  "Kafolat xati (ishlar va ehtiyot qismlar uchun kafolat muddati ko'rsatilgan holda)",
+  "Shunga o'xshash xizmatlar va ish faoliyati davri haqida ma'lumot",
+  "Ta'sischilar haqidagi ma'lumot bilan birga ishtirokchi to'g'risida umumiy ma'lumot",
+  "Ishni tugatish muddati hamda halollik (noqonuniy holatlarga yo'l qo'ymaslik) majburiyati haqida kafolat xati",
+  "Ehtiyot qismlar uchun muvofiqlik sertifikatlari (ijro bosqichida)",
+  "Иштрокчининг техник таклифи",
+  "Kafolat xati",
+  "Shunga o'xshash xizmatlar haqida ma'lumot",
+  "Таъсисчилар ҳақидаги маълумотлар билан бирга иштирокчи тўғрисида умумий маълумотларнинг мавжудлиги",
+  "Ishni bajarish tugatish vaqti hamda korupsion holatlarga yo'l qoymaslik haqida kafolat hati"
+ ],
+ "clarification_letter_uz": "Kimga: Национальный детский медицинский центр, xarid komissiyasiga\nLot raqami: 26110012523837\nXarid predmeti: ПСA кислород тизимини компрессорини таъмирлаш бўйича хизматлар\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 4-bet.\n   Hujjatdagi matn: «7 | OIL RS ULTRA 20 L / компрессор мойи, 20 литрлик идишда | 1630204120 | 40 литр»\n   Savolimiz: Ehtiyot qismlar ro'yxatida kompressor moyi aniq mahsulot nomi va katalog raqami bilan, qolgan to'plamlar ham bittadan katalog raqami bilan ko'rsatilgan, \"yoki ekvivalent\" degan ibora esa yo'q. Mavjud kompressorga mos kelishi zarurligi tushunarli, lekin texnik jihatdan mos keladigan muqobil moy yoki to'plamlarni taklif qiladigan ijrochi talabga javob bermaydi deb topilishi mumkin. Bu ishtirokchilar sonini cheklashi mumkin.\n   Taklif etilayotgan tahrir: OIL RS ULTRA 20 L yoki texnik xususiyatlari bo'yicha unga teng, kompressor ishlab chiqaruvchisining talablariga mos keladigan ekvivalent kompressor moyi — 40 litr. Ro'yxatdagi katalog raqamlari mos kelishni aniqlash uchun berilgan; texnik jihatdan to'liq mos keladigan ekvivalent ehtiyot qismlarga ruxsat etiladi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 08:50) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 7,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4286,
+  "top_winner_share": 0.2857,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 14438290.13,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-fable-5-2",
+ "lint_backend": "in-session"
+}

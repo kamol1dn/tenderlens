@@ -1,0 +1,207 @@
+{
+ "lot_id": 525501,
+ "display_no": "26120012525501",
+ "title": "Gazli MGQB xodimlarini 2026 yil MMQSX va EBYaT talablari 9.3-band O'zbekiston Respublikasi Sog'liqni saqlash vazirligining 2012 yil 10 iyuldagi 200-soni buyrug'iga muvofiq korxona ishchilarini tibbiy",
+ "url": "https://etender.uzex.uz/lot/525501",
+ "customer": {
+  "name": "\"O`ZTRANSGAZ\" AJ (филиал \"Ўзтрансгаз\" АЖ Газли магистрал газ кувурлари бошкармаси)",
+  "tin": "200626188"
+ },
+ "region": "Бухоро вилояти",
+ "start_cost": 133450000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T10:07:13",
+ "end_date": "2026-11-23T10:07:13",
+ "clarific_date": "2026-11-23T10:07:13",
+ "type": "selection",
+ "old_id": 521339,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 2,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525501.pdf",
+  "pages": 2,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Gazli MGQB 334 nafar xodimini davriy tibbiy ko'rikdan o'tkazish (shifokorlar, laboratoriya, UZI, rentgen)",
+ "sector": "health",
+ "customer_sector": "health",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "qualification",
+   "summary_uz": "Tibbiy muassasada dastlabki va davriy ko'rik o'tkazish litsenziyasi va kasbiy tayyorgarlik ekspertizasi bo'lishi shart.",
+   "summary_en": "The medical institution must hold a licence for pre-employment and periodic examinations and a professional-fitness expertise.",
+   "quote": "nizom, dastlabki va davriy ko'rik o'tkazish litsenziyasi hamda kasbiy tayyorgarlik ekspertizasi bo'lishi shart.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Davriy ko'rik uchun doimiy harakatdagi shifokorlar komissiyasi shakllantirilgan bo'lishi kerak.",
+   "summary_en": "A standing commission of doctors must be formed for the periodic examinations.",
+   "quote": "Tibbiy muassasalarda davriy ko'rikni o'tkazish uchun Doimiy harakaldagi yrachlar komissiyasi shakllantirilean bo'lishi lozim.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Jalb etilgan barcha tibbiy xodimlarning o'z yo'nalishi bo'yicha kamida 5 yillik ish staji bo'lishi kerak.",
+   "summary_en": "All medical staff involved must have at least 5 years of experience in their field.",
+   "quote": "tibbiy xodimlar o'z yo'nalishi bo'yicha 5 yildan kam bo'lmagan ish stajiga (tajribasiga) ega bo'lishi kerak.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Tibbiy muassasa zamonaviy tibbiyot uskunalari bilan jihozlangan bo'lishi kerak.",
+   "summary_en": "The facility must be equipped with modern medical equipment.",
+   "quote": "Tibbiy muassasa zamonaviy tibbiyot uskunalari bilan jihozlangan bo'lishi kerak.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Ko'rik tasdiqlangan jadval bo'yicha navbatsiz o'tkazilishi ta'minlanadi.",
+   "summary_en": "Examinations must be held without queues on an approved schedule.",
+   "quote": "Bajaruvchi tibbiy ko'rikni tasdiqlangan jadval asosida navb-atsiz o'tkazilishini ta'minlaydi.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Ro'yxat olingandan keyin 10 kun ichida ko'rikning kalendar rejasi tuziladi va buyurtmachi bilan kelishiladi.",
+   "summary_en": "A calendar plan for the examinations is prepared within 10 days of receiving the staff list and agreed with the customer.",
+   "quote": "so'ng 10 kun muddatda ushbu ro'yxat asosida",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "technical",
+   "summary_uz": "Xizmat uchinchi shaxs jalb etilmasdan, bajaruvchining o'zi tomonidan ko'rsatiladi.",
+   "summary_en": "The service must be performed by the contractor itself, without involving third parties.",
+   "quote": "Bajaruvchi xizmatni uchinchi shaxsni jalb etmasdan a'zi bajaradi.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Xizmat shartnoma imzolangandan keyin bir oy ichida ko'rsatiladi (Buxoro viloyati, 334 nafar xodim).",
+   "summary_en": "The service is to be completed within one month of the contract being signed (Bukhara region, 334 employees).",
+   "quote": "Xizmat ko'rsatish sharfnomasi ir;rzolangandan so'ng bir oy muddat ichida.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "payment",
+   "summary_uz": "15 foiz avans, qolgan qismi dalolatnoma asosida to'lanadi.",
+   "summary_en": "15% advance; the remainder is paid against the acceptance act.",
+   "quote": "Oldindan to'lov 15 o/s. Qolgan qismi pul ko'chirish yo'li bilan",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Baholash faqat narx bo'yicha (100 foiz); ishtirokchi har bir talab bo'yicha tasdiqlovchi hujjat ilova qiladi.",
+   "summary_en": "Evaluation is on price only (100%); the bidder attaches supporting documents for each requirement.",
+   "quote": "Участники обязаны приложить подтверждающие документы по каждому требованию сравнительной таблицы (согласно технического задания).",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r11",
+   "kind": "qualification",
+   "summary_uz": "Moliyaviy natijalar hisobotlari (balans) soliq xizmati tomonidan qabul qilinganini tasdiqlovchi hujjat bilan taqdim etiladi.",
+   "summary_en": "Financial statements (balance sheets) must be supplied with proof of acceptance by the tax service.",
+   "quote": "Участник обязан приложить копии отчетов о финансовых результатах (балансовые отчеты), которые должны сопровождаться документом",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 97,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 2.8,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 83 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 33% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 8%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 521339)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 83 deals the median number of bidders was 3; 33% of deals had two or fewer bidders; the most frequent winner took 8%.",
+   "This lot was re-announced (previous lot: 521339)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ustav, davlat ro'yxatidan o'tganlik guvohnomasi, rahbarni tayinlash buyrug'i va rahbar pasporti nusxasi",
+  "Soliq organidan QR-kodli qarzdorlik yo'qligi ma'lumotnomasi",
+  "Bankrotlik tartib-taomili yo'qligi haqida hujjat (ilovadagi shakl bo'yicha)",
+  "Insofsiz ijrochilar reyestridan skrinshot",
+  "Majburiy ijro byurosi bazasidan skrinshot",
+  "Moliyaviy hisobotlar (balans) va ularning soliq xizmati tomonidan qabul qilinganligi haqida hujjat",
+  "Ish tajribasi va malakani tasdiqlovchi hujjat (8-talab bo'yicha shakl)",
+  "Halollik majburiyati to'g'risida ariza (10-talab bo'yicha shakl)",
+  "Texnik, moliyaviy, moddiy va kadrlar resurslari mavjudligi haqida firma blankidagi ma'lumot",
+  "Dastlabki va davriy ko'rik o'tkazish litsenziyasi hamda kasbiy tayyorgarlik ekspertizasi hujjati",
+  "Texnik shakllar (talablar bo'yicha taqqoslash jadvali)",
+  "Техник шакллар"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 83,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3253,
+  "top_winner_share": 0.0843,
+  "share_price_drop_lt1pct": 0.1566,
+  "reannounced_lots": 6
+ },
+ "money_on_table_uzs": 18816450.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

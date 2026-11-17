@@ -1,0 +1,279 @@
+{
+ "lot_id": 516607,
+ "display_no": "26120012516607",
+ "title": "экологик норматив ҳужжатларни ишлаб чиқиш ва давлат экологик экспертизасидан ўтказиш",
+ "url": "https://etender.uzex.uz/lot/516607",
+ "customer": {
+  "name": "HUDUDGAZTA`MINOT AJ",
+  "tin": "306605769"
+ },
+ "region": "Жиззах вилояти",
+ "start_cost": 1108499973.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T10:49:39",
+ "end_date": "2026-11-18T10:49:39",
+ "clarific_date": "2026-11-18T10:49:39",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 70,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 20.0,
+    "rate": "Системная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 25.0,
+    "rate": "Системная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 25.0,
+    "rate": "Системная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Системная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/516607.pdf",
+  "pages": 8,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   2
+  ]
+ },
+ "subject_uz": "Gaz ta'minoti filiallari uchun ekologik normativ hujjatlarni (PDV, PDO) ishlab chiqish va davlat ekologik ekspertizasidan o'tkazish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Ўз маблағлари ҳисобидан",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "evaluation",
+   "summary_uz": "Kamida 2 nafar mutaxassis tegishli litsenziya yoki sertifikatga ega bo'lishi va akkreditatsiyalangan laboratoriya bilan shartnoma bo'lishi kerak (10 ball).",
+   "summary_en": "At least 2 specialists with a licence or certificate and a contract with an accredited laboratory are needed (10 points).",
+   "quote": "kamida 2 nafar mutaxassis ekologik normativ hujjatlarni ishlab chiqish xizmati uchun amaldagi litsenziya yoki sertifikatga ega boʻlishi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Moddiy-texnik resurslar (dron) va litsenziyalangan ArcGIS Pro 3.x dasturi bo'lsa 20 ball, boshqa dasturlar bilan 10 ball beriladi.",
+   "summary_en": "Technical resources (including a drone) and a licensed ArcGIS Pro 3.x give 20 points; other software gives 10 points.",
+   "quote": "Moddiy va texnik resurslar (jumladan dron) hamda litsenziyalangan “ArcGIS Pro 3.x” dasturiy taʼminoti uchun – 20 ball",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "So'nggi 2 yilda gaz ta'minoti bo'linmalari uchun PDV inventarizatsiyasi: 50 va undan ko'p tuman/shahar uchun 25 ball, 50 tagacha 5 ball.",
+   "summary_en": "PDV (air emission limits) inventories for gas-supply units in the last 2 years: 50 or more districts/cities earn 25 points, fewer than 50 earn 5.",
+   "quote": "50 ta (tuman va shahar kesimida) va undan ortiq – 25 ball; 50 tagacha (tuman va shahar kesimida) – 5 ball",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Mutaxassislar neft-gaz sohasida kamida 5 yillik tajribaga ega bo'lishi va 50 va undan ko'p loyiha ro'yxatini berishi kerak (10 ball).",
+   "summary_en": "Specialists need at least 5 years in oil and gas and a list of 50 or more projects scores 10 points.",
+   "quote": "50 ta va undan ortiq loyiha – 10 ball; 50 tagacha loyiha – 5 ball",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "So'nggi 5 yilda I, II, III toifadagi neft va gaz sanoati obyektlari bo'yicha xuddi shunday xizmatlar tajribasi bo'lishi shart.",
+   "summary_en": "The bidder must have provided the same services for category I, II and III oil and gas facilities in the last 5 years.",
+   "quote": "I, II, III toifalar bo‘yicha neft va gaz sanoati obyektlari bo‘yicha so‘nggi 5 yil ichida xarid predmeti bo‘yicha xizmatlar ko‘rsatish tajribasining mavjudligi va yetarliligi",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ifloslantiruvchi moddalar tarqalishini hisoblash va modellashtirish huquqini tasdiqlovchi sertifikat bo'lishi shart.",
+   "summary_en": "A certificate confirming the right to calculate and model pollutant dispersion is mandatory.",
+   "quote": "atmosfera havosiga ifloslantiruvchi moddalarning tarqalishini hisoblash va modellashtirish ishlarini bajarish huquqini tasdiqlovchi tegishli sertifikatga ega bo‘lishi shart",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "technical",
+   "summary_uz": "Ishlar jami 69 ta loyihani (Jizzax va Farg'ona filiallari) qamrab oladi: PDV va PDO inventarizatsiyasi va loyihalash.",
+   "summary_en": "The work covers 69 projects in total (Jizzakh and Fergana branches): PDV and PDO inventories and design.",
+   "quote": "chegaraviy normativlarini (PDV) inventarizatsiya qilish va loyihalash",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Jadvalda loyihalarni ishlab chiqish va kelishish muddati shartnoma imzolangandan keyin 1 hafta deb ko'rsatilgan.",
+   "summary_en": "The table gives the term for developing and agreeing projects as 1 week after signing the contract.",
+   "quote": "Sharnoma imzolangandan so‘ng 1 hafta muddatda",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Salbiy ekspertiza xulosasi olinsa, ijrochi keyingi xulosa uchun xarajatlarni o'z mablag'idan to'laydi.",
+   "summary_en": "If an expert opinion is negative, the contractor pays for a repeat opinion from its own funds.",
+   "quote": "Salbiy xulosa olinganda, Ishlab chiquvchi kelgusida xulosa olish uchun o‘z mablag‘larini to‘lashi shart.",
+   "page": 7,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_experience",
+   "severity": "high",
+   "quote": "50 ta (tuman va shahar kesimida) va undan ortiq – 25 ball; 50 tagacha (tuman va shahar kesimida) – 5 ball",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "5-mezon bilan birga ikki mezon 100 balldan 50 ballni so'nggi 2 yilda aynan gaz ta'minoti filiallari uchun 50 dan ortiq tuman/shahar kesimida bajarilgan inventarizatsiyaga bog'laydi, holbuki lotning o'zi 69 ta loyihadan iborat. Yana 10 ball neft-gaz sohasida 50 ta loyiha tajribasiga beriladi. Shu tajribasiz ishtirokchi o'tish balli 70 ga yeta olmasligi mumkin, hatto ekologik loyihalashda malakali bo'lsa ham.",
+   "explanation_en": "Together with criterion 5, two criteria tie 50 of 100 points to inventories done in the last 2 years specifically for gas-supply branches in 50 or more districts/cities, although the lot itself is 69 projects. Another 10 points go to a 50-project oil and gas record. A bidder without this record may be unable to reach the pass mark of 70 even if qualified in environmental design.",
+   "rewrite_uz": "Tajriba so'nggi 5 yilda har qanday sanoat obyektlari uchun bajarilgan ekologik normativ loyihalar soni bo'yicha baholansin; ballar bosqichlari lot hajmiga (69 loyiha) mutanosib bo'lsin va umumiy balldagi ulushi 20 foizdan oshmasin.",
+   "rewrite_en": "Score experience by the number of environmental normative projects completed for any industrial facilities in the last 5 years; set point tiers proportional to the lot size (69 projects) and cap the share of total points at 20 percent.",
+   "type_label_uz": "Lot hajmiga nomutanosib tajriba yoki resurs talabi",
+   "type_label_en": "Experience or resource demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "brand_no_equivalent",
+   "severity": "medium",
+   "quote": "Moddiy va texnik resurslar (jumladan dron) hamda litsenziyalangan “ArcGIS Pro 3.x” dasturiy taʼminoti uchun – 20 ball",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Eng yuqori ball (20 ga 10) aynan bitta mahsulot nomi bilan ko'rsatilgan litsenziyalangan ArcGIS Pro 3.x dasturiga bog'langan; teng imkoniyatli boshqa GIS dasturlari uchun faqat 10 ball beriladi. Texnik topshiriq ham situatsion rejalarni aynan shu dastur bilan tuzishni talab qiladi.",
+   "explanation_en": "The top score (20 versus 10) is tied to one named product, licensed ArcGIS Pro 3.x; other capable GIS software gets only 10 points. The technical task also requires site plans to be made with this exact program.",
+   "rewrite_uz": "Moddiy-texnik resurslar va litsenziyalangan GIS dasturiy ta'minoti (ArcGIS Pro yoki unga teng funksional dastur) mavjud bo'lsa – 20 ball.",
+   "rewrite_en": "Technical resources and licensed GIS software (ArcGIS Pro or a functionally equivalent program) – 20 points.",
+   "type_label_uz": "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan",
+   "type_label_en": "Brand or model named with no equivalent allowed",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "unrealistic_deadline",
+   "severity": "low",
+   "quote": "Sharnoma imzolangandan so‘ng 1 hafta muddatda",
+   "page": 4,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Jadvalda loyihalarni ishlab chiqish va kelishish muddati shartnoma imzolanganidan keyin 1 hafta deb yozilgan. Dala ma'lumotlarini yig'ish, inventarizatsiya va ekspertiza talab qiladigan loyihalar uchun bu muddat real emas ko'rinadi. Muddat qaysi qatorlarga tegishli ekani va haqiqiy muddat aniqlashtirilishi kerak.",
+   "explanation_en": "The table states one week after contract signing for developing and agreeing the projects. For work that needs field data, inventories and expert review this looks unrealistic. It should be clarified which rows it covers and what the real term is.",
+   "rewrite_uz": "Loyihalarni ishlab chiqish va kelishish muddati: har bir bosqich bo'yicha shartnoma imzolanganidan keyin kamida 90 kalendar kun (aniq muddat buyurtmachi tomonidan lot hajmiga mos belgilansin).",
+   "rewrite_en": "Term for developing and agreeing projects: at least 90 calendar days per stage after contract signing (the customer should set an exact term suitable for the lot volume).",
+   "type_label_uz": "Bajarish qiyin bo'lgan muddat",
+   "type_label_en": "Deadline that is hard to meet",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 28,
+ "traffic_light": "red",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 68,
+  "history_penalty": 3.5,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Lot hajmiga nomutanosib tajriba yoki resurs talabi (platformadagi mezonlar): 5-mezon bilan birga ikki mezon 100 balldan 50 ballni so'nggi 2 yilda aynan gaz ta'minoti filiallari uchun 50 dan ortiq tuman/shahar kesimida bajarilgan inventarizatsiyaga bog'laydi, holbuki lotning o'zi 69 ta loyihadan iborat. Yana 10 ball neft-gaz sohasida 50 ta loyiha tajribasiga beriladi. Shu tajribasiz ishtirokchi o'tish balli 70 ga yeta olmasligi mumkin, hatto ekologik loyihalashda malakali bo'lsa ham.",
+   "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan (platformadagi mezonlar): Eng yuqori ball (20 ga 10) aynan bitta mahsulot nomi bilan ko'rsatilgan litsenziyalangan ArcGIS Pro 3.x dasturiga bog'langan; teng imkoniyatli boshqa GIS dasturlari uchun faqat 10 ball beriladi. Texnik topshiriq ham situatsion rejalarni aynan shu dastur bilan tuzishni talab qiladi.",
+   "Bajarish qiyin bo'lgan muddat (4-bet): Jadvalda loyihalarni ishlab chiqish va kelishish muddati shartnoma imzolanganidan keyin 1 hafta deb yozilgan. Dala ma'lumotlarini yig'ish, inventarizatsiya va ekspertiza talab qiladigan loyihalar uchun bu muddat real emas ko'rinadi. Muddat qaysi qatorlarga tegishli ekani va haqiqiy muddat aniqlashtirilishi kerak.",
+   "Buyurtmachining so'nggi 10 ta savdosida ishtirokchilar medianasi 2.5 ta; savdolarning 50% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 10%.",
+   "Tushuntirish so'rash muddati: 18.11.2026 10:49.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Experience or resource demand out of proportion to the lot (platform criteria form): Together with criterion 5, two criteria tie 50 of 100 points to inventories done in the last 2 years specifically for gas-supply branches in 50 or more districts/cities, although the lot itself is 69 projects. Another 10 points go to a 50-project oil and gas record. A bidder without this record may be unable to reach the pass mark of 70 even if qualified in environmental design.",
+   "Brand or model named with no equivalent allowed (platform criteria form): The top score (20 versus 10) is tied to one named product, licensed ArcGIS Pro 3.x; other capable GIS software gets only 10 points. The technical task also requires site plans to be made with this exact program.",
+   "Deadline that is hard to meet (page 4): The table states one week after contract signing for developing and agreeing the projects. For work that needs field data, inventories and expert review this looks unrealistic. It should be clarified which rows it covers and what the real term is.",
+   "In the customer's last 10 deals the median number of bidders was 2.5; 50% of deals had two or fewer bidders; the most frequent winner took 10%.",
+   "Clarification requests are accepted until 18.11.2026 10:49.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ustav",
+  "Ishtirokchining kafolat xati",
+  "Kamida 2 nafar mutaxassisning litsenziya yoki sertifikati",
+  "Akkreditatsiyalangan laboratoriya bilan shartnoma",
+  "Moddiy-texnik resurslar (jumladan dron) va dasturiy ta'minot litsenziyasi (ArcGIS Pro 3.x) ro'yxati va xodimlar sertifikatlari",
+  "So'nggi 2 yildagi moliyaviy holat to'g'risida ma'lumot",
+  "Inventarizatsiya qilingan va loyihalashtirilgan gaz ta'minoti filial va bo'linmalari ro'yxati (tuman va shahar kesimida, tasdiqlangan)",
+  "Mutaxassislarning neft-gaz sohasidagi 5 yillik tajribasi va ishlab chiqilgan loyihalar ro'yxati (birinchi rahbar tasdiqlagan)",
+  "Atmosfera havosiga chiqindilar tarqalishini hisoblash va modellashtirish sertifikati",
+  "I, II, III toifa neft-gaz obyektlari bo'yicha xizmatlar ro'yxati, ijobiy xulosalar va xodimlarni o'qitish sertifikatlari",
+  "Majburiy ijro byurosi ma'lumotlar bazasidan ma'lumotnoma",
+  "ishtirokchining kafolat xati hamda yuridik shaxsni davlat roʻyxatidan oʻtkazilganligi toʻgʻrisidagi guvohnoma asosida amalga oshiriladi",
+  "Moddiy va texnik resurslar (jumladan dron) hamda litsenziyalangan “ArcGIS Pro 3.x” dasturiy taʼminoti uchun – 20 ball; Moddiy va texnik resurslar hamda boshqa dasturiy taʼminotlar uchun – 10 ball; Mavjud boʻlmasa 0 ball",
+  "50 ta (tuman va shahar kesimida) va undan ortiq – 25 ball; 50 tagacha (tuman va shahar kesimida) – 5 ball; Mavjud boʻlmasa – 0 ball",
+  "50 ta va undan ortiq loyiha – 10 ball; 50 tagacha loyiha – 5 ball; Mavjud boʻlmasa – 0 ball"
+ ],
+ "clarification_letter_uz": "Kimga: HUDUDGAZTA`MINOT AJ, xarid komissiyasiga\nLot raqami: 26120012516607\nXarid predmeti: экологик норматив ҳужжатларни ишлаб чиқиш ва давлат экологик экспертизасидан ўтказиш\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «50 ta (tuman va shahar kesimida) va undan ortiq – 25 ball; 50 tagacha (tuman va shahar kesimida) – 5 ball»\n   Savolimiz: 5-mezon bilan birga ikki mezon 100 balldan 50 ballni so'nggi 2 yilda aynan gaz ta'minoti filiallari uchun 50 dan ortiq tuman/shahar kesimida bajarilgan inventarizatsiyaga bog'laydi, holbuki lotning o'zi 69 ta loyihadan iborat. Yana 10 ball neft-gaz sohasida 50 ta loyiha tajribasiga beriladi. Shu tajribasiz ishtirokchi o'tish balli 70 ga yeta olmasligi mumkin, hatto ekologik loyihalashda malakali bo'lsa ham.\n   Taklif etilayotgan tahrir: Tajriba so'nggi 5 yilda har qanday sanoat obyektlari uchun bajarilgan ekologik normativ loyihalar soni bo'yicha baholansin; ballar bosqichlari lot hajmiga (69 loyiha) mutanosib bo'lsin va umumiy balldagi ulushi 20 foizdan oshmasin.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Moddiy va texnik resurslar (jumladan dron) hamda litsenziyalangan “ArcGIS Pro 3.x” dasturiy taʼminoti uchun – 20 ball»\n   Savolimiz: Eng yuqori ball (20 ga 10) aynan bitta mahsulot nomi bilan ko'rsatilgan litsenziyalangan ArcGIS Pro 3.x dasturiga bog'langan; teng imkoniyatli boshqa GIS dasturlari uchun faqat 10 ball beriladi. Texnik topshiriq ham situatsion rejalarni aynan shu dastur bilan tuzishni talab qiladi.\n   Taklif etilayotgan tahrir: Moddiy-texnik resurslar va litsenziyalangan GIS dasturiy ta'minoti (ArcGIS Pro yoki unga teng funksional dastur) mavjud bo'lsa – 20 ball.\n\n3. Texnik topshiriq, 4-bet.\n   Hujjatdagi matn: «Sharnoma imzolangandan so‘ng 1 hafta muddatda»\n   Savolimiz: Jadvalda loyihalarni ishlab chiqish va kelishish muddati shartnoma imzolanganidan keyin 1 hafta deb yozilgan. Dala ma'lumotlarini yig'ish, inventarizatsiya va ekspertiza talab qiladigan loyihalar uchun bu muddat real emas ko'rinadi. Muddat qaysi qatorlarga tegishli ekani va haqiqiy muddat aniqlashtirilishi kerak.\n   Taklif etilayotgan tahrir: Loyihalarni ishlab chiqish va kelishish muddati: har bir bosqich bo'yicha shartnoma imzolanganidan keyin kamida 90 kalendar kun (aniq muddat buyurtmachi tomonidan lot hajmiga mos belgilansin).\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 10:49) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 10,
+  "median_bidders": 2.5,
+  "share_le2_bidders": 0.5,
+  "top_winner_share": 0.1,
+  "share_price_drop_lt1pct": 0.1,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 153748946.26,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:02+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

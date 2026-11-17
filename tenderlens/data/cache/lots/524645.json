@@ -1,0 +1,180 @@
+{
+ "lot_id": 524645,
+ "display_no": "26120012524645",
+ "title": "Муксадисли Курулмалари",
+ "url": "https://etender.uzex.uz/lot/524645",
+ "customer": {
+  "name": "MAXSUS AVARIYA-TIKLASH BOSHQARMASI",
+  "tin": "200564868"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 110000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T11:08:18",
+ "end_date": "2026-11-20T11:08:18",
+ "clarific_date": "2026-11-20T11:08:18",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 70,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 100.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524645.pdf",
+  "pages": 3,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Generatorlar (dizel va benzinli) hamda suv nasoslari xaridi",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Byudjet mablag'laridan tashqari",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "1 dona dizel generator, quvvati 10 kVA (8,5 kVt), talab qilinadi.",
+   "summary_en": "One diesel generator set of 10 kVA (8.5 kW) is required.",
+   "quote": "2 (ikki) dona 10 KVA (8.5KW0 va shu quvatdagi 1 dona dizel agregat hamda",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Suv nasosi: soatiga 55-60 m3, daqiqasiga 7 litr, suvni 15-20 metr masofagacha uzatishi kerak.",
+   "summary_en": "Water pump must deliver 55-60 m3 per hour, 7 litres per minute, with a discharge distance of 15-20 m.",
+   "quote": "dona suv tortish (l soatiga 55-60m3, I daqiqada 7 litr, suv chiqarish 15-20 metr",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Mahsulot texnik parametrlarga mos holda taqdim etilishi kerak.",
+   "summary_en": "Goods must be supplied in line with the stated technical parameters.",
+   "quote": "Mahsulotni texnik parametrga asosan taqdim qilish",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Taklif texnik shartga muvofiqligi bo'yicha ekspert tomonidan 100 ballgacha baholanadi, o'tish bali 70.",
+   "summary_en": "The bid is scored by an expert on conformity to the technical condition, up to 100 points; pass mark is 70.",
+   "quote": "TEXNIK shartga asosan taklif taqdim qilish",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Faoliyat turi bilan shug'ullanish huquqini beruvchi hujjat nusxalari muhr bilan tasdiqlanib taqdim etilishi kerak.",
+   "summary_en": "Copies of documents giving the right to carry out this activity must be attached, certified with a seal.",
+   "quote": "tashkilotingizni ushbu faoliyat turi bilan shug'ilanish xuquqini beruvchi hujjatlar nusxalarini muxr bilan tasdiqlab",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchida shartnomani bajarish uchun texnik, moliyaviy, moddiy va kadrlar resurslari bo'lishi kerak.",
+   "summary_en": "The bidder must have the technical, financial, material and staff resources to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarz bo'lmasligi kerak.",
+   "summary_en": "No overdue tax or fee debt.",
+   "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi insofsiz ijrochilar yagona reestrida qayd etilmagan bo'lishi kerak.",
+   "summary_en": "The bidder must not be listed in the single register of unfair suppliers.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasi bo'lishi kerak.",
+   "summary_en": "Founding documents and a state registration certificate are required.",
+   "quote": "Таъсис хужжатлари ва фаолиятининг қонуний асослари ҳамда давлат рўйхатидан ўтказилганлиги тўғрисидаги гувоҳнома мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 100,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document."
+  ]
+ },
+ "documents_needed_uz": [
+  "Faoliyat turi bilan shug'ullanish huquqini beruvchi hujjatlar nusxasi (muhr bilan tasdiqlangan)",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+  "Soliq qarzi yo'qligi haqida ma'lumotnoma",
+  "Texnik parametrlarga muvofiqlikni tasdiqlovchi hujjatlar (pasport, texnik tavsif)",
+  "Tijorat taklifi",
+  "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida ma'lumot",
+  "TEXNIK shartga asosan taklif taqdim qilish"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 3,
+  "median_bidders": 6,
+  "share_le2_bidders": 0.3333,
+  "top_winner_share": 0.3333,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 3
+ },
+ "money_on_table_uzs": 15004000.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

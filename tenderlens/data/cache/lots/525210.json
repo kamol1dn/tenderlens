@@ -1,0 +1,309 @@
+{
+ "lot_id": 525210,
+ "display_no": "26110012525210",
+ "title": "Beşariq, Özbekiston, Rişton, Danğara tumanlaridagi, “Rapqon”, “Yakkatut”, “Kapayangi”, “Şakarobod”, “Yakkatut”, “Nursuh”, “Zohidon”, “Böston”, “Sohibkor”, “Qizilmuşt”, “Pişkaron”, “Şodlik” MFYlar hudu",
+ "url": "https://etender.uzex.uz/lot/525210",
+ "customer": {
+  "name": "Капитал курилиш сохасида буюртмачи хизмати",
+  "tin": "204816336"
+ },
+ "region": "Фарғона вилояти",
+ "start_cost": 376521120.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T18:18:40",
+ "end_date": "2026-11-24T18:18:40",
+ "clarific_date": "2026-11-24T18:18:40",
+ "type": "selection",
+ "old_id": 525126,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 50,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525210.pdf",
+  "pages": 15,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ]
+ },
+ "subject_uz": "Fargʻona viloyati Beshariq, Oʻzbekiston, Rishton va Dangʻara tumanlaridagi 16 ta MFY hududida 28,78 gektar maydonda mahallalar markazining master-rejasini ishlab chiqish",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "maxalliy byudjet",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Fargʻona viloyatidagi 16 ta MFY hududida jami 28,78 gektar maydonda mahallalar markazining master-rejasini ishlab chiqish.",
+   "summary_en": "Prepare the master plan of neighbourhood centres on a total of 28.78 ha across 16 mahallas in Fergana region.",
+   "quote": "jami 28,78 gektar yer maydonida Yangi O„zbekiston qiyofasidagi mahallalar markazining master-rejasini ishlab chiqish",
+   "page": 12,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "payment",
+   "summary_uz": "Eng yuqori narx 376 521 120 so'm (QQS bilan); undan yuqori takliflar ko'rib chiqilmaydi.",
+   "summary_en": "Maximum price is 376,521,120 UZS including VAT; higher offers are not considered.",
+   "quote": "Ushbu qiymatdan ortiq qiymatdagi takliflar qabul qilinmaydi va koʼrib chiqilmaydi.",
+   "page": 12,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "delivery",
+   "summary_uz": "Ishlarni bajarish muddati 01.12.2026 gacha.",
+   "summary_en": "Works to be completed by 1 December 2026.",
+   "quote": "1.5. Ishlarni Bajarish muddati: 01.12.2026 gacha.",
+   "page": 12,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "payment",
+   "summary_uz": "Shartnoma qiymatining 30 foizi miqdorida avans to'lanadi.",
+   "summary_en": "An advance of 30% of the contract value is paid.",
+   "quote": "ishlar umumiy joriy qiymatining 30% miqdorida avans toʼlovini oʼtkazib beradi.",
+   "page": 12,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "payment",
+   "summary_uz": "Qolgan to'lov viloyat moliya boshqarmasi mablag' ajratganidan keyin, qiymatning 70 foizi doirasida amalga oshiriladi.",
+   "summary_en": "The rest is paid, up to 70% of the contract value, only after the regional finance office allocates funds.",
+   "quote": "obʼekt umumiy shartnomaviy qiymatining 70 foizi doirasida amalga oshiriladi",
+   "page": 12,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Faoliyat huquqini beruvchi hujjatlar kerak (3-toifa litsenziya, akkreditatsiya sertifikatlari, ruxsatnomalar).",
+   "summary_en": "Documents giving the right to operate are required (category-3 licence, accreditation certificates, permits).",
+   "quote": "faoliyatni amalga oshirish huquqini beruvchi hujjatlar to„g„risidagi ma‟lumotlar (3-toifa lisenziya, akkreditatsiya sertifikatlari, ruxsatnomalar yoki boshqa hujjatlar)",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Oxirgi ikki yilda bajarilgan ishlarni qabul qilish dalolatnomalari talab qilinadi.",
+   "summary_en": "Acceptance acts for works completed in the last two years are required.",
+   "quote": "oxirgi ikki yilda muvaffaqiyatli amalga oshirgan ishlarni qabul qilish bo„yicha dalolatnomalarning mavjudligi",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "300 gektardan yuqori hududlar bo'yicha rejalashtirish hujjatlarini ishlab chiqish tajribasi talab qilinadi.",
+   "summary_en": "Experience preparing planning documents for territories over 300 ha is required.",
+   "quote": "Hududlarda 300,0 gektardan yuqori bo„lgan hudud uchun hududiy iqtisodiy-ijtimoiy rivojlantirish va hududni arxitekturaviy hamda shaharsozlik jihatdan rejalashtirish hujjatlarini ishlab chiqish bo„yicha tajribaga ega bo„lishi lozim",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Hududiy rejalashtirish hujjatlari tajribasi: 3 ta ish - 3 ball, 7 ta - 7 ball, 10 ta - 10 ball; bo'lmasa chetlatilishi mumkin.",
+   "summary_en": "Planning-document experience: 3 works 3 points, 7 works 7, 10 works 10; none may lead to exclusion.",
+   "quote": "3 ta taqdim etilgan ishga – 3 ball; 7 ta taqdim etilgan ishga – 7 ball; 10 ta taqdim etilgan ishga – 10 ball",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Moliyaviy ko'rsatkichlar: oxirgi 3 yillik moliyaviy natija va balans (F-1, F-2) uchun 5 ball.",
+   "summary_en": "Financial indicators: three-year results and balance sheets (F-1, F-2) score 5 points.",
+   "quote": "Oxirgi 3 yillik moliyaviy natija, buxgalteriya balans (F-1, F-2) hujjatlari – 5 ball",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Xodimlar: 2 ta bosh muhandis va 1 ta bosh arxitektor uchun 5 ball, 6 ta qo'shimcha xodim uchun 3 ball.",
+   "summary_en": "Staff: 2 chief engineers and 1 chief architect score 5 points; 6 additional staff score 3 points.",
+   "quote": "Loyiha bosh muxandisi - 2 ta, loyiha bosh arxitektori- 1 ta – 5 ball",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "evaluation",
+   "summary_uz": "Texnik baholash sifati (tasavvur, maqsad, yondashuv) uchun ball beriladi.",
+   "summary_en": "Technical quality of the vision, aim and approach is scored.",
+   "quote": "Texnik baholash sifati (Tasavvur, maqsad + yondashuv)",
+   "page": 15,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_experience",
+   "severity": "high",
+   "quote": "9 - Hududlarda 300,0 gektardan yuqori bo„lgan hudud uchun ishlab chiqilgan master rejalar (Shaharsozlik kengashi xulosasi ilova qilinsin)",
+   "page": 15,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Mezon 7 bo'yicha 10 balldan 9 tasi 300 gektardan katta hududlar uchun ishlab chiqilgan master-rejalarga beriladi, 300 gektargacha bo'lgan ishlarga esa atigi 1 ball. Mazkur xaridda hudud 28,78 gektar, ya'ni taxminan o'n baravar kichik. Bu talab mos hajmdagi ish tajribasiga ega bo'lgan ijrochilarni deyarli butunlay balldan mahrum qiladi va hujjat topshirilmasa ishtirokchi keyingi bosqichdan chetlatiladi.",
+   "explanation_en": "Nine of the 10 points on criterion 7 go to master plans for territories above 300 ha, while works up to 300 ha get only 1 point. This lot covers 28.78 ha, about ten times smaller. The clause leaves firms with right-sized experience almost without points, and a bidder who submits nothing is removed from the next stage.",
+   "rewrite_uz": "Hududlarda 30 gektargacha, 30 dan 100 gektargacha va 100 gektardan yuqori maydon uchun bajarilgan master-reja ishlari (Shaharsozlik kengashi xulosasi bilan) - mutanosib ballar: masalan, 28,78 gektarga yaqin yoki undan katta hudud uchun tajribaga to'liq ball.",
+   "rewrite_en": "Master-plan works completed for areas up to 30 ha, 30-100 ha and over 100 ha (with an Urban Planning Council opinion), with proportional points, giving full points for experience on areas close to or larger than 28.78 ha.",
+   "type_label_uz": "Lot hajmiga nomutanosib tajriba yoki resurs talabi",
+   "type_label_en": "Experience or resource demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "unrealistic_deadline",
+   "severity": "medium",
+   "quote": "Buyurtmachi va gʼolib boʼlgan qatnashchi bilan shartnoma imzolangan kundan boshlanadi. 1.5. Ishlarni Bajarish muddati: 01.12.2026 gacha.",
+   "page": 12,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Tanlov hujjatida ishlar shartnoma imzolangan kundan boshlanib 2026-yil 1-dekabrgacha bajarilishi kerakligi yozilgan, takliflar esa 24-noyabrgacha qabul qilinadi. Qolgan muddat taxminan bir haftadan oshmaydi, bu 16 ta mahallani qamrab olgan master-reja uchun real emas. Lot ma'lumotlarida muddat 7 oy deb ko'rsatilgan, ya'ni hujjatlar bir-biriga zid; buni aniqlashtirish kerak.",
+   "explanation_en": "The tender document says works run from the contract signing date and must finish by 1 December 2026, while bids are accepted until 24 November. That leaves about a week, which is not realistic for a master plan covering 16 mahallas. The lot entry gives 7 months, so the documents contradict each other and this should be clarified.",
+   "rewrite_uz": "Ishlarni bajarish muddati: shartnoma imzolangan kundan boshlab 7 oy (yoki buyurtmachi asoslagan boshqa real muddat).",
+   "rewrite_en": "Completion period: 7 months from the contract signing date (or another realistic period justified by the customer).",
+   "type_label_uz": "Bajarish qiyin bo'lgan muddat",
+   "type_label_en": "Deadline that is hard to meet",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 34,
+ "traffic_light": "red",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 62,
+  "history_penalty": 4.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Lot hajmiga nomutanosib tajriba yoki resurs talabi (15-bet): Mezon 7 bo'yicha 10 balldan 9 tasi 300 gektardan katta hududlar uchun ishlab chiqilgan master-rejalarga beriladi, 300 gektargacha bo'lgan ishlarga esa atigi 1 ball. Mazkur xaridda hudud 28,78 gektar, ya'ni taxminan o'n baravar kichik. Bu talab mos hajmdagi ish tajribasiga ega bo'lgan ijrochilarni deyarli butunlay balldan mahrum qiladi va hujjat topshirilmasa ishtirokchi keyingi bosqichdan chetlatiladi.",
+   "Bajarish qiyin bo'lgan muddat (12-bet): Tanlov hujjatida ishlar shartnoma imzolangan kundan boshlanib 2026-yil 1-dekabrgacha bajarilishi kerakligi yozilgan, takliflar esa 24-noyabrgacha qabul qilinadi. Qolgan muddat taxminan bir haftadan oshmaydi, bu 16 ta mahallani qamrab olgan master-reja uchun real emas. Lot ma'lumotlarida muddat 7 oy deb ko'rsatilgan, ya'ni hujjatlar bir-biriga zid; buni aniqlashtirish kerak.",
+   "Buyurtmachining so'nggi 42 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 33% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 33%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 525126).",
+   "Tushuntirish so'rash muddati: 24.11.2026 18:18.",
+   "Diqqat: hujjatning 11 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Experience or resource demand out of proportion to the lot (page 15): Nine of the 10 points on criterion 7 go to master plans for territories above 300 ha, while works up to 300 ha get only 1 point. This lot covers 28.78 ha, about ten times smaller. The clause leaves firms with right-sized experience almost without points, and a bidder who submits nothing is removed from the next stage.",
+   "Deadline that is hard to meet (page 12): The tender document says works run from the contract signing date and must finish by 1 December 2026, while bids are accepted until 24 November. That leaves about a week, which is not realistic for a master plan covering 16 mahallas. The lot entry gives 7 months, so the documents contradict each other and this should be clarified.",
+   "In the customer's last 42 deals the median number of bidders was 3; 33% of deals had two or fewer bidders; the most frequent winner took 33%.",
+   "This lot was re-announced (previous lot: 525126).",
+   "Clarification requests are accepted until 24.11.2026 18:18.",
+   "Note: 11 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ta'sis hujjatlari va davlat ro'yxatidan o'tganlik guvohnomasi",
+  "Faoliyat huquqini beruvchi hujjatlar: 3-toifa litsenziya, guvohnoma, akkreditatsiya sertifikatlari yoki korxona nizomi",
+  "Oxirgi ikki yilda bajarilgan hududiy rejalashtirish ishlari bo'yicha qabul qilish dalolatnomalari",
+  "300 gektardan yuqori hududlar bo'yicha master-rejalar va Shaharsozlik kengashi xulosasi (bo'lsa)",
+  "Buxgalteriya balansi (F-1, F-2), oxirgi 3 yillik moliyaviy natija, to'lovga qodirlik va bank aylanma mablag'i ma'lumoti",
+  "Soliq qarzdorligi yo'qligi to'g'risida ma'lumot",
+  "Majburiy ijro byurosi bazalarida bajarilmagan sud qarorlari yo'qligi to'g'risida ma'lumotnoma",
+  "Mutaxassislar to'g'risida ma'lumotnoma (rahbar, 2 ta bosh muhandis, bosh arxitektor, 6 ta xodim) va diplom hamda hujjat nusxalari",
+  "Hudud konsepsiyasi loyihasi va texnik taklif (tasavvur, maqsad, yondashuv)",
+  "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi to'g'risida ariza",
+  "Xorijiy davlatlar va xalqaro tashkilotlar sanksiyalari qo'llanilmaganligi to'g'risida ma'lumot",
+  "Tanlov qoidalariga rioya etish to'g'risidagi ariza",
+  "Zakalat kiritilganligini tasdiqlovchi hujjat yoki bank kafolati",
+  "1-talab",
+  "2-talab",
+  "3-talab",
+  "4-talab",
+  "5-talab",
+  "6-talab",
+  "7-talab"
+ ],
+ "clarification_letter_uz": "Kimga: Капитал курилиш сохасида буюртмачи хизмати, xarid komissiyasiga\nLot raqami: 26110012525210\nXarid predmeti: Beşariq, Özbekiston, Rişton, Danğara tumanlaridagi, “Rapqon”, “Yakkatut”, “Kapayangi”, “Şakarobod”, “Yakkatut”, “Nursuh”, “Zohidon”, “Böston”, “Sohibkor”, “Qizilmuşt”, “Pişkaron”, “Şodlik” MFYlar hudu\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 15-bet.\n   Hujjatdagi matn: «9 - Hududlarda 300,0 gektardan yuqori bo„lgan hudud uchun ishlab chiqilgan master rejalar (Shaharsozlik kengashi xulosasi ilova qilinsin)»\n   Savolimiz: Mezon 7 bo'yicha 10 balldan 9 tasi 300 gektardan katta hududlar uchun ishlab chiqilgan master-rejalarga beriladi, 300 gektargacha bo'lgan ishlarga esa atigi 1 ball. Mazkur xaridda hudud 28,78 gektar, ya'ni taxminan o'n baravar kichik. Bu talab mos hajmdagi ish tajribasiga ega bo'lgan ijrochilarni deyarli butunlay balldan mahrum qiladi va hujjat topshirilmasa ishtirokchi keyingi bosqichdan chetlatiladi.\n   Taklif etilayotgan tahrir: Hududlarda 30 gektargacha, 30 dan 100 gektargacha va 100 gektardan yuqori maydon uchun bajarilgan master-reja ishlari (Shaharsozlik kengashi xulosasi bilan) - mutanosib ballar: masalan, 28,78 gektarga yaqin yoki undan katta hudud uchun tajribaga to'liq ball.\n\n2. Texnik topshiriq, 12-bet.\n   Hujjatdagi matn: «Buyurtmachi va gʼolib boʼlgan qatnashchi bilan shartnoma imzolangan kundan boshlanadi. 1.5. Ishlarni Bajarish muddati: 01.12.2026 gacha.»\n   Savolimiz: Tanlov hujjatida ishlar shartnoma imzolangan kundan boshlanib 2026-yil 1-dekabrgacha bajarilishi kerakligi yozilgan, takliflar esa 24-noyabrgacha qabul qilinadi. Qolgan muddat taxminan bir haftadan oshmaydi, bu 16 ta mahallani qamrab olgan master-reja uchun real emas. Lot ma'lumotlarida muddat 7 oy deb ko'rsatilgan, ya'ni hujjatlar bir-biriga zid; buni aniqlashtirish kerak.\n   Taklif etilayotgan tahrir: Ishlarni bajarish muddati: shartnoma imzolangan kundan boshlab 7 oy (yoki buyurtmachi asoslagan boshqa real muddat).\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (24.11.2026 18:18) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 42,
+  "median_bidders": 3.0,
+  "share_le2_bidders": 0.3333,
+  "top_winner_share": 0.3333,
+  "share_price_drop_lt1pct": 0.1429,
+  "reannounced_lots": 4
+ },
+ "money_on_table_uzs": 53089477.92,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

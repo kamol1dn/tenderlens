@@ -1,0 +1,289 @@
+{
+ "lot_id": 524979,
+ "display_no": "26110012524979",
+ "title": "To‘siq o‘rnatish xizmati",
+ "url": "https://etender.uzex.uz/lot/524979",
+ "customer": {
+  "name": "Янги Навоий шахарчаси ишбилармонлик маркази дирекцияси Давлат муассасаси",
+  "tin": "311311785"
+ },
+ "region": "Навоий вилояти",
+ "start_cost": 1100000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T14:50:32",
+ "end_date": "2026-11-23T14:50:32",
+ "clarific_date": "2026-11-23T14:50:32",
+ "type": "selection",
+ "old_id": 524860,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 25,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524979.pdf",
+  "pages": 1,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Yangi Navoiy shaharchasidagi bog' hududiga temir to'siq (metall profil va profnastil) o'rnatish xizmati",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "unknown",
+ "financing_source": "Бюджет",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "3000 kv.m yer maydonini metall profil va 3500 kv.m profnastil bilan o'rash xizmati bajariladi.",
+   "summary_en": "Fence a 3000 sq.m plot using metal profile and 3500 sq.m of profiled sheet.",
+   "quote": "3000 квадрат метр ер майдонини 3000 квадрат метр метал профилга, 3500 квадрат метр профнастил билан ўраш хизмати",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Texnik topshiriqda to'siq uzunligi 1500 metr va balandligi 3,50 metr ko'rsatilgan.",
+   "summary_en": "The technical assignment states a fence length of 1500 m and a height of 3.50 m.",
+   "quote": "1500 метр узунлиги 3.50 метр баландлиги.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi shartnomani bajarish uchun texnik, moliyaviy, moddiy va kadrlar resurslariga ega bo'lishi kerak.",
+   "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Mezon 1 (5 ball): tegishli malakali yoki shartnoma asosida jalb etiladigan mutaxassislar mavjudligi baholanadi.",
+   "summary_en": "Criterion 1 (5 points): availability of qualified or contracted specialists is scored.",
+   "quote": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Mezon 2 (5 ball): ishlarni o'z vaqtida va sifatli bajarish bo'yicha kafolat xati taqdim etiladi.",
+   "summary_en": "Criterion 2 (5 points): a guarantee letter on timely, quality performance is submitted.",
+   "quote": "Ишларни ўз вақтида ва сифатли бажариш кафолат хати",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Mezon 3 (5 ball): obyektni ko'rganlik haqida Direksiya va talabgor imzolagan, muhrlangan dalolatnoma talab qilinadi.",
+   "summary_en": "Criterion 3 (5 points): an act of site inspection signed and sealed by both the Directorate and the bidder is required.",
+   "quote": "объектни келиб урганганлиги юзасидан Дирекция ва талабгор уртасида икки томонлама имзоланган ва мухирланган далолатномани",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Mezon 4 (5 ball): sug'urta polislari ilova qilinadi (uchinchi shaxslar oldidagi javobgarlikni sug'urtalash mezoni).",
+   "summary_en": "Criterion 4 (5 points): insurance policies are attached (third-party liability insurance criterion).",
+   "quote": "Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Mezon 5 (5 ball): soliq va bank qarzdorligi hamda K-2 kartotekasi bo'yicha ma'lumotnomalar taqdim etiladi.",
+   "summary_en": "Criterion 5 (5 points): certificates of no tax/bank debt and no K-2 card-file entries are submitted.",
+   "quote": "Қарздорлик ва картотека К-2 мавжуд эмаслиги маълумотномалари",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "payment",
+   "summary_uz": "Ish qiymatining 30 foizi miqdorida oldindan to'lov beriladi.",
+   "summary_en": "An advance payment of 30 percent of the work value is made.",
+   "quote": "Tanlash takliflari bo’yicha belgilangan ish qiymatining 30%miqdorida oldindan to’lov",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Boshlang'ich narx 1 100 000 000 so'm, moliyalashtirish byudjet mablag'lari hisobidan.",
+   "summary_en": "Start price is 1,100,000,000 UZS, funded from the budget.",
+   "quote": "1 100 000 000 (bir milliard bir yuz million) so‘m.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "other",
+   "summary_uz": "Takliflar qabul qilish tugagach 3 kun ichida baholanadi.",
+   "summary_en": "Bids are evaluated within 3 days after the end of bid acceptance.",
+   "quote": "Tanlash takliflarini qabul qilish tugagan kundan boshlab 3 kun davomida",
+   "page": 1,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "объектни келиб урганганлиги юзасидан Дирекция ва талабгор уртасида икки томонлама имзоланган ва мухирланган далолатномани",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Mezon 3 (5 ball) buyurtmachi (Direksiya) ham imzolaydigan obyekt ko'rigi dalolatnomasini talab qiladi. Texnik qism bo'yicha o'tish bali 25, mezonlarning yig'indisi esa 5 x 5 = 25 ball, ya'ni har bir mezonda to'liq ball kerak bo'lib ko'rinadi; buyurtmachi imzosi bo'lmasa, ishtirokchi o'ta olmasligi mumkin. Takliflar e'londan 7 kun ichida qabul qilinadi, shu muddatda ko'rikdan o'tish va imzo olish barcha uchun ham oson emas.",
+   "explanation_en": "Criterion 3 (5 points) requires a site-inspection act that the customer's Directorate must also sign. The technical pass mark is 25 and the five criteria add up to 5 x 5 = 25 points, so full marks appear to be needed on every criterion; without the customer's signature a bidder may not pass. Bids are accepted for only 7 days after publication, which makes arranging the visit and signature hard for some bidders.",
+   "rewrite_uz": "Obyektni ko'rish ixtiyoriy bo'lsin; ko'rik o'tkazilsa, dalolatnoma buyurtmachi tomonidan ariza kelgan kundan boshlab 1 ish kuni ichida rasmiylashtirilsin va uning mavjudligi yoki yo'qligi sababli ishtirokchi texnik bosqichdan chetlashtirilmasin.",
+   "rewrite_en": "Make the site visit optional; if a visit is held, the customer issues the act within 1 working day of the request, and absence of the act does not remove a bidder from the technical stage.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "irrelevant_requirement",
+   "severity": "low",
+   "quote": "Қарздорлик ва картотека К-2 мавжуд эмаслиги маълумотномалари",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Mezon 5 sarlavhasi xodimlarni o'qitish talabiga oid, lekin unga 5 ball soliq va bank qarzdorligi ma'lumotnomalari uchun beriladi. Bu platformaning standart shabloniga o'xshaydi va obyektni to'siq bilan o'rash xizmatiga bevosita aloqador emas; ballar umumiy 25 ballning 20 foizini tashkil qiladi.",
+   "explanation_en": "The title of Criterion 5 concerns training of the customer's staff, yet its 5 points are awarded for tax and bank debt certificates. This looks like standard platform template wording and is not tied to a fencing service; the points are 20 percent of the 25-point technical total.",
+   "rewrite_uz": "Mezon 5 ni xizmat predmetiga mos mezon bilan almashtiring (masalan, o'xshash ishlar tajribasi yoki ish bajarish jadvali), qarzdorlik ma'lumotnomalari esa malaka talabi sifatida (o'tdi/o'tmadi) qoldirilsin.",
+   "rewrite_en": "Replace Criterion 5 with one tied to the service (for example experience with similar works or a work schedule) and keep the debt certificates as a pass/fail qualification requirement.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "other",
+   "severity": "low",
+   "quote": "3000 квадрат метр ер майдонини 3000 квадрат метр метал профилга, 3500 квадрат метр профнастил билан ўраш хизмати. 1500 метр узунлиги 3.50 метр баландлиги.",
+   "page": 1,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Hajm raqamlari bir-biriga mos kelmaydi: 3000 kv.m yer, 3000 kv.m metall profil va 3500 kv.m profnastil ko'rsatilgan, 1500 m uzunlik va 3,50 m balandlik esa taxminan 5250 kv.m to'siqni bildiradi. Aniq hajm noma'lum bo'lsa, ishtirokchilar narxni bir xil asosda hisoblay olmaydi.",
+   "explanation_en": "The quantities do not agree: 3000 sq.m of land, 3000 sq.m of metal profile and 3500 sq.m of profiled sheet are listed, while 1500 m length at 3.50 m height implies about 5250 sq.m of fence. If the real quantity is unclear, bidders cannot price on the same basis.",
+   "rewrite_uz": "Texnik topshiriqqa to'siqning aniq uzunligi, balandligi va materiallar bo'yicha yagona hajm jadvalini kiriting.",
+   "rewrite_en": "Add a single quantity table with the exact fence length, height and quantity per material to the technical assignment.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 66,
+ "traffic_light": "amber",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 34,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): Mezon 3 (5 ball) buyurtmachi (Direksiya) ham imzolaydigan obyekt ko'rigi dalolatnomasini talab qiladi. Texnik qism bo'yicha o'tish bali 25, mezonlarning yig'indisi esa 5 x 5 = 25 ball, ya'ni har bir mezonda to'liq ball kerak bo'lib ko'rinadi; buyurtmachi imzosi bo'lmasa, ishtirokchi o'ta olmasligi mumkin. Takliflar e'londan 7 kun ichida qabul qilinadi, shu muddatda ko'rikdan o'tish va imzo olish barcha uchun ham oson emas.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): Mezon 5 sarlavhasi xodimlarni o'qitish talabiga oid, lekin unga 5 ball soliq va bank qarzdorligi ma'lumotnomalari uchun beriladi. Bu platformaning standart shabloniga o'xshaydi va obyektni to'siq bilan o'rash xizmatiga bevosita aloqador emas; ballar umumiy 25 ballning 20 foizini tashkil qiladi.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (1-bet): Hajm raqamlari bir-biriga mos kelmaydi: 3000 kv.m yer, 3000 kv.m metall profil va 3500 kv.m profnastil ko'rsatilgan, 1500 m uzunlik va 3,50 m balandlik esa taxminan 5250 kv.m to'siqni bildiradi. Aniq hajm noma'lum bo'lsa, ishtirokchilar narxni bir xil asosda hisoblay olmaydi.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524860).",
+   "Tushuntirish so'rash muddati: 23.11.2026 14:50."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Other clause that may limit competition (platform criteria form): Criterion 3 (5 points) requires a site-inspection act that the customer's Directorate must also sign. The technical pass mark is 25 and the five criteria add up to 5 x 5 = 25 points, so full marks appear to be needed on every criterion; without the customer's signature a bidder may not pass. Bids are accepted for only 7 days after publication, which makes arranging the visit and signature hard for some bidders.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): The title of Criterion 5 concerns training of the customer's staff, yet its 5 points are awarded for tax and bank debt certificates. This looks like standard platform template wording and is not tied to a fencing service; the points are 20 percent of the 25-point technical total.",
+   "Other clause that may limit competition (page 1): The quantities do not agree: 3000 sq.m of land, 3000 sq.m of metal profile and 3500 sq.m of profiled sheet are listed, while 1500 m length at 3.50 m height implies about 5250 sq.m of fence. If the real quantity is unclear, bidders cannot price on the same basis.",
+   "This lot was re-announced (previous lot: 524860).",
+   "Clarification requests are accepted until 23.11.2026 14:50."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ta'sis hujjatlari",
+  "Shartnoma tuzish uchun qonuniy huquqni tasdiqlovchi hujjat",
+  "Texnik, moliyaviy, moddiy va kadrlar resurslari mavjudligi haqida ma'lumot",
+  "Malakali mutaxassislar mavjudligini tasdiqlovchi hujjatlar",
+  "Ishlarni o'z vaqtida va sifatli bajarish bo'yicha kafolat xati",
+  "Obyektni ko'rganlik haqidagi ikki tomonlama imzolangan va muhrlangan dalolatnoma",
+  "Sug'urta polislari",
+  "Soliq va bank qarzdorligi hamda K-2 kartotekasi mavjud emasligi haqidagi ma'lumotnomalar",
+  "Bankrotlik tartib-taomili mavjud emasligi haqida ma'lumot",
+  "Insofsiz ijrochilar reyestrida yo'qligi va Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+  "Taklifni ta'minlash (1 foiz)",
+  "Ишчи ходимлар тегишли мутахассислар мажудлиги",
+  "Ишларни ўз вақтида ва сифатли бажариш кафолат хати",
+  "объектни келиб урганганлиги юзасидан Дирекция ва талабгор уртасида икки томонлама имзоланган ва мухирланган далолатномани",
+  "Суғурта полислари илова қилинсин",
+  "Қарздорлик ва картотека К-2 мавжуд эмаслиги маълумотномалари"
+ ],
+ "clarification_letter_uz": "Kimga: Янги Навоий шахарчаси ишбилармонлик маркази дирекцияси Давлат муассасаси, xarid komissiyasiga\nLot raqami: 26110012524979\nXarid predmeti: To‘siq o‘rnatish xizmati\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «объектни келиб урганганлиги юзасидан Дирекция ва талабгор уртасида икки томонлама имзоланган ва мухирланган далолатномани»\n   Savolimiz: Mezon 3 (5 ball) buyurtmachi (Direksiya) ham imzolaydigan obyekt ko'rigi dalolatnomasini talab qiladi. Texnik qism bo'yicha o'tish bali 25, mezonlarning yig'indisi esa 5 x 5 = 25 ball, ya'ni har bir mezonda to'liq ball kerak bo'lib ko'rinadi; buyurtmachi imzosi bo'lmasa, ishtirokchi o'ta olmasligi mumkin. Takliflar e'londan 7 kun ichida qabul qilinadi, shu muddatda ko'rikdan o'tish va imzo olish barcha uchun ham oson emas.\n   Taklif etilayotgan tahrir: Obyektni ko'rish ixtiyoriy bo'lsin; ko'rik o'tkazilsa, dalolatnoma buyurtmachi tomonidan ariza kelgan kundan boshlab 1 ish kuni ichida rasmiylashtirilsin va uning mavjudligi yoki yo'qligi sababli ishtirokchi texnik bosqichdan chetlashtirilmasin.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Қарздорлик ва картотека К-2 мавжуд эмаслиги маълумотномалари»\n   Savolimiz: Mezon 5 sarlavhasi xodimlarni o'qitish talabiga oid, lekin unga 5 ball soliq va bank qarzdorligi ma'lumotnomalari uchun beriladi. Bu platformaning standart shabloniga o'xshaydi va obyektni to'siq bilan o'rash xizmatiga bevosita aloqador emas; ballar umumiy 25 ballning 20 foizini tashkil qiladi.\n   Taklif etilayotgan tahrir: Mezon 5 ni xizmat predmetiga mos mezon bilan almashtiring (masalan, o'xshash ishlar tajribasi yoki ish bajarish jadvali), qarzdorlik ma'lumotnomalari esa malaka talabi sifatida (o'tdi/o'tmadi) qoldirilsin.\n\n3. Texnik topshiriq, 1-bet.\n   Hujjatdagi matn: «3000 квадрат метр ер майдонини 3000 квадрат метр метал профилга, 3500 квадрат метр профнастил билан ўраш хизмати. 1500 метр узунлиги 3.50 метр баландлиги.»\n   Savolimiz: Hajm raqamlari bir-biriga mos kelmaydi: 3000 kv.m yer, 3000 kv.m metall profil va 3500 kv.m profnastil ko'rsatilgan, 1500 m uzunlik va 3,50 m balandlik esa taxminan 5250 kv.m to'siqni bildiradi. Aniq hajm noma'lum bo'lsa, ishtirokchilar narxni bir xil asosda hisoblay olmaydi.\n   Taklif etilayotgan tahrir: Texnik topshiriqqa to'siqning aniq uzunligi, balandligi va materiallar bo'yicha yagona hajm jadvalini kiriting.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (23.11.2026 14:50) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 0,
+  "median_bidders": 0,
+  "share_le2_bidders": 0.0,
+  "top_winner_share": 0.0,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 150040000.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

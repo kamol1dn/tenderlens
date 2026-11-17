@@ -1,0 +1,172 @@
+{
+ "lot_id": 521609,
+ "display_no": "26120012521609",
+ "title": "Услуги по ремонту и техническому обслуживанию дорожно-строительной техники / Йўл-қурилиш техникасини таъмирлаш ва техник хизмат кўрсатиш бўйича хизматлар",
+ "url": "https://etender.uzex.uz/lot/521609",
+ "customer": {
+  "name": "АО OLMALIQ KON-METALLURGIYA KOMBINATI",
+  "tin": "202328794"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 2184000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T09:07:00",
+ "end_date": "2026-11-18T09:07:00",
+ "clarific_date": "2026-11-18T09:07:00",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 1,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/521609.pdf",
+  "pages": 9,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Yo'l-qurilish texnikasini ehtiyot qismlarini o'rnatgan holda ta'mirlash va texnik xizmat ko'rsatish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Ўз маблағларимиз / Собственные средства",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Ijrochi ishlarni tashkil etish uchun amaldagi sertifikat va litsenziyalarga ega bo'lishi kerak (qonun talab qilsa).",
+   "summary_en": "The contractor must hold valid certificates and licences for the work, where the law requires them.",
+   "quote": "Ижрочи юқорида кўрсатилган ишларни ташкил этиш ва амалга ошириш учун амалдаги сертификат ва лицензияларга эга бўлиши керак (агар қонун талаб қилса).",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Talabgor ta'mirchilar soni (malakasi bilan), ko'targichlar, ko'rik chuqurlari va yopiq boksler haqida ma'lumot berishi kerak.",
+   "summary_en": "Bidders must provide data on repair staff (with qualifications), lifts, inspection pits and enclosed workshop bays.",
+   "quote": "Талабгорлар моддий-техник имкониятлари. Таъмирчи ходимларининг сони (малакасини кўрсатган ҳолда), мавжуд кўтариш мосламалари, текшириш чуқурлари",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Ta'mirlash to'liq diagnostika va nosozliklar hamda tavsiyalar ko'rsatilgan hujjatni mijozga topshirishni o'z ichiga oladi.",
+   "summary_en": "Repairs include full diagnostics and a written defect report with recommendations for the customer.",
+   "quote": "тўлиқ диагностика, носозликлар ва уларни бартараф этишга қартилган тавсияларни, маълумотларни ўз ичига олган хужжатни тўлдириб Буюртмачига тақдим этиши керак.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Bajarilgan ishlar uchun qabul qilingan kundan boshlab kamida 6 oy kafolat beriladi.",
+   "summary_en": "Warranty of at least 6 months on completed work from the acceptance date.",
+   "quote": "Ижрочи бажарилган ишлар (кўрсатган хизматлар) учун, улар қабул қилинган кундан бошлаб 6 ойдан кам бўлмаган муддатга кафолат бериши керак.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Kerak bo'lsa ustalar diagnostika asboblari bilan buyurtmachi hududiga chiqishi kerak.",
+   "summary_en": "If needed, repair technicians with diagnostic equipment must travel to the customer's site.",
+   "quote": "Ижрочи, агар керак бўлса, таъмирчилари (усталари), ташхис қўйиш учун зарур бўлган диагностика ускуналари ва инвентарлари билан Буюртмачининг ҳудудига",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "other",
+   "summary_uz": "Ijrochi subpudratchilarni jalb qila olmaydi.",
+   "summary_en": "The contractor may not use subcontractors.",
+   "quote": "Ижрочи хизматларни бажаришга бошқа шахсларни (субпудратчиларни) жалб қила олмайди.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "delivery",
+   "summary_uz": "Ishlar ijrochining Olmaliqdagi servisida yoki buyurtmachi hududida bajarilishi kerak.",
+   "summary_en": "Work must be done at the contractor's service station in Almalyk or on the customer's territory.",
+   "quote": "Ишлар/хизматлар Ижрочининг Олмалиқ шаҳридаги ТХКМда ёки Буюртмачининг ҳудудида кўрсатилиши керак.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "other",
+   "summary_uz": "Ishtirokchilar ehtiyot qismlar narxi va katalog raqamlarini 1-ilovaga muvofiq berishi shart (narxlar taxminiy, undan yuqori bo'lmasligi kerak).",
+   "summary_en": "Bidders must state spare-part prices and catalogue numbers per Annex 1; indicative prices may not be exceeded.",
+   "quote": "Иштирокчилар эҳтиёт қисмларнинг нарҳини ва каталог рақамларини кўрсатган ҳолда 1-иловага мувофиқ тақдим этишлари шарт.",
+   "page": 2,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 97,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 3.4,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 437 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 48% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 5%."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 437 deals the median number of bidders was 3; 48% of deals had two or fewer bidders; the most frequent winner took 5%."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik topshiriq talablariga muvofiqlik hujjati",
+  "Amaldagi sertifikat va litsenziyalar (qonun talab qilsa)",
+  "Moddiy-texnik imkoniyatlar haqida ma'lumot: ta'mirchilar soni va malakasi, ko'targichlar, ko'rik chuqurlari, yopiq boksler",
+  "Ehtiyot qismlar narxi va katalog raqamlari (1-ilova bo'yicha)",
+  "Soliq qarzi yo'qligi va insofsiz ijrochilar reyestrida yo'qligi to'g'risidagi ma'lumotlar",
+  "Соответствие требованиям Технического задания / Техник топшириқ талабларига мувофиқлик"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 437,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4828,
+  "top_winner_share": 0.0481,
+  "share_price_drop_lt1pct": 0.151,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 307944000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:02+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

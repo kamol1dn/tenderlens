@@ -1,0 +1,288 @@
+{
+ "lot_id": 524784,
+ "display_no": "26120012524784",
+ "title": "Долота трехшарошечные Б/л",
+ "url": "https://etender.uzex.uz/lot/524784",
+ "customer": {
+  "name": "\"O\"ZYO'LKO'PRIK KLASTERINING SAMARQAND FILIALI\" DM",
+  "tin": "200714363"
+ },
+ "region": "Самарқанд вилояти",
+ "start_cost": 69243672.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T10:01:27",
+ "end_date": "2026-11-18T10:01:27",
+ "clarific_date": "2026-11-18T10:01:27",
+ "type": "selection",
+ "old_id": 522938,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 50,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг маркировкасига, уни қадоқлаш, юклаш ва ташишга қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг техник тартибга солиш соҳасидаги норматив ҳужжатларга мувофиқлиги бўйича талаблар. Мувофиқлиги баҳоланиши лозим бўлган давлат ветеринария хизмати назорати остидаги маҳсулотлар. Мажбурий тартибда мувофиқлиги баҳоланиши лозим бўлган маҳсулотлар.Мажбурий экологик сертификатланиши лозим бўлган маҳсулотлар. Санитария-эпидемиологик хулосага мос келадиган маҳсулотлар.",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг техник тартибга солиш соҳасидаги норматив ҳужжатларга мувофиқлиги бўйича талаблар. Мувофиқлиги баҳоланиши лозим бўлган давлат ветеринария хизмати назорати остидаги маҳсулотлар. Мажбурий тартибда мувофиқлиги баҳоланиши лозим бўлган маҳсулотлар.Мажбурий экологик сертификатланиши лозим бўлган маҳсулотлар. Санитария-эпидемиологик хулосага мос келадиган маҳсулотлар.",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш муддати бўйича талаблар (норезидент ва резидентлар учун алоҳида манзиллар белгиланиши мумкин)",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарларни шеф-монтаж, монтаж (ўрнатиш) ва созлаш ишларини амалга ошириш (агар ушбу ишлар етказиб берувчи томонидан бажарилса) бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолат бўйича талаблар (муддати, жойи)",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг ишлаб чиқарилган йилига қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524784.pdf",
+  "pages": 7,
+  "text_source": "ocr",
+  "language": "uz-cyrl",
+  "unreadable_pages": [
+   4,
+   5,
+   6,
+   7
+  ]
+ },
+ "subject_uz": "Uch sharoshkali burg'ulash uchlari (долота трехшарошечные), 2 dona",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "evaluation",
+   "summary_uz": "Texnik qismdan o'tish uchun minimal ball 50.",
+   "summary_en": "The minimum pass score for the technical part is 50.",
+   "quote": "Иштирокчиларни техник кисмдан минимални утиш бали 50 баллни ташкил килади.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Har bir mezon bo'yicha tasdiqlovchi hujjat to'liq va aniq biriktirilsa 5 ball, biriktirilmasa 1 ball beriladi.",
+   "summary_en": "For each criterion, complete and clear supporting documents earn 5 points, missing documents earn 1 point.",
+   "quote": "Тасдикловчи хужжат тулик ва аник бириктирилса 5 бал, бириктирилмаса 1 бал.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Texnik parametrlarning texnik topshiriqqa muvofiqligi hujjatlar bilan asoslanishi kerak.",
+   "summary_en": "Conformity of technical parameters with the specification must be backed by documents.",
+   "quote": "Техник параметрларни солиштириш иштирокчиларнинг техник топширикларида курсатилган",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Tovar sifat talablariga javob berishini tasdiqlovchi sertifikatlar va yo'riqnomalar taqdim etilishi kerak.",
+   "summary_en": "Certificates confirming quality and instructions must accompany the goods.",
+   "quote": "Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati, davriyligi va miqdori bo'yicha talablar hujjat bilan tasdiqlanadi.",
+   "summary_en": "Delivery time, frequency and quantity requirements must be confirmed by documents.",
+   "quote": "Товарни етказиб бериш муддати бўйича талаблар (норезидент ва резидентлар учун алоҳида манзиллар белгиланиши мумкин)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "other",
+   "summary_uz": "Kafolat va kafolatdan keyingi xizmat ko'rsatish talablari (muddat, joy) ko'rsatilishi kerak.",
+   "summary_en": "Warranty and post-warranty service terms (period, place) must be stated.",
+   "quote": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "payment",
+   "summary_uz": "Narx shartnoma muddati davomida o'zgarmas bo'lishi va yuk tashish, sertifikatlash, sinov xarajatlarini qamrab olishi kerak.",
+   "summary_en": "The price must stay fixed for the whole contract and cover transport, certification and testing costs.",
+   "quote": "Иштирокчи томонидан таклиф килинган нарх шартноманинг бутун муддати давомида",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi shubhali operatsiyalar bo'yicha ro'yxatda bo'lmasligi kerak (soliq.uz ma'lumoti).",
+   "summary_en": "The bidder must not be on the list of entities with confirmed suspicious operations (tax portal data).",
+   "quote": "Шубҳали операцияларни амалга ошириб, норасмий иқтисодий фаолият юритганлик ҳолати тасдиқланган субъектлар рўйхатида эмаслиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reyestrida bo'lmasligi kerak.",
+   "summary_en": "The bidder must not be listed in the unified register of unfair suppliers.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "Мувофиклиги бахоланиши лозим булган давлат ветеринария хизмати назорати остидаги махсулотлар",
+   "page": 1,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Xarid predmeti uch sharoshkali burg'ulash dolotalari, lekin 5-mezon davlat veterinariya xizmati nazoratidagi mahsulotlar uchun muvofiqlik hujjatini baholaydi: hujjat biriktirilsa 5 ball, biriktirilmasa 1 ball. Dolota uchun bunday hujjat bo'lishi mumkin emas, shuning uchun ishtirokchi 4 ballni yo'qotishi mumkin. Bu matn platformaning standart shablonidan olingan ko'rinadi.",
+   "explanation_en": "The lot buys three-cone drill bits, yet criterion 5 scores a conformity document for products under state veterinary control: 5 points if attached, 1 if not. No such document can exist for drill bits, so a bidder may lose 4 points. The wording appears to come from the platform's standard template.",
+   "rewrite_uz": "5-mezon chiqarib tashlansin yoki quyidagicha bayon etilsin: «Tovarning texnik jihatdan tartibga solish sohasidagi normativ hujjatlarga muvofiqligi: tovar majburiy sertifikatlanishi lozim bo'lsa, muvofiqlik sertifikati taqdim etiladi; talab xarid predmetiga taalluqli bo'lmasa, barcha ishtirokchilarga to'liq ball beriladi».",
+   "rewrite_en": "Remove criterion 5, or word it as: \"Conformity of the goods with technical-regulation documents: where the goods are subject to mandatory certification, a conformity certificate is provided; where the requirement does not apply to the subject of the purchase, all bidders receive full points.\"",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 72,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 5.9,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (1-bet): Xarid predmeti uch sharoshkali burg'ulash dolotalari, lekin 5-mezon davlat veterinariya xizmati nazoratidagi mahsulotlar uchun muvofiqlik hujjatini baholaydi: hujjat biriktirilsa 5 ball, biriktirilmasa 1 ball. Dolota uchun bunday hujjat bo'lishi mumkin emas, shuning uchun ishtirokchi 4 ballni yo'qotishi mumkin. Bu matn platformaning standart shablonidan olingan ko'rinadi.",
+   "Buyurtmachining so'nggi 154 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 84% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 12%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 522938).",
+   "Tushuntirish so'rash muddati: 18.11.2026 10:01.",
+   "Diqqat: hujjatning 4 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Requirement unrelated to the subject of the purchase (page 1): The lot buys three-cone drill bits, yet criterion 5 scores a conformity document for products under state veterinary control: 5 points if attached, 1 if not. No such document can exist for drill bits, so a bidder may lose 4 points. The wording appears to come from the platform's standard template.",
+   "In the customer's last 154 deals the median number of bidders was 2; 84% of deals had two or fewer bidders; the most frequent winner took 12%.",
+   "This lot was re-announced (previous lot: 522938).",
+   "Clarification requests are accepted until 18.11.2026 10:01.",
+   "Note: 4 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik shakldagi ma'lumot (1T shakli)",
+  "Sifat sertifikatlari",
+  "Yo'riqnoma va ko'rsatmalar",
+  "Kafolat va kafolatdan keyingi xizmat bo'yicha hujjatlar",
+  "Yetkazib berish muddati bo'yicha tasdiqlovchi hujjat",
+  "Soliq organidan shubhali operatsiyalar ro'yxatida emasligi to'g'risida ma'lumot",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma"
+ ],
+ "clarification_letter_uz": "Kimga: \"O\"ZYO'LKO'PRIK KLASTERINING SAMARQAND FILIALI\" DM, xarid komissiyasiga\nLot raqami: 26120012524784\nXarid predmeti: Долота трехшарошечные Б/л\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 1-bet.\n   Hujjatdagi matn: «Мувофиклиги бахоланиши лозим булган давлат ветеринария хизмати назорати остидаги махсулотлар»\n   Savolimiz: Xarid predmeti uch sharoshkali burg'ulash dolotalari, lekin 5-mezon davlat veterinariya xizmati nazoratidagi mahsulotlar uchun muvofiqlik hujjatini baholaydi: hujjat biriktirilsa 5 ball, biriktirilmasa 1 ball. Dolota uchun bunday hujjat bo'lishi mumkin emas, shuning uchun ishtirokchi 4 ballni yo'qotishi mumkin. Bu matn platformaning standart shablonidan olingan ko'rinadi.\n   Taklif etilayotgan tahrir: 5-mezon chiqarib tashlansin yoki quyidagicha bayon etilsin: «Tovarning texnik jihatdan tartibga solish sohasidagi normativ hujjatlarga muvofiqligi: tovar majburiy sertifikatlanishi lozim bo'lsa, muvofiqlik sertifikati taqdim etiladi; talab xarid predmetiga taalluqli bo'lmasa, barcha ishtirokchilarga to'liq ball beriladi».\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 10:01) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 154,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.8442,
+  "top_winner_share": 0.1234,
+  "share_price_drop_lt1pct": 0.2078,
+  "reannounced_lots": 18
+ },
+ "money_on_table_uzs": 9444836.86,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "lint_backend": "in-session"
+}

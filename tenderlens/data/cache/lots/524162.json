@@ -1,0 +1,187 @@
+{
+ "lot_id": 524162,
+ "display_no": "26120012524162",
+ "title": "Техник топширик асосида ГЦ2-519-56/1.44 русумли нагнетател роторини таъмирлаш",
+ "url": "https://etender.uzex.uz/lot/524162",
+ "customer": {
+  "name": "\"O`ZTRANSGAZ\" AJ (филиал \"Ўзтрансгаз\" АЖ Муборак магистрал газ кувурлари бошкармаси)",
+  "tin": "200626188"
+ },
+ "region": "Қашқадарё вилояти",
+ "start_cost": 1696145173.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T13:04:19",
+ "end_date": "2026-11-18T13:04:19",
+ "clarific_date": "2026-11-18T13:04:19",
+ "type": "selection",
+ "old_id": 523975,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 2,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524162.pdf",
+  "pages": 2,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Gaz haydash agregati kompressori rotorini (GTs2-519-56/1.44) texnik topshiriq asosida ta'mirlash",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "\"Ўзтрансгаз\" АЖ маблағлари хисобидан",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Texnik topshiriq asosida GTs2-519-56/1.44 rusumli nagnetatel rotorini ta'mirlash.",
+   "summary_en": "Repair of the GTs2-519-56/1.44 compressor rotor under the technical assignment.",
+   "quote": "Техник топширик асосида ГЦ2-519-56/1.44 русумли нагнетател роторини таъмирлаш",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Rotorni kirish nazoratidan o'tkazish, tozalash va yuvish ishlarini bajarish.",
+   "summary_en": "Incoming inspection, cleaning and washing of the rotor.",
+   "quote": "2. Rotorni tozalash va yuvish;",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Rotor vali bo'yinchalarini naplavka qilish, termik ishlov berish, shlifovka va polirovka qilish.",
+   "summary_en": "Build-up welding of the rotor shaft journals, heat treatment, grinding and polishing.",
+   "quote": "7. Rоtог vali Ьо'уiпсhаlагiпi shlifovka va polirovka qilish;",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Yaroqsiz holatga kelgan rotor ehtiyot qismlarini yasash (qismlar ro'yxati texnik topshiriqda berilgan).",
+   "summary_en": "Manufacture of rotor spare parts that are beyond repair (the list of parts is in the assignment).",
+   "quote": "8. Yaroqsiz holatga kelgan rоtоr ehtiyot qismlarini yasash.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Pudratchi ta'mirlashda zarur tajribaga ega ekanini, konstruktorlik hujjatlari va ishlab chiqarish bazasi borligini tasdiqlovchi hujjatlarni taqdim etishi shart.",
+   "summary_en": "The contractor must prove the necessary repair experience, design documentation and production base.",
+   "quote": "ushbu extiyot qisrrtni ta'lTirlashda zаruг tajribaga ega ekanIigini, talab",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "delivery",
+   "summary_uz": "Ta'mirlangan qism qabul qilishdan oldin kompressor stansiyasi mutaxassislari ko'rigidan va 72 soatlik sinovdan o'tkaziladi.",
+   "summary_en": "The repaired part is accepted after inspection by the compressor station specialists and a 72-hour test.",
+   "quote": "ko'rikdan o'tkazilgandan va 72 soatlik sinov o'tkazilib tekshiгilgarrdan so'ng",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "other",
+   "summary_uz": "Ta'mirlangan ehtiyot qism GPA-TS-16SK kompressori bilan to'liq mos kelishi va agregat normal ishlashini ta'minlashi kerak.",
+   "summary_en": "The repaired part must fully fit the GPA-TS-16SK compressor and let the unit run normally.",
+   "quote": "Pudratchi tomonidan ta'mirlangan extiyot qism GрА-тS-lбSК kоtтргеssогi bilan to'Iiq",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Baholash faqat narx bo'yicha (100%); texnik mezon 2 ball bo'lib, o'tish bali 2.",
+   "summary_en": "Evaluation is on price only (100%); the single technical criterion is worth 2 points with a pass mark of 2.",
+   "quote": "Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Standart malaka talablari: resurslar mavjudligi, soliq qarzi va bankrotlik yo'qligi, insofsiz ijrochilar reyestrida bo'lmaslik.",
+   "summary_en": "Standard qualification: resources available, no tax debt or bankruptcy, not on the unfair-supplier register.",
+   "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 97,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 2.8,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 83 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 33% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 8%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 523975)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 83 deals the median number of bidders was 3; 33% of deals had two or fewer bidders; the most frequent winner took 8%.",
+   "This lot was re-announced (previous lot: 523975)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ta'mirlash bo'yicha tajribani tasdiqlovchi hujjatlar",
+  "Konstruktorlik hujjatlariga egalikni tasdiqlovchi hujjatlar",
+  "Ishlab chiqarish bazasini (uskunalar, dastgohlar, stendlar) tasdiqlovchi sertifikat va guvohnomalar",
+  "Texnik shakllar (texnik topshiriqqa muvofiqlik)",
+  "Soliq qarzi yo'qligi haqida ma'lumotnoma",
+  "Bankrotlik tartib-taomili yo'qligi haqida ma'lumot",
+  "Insofsiz ijrochilar reyestrida yo'qligi haqida ma'lumot",
+  "Majburiy ijro byurosi ma'lumotlar bazasida bajarilmagan majburiyat yo'qligi haqida ma'lumot",
+  "Taklif kafolati (3%)",
+  "Техник шакллар"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 83,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3253,
+  "top_winner_share": 0.0843,
+  "share_price_drop_lt1pct": 0.1566,
+  "reannounced_lots": 6
+ },
+ "money_on_table_uzs": 239156469.39,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

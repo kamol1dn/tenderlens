@@ -1,0 +1,213 @@
+{
+ "lot_id": 524213,
+ "display_no": "26120012524213",
+ "title": "Samarqand viloyati, Bulung‘ur tumani, Lalmikor MFYda joylashgan demonstratsion xandon pista bog‘i (17,0 ga) maydonini tomchilatib sug‘orish tizimini qurish.",
+ "url": "https://etender.uzex.uz/lot/524213",
+ "customer": {
+  "name": "JOMBOY - AGRO STAR MCHJ",
+  "tin": "312408575"
+ },
+ "region": "Самарқанд вилояти",
+ "start_cost": 1454500495.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T16:47:42",
+ "end_date": "2026-11-18T16:47:42",
+ "clarific_date": "2026-11-18T16:47:42",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 25,
+  "criteria": [
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524213.rar",
+  "pages": 18,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   6,
+   10,
+   12,
+   13,
+   14,
+   15
+  ]
+ },
+ "subject_uz": "Bulung'ur tumanidagi 17 ga pista bog'ida tomchilatib sug'orish tizimini qurish (40 kVt quyosh panellari bilan)",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "O'z mablag'lari.",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Texnik topshiriq, loyiha-smeta va ekspertiza xulosasi hujjatlariga muvofiq tomchilatib sug'orish tizimi va quyosh stansiyasini qurish.",
+   "summary_en": "Build the drip irrigation system and solar plant according to the technical assignment, design-estimate and expert opinion documents.",
+   "quote": "uchun texnik topshiriq, loyiha-smeta va ekspertiza xulosasi hujjatlari",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Barcha material va uskunalar (quvur, nasos, panel, inverter, kabel, avtomatika) davlat standartlariga javob berishi shart.",
+   "summary_en": "All materials and equipment (pipes, pumps, panels, inverters, cables, automation) must meet state standards.",
+   "quote": "Barcha materiallar va uskunalar (PE quvurlar, nasoslar, quyosh panellari, invertorlar, kabellar va avtomatika vositalari) davlat standartlariga javob berishi",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Shunga o'xshash loyihalar tajribasi: 3 va undan ortiq loyiha uchun 15 ball, 1 ta uchun 5 ball.",
+   "summary_en": "Experience with similar projects: 15 points for 3 or more, 5 points for one.",
+   "quote": "3 ta va undan ortiq shunga o'xshash loyiha bajarilgan - 15 ball",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Malakali mutaxassislar soni: 5 nafar va undan ortiq bo'lsa 10 ball.",
+   "summary_en": "Qualified specialists: 10 points for five or more.",
+   "quote": "5 nafar va undan ortiq malakali mutaxassis - 10 ball",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Suv xo'jaligi vazirligining Tomchi reyestrida ro'yxatdan o'tganlik uchun 10 ball.",
+   "summary_en": "10 points for registration on the Water Ministry's Tomchi register.",
+   "quote": "reestr.mwr.uz (Tomchi reestr) platformasidan",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Obyekt rasmlari ilova qilingan ko'zdan kechirish ma'lumotnomasi uchun 15 ball.",
+   "summary_en": "15 points for a site-inspection certificate with photos of the site.",
+   "quote": "Shaklga mos holda mavjud (Obyekt rasmlari ilova qilinsa)",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari mavjud bo'lishi shart.",
+   "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+   "summary_en": "No overdue tax or fee debt.",
+   "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 93,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 7.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 5 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 40% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 60%.",
+   "Diqqat: hujjatning 6 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 5 deals the median number of bidders was 3; 40% of deals had two or fewer bidders; the most frequent winner took 60%.",
+   "Note: 6 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Shunga o'xshash loyihalarni bajarish tajribasi to'g'risidagi hujjatlar",
+  "Malakali muhandis-texnik va ishchi xodimlar mavjudligi to'g'risida ma'lumot",
+  "Moddiy-texnik baza (maxsus texnika va mexanizmlar) mavjudligi to'g'risida ma'lumot",
+  "Tomchi reyestrida ro'yxatdan o'tganlik to'g'risida ma'lumot",
+  "Kafolat muddati va servis xizmati to'g'risida hujjat",
+  "Obyektni ko'zdan kechirganlik to'g'risida ma'lumotnoma (obyekt rasmlari bilan)",
+  "Soliq qarzdorligi yo'qligi va insofsiz ijrochilar reyestrida qayd etilmaganligi to'g'risida ma'lumotnoma",
+  "Oʻxshash loyihalarni amalga oshirish boʻyicha tajriba",
+  "Malakali muhandis-texnik va ishchi xodimlarning mavjudligi",
+  "Moddiy-texnik baza mavjudligi (Maxsus texnika va mexanizmlar)",
+  "O‘zbekiston Respublikasining Suv xo‘jaligi vazirligining reestr.mwr.uz (Tomchi reestr) platformasidan ro‘yxatdan o‘tganligi toʻgʻrisida ma’lumot",
+  "Kafolat muddati va servis xizmati",
+  "Qurilish (ta’mirlash) obyektini koʻzdan kechirganlik toʻgʻrisida ma’lumotnoma"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 5,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4,
+  "top_winner_share": 0.6,
+  "share_price_drop_lt1pct": 0.4,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 205084569.8,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

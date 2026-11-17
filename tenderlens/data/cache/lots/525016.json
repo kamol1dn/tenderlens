@@ -1,0 +1,197 @@
+{
+ "lot_id": 525016,
+ "display_no": "26110012525016",
+ "title": "Kasbiy malaka oshirish xizmati",
+ "url": "https://etender.uzex.uz/lot/525016",
+ "customer": {
+  "name": "Tog`-kon va geologiya sohasi xodimlari malaksini oshirish instituti",
+  "tin": "303338920"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 338800000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T15:01:47",
+ "end_date": "2026-11-24T15:01:47",
+ "clarific_date": "2026-11-24T15:01:47",
+ "type": "selection",
+ "old_id": 524799,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 70,
+  "criteria": [
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525016.pdf",
+  "pages": 6,
+  "text_source": "vision",
+  "language": "mixed",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Siemens SIMATIC PCS 7 asosidagi tarqatilgan boshqaruv tizimlari boʻyicha kasbiy malaka oshirish (texnik oʻqitish) xizmati",
+ "sector": "it",
+ "customer_sector": "education",
+ "customer_kind": "budget",
+ "financing_source": "Byudjetdan tashqari",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Siemens SIMATIC PCS 7, S7-400/300 va SCALANCE tarmoq yechimlari boʻyicha umumiy ishlab chiqarish kursi (loyihalash, dasturlash, xizmat koʻrsatish, integratsiya) oʻtkaziladi.",
+   "summary_en": "A general training course on SIMATIC PCS 7, S7-400/300 and SCALANCE network solutions (design, programming, maintenance, integration) is delivered.",
+   "quote": "SIMATIC PCS 7, S7-400/300 va SCALANCE tarmoq yechimlari asosida umumiy ishlab chiqarishning tarqatilgan avtomatlashtirish tizimlarini loyihalash",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Oʻqituvchilar Siemens SITRAIN trenerlarining amaldagi sertifikatlariga yoki ekvivalent hujjatlarga ega boʻlishi kerak.",
+   "summary_en": "Trainers must hold current Siemens SITRAIN trainer certificates or equivalent documents.",
+   "quote": "O‘qituvchilar Siemens SITRAIN trenerlarining rasmiy amaldagi sertifikatlariga yoki sanoat avtomatlashtirish tizimlari bo‘yicha kurslar o‘tkazish huquqini tasdiqlovchi ekvivalent hujjatlarga ega bo‘lishi kerak.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Oʻqituvchilarning yirik tarqatilgan avtomatlashtirish tizimlarini loyihalash va sozlashda amaliy tajribasi boʻlishi kerak (muddat koʻrsatilmagan).",
+   "summary_en": "Trainers must have practical experience designing and commissioning large distributed automation systems (no minimum duration stated).",
+   "quote": "O‘qituvchilarning uzluksiz va diskret ishlab chiqarishlarning yirik tarqatilgan avtomatlashtirish tizimlarini loyihalash va sozlash sohasida amaliy ish tajribasi.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Texnik-tijorat taklifida soatlik oʻquv-tematik reja, oʻqituvchilar malakasi va laboratoriya stendlari tavsifi koʻrsatilishi shart.",
+   "summary_en": "The technical-commercial proposal must include an hourly curriculum, trainer qualifications and a description of lab stands.",
+   "quote": "umumiy ishlab chiqarish yo‘nalishi bo‘yicha batafsil soatlik o‘quv-tematik reja, o‘qituvchilar malakasi va laboratoriya stendlarining batafsil tavsifi ko‘rsatilishi kerak.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Taʼlim sifati ISO 9001 va buyurtmachining ichki standartlariga mos kelishi kerak.",
+   "summary_en": "Training quality must conform to ISO 9001 and the customer's internal standards.",
+   "quote": "Ta’lim xizmatlari sifati ISO 9001 xalqaro standartlariga (umumiy kasbiy o‘qitish sohasida) va AO «Olmaliq KMK» ichki standartlariga mos kelishi kerak.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Barcha oʻquv hujjatlari, slaydlar va stend interfeyslari rus tilida; har bir tinglovchiga 1 nusxa bosma qoʻllanma va 1 elektron nusxa.",
+   "summary_en": "All materials, slides and lab software interfaces in Russian; one printed manual per trainee and one electronic copy.",
+   "quote": "Barcha o‘quv-uslubiy hujjatlar, taqdimot slaydlari, laboratoriya amaliyotlari va stendlardagi dasturiy ta’minot interfeyslari rus tilida taqdim etilishi kerak.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "technical",
+   "summary_uz": "Uslubiy materiallar va simulyatsiya dasturlari dolzarb, ishlab chiqaruvchi qoʻllab-quvvatlashidan olinmagan versiyalarda boʻlishi kerak.",
+   "summary_en": "Methodological materials and simulation software must be current versions still supported by the manufacturer.",
+   "quote": "Yetkazib beruvchi (Ijrochi) tomonidan qo‘llaniladigan uslubiy materiallar, simulyatsiya uchun dasturiy ta’minot va o‘quv-laboratoriya stendlari dolzarb bo‘lishi",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "technical",
+   "summary_uz": "Yakunda yakuniy attestatsiya oʻtkaziladi va belgilangan namunadagi hujjatlar beriladi.",
+   "summary_en": "A final attestation is held and documents of the established form are issued.",
+   "quote": "yakuniy attestatsiyani o‘tkazish va belgilangan namunadagi hujjatlarni berish.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "delivery",
+   "summary_uz": "Xizmat muddati 7 kun; narx 338 800 000 soʻm, 30 foiz avans.",
+   "summary_en": "Service period 7 days; price 338,800,000 UZS with a 30 percent advance.",
+   "quote": "Xizmatlar «Tog‘-kon va geologiya sohasi xodimlarining malakasini oshirish instituti» DM va AO «Olmaliq KMK» o‘rtasida",
+   "page": 1,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 100,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524799)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "This lot was re-announced (previous lot: 524799)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik-tijorat taklifi (soatlik oʻquv-tematik reja bilan)",
+  "Oʻqituvchilar malakasini tasdiqlovchi hujjatlar (SITRAIN sertifikati yoki ekvivalenti)",
+  "Laboratoriya stendlari tavsifi",
+  "ISO 9001 muvofiqlik hujjati",
+  "Oʻqituvchilarning amaliy ish tajribasi haqida maʼlumot",
+  "Ishbilarmonlik obroʻsini tasdiqlovchi hujjatlar",
+  "Manfaatlar toʻqnashuvi va affillanganlik holatlari yoʻqligi haqida maʼlumot"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 4,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 1.0,
+  "top_winner_share": 0.5,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 46212320.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,311 @@
+{
+ "lot_id": 524769,
+ "display_no": "26110012524769",
+ "title": "56.29.19.000-00004",
+ "url": "https://etender.uzex.uz/lot/524769",
+ "customer": {
+  "name": "Шахар 2-сонли юкумли касалликлар клиник шифохонаси",
+  "tin": "203344506"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 445375000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T11:32:11",
+ "end_date": "2026-11-20T11:32:11",
+ "clarific_date": "2026-11-20T11:32:11",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 70,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 40.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524769.pdf",
+  "pages": 21,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   21
+  ]
+ },
+ "subject_uz": "Yuqumli kasalliklar shifoxonasi bemorlarini kuniga 3 mahal issiq ovqat bilan taʼminlash (autsorsing)",
+ "sector": "food",
+ "customer_sector": "health",
+ "customer_kind": "unknown",
+ "financing_source": "бюджет",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "evaluation",
+   "summary_uz": "Sanitariya-epidemiologiya tasdiqlagan menyu 40 ballgacha baholanadi (eng katta mezon).",
+   "summary_en": "A menu approved by the sanitary-epidemiology service is scored up to 40 points, the largest criterion.",
+   "quote": "Tanlov ishtirokchisining 10 kunlik menyusi sanitariya epidemiologiyadan (tastiqlangan foto nusxasi bilan);",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Oshpazlar ish staji haqidagi maʼlumotnoma 15 ball beradi.",
+   "summary_en": "A certificate on cooks' work experience earns up to 15 points.",
+   "quote": "oshpazlari kamida 2 yillik ish stajiga ega bo‘lganligi to‘g‘risidagi ma’lumotnoma mexnat uz saytidan tasdiklangan va sogligni saklash tizimida ishlagan",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Shartnoma summasining 40 foizidan kam boʻlmagan mablagʻ haqida bank maʼlumotnomasi 10 ball beradi, yetarli boʻlmasa 5 ball.",
+   "summary_en": "A bank statement showing at least 40% of the contract sum earns 10 points, or 5 if the amount is lower.",
+   "quote": "Tanlov ishtirokchisi shartnoma summasining 40 foizidan kam bo‘lmagan xisob raqamida mablag‘i borligi to‘g‘risida bank ko‘chirmasi yoki bank ma’lumotnomasi. 2026 yil yanvar oyi xolatiga",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Issiqxona, muzlatgich va omborxona haqida maʼlumot (kadastr va foto nusxasi bilan) 10 ball beradi.",
+   "summary_en": "Information on greenhouse, refrigeration and storage facilities (with cadastre and photo copies) earns 10 points.",
+   "quote": "Tanlov ishtirokchisining issiqxonasi, muzlatgich, omborxonasi to‘g‘risidagi ma’lumotlari (kadastr va foto nusxasi bilan);",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Oziq-ovqat mahsulotlari boʻyicha sertifikatlar maʼlumoti 5 ball beradi.",
+   "summary_en": "Information on food-product certificates earns 5 points.",
+   "quote": "Tanlov ishtirokchisining oziq-ovqat maxsulotlari bo‘yicha sertifikatlari to‘g‘risidagi ma’lumotlari (tastiqlangan foto nusxasi bilan);",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Ishtirokchining avtomobillari haqida maʼlumot (foto nusxasi bilan) 5 ball beradi.",
+   "summary_en": "Information on the bidder's vehicles (with photo copies) earns 5 points.",
+   "quote": "Tanlov ishtirokchisining avtomabillari to‘g‘risidagi ma’lumotlar (foto nusxasi bilan);",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Bankdagi yillik aylanma mablagʻlari haqida maʼlumotnoma 5 ball beradi.",
+   "summary_en": "A certificate of annual bank turnover earns 5 points.",
+   "quote": "Tanlov ishtirokchisining bankdagi yillik aylanma mablag‘lari to‘g‘risida malumotnoma,",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reestrida boʻlmasligi kerak.",
+   "summary_en": "The bidder must not be listed in the unified register of unfair suppliers.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "delivery",
+   "summary_uz": "Xizmat yotib davolanayotgan bemorlarni kuniga 3 mahal issiq ovqat bilan taʼminlashdan iborat.",
+   "summary_en": "The service is hot meals three times a day for inpatients.",
+   "quote": "davolanayotgan bemorlarni 3 mahal issiq ovqat bilan ta'minlash xizmatini",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "payment",
+   "summary_uz": "Toʻlov akkreditiv orqali yoki yetkazib berilgandan soʻng, bank kafolati bilan oldindan toʻlash ham mumkin.",
+   "summary_en": "Payment is by letter of credit or after delivery; an advance is possible against a bank guarantee.",
+   "quote": "Akkreditiv yoki etkazib berilgandan so'ng, agar",
+   "page": 2,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "Tanlov ishtirokchisi shartnoma summasining 40 foizidan kam bo‘lmagan xisob raqamida mablag‘i borligi to‘g‘risida bank ko‘chirmasi yoki bank ma’lumotnomasi. 2026 yil yanvar oyi xolatiga",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Shartnoma summasining 40 foizi (taxminan 178 mln soʻm) hisob raqamida boʻlishi va bu yanvar oyi holatiga koʻrsatilishi talab qilinadi. Hujjat uzoq oldingi sanaga bogʻlangani sababli yetarli xizmat tajribasiga ega boʻlgan, ammo aylanma mablagʻi boshqacha shakllangan taʼminotchi 10 balldan 5 ballgacha yoʻqotishi mumkin.",
+   "explanation_en": "The bidder must show at least 40% of the contract sum (about 178 million UZS) on its account, as at January. Because the document is tied to a date months before the bid, a capable caterer whose cash position is organised differently may lose up to 5 of 10 points.",
+   "rewrite_uz": "Ishtirokchining oxirgi hisobot davri uchun moliyaviy holatini tasdiqlovchi bank maʼlumotnomasi yoki moliyaviy hisobot (balans) taqdim etilishi; shartnomaning bir oylik qiymatiga teng aylanma mablagʻi yoki bank kafolati ham qabul qilinadi.",
+   "rewrite_en": "A bank certificate or financial statement (balance sheet) for the latest reporting period confirming the bidder's financial standing; working capital equal to one month of contract value, or a bank guarantee, is also accepted.",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "medium",
+   "quote": "oshpazlari kamida 2 yillik ish stajiga ega bo‘lganligi to‘g‘risidagi ma’lumotnoma mexnat uz saytidan tasdiklangan va sogligni saklash tizimida ishlagan",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Oshpazlar ish stajining sogʻliqni saqlash tizimida boʻlganligi talab qilinadi, bu mezon 15 ball beradi. Umumiy ovqatlanish yoki boshqa katta oshxonalarda tajribali oshpazlari bor taʼminlashchi ballni yoʻqotishi mumkin.",
+   "explanation_en": "The cooks' experience must have been gained in the health system, and this criterion carries 15 points. A caterer whose cooks are experienced in public catering or other large kitchens could lose those points.",
+   "rewrite_uz": "Oshpazlarning kamida 2 yillik ish stajini tasdiqlovchi maʼlumotnoma (mehnat daftarchasi yoki mehnat.uz maʼlumoti); tajriba umumiy ovqatlanish yoki tibbiyot muassasalarida boʻlishi mumkin.",
+   "rewrite_en": "A certificate confirming at least 2 years of work experience of the cooks (employment record or mehnat.uz data); the experience may come from public catering or medical institutions.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "irrelevant_requirement",
+   "severity": "low",
+   "quote": "Tanlov ishtirokchisining issiqxonasi, muzlatgich, omborxonasi to‘g‘risidagi ma’lumotlari (kadastr va foto nusxasi bilan);",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Kadastr hujjati bilan tasdiqlangan oʻz issiqxona, muzlatgich va omborxonasi 10 ball beradi. Ijaraga olingan yoki shartnoma asosida foydalaniladigan omborxona bilan ham xizmatni sifatli bajarish mumkin; shuning uchun mezonni aniqlashtirish kerak.",
+   "explanation_en": "Own greenhouse, refrigeration and storage evidenced by cadastre documents earn 10 points. A caterer using rented or contracted storage could also perform well, so the criterion may need clarification.",
+   "rewrite_uz": "Ishtirokchining sovutish va saqlash imkoniyatlari (oʻz yoki ijara/shartnoma asosidagi, tegishli hujjatlar bilan) haqida maʼlumot.",
+   "rewrite_en": "Information on the bidder's refrigeration and storage capacity (owned, rented or contracted, with supporting documents).",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 50,
+ "traffic_light": "amber",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 50,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Lot hajmiga nomutanosib moliyaviy talab (platformadagi mezonlar): Shartnoma summasining 40 foizi (taxminan 178 mln soʻm) hisob raqamida boʻlishi va bu yanvar oyi holatiga koʻrsatilishi talab qilinadi. Hujjat uzoq oldingi sanaga bogʻlangani sababli yetarli xizmat tajribasiga ega boʻlgan, ammo aylanma mablagʻi boshqacha shakllangan taʼminotchi 10 balldan 5 ballgacha yoʻqotishi mumkin.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): Oshpazlar ish stajining sogʻliqni saqlash tizimida boʻlganligi talab qilinadi, bu mezon 15 ball beradi. Umumiy ovqatlanish yoki boshqa katta oshxonalarda tajribali oshpazlari bor taʼminlashchi ballni yoʻqotishi mumkin.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): Kadastr hujjati bilan tasdiqlangan oʻz issiqxona, muzlatgich va omborxonasi 10 ball beradi. Ijaraga olingan yoki shartnoma asosida foydalaniladigan omborxona bilan ham xizmatni sifatli bajarish mumkin; shuning uchun mezonni aniqlashtirish kerak.",
+   "Tushuntirish so'rash muddati: 20.11.2026 11:32.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Financial demand out of proportion to the lot (platform criteria form): The bidder must show at least 40% of the contract sum (about 178 million UZS) on its account, as at January. Because the document is tied to a date months before the bid, a capable caterer whose cash position is organised differently may lose up to 5 of 10 points.",
+   "Other clause that may limit competition (platform criteria form): The cooks' experience must have been gained in the health system, and this criterion carries 15 points. A caterer whose cooks are experienced in public catering or other large kitchens could lose those points.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): Own greenhouse, refrigeration and storage evidenced by cadastre documents earn 10 points. A caterer using rented or contracted storage could also perform well, so the criterion may need clarification.",
+   "Clarification requests are accepted until 20.11.2026 11:32.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirokchi va taʼsischilar haqida umumiy maʼlumot (1-shakl)",
+  "Qayta tashkil etish, tugatish, bankrotlik va sud jarayonida emasligi haqida kafolat xati (2-shakl)",
+  "Ariza (3-shakl)",
+  "Oʻxshash xizmat koʻrsatish tajribasi haqida maʼlumot (4-shakl)",
+  "Texnik taklif (5-shakl)",
+  "Yetkazib berish va toʻlov shartlari (6-shakl)",
+  "Bankdagi yillik aylanma mablagʻlari haqida maʼlumotnoma",
+  "Soliq qarzdorligi yoʻqligi haqida maʼlumotnoma",
+  "Insofsiz ijrochilar reestrida yoʻqligi haqida maʼlumot",
+  "Issiqxona, muzlatgich va omborxona haqida maʼlumot",
+  "Oziq-ovqat sertifikatlari",
+  "Sanitariya-epidemiologiya tasdiqlagan menyu",
+  "Oshpazlar ish staji haqida maʼlumotnoma",
+  "Avtomobillar haqida maʼlumot",
+  "Bank koʻchirmasi yoki bank maʼlumotnomasi",
+  "Kafolat shartlari boʻyicha hujjat (7-shakl)",
+  "-Tanlov ishtirokchisining bankdagi yillik aylanma mablag‘lari to‘g‘risida malumotnoma,",
+  "Tanlov ishtirokchisining insofsiz ijrochilarning yagona reestrida qayd etilmaganligi to‘g‘risidagi malumotnoma",
+  "Tanlov ishtirokchisining issiqxonasi, muzlatgich, omborxonasi to‘g‘risidagi ma’lumotlari (kadastr va foto nusxasi bilan)",
+  "Tanlov ishtirokchisining 10 kunlik menyusi sanitariya epidemiologiyadan (tastiqlangan foto nusxasi bilan)",
+  "Tanlov ishtirokchisining oshpazlari 4 yillik ish stajiga ega bo‘lganligi to‘g‘risidagi ma’lumotnoma (ustav va guvoxnoma foto nusxasi bilan);(Обязательное)",
+  "Tanlov ishtirokchisining ishlar(xizmatlar)ni bajarish uchun zarur bo‘lgan mehnat resurslari va mutaxassislarning mavjudligi",
+  "Tanlov ishtirokchisining oziq-ovqat maxsulotlari bo‘yicha sertifikatlari to‘g‘risidagi ma’lumotlari (tastiqlangan foto nusxasi bilan)",
+  "-Tanlov ishtirokchisining avtomabillari to‘g‘risidagi ma’lumotlar (foto nusxasi bilan)",
+  "Tanlov ishtirokchisi shartnoma summasining 40 foizidan kam bo‘lmagan xisob raqamida mablag‘i borligi to‘g‘risida bank ko‘chirmasi yoki bank ma’lumotnomasi. 2026 yil yanvar oyi xolatiga (Bemorlar bo‘lganligi sabali taminotchining moliyaviy manbai ijobiy bulishi kerak)"
+ ],
+ "clarification_letter_uz": "Kimga: Шахар 2-сонли юкумли касалликлар клиник шифохонаси, xarid komissiyasiga\nLot raqami: 26110012524769\nXarid predmeti: 56.29.19.000-00004\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Tanlov ishtirokchisi shartnoma summasining 40 foizidan kam bo‘lmagan xisob raqamida mablag‘i borligi to‘g‘risida bank ko‘chirmasi yoki bank ma’lumotnomasi. 2026 yil yanvar oyi xolatiga»\n   Savolimiz: Shartnoma summasining 40 foizi (taxminan 178 mln soʻm) hisob raqamida boʻlishi va bu yanvar oyi holatiga koʻrsatilishi talab qilinadi. Hujjat uzoq oldingi sanaga bogʻlangani sababli yetarli xizmat tajribasiga ega boʻlgan, ammo aylanma mablagʻi boshqacha shakllangan taʼminotchi 10 balldan 5 ballgacha yoʻqotishi mumkin.\n   Taklif etilayotgan tahrir: Ishtirokchining oxirgi hisobot davri uchun moliyaviy holatini tasdiqlovchi bank maʼlumotnomasi yoki moliyaviy hisobot (balans) taqdim etilishi; shartnomaning bir oylik qiymatiga teng aylanma mablagʻi yoki bank kafolati ham qabul qilinadi.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «oshpazlari kamida 2 yillik ish stajiga ega bo‘lganligi to‘g‘risidagi ma’lumotnoma mexnat uz saytidan tasdiklangan va sogligni saklash tizimida ishlagan»\n   Savolimiz: Oshpazlar ish stajining sogʻliqni saqlash tizimida boʻlganligi talab qilinadi, bu mezon 15 ball beradi. Umumiy ovqatlanish yoki boshqa katta oshxonalarda tajribali oshpazlari bor taʼminlashchi ballni yoʻqotishi mumkin.\n   Taklif etilayotgan tahrir: Oshpazlarning kamida 2 yillik ish stajini tasdiqlovchi maʼlumotnoma (mehnat daftarchasi yoki mehnat.uz maʼlumoti); tajriba umumiy ovqatlanish yoki tibbiyot muassasalarida boʻlishi mumkin.\n\n3. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Tanlov ishtirokchisining issiqxonasi, muzlatgich, omborxonasi to‘g‘risidagi ma’lumotlari (kadastr va foto nusxasi bilan);»\n   Savolimiz: Kadastr hujjati bilan tasdiqlangan oʻz issiqxona, muzlatgich va omborxonasi 10 ball beradi. Ijaraga olingan yoki shartnoma asosida foydalaniladigan omborxona bilan ham xizmatni sifatli bajarish mumkin; shuning uchun mezonni aniqlashtirish kerak.\n   Taklif etilayotgan tahrir: Ishtirokchining sovutish va saqlash imkoniyatlari (oʻz yoki ijara/shartnoma asosidagi, tegishli hujjatlar bilan) haqida maʼlumot.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (20.11.2026 11:32) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 0,
+  "median_bidders": 0,
+  "share_le2_bidders": 0.0,
+  "top_winner_share": 0.0,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 60749150.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

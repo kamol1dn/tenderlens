@@ -1,0 +1,243 @@
+{
+ "lot_id": 524596,
+ "display_no": "26120012524596",
+ "title": "“Nurafshon-Pskent-Bo‘ka-Bekobod-Boyovut-Yangiyer elektrlashtirilgan temir yo‘l liniyasini qurish” obyekti doirasida \"Oybek\" TPSni tashqi elektr ta’minoti sxemasiga asosan loyiha-qidiruv ishlarini baj",
+ "url": "https://etender.uzex.uz/lot/524596",
+ "customer": {
+  "name": "\"TOSHTEMIRYO'LLOYIHA\" MCHJ",
+  "tin": "201051975"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 1164800000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T10:31:18",
+ "end_date": "2026-11-20T10:31:18",
+ "clarific_date": "2026-11-20T10:31:18",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 60,
+  "criteria": [
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524596.pdf",
+  "pages": 17,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   1
+  ]
+ },
+ "subject_uz": "Oybek tortish podstansiyasining tashqi elektr ta'minoti sxemasi bo'yicha loyiha-qidiruv ishlari (ishchi loyiha)",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "delivery",
+   "summary_uz": "Loyihani ishlab chiqish muddati 75 kun.",
+   "summary_en": "The design period is 75 days.",
+   "quote": "Loyihani ishlab chiqish muddatlari 75 kun",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Topografik-geodezik, muhandislik-geologik va gidrogeologik tadqiqotlar loyihalash uchun kerakli hajmda bajariladi.",
+   "summary_en": "Topographic-geodetic, engineering-geological and hydrogeological surveys are to be done in the volume needed for design.",
+   "quote": "Topografik-geodezik, muhandislik-geologik va gidrogeologik tadqiqotlar loyihalash uchun kerakli hajmda bajarilsin",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Qurilishni tashkil etish loyihasi (QTEL) to'liq hajmda loyihachi tomonidan ishlab chiqiladi.",
+   "summary_en": "The construction organisation plan must be developed in full by the designer.",
+   "quote": "Qurilishni tashkil etish loyihasi (QTEL) muvofiq to'liq hajmda SHNQ 3.01.01-22 ga muvofiq loyihachi tashkilot tomonidan ishlab chiqiladi",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Loyihada zamonaviy mikroprotsessorli rele himoyasi va avtomatika qurilmalari nazarda tutiladi.",
+   "summary_en": "The design must provide modern microprocessor-based relay protection and automation devices.",
+   "quote": "Loyihada zamonaviy mikroprotsessorli RHA qurilmalari o‘rnatilishi hamda RHA panellariga ikki tomonlama xizmat ko‘rsatish imkoniyati bo‘lishi ko‘zda tutilsin",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "other",
+   "summary_uz": "Loyiha-smeta hujjatlariga kichik o'zgartirishlar (material va uskunalarni almashtirish) loyihachi hisobidan kiritiladi.",
+   "summary_en": "Minor changes to the design and estimate documents (changing materials and equipment) are made at the designer's expense.",
+   "quote": "Biroq, loyiha-smeta hujjatlariga kichik o'zgartirishlar kiritish, masalan, materiallar va uskunalarni o'zgartirish (qo'shish, olib tashlash)",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "delivery",
+   "summary_uz": "Hujjatlar buyurtmachiga topshirilishidan oldin barcha aloqador tashkilotlar bilan kelishilishi kerak.",
+   "summary_en": "The documents must be agreed with all concerned bodies before they are handed to the customer.",
+   "quote": "loyiha hujjatlari buyurtmachiga taqdim etilishidan oldin barcha aloqador tashkilotlar bilan o’rnatilgan tartibdi kelishilishi talab etiladi",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "O'xshash loyihalar tajribasi (1-shakl) ball beradi: 10 tadan ortiq 10 ball, 5 dan 9 gacha 5 ball, 5 tadan kam 0 ball.",
+   "summary_en": "Experience with similar projects (Form 1) is scored: more than 10 gives 10 points, 5 to 9 gives 5, fewer than 5 gives 0.",
+   "quote": "1-шаклга асосан -Ўхшаш товарни (иш, хизмат) етказиб бериш тажрибаси ҳақида маълумот",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Xodimlar mavjudligi ball beradi (15 va undan ko'pi 10 ball); har bir xodim uchun my.mehnat.uz ma'lumotnomasi talab qilinadi.",
+   "summary_en": "Staff numbers are scored (15 or more gives 10 points); a my.mehnat.uz record for each employee is required.",
+   "quote": "my.mehnat.uz дан ҳар бир ходимнинг маълумотномасини тақдим этиш талаб қилинади",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Kamida 1 bosh muhandis va 1 bosh arxitektor sertifikatli mutaxassis bo'lishi ball beradi (10 ball).",
+   "summary_en": "Having at least one certified chief engineer and one chief architect is scored (10 points).",
+   "quote": "Камида 1 дона лойиҳа бош муҳандиси, 1 дона лойиҳа бош архитектори",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Loyihalash litsenziyasiga egalik to'g'risida ma'lumot ball beradi (10 ball).",
+   "summary_en": "Information on holding a design licence is scored (10 points).",
+   "quote": "Ишларни бажариш учун лицензияга эгалиги тўғрисида маълумот",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Eng qisqa ishlab chiqish muddatini ko'rsatgan ishtirokchi 10 ball, qolganlar 5 ball oladi.",
+   "summary_en": "The bidder offering the shortest design time gets 10 points, the others get 5.",
+   "quote": "5-шаклга асосан маълумот тақдим этган ва энг қисқа ишлаб чиқиш муддати кўрсатган иштирокчи",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 94,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 6.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 22 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 86% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 18%.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 22 deals the median number of bidders was 2; 86% of deals had two or fewer bidders; the most frequent winner took 18%.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "1-shakl: o'xshash bajarilgan loyihalar to'g'risida ma'lumot",
+  "2-shakl: loyihalash topshirig'i bo'yicha texnik tavsiflarning qiyosiy jadvali",
+  "3-shakl: xodimlar to'g'risida ma'lumot va har bir xodim uchun my.mehnat.uz ma'lumotnomasi",
+  "4-shakl: zarur uskunalar va dasturiy vositalar mavjudligi to'g'risida ma'lumot",
+  "5-shakl: bajarish muddati, yetkazib berish va to'lov shartlari to'g'risida ma'lumot",
+  "Loyiha bosh muhandisi, bosh arxitektori va shaharsozlik hujjatlari bo'yicha mutaxassislarning sertifikatlari",
+  "Loyihalash litsenziyasi to'g'risida ma'lumot",
+  "Taklif ta'minoti (lot narxining 3 foizi)",
+  "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik yo'qligi to'g'risida ma'lumotnoma",
+  "шакл 1",
+  "шаклшакл 2 2",
+  "шакл 3",
+  "шакл 4",
+  "шакл 5",
+  "xodimlar sertifikati",
+  "Ишларни бажариш учун лицензияга эгалиги тўғрисида маълумот"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 22,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.8636,
+  "top_winner_share": 0.1818,
+  "share_price_drop_lt1pct": 0.1818,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 158878720.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

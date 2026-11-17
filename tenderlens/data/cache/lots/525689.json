@@ -1,0 +1,247 @@
+{
+ "lot_id": 525689,
+ "display_no": "26120012525689",
+ "title": "“Islom Karimov nomidagi Toshkent xalqaro aeroporti” MChJ ehtiyojlari uchun havo kemalariga aviatsiya yoqilg‘isini quyishga mo‘ljallangan maxsus transport vositalarini ijaraga olish.",
+ "url": "https://etender.uzex.uz/lot/525689",
+ "customer": {
+  "name": "ISLOM KARIMOV NOMIDAGI TOSHKENT XALQARO AEROPOTI MChJ",
+  "tin": "200640719"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 1632000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T19:23:57",
+ "end_date": "2026-11-23T19:23:57",
+ "clarific_date": "2026-11-23T19:23:57",
+ "type": "selection",
+ "old_id": 522237,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 2,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525689.zip",
+  "pages": 12,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Aeroportda havo kemalariga yoqilgʻi quyish uchun 4 dona aerodrom yoqilgʻi quyish mashinasini (ATZ) 6 oyga ijaraga olish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Predmet: 4 dona aerodrom yoqilgʻi quyish mashinasi (ATZ), MAN, IVECO yoki VOLVO rusumlaridan bir xil rusumda, 6 oyga ijara.",
+   "summary_en": "Subject: 4 aerodrome refuelling vehicles (ATZ) of the same make chosen from MAN, IVECO or VOLVO, rented for 6 months.",
+   "quote": "MAN, IVECO yoki VOLVO rusumlaridan bir xil rusumdagi 4 dona aerodrom yoqilg‘i quyish mashinasini (ATZ) ijaraga olish xizmati",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Mashina 2025-yildan oldin ishlab chiqarilmagan boʻlishi kerak; yangi yoki yurish masofasi kam foydalanilgan mashina ruxsat etiladi.",
+   "summary_en": "The vehicle must be made in 2025 or later; new or low-mileage used vehicles are allowed.",
+   "quote": "2025-yildan oldin bo‘lmasligi. Yangi yoki foydalanilgan, yurish masofasi kam va texnologik uskunalari kam ishlagan avtomobilga ruxsat etiladi.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Dizel dvigatel suyuq sovitish tizimi bilan, ekologik sinfi Euro-5 dan past emas.",
+   "summary_en": "Liquid-cooled diesel engine, emission class not lower than Euro-5.",
+   "quote": "Suyuq sovitish tizimiga ega dizel dvigatel; ekologik sinfi Euro-5 dan past bo‘lmasligi kerak.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Sisterna sigʻimi kamida 22 000 litr; materiali alyuminiy qotishmasi yoki zanglamaydigan poʻlat.",
+   "summary_en": "Tank capacity at least 22,000 litres, made of aluminium alloy or stainless steel.",
+   "quote": "Kamida 22 000 litr.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Nasos markazdan qochma turda, unumdorligi kamida 80 m3/soat.",
+   "summary_en": "Centrifugal pump with output of at least 80 m3/hour.",
+   "quote": "Markazdan qochma turdagi; unumdorligi kamida 80 m³/soat.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Xavfsizlik tizimlari (DEADMAN, INTERLOCK, favqulodda toʻxtatish) talab qilinadi.",
+   "summary_en": "Safety systems (DEADMAN, INTERLOCK, emergency stop) are required.",
+   "quote": "DEADMAN: uzunligi kamida 10 m bo‘lgan spiral kabel.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati shartnomada belgilangan sanadan boshlab 90 kalendar kundan oshmasligi kerak.",
+   "summary_en": "Delivery must take no more than 90 calendar days from the date set in the contract.",
+   "quote": "Shartnomada belgilangan sanadan boshlab 90 kalendar kundan oshmasligi kerak.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "other",
+   "summary_uz": "Kichik ta'mirlash va texnik xizmat ijarachi hisobidan; katta ta'mirlash, ehtiyot qismlar va sugʻurta ijaraga beruvchi hisobidan.",
+   "summary_en": "Routine servicing and minor repair at the lessee's cost; major repair, spare parts and insurance at the lessor's cost.",
+   "quote": "Katta va kafolatli ta’mirlash, shuningdek, ehtiyot qismlar, akkumulyator batareyalari",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Yoqilgʻi tashishga moʻljallangan maxsus transport vositalari mavjudligini tasdiqlovchi hujjatlar (texnik pasport, mulk yoki ijara hujjati) talab qilinadi.",
+   "summary_en": "Documents proving the bidder has fuel-carrying special vehicles (technical passport, ownership or lease document) are required.",
+   "quote": "Yoqilg‘i tashishga mo‘ljallangan maxsus transport vositalari mavjudligini tasdiqlovchi hujjatlar (texnik pasport, mulk huquqini tasdiqlovchi hujjat yoki ijara shartnomasi)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi yoqilgʻi tashish faoliyati uchun qonunchilikda talab etiladigan litsenziya va ruxsatnomalarga ega boʻlishi shart; aks holda chetlashtiriladi.",
+   "summary_en": "The bidder must hold the licence and permits required by law for fuel transport, otherwise it is excluded.",
+   "quote": "ishtirokchi yoqilg‘i tashish faoliyatini amalga oshirish uchun qonunchilikda talab etiladigan litsenziya va ruxsat beruvchi hujjatlarga ega bo‘lishi shart",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "brand_no_equivalent",
+   "severity": "medium",
+   "quote": "MAN, IVECO yoki VOLVO rusumlaridan bir xil rusumdagi 4 dona aerodrom yoqilg‘i quyish mashinasini (ATZ) ijaraga olish xizmati",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Shassi uchun uchta rusum nomlangan va boshqa teng rusum yoki ekvivalent nazarda tutilmagan, shuningdek barcha 4 dona bir xil rusumda boʻlishi talab qilinadi. Bu boshqa ishlab chiqaruvchining shassisida mos ATZ taklif qila oladigan yetkazib beruvchilarni chetlab qolishi mumkin. Birlik parki yoki ehtiyot qismlar bilan bogʻliq asos boʻlishi mumkin, buni tekshirish kerak.",
+   "explanation_en": "Three chassis makes are named with no equivalent allowed, and all 4 units must be the same make. This may shut out suppliers who could offer a suitable ATZ on another manufacturer's chassis. A fleet or spare-parts reason is conceivable and should be checked.",
+   "rewrite_uz": "Yuk avtomobili shassisida (masalan, MAN, IVECO, VOLVO yoki ularga teng texnik koʻrsatkichli boshqa rusum) bir xil rusumdagi 4 dona aerodrom yoqilgʻi quyish mashinasini (ATZ) ijaraga olish xizmati.",
+   "rewrite_en": "Rental of 4 aerodrome refuelling vehicles (ATZ) of one make on a truck chassis (for example MAN, IVECO, VOLVO or another make with equivalent technical characteristics).",
+   "type_label_uz": "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan",
+   "type_label_en": "Brand or model named with no equivalent allowed",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "medium",
+   "quote": "2025-yildan oldin bo‘lmasligi. Yangi yoki foydalanilgan, yurish masofasi kam va texnologik uskunalari kam ishlagan avtomobilga ruxsat etiladi.",
+   "page": 1,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Mashina 2025-yildan oldin ishlab chiqarilmagan boʻlishi kerak, ijara muddati esa atigi 6 oy. Shu sababli mavjud va yaxshi holatdagi, lekin 2024-yil yoki undan oldingi ATZ ega yetkazib beruvchilar chetda qolishi mumkin va taklif qiluvchi 90 kun ichida deyarli yangi texnikani yetkazishi kerak boʻladi. Talabning bunday qatʼiyligi asoslanishi kerak.",
+   "explanation_en": "The vehicle must be made in 2025 or later, while the rental is only 6 months. Suppliers who hold good ATZ built in 2024 or earlier may be shut out, and a bidder essentially needs a near-new vehicle within the 90-day delivery period. The strictness of this requirement should be justified.",
+   "rewrite_uz": "Ishlab chiqarilgan yili 2020-yildan oldin boʻlmasligi; texnik holati soz va ishlab chiqaruvchi talablariga muvofiq ekanligi tasdiqlanishi kerak.",
+   "rewrite_en": "Year of manufacture not earlier than 2020; technical condition must be confirmed as serviceable and in line with the manufacturer's requirements.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 54,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 44,
+  "history_penalty": 2.3,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan (platformadagi mezonlar): Shassi uchun uchta rusum nomlangan va boshqa teng rusum yoki ekvivalent nazarda tutilmagan, shuningdek barcha 4 dona bir xil rusumda boʻlishi talab qilinadi. Bu boshqa ishlab chiqaruvchining shassisida mos ATZ taklif qila oladigan yetkazib beruvchilarni chetlab qolishi mumkin. Birlik parki yoki ehtiyot qismlar bilan bogʻliq asos boʻlishi mumkin, buni tekshirish kerak.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (1-bet): Mashina 2025-yildan oldin ishlab chiqarilmagan boʻlishi kerak, ijara muddati esa atigi 6 oy. Shu sababli mavjud va yaxshi holatdagi, lekin 2024-yil yoki undan oldingi ATZ ega yetkazib beruvchilar chetda qolishi mumkin va taklif qiluvchi 90 kun ichida deyarli yangi texnikani yetkazishi kerak boʻladi. Talabning bunday qatʼiyligi asoslanishi kerak.",
+   "Buyurtmachining so'nggi 28 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 29% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 7%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 522237).",
+   "Tushuntirish so'rash muddati: 23.11.2026 19:23."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Brand or model named with no equivalent allowed (platform criteria form): Three chassis makes are named with no equivalent allowed, and all 4 units must be the same make. This may shut out suppliers who could offer a suitable ATZ on another manufacturer's chassis. A fleet or spare-parts reason is conceivable and should be checked.",
+   "Other clause that may limit competition (page 1): The vehicle must be made in 2025 or later, while the rental is only 6 months. Suppliers who hold good ATZ built in 2024 or earlier may be shut out, and a bidder essentially needs a near-new vehicle within the 90-day delivery period. The strictness of this requirement should be justified.",
+   "In the customer's last 28 deals the median number of bidders was 3; 29% of deals had two or fewer bidders; the most frequent winner took 7%.",
+   "This lot was re-announced (previous lot: 522237).",
+   "Clarification requests are accepted until 23.11.2026 19:23."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik taklif (4-shakl) va texnik parametrlar",
+  "Yetkazib berish va toʻlov shartlari haqida maʼlumot (5-shakl)",
+  "Ishtirokchi va uning taʼsischilari haqida umumiy maʼlumot (1-shakl)",
+  "Qayta tashkil etish, tugatish, bankrotlik yoki sud jarayonida emasligi haqida kafolat xati (2-shakl)",
+  "Halollik va manfaatlar toʻqnashuvi yoʻqligi haqida ariza (3-shakl)",
+  "Soliq va yigʻimlar boʻyicha muddati oʻtgan qarz yoʻqligi haqida maʼlumotnoma",
+  "Yoqilgʻi tashishga moʻljallangan maxsus transport vositalari mavjudligini tasdiqlovchi hujjatlar (texnik pasport, mulk yoki ijara hujjati)",
+  "Transport vositalarining texnik koʻrikdan oʻtganligi va soz holatda ekanligini tasdiqlovchi hujjatlar",
+  "Yoqilgʻi tashish faoliyati uchun litsenziya va ruxsat beruvchi hujjatlar",
+  "Intellektual mulk huquqlarini buyurtmachiga topshirish shartlari koʻrsatilgan kafolat xati"
+ ],
+ "clarification_letter_uz": "Kimga: ISLOM KARIMOV NOMIDAGI TOSHKENT XALQARO AEROPOTI MChJ, xarid komissiyasiga\nLot raqami: 26120012525689\nXarid predmeti: “Islom Karimov nomidagi Toshkent xalqaro aeroporti” MChJ ehtiyojlari uchun havo kemalariga aviatsiya yoqilg‘isini quyishga mo‘ljallangan maxsus transport vositalarini ijaraga olish.\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «MAN, IVECO yoki VOLVO rusumlaridan bir xil rusumdagi 4 dona aerodrom yoqilg‘i quyish mashinasini (ATZ) ijaraga olish xizmati»\n   Savolimiz: Shassi uchun uchta rusum nomlangan va boshqa teng rusum yoki ekvivalent nazarda tutilmagan, shuningdek barcha 4 dona bir xil rusumda boʻlishi talab qilinadi. Bu boshqa ishlab chiqaruvchining shassisida mos ATZ taklif qila oladigan yetkazib beruvchilarni chetlab qolishi mumkin. Birlik parki yoki ehtiyot qismlar bilan bogʻliq asos boʻlishi mumkin, buni tekshirish kerak.\n   Taklif etilayotgan tahrir: Yuk avtomobili shassisida (masalan, MAN, IVECO, VOLVO yoki ularga teng texnik koʻrsatkichli boshqa rusum) bir xil rusumdagi 4 dona aerodrom yoqilgʻi quyish mashinasini (ATZ) ijaraga olish xizmati.\n\n2. Texnik topshiriq, 1-bet.\n   Hujjatdagi matn: «2025-yildan oldin bo‘lmasligi. Yangi yoki foydalanilgan, yurish masofasi kam va texnologik uskunalari kam ishlagan avtomobilga ruxsat etiladi.»\n   Savolimiz: Mashina 2025-yildan oldin ishlab chiqarilmagan boʻlishi kerak, ijara muddati esa atigi 6 oy. Shu sababli mavjud va yaxshi holatdagi, lekin 2024-yil yoki undan oldingi ATZ ega yetkazib beruvchilar chetda qolishi mumkin va taklif qiluvchi 90 kun ichida deyarli yangi texnikani yetkazishi kerak boʻladi. Talabning bunday qatʼiyligi asoslanishi kerak.\n   Taklif etilayotgan tahrir: Ishlab chiqarilgan yili 2020-yildan oldin boʻlmasligi; texnik holati soz va ishlab chiqaruvchi talablariga muvofiq ekanligi tasdiqlanishi kerak.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (23.11.2026 19:23) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 28,
+  "median_bidders": 3.0,
+  "share_le2_bidders": 0.2857,
+  "top_winner_share": 0.0714,
+  "share_price_drop_lt1pct": 0.1071,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 230112000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

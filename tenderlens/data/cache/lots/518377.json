@@ -1,0 +1,301 @@
+{
+ "lot_id": 518377,
+ "display_no": "26110012518377",
+ "title": "Транспорт вазирлиги авиация ҳодисалари ва инцидентларини текшириш бўлими лабораториясини ташкил этиш учун зарур бўлган парвоз маълумотларини ечиш ва таҳлил қилиш қурилмаларни хариди",
+ "url": "https://etender.uzex.uz/lot/518377",
+ "customer": {
+  "name": "Ўзбекистон Республикаси Транспорт вазирлиги",
+  "tin": "306142966"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 2342400000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T15:02:18",
+ "end_date": "2026-12-02T15:02:18",
+ "clarific_date": "2026-12-02T15:02:18",
+ "type": "selection",
+ "old_id": 511472,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 4,
+  "criteria": [
+   {
+    "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/518377.pdf",
+  "pages": 69,
+  "text_source": "ocr",
+  "language": "uz-cyrl",
+  "unreadable_pages": [
+   22,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   51,
+   52,
+   54,
+   58,
+   60,
+   61,
+   62,
+   67,
+   68
+  ]
+ },
+ "subject_uz": "Aviatsiya hodisalarini tekshirish laboratoriyasi uchun parvoz ma'lumotlarini yechish va tahlil qilish qurilmalari to'plami (28 pozitsiya: kabellar, adapterlar, dasturiy ta'minot)",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Taklif etilayotgan barcha uskunalar texnik xususiyatlarda ko'rsatilgan barcha parametrlarga mos kelishi shart.",
+   "summary_en": "All offered equipment must meet every parameter stated in the technical specification.",
+   "quote": "Таклиф етилаётган барча ускуналар техник хусусиятларда кўрсатилган барча параметрларга мос келиши шарт.",
+   "page": 33,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Qurilmalar samolyot bort registratorlari bilan to'liq mos kelishi shart.",
+   "summary_en": "The devices must be fully compatible with the aircraft on-board recorders.",
+   "quote": "Қурилмалар ҳаво кемаси борт регистраторлари билан тўлиқ мос келиши шарт.",
+   "page": 30,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Barcha qurilmalar original bo'lishi va ishlab chiqaruvchi sertifikatiga ega bo'lishi kerak.",
+   "summary_en": "All devices must be original and carry a manufacturer certificate.",
+   "quote": "Барча қурилмалар оригинал ва ишлаб чиқарувчи сертификатига эга бўлиши лозим.",
+   "page": 30,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati 45 ish kunidan oshmasligi kerak; 30 kungacha 2 ball.",
+   "summary_en": "Delivery must not exceed 45 working days; delivery within 30 days earns 2 points.",
+   "quote": "Етказиб бериш муддати 45 иш кунидан ошмаслиги керак.",
+   "page": 33,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Avans olingandan keyin sotuvchi barcha tovarlarni 45 ish kunidan kechiktirmay xaridor omboriga yetkazishi shart; yetkazish DAP-Toshkent shartida.",
+   "summary_en": "After receiving the advance the seller must deliver all goods to the buyer's warehouse within 45 working days, on DAP Tashkent terms.",
+   "quote": "Аванс маблағи олингандан сўнг, Сотувчи 45 иш кунидан кечиктирмаган ҳолда барча товарларни Сотиб олувчи омборига етказиб бериши шарт.",
+   "page": 26,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "payment",
+   "summary_uz": "30% avans olish uchun sotuvchi nufuzli Yevropa yoki Shimoliy Amerika bankining qaytarib olinmaydigan bank kafolatini taqdim etadi; qolgan 70% qabuldan keyin to'lanadi.",
+   "summary_en": "To receive the 30% advance the seller provides an irrevocable guarantee from a reputable European or North American bank; the remaining 70% is paid after acceptance.",
+   "quote": "нуфузли Европа ёки Шимолий Америка банки томонидан берилган чақириб олинмайдиган банк кафолатини",
+   "page": 26,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Ishtirokchi so'nggi 2 yilda o'xshash uskunani yetkazib berish bo'yicha kamida 3 ta shartnoma nusxasini taqdim etishi kerak.",
+   "summary_en": "The bidder must provide copies of at least 3 contracts for similar equipment supplied in the last 2 years.",
+   "quote": "Иштирокчи сўнгги 2 йил ичида ўхшаш ускунани етказиб бериш бўйича камида 3 та шартнома нусхасини тақдим этиши керак.",
+   "page": 33,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "technical",
+   "summary_uz": "Kamida 12 oylik kafolat xizmati ta'minlanishi kerak.",
+   "summary_en": "At least 12 months of warranty service must be provided.",
+   "quote": "Камида 12 ойлик кафолат хизмати таъминланиши лозим.",
+   "page": 31,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "technical",
+   "summary_uz": "Foydalanuvchilar uchun texnik yo'riqnoma va boshlang'ich o'quv mashg'ulotlari taqdim etilishi shart.",
+   "summary_en": "A technical manual and initial training for users must be provided.",
+   "quote": "Фойдаланувчилар учун техник йўриқнома ва бошланғич ўқув машғулотлари тақдим этилиши шарт.",
+   "page": 31,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "technical",
+   "summary_uz": "Lot 10 turdagi samolyot/registrator uchun 28 ta kabel, adapter va dasturiy ta'minot pozitsiyasini o'z ichiga oladi (Boeing 787/767/757, Airbus 320, L-410).",
+   "summary_en": "The lot covers 28 cable, adapter and software items for recorders on Boeing 787/767/757, Airbus 320 and L-410 aircraft.",
+   "quote": "FDS400-301 (or latest version) Download Unit 1 Boeing-787 EAFR 866-0084-102 Manufacture software with P757808-03-01 cable",
+   "page": 24,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "delivery",
+   "summary_uz": "Tovar bilan CMR, invoys, ishlab chiqaruvchining sifat sertifikati, kelib chiqish sertifikati (СТ-1), moslik sertifikati, eksport deklaratsiyasi va qadoqlash varag'i topshiriladi.",
+   "summary_en": "Goods come with CMR, invoice, manufacturer quality certificate, certificate of origin (CT-1), conformity certificate, export customs declaration and packing list.",
+   "quote": "ускунанинг келиб чиқиш сертификати (СТ-1 шакли) — нусха;",
+   "page": 26,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "brand_no_equivalent",
+   "severity": "medium",
+   "quote": "FDS400-301 (or latest version) Download Unit 1 Boeing-787 EAFR 866-0084-102 Manufacture software with P757808-03-01 cable",
+   "page": 24,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Narx jadvali va shartnoma ilovasida 28 pozitsiya bitta ishlab chiqaruvchi mahsuloti artikullari (FDS400-..., FDS40-...) bilan sanab o'tilgan va ularning ekvivalenti ruxsat etilishi aytilmagan. Registratorlar bilan moslik asosli bo'lishi mumkin, ammo bir xil vazifani bajaradigan boshqa ishlab chiqaruvchilar qurilmalari taklif qilinishi imkoni yopilgan.",
+   "explanation_en": "The price table and contract annex list 28 positions by part numbers from a single manufacturer's product line (FDS400-..., FDS40-...) and do not allow equivalents. Compatibility with the recorders may justify some of this, but equivalent kits from other makers that do the same job cannot be offered.",
+   "rewrite_uz": "Pozitsiyalarni artikul bilan birga funksional talablar (qaysi registrator turlari bilan mosligi, interfeys va ma'lumotlarni yuklab olish imkoniyatlari) orqali ko'rsating va \"yoki ekvivalent\" so'zlarini qo'shing.",
+   "rewrite_en": "Describe each position by its functional requirements (which recorder types it must work with, interface and download capability) alongside the part number, and add \"or equivalent\".",
+   "type_label_uz": "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan",
+   "type_label_en": "Brand or model named with no equivalent allowed",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "medium",
+   "quote": "нуфузли Европа ёки Шимолий Америка банки томонидан берилган чақириб олинмайдиган банк кафолатини",
+   "page": 26,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "30% avans (taxminan 702 720 000 so'm) olish uchun faqat Yevropa yoki Shimoliy Amerika banki bergan bank kafolati talab qilinadi. Boshqa mintaqalardagi, jumladan mahalliy banklar bergan kafolatni taqdim etadigan yetkazib beruvchilar avansdan foydalana olmasligi yoki ishtirok etmasligi mumkin.",
+   "explanation_en": "To receive the 30% advance (about 702,720,000 UZS of the 2,342,400,000 UZS start price) the guarantee must come from a European or North American bank. Suppliers whose guarantee comes from banks in other regions, including local banks, may be unable to use the advance or to bid.",
+   "rewrite_uz": "Avans uchun kafolat bank reytingi yoki moliyaviy barqarorligi belgilangan mezonlarga javob beradigan istalgan bank tomonidan berilishi mumkin.",
+   "rewrite_en": "The advance guarantee may be issued by any bank that meets stated rating or financial-standing criteria, regardless of region.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "excessive_experience",
+   "severity": "medium",
+   "quote": "Иштирокчи сўнгги 2 йил ичида ўхшаш ускунани етказиб бериш бўйича камида 3 та шартнома нусхасини тақдим этиши керак.",
+   "page": 33,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Mezonlar jami 5 balldan iborat (1+1+2+1), o'tish bali esa 4. Shu sababli 1 ballik tajriba mezonini (so'nggi 2 yilda o'xshash uskuna bo'yicha kamida 3 ta shartnoma) to'liq bajarmagan ishtirokchi amalda o'tolmaydi. Bunday maxsus uskuna bo'yicha 3 ta yaqin shartnomani talab qilish ishtirokchilar sonini juda cheklashi mumkin.",
+   "explanation_en": "The criteria total 5 points (1+1+2+1) with a pass mark of 4, so a bidder that misses this 1-point experience criterion (at least 3 similar-equipment contracts in the last 2 years) can hardly pass. For such specialised equipment, requiring three recent contracts may greatly narrow the field.",
+   "rewrite_uz": "Tajriba mezoni ball bilan baholansin va o'tish bali tajriba hujjatiga bog'liq bo'lmasin; kamida 1 ta o'xshash yetkazib berish shartnomasi yetarli deb belgilansin.",
+   "rewrite_en": "Score experience for points without making it decisive for the pass mark, and accept at least one comparable supply contract.",
+   "type_label_uz": "Lot hajmiga nomutanosib tajriba yoki resurs talabi",
+   "type_label_en": "Experience or resource demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 34,
+ "traffic_light": "red",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 66,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan (24-bet): Narx jadvali va shartnoma ilovasida 28 pozitsiya bitta ishlab chiqaruvchi mahsuloti artikullari (FDS400-..., FDS40-...) bilan sanab o'tilgan va ularning ekvivalenti ruxsat etilishi aytilmagan. Registratorlar bilan moslik asosli bo'lishi mumkin, ammo bir xil vazifani bajaradigan boshqa ishlab chiqaruvchilar qurilmalari taklif qilinishi imkoni yopilgan.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (26-bet): 30% avans (taxminan 702 720 000 so'm) olish uchun faqat Yevropa yoki Shimoliy Amerika banki bergan bank kafolati talab qilinadi. Boshqa mintaqalardagi, jumladan mahalliy banklar bergan kafolatni taqdim etadigan yetkazib beruvchilar avansdan foydalana olmasligi yoki ishtirok etmasligi mumkin.",
+   "Lot hajmiga nomutanosib tajriba yoki resurs talabi (33-bet): Mezonlar jami 5 balldan iborat (1+1+2+1), o'tish bali esa 4. Shu sababli 1 ballik tajriba mezonini (so'nggi 2 yilda o'xshash uskuna bo'yicha kamida 3 ta shartnoma) to'liq bajarmagan ishtirokchi amalda o'tolmaydi. Bunday maxsus uskuna bo'yicha 3 ta yaqin shartnomani talab qilish ishtirokchilar sonini juda cheklashi mumkin.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 511472).",
+   "Tushuntirish so'rash muddati: 02.12.2026 15:02.",
+   "Diqqat: hujjatning 19 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Brand or model named with no equivalent allowed (page 24): The price table and contract annex list 28 positions by part numbers from a single manufacturer's product line (FDS400-..., FDS40-...) and do not allow equivalents. Compatibility with the recorders may justify some of this, but equivalent kits from other makers that do the same job cannot be offered.",
+   "Other clause that may limit competition (page 26): To receive the 30% advance (about 702,720,000 UZS of the 2,342,400,000 UZS start price) the guarantee must come from a European or North American bank. Suppliers whose guarantee comes from banks in other regions, including local banks, may be unable to use the advance or to bid.",
+   "Experience or resource demand out of proportion to the lot (page 33): The criteria total 5 points (1+1+2+1) with a pass mark of 4, so a bidder that misses this 1-point experience criterion (at least 3 similar-equipment contracts in the last 2 years) can hardly pass. For such specialised equipment, requiring three recent contracts may greatly narrow the field.",
+   "This lot was re-announced (previous lot: 511472).",
+   "Clarification requests are accepted until 02.12.2026 15:02.",
+   "Note: 19 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi nusxasi",
+  "Kafolat xati (qayta tashkil etish, tugatish yoki bankrotlik bosqichida emasligi haqida)",
+  "Ishtirokchi haqida umumiy ma'lumot va tajriba haqida ma'lumot",
+  "Byudjetga qarzi yo'qligini tasdiqlovchi hujjatlar",
+  "Moliyaviy holat to'g'risidagi ma'lumotlar (balans va moliyaviy natijalar)",
+  "Texnik taklif va texnik tavsiflarning qiyosiy jadvali (6-shakl)",
+  "Narx taklifi (7-shakl)",
+  "So'nggi 2 yilda o'xshash uskunani yetkazib berish bo'yicha kamida 3 ta shartnoma nusxasi",
+  "Ishlab chiqaruvchi sertifikati va uskunaning originalligini tasdiqlovchi hujjatlar",
+  "Avans uchun bank kafolati (30% avans olish uchun)",
+  "PDF da yuklanadi"
+ ],
+ "clarification_letter_uz": "Kimga: Ўзбекистон Республикаси Транспорт вазирлиги, xarid komissiyasiga\nLot raqami: 26110012518377\nXarid predmeti: Транспорт вазирлиги авиация ҳодисалари ва инцидентларини текшириш бўлими лабораториясини ташкил этиш учун зарур бўлган парвоз маълумотларини ечиш ва таҳлил қилиш қурилмаларни хариди\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 24-bet.\n   Hujjatdagi matn: «FDS400-301 (or latest version) Download Unit 1 Boeing-787 EAFR 866-0084-102 Manufacture software with P757808-03-01 cable»\n   Savolimiz: Narx jadvali va shartnoma ilovasida 28 pozitsiya bitta ishlab chiqaruvchi mahsuloti artikullari (FDS400-..., FDS40-...) bilan sanab o'tilgan va ularning ekvivalenti ruxsat etilishi aytilmagan. Registratorlar bilan moslik asosli bo'lishi mumkin, ammo bir xil vazifani bajaradigan boshqa ishlab chiqaruvchilar qurilmalari taklif qilinishi imkoni yopilgan.\n   Taklif etilayotgan tahrir: Pozitsiyalarni artikul bilan birga funksional talablar (qaysi registrator turlari bilan mosligi, interfeys va ma'lumotlarni yuklab olish imkoniyatlari) orqali ko'rsating va \"yoki ekvivalent\" so'zlarini qo'shing.\n\n2. Texnik topshiriq, 26-bet.\n   Hujjatdagi matn: «нуфузли Европа ёки Шимолий Америка банки томонидан берилган чақириб олинмайдиган банк кафолатини»\n   Savolimiz: 30% avans (taxminan 702 720 000 so'm) olish uchun faqat Yevropa yoki Shimoliy Amerika banki bergan bank kafolati talab qilinadi. Boshqa mintaqalardagi, jumladan mahalliy banklar bergan kafolatni taqdim etadigan yetkazib beruvchilar avansdan foydalana olmasligi yoki ishtirok etmasligi mumkin.\n   Taklif etilayotgan tahrir: Avans uchun kafolat bank reytingi yoki moliyaviy barqarorligi belgilangan mezonlarga javob beradigan istalgan bank tomonidan berilishi mumkin.\n\n3. Texnik topshiriq, 33-bet.\n   Hujjatdagi matn: «Иштирокчи сўнгги 2 йил ичида ўхшаш ускунани етказиб бериш бўйича камида 3 та шартнома нусхасини тақдим этиши керак.»\n   Savolimiz: Mezonlar jami 5 balldan iborat (1+1+2+1), o'tish bali esa 4. Shu sababli 1 ballik tajriba mezonini (so'nggi 2 yilda o'xshash uskuna bo'yicha kamida 3 ta shartnoma) to'liq bajarmagan ishtirokchi amalda o'tolmaydi. Bunday maxsus uskuna bo'yicha 3 ta yaqin shartnomani talab qilish ishtirokchilar sonini juda cheklashi mumkin.\n   Taklif etilayotgan tahrir: Tajriba mezoni ball bilan baholansin va o'tish bali tajriba hujjatiga bog'liq bo'lmasin; kamida 1 ta o'xshash yetkazib berish shartnomasi yetarli deb belgilansin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (02.12.2026 15:02) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 2,
+  "median_bidders": 2.5,
+  "share_le2_bidders": 0.5,
+  "top_winner_share": 0.5,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 319503360.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": true,
+  "window_days": 16.0
+ },
+ "analyzed_at": "2026-11-18T00:20:02+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

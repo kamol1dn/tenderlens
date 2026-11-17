@@ -1,0 +1,212 @@
+{
+ "lot_id": 525267,
+ "display_no": "26110012525267",
+ "title": "Услуга по машина-механизмов",
+ "url": "https://etender.uzex.uz/lot/525267",
+ "customer": {
+  "name": "Мойнак ТЙФДМ",
+  "tin": "200387218"
+ },
+ "region": "Қорақалпоғистон Республикаси",
+ "start_cost": 172260720.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T17:34:31",
+ "end_date": "2026-11-24T17:34:31",
+ "clarific_date": "2026-11-24T17:34:31",
+ "type": "selection",
+ "old_id": 523242,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 50,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 60.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525267.pdf",
+  "pages": 3,
+  "text_source": "ocr",
+  "language": "uz-cyrl",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Yo'l asfalt qoplamasini yotqizish va zichlash uchun maxsus mashina-mexanizmlar xizmati (asfalt yotqizgich va yo'l zichlagich)",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Xizmat Moynoq tumanidagi avtomobil yo'lining 9 km qismiga qora qoplamali asfalt yotqizish va ikki yo'l qismini ta'mirlash uchun mashinalar bilan ko'rsatiladi.",
+   "summary_en": "The service is the supply of machinery for laying black asphalt on a 9 km road section and repairing two other road sections near Moynoq.",
+   "quote": "Мўйноқ тумани маркази билан боғловчи 95V124 (4н86) автомобиль йўлининг 15-24 км (9км) қисмига қора-қопламали асфальт ётқизиш",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Texnik topshiriqda so'ralgan maxsus mashina-mexanizmlar hujjatlari (texnik pasport, shartnoma va h.k.) uchun 50 ballgacha beriladi.",
+   "summary_en": "Up to 50 points are given for documents on the special machinery named in the specification (technical passport, contract and similar).",
+   "quote": "Техник топширикда суралган махсус машина-механизмлар хужжатлари (тех.паспорт шартнома ва шунга ўхшаш хужжатлар) 50 – балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Korxonaga tegishli mashina-mexanizmlarning 2025-yil ekspertiza xulosasi uchun 10 ball beriladi.",
+   "summary_en": "10 points are given for a 2025 expert conclusion on the machinery owned by the company.",
+   "quote": "Корхонага тегишли бўлган машина-механизмларнинг 2025 йил экспертиза хулосаси – 10 балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Xodimlar haqida my.mehnat.uz saytidan olingan ma'lumotnoma uchun 10 ball beriladi; taqdim etilmasa 5 ball.",
+   "summary_en": "10 points are given for a staff certificate obtained from my.mehnat.uz; 5 points if it is not supplied.",
+   "quote": "Корхонанинг ишчи ходимлари тўғрисида маълумотнома -10 ball (my.mehnat.uz saytidan malumotnoma taqdim qilinishini kerak)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Ishlarni sifatli va o'z vaqtida bajarish uchun kafolat xati 10 ball beradi.",
+   "summary_en": "A guarantee letter on quality and timely performance earns 10 points.",
+   "quote": "Ишларни сифатли ва ўз вақтида бажарилиш учун кафолат хати – 10 балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Shunday ishlarni avval bajarganlik haqidagi ma'lumot (shartnomalar, hisob-fakturalar) uchun 20 ballgacha beriladi.",
+   "summary_en": "Up to 20 points are given for information on previously performed similar work (contracts, invoices).",
+   "quote": "Avval ushbu turdagi ishlarni bajarganlik to'g'risida malumot (Shartnomalar, schet-fakturalar va shunga o'xshash malumotlar)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi shunday ishlar bo'yicha kamida 2 yillik tajribaga ega yuridik shaxs bo'lishi kerak.",
+   "summary_en": "The bidder must be a legal entity with at least 2 years of experience in this kind of work.",
+   "quote": "камида 2 йил тажрибага эга бУлган барча юридик макомга эга",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Aylanma mablag'lar yoki bank kafolati lot qiymatining kamida 20 foizini tashkil etishi kerak.",
+   "summary_en": "Working capital or a bank guarantee of at least 20 percent of the lot value must be shown.",
+   "quote": "танлОв пРедмети циЙматининг камида 20 фоизи миIцоридаги айланма маблагларининг ёки",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Ishlarning kamida 50 foizi ishtirokchining o'z kuchlari bilan bajarilishi kerak.",
+   "summary_en": "At least 50 percent of the work must be carried out with the bidder's own resources.",
+   "quote": "Танлов объектида }з кучлари билан бажариладиган ишларнинг м}лжалланаётган хажм}l (50% дан кам б}лмаган холда)",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Lotning yakuniy narxi QQS bilan 172 260 720 so'm; undan yuqori takliflar qabul qilinmaydi.",
+   "summary_en": "The maximum price is 172,260,720 UZS including VAT; higher offers are not accepted.",
+   "quote": "Танлов охирги киймати - l72 260 720 сУм ККС билан.",
+   "page": 2,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 93,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 7.4,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 39 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 79% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 26%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 523242)."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 39 deals the median number of bidders was 2; 79% of deals had two or fewer bidders; the most frequent winner took 26%.",
+   "This lot was re-announced (previous lot: 523242)."
+  ]
+ },
+ "documents_needed_uz": [
+  "Mashina-mexanizmlarning texnik pasportlari va ular bo'yicha shartnomalar",
+  "Mashina-mexanizmlarning 2025-yil ekspertiza xulosasi",
+  "my.mehnat.uz saytidan olingan xodimlar haqida ma'lumotnoma",
+  "Ishlarni sifatli va o'z vaqtida bajarish haqida kafolat xati",
+  "Avval bajarilgan shunday ishlar to'g'risida ma'lumot (shartnomalar, hisob-fakturalar)",
+  "Aylanma mablag'lar yoki bank kafolatini tasdiqlovchi hujjat",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+  "Bankrotlik jarayoni yo'qligini tasdiqlovchi hujjat",
+  "Insofsiz ijrochilar reyestrida yo'qligini tasdiqlovchi ma'lumot",
+  "Majburiy ijro byurosida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 39,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.7949,
+  "top_winner_share": 0.2564,
+  "share_price_drop_lt1pct": 0.4359,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 23496362.21,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

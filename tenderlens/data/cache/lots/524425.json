@@ -1,0 +1,224 @@
+{
+ "lot_id": 524425,
+ "display_no": "26110012524425",
+ "title": "Eng yaxshi taklif (yuvish vositalari)",
+ "url": "https://etender.uzex.uz/lot/524425",
+ "customer": {
+  "name": "Хужайли тумани Мактабгача ва мактаб таълими булимига карашли 17-сонли ДМТТ",
+  "tin": "207008603"
+ },
+ "region": "Қорақалпоғистон Республикаси",
+ "start_cost": 9491100.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T22:55:07",
+ "end_date": "2026-11-18T22:55:07",
+ "clarific_date": "2026-11-18T22:55:07",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 100,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг техник тартибга солиш соҳасидаги норматив ҳужжатларга мувофиқлиги бўйича талаблар. Мувофиқлиги баҳоланиши лозим бўлган давлат ветеринария хизмати назорати остидаги маҳсулотлар. Мажбурий тартибда мувофиқлиги баҳоланиши лозим бўлган маҳсулотлар.Мажбурий экологик сертификатланиши лозим бўлган маҳсулотлар. Санитария-эпидемиологик хулосага мос келадиган маҳсулотлар.",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг ишлаб чиқарилган йилига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг маркировкасига, уни қадоқлаш, юклаш ва ташишга қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524425.pdf",
+  "pages": 7,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   4
+  ]
+ },
+ "subject_uz": "Maktabgacha ta'lim muassasasi uchun kir yuvish kukuni, suyuq sovun va idish yuvish geli xaridi",
+ "sector": "other",
+ "customer_sector": "education",
+ "customer_kind": "budget",
+ "financing_source": "Byudjet",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Qo'lda yuvish uchun kir yuvish kukuni, qadog'i 1 kg, jami 68 qadoq.",
+   "summary_en": "Hand-wash laundry powder in 1 kg packs, 68 packs in total.",
+   "quote": "Hdbir qadoq sofoe-irligi I kg bo'lishi kerani jmi 68 dom qadoq.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Suyuq sovun 1 litrli idishda, dozator bilan komplektda bo'lishi kerak.",
+   "summary_en": "Liquid soap in 1-litre containers supplied together with a dispenser.",
+   "quote": "H&bt idish hajhi I litr bo lishi va ishlatishga lat1or n6os1i doztor bild",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Idish yuvish geli 450 g li qadoqlarda, jami taxminan 100 kg yetkaziladi.",
+   "summary_en": "Dish-washing gel in 450 g packs, roughly 100 kg in total.",
+   "quote": "' He birqadoq sofog nligi 450 s bo'lishi kentj jDi ycrkziladigo niqdorkadid! 100",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "delivery",
+   "summary_uz": "Tovar g'olib aniqlangan kundan boshlab 30 ish kunidan kechiktirmay yetkaziladi.",
+   "summary_en": "Goods must be delivered within 30 working days of the winner being determined.",
+   "quote": "Yeikazib berish nuddari: tanlov mlijalei bojicha bayomonaEniylashtiilgm va joylashtiiilgd kmdm boshlab 30 (o1tiz) ish kuidd kechiktimay.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "other",
+   "summary_uz": "Yetkazib berishda yaroqlilik muddatining kamida 80 foizi qolgan bo'lishi kerak.",
+   "summary_en": "At delivery at least about 80 percent of the shelf life must remain.",
+   "quote": "Ye&azib bcrish vaqlida nansubn@ing yaoqlilik nDddlti lugmasm bo'lhhi, qolsm",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "other",
+   "summary_uz": "Kafolat muddati qabul qilingan kundan boshlab kamida 1 oy.",
+   "summary_en": "Warranty of at least 1 month from the date of acceptance.",
+   "quote": "Kafolat muddali tov&lr qabul qiline& kude boshlab kmida I (bn) oy clib",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Mahsulotning ishlab chiqarilgan yiliga qo'yiladigan talab 20 ballgacha baholanadi (ekspert bahosi).",
+   "summary_en": "A criterion on the product's year of manufacture is scored up to 20 points by expert assessment.",
+   "quote": "Товарнинг ишлаб чиқарилган йилига қўйиладиган талаблар",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Taklif texnik shartga to'liq mos bo'lishi kerak, bu 20 ballgacha baholanadi.",
+   "summary_en": "The offer must match the technical specification; this is scored up to 20 points.",
+   "quote": "Texnik tomoni, yetkazib berilayotgan mahsulotlar texnik shartga asosan bo'lishi kerak",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Ekologik va gigiyenik sertifikatlar, sinov bayonnomalari va sifat sertifikatlari talab etilishi mumkin.",
+   "summary_en": "Environmental and hygiene certificates, test reports and quality certificates may be required.",
+   "quote": "Экологик, гигиеник сертификатлаш, калибрлаш тўғрисидаги тегишли гувоҳномалар ёки синов баённомалари",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Texnik shart bandlariga aniq amal qilmagan taklif ko'rib chiqilmasligi yoki diskvalifikatsiya qilinishi mumkin.",
+   "summary_en": "An offer that does not follow the specification exactly may be rejected or disqualified.",
+   "quote": "Ishtirokchilarga talab: mazkur texnik shart bandlariga aniq va to'laqonli amal qilinsin.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 96,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 4.2,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 6 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 33% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 17%.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 6 deals the median number of bidders was 3; 33% of deals had two or fewer bidders; the most frequent winner took 17%.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik taklif va mahsulotning texnik shartga mosligini tasdiqlovchi hujjatlar",
+  "Gigiyenik (sanitariya-epidemiologik) xulosa yoki sertifikat",
+  "Sifat sertifikati va mahsulot pasporti",
+  "Davlat ro'yxatidan o'tganlik to'g'risidagi guvohnoma",
+  "Soliq bo'yicha qarzdorlik yo'qligi to'g'risidagi ma'lumotnoma",
+  "Bankrotlik tartib-taomillari yo'qligini tasdiqlovchi hujjat",
+  "Insofsiz ijrochilar reyestrida yo'qligini tasdiqlovchi ma'lumot",
+  "Majburiy ijro byurosi bazalarida bajarilmagan majburiyatlar yo'qligi to'g'risida ma'lumot",
+  "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi to'g'risida ariza",
+  "Halollik va qonunchilikka rioya etish to'g'risida ariza",
+  "Zakalat kiritilganini tasdiqlovchi hujjat yoki bank kafolati",
+  "Texnik tomoni, yetkazib berilayotgan mahsulotlar texnik shartga asosan bo'lishi kerak",
+  "Sertifikatsiya",
+  "Yetkazib berish davriyligi",
+  "Ishlab chiqarish yili",
+  "Qadoqlash, logistika, transportirovka"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 6,
+  "median_bidders": 3.0,
+  "share_le2_bidders": 0.3333,
+  "top_winner_share": 0.1667,
+  "share_price_drop_lt1pct": 0.3333,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 1338245.1,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

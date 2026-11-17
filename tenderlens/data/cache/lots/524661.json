@@ -1,0 +1,255 @@
+{
+ "lot_id": 524661,
+ "display_no": "26120012524661",
+ "title": "IBM Security QRadar Suite litsenziyalarini kengaytirish, kafolatdan keyingi qo‘llab-quvvatlash xizmatlarini ko‘rsatish hamda tizimini texnik qo‘llab-quvvatlash",
+ "url": "https://etender.uzex.uz/lot/524661",
+ "customer": {
+  "name": "BIZNESNI RIVOJLANTIRISH BANKI AKSIYADORLIK TIJORAT BANKI",
+  "tin": "206916313"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 3050000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T16:48:50",
+ "end_date": "2026-11-20T16:48:50",
+ "clarific_date": "2026-11-20T16:48:50",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 3,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524661.rar",
+  "pages": 31,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "IBM Security QRadar Suite litsenziyalarini kengaytirish (23 ta paket), 12 oylik qo'llab-quvvatlash va tizimni sozlash xizmatlari (3,05 mlrd so'm)",
+ "sector": "it",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": null,
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Mavjud QRadar litsenziyalariga qo'shimcha 23 ta litsenziya paketi bilan hajmni kengaytirish kerak.",
+   "summary_en": "The existing QRadar licensing must be extended by 23 additional licence packages.",
+   "quote": "Mavjud IBM Security QRadar Suite litsenziyalariga qo‘shimcha ravishda 23 ta litsenziya paketi bo‘yicha litsenziyalash hajmini kengaytirish",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Litsenziyalar demo, vaqtinchalik yoki NFR bo'lmasligi va uchinchi shaxs nomiga rasmiylashtirilmasligi shart; Bank nomiga POE hujjatlari beriladi.",
+   "summary_en": "Licences must not be demo, temporary or NFR and must not be issued to a third party; proof-of-entitlement documents go to the Bank.",
+   "quote": "Taqdim etiladigan litsenziyalar demo, vaqtinchalik yoki NFR bo‘lmasligi, uchinchi shaxs nomiga rasmiylashtirilmasligi",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "12 oy davomida kafolatdan keyingi texnik qo'llab-quvvatlash, ishlab chiqaruvchining yangilanishlari va 8x5 rejimida yordam ko'rsatiladi.",
+   "summary_en": "12 months of post-warranty technical support, vendor updates and 8x5 assistance are required.",
+   "quote": "IBM Security QRadar Suite tizimi uchun 12 oy muddatga kafolatdan keyingi texnik qo‘llab-quvvatlash xizmatini taqdim etish;",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Qo'llab-quvvatlash 8x5xNBD rejimida telefon, elektron pochta va VPN orqali masofaviy ulanish bilan ko'rsatiladi; avariya holatlarida javob muddati 12 soatgacha.",
+   "summary_en": "Support runs in 8x5xNBD mode by phone, email and remote VPN access; critical incidents must be resolved within 12 hours on average.",
+   "quote": "8x5xNBD rejimida texnik muammolarni hal qilish bo‘yicha murojaatlar doirasida telefon, elektron pochta orqali maslahat va texnik yordam ko‘rsatish",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "IBM ishlab chiqaruvchisi yoki uning vakolatli bo'linmasidan lot raqami ko'rsatilgan ishonchnoma yoki avtorizatsiya xati (MAF) taqdim etilishi shart.",
+   "summary_en": "A power of attorney or authorisation letter (MAF) from IBM or its authorised regional unit, naming this lot, must be provided.",
+   "quote": "IBM litsenziyalarni yetkazib berish uchun IBM Security QRadar Suite litsenziyalari ishlab chiqaruvchisidan yoki uning vakolatli hududiy bo‘linmasi tomonidan ishtirokchiga berilgan ishonchnoma yoki avtorizatsiya xati",
+   "page": 25,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Jamoada kamida bitta IBM QRadar sertifikatiga ega texnik mutaxassis bo'lishi kerak.",
+   "summary_en": "The team must include at least one technical specialist certified in IBM QRadar.",
+   "quote": "Ishtirokchi jamoasida kamida 1 (bir) nafar IBM QRadar bo‘yicha sertifikatga ega texnik mutaxassisning mavjudligi",
+   "page": 25,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "SIEM/SOAR yoki boshqa axborot xavfsizligi litsenziyalarini joriy etish yoki yetkazib berish tajribasi to'g'risida ma'lumot (4-shakl) va tasdiqlovchi hujjatlar kerak.",
+   "summary_en": "Experience information (Form 4) with supporting documents is needed for SIEM/SOAR or other information-security licence delivery or support.",
+   "quote": "Ishtirokchining SIEM (Security Information and Event Management) yoki SOAR (Security Orchestration, Automation, and Response) tizimlarini joriy etish yoki yetkazib berish yoki texnik qo‘llab-quvvatlash",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "So'nggi hisobot yili uchun buxgalteriya hisoboti (soliq organi QR-kodli ma'lumotnomasi bilan) yoki auditorlik xulosasi taqdim etiladi.",
+   "summary_en": "Accounting statements for the last reporting year (with the tax authority's QR-coded certificate) or an audit opinion must be submitted.",
+   "quote": "So‘ngi hisobot yili uchun buxgalteriya hisoboti, Soliq organi tomonidan qabul qilingan QR-kodli ma’lumotnoma",
+   "page": 23,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Barcha mulk egalari va yakuniy benefitsiarlar ko'rsatilgan egalik tuzilmasi (2-shakl) va ta'sis hujjatlari taqdim etiladi.",
+   "summary_en": "An ownership structure listing all owners and beneficiaries (Form 2) with constitutive documents must be submitted.",
+   "quote": "Kontragent egaligi tuzilmasi, bunga benefitsiar (ta’sischi) mulkiy egalarni ham hisobga olgan holda barcha mulk egalari kiritiladi",
+   "page": 22,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "delivery",
+   "summary_uz": "Litsenziyalar oldindan to'lov qilingan kundan 20 bank ish kuni ichida yetkaziladi; qo'llab-quvvatlash 12 oy.",
+   "summary_en": "Licences are delivered within 20 banking days of the advance payment; support lasts 12 months.",
+   "quote": "Litsenziyalarni yetkazib berish muddati – oldindan to‘lov amalga oshirilgan kundan boshlab 20 (yigirma) bank ish kuni.",
+   "page": 17,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "payment",
+   "summary_uz": "Shartnoma imzolanganidan 10 bank ish kuni ichida 30 foiz avans, qolgan 70 foiz dalolatnoma asosida 10 bank ish kunida to'lanadi.",
+   "summary_en": "30 percent advance within 10 banking days of signing; the remaining 70 percent within 10 banking days of the acceptance act.",
+   "quote": "Shartnoma imzolangan kundan boshlab 10 bank ish kuni ichida shartnoma summasining 30% miqdorida oldindan to‘lovni amalga oshiriladi",
+   "page": 17,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "short_window",
+   "severity": "low",
+   "quote": "takliflar etender.uzex.uz platformasida tanlash e’lon qilingan kundan boshlab 5 ish kunida elektron ko‘rinishda taqdim etiladi.",
+   "page": 19,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Takliflar e'londan keyin atigi 5 ish kuni ichida qabul qilinadi (e'lon 13-noyabr, yopilish 20-noyabr). 3,05 mlrd so'mlik lot uchun ishlab chiqaruvchi avtorizatsiya xati, sertifikat, benefitsiarlar ma'lumotnomasi va o'zbek yoki rus tiliga tarjimalar tayyorlash qisqa muddatga sig'maydi, bu esa avtorizatsiya xatini oldindan olgan yoki hujjatlari tayyor ishtirokchilarga qulaylik beradi. Aniqlashtiruvchi so'rov muddati tugashiga kamida 2 ish kuni qolganda yuborilishi kerak.",
+   "explanation_en": "Bids are accepted for only 5 working days after the announcement (published 13 Nov, closes 20 Nov). For a 3.05 billion UZS lot, obtaining a manufacturer authorisation letter, certificates, ownership data and translations into Uzbek or Russian in that time favours bidders who already hold the documents. Clarification questions must also be sent at least 2 working days before the deadline.",
+   "rewrite_uz": "Takliflar e'lon qilingan kundan boshlab kamida 10 ish kuni ichida elektron ko'rinishda qabul qilinadi.",
+   "rewrite_en": "Bids are accepted in electronic form for at least 10 working days from the date of the announcement.",
+   "type_label_uz": "Taklif tayyorlash uchun qisqa muddat",
+   "type_label_en": "Short time to prepare a bid",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "low",
+   "quote": "“Konsorsium” shartnomasi asosida tanlashda ishtirok etish taqiqlanadi",
+   "page": 18,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Konsorsium sifatida ishtirok etish taqiqlangan, shu bilan birga IBM avtorizatsiya xati, QRadar sertifikatli mutaxassis va SIEM/SOAR tajribasi talab qilinadi. Bu uchala talabni birgalikda bajarishi mumkin bo'lgan, lekin alohida-alohida ularning bittasini qoplaydigan kichik ta'minotchilar ittifoqini chetlatadi. Bu cheklov uchun asos borligini aniqlashtirish mumkin.",
+   "explanation_en": "Participation as a consortium is prohibited while the lot requires an IBM authorisation letter, a QRadar-certified specialist and SIEM/SOAR experience at the same time. Smaller suppliers that could jointly meet all three, but each cover only one, are shut out. The customer could be asked to explain the reason for the restriction.",
+   "rewrite_uz": "Ishtirokchilar konsorsium yoki qo'shma faoliyat shartnomasi asosida ishtirok etishi mumkin; talablar konsorsium a'zolari tomonidan birgalikda bajariladi.",
+   "rewrite_en": "Bidders may participate under a consortium or joint-activity agreement; the requirements may be met by the consortium members jointly.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 84,
+ "traffic_light": "green",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 12,
+  "history_penalty": 3.6,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Taklif tayyorlash uchun qisqa muddat (19-bet): Takliflar e'londan keyin atigi 5 ish kuni ichida qabul qilinadi (e'lon 13-noyabr, yopilish 20-noyabr). 3,05 mlrd so'mlik lot uchun ishlab chiqaruvchi avtorizatsiya xati, sertifikat, benefitsiarlar ma'lumotnomasi va o'zbek yoki rus tiliga tarjimalar tayyorlash qisqa muddatga sig'maydi, bu esa avtorizatsiya xatini oldindan olgan yoki hujjatlari tayyor ishtirokchilarga qulaylik beradi. Aniqlashtiruvchi so'rov muddati tugashiga kamida 2 ish kuni qolganda yuborilishi kerak.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (18-bet): Konsorsium sifatida ishtirok etish taqiqlangan, shu bilan birga IBM avtorizatsiya xati, QRadar sertifikatli mutaxassis va SIEM/SOAR tajribasi talab qilinadi. Bu uchala talabni birgalikda bajarishi mumkin bo'lgan, lekin alohida-alohida ularning bittasini qoplaydigan kichik ta'minotchilar ittifoqini chetlatadi. Bu cheklov uchun asos borligini aniqlashtirish mumkin.",
+   "Buyurtmachining so'nggi 149 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 43% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 5%."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "Short time to prepare a bid (page 19): Bids are accepted for only 5 working days after the announcement (published 13 Nov, closes 20 Nov). For a 3.05 billion UZS lot, obtaining a manufacturer authorisation letter, certificates, ownership data and translations into Uzbek or Russian in that time favours bidders who already hold the documents. Clarification questions must also be sent at least 2 working days before the deadline.",
+   "Other clause that may limit competition (page 18): Participation as a consortium is prohibited while the lot requires an IBM authorisation letter, a QRadar-certified specialist and SIEM/SOAR experience at the same time. Smaller suppliers that could jointly meet all three, but each cover only one, are shut out. The customer could be asked to explain the reason for the restriction.",
+   "In the customer's last 149 deals the median number of bidders was 3; 43% of deals had two or fewer bidders; the most frequent winner took 5%."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik hujjati (yakka tartibdagi tadbirkorlar uchun pasport/ID karta)",
+  "Egalik tuzilmasi va yakuniy benefitsiarlar ma'lumotnomasi (2-shakl) hamda ustav yoki ta'sis hujjatlari nusxasi",
+  "Kafolat xati (1-shakl): bankrotlik, sud jarayoni, noto'g'ri bajarilgan shartnomalar va soliq qarzi yo'qligi bo'yicha",
+  "Halollik majburiyati to'g'risida ariza (3-shakl)",
+  "SIEM/SOAR yoki axborot xavfsizligi litsenziyalari bo'yicha tajriba ma'lumoti (4-shakl) va shartnoma, hisob-faktura yoki dalolatnoma nusxalari",
+  "Resurslar mavjudligi bo'yicha kafolat xati (5-shakl)",
+  "Texnik topshiriqqa to'liq muvofiqlik kafolat xati (6-shakl)",
+  "IBM ishlab chiqaruvchisidan ishonchnoma yoki avtorizatsiya xati (MAF), lot raqami bilan, tarjimasi bilan",
+  "IBM QRadar sertifikatiga ega mutaxassis sertifikati va mehnat munosabatlarini tasdiqlovchi hujjat (my.mehnat.uz QR-kodli ko'chirma yoki shartnoma)",
+  "So'nggi hisobot yili buxgalteriya balansi (1-shakl), moliyaviy natijalar hisoboti (2-shakl) va soliq organi QR-kodli ma'lumotnomasi yoki auditorlik xulosasi",
+  "Soliq qarzdorligi yo'qligi bo'yicha vakolatli organ ma'lumotnomasi",
+  "Davlat xizmatlari markazidan to'lovga qobiliyatsizlik tartibi yo'qligi bo'yicha QR-kodli ma'lumotnoma",
+  "Insofsiz ijrochilar reestridan va Majburiy ijro byurosi bazasidan skrinshotlar"
+ ],
+ "clarification_letter_uz": "Kimga: BIZNESNI RIVOJLANTIRISH BANKI AKSIYADORLIK TIJORAT BANKI, xarid komissiyasiga\nLot raqami: 26120012524661\nXarid predmeti: IBM Security QRadar Suite litsenziyalarini kengaytirish, kafolatdan keyingi qo‘llab-quvvatlash xizmatlarini ko‘rsatish hamda tizimini texnik qo‘llab-quvvatlash\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 19-bet.\n   Hujjatdagi matn: «takliflar etender.uzex.uz platformasida tanlash e’lon qilingan kundan boshlab 5 ish kunida elektron ko‘rinishda taqdim etiladi.»\n   Savolimiz: Takliflar e'londan keyin atigi 5 ish kuni ichida qabul qilinadi (e'lon 13-noyabr, yopilish 20-noyabr). 3,05 mlrd so'mlik lot uchun ishlab chiqaruvchi avtorizatsiya xati, sertifikat, benefitsiarlar ma'lumotnomasi va o'zbek yoki rus tiliga tarjimalar tayyorlash qisqa muddatga sig'maydi, bu esa avtorizatsiya xatini oldindan olgan yoki hujjatlari tayyor ishtirokchilarga qulaylik beradi. Aniqlashtiruvchi so'rov muddati tugashiga kamida 2 ish kuni qolganda yuborilishi kerak.\n   Taklif etilayotgan tahrir: Takliflar e'lon qilingan kundan boshlab kamida 10 ish kuni ichida elektron ko'rinishda qabul qilinadi.\n\n2. Texnik topshiriq, 18-bet.\n   Hujjatdagi matn: «“Konsorsium” shartnomasi asosida tanlashda ishtirok etish taqiqlanadi»\n   Savolimiz: Konsorsium sifatida ishtirok etish taqiqlangan, shu bilan birga IBM avtorizatsiya xati, QRadar sertifikatli mutaxassis va SIEM/SOAR tajribasi talab qilinadi. Bu uchala talabni birgalikda bajarishi mumkin bo'lgan, lekin alohida-alohida ularning bittasini qoplaydigan kichik ta'minotchilar ittifoqini chetlatadi. Bu cheklov uchun asos borligini aniqlashtirish mumkin.\n   Taklif etilayotgan tahrir: Ishtirokchilar konsorsium yoki qo'shma faoliyat shartnomasi asosida ishtirok etishi mumkin; talablar konsorsium a'zolari tomonidan birgalikda bajariladi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (20.11.2026 16:48) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 149,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4295,
+  "top_winner_share": 0.047,
+  "share_price_drop_lt1pct": 0.2416,
+  "reannounced_lots": 6
+ },
+ "money_on_table_uzs": 430050000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

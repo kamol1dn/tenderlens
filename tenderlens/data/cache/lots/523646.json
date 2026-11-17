@@ -1,0 +1,353 @@
+{
+ "lot_id": 523646,
+ "display_no": "26121006523646",
+ "title": "Avtomatlashtirilgan bank tizimi uchun obyektli ma’lumotlarni saqlash tizimini joriy etish.",
+ "url": "https://etender.uzex.uz/lot/523646",
+ "customer": {
+  "name": "\"O`ZBEKISTON SANOAT-QURILISH BANK\" ATB",
+  "tin": "200833707"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 53232724765.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T18:38:56",
+ "end_date": "2026-12-02T18:38:56",
+ "clarific_date": "2026-12-02T18:38:56",
+ "type": "tender",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 12,
+  "criteria": [
+   {
+    "label": "Xarid komissiyasi raisining nomiga elektron tenderda qatnashish uchun ariza (1-shakl)",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Tashkilotning davlat ro‘yxatidan o‘tkazilganligi haqidagi guvohnoma hujjatining nusxalari",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "2-shaklga muvofiq kafolat maktubi",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Tender ishtirokchisi haqida umumiy ma’lumot",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ishtirokchining moliyaviy holati haqida ma’lumot",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Korrupsiya holatlarining oldini olish bo‘yicha bayonot",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Soliqlar va yig‘imlarni to‘lashda muddati o‘tgan qarzdorlikning mavjud emasligi",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Xarid hujjatlarining texnik qismiga muvofiqlik",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "O‘zbekiston Respublikasi hududida uskuna ishlab chiqaruvchisi tomonidan kafolatli xizmat ko‘rsatishni ta’minlaydigan vakolatli servis markazi va/yoki ehtiyot qismlar ombori mavjudligiligi",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Kamida 5 yillik muddatga mo’ljallangan taklif etilayotgan texnologik yechimning TCO (Total Cost of Ownership – egalik qilishning umumiy qiymati) darajasiga erishish usullari bo’yicha ma’lumot",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Agar litsenziyalash nazarda tutilgan bo‘lsa, litsenziyalash tartibi va shartlari boʻyicha ma’lumot (to‘lovni undirish tartibi, taqdim etiladigan litsenziyalar turlari – muddatli/muddatsiz, ma’lum miqdordagi foydalanuvchilar va/yoki cheklanmagan miqdordagi foydalanuvchilar uchun va h.k.);",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Xizmatlar va obunalar to‘g‘risida ma’lumot",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Mazkur loyiha bo‘yicha tender savdolarida ishtirok etish uchun taklif etilayotgan uskuna va dasturiy ta’minot ishlab chiqaruvchisining rasmiy vakolatini tasdiqlovchi Manufacturer Authorization Form (MAF) hujjatiga ega boʻlish",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523646.rar",
+  "pages": 52,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   1,
+   2,
+   3,
+   17
+  ]
+ },
+ "subject_uz": "Bank uchun 2 dona yagona (blok, fayl va obyekt) ma'lumotlarni saqlash tizimi, o'rnatish va ishga tushirish bilan",
+ "sector": "it",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Buyurtmachi o‘z mablag‘lari",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "delivery",
+   "summary_uz": "Uskuna oldindan to'lov kunidan boshlab 120 bank ish kunida yetkaziladi.",
+   "summary_en": "Equipment is delivered within 120 banking days of the advance payment.",
+   "quote": "Oldindan to‘lov amalga oshirilgan kundan boshlab 120 bank ish kuni",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "O'rnatish va ishga tushirish ishlari buyurtmachi xabaridan keyin 180 kalendar kun ichida bajariladi.",
+   "summary_en": "Installation and commissioning must be done within 180 calendar days after the customer's readiness notice.",
+   "quote": "Buyurtmachi tomonidan Ijrochiga tayyorligi yuzasidan yozma ravishda xabar berilgan kundan boshlab 180 kalendar kuni",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Foydali sig'im siqish va deduplikatsiyasiz kamida 120 TB bo'lishi kerak.",
+   "summary_en": "Usable capacity must be at least 120 TB before compression and deduplication.",
+   "quote": "Siqish (Compression) va deduplikatsiya (Deduplication) hisobga olinmagan holda foydali saqlash hajmi kamida 120 TB bo‘lishi lozim",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Unumdorlik kamida 600 000 IOPS, 5 GB/s va kechikish 1 ms dan oshmasligi kerak.",
+   "summary_en": "Performance must be at least 600,000 IOPS and 5 GB/s with latency not above 1 ms.",
+   "quote": "unumdorlik kamida 600 000 IOPS, o‘tkazuvchanlik qobiliyati kamida 5 GB/s, javob berish vaqti esa 1 ms dan oshmasligi lozim",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Kamida 8 ta Fibre Channel 64/32 Gbit/s port optik modullar bilan.",
+   "summary_en": "At least 8 Fibre Channel 64/32 Gbit/s ports with optical modules.",
+   "quote": "Fibre Channel 64/32 Gbit/s – tizim uchun kamida 8 ta port, komplekt tarkibida mos SR optik modullari bilan",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Bir xil ma'lumotlarga S3, NFS va SMB orqali o'zgartirmasdan kirish imkoniyati bo'lishi shart.",
+   "summary_en": "The same data must be reachable over S3, NFS and SMB without conversion.",
+   "quote": "Ma’lumotlarni saqlash tizimi bir xil ma’lumotlarga S3, NFS va SMB protokollari orqali ularni o‘zgartirish yoki formatini almashtirish zaruratisiz kirish imkoniyatini ta’minlashi shart",
+   "page": 14,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "technical",
+   "summary_uz": "Uskuna 2026-yildan oldin ishlab chiqarilmagan, yangi va tiklanmagan bo'lishi kerak.",
+   "summary_en": "Equipment must be new, refurbished-free and not manufactured before 2026.",
+   "quote": "Ijrochi 2026-yildan oldin ishlab chiqarilmagan, yangi (ilgari foydalanilmagan), qayta tiklanmagan (refurbished bo‘lmagan), to‘liq komplektlangan",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "technical",
+   "summary_uz": "Kritik nosozliklarda texnik yordam dasturiy ta'minot ishlab chiquvchisi tomonidan vositachisiz ko'rsatiladi.",
+   "summary_en": "Critical-fault support must come directly from the storage software vendor without intermediaries.",
+   "quote": "Texnik qo‘llab-quvvatlash ma’lumotlarni saqlash tizimi (MST) dasturiy ta’minoti ishlab chiquvchisi tomonidan bevosita, kritik darajadagi nosozliklarni bartaraf etishda vositachi tashkilotlarni jalb qilmagan holda ko‘rsatilishi lozim",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Uskuna va dasturiy ta'minot ishlab chiqaruvchisining rasmiy vakolat hujjati (MAF) taqdim etiladi.",
+   "summary_en": "A Manufacturer Authorization Form (MAF) from the equipment and software maker must be provided.",
+   "quote": "taklif etilayotgan uskuna va dasturiy ta’minot ishlab chiqaruvchisining rasmiy vakolatini tasdiqlovchi Manufacturer Authorization Form (MAF) hujjati",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "qualification",
+   "summary_uz": "Ishlab chiqaruvchining O'zbekistondagi vakolatli servis markazi va/yoki ehtiyot qismlar ombori to'g'risida ma'lumot talab qilinadi.",
+   "summary_en": "Information on the manufacturer's authorised service centre and/or spare-parts warehouse in Uzbekistan is required.",
+   "quote": "uskuna ishlab chiqaruvchisi tomonidan O‘zbekiston Respublikasi hududida kafolatli xizmat ko‘rsatishni ta’minlaydigan vakolatli servis markazi va/yoki ehtiyot qismlar ombori",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "qualification",
+   "summary_uz": "So'nggi 3 yilda zarar ko'rgan ishtirokchi musobaqadan chetlatiladi.",
+   "summary_en": "A bidder with losses in the last 3 years is excluded.",
+   "quote": "ishtirokchining so‘nggi 3 yildagi moliyaviy ko‘rsatkichlari zarar bilan yakunlangan bo‘lsa, Xarid komissiyasi ishtirokchini musobaqadan chetlatadi",
+   "page": 49,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "other",
+   "summary_uz": "Kafolat muddati uskuna yetkazilgan kundan 36 oy.",
+   "summary_en": "Warranty is 36 months from delivery of the equipment.",
+   "quote": "Kafolat muddati uskunalar yetkazib berilgan kundan boshlab 36 (o‘ttiz olti) oyni tashkil etishi lozim",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r13",
+   "kind": "payment",
+   "summary_uz": "Qiymatning 30 foizi shartnomadan keyin 10 bank kunida avans sifatida to'lanadi.",
+   "summary_en": "30 percent of the value is paid as an advance within 10 banking days of signing.",
+   "quote": "Tovar qiymatining 30 foizi shartnoma imzolangan kundan boshlab 10 (o‘n) bank kuni ichida avans to‘lovi sifatida to‘lanadi",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r14",
+   "kind": "evaluation",
+   "summary_uz": "G'olib texnik-malakaviy bosqichdan o'tgan eng past narx taklif qilgan ishtirokchi.",
+   "summary_en": "The winner is the lowest price among bidders who pass the technical and qualification stage.",
+   "quote": "Takliflarni baholash usuli Eng past narx usuli",
+   "page": 20,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "ishtirokchining so‘nggi 3 yildagi moliyaviy ko‘rsatkichlari zarar bilan yakunlangan bo‘lsa, Xarid komissiyasi ishtirokchini musobaqadan chetlatadi",
+   "page": 49,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Moliyaviy holat shakli (4-shakl) 2023-2025 yillarni qamraydi va zarar ko'rilgan holatda ishtirokchi chetlatiladi; hujjatda zararning chegarasi (necha yil, qancha miqdor) ko'rsatilmagan. Lot narxi 53 232 724 765 so'm bo'lgani uchun moliyaviy barqarorlikni tekshirish o'rinli, lekin bitta zarar yili tufayli chetlatish ijro qobiliyatiga ega, ammo yaqinda yo'qotish ko'rgan ta'minotchilarni (masalan, yangi yoki o'sib borayotgan kompaniyalarni) chiqarib yuborishi mumkin.",
+   "explanation_en": "The financial form (Form 4) covers 2023-2025 and a bidder with losses is excluded, but the document does not say how many loss years or what size of loss counts. For a lot of 53,232,724,765 UZS a financial check is reasonable, yet excluding any bidder with a loss may shut out capable suppliers (for example new or fast-growing companies) that had a single weak year.",
+   "rewrite_uz": "Moliyaviy talabni aniq ko'rsatkich bilan almashtiring (masalan, oxirgi yilda sof aktivlar musbat bo'lishi yoki oxirgi 3 yil uchun jami foyda zarar ko'rinishida bo'lmasligi) yoki ijro qobiliyatini boshqa tasdiq (bank kafolati) bilan ko'rsatishga ruxsat bering.",
+   "rewrite_en": "Replace the loss rule with a defined measure (for example positive net assets in the latest year, or no net loss over the 3-year total) or allow the bidder to show capacity through another proof such as a bank guarantee.",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "narrow_params",
+   "severity": "medium",
+   "quote": "alohida obyektli platformadan foydalanmasdan, ma’lumotlarni saqlash tizimi kontrollerlari tomonidan native (o‘rnatilgan) tarzda ta’minlanishi lozim",
+   "page": 14,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "S3 obyektli kirish alohida obyektli platformasiz, aynan saqlash tizimi kontrollerlarining o'zida tabiiy ta'minlanishi talab qilinadi. Shu bilan birga bir xil tizim blok (FC), fayl va obyekt kirishini, NVMe disklarni, virtual saqlash tizimlariga bo'linishni, geografik taqsimlangan klasterni va AIX qo'llab-quvvatlashini bir vaqtning o'zida talab qiladi. Bunday kombinatsiya ishlab chiqaruvchilar doirasini juda torayishi mumkin; yagona maqsadni bajaruvchi muqobil arxitekturalar (masalan, alohida obyektli tugunlar) rad etiladi.",
+   "explanation_en": "S3 object access must be provided natively by the storage controllers themselves, without a separate object platform. The same system must also offer block (FC), file and object access, all-NVMe disks, virtual storage partitions, a geo-distributed cluster and AIX support. This combination may narrow the field to very few vendors and rules out alternative architectures (for example dedicated object nodes) that serve the same goal.",
+   "rewrite_uz": "S3 funksiyalari yagona boshqaruv va yagona kafolat doirasida taqdim etilishi kifoya, amalga oshirish usuli (kontrollerlarda yoki alohida tugunlarda) ishtirokchi tanloviga qoldirilsin; talablar uchun \"yoki ekvivalent\" ruxsatini qo'shing.",
+   "rewrite_en": "It is enough that S3 functions are delivered under one management interface and one warranty; leave the implementation (on controllers or on separate nodes) to the bidder and add 'or equivalent'.",
+   "type_label_uz": "Haddan tashqari tor texnik parametrlar",
+   "type_label_en": "Over-narrow technical parameters",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 53,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 44,
+  "history_penalty": 3.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Lot hajmiga nomutanosib moliyaviy talab (49-bet): Moliyaviy holat shakli (4-shakl) 2023-2025 yillarni qamraydi va zarar ko'rilgan holatda ishtirokchi chetlatiladi; hujjatda zararning chegarasi (necha yil, qancha miqdor) ko'rsatilmagan. Lot narxi 53 232 724 765 so'm bo'lgani uchun moliyaviy barqarorlikni tekshirish o'rinli, lekin bitta zarar yili tufayli chetlatish ijro qobiliyatiga ega, ammo yaqinda yo'qotish ko'rgan ta'minotchilarni (masalan, yangi yoki o'sib borayotgan kompaniyalarni) chiqarib yuborishi mumkin.",
+   "Haddan tashqari tor texnik parametrlar (14-bet): S3 obyektli kirish alohida obyektli platformasiz, aynan saqlash tizimi kontrollerlarining o'zida tabiiy ta'minlanishi talab qilinadi. Shu bilan birga bir xil tizim blok (FC), fayl va obyekt kirishini, NVMe disklarni, virtual saqlash tizimlariga bo'linishni, geografik taqsimlangan klasterni va AIX qo'llab-quvvatlashini bir vaqtning o'zida talab qiladi. Bunday kombinatsiya ishlab chiqaruvchilar doirasini juda torayishi mumkin; yagona maqsadni bajaruvchi muqobil arxitekturalar (masalan, alohida obyektli tugunlar) rad etiladi.",
+   "Buyurtmachining so'nggi 249 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 39% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 5%.",
+   "Tushuntirish so'rash muddati: 02.12.2026 18:38.",
+   "Diqqat: hujjatning 4 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Financial demand out of proportion to the lot (page 49): The financial form (Form 4) covers 2023-2025 and a bidder with losses is excluded, but the document does not say how many loss years or what size of loss counts. For a lot of 53,232,724,765 UZS a financial check is reasonable, yet excluding any bidder with a loss may shut out capable suppliers (for example new or fast-growing companies) that had a single weak year.",
+   "Over-narrow technical parameters (page 14): S3 object access must be provided natively by the storage controllers themselves, without a separate object platform. The same system must also offer block (FC), file and object access, all-NVMe disks, virtual storage partitions, a geo-distributed cluster and AIX support. This combination may narrow the field to very few vendors and rules out alternative architectures (for example dedicated object nodes) that serve the same goal.",
+   "In the customer's last 249 deals the median number of bidders was 3; 39% of deals had two or fewer bidders; the most frequent winner took 5%.",
+   "Clarification requests are accepted until 02.12.2026 18:38.",
+   "Note: 4 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "1-shakl: xarid komissiyasi raisiga tenderda qatnashish uchun ariza",
+  "Tashkilotning davlat ro'yxatidan o'tganligi to'g'risidagi guvohnoma nusxasi",
+  "2-shakl: kafolat maktubi",
+  "3-shakl: tender ishtirokchisi haqida umumiy ma'lumot",
+  "4-shakl: moliyaviy holat to'g'risida ma'lumot (2023-2025 yillar, rus tilida)",
+  "5-shakl: halollik va manfaatlar to'qnashuvi yo'qligi to'g'risidagi bayonot",
+  "Soliq va yig'imlar bo'yicha muddati o'tgan qarzdorlik yo'qligi to'g'risida vakolatli organ ma'lumotnomasi (norezidentlar uchun bank ma'lumotnomasi)",
+  "6-shakl: texnik topshiriqqa muvofiqlik va texnik xususiyatlarning qiyosiy jadvali, texnik hujjatlar (risola, pasport, yo'riqnoma)",
+  "Ishlab chiqaruvchining rasmiy vakolat hujjati (MAF)",
+  "Ishlab chiqaruvchining O'zbekistondagi vakolatli servis markazi yoki ehtiyot qismlar ombori to'g'risida ma'lumot",
+  "Kamida 5 yillik TCO (egalik umumiy qiymati) usullari bo'yicha ma'lumot",
+  "Litsenziyalash tartibi va shartlari to'g'risida ma'lumot",
+  "Xizmatlar va obunalar to'g'risida ma'lumot",
+  "Taklif ta'minoti (boshlang'ich narxning 1 foizi)",
+  "1-shaklga muvofiq rasmiylashtiriladi. Hujjat mavjud bo‘lmasa yoki talablarga mos kelmasa, ishtirokchi keyingi bosqichga qo‘yilmaydi",
+  "Hujjat yo‘qligi yoki talabga mos kelmasligi holatida, ishtirokchi keyingi bosqichga o‘tkazilmaydi",
+  "Hujjat mavjud bo‘lmaganda yoki talabga muvofiq bo‘lmaganda, ishtirokchi 2-shaklga muvofiq rasmiylashtiriladi. Hujjat mavjud bo‘lmasa yoki talabga javob bermasa, ishtirokchi keyingi bosqichga o‘tkazilmaydi",
+  "3-shaklga muvofiq rasmiylashtiriladi Ilovada ko‘rsatilgan shaklda hujjat taqdim etilmasa yoki barcha bandlar to‘liq to‘ldirilmagan bo‘lsa, ishtirokchi keyingi bosqichga o‘tkazilmaydi",
+  "4-shaklga muvofiq rasmiylashtiriladi Agar taqdim etilmagan bo‘lsa yoki ishtirokchining so‘nggi 3 yildagi moliyaviy ko‘rsatkichlari zarar bilan yakunlangan bo‘lsa, Xarid komissiyasi ishtirokchini musobaqadan chetlatadi",
+  "5-shaklga muvofiq rasmiylashtiriladi Ilovada ko‘rsatilgan shakl bo‘yicha hujjat taqdim etilmasa yoki barcha bandlar to‘liq to‘ldirilmagan bo‘lsa, Ishtirokchi keyingi bosqichga o‘tkazilmaydi",
+  "- - Rezidentlar uchun: vakolatli organning soliqlar va yig‘imlarni to‘lash bo‘yicha muddati o‘tgan qarzdorlik yo‘qligi haqidagi ma’lumotnomasi; - - Norezidentlar uchun xizmat ko‘rsatuvchi bankning soliqlar va yig‘imlarni to‘lash bo‘yicha muddati o‘tgan qarzdorlik yo‘qligi haqidagi ma’lumotnomasi. Soliqlar va yig‘imlarni to‘lash bo‘yicha muddati o‘tgan qarzdorlik mavjud bo‘lsa, ishtirokchi tenderda qatnashishdan chetlashtiriladi. Hujjat taqdim etilmagan taqdirda, Ishtirokchi keyingi bosqichga o‘tkazilmaydi",
+  "6-son shaklga muvofiq rasmiylashtiriladi va 6-son shaklga ilovaga muvofiq texnik xususiyatlarning qiyosiy jadvali taqdim etiladi. Hujjatlarning to‘liq to‘plami taqdim etilmagan hollarda (jumladan, faqat 6-son shakl qiyosiy jadvalsiz yoki faqat qiyosiy jadval 6-son shaklsiz taqdim etilganda), shuningdek, noto‘g‘ri ma’lumotlar yoki minimal talablarga nomuvofiqlik aniqlanganda, Ishtirokchi keyingi bosqichga o‘tkazilmaydi",
+  "O‘zbekiston Respublikasi hududida uskunalar ishlab chiqaruvchisi tomonidan vakolatli servis markazlari va/yoki ehtiyot qismlar omborlari mavjudligi to‘g‘risidagi ma’lumot. Zarur hujjatlar bo‘lmagan taqdirda, Ishtirokchi keyingi bosqichga o‘tkazilmaydi",
+  "TCO (Total Cost of Ownership – egalik qilishning umumiy qiymati) darajasiga erishish usullari bo’yicha ma’lumot. Zarur hujjatlar bo‘lmagan taqdirda, Ishtirokchi keyingi bosqichga o‘tkazilmaydi",
+  "Litsenziyalash tartibi va shartlari boʻyicha ma’lumot (to‘lovni undirish tartibi, taqdim etiladigan litsenziyalar turlari – muddatli/muddatsiz, ma’lum miqdordagi foydalanuvchilar va/yoki cheklanmagan miqdordagi foydalanuvchilar uchun va h.k.). Zarur hujjatlar bo‘lmagan taqdirda, Ishtirokchi keyingi bosqichga o‘tkazilmaydi"
+ ],
+ "clarification_letter_uz": "Kimga: \"O`ZBEKISTON SANOAT-QURILISH BANK\" ATB, xarid komissiyasiga\nLot raqami: 26121006523646\nXarid predmeti: Avtomatlashtirilgan bank tizimi uchun obyektli ma’lumotlarni saqlash tizimini joriy etish.\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 49-bet.\n   Hujjatdagi matn: «ishtirokchining so‘nggi 3 yildagi moliyaviy ko‘rsatkichlari zarar bilan yakunlangan bo‘lsa, Xarid komissiyasi ishtirokchini musobaqadan chetlatadi»\n   Savolimiz: Moliyaviy holat shakli (4-shakl) 2023-2025 yillarni qamraydi va zarar ko'rilgan holatda ishtirokchi chetlatiladi; hujjatda zararning chegarasi (necha yil, qancha miqdor) ko'rsatilmagan. Lot narxi 53 232 724 765 so'm bo'lgani uchun moliyaviy barqarorlikni tekshirish o'rinli, lekin bitta zarar yili tufayli chetlatish ijro qobiliyatiga ega, ammo yaqinda yo'qotish ko'rgan ta'minotchilarni (masalan, yangi yoki o'sib borayotgan kompaniyalarni) chiqarib yuborishi mumkin.\n   Taklif etilayotgan tahrir: Moliyaviy talabni aniq ko'rsatkich bilan almashtiring (masalan, oxirgi yilda sof aktivlar musbat bo'lishi yoki oxirgi 3 yil uchun jami foyda zarar ko'rinishida bo'lmasligi) yoki ijro qobiliyatini boshqa tasdiq (bank kafolati) bilan ko'rsatishga ruxsat bering.\n\n2. Texnik topshiriq, 14-bet.\n   Hujjatdagi matn: «alohida obyektli platformadan foydalanmasdan, ma’lumotlarni saqlash tizimi kontrollerlari tomonidan native (o‘rnatilgan) tarzda ta’minlanishi lozim»\n   Savolimiz: S3 obyektli kirish alohida obyektli platformasiz, aynan saqlash tizimi kontrollerlarining o'zida tabiiy ta'minlanishi talab qilinadi. Shu bilan birga bir xil tizim blok (FC), fayl va obyekt kirishini, NVMe disklarni, virtual saqlash tizimlariga bo'linishni, geografik taqsimlangan klasterni va AIX qo'llab-quvvatlashini bir vaqtning o'zida talab qiladi. Bunday kombinatsiya ishlab chiqaruvchilar doirasini juda torayishi mumkin; yagona maqsadni bajaruvchi muqobil arxitekturalar (masalan, alohida obyektli tugunlar) rad etiladi.\n   Taklif etilayotgan tahrir: S3 funksiyalari yagona boshqaruv va yagona kafolat doirasida taqdim etilishi kifoya, amalga oshirish usuli (kontrollerlarda yoki alohida tugunlarda) ishtirokchi tanloviga qoldirilsin; talablar uchun \"yoki ekvivalent\" ruxsatini qo'shing.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (02.12.2026 18:38) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 249,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3855,
+  "top_winner_share": 0.0522,
+  "share_price_drop_lt1pct": 0.1847,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 7505814191.87,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 21.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

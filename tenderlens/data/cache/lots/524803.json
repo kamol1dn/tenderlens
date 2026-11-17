@@ -1,0 +1,222 @@
+{
+ "lot_id": 524803,
+ "display_no": "26110012524803",
+ "title": "Уйчи туманидаги 21 - умумий ўрта таълим мактабига фаоллар зали қуриш Топосёмка ишларини бажариш",
+ "url": "https://etender.uzex.uz/lot/524803",
+ "customer": {
+  "name": "Наманган вилояти капитал курилиш сохасида буюртмачи хизмати (ДУК)",
+  "tin": "204808298"
+ },
+ "region": "Наманган вилояти",
+ "start_cost": 4200000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T17:38:11",
+ "end_date": "2026-11-23T17:38:11",
+ "clarific_date": "2026-11-23T17:38:11",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 60,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524803.pdf",
+  "pages": 3,
+  "text_source": "text",
+  "language": "uz-cyrl",
+  "unreadable_pages": [
+   1
+  ]
+ },
+ "subject_uz": "Uychi tumanidagi 21-umumiy o'rta ta'lim maktabida faollar zali qurilishi uchun topografik s'yomka ishlari",
+ "sector": "construction",
+ "customer_sector": "education",
+ "customer_kind": "budget",
+ "financing_source": "Бюджет маблағи",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "S'yomka amaldagi shaharsozlik normalari, qurilish me'yorlari va geodezik ishlarga oid normativ hujjatlar talablariga muvofiq bajarilishi kerak.",
+   "summary_en": "The survey must follow the current urban-planning norms, building codes and geodetic regulations.",
+   "quote": "Топографик съёмка амалдаги шаҳарсозлик нормалари, қурилиш меъёрлари ва геодезик ишларга оид норматив ҳужжатлар талабларига мувофиқ бажарилиши лозим.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Er osti muhandislik kommunikatsiyalari mavjud ijro chizmalari, tegishli tashkilotlar ma'lumotlari va zarur bo'lsa joyida tekshiruv asosida planga kiritiladi.",
+   "summary_en": "Underground utilities are shown on the plan from existing as-built drawings, utility owners' data and, where needed, on-site checks.",
+   "quote": "Ер ости муҳандислик коммуникациялари тўғрисидаги маълумотлар мавжуд ижро чизмалари, тегишли ташкилотлар маълумотлари ва зарур ҳолларда жойидаги текширув натижалари асосида киритилади.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Natijada belgilangan masshtabdagi topografik plan, elektron nusxa, koordinatalar va texnik hisobot tayyorlanadi.",
+   "summary_en": "Deliverables include a topographic plan at the set scale, an electronic copy, coordinate data and a technical report.",
+   "quote": "Бажарилган топографик съёмка ишлари натижасида қуйидаги ҳужжатлар тайёрланиши лозим:",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "delivery",
+   "summary_uz": "Natijalar buyurtmachiga qog'oz va elektron shaklda topshiriladi.",
+   "summary_en": "Results are handed to the customer on paper and in electronic form.",
+   "quote": "Иш натижалари буюртмачига қоғоз ва электрон шаклда тақдим этилади.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Elektron plan PDF hamda DWG yoki DXF formatida beriladi.",
+   "summary_en": "The electronic plan is supplied as PDF plus DWG or DXF.",
+   "quote": "Топографик план электрон шаклда PDF ҳамда лойиҳалашда фойдаланиш имконини берувчи DWG ёки DXF форматларида тақдим этилади.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "delivery",
+   "summary_uz": "Bajarish muddati shartnoma shartlariga ko'ra belgilanadi (hudud maydoni va murakkabligi hisobga olinadi).",
+   "summary_en": "The completion time is set in the contract, taking site area and complexity into account.",
+   "quote": "Топографик съёмка ишларини бажариш муддати шартнома шартларига мувофиқ белгиланади.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "other",
+   "summary_uz": "Buyurtmachi aniqlagan kamchiliklar shartnomada belgilangan tartibda ijrochi tomonidan bartaraf etiladi.",
+   "summary_en": "Defects found by the customer are fixed by the contractor as set out in the contract.",
+   "quote": "Буюртмачи томонидан аниқланган камчиликлар ва техник топшириқ талабларига номувофиқликлар ижрочи томонидан шартномада белгиланган тартибда бартараф этилади.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Ball beriladigan mezonlardan biri: so'nggi uch yilda bajarilgan ish tajribasi (4-shakl).",
+   "summary_en": "One scored criterion is work experience over the last three years (form 4).",
+   "quote": "Tanlash ishtirokchisining oxirgi uch yilda bajargan ish tajribasi (4-shakl)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Ball beriladigan mezonlardan biri: loyiha-smeta hujjatlarini tayyorlashda foydalaniladigan orgtexnika va mexanizmlar ro'yxati (6-shakl).",
+   "summary_en": "One scored criterion is the list of office equipment and machinery used (form 6).",
+   "quote": "foydalanadigan orgtexnika va mexanizmlari ro‘yxati (6-shakl)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "qualification",
+   "summary_uz": "Soliqlar va yig'imlar bo'yicha muddati o'tgan qarzdorlik bo'lmasligi kerak.",
+   "summary_en": "The bidder must have no overdue tax or levy debt.",
+   "quote": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 96,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 4.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 65 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 55% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 22%.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 65 deals the median number of bidders was 2; 55% of deals had two or fewer bidders; the most frequent winner took 22%.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Tanlash ishtirokchisi to'g'risida umumiy ma'lumot (1-shakl)",
+  "Umumiy axborot (2-shakl)",
+  "Ishtirokchining moliyaviy holati (3-shakl)",
+  "So'nggi uch yilda bajarilgan ish tajribasi (4-shakl)",
+  "Loyihani yakunlash va o'z vaqtida topshirish bo'yicha kafolat xati (5-shakl)",
+  "Orgtexnika va mexanizmlar ro'yxati (6-shakl)",
+  "Soliq qarzdorligi yo'qligi to'g'risida ma'lumotnoma",
+  "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi to'g'risida ma'lumot",
+  "зарур"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 65,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.5538,
+  "top_winner_share": 0.2154,
+  "share_price_drop_lt1pct": 0.0462,
+  "reannounced_lots": 3
+ },
+ "money_on_table_uzs": 572880.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

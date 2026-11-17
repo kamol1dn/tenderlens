@@ -1,0 +1,302 @@
+{
+ "lot_id": 510100,
+ "display_no": "26110012510100",
+ "title": "Олмазор туманидаги “OLMAZOR GARDEN” гул етиштириш иссиқхонасида жойлашган қуёш панелининг дастурий таъминотини таъмирлаш ва қўллаб-қувватлаш хизмати",
+ "url": "https://etender.uzex.uz/lot/510100",
+ "customer": {
+  "name": "Олмазор туман Ободонлаштириш Бошкармаси.",
+  "tin": "200845920"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 19000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T12:44:38",
+ "end_date": "2026-11-23T12:44:38",
+ "clarific_date": "2026-11-23T12:44:38",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 100,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 100.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/510100.pdf",
+  "pages": 44,
+  "text_source": "text",
+  "language": "uz-cyrl",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Olmazor GARDEN issiqxonasidagi quyosh panelining dasturiy ta'minotini ta'mirlash va qo'llab-quvvatlash xizmati",
+ "sector": "it",
+ "customer_sector": "other",
+ "customer_kind": "unknown",
+ "financing_source": "Маҳаллий бюджет",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "delivery",
+   "summary_uz": "Ishlarni tugallash muddati 20 kun.",
+   "summary_en": "Work must be completed in 20 days.",
+   "quote": "Ишларни тугаллаш муддати –20 (ўн) кун.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "payment",
+   "summary_uz": "Shartnoma qiymatining 30 foizi avans sifatida to'lanadi.",
+   "summary_en": "30 percent of the contract value is paid as an advance.",
+   "quote": "шартнома қийматининг 30% миқдорида бўнак (аванс) маблағи бажарувчи",
+   "page": 19,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi doimiy muhandis-texnik xodimlarga (bosh muhandis, bosh arxitektor va boshqalar) ega bo'lishi kerak.",
+   "summary_en": "The bidder must have permanent engineering staff (chief engineer, chief architect and others).",
+   "quote": "доимий ходимлари, жумладан мухандис-техник ходимларига (лойиҳа бош мухандиси, лойиҳа бош архитектори ва бошқа мутахассисларга)",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchining o'z aylanma mablag'i bilan ta'minlanganlik koeffitsiyenti kamida 0,2 bo'lishi kerak.",
+   "summary_en": "The bidder's own working-capital ratio must be at least 0.2.",
+   "quote": "ўз айланма маблағи билан таъминланганлиги (кўрсаткич 0,2 коэффициентдан кам бўлмаган)",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "To'lovga qodirlik koeffitsiyenti kamida 1,25 bo'lishi kerak.",
+   "summary_en": "The solvency ratio must be at least 1.25.",
+   "quote": "тўловга қодирлиги (кўрсаткич 1,25 коэффициентдан кам бўлмаган)",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Boshlang'ich narxning 20 foizi miqdorida aylanma mablag' borligi bank ma'lumotnomasi bilan tasdiqlanishi kerak.",
+   "summary_en": "Working capital of 20 percent of the start price must be confirmed by a bank certificate.",
+   "quote": "Объектнинг буюртмачи белгилаган бошланғич нархининг 20 % миқдоридаги айланма маблағлар мавжудлиги",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Tanlov ob'ektiga o'xshash ob'ektlarda ish tajribasi bo'lishi kerak (oxirgi 3 yil).",
+   "summary_en": "Experience on similar objects (last 3 years) is required.",
+   "quote": "танлов объектига ўхшаш объектларда ишлаганлик тажрибаси мавжудлиги;",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchida soliq qarzi bo'lmasligi va insofsiz ijrochilar reestrida qayd etilmagan bo'lishi kerak.",
+   "summary_en": "No tax debt and no entry in the register of unfair suppliers.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "technical",
+   "summary_uz": "Texnik topshiriqqa ko'ra hujjatlar davlat ekspertizasidan o'tkazilib, ekspertiza xulosasi bilan topshiriladi.",
+   "summary_en": "Per the technical task, documents must pass state expertise and be handed over with the expertise conclusion.",
+   "quote": "Жорий таъмирлаш ишлари хужжатлари ушбу топшириқ талабларига биноан ишлаб чиқилади ва лойиҳа ташкилоти томонидан давлат экспертизасидан ўтказилиб",
+   "page": 38,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "technical",
+   "summary_uz": "Loyiha-smeta hujjatlari 3 nusxada va amaldagi standartlarga muvofiq rasmiylashtirilishi kerak.",
+   "summary_en": "Project-estimate documents must be produced in 3 copies in line with current standards.",
+   "quote": "Лойиҳа-смета хужжатлари 3 нусхада ва амалдаги стандартлар бўйича",
+   "page": 38,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "qualification",
+   "summary_uz": "Bajariladigan ishlarga litsenziya talab etiladi.",
+   "summary_en": "A licence is required for the work performed.",
+   "quote": "Бажариладиган ишларга лицензия талаб",
+   "page": 18,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "irrelevant_requirement",
+   "severity": "high",
+   "quote": "5 йил иш стажига эга дипломли 1 та лойиҳа бош архитекторини мавжудлиги.",
+   "page": 35,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Quyosh panelining dasturiy ta'minotini ta'mirlash uchun bosh arxitektor, arxitektura va qurilish bo'yicha mutaxassislar hamda bosh muhandis uchun ball beriladi. Tanlov hujjatlari loyiha-smeta ishlari shablonidan olingan ko'rinadi; shu sababli dasturiy ta'minot xizmatini yaxshi bajara oladigan kompaniya ballarni yo'qotishi yoki rad etilishi mumkin. Platformadagi shaklda texnik ball 0 foiz ko'rsatilgan, bu ikki hujjat o'rtasidagi nomuvofiqlikni ham aniqlashtirish kerak.",
+   "explanation_en": "Points are given for a chief architect, architecture and construction specialists and a chief engineer, although the work is repair of solar-panel software. The tender document appears to come from a design-estimate template, so a capable software company could lose points or be rejected. The platform form shows 0 percent technical weight, so the mismatch between the two should also be clarified.",
+   "rewrite_uz": "Dasturiy ta'minot va quyosh energetikasi tizimlari bo'yicha kamida 3 yillik tajribaga ega mutaxassis (dasturchi yoki tizim muhandisi) mavjudligi.",
+   "rewrite_en": "Availability of a specialist (software developer or systems engineer) with at least 3 years of experience in software and solar energy systems.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "Лойиҳани бажариш учун зарур бўлган 10 бирликдан кам бўлмаган моддий-техник воситалари (компьютер, принтер, плоттер ва ҳ.к.)нинг мавжудлиги",
+   "page": 35,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Hujjatda 36-72 kv.m dan ortiq xona va kamida 10 birlik jihoz (jumladan plotter) mavjudligi uchun 20 ballgacha beriladi. Dasturiy ta'minotni masofadan ta'mirlaydigan kichik jamoa uchun bunday talab ortiqcha bo'lishi mumkin va ular ballarni yo'qotadi.",
+   "explanation_en": "The document gives up to 20 points for premises of 36-72 sq m or more and at least 10 units of equipment (including a plotter). A small team that repairs software remotely may not need this and would lose points.",
+   "rewrite_uz": "Xizmatni ko'rsatish uchun zarur dasturiy va texnik vositalarning (kompyuter, dasturiy ta'minot, aloqa vositalari) mavjudligi.",
+   "rewrite_en": "Availability of the software and technical means needed to provide the service (computers, software, communication tools).",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "Асосий воситаларнинг қолдиқ қиймати 100 млн. сўм ва ундан кўп.",
+   "page": 35,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Boshlang'ich narxi 19 mln so'm bo'lgan lot uchun asosiy vositalarning qoldiq qiymati kamida 100 mln so'm va o'tgan yil foydasi 20 mln so'm bo'lishi uchun ball beriladi. Bu talablar lot hajmidan ancha yuqori va yosh yoki kichik kompaniyalarni ballsiz qoldirishi mumkin.",
+   "explanation_en": "For a lot with a start price of 19 million UZS, points are given for fixed assets of at least 100 million UZS and a prior-year profit of 20 million UZS. These are well above the lot value and may cost young or small companies points.",
+   "rewrite_uz": "Ishtirokchining moliyaviy barqarorligi: muddati o'tgan kreditorlik qarzi yo'qligi va lot narxining 20 foizi miqdorida aylanma mablag'ga egaligi.",
+   "rewrite_en": "Financial stability of the bidder: no overdue payables and working capital of 20 percent of the lot price.",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f4",
+   "type": "irrelevant_requirement",
+   "severity": "high",
+   "quote": "Жорий таъмирлаш ишлари хужжатлари ушбу топшириқ талабларига биноан ишлаб чиқилади ва лойиҳа ташкилоти томонидан давлат экспертизасидан ўтказилиб",
+   "page": 38,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Texnik topshiriq quyosh panelining dasturiy ta'minoti haqida emas, balki joriy ta'mirlash loyiha-smeta hujjatlari, davlat ekspertizasi va yo'l ko'rsatkichlari (SHNQ) haqida. Ishtirokchi aynan nima bajarilishi va qanday narxlanishini aniq tushunishi qiyin, bu esa kompaniyalarni qatnashishdan to'sishi mumkin.",
+   "explanation_en": "The technical task is not about solar-panel software but about current-repair design-estimate documents, state expertise and road indicators. A bidder cannot tell exactly what must be delivered or priced, which may discourage capable companies from bidding.",
+   "rewrite_uz": "Texnik topshiriqda dasturiy ta'minotni ta'mirlash va qo'llab-quvvatlash ishlarining ro'yxati, hajmi, muddati va natijaviy hujjatlari ko'rsatilsin.",
+   "rewrite_en": "The technical task should list the software repair and support work, its scope, timing and the output documents.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f5",
+   "type": "irrelevant_requirement",
+   "severity": "low",
+   "quote": "Бажариладиган ишларга лицензия талаб",
+   "page": 18,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Qanday litsenziya talab etilishi ko'rsatilmagan. Dasturiy ta'minotni ta'mirlash va qo'llab-quvvatlash uchun odatda alohida litsenziya kerak bo'lmasligi mumkin, shu sababli bir aniqlashtiruvchi savol berish foydali.",
+   "explanation_en": "The licence is not named. Software repair and support may not need a separate licence, so one clarifying question is worthwhile.",
+   "rewrite_uz": "Agar bajariladigan ishlar uchun qonunchilikka ko'ra litsenziya talab etilsa, uning nomi va turi aniq ko'rsatilsin.",
+   "rewrite_en": "If a licence is required for the work under the law, its name and type should be stated explicitly.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 15,
+ "traffic_light": "red",
+ "finding_count": 5,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 85,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (35-bet): Quyosh panelining dasturiy ta'minotini ta'mirlash uchun bosh arxitektor, arxitektura va qurilish bo'yicha mutaxassislar hamda bosh muhandis uchun ball beriladi. Tanlov hujjatlari loyiha-smeta ishlari shablonidan olingan ko'rinadi; shu sababli dasturiy ta'minot xizmatini yaxshi bajara oladigan kompaniya ballarni yo'qotishi yoki rad etilishi mumkin. Platformadagi shaklda texnik ball 0 foiz ko'rsatilgan, bu ikki hujjat o'rtasidagi nomuvofiqlikni ham aniqlashtirish kerak.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (35-bet): Hujjatda 36-72 kv.m dan ortiq xona va kamida 10 birlik jihoz (jumladan plotter) mavjudligi uchun 20 ballgacha beriladi. Dasturiy ta'minotni masofadan ta'mirlaydigan kichik jamoa uchun bunday talab ortiqcha bo'lishi mumkin va ular ballarni yo'qotadi.",
+   "Lot hajmiga nomutanosib moliyaviy talab (35-bet): Boshlang'ich narxi 19 mln so'm bo'lgan lot uchun asosiy vositalarning qoldiq qiymati kamida 100 mln so'm va o'tgan yil foydasi 20 mln so'm bo'lishi uchun ball beriladi. Bu talablar lot hajmidan ancha yuqori va yosh yoki kichik kompaniyalarni ballsiz qoldirishi mumkin.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (38-bet): Texnik topshiriq quyosh panelining dasturiy ta'minoti haqida emas, balki joriy ta'mirlash loyiha-smeta hujjatlari, davlat ekspertizasi va yo'l ko'rsatkichlari (SHNQ) haqida. Ishtirokchi aynan nima bajarilishi va qanday narxlanishini aniq tushunishi qiyin, bu esa kompaniyalarni qatnashishdan to'sishi mumkin.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (18-bet): Qanday litsenziya talab etilishi ko'rsatilmagan. Dasturiy ta'minotni ta'mirlash va qo'llab-quvvatlash uchun odatda alohida litsenziya kerak bo'lmasligi mumkin, shu sababli bir aniqlashtiruvchi savol berish foydali.",
+   "Tushuntirish so'rash muddati: 23.11.2026 12:44."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Requirement unrelated to the subject of the purchase (page 35): Points are given for a chief architect, architecture and construction specialists and a chief engineer, although the work is repair of solar-panel software. The tender document appears to come from a design-estimate template, so a capable software company could lose points or be rejected. The platform form shows 0 percent technical weight, so the mismatch between the two should also be clarified.",
+   "Requirement unrelated to the subject of the purchase (page 35): The document gives up to 20 points for premises of 36-72 sq m or more and at least 10 units of equipment (including a plotter). A small team that repairs software remotely may not need this and would lose points.",
+   "Financial demand out of proportion to the lot (page 35): For a lot with a start price of 19 million UZS, points are given for fixed assets of at least 100 million UZS and a prior-year profit of 20 million UZS. These are well above the lot value and may cost young or small companies points.",
+   "Requirement unrelated to the subject of the purchase (page 38): The technical task is not about solar-panel software but about current-repair design-estimate documents, state expertise and road indicators. A bidder cannot tell exactly what must be delivered or priced, which may discourage capable companies from bidding.",
+   "Requirement unrelated to the subject of the purchase (page 18): The licence is not named. Software repair and support may not need a separate licence, so one clarifying question is worthwhile.",
+   "Clarification requests are accepted until 23.11.2026 12:44."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi, ustav va litsenziya nusxalari",
+  "Soliq qarzi yo'qligi haqida DSI ma'lumotnomasi",
+  "QQS to'lovchisi sifatida ro'yxatdan o'tganligi haqida DSI ma'lumotnomasi",
+  "Oxirgi 3 yillik balans va moliyaviy natijalar hisoboti",
+  "Aylanma mablag' mavjudligi haqida bank ma'lumotnomasi",
+  "Tanlov ishtirokchisi haqida umumiy ma'lumotlar (2-shakl)",
+  "Xodimlarning diplom nusxalari, ishga qabul qilish buyruqlari va mehnat daftarchalari",
+  "Ishchi xodimlar soni va ish haqi fondi bo'yicha hisobot nusxalari",
+  "O'xshash ob'ektlarda oxirgi 3 yillik tajriba (5-shakl) va bajarilgan ishlar dalolatnomalari",
+  "Xonalar va moddiy-texnik vositalar ro'yxati (6-shakl), ijara shartnomasi yoki kadastr hujjati",
+  "Boshqa joriy shartnomalar haqida ma'lumot (7-shakl)",
+  "Bank kafolati yoki buyurtmani ta'minlash to'lovi (1-shakl)",
+  "Ishlarni bajarish va moliyalashtirish grafigi, ish hajmlari ro'yxati (1-4 ilovalar)"
+ ],
+ "clarification_letter_uz": "Kimga: Олмазор туман Ободонлаштириш Бошкармаси., xarid komissiyasiga\nLot raqami: 26110012510100\nXarid predmeti: Олмазор туманидаги “OLMAZOR GARDEN” гул етиштириш иссиқхонасида жойлашган қуёш панелининг дастурий таъминотини таъмирлаш ва қўллаб-қувватлаш хизмати\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 35-bet.\n   Hujjatdagi matn: «5 йил иш стажига эга дипломли 1 та лойиҳа бош архитекторини мавжудлиги.»\n   Savolimiz: Quyosh panelining dasturiy ta'minotini ta'mirlash uchun bosh arxitektor, arxitektura va qurilish bo'yicha mutaxassislar hamda bosh muhandis uchun ball beriladi. Tanlov hujjatlari loyiha-smeta ishlari shablonidan olingan ko'rinadi; shu sababli dasturiy ta'minot xizmatini yaxshi bajara oladigan kompaniya ballarni yo'qotishi yoki rad etilishi mumkin. Platformadagi shaklda texnik ball 0 foiz ko'rsatilgan, bu ikki hujjat o'rtasidagi nomuvofiqlikni ham aniqlashtirish kerak.\n   Taklif etilayotgan tahrir: Dasturiy ta'minot va quyosh energetikasi tizimlari bo'yicha kamida 3 yillik tajribaga ega mutaxassis (dasturchi yoki tizim muhandisi) mavjudligi.\n\n2. Texnik topshiriq, 35-bet.\n   Hujjatdagi matn: «Лойиҳани бажариш учун зарур бўлган 10 бирликдан кам бўлмаган моддий-техник воситалари (компьютер, принтер, плоттер ва ҳ.к.)нинг мавжудлиги»\n   Savolimiz: Hujjatda 36-72 kv.m dan ortiq xona va kamida 10 birlik jihoz (jumladan plotter) mavjudligi uchun 20 ballgacha beriladi. Dasturiy ta'minotni masofadan ta'mirlaydigan kichik jamoa uchun bunday talab ortiqcha bo'lishi mumkin va ular ballarni yo'qotadi.\n   Taklif etilayotgan tahrir: Xizmatni ko'rsatish uchun zarur dasturiy va texnik vositalarning (kompyuter, dasturiy ta'minot, aloqa vositalari) mavjudligi.\n\n3. Texnik topshiriq, 35-bet.\n   Hujjatdagi matn: «Асосий воситаларнинг қолдиқ қиймати 100 млн. сўм ва ундан кўп.»\n   Savolimiz: Boshlang'ich narxi 19 mln so'm bo'lgan lot uchun asosiy vositalarning qoldiq qiymati kamida 100 mln so'm va o'tgan yil foydasi 20 mln so'm bo'lishi uchun ball beriladi. Bu talablar lot hajmidan ancha yuqori va yosh yoki kichik kompaniyalarni ballsiz qoldirishi mumkin.\n   Taklif etilayotgan tahrir: Ishtirokchining moliyaviy barqarorligi: muddati o'tgan kreditorlik qarzi yo'qligi va lot narxining 20 foizi miqdorida aylanma mablag'ga egaligi.\n\n4. Texnik topshiriq, 38-bet.\n   Hujjatdagi matn: «Жорий таъмирлаш ишлари хужжатлари ушбу топшириқ талабларига биноан ишлаб чиқилади ва лойиҳа ташкилоти томонидан давлат экспертизасидан ўтказилиб»\n   Savolimiz: Texnik topshiriq quyosh panelining dasturiy ta'minoti haqida emas, balki joriy ta'mirlash loyiha-smeta hujjatlari, davlat ekspertizasi va yo'l ko'rsatkichlari (SHNQ) haqida. Ishtirokchi aynan nima bajarilishi va qanday narxlanishini aniq tushunishi qiyin, bu esa kompaniyalarni qatnashishdan to'sishi mumkin.\n   Taklif etilayotgan tahrir: Texnik topshiriqda dasturiy ta'minotni ta'mirlash va qo'llab-quvvatlash ishlarining ro'yxati, hajmi, muddati va natijaviy hujjatlari ko'rsatilsin.\n\n5. Texnik topshiriq, 18-bet.\n   Hujjatdagi matn: «Бажариладиган ишларга лицензия талаб»\n   Savolimiz: Qanday litsenziya talab etilishi ko'rsatilmagan. Dasturiy ta'minotni ta'mirlash va qo'llab-quvvatlash uchun odatda alohida litsenziya kerak bo'lmasligi mumkin, shu sababli bir aniqlashtiruvchi savol berish foydali.\n   Taklif etilayotgan tahrir: Agar bajariladigan ishlar uchun qonunchilikka ko'ra litsenziya talab etilsa, uning nomi va turi aniq ko'rsatilsin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (23.11.2026 12:44) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 0,
+  "median_bidders": 0,
+  "share_le2_bidders": 0.0,
+  "top_winner_share": 0.0,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 2591600.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:02+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,210 @@
+{
+ "lot_id": 523797,
+ "display_no": "26120012523797",
+ "title": "Ustyurt GQChB uchun elektr yuritmasiga ega membranali-plunjerli nasos agregatini xarid qilish/ Закупка мембранно-плунжерного насосного агрегата с электроприводом для Устюртского ГДУ",
+ "url": "https://etender.uzex.uz/lot/523797",
+ "customer": {
+  "name": "\"O'ZBEKNEFTGAZ\" AJ",
+  "tin": "200837914"
+ },
+ "region": "Қорақалпоғистон Республикаси",
+ "start_cost": 1620306692.48,
+ "currency": "UZS",
+ "start_date": "2026-11-11T16:57:26",
+ "end_date": "2026-11-18T16:57:26",
+ "clarific_date": "2026-11-18T16:57:26",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 30,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолат бўйича талаблар (муддати, жойи)",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523797.zip",
+  "pages": 27,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Ustyurt gaz qazib chiqarish boshqarmasi uchun elektr yuritmali membranali-plunjerli nasos agregatini (2 to'plam) xarid qilish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "\"O'zbekneftgaz\" AJning o'z mablag'lari hisobidan. / Собственные средства АО \"Узбекнефтегаз\"",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Tovar texnik topshiriqdagi barcha hajm, parametr va talablarga to'liq mos bo'lishi va texnik taklif bilan tasdiqlanishi shart.",
+   "summary_en": "The goods must fully match all volumes, parameters and requirements of the specification, shown by a technical offer.",
+   "quote": "Tovar texnik topshiriqda belgilangan barcha hajmlar, texnik parametrlar va talablarga",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Elektr dvigatel portlashdan himoyalangan, quvvati 18 kW dan oshmasligi, 380 V, 50 Hz.",
+   "summary_en": "Explosion-protected electric motor, power not above 18 kW, 380 V, 50 Hz.",
+   "quote": "Quvvati: 18 kW dan oshmasligi kerak",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Nasos portlash xavfi toifasi bo'yicha GOST 30852.19-2002 talablariga mos bo'lishi kerak.",
+   "summary_en": "The pump must match the explosion-hazard category per GOST 30852.19-2002.",
+   "quote": "GOST 30852.19-2002 ga muvofiq portlash xavfi",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Yangi tovar, 2026-yildan oldin ishlab chiqarilmagan bo'lishi kerak.",
+   "summary_en": "Goods must be new and not manufactured before 2026.",
+   "quote": "yangi bo'lishi va 2026-yildan oldin ishlab chiqarilmagan bo'lishi kcrak",
+   "page": 12,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "To'plamga membrana yorilishi datchigi va ovozli signalizatsiya kiritilishi kerak.",
+   "summary_en": "The set must include a membrane-rupture sensor and audible alarm.",
+   "quote": "Yetkazib berish to'plamiga membrana yorilishi datchigi, ogohlantiruvchi ovozli signalizatsiya tizimi",
+   "page": 14,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati to'lov kelib tushgandan 120 kalendar kundan oshmasligi kerak.",
+   "summary_en": "Delivery must be within 120 calendar days of payment.",
+   "quote": "shartnomada nazarda tutilgan boshqa to'lov shartlaTiga muvofiq l20 kalendar kundan oshmasligi kerak",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "delivery",
+   "summary_uz": "Ikki yillik foydalanish va ishga tushirish uchun ehtiyot qismlar to'plami (ZIP) komplektga kiradi.",
+   "summary_en": "A two-year spare parts kit for use and commissioning is part of the delivery.",
+   "quote": "Ikki yillik foydalanish davri hamda ishga tushirish-sozlash ishlari",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "other",
+   "summary_uz": "Matnli ma'lumotlar rus tilida, qog'oz va elektron shaklda taqdim etiladi.",
+   "summary_en": "Text documentation must be in Russian, on paper and electronically.",
+   "quote": "Matnli ma'lumotlar rus tilida, qog'oz va elektron shaklda (1 nusxada) taqdim etilishi kerak",
+   "page": 16,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Kafolat: yetkazilgandan 18 oy yoki ishga tushirilgandan 12 oy; kafolat xati taqdim etiladi.",
+   "summary_en": "Warranty of 18 months from delivery or 12 months from commissioning, confirmed by a guarantee letter.",
+   "quote": "kafolat muddati tovar yetkazib berilgan sanadan boshlab kamida 18",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "qualification",
+   "summary_uz": "Moliyaviy hisobotlar (auditor tasdiqlagan yoki soliq organi qabul qilgan) taqdim etiladi.",
+   "summary_en": "Financial statements (audited or accepted by the tax authority) must be provided.",
+   "quote": "Молиявий ҳисоботлар (ташқи аудитор ташкилотлар томонидан тасдиқланган ёки солиқ органлари томонидан қабул қилинганлиги тасдиқланган ҳолда) мавжудлиги",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 96,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 4.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 252 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 50% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 12%."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 252 deals the median number of bidders was 3; 50% of deals had two or fewer bidders; the most frequent winner took 12%."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik haqidagi hujjat va ta'sis hujjatlari (Ustav)",
+  "Soliq va yig'imlar bo'yicha qarzdorlik yo'qligi haqida ma'lumotnoma",
+  "Bankrotlik tartib-taomillari yo'qligi haqida ma'lumot",
+  "Insofsiz ijrochilar yagona reyestrida qayd etilmaganlik haqida ma'lumot",
+  "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi haqida ma'lumot",
+  "Moliyaviy hisobotlar (buxgalteriya balansi)",
+  "Ishbilarmonlik obro'sini tasdiqlovchi hujjatlar (tajriba, xodimlar malakasi)",
+  "Ofshor hududlarda ro'yxatdan o'tmaganlik haqida deklaratsiya yoki kafolat xati",
+  "Halollik majburiyati to'g'risidagi ariza",
+  "Manfaatlar to'qnashuvi va affillanganlik holatlari yo'qligi haqida deklaratsiya",
+  "Texnik taklif (texnik pasport, muvofiqlik sertifikati, ishlab chiqaruvchi ma'lumotlari, rus tilidagi eskiz chizmalar va fotosuratlar)",
+  "Ekspluatatsiya materiallari va ehtiyot qismlar bo'yicha kafolat xati",
+  "Kafolat shartlariga rozilik haqida kafolat xati",
+  "Taklif ta'minoti (zakalat) to'langanligi haqida tasdiq",
+  "Texnik taklif",
+  "Texnik taklif va kafolat xati"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 252,
+  "median_bidders": 3.0,
+  "share_le2_bidders": 0.496,
+  "top_winner_share": 0.1151,
+  "share_price_drop_lt1pct": 0.2143,
+  "reannounced_lots": 2
+ },
+ "money_on_table_uzs": 228463243.64,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

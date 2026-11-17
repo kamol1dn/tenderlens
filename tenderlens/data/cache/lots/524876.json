@@ -1,0 +1,296 @@
+{
+ "lot_id": 524876,
+ "display_no": "26110012524876",
+ "title": "38-OP (Davlatsoy filiali) binosini joriy ta’mirlash ishlarini bajarish uchun zarur bo‘ladigan aluminiy maxsulotlari sotib olish",
+ "url": "https://etender.uzex.uz/lot/524876",
+ "customer": {
+  "name": "Qumqurgon tumani 38-sonli oilaviy poliklinika",
+  "tin": "312139364"
+ },
+ "region": "Сурхандарё вилояти",
+ "start_cost": 15170000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T19:16:51",
+ "end_date": "2026-11-24T19:16:51",
+ "clarific_date": "2026-11-24T19:16:51",
+ "type": "selection",
+ "old_id": 524770,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 70,
+  "criteria": [
+   {
+    "label": "Товарни суғурталаш зарурати бўйича талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолат бўйича талаблар (муддати, жойи)",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524876.pdf",
+  "pages": 18,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Poliklinika binosini joriy ta'mirlash uchun alyuminiy mahsulotlar (kompozit panel, profil, deraza va eshik) sotib olish (15 170 000 so'm)",
+ "sector": "construction",
+ "customer_sector": "health",
+ "customer_kind": "budget",
+ "financing_source": "Вилоят бюджети",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Alyuminiy kompozit panel (16 kv.m), alyuminiy profil 50x100x2,5 mm (62 m), alyumin eshik (11 kv.m) va deraza romi (1 kv.m) yetkazib beriladi; jami 15 170 000 so'm.",
+   "summary_en": "Supply of aluminium composite panel (16 sq m), profile 50x100x2.5 mm (62 m), aluminium doors (11 sq m) and a window frame (1 sq m); total 15,170,000 UZS.",
+   "quote": "aluminiy maxsulotlari sotib olish.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "Bajarish muddati shartnoma imzolangan kundan 3 kun; mahsulot avans o'tkazilgan kundan boshlab olib kelinadi.",
+   "summary_en": "Completion within 3 days from contract signing; delivery counted from the advance payment date.",
+   "quote": "Ishlarni bajarish muddati: shartnoma imzolangan kundan boshlab 3 kun.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "payment",
+   "summary_uz": "30% avans, qolgan 70% tovar to'liq topshirilgach to'lanadi.",
+   "summary_en": "30% advance; the remaining 70% after full delivery.",
+   "quote": "Oldindan avans (bo‘nak) 30% to‘lov amalga oshiriladi.",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Aylanma mablag'lar tanlov predmeti qiymatining kamida 20 foizi bo'lishi yoki bank kafolatnomasi taqdim etilishi kerak.",
+   "summary_en": "Turnover funds of at least 20 percent of the lot value, or a bank guarantee, are required.",
+   "quote": "Tanlov predmeti qiymatining kamida 20 foizi miqdoridagi aylanma",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchining omborida mahsulot mavjud bo'lishi shart.",
+   "summary_en": "The bidder must hold the product in its own warehouse.",
+   "quote": "Tanlov ishtirokchisining omborida maxsulot mavjudligi.",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Mahsulotga rasmiy ishlab chiqaruvchining sertifikati bo'lishi kerak.",
+   "summary_en": "A certificate of the official manufacturer for the product must exist.",
+   "quote": "Maxsulotga rasmiy ishlab chikaruvchining sertifikati",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Moddiy ta'minlanganlik: boshlang'ich summaning kamida 30 foizi miqdorida mablag'ga ega bo'lish.",
+   "summary_en": "Financial standing: funds of at least 30 percent of the starting amount.",
+   "quote": "(Tanlovning boshlang'ich summasining kamida 30% mablag'iga ega bo'lishi)",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "technical",
+   "summary_uz": "Takliflarda mahsulotning texnik parametrlari va ishlab chiqaruvchisi ko'rsatilishi kerak.",
+   "summary_en": "The offer must state the product's technical parameters and manufacturer.",
+   "quote": "Maxsulotning texnik parametrlari va ishlab chiqaruvchisi",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Konsorsiumlar (yuridik shaxslar birlashmalari) tanlovda ishtirok eta olmaydi.",
+   "summary_en": "Consortia (associations of legal entities) may not take part.",
+   "quote": "Yuridik shaxslar birlashmalari (konsorsiumov) tanlovda",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Tovarlar ta'minotchi omborida mavjudligi (rasm bilan) kafolat bo'yicha mezonda baholanadi.",
+   "summary_en": "Goods being in the supplier's warehouse (with a photo) is scored under the warranty criterion.",
+   "quote": "Таварлар таъминотчининг омборида мавжудлиги (расм илова килиши керак)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Yetkazib berish muddatlari, kalendar grafik hamda ishchi kuchi, texnika va materiallar taqsimoti haqida ma'lumotnoma uchun ball beriladi (20 ball).",
+   "summary_en": "A statement with delivery dates, calendar schedule and distribution of labour, machinery and materials is scored (20 points).",
+   "quote": "Таварларни етказиб беришнинг аниқ муддатлари кўрсатилган, календарь графиги ҳамда ресурслар (ишчи кучи, машина ва техника, материаллар) тақсимоти тўғрисидаги маълумотнома тақдим этилади.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r12",
+   "kind": "evaluation",
+   "summary_uz": "Kamchilik aniqlansa qisqa muddatda almashtirish haqida kafolat xati taqdim etilishi shart.",
+   "summary_en": "A guarantee letter to replace defective goods quickly must be provided.",
+   "quote": "етказилган товарлардан камчилик аниқланса уни қисқа муддут ичида алмаштириб бериш тўғрисида кафолат хати тақдим қилиши шарт",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "Таварларни етказиб беришнинг аниқ муддатлари кўрсатилган, календарь графиги ҳамда ресурслар (ишчи кучи, машина ва техника, материаллар) тақсимоти тўғрисидаги маълумотнома тақдим этилади.",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Mezon 4 uchun 20 ball (jami 100 balldan) ishchi kuchi, mashina va materiallar taqsimoti jadvaliga beriladi. Bu qurilish ishlari uchun xos, 15 170 000 so'mlik alyuminiy mahsulot yetkazib berishga esa mos kelmaydi va platformaning standart andozasi so'zlariga o'xshaydi; tovarni yetkaza oladigan lekin bunday jadval tuzmagan ta'minotchi ballni yo'qotishi mumkin.",
+   "explanation_en": "Criterion 4 gives 20 of 100 points for a schedule distributing labour, machinery and materials. That fits construction works, not the delivery of about 15 million UZS of aluminium goods, and looks like standard template wording; a supplier able to deliver but without such a schedule may lose points.",
+   "rewrite_uz": "Ushbu mezonni yetkazib berish muddati va jadvali (partiyalar bo'yicha sana) bilan cheklang, ishchi kuchi va texnika taqsimotini so'ramang.",
+   "rewrite_en": "Limit this criterion to the delivery dates and schedule by consignment, and do not ask for a distribution of labour and machinery.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "unrealistic_deadline",
+   "severity": "low",
+   "quote": "Ishlarni bajarish muddati: shartnoma imzolangan kundan boshlab 3 kun.",
+   "page": 1,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Mahsulotni 3 kun ichida topshirish, ishtirokchining omborida tayyor mahsulot bo'lishi talabi (sahifa 6) va omborda mavjudligi uchun beriladigan ball bilan birga, faqat tayyor zaxirasi bor ta'minotchilarga imkon beradi. Kesilgan alyuminiy kompozit panel yoki o'lchamli eshik buyurtma bo'yicha tayyorlanishi kerak bo'lsa, bu muddatga ulgurmaydi.",
+   "explanation_en": "A 3-day delivery period, together with the requirement to hold the goods in the bidder's own warehouse (page 6) and points for warehouse stock, favours suppliers with ready stock. Made-to-size composite panels or door units that must be produced to order would not fit this period.",
+   "rewrite_uz": "Yetkazib berish muddatini kamida 10-15 kalendar kun qilib belgilang yoki buyurtma bo'yicha tayyorlanadigan pozitsiyalar uchun alohida muddat bering.",
+   "rewrite_en": "Set delivery at no less than 10-15 calendar days, or give a separate period for items made to order.",
+   "type_label_uz": "Bajarish qiyin bo'lgan muddat",
+   "type_label_en": "Deadline that is hard to meet",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "irrelevant_requirement",
+   "severity": "low",
+   "quote": "shu kabi ob'ektlar xujjatlarning dasturiy ta'minotini ishlab chiqish bo'yicha tajriba va ko'nikmaga",
+   "page": 6,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ishtirokchilar \"shu kabi ob'ektlar hujjatlarining dasturiy ta'minotini ishlab chiqish\" bo'yicha tajribaga ega bo'lishi kerak, deyiladi. Bu alyuminiy mahsulot yetkazib berishga aloqador emas va boshqa hujjatdan ko'chirilgan matnga o'xshaydi; bir izohlovchi savol yetarli.",
+   "explanation_en": "Bidders are required to have experience in developing software for the documentation of similar objects. This has no connection with supplying aluminium products and looks like text carried over from another document; one clarifying question is enough.",
+   "rewrite_uz": "Ushbu bandni olib tashlang yoki \"o'xshash tovarlarni yetkazib berish tajribasi\" deb o'zgartiring.",
+   "rewrite_en": "Delete this clause or replace it with experience in supplying similar goods.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 66,
+ "traffic_light": "amber",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 34,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): Mezon 4 uchun 20 ball (jami 100 balldan) ishchi kuchi, mashina va materiallar taqsimoti jadvaliga beriladi. Bu qurilish ishlari uchun xos, 15 170 000 so'mlik alyuminiy mahsulot yetkazib berishga esa mos kelmaydi va platformaning standart andozasi so'zlariga o'xshaydi; tovarni yetkaza oladigan lekin bunday jadval tuzmagan ta'minotchi ballni yo'qotishi mumkin.",
+   "Bajarish qiyin bo'lgan muddat (1-bet): Mahsulotni 3 kun ichida topshirish, ishtirokchining omborida tayyor mahsulot bo'lishi talabi (sahifa 6) va omborda mavjudligi uchun beriladigan ball bilan birga, faqat tayyor zaxirasi bor ta'minotchilarga imkon beradi. Kesilgan alyuminiy kompozit panel yoki o'lchamli eshik buyurtma bo'yicha tayyorlanishi kerak bo'lsa, bu muddatga ulgurmaydi.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (6-bet): Ishtirokchilar \"shu kabi ob'ektlar hujjatlarining dasturiy ta'minotini ishlab chiqish\" bo'yicha tajribaga ega bo'lishi kerak, deyiladi. Bu alyuminiy mahsulot yetkazib berishga aloqador emas va boshqa hujjatdan ko'chirilgan matnga o'xshaydi; bir izohlovchi savol yetarli.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524770).",
+   "Tushuntirish so'rash muddati: 24.11.2026 19:16."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): Criterion 4 gives 20 of 100 points for a schedule distributing labour, machinery and materials. That fits construction works, not the delivery of about 15 million UZS of aluminium goods, and looks like standard template wording; a supplier able to deliver but without such a schedule may lose points.",
+   "Deadline that is hard to meet (page 1): A 3-day delivery period, together with the requirement to hold the goods in the bidder's own warehouse (page 6) and points for warehouse stock, favours suppliers with ready stock. Made-to-size composite panels or door units that must be produced to order would not fit this period.",
+   "Requirement unrelated to the subject of the purchase (page 6): Bidders are required to have experience in developing software for the documentation of similar objects. This has no connection with supplying aluminium products and looks like text carried over from another document; one clarifying question is enough.",
+   "This lot was re-announced (previous lot: 524770).",
+   "Clarification requests are accepted until 24.11.2026 19:16."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ustav",
+  "Soliq va majburiy to'lovlar bo'yicha qarzdorlik yo'qligi to'g'risida ma'lumotnoma",
+  "Bankrotlik jarayonida emasligi va insofsiz ijrochilar reestrida yo'qligi haqida tasdiq",
+  "Texnik hujjatlar ro'yxati (broshyuralar, texnik pasportlar)",
+  "Rasmiy ishlab chiqaruvchining sertifikati",
+  "Mahsulotning ombordagi mavjudligi to'g'risida ma'lumotnoma va rasmlar",
+  "Aylanma mablag'lar yoki bank kafolatnomasi",
+  "Yetkazib berish muddatlari, kalendar grafik va resurslar taqsimoti bo'yicha ma'lumotnoma",
+  "Kamchilik aniqlansa mahsulotni almashtirish haqida kafolat xati",
+  "Xavfsizlik chora-tadbirlari va standartlarga rioya haqida ma'lumotnoma",
+  "Narx taklifi (jami 15 170 000 so'm doirasida)",
+  "Хужжатлар илова килинади",
+  "Маълумотнома",
+  "Кафолат хати"
+ ],
+ "clarification_letter_uz": "Kimga: Qumqurgon tumani 38-sonli oilaviy poliklinika, xarid komissiyasiga\nLot raqami: 26110012524876\nXarid predmeti: 38-OP (Davlatsoy filiali) binosini joriy ta’mirlash ishlarini bajarish uchun zarur bo‘ladigan aluminiy maxsulotlari sotib olish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Таварларни етказиб беришнинг аниқ муддатлари кўрсатилган, календарь графиги ҳамда ресурслар (ишчи кучи, машина ва техника, материаллар) тақсимоти тўғрисидаги маълумотнома тақдим этилади.»\n   Savolimiz: Mezon 4 uchun 20 ball (jami 100 balldan) ishchi kuchi, mashina va materiallar taqsimoti jadvaliga beriladi. Bu qurilish ishlari uchun xos, 15 170 000 so'mlik alyuminiy mahsulot yetkazib berishga esa mos kelmaydi va platformaning standart andozasi so'zlariga o'xshaydi; tovarni yetkaza oladigan lekin bunday jadval tuzmagan ta'minotchi ballni yo'qotishi mumkin.\n   Taklif etilayotgan tahrir: Ushbu mezonni yetkazib berish muddati va jadvali (partiyalar bo'yicha sana) bilan cheklang, ishchi kuchi va texnika taqsimotini so'ramang.\n\n2. Texnik topshiriq, 1-bet.\n   Hujjatdagi matn: «Ishlarni bajarish muddati: shartnoma imzolangan kundan boshlab 3 kun.»\n   Savolimiz: Mahsulotni 3 kun ichida topshirish, ishtirokchining omborida tayyor mahsulot bo'lishi talabi (sahifa 6) va omborda mavjudligi uchun beriladigan ball bilan birga, faqat tayyor zaxirasi bor ta'minotchilarga imkon beradi. Kesilgan alyuminiy kompozit panel yoki o'lchamli eshik buyurtma bo'yicha tayyorlanishi kerak bo'lsa, bu muddatga ulgurmaydi.\n   Taklif etilayotgan tahrir: Yetkazib berish muddatini kamida 10-15 kalendar kun qilib belgilang yoki buyurtma bo'yicha tayyorlanadigan pozitsiyalar uchun alohida muddat bering.\n\n3. Texnik topshiriq, 6-bet.\n   Hujjatdagi matn: «shu kabi ob'ektlar xujjatlarning dasturiy ta'minotini ishlab chiqish bo'yicha tajriba va ko'nikmaga»\n   Savolimiz: Ishtirokchilar \"shu kabi ob'ektlar hujjatlarining dasturiy ta'minotini ishlab chiqish\" bo'yicha tajribaga ega bo'lishi kerak, deyiladi. Bu alyuminiy mahsulot yetkazib berishga aloqador emas va boshqa hujjatdan ko'chirilgan matnga o'xshaydi; bir izohlovchi savol yetarli.\n   Taklif etilayotgan tahrir: Ushbu bandni olib tashlang yoki \"o'xshash tovarlarni yetkazib berish tajribasi\" deb o'zgartiring.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (24.11.2026 19:16) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 2,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 1.0,
+  "top_winner_share": 1.0,
+  "share_price_drop_lt1pct": 0.5,
+  "reannounced_lots": 2
+ },
+ "money_on_table_uzs": 2069188.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,302 @@
+{
+ "lot_id": 524418,
+ "display_no": "26120012524418",
+ "title": "«УМК» АЖ ярим-очиқ юк вагонларнинг хизмат муддатини узайтириш ҳамда Ўзбекистон Республикаси темир йўллари бўйича ҳаракатланиш ҳуқуқини бериш билан мукаммал таъмирлаш (Техник топшириққа мувофиқ)",
+ "url": "https://etender.uzex.uz/lot/524418",
+ "customer": {
+  "name": "\"O`ZBEKISTON METALLURGIYA KOMBINATI\" AJ",
+  "tin": "200460222"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 1504580638.5,
+ "currency": "UZS",
+ "start_date": "2026-11-17T09:25:21",
+ "end_date": "2026-11-24T09:25:21",
+ "clarific_date": "2026-11-24T09:25:21",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 10,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 3.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524418.pdf",
+  "pages": 38,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": [
+   23
+  ]
+ },
+ "subject_uz": "50 ta yarim ochiq yuk vagonini xizmat muddatini uzaytirish va temir yo'llarda harakatlanish huquqini berish bilan mukammal ta'mirlash",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Korxona mablag'lari/собственные средства",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Vagonlar kuzovi, yurish qismi, tormoz, avtosepka va g'ildirak juftliklari ta'mirlanadi, to'liq bo'yaladi va diagnostikadan o'tkaziladi.",
+   "summary_en": "Wagon bodies, running gear, brakes, couplers and wheelsets are repaired, fully painted and diagnosed.",
+   "quote": "G’ildirak juftliklarini ta’mirlash (suyiltirib qoplash (наплавка) va yo’nish (расточка)).",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Ta'mirlangan vagonlarga xizmat muddatini uzaytirish bo'yicha texnik yechim va sertifikat beriladi.",
+   "summary_en": "A technical decision and certificate extending the service life are issued for the repaired wagons.",
+   "quote": "Yarim ochiq vagonlarni xizmat muddatini uzaytirish, texnik yechim va sertifikat berish.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Ijrochi vagonlarni O'zbekiston temir yo'llarida harakatlanish huquqini berish bilan ta'mirlashga huquqli bo'lishi kerak (10 ball).",
+   "summary_en": "The contractor must have the right to repair wagons and grant them the right to run on Uzbekistan railways (10 points).",
+   "quote": "Ижрочини таъмирланадиган вагонларни Ўзбекистон Республикаси темир йўллари бўйича ҳаракатланиш ҳуқуқини бериш билан таъмирлашга ҳуқуқи борлиги",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Davlat ro'yxatidan o'tganlik guvohnomasi, tegishli litsenziya va xodimlarning malaka sertifikatlari nusxalari taqdim etiladi.",
+   "summary_en": "Copies of the registration certificate, the relevant licence and staff qualification certificates are submitted.",
+   "quote": "Давлат рўйхатидан ўтказилганлигини тасдиқловчи гувоҳнома, тегишли лицензия ҳамда ходимларнинг малака сертификатлари ва аттестатларидан нусхаларни тақдим этиши",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Jalb qilinadigan xodimlar kamida 3 yillik tajribaga ega bo'lishi va buni shartnomalar nusxasi bilan tasdiqlashi kerak.",
+   "summary_en": "Staff involved must have at least 3 years of experience, confirmed by copies of contracts.",
+   "quote": "Ушбу ишга жалб қилинувчи ходимлар 3 йилдан кам бўлмаган иш тажрибасига ва шундай турдаги ишларда ишлаганлигини тасдиқловчи шартномалар нусхасини тақдим этиши",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ta'mirlash ijrochining o'z hududida, o'z ishlab chiqarish bazasida o'tkaziladi.",
+   "summary_en": "The repair is carried out on the contractor's own territory and production base.",
+   "quote": "Ярим-очиқ вагонларини мукаммал таъмирлаш ишларини амалга ошириш учун ижрочининг ҳудудида мавжудлиги",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Ijrochi o'z materiallari va ehtiyot qismlariga ega bo'lishi kerak.",
+   "summary_en": "The contractor must have its own materials and spare parts.",
+   "quote": "Мукаммал таъмир ишлари бажарилиши жараёнида ижрочи ўз материаллари ва эҳтиёт қисмлари мавжудлиги",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "technical",
+   "summary_uz": "Ta'mirga malakali sinovdan o'tgan va tegishli guvohnomali mutaxassislar jalb qilinishi kerak.",
+   "summary_en": "Specialists who passed qualification tests and hold the relevant certificate must be used.",
+   "quote": "bo‘lgan mutaxassislar jalb qilinishi lozim",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "technical",
+   "summary_uz": "Ijrochi VU-4, VU-22, VU-23, VU-36 shakllari, texnik pasportlar va ma'lumotnomalarni rasmiylashtirish yoki tiklash huquqiga ega bo'lishi kerak.",
+   "summary_en": "The contractor must be entitled to issue or restore forms VU-4, VU-22, VU-23, VU-36, technical passports and related certificates.",
+   "quote": "Ижрочи томонидан қуйидаги техник ҳужжатлар яъни, ВУ-4 шакли, ВУ-22 шакли, ВУ-23 шакли, ВУ-36 шакли",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Ko'p yillik tajriba bo'yicha ball beriladi: 1-3 yil 5 ball, 5-10 yil 10 ball, 10 yildan ortiq 15 ball; tajriba bo'lmasa diskvalifikatsiya.",
+   "summary_en": "Experience is scored: 1-3 years 5 points, 5-10 years 10 points, over 10 years 15 points; no experience means disqualification.",
+   "quote": "Имеется (опыт работы от 5 до 10 лет) – 10 баллов; д) Имеется (опыт работы более 10 лет) – 15 баллов; Если не соответсвует участник будет дисквалификацирован",
+   "page": 37,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "delivery",
+   "summary_uz": "Ishlar shartnoma tuzilgandan keyin 40 ish kuni ichida bajarilishi kerak.",
+   "summary_en": "The work must be completed within 40 working days.",
+   "quote": "Товар етказиб бериш (ишларни бажариш, хизматлар кўрсатиш) муддати, (кун) 40 иш куни",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "payment",
+   "summary_uz": "Xizmat bajarilgandan keyin 100% to'lov, 10 ish kuni ichida; taklif kafolati 0%.",
+   "summary_en": "100% is paid after the work is done, within 10 working days; no bid security.",
+   "quote": "100% тулов хизмат бажарилгандан сунг",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r13",
+   "kind": "other",
+   "summary_uz": "Boshlang'ich narx QQS bilan 1 504 580 638,5 so'm (bitta vagon uchun 30 091 612,77 so'm).",
+   "summary_en": "Starting price is 1,504,580,638.5 UZS including VAT (30,091,612.77 UZS per wagon).",
+   "quote": "1 504 580 638,5 сўм (1 хизмат учун 30 091 612,77 сўм)",
+   "page": 6,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_experience",
+   "severity": "low",
+   "quote": "Имеется (опыт работы от 5 до 10 лет) – 10 баллов; д) Имеется (опыт работы более 10 лет) – 15 баллов; Если не соответсвует участник будет дисквалификацирован",
+   "page": 37,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Tajriba ballari 1-3 yil va 5-10 yil oralig'ida beriladi, 3-5 yil oralig'i esa ko'rsatilmagan, \"ko'p yillik tajriba\" ham aniq belgilanmagan. Tajriba yo'qligi diskvalifikatsiyaga olib keladi va tajriba uchun 15 ball (jami 70 balldan) berilganligi sababli tajribali bo'lmagan, lekin qobiliyatli ijrochi ball yo'qotishi mumkin. Aniqlashtiruvchi savol berish tavsiya etiladi.",
+   "explanation_en": "Experience points are given for 1-3 and 5-10 years, but 3-5 years is not covered, and \"many years of experience\" is not defined. Lack of experience leads to disqualification and up to 15 of 70 points depend on tenure, so a capable but newer contractor may lose points. One clarifying question is advisable.",
+   "rewrite_uz": "Tajriba ballari uzluksiz oraliqlarda beriladi: 1 yildan 3 yilgacha 5 ball, 3 yildan 5 yilgacha 8 ball, 5 yildan ortiq 10 ball; shu turdagi vagonlarni ta'mirlash bo'yicha bajarilgan shartnomalar tajribani tasdiqlaydi.",
+   "rewrite_en": "Experience points are given in continuous bands: 1 to 3 years 5 points, 3 to 5 years 8 points, over 5 years 10 points; completed wagon-repair contracts confirm the experience.",
+   "type_label_uz": "Lot hajmiga nomutanosib tajriba yoki resurs talabi",
+   "type_label_en": "Experience or resource demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 91,
+ "traffic_light": "green",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 6,
+  "history_penalty": 3.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Lot hajmiga nomutanosib tajriba yoki resurs talabi (37-bet): Tajriba ballari 1-3 yil va 5-10 yil oralig'ida beriladi, 3-5 yil oralig'i esa ko'rsatilmagan, \"ko'p yillik tajriba\" ham aniq belgilanmagan. Tajriba yo'qligi diskvalifikatsiyaga olib keladi va tajriba uchun 15 ball (jami 70 balldan) berilganligi sababli tajribali bo'lmagan, lekin qobiliyatli ijrochi ball yo'qotishi mumkin. Aniqlashtiruvchi savol berish tavsiya etiladi.",
+   "Buyurtmachining so'nggi 139 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 36% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 10%.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "Experience or resource demand out of proportion to the lot (page 37): Experience points are given for 1-3 and 5-10 years, but 3-5 years is not covered, and \"many years of experience\" is not defined. Lack of experience leads to disqualification and up to 15 of 70 points depend on tenure, so a capable but newer contractor may lose points. One clarifying question is advisable.",
+   "In the customer's last 139 deals the median number of bidders was 3; 36% of deals had two or fewer bidders; the most frequent winner took 10%.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirokchi va ta'sischilari haqida umumiy ma'lumot (1-shakl)",
+  "Kafolat xati (2-shakl): qayta tashkil etish, tugatish, bankrotlik yoki sud jarayonida emasligi",
+  "Manfaatlar to'qnashuvi va halol raqobat to'g'risida ariza (3-shakl)",
+  "Texnik taklif (4-shakl)",
+  "Yetkazib berish, to'lov shartlari va muddatlari haqida ma'lumot (5-shakl)",
+  "Soliq inspeksiyasidan qarz yo'qligi to'g'risida ma'lumotnoma",
+  "Davlat ro'yxatidan o'tganlik guvohnomasi, litsenziya, xodimlar malaka sertifikatlari",
+  "Shtatda xodimlar borligi va ish huquqini tasdiqlovchi hujjatlar",
+  "Ko'p yillik tajriba haqida ma'lumot",
+  "Xodimlarning 3 yillik tajribasini tasdiqlovchi shartnomalar nusxalari",
+  "O'lchov asboblari va yangi ehtiyot qismlar sertifikatlari",
+  "Ta'mirlash uchun o'z hududi (ishlab chiqarish bazasi) haqida ma'lumot",
+  "VU-4, VU-22, VU-23, VU-36 va ma'lumotnoma 2612 ni rasmiylashtirish huquqini tasdiqlovchi hujjat",
+  "Temir yo'llarda harakatlanish huquqini berish bilan ta'mirlash huquqini tasdiqlovchi hujjat",
+  "Texnik taklif/Техническое предложение",
+  "Етказиб бериш ва тулов шартлари/условия доставки и оплаты",
+  "Эркин шакл/Произвольная форма"
+ ],
+ "clarification_letter_uz": "Kimga: \"O`ZBEKISTON METALLURGIYA KOMBINATI\" AJ, xarid komissiyasiga\nLot raqami: 26120012524418\nXarid predmeti: «УМК» АЖ ярим-очиқ юк вагонларнинг хизмат муддатини узайтириш ҳамда Ўзбекистон Республикаси темир йўллари бўйича ҳаракатланиш ҳуқуқини бериш билан мукаммал таъмирлаш (Техник топшириққа мувофиқ)\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 37-bet.\n   Hujjatdagi matn: «Имеется (опыт работы от 5 до 10 лет) – 10 баллов; д) Имеется (опыт работы более 10 лет) – 15 баллов; Если не соответсвует участник будет дисквалификацирован»\n   Savolimiz: Tajriba ballari 1-3 yil va 5-10 yil oralig'ida beriladi, 3-5 yil oralig'i esa ko'rsatilmagan, \"ko'p yillik tajriba\" ham aniq belgilanmagan. Tajriba yo'qligi diskvalifikatsiyaga olib keladi va tajriba uchun 15 ball (jami 70 balldan) berilganligi sababli tajribali bo'lmagan, lekin qobiliyatli ijrochi ball yo'qotishi mumkin. Aniqlashtiruvchi savol berish tavsiya etiladi.\n   Taklif etilayotgan tahrir: Tajriba ballari uzluksiz oraliqlarda beriladi: 1 yildan 3 yilgacha 5 ball, 3 yildan 5 yilgacha 8 ball, 5 yildan ortiq 10 ball; shu turdagi vagonlarni ta'mirlash bo'yicha bajarilgan shartnomalar tajribani tasdiqlaydi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (24.11.2026 09:25) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 139,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3597,
+  "top_winner_share": 0.1007,
+  "share_price_drop_lt1pct": 0.1511,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 212145870.03,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

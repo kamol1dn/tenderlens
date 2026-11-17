@@ -1,0 +1,326 @@
+{
+ "lot_id": 524120,
+ "display_no": "26110012524120",
+ "title": "22.12.2025йилдаги ВМ 810-сон қарорга асосан аутсорсинг хизматини ташкил этиш",
+ "url": "https://etender.uzex.uz/lot/524120",
+ "customer": {
+  "name": "Гурлан туман 9-сон Ширинтой МТТ",
+  "tin": "207029545"
+ },
+ "region": "Хоразм вилояти",
+ "start_cost": 79135200.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T09:43:16",
+ "end_date": "2026-11-18T09:43:16",
+ "clarific_date": "2026-11-18T09:43:16",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 55,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларда суғурталашга қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524120.pdf",
+  "pages": 45,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   26,
+   27,
+   30,
+   33,
+   35
+  ]
+ },
+ "subject_uz": "Gurlan tumanidagi 9-sonli maktabgacha ta'lim tashkilotida tarbiyalanuvchilarni autsorsing asosida issiq ovqat bilan ta'minlash (2026-yil noyabr-dekabr)",
+ "sector": "food",
+ "customer_sector": "education",
+ "customer_kind": "budget",
+ "financing_source": "Бюджет маблаглари",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "delivery",
+   "summary_uz": "Xizmat muddati 2026-yil 1-noyabrdan 31-dekabrgacha.",
+   "summary_en": "Service period is 1 November to 31 December 2026.",
+   "quote": "Xizmat ko.rsatish muddati: 2026-y| 1-noyabrdan 2026-y| 31-dekabrgacha.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Jami 90 nafar tarbiyalanuvchi uchun kuniga 5 mahal ovqatlantirish tashkil etiladi.",
+   "summary_en": "Meals for 90 children, five meals a day.",
+   "quote": "Ovqatlanuvchilar soni va toifalari: Jami: 90 nafar.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Taomnoma Ijtimoiy himoya milliy agentligining namunaviy taomnomasiga mos bo'lishi shart.",
+   "summary_en": "The menu must follow the Agency's model menu.",
+   "quote": "Taomnoma: Ijtimoiy himoya milliy agentligi tomonidan taqdim etiladigan namunaviy taomnomaga mos ravishda.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "payment",
+   "summary_uz": "Ustama haq 15 foizdan past va 16 foizdan yuqori bo'lmasligi kerak; shartnoma narxi ustama haq asosida hisoblanadi.",
+   "summary_en": "The markup must be between 15% and 16%; the contract price is computed from the winning markup.",
+   "quote": "Taklif etiladigan ustama haqi miqdori l6 foizdan oshmasligi hamda 15 foizdan kam bo'lmasligi lozim.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "payment",
+   "summary_uz": "Avans oldingi oydagi haqiqiy xarajatning 30 foizi miqdorida to'lanadi, oy yakunida yakuniy hisob-kitob qilinadi.",
+   "summary_en": "Advance is 30% of the previous month's actual cost; final settlement is made monthly.",
+   "quote": "30 foizi miqdorida oldindan to'lov (avans) amalga oshiriladi",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi shartnomani bajarish uchun zarur texnik, moddiy va kadrlar resurslariga ega bo'lishi kerak.",
+   "summary_en": "The bidder must have the technical, material and staff resources needed to perform the contract.",
+   "quote": "Shartnomani bajarish uchun zarur texnik, moddiy, kadrlar resurslarining hamda boshqa resurslarning mavjudligi.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Kamida uch oylik shartnoma summasiga teng aylanma mablag' bo'lishi va hujjat bilan tasdiqlanishi shart.",
+   "summary_en": "Working capital of at least three months of the contract value must be shown with documents.",
+   "quote": "Autsorsing xizmati bo‘yicha kamida uch oylik shartnoma summasiga teng aylanma mablag‘larga ega bo‘lish",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Ovqatlantirish bo'yicha tajriba ro'yxati va kamida 5 ta tavsiyanoma uchun 15 ballgacha beriladi.",
+   "summary_en": "Up to 15 points for a list of past catering clients with at least five recommendation letters.",
+   "quote": "Ishtirokchi so‘nggi 3 yil davomida xizmat ko‘rsatgan tashkilotlar ro‘yxatini taqdim etadi (nomi, manzili, xizmat turi, muddati, shartnoma summasi bilan)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "SanQvaN ga mos taomnoma va menyu-kalkulyatsiya uchun 20 ballgacha beriladi.",
+   "summary_en": "Up to 20 points for a SanQvaN-compliant menu and cost calculation.",
+   "quote": "Ishtirokchi amaldagi SanQvaN talablariga muvofiq taomnoma, menyu-kalkulyatsiya, har bir taom bo‘yicha chiqish vazni",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Oshxona, ombor, sovitkich, transport va xodimlar mavjudligi uchun 20 ballgacha beriladi.",
+   "summary_en": "Up to 20 points for kitchen equipment, storage, refrigeration, transport and staff.",
+   "quote": "Ishtirokchi autsorsing xizmatini bajarish uchun mavjud moddiy-texnik baza,",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Ruxsat etuvchi hujjatlar va sertifikatlar soniga qarab ball beriladi (20 tadan ortiq - 5 ball).",
+   "summary_en": "Points depend on the number of permits and certificates (over 20 gives 5 points).",
+   "quote": "Ishtirokchi faoliyat turi uchun talab etiladigan ruxsat etuvchi hujjatlar, sanitariya-epidemiologiya xulosalari, muvofiqlik sertifikatlari, sifat va xavfsizlikni tasdiqlovchi hujjatlarni taqdim etadi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r12",
+   "kind": "other",
+   "summary_uz": "G'olib shartnoma summasining kamida 1 foizi miqdorida buyurtmachi muassasasiga investitsiya kiritishga roziligini bildiradi (kafolat xati, 5 ball).",
+   "summary_en": "The winner must agree to invest at least 1% of the contract value in the institution (guarantee letter, 5 points).",
+   "quote": "Ishtirokchi shartnoma umumiy summasining kamida 1 foizi miqdorida investitsiya kiritishga roziligi haqida kafolat xatini taqdim etadi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r13",
+   "kind": "other",
+   "summary_uz": "Qish-bahor mavsumida asosiy oziq-ovqat mahsulotlarining kamida uch oylik zaxirasini shakllantirish talab etiladi.",
+   "summary_en": "The supplier must build a stock of staple foods covering at least three months in winter-spring.",
+   "quote": "oziq-ovqat mahsulotlarining kamida uch oylik zaxirasini shakllanti",
+   "page": 9,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "Taklif etiladigan ustama haqi miqdori l6 foizdan oshmasligi hamda 15 foizdan kam bo'lmasligi lozim.",
+   "page": 3,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ustama haq faqat 15 va 16 foiz oralig'ida bo'lishi mumkin: 16 foizdan yuqori ham, 15 foizdan past ham taklif qabul qilinmaydi. Narx qismi 30 ballni tashkil qilsa-da, bu tor koridor tufayli narx bo'yicha raqobat deyarli yo'qoladi va arzonroq taklif bergan ijrochi uni ayta olmaydi. Buyurtmachi pastki chegara nima uchun kerakligini tushuntirishi mumkin.",
+   "explanation_en": "The markup may only be between 15% and 16%; offers above 16% or below 15% are not accepted. Although price is 30 points of the score, this one-point corridor leaves almost no price competition, and a bidder able to offer a lower markup cannot do so. The customer could explain why a floor is needed.",
+   "rewrite_uz": "Taklif etiladigan ustama haqi miqdori 16 foizdan oshmasligi lozim.",
+   "rewrite_en": "The proposed markup must not exceed 16%.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "oziq-ovqat mahsulotlarining kamida uch oylik zaxirasini",
+   "page": 9,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Shartnoma 2026-yil noyabr-dekabr oylarini, ya'ni ikki oyni qamrab oladi, lekin uch oylik oziq-ovqat zaxirasini yaratish va saqlash talab qilinadi. Bu muddat shartnoma davridan uzoq va katta aylanma mablag' hamda ombor talab qiladi, shuning uchun kichik yetkazib beruvchilar qatnasha olmasligi mumkin. Talabning shartnoma hajmiga mutanosibligini tekshirish tavsiya etiladi.",
+   "explanation_en": "The contract covers November and December 2026, two months, yet it requires building and keeping a three-month stock of staple food. This exceeds the contract period and needs large working capital and warehouse space, which may keep smaller suppliers out. The proportion to the contract size is worth checking.",
+   "rewrite_uz": "Autsorser shartnoma muddati davomida ovqatlantirish uzluksizligini ta'minlash uchun zarur hajmdagi oziq-ovqat zaxirasini (kamida bir oylik ehtiyoj miqdorida) saqlaydi.",
+   "rewrite_en": "The contractor keeps a food stock sufficient for uninterrupted meals during the contract term (at least one month of need).",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "excessive_financial",
+   "severity": "low",
+   "quote": "Autsorsing xizmati bo‘yicha kamida uch oylik shartnoma summasiga teng aylanma mablag‘larga ega bo‘lish",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Xizmat shartnomasi atigi ikki oyga (noyabr-dekabr) tuzilmoqda, ammo ishtirokchidan kamida uch oylik shartnoma summasiga teng aylanma mablag' talab qilinadi va bu mezon bo'yicha ball ham beriladi. Bu talab shartnomaning o'zidan ko'proq mablag'ni ko'rsatishni talab qilishi va kichik ijrochilarni chetlashtirishi mumkin. Buyurtmachi bu miqdor shartnoma muddatiga mosligini aniqlashtirishi maqsadga muvofiq.",
+   "explanation_en": "The contract runs for only two months (November-December), yet bidders must show working capital equal to at least three months of the contract value, and points are scored on it. That is more than the whole contract and may shut out smaller operators. The customer could clarify that the amount matches the contract term.",
+   "rewrite_uz": "Ishtirokchi shartnoma muddati davomidagi xizmat qiymatini qoplashga yetarli aylanma mablag'lari mavjudligini bank ma'lumotnomasi yoki moliyaviy hisobot bilan tasdiqlaydi.",
+   "rewrite_en": "The participant confirms, by a bank statement or financial report, that it holds working capital sufficient to cover the service cost for the contract term.",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 50,
+ "traffic_light": "amber",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 50,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (3-bet): Ustama haq faqat 15 va 16 foiz oralig'ida bo'lishi mumkin: 16 foizdan yuqori ham, 15 foizdan past ham taklif qabul qilinmaydi. Narx qismi 30 ballni tashkil qilsa-da, bu tor koridor tufayli narx bo'yicha raqobat deyarli yo'qoladi va arzonroq taklif bergan ijrochi uni ayta olmaydi. Buyurtmachi pastki chegara nima uchun kerakligini tushuntirishi mumkin.",
+   "Lot hajmiga nomutanosib moliyaviy talab (9-bet): Shartnoma 2026-yil noyabr-dekabr oylarini, ya'ni ikki oyni qamrab oladi, lekin uch oylik oziq-ovqat zaxirasini yaratish va saqlash talab qilinadi. Bu muddat shartnoma davridan uzoq va katta aylanma mablag' hamda ombor talab qiladi, shuning uchun kichik yetkazib beruvchilar qatnasha olmasligi mumkin. Talabning shartnoma hajmiga mutanosibligini tekshirish tavsiya etiladi.",
+   "Lot hajmiga nomutanosib moliyaviy talab (platformadagi mezonlar): Xizmat shartnomasi atigi ikki oyga (noyabr-dekabr) tuzilmoqda, ammo ishtirokchidan kamida uch oylik shartnoma summasiga teng aylanma mablag' talab qilinadi va bu mezon bo'yicha ball ham beriladi. Bu talab shartnomaning o'zidan ko'proq mablag'ni ko'rsatishni talab qilishi va kichik ijrochilarni chetlashtirishi mumkin. Buyurtmachi bu miqdor shartnoma muddatiga mosligini aniqlashtirishi maqsadga muvofiq.",
+   "Tushuntirish so'rash muddati: 18.11.2026 09:43.",
+   "Diqqat: hujjatning 5 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Other clause that may limit competition (page 3): The markup may only be between 15% and 16%; offers above 16% or below 15% are not accepted. Although price is 30 points of the score, this one-point corridor leaves almost no price competition, and a bidder able to offer a lower markup cannot do so. The customer could explain why a floor is needed.",
+   "Financial demand out of proportion to the lot (page 9): The contract covers November and December 2026, two months, yet it requires building and keeping a three-month stock of staple food. This exceeds the contract period and needs large working capital and warehouse space, which may keep smaller suppliers out. The proportion to the contract size is worth checking.",
+   "Financial demand out of proportion to the lot (platform criteria form): The contract runs for only two months (November-December), yet bidders must show working capital equal to at least three months of the contract value, and points are scored on it. That is more than the whole contract and may shut out smaller operators. The customer could clarify that the amount matches the contract term.",
+   "Clarification requests are accepted until 18.11.2026 09:43.",
+   "Note: 5 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirokchi blankasida kafolat xati (1-son shakl)",
+  "Ishtirokchi to'g'risida umumiy ma'lumot (2-son shakl)",
+  "Tanlov qoidalariga rioya etish to'g'risidagi ariza (3-son shakl)",
+  "Texnik kafolat xati (4-son shakl)",
+  "Moddiy-texnik baza va logistika to'g'risida ma'lumot: oshxona jihozlari, ombor, sovitkichlar, transport (5-son shakl)",
+  "Moliyaviy imkoniyatlar to'g'risida ma'lumot, bank ma'lumotnomasi (kamida 3 oylik shartnoma summasiga teng aylanma mablag')",
+  "Tajriba to'g'risida ma'lumot: so'nggi 3 yilda xizmat ko'rsatilgan tashkilotlar ro'yxati va kamida 5 ta tavsiyanoma (7-son shakl)",
+  "SanQvaN talablariga mos taomnoma va menyu-kalkulyatsiya (chiqish vazni, tarkibi, mahsulot sarfi)",
+  "Ruxsat etuvchi hujjatlar, sanitariya-epidemiologiya xulosalari, muvofiqlik va sifat sertifikatlari",
+  "Shartnoma summasining kamida 1 foizi miqdorida investitsiya kiritishga roziligi haqida kafolat xati",
+  "Xodimlarning sanitariya kitobchasi va tibbiy ko'rikdan o'tganligini tasdiqlovchi hujjatlar, shtat ro'yxati, diplom va malaka hujjatlari",
+  "Soliq qarzdorligi yo'qligi va Majburiy ijro byurosi bazalarida bajarilmagan majburiyatlar yo'qligi to'g'risida ma'lumotnoma",
+  "Taklifni ta'minlash (zakalat) to'g'risida tasdiq",
+  "Зарур"
+ ],
+ "clarification_letter_uz": "Kimga: Гурлан туман 9-сон Ширинтой МТТ, xarid komissiyasiga\nLot raqami: 26110012524120\nXarid predmeti: 22.12.2025йилдаги ВМ 810-сон қарорга асосан аутсорсинг хизматини ташкил этиш\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 3-bet.\n   Hujjatdagi matn: «Taklif etiladigan ustama haqi miqdori l6 foizdan oshmasligi hamda 15 foizdan kam bo'lmasligi lozim.»\n   Savolimiz: Ustama haq faqat 15 va 16 foiz oralig'ida bo'lishi mumkin: 16 foizdan yuqori ham, 15 foizdan past ham taklif qabul qilinmaydi. Narx qismi 30 ballni tashkil qilsa-da, bu tor koridor tufayli narx bo'yicha raqobat deyarli yo'qoladi va arzonroq taklif bergan ijrochi uni ayta olmaydi. Buyurtmachi pastki chegara nima uchun kerakligini tushuntirishi mumkin.\n   Taklif etilayotgan tahrir: Taklif etiladigan ustama haqi miqdori 16 foizdan oshmasligi lozim.\n\n2. Texnik topshiriq, 9-bet.\n   Hujjatdagi matn: «oziq-ovqat mahsulotlarining kamida uch oylik zaxirasini»\n   Savolimiz: Shartnoma 2026-yil noyabr-dekabr oylarini, ya'ni ikki oyni qamrab oladi, lekin uch oylik oziq-ovqat zaxirasini yaratish va saqlash talab qilinadi. Bu muddat shartnoma davridan uzoq va katta aylanma mablag' hamda ombor talab qiladi, shuning uchun kichik yetkazib beruvchilar qatnasha olmasligi mumkin. Talabning shartnoma hajmiga mutanosibligini tekshirish tavsiya etiladi.\n   Taklif etilayotgan tahrir: Autsorser shartnoma muddati davomida ovqatlantirish uzluksizligini ta'minlash uchun zarur hajmdagi oziq-ovqat zaxirasini (kamida bir oylik ehtiyoj miqdorida) saqlaydi.\n\n3. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Autsorsing xizmati bo‘yicha kamida uch oylik shartnoma summasiga teng aylanma mablag‘larga ega bo‘lish»\n   Savolimiz: Xizmat shartnomasi atigi ikki oyga (noyabr-dekabr) tuzilmoqda, ammo ishtirokchidan kamida uch oylik shartnoma summasiga teng aylanma mablag' talab qilinadi va bu mezon bo'yicha ball ham beriladi. Bu talab shartnomaning o'zidan ko'proq mablag'ni ko'rsatishni talab qilishi va kichik ijrochilarni chetlashtirishi mumkin. Buyurtmachi bu miqdor shartnoma muddatiga mosligini aniqlashtirishi maqsadga muvofiq.\n   Taklif etilayotgan tahrir: Ishtirokchi shartnoma muddati davomidagi xizmat qiymatini qoplashga yetarli aylanma mablag'lari mavjudligini bank ma'lumotnomasi yoki moliyaviy hisobot bilan tasdiqlaydi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 09:43) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 3,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3333,
+  "top_winner_share": 0.3333,
+  "share_price_drop_lt1pct": 0.3333,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 10794041.28,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "lint_backend": "in-session"
+}

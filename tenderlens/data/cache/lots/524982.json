@@ -1,0 +1,261 @@
+{
+ "lot_id": 524982,
+ "display_no": "26110012524982",
+ "title": "“Yangi zamon bino” MChJ ustav kapitalidagi 50 foiz davlat ulushini baholash hisobotini haqqoniyligini ekspertizadan o‘tkazish",
+ "url": "https://etender.uzex.uz/lot/524982",
+ "customer": {
+  "name": "Давлат мулки кумитаси Тошкент шахар худудий бошкармаси.",
+  "tin": "200950435"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 7927500.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T17:01:34",
+ "end_date": "2026-11-23T17:01:34",
+ "clarific_date": "2026-11-23T17:01:34",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 50.0,
+  "cost_coef": 50.0,
+  "min_point": 30,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524982.pdf",
+  "pages": 16,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "\"Yangi zamon bino\" MChJ ustav kapitalidagi 50 foiz davlat ulushini baholash hisobotining haqqoniyligini ekspertizadan o'tkazish xizmati",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "maqsadli jamg'arma",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Baholash sanasi 2026-yil 1-sentabr holatiga belgilangan.",
+   "summary_en": "The valuation date is fixed as of 1 September 2026.",
+   "quote": "2026-yil 1-sentabr holatiga asosan.",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "Ekspertiza shartnoma tuzilgan kundan 15 kun ichida yakunlanishi kerak.",
+   "summary_en": "The expert review must be completed within 15 days of the contract date.",
+   "quote": "Xizmatlarini ko‘rsatish bo‘yicha shartnoma tuzilgan kundan 15 kun.",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Ijrochi baholash faoliyati bilan shug'ullanuvchi yuridik shaxs bo'lgan baholovchi tashkilot bo'lishi kerak.",
+   "summary_en": "The contractor must be a legal-entity valuation firm licensed for valuation activity.",
+   "quote": "baholash faoliyatini amalga oshiruvchi yuridik shaxs maqomiga ega",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Baholovchi tashkilot yuqori A reytingga ega bo'lishi shart.",
+   "summary_en": "The valuation firm must hold a high A rating.",
+   "quote": "baholovchi tashkilot yuqori A reytingga ega bo‘lishi",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Tashkilot shtatida birinchi toifali baholovchi bo'lishi kerak.",
+   "summary_en": "The firm must employ a first-category valuer.",
+   "quote": "baholovchi tashkilotlar shtatida birinchi toifa baholovchi mavjud bo‘lishi",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Milliy standartlar bo'yicha baholangan kamida 3 ta o'xshash loyiha (shu jumladan xususiylashtirish) tajribasi talab etiladi.",
+   "summary_en": "Experience of at least 3 similar projects valued under national standards (including privatisation) is required.",
+   "quote": "milliy standartlar bo‘yicha baholangan kamida 3 ta o‘xshash loyihani (shu jumladan xususiylashtirishni) amalga oshirgan bo‘lishi",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Shartnoma tuzilgunga qadar kamida 1 yil baholash faoliyati olib borilgan bo'lishi kerak.",
+   "summary_en": "At least 1 year of valuation activity before the contract is required.",
+   "quote": "Shartnoma tuzilgunga qadar (litsenziya berilgan sana bilan belgilanadi) kamida 1 yil davomida (aktivlarni) baholash faoliyatini amalga oshirish",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Tashkilot mulkni tekshirish (audit) jarayonida ishtirok etmasligi kerak.",
+   "summary_en": "The firm must not take part in auditing the property being valued.",
+   "quote": "Tashkilot mulkni tekshirish (audit jarayoni)da ishtirok etmasligi kerak",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "technical",
+   "summary_uz": "Hisobot ikki nusxada, o'zbek va rus tillarida taqdim etiladi.",
+   "summary_en": "The report is delivered in two copies in Uzbek and Russian.",
+   "quote": "Ijrochi Buyurtmachiga ikki nusxada Hisobot va tegishli ilovalarni o‘zbek/rus tillarida taqdim etadi",
+   "page": 12,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "technical",
+   "summary_uz": "Hisob-kitoblar kompaniya faoliyatining kamida 3 yillik tahliliga asoslanishi kerak.",
+   "summary_en": "Calculations must rest on an analysis of the company's activity for at least the previous 3 years.",
+   "quote": "baholash sanasidan oldingi kamida 3 yil davomida kompaniya faoliyatini tahlil qilish to‘g‘risida",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Baholovchi tashkilotlar assotsiatsiyasiga a'zolik hujjatlari uchun 10 ball beriladi.",
+   "summary_en": "10 points are given for documents proving membership of a valuers' association.",
+   "quote": "Baxolovchi tashkilotlar asotsiatsiyasiga a’zoligi to‘g‘risidagi xujjatlar",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r12",
+   "kind": "evaluation",
+   "summary_uz": "Minimal o'tish bali 30; texnik qism 50 ball, narx qismi 50 ball.",
+   "summary_en": "The minimum pass score is 30; technical part 50 points, price part 50 points.",
+   "quote": "Minimal o‘tish bali 30 ball etib belgilansin va 5 ish kuni muddati bilan",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r13",
+   "kind": "other",
+   "summary_uz": "Ijrochi 3 yil davomida buyurtmachidan olingan ma'lumotlarning maxfiyligini ta'minlashi kerak.",
+   "summary_en": "The contractor must keep information received from the customer confidential for 3 years.",
+   "quote": "3 yil davomida baholash davomida Buyurtmachidan olingan ma’lumotlarning maxfiyligini ta’minlash",
+   "page": 7,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "low",
+   "quote": "baholovchi tashkilot yuqori A reytingga ega bo‘lishi",
+   "page": 6,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Yuqori A reyting majburiy talab sifatida qo'yilgan va shu bilan birga texnik qismda 15 ball bilan ham baholanadi. Bu talab nisbatan kichik summali xizmat uchun reytingi pastroq, ammo malakali baholash tashkilotlarining qatnashishini cheklashi mumkin; talabning sababini buyurtmachidan so'rab aniqlash maqsadga muvofiq.",
+   "explanation_en": "A high A rating is set as a mandatory condition and is also scored with 15 points in the technical part. For a fairly small-value service this may limit participation by qualified valuation firms with a lower rating, so it is worth asking the customer for the reason.",
+   "rewrite_uz": "Baholovchi tashkilot amaldagi qonunchilikka muvofiq baholash faoliyatini amalga oshirish huquqiga ega bo'lishi kerak; reyting yuqori bo'lsa, qo'shimcha ball berilishi mumkin, ammo u qatnashish sharti bo'lmaydi.",
+   "rewrite_en": "The valuation firm must hold the right to carry out valuation activity under the applicable rules; a higher rating may earn extra points but is not a condition for taking part.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 90,
+ "traffic_light": "green",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 6,
+  "history_penalty": 4.4,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (6-bet): Yuqori A reyting majburiy talab sifatida qo'yilgan va shu bilan birga texnik qismda 15 ball bilan ham baholanadi. Bu talab nisbatan kichik summali xizmat uchun reytingi pastroq, ammo malakali baholash tashkilotlarining qatnashishini cheklashi mumkin; talabning sababini buyurtmachidan so'rab aniqlash maqsadga muvofiq.",
+   "Buyurtmachining so'nggi 507 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 49% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 27%."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "Other clause that may limit competition (page 6): A high A rating is set as a mandatory condition and is also scored with 15 points in the technical part. For a fairly small-value service this may limit participation by qualified valuation firms with a lower rating, so it is worth asking the customer for the reason.",
+   "In the customer's last 507 deals the median number of bidders was 3; 49% of deals had two or fewer bidders; the most frequent winner took 27%."
+  ]
+ },
+ "documents_needed_uz": [
+  "Baholash faoliyatini amalga oshirish huquqini tasdiqlovchi hujjatlar (yuridik shaxs maqomi, litsenziya)",
+  "Baholovchi tashkilotning reytingi haqidagi hujjat",
+  "Birinchi toifali baholovchining malaka sertifikati va mehnat shartnomasi",
+  "Kamida 3 ta o'xshash loyiha bo'yicha tajriba ma'lumoti va mijozlarning yozma tavsiyalari",
+  "Baholovchilar professional birlashmasiga a'zolik hujjati",
+  "Fuqarolik javobgarligini sug'urtalash polisi",
+  "Jalb qilinayotgan mutaxassislar va kompaniya (konsultant) malakasi va tajribasi haqida ma'lumot",
+  "Baholashni amalga oshirish muddati bo'yicha taklif",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+  "Bankrotlik jarayoni yo'qligini tasdiqlovchi hujjat",
+  "Insofsiz ijrochilar reyestrida yo'qligini tasdiqlovchi ma'lumot",
+  "Baholashni amalga oshirish bo‘yicha jalb qilinayotgan mutaxassislarning malakasi va tajribasi, tashkilot yuqori A reytingga ega bo‘lishi",
+  "Baholashni amalga oshirish bo‘yicha jalb qilinayotgan kompaniya (konsultant)ning malakasi va tajribasi",
+  "Baxolovchi tashkilotlar asotsiatsiyasiga a’zoligi to‘g‘risidagi xujjatlar",
+  "Baholashni amalga oshirish muddati"
+ ],
+ "clarification_letter_uz": "Kimga: Давлат мулки кумитаси Тошкент шахар худудий бошкармаси., xarid komissiyasiga\nLot raqami: 26110012524982\nXarid predmeti: “Yangi zamon bino” MChJ ustav kapitalidagi 50 foiz davlat ulushini baholash hisobotini haqqoniyligini ekspertizadan o‘tkazish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 6-bet.\n   Hujjatdagi matn: «baholovchi tashkilot yuqori A reytingga ega bo‘lishi»\n   Savolimiz: Yuqori A reyting majburiy talab sifatida qo'yilgan va shu bilan birga texnik qismda 15 ball bilan ham baholanadi. Bu talab nisbatan kichik summali xizmat uchun reytingi pastroq, ammo malakali baholash tashkilotlarining qatnashishini cheklashi mumkin; talabning sababini buyurtmachidan so'rab aniqlash maqsadga muvofiq.\n   Taklif etilayotgan tahrir: Baholovchi tashkilot amaldagi qonunchilikka muvofiq baholash faoliyatini amalga oshirish huquqiga ega bo'lishi kerak; reyting yuqori bo'lsa, qo'shimcha ball berilishi mumkin, ammo u qatnashish sharti bo'lmaydi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (23.11.2026 17:01) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 507,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4911,
+  "top_winner_share": 0.2702,
+  "share_price_drop_lt1pct": 0.1164,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 1117777.5,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

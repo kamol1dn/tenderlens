@@ -1,0 +1,225 @@
+{
+ "lot_id": 524187,
+ "display_no": "26120012524187",
+ "title": "Запасные части для кранового хозяйства (согласно ТЗ) / Кран хўжалиги учун эҳтиёт қисмлар (Техник топшириққа мувофиқ)",
+ "url": "https://etender.uzex.uz/lot/524187",
+ "customer": {
+  "name": "\"O`ZBEKISTON METALLURGIYA KOMBINATI\" AJ",
+  "tin": "200460222"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 1758499456.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T09:26:53",
+ "end_date": "2026-12-01T09:26:53",
+ "clarific_date": "2026-12-01T09:26:53",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 2,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524187.pdf",
+  "pages": 45,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": [
+   3,
+   4,
+   8,
+   11
+  ]
+ },
+ "subject_uz": "Kran xo'jaligi uchun ehtiyot qismlar: tishli g'ildirak m-20 z-75, val-shesterna m-20 z-15 va chiqish shesternyasi m=24 z=18",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Korxona mablag'lari/собственные средства",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Tishli g'ildirak tishlarining qattiqligi 35-38 HRC oralig'ida bo'lishi kerak.",
+   "summary_en": "Tooth hardness of the gear wheel must be within 35-38 HRC.",
+   "quote": "Твердесть зубьев должно быть в предела 35 - 38 HRC.",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Chiqish shesternyasi buyurtmachi taqdim etgan chizmalarga to'liq mos bo'lishi kerak.",
+   "summary_en": "The output pinion must fully match the drawings supplied by the customer.",
+   "quote": "Шестерня выходная должна полностью соответствовать требованиям чертежей, предоставляемых заказчиком, указанных в приложение №1",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Mahsulot yangi, tiklanmagan va joriy yildan oldin ishlab chiqarilmagan bo'lishi kerak.",
+   "summary_en": "Goods must be new, not refurbished, and manufactured no earlier than the current year.",
+   "quote": "не восстановленным, не бывшим в употреблении, а дата изготовления должно быть не ранее текущего года",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Quyma zagotovka uchun sifat sertifikati (GOST 7832-65) taqdim etiladi.",
+   "summary_en": "A quality certificate for the casting blank (GOST 7832-65) must accompany the gear.",
+   "quote": "сертификат качества на литье (заготовка зубчатого колеса по ГОСТ 7832-65)",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati shartnoma imzolanganidan 90 ish kuni.",
+   "summary_en": "Delivery within 90 working days of contract signing.",
+   "quote": "90 рабочих дней с даты подписания договора",
+   "page": 29,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "delivery",
+   "summary_uz": "Tovar Bekobod shahridagi buyurtmachi omborigacha yetkaziladi.",
+   "summary_en": "Goods are delivered to the customer's warehouse in Bekabad.",
+   "quote": "Доставка до склада Покупателя. АО «Узметкомбинат», Республика Узбекистан, Ташкентская область, г. Бекабад, ул. Сирдарё, 1.",
+   "page": 29,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "payment",
+   "summary_uz": "To'lov yetkazib berilgandan keyin 100 foiz, 15 kun ichida; avans yo'q.",
+   "summary_en": "100 percent payment after delivery within 15 days; no advance.",
+   "quote": "Условия оплаты 100% по факту поставки товара",
+   "page": 29,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "other",
+   "summary_uz": "Kafolat muddati foydalanishga topshirilgandan 12 oy, ammo jo'natish tugagandan keyin 18 oydan oshmaydi.",
+   "summary_en": "Warranty is 12 months from commissioning but no more than 18 months after the end of shipment.",
+   "quote": "Гарантийный срок эксплуатации запасных частей для кранового хозяйство 12 месяцев со дня ввода в эксплуатацию, но не более 18 месяцев после окончания отгрузки оборудования заказчику.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Taklif ta'minoti boshlang'ich narxning 1 foizi (taxminan 17,6 mln so'm).",
+   "summary_en": "Bid security is 1 percent of the limit price (about 17.6 million UZS).",
+   "quote": "1% от предельной стоимости конкурса",
+   "page": 29,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "qualification",
+   "summary_uz": "Kafolat xatida ishtirokchi buyurtmachi bilan sud yoki arbitraj jarayonida emasligini tasdiqlaydi.",
+   "summary_en": "A guarantee letter confirms the bidder is not in court or arbitration proceedings.",
+   "quote": "не находится в состоянии судебного или арбитражного разбирательства",
+   "page": 39,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "qualification",
+   "summary_uz": "Soliq inspeksiyasidan soliq va yig'imlar bo'yicha muddati o'tgan qarz yo'qligi haqida ma'lumotnoma kerak.",
+   "summary_en": "A tax-inspectorate certificate of no overdue tax debt is required.",
+   "quote": "Предоставление справки от налоговой инспекции о том, что участник не имеет просроченной задолженности по уплате налогов и сборов.",
+   "page": 37,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "evaluation",
+   "summary_uz": "Baholash eng past narx usulida: malaka va texnik tanlovdan o'tgan eng arzon ishtirokchi g'olib bo'ladi.",
+   "summary_en": "Lowest-price method: the cheapest bidder passing the qualification and technical checks wins.",
+   "quote": "Участник с наименьшей ценой, который прошел квалификационный и технический отбор объявляется победителем.",
+   "page": 45,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 97,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 3.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 139 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 36% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 10%.",
+   "Diqqat: hujjatning 4 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 139 deals the median number of bidders was 3; 36% of deals had two or fewer bidders; the most frequent winner took 10%.",
+   "Note: 4 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Tanlash ishtirokchisi va uning ta'sischilari haqida umumiy ma'lumot (1-shakl)",
+  "Kafolat xati: qayta tashkil etish, bankrotlik, sud yoki arbitraj jarayoni, muddati o'tgan qarz, offshor hududlar, insofsiz ijrochilar reyestri va oldingi shartnomalar bo'yicha (2-shakl)",
+  "Halollik majburiyatlari bayonoti (3-shakl)",
+  "Taklifning texnik qismi, texnik parametrlar bilan (4-shakl)",
+  "Yetkazib berish shartlari va muddatlari, to'lov shartlari to'g'risida ma'lumot (5-shakl)",
+  "Soliq inspeksiyasidan soliq va yig'imlar bo'yicha qarzi yo'qligi haqida ma'lumotnoma",
+  "Tashkilotning davlat ro'yxatidan o'tganligi guvohnomasi va rahbar pasporti nusxasi (ixtiyoriy)",
+  "Taklifni ta'minlash (boshlang'ich narxning 1 foizi)",
+  "Yetkazib berishda: muvofiqlik va sifat sertifikati, mahsulot pasporti, kelib chiqish sertifikati (CT-1)",
+  "Texnik taklif/Техническое предложение",
+  "Етказиб бериш ва тулов шартлари/условия доставки и оплаты"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 139,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.3597,
+  "top_winner_share": 0.1007,
+  "share_price_drop_lt1pct": 0.1511,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 247948423.3,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 14.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

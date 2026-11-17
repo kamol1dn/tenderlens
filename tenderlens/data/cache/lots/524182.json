@@ -1,0 +1,274 @@
+{
+ "lot_id": 524182,
+ "display_no": "26120012524182",
+ "title": "Samarqand viloyati Jomboy tumani “Xitoypoyon” mahallasi “Buloqboshi” qishlogʻida joylashgan bodom bogʻi barpo etish (Tomchilatib sugʻorish tizimi).",
+ "url": "https://etender.uzex.uz/lot/524182",
+ "customer": {
+  "name": "JOMBOY - AGRO STAR MCHJ",
+  "tin": "312408575"
+ },
+ "region": "Самарқанд вилояти",
+ "start_cost": 1442171465.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T16:48:11",
+ "end_date": "2026-11-18T16:48:11",
+ "clarific_date": "2026-11-18T16:48:11",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 25,
+  "criteria": [
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 5.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524182.rar",
+  "pages": 12,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Jomboy tumanida bodom bog'i barpo etish va tomchilatib sug'orish tizimini qurish ishlari",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "O'z mablag'lari.",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Sig'imi 1000 m2 / 1200 m3 bo'lgan hovuz qurilishi, betonlash va geomembrana hamda geotekstil yotqizish.",
+   "summary_en": "Build a reservoir (1000 m2 / 1200 m3), concrete it and lay geomembrane and geotextile.",
+   "quote": "Hovuz (ombor) qurish, betonlash, geomembrana (1,5mm) va seotekstil (300e) yotqizish",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Chastotali boshqariladigan markaziy nasos va boshqaruv shiti o'rnatiladi.",
+   "summary_en": "A central pump with frequency control and a control panel are installed.",
+   "quote": "Markaziy nasos (Chastotali boshqariluvchi 1 20 m3lsoat) va boshqaruv shiti",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Tomchilatib sug'orish shlanglari taxminan 137,85 km hajmda yotqiziladi.",
+   "summary_en": "About 137.85 km of drip-irrigation hose is laid.",
+   "quote": "Tomchilatish shlanglari (d:16mm, 4llsoat, I.0 m, 2 qator)",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Barcha material va uskunalar davlat standartlariga mos va sertifikatlangan bo'lishi shart.",
+   "summary_en": "All materials and equipment must meet state standards and be certified.",
+   "quote": "davlat standartlariga javob berishi va sertifikatlangan bo'lishi shart.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "O'xshash loyihalar tajribasi uchun 3 ta va undan ko'p loyiha bo'lsa 15 ball, 2 ta bo'lsa 10, 1 ta bo'lsa 5 ball beriladi.",
+   "summary_en": "Experience is scored: 3 or more similar projects give 15 points, 2 give 10, 1 gives 5.",
+   "quote": "3 ta va undan ortiq shunga oʻxshash loyiha bajarilgan",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "5 nafar va undan ortiq malakali mutaxassis uchun 10 ball (3-4 nafar uchun 7, 1-2 nafar uchun 4 ball).",
+   "summary_en": "Five or more qualified specialists score 10 points (3-4 score 7, 1-2 score 4).",
+   "quote": "5 nafar va undan ortiq malakali mutaxassis",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "Kerakli texnikaning hammasi o'ziga tegishli bo'lsa 10 ball, hammasi ijaraga olingan bo'lsa 5 ball.",
+   "summary_en": "Fully owned equipment scores 10 points, fully rented equipment scores 5.",
+   "quote": "Kerakli texnikaning 100% qismi oʻziga tegishli",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Suv xo'jaligi vazirligining Tomchi reestridan ro'yxatdan o'tganlik uchun 10 ball beriladi.",
+   "summary_en": "Registration in the Water Ministry's drip-irrigation (Tomchi) register scores 10 points.",
+   "quote": "reestr.mwr.uz (Tomchi reestr) platformasidan ro‘yxatdan o‘tgan",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "1 yil kafolat muddati uchun 5 ball beriladi.",
+   "summary_en": "A one-year warranty scores 5 points.",
+   "quote": "1 yil kafolat muddati",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Obyektni ko'zdan kechirganlik haqidagi ma'lumotnoma shaklga mos va obyekt rasmlari bilan taqdim etilsa 15 ball beriladi.",
+   "summary_en": "A site-inspection certificate in the required form with photos of the site scores 15 points.",
+   "quote": "Shaklga mos holda mavjud (Obyekt rasmlari ilova qilinsa)",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "other",
+   "summary_uz": "Pudratchi loyiha-smeta hujjatlari va ekspertiza xulosasida ko'rsatilgan ishlarni bajarishi shart.",
+   "summary_en": "The contractor must carry out the works listed in the design-estimate documents and expert conclusion.",
+   "quote": "Pudratchi loyiha-smeta hujjatlari, ekspertiza xulosasi va nuqsonlar dalolatnomasida",
+   "page": 2,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "Shaklga mos holda mavjud (Obyekt rasmlari ilova qilinsa)",
+   "page": 3,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Obyektni ko'zdan kechirganlik haqidagi ma'lumotnoma uchun 15 ball beriladi, bu ballanadigan 65 balning taxminan to'rtdan biri. Talab qilinadigan hujjat shakli hujjatlarda ko'rsatilmagan, shuning uchun obyektga borib kelgan ishtirokchi ham shakl nomuvofiqligi sababli 1 ball olishi mumkin.",
+   "explanation_en": "A site-inspection certificate is worth 15 points, about a quarter of the 65 scoreable points. The required form is not shown in the documents, so a bidder who did visit the site could still receive only 1 point for a form mismatch.",
+   "rewrite_uz": "Obyektni ko'zdan kechirganlik to'g'risidagi ma'lumotnoma ixtiyoriy; uning shakli xarid hujjatlariga ilova qilinadi va ballar faqat ishlarni baholash uchun muhim ma'lumotlar mavjudligiga qarab beriladi.",
+   "rewrite_en": "The site-inspection certificate is optional; its form is attached to the procurement documents and points depend only on whether the information relevant to the works is given.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "low",
+   "quote": "Kerakli texnikaning 100% qismi oʻziga tegishli",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Texnikasi to'liq o'ziga tegishli ishtirokchi 10 ball, ijaraga olingan texnikadan foydalanadigan ishtirokchi esa 5 ball oladi. Ijara orqali ta'minlangan texnika ishlarni xuddi shunday bajara olishi mumkin, shuning uchun 5 ballik farq izohga muhtoj.",
+   "explanation_en": "A bidder owning all equipment gets 10 points while one using rented equipment gets 5. Rented machinery can do the same work, so the 5-point gap may warrant a clarifying question.",
+   "rewrite_uz": "Texnika mavjudligi (shaxsiy yoki ijaraga olingan) shartnoma muddati davomida ishlar uchun yetarli ekani tasdiqlangan holda bir xil baholansin.",
+   "rewrite_en": "Equipment availability, whether owned or rented, is scored equally provided it is confirmed as sufficient for the contract period.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 65,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 28,
+  "history_penalty": 7.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (3-bet): Obyektni ko'zdan kechirganlik haqidagi ma'lumotnoma uchun 15 ball beriladi, bu ballanadigan 65 balning taxminan to'rtdan biri. Talab qilinadigan hujjat shakli hujjatlarda ko'rsatilmagan, shuning uchun obyektga borib kelgan ishtirokchi ham shakl nomuvofiqligi sababli 1 ball olishi mumkin.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): Texnikasi to'liq o'ziga tegishli ishtirokchi 10 ball, ijaraga olingan texnikadan foydalanadigan ishtirokchi esa 5 ball oladi. Ijara orqali ta'minlangan texnika ishlarni xuddi shunday bajara olishi mumkin, shuning uchun 5 ballik farq izohga muhtoj.",
+   "Buyurtmachining so'nggi 5 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 40% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 60%.",
+   "Tushuntirish so'rash muddati: 18.11.2026 16:48."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Other clause that may limit competition (page 3): A site-inspection certificate is worth 15 points, about a quarter of the 65 scoreable points. The required form is not shown in the documents, so a bidder who did visit the site could still receive only 1 point for a form mismatch.",
+   "Other clause that may limit competition (platform criteria form): A bidder owning all equipment gets 10 points while one using rented equipment gets 5. Rented machinery can do the same work, so the 5-point gap may warrant a clarifying question.",
+   "In the customer's last 5 deals the median number of bidders was 3; 40% of deals had two or fewer bidders; the most frequent winner took 60%.",
+   "Clarification requests are accepted until 18.11.2026 16:48."
+  ]
+ },
+ "documents_needed_uz": [
+  "O'xshash loyihalarni amalga oshirish bo'yicha tajriba haqida ma'lumot",
+  "Malakali muhandis-texnik va ishchi xodimlar mavjudligi haqida ma'lumot",
+  "Moddiy-texnik baza (maxsus texnika va mexanizmlar) mavjudligi haqida ma'lumot",
+  "Tomchi reestridan ro'yxatdan o'tganlik to'g'risida ma'lumot",
+  "Kafolat muddati va servis xizmati bo'yicha ma'lumot",
+  "Obyektni ko'zdan kechirganlik to'g'risida ma'lumotnoma (obyekt rasmlari bilan)",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumot",
+  "Insofsiz ijrochilar reyestrida yo'qligi bo'yicha tasdiq",
+  "Majburiy ijro byurosi ma'lumotlar bazasida bajarilmagan majburiyat yo'qligi haqida tasdiq",
+  "Oʻxshash loyihalarni amalga oshirish boʻyicha tajriba",
+  "Malakali muhandis-texnik va ishchi xodimlarning mavjudligi",
+  "Moddiy-texnik baza mavjudligi (Maxsus texnika va mexanizmlar)",
+  "O‘zbekiston Respublikasining Suv xo‘jaligi vazirligining reestr.mwr.uz (Tomchi reestr) platformasidan ro‘yxatdan o‘tganligi toʻgʻrisida ma’lumot",
+  "Kafolat muddati va servis xizmati",
+  "Qurilish (ta’mirlash) obyektini koʻzdan kechirganlik toʻgʻrisida ma’lumotnoma"
+ ],
+ "clarification_letter_uz": "Kimga: JOMBOY - AGRO STAR MCHJ, xarid komissiyasiga\nLot raqami: 26120012524182\nXarid predmeti: Samarqand viloyati Jomboy tumani “Xitoypoyon” mahallasi “Buloqboshi” qishlogʻida joylashgan bodom bogʻi barpo etish (Tomchilatib sugʻorish tizimi).\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 3-bet.\n   Hujjatdagi matn: «Shaklga mos holda mavjud (Obyekt rasmlari ilova qilinsa)»\n   Savolimiz: Obyektni ko'zdan kechirganlik haqidagi ma'lumotnoma uchun 15 ball beriladi, bu ballanadigan 65 balning taxminan to'rtdan biri. Talab qilinadigan hujjat shakli hujjatlarda ko'rsatilmagan, shuning uchun obyektga borib kelgan ishtirokchi ham shakl nomuvofiqligi sababli 1 ball olishi mumkin.\n   Taklif etilayotgan tahrir: Obyektni ko'zdan kechirganlik to'g'risidagi ma'lumotnoma ixtiyoriy; uning shakli xarid hujjatlariga ilova qilinadi va ballar faqat ishlarni baholash uchun muhim ma'lumotlar mavjudligiga qarab beriladi.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Kerakli texnikaning 100% qismi oʻziga tegishli»\n   Savolimiz: Texnikasi to'liq o'ziga tegishli ishtirokchi 10 ball, ijaraga olingan texnikadan foydalanadigan ishtirokchi esa 5 ball oladi. Ijara orqali ta'minlangan texnika ishlarni xuddi shunday bajara olishi mumkin, shuning uchun 5 ballik farq izohga muhtoj.\n   Taklif etilayotgan tahrir: Texnika mavjudligi (shaxsiy yoki ijaraga olingan) shartnoma muddati davomida ishlar uchun yetarli ekani tasdiqlangan holda bir xil baholansin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 16:48) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 5,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4,
+  "top_winner_share": 0.6,
+  "share_price_drop_lt1pct": 0.4,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 203346176.57,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

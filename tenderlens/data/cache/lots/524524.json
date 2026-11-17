@@ -1,0 +1,253 @@
+{
+ "lot_id": 524524,
+ "display_no": "26120012524524",
+ "title": "Sanitar tozalash, qattiq maishiy chiqindilarni yig‘ish va tashish jarayonlarini raqamlashtirish uchun dispetcherlik-boshqaruv veb-platformasini ishlab chiqish, joriy etish va ishga tushirish.",
+ "url": "https://etender.uzex.uz/lot/524524",
+ "customer": {
+  "name": "SURXONDARYO VILOYATI TOZA HUDUD DM",
+  "tin": "304938403"
+ },
+ "region": "Сурхандарё вилояти",
+ "start_cost": 261528652.0,
+ "currency": "UZS",
+ "start_date": "2026-11-12T19:06:47",
+ "end_date": "2026-11-19T19:06:47",
+ "clarific_date": "2026-11-19T19:06:47",
+ "type": "selection",
+ "old_id": 524226,
+ "evaluation": {
+  "tech_coef": 30.0,
+  "cost_coef": 70.0,
+  "min_point": 60,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларда суғурталашга қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524524.pdf",
+  "pages": 52,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   18,
+   47
+  ]
+ },
+ "subject_uz": "Sanitar tozalash va chiqindi tashishni raqamlashtirish uchun haydovchi mobil ilovasi, mavjud GPS tizimini GIS xaritaga ulash va dispetcherlik-boshqaruv veb-platformasini ishlab chiqish",
+ "sector": "it",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Buydjet emas",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Haydovchilar uchun Android mobil ilova ishlab chiqilishi kerak.",
+   "summary_en": "An Android mobile app for drivers must be developed.",
+   "quote": "Android операцион тизимида ишлайдиган мобил илова ишлаб чикиш.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Ijrochi mavjud GPS provayder va qurilmalarini almashtirmasdan ularni tizimga ulashi shart.",
+   "summary_en": "The contractor must integrate the existing GPS devices and provider without replacing them.",
+   "quote": "Mashinalarda o'rnatilgan GPS trackerlar almashtirilmaydi va ularning sozlamalari",
+   "page": 38,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Maxsus GPS qurilmalari, SIM-kartalar va telefonlar sotib olish xaridga kirmaydi.",
+   "summary_en": "Purchase of GPS trackers, SIM cards and phones is outside the scope of the procurement.",
+   "quote": "GPS trekerlar, telefonlar va boshqa jihozlarni sotib olish",
+   "page": 35,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Ma'lumotlar O'zbekiston hududidagi serverlarda saqlanishi kerak.",
+   "summary_en": "Data must be stored on servers located in Uzbekistan.",
+   "quote": "Ma'lumotlar O'zbekiston hududidagi serverlarda saqlanadi; mexanizm loyiha",
+   "page": 42,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Kiberxavfsizlik ekspertizasi, attestatsiya va sertifikatlash xizmatlari va ularning to'lovlari ijrochi hisobiga loyiha doirasiga kiradi.",
+   "summary_en": "Cybersecurity expert review, attestation and certification services and their fees fall within the project scope.",
+   "quote": "kiberxavfsizlik ekspertizasi, attestatsiya va sertifikatlash xizmatlari hamda ularning to'lovlari loyiha doirasi ichiga kiradi",
+   "page": 52,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "technical",
+   "summary_uz": "Ishlab chiqilgan dasturning manba kodi to'liq to'lovdan keyin buyurtmachiga topshiriladi.",
+   "summary_en": "The source code is handed to the customer after full payment.",
+   "quote": "Manba kodi to'liq to'lov amalga oshirilgandan keyin buyurtrnachiga topshiriladi",
+   "page": 37,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "technical",
+   "summary_uz": "Texnik topshiriq mavjud Tozalive platformasi ustiga yangi modullar qo'shishni nazarda tutadi (mavjud autentifikatsiya va API shlyuzi qayta ishlatiladi).",
+   "summary_en": "The specification builds new modules on top of the existing Tozalive platform, reusing its authentication and API gateway.",
+   "quote": "Loyiha noldan boshlanmaydi. Ijrochi tomonidan Tozalive platformasi ishlab chiqilgan",
+   "page": 45,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Tizim qabul qilingan sanadan boshlab kamida 6 oy bepul kafolatli xizmat ko'rsatilishi kerak.",
+   "summary_en": "The system must be supported free of charge for at least 6 months from acceptance.",
+   "quote": "Тизим цабул цилинган санадан бошлаб камида б ой кафолат хак олмасдан хизмат к}рсатилиши.",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "delivery",
+   "summary_uz": "Buyurtmachi bosqich demosini 7 ish kuni ichida qabul qilmasa yoki izoh bermasa, bosqich qabul qilingan hisoblanadi.",
+   "summary_en": "If the customer does not respond within 7 working days, a stage is deemed accepted.",
+   "quote": "7 ish kuni ichida javob kelmasa, bosqich qabul qilingan hisoblanadi",
+   "page": 32,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Taklifda tizimning funksional tavsifi va arxitekturasi taqdim etilishi kerak.",
+   "summary_en": "The proposal must describe the system's functions and architecture.",
+   "quote": "Таклиф этилаётган тизимнинг функционал тавсифи ва архитектураси",
+   "page": 10,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "Loyiha noldan boshlanmaydi. Ijrochi tomonidan Tozalive platformasi ishlab chiqilgan",
+   "page": 45,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Texnik topshiriq yangi tizimni mavjud Tozalive platformasi ustiga quradi va bu platforma ijrochi tomonidan ishlab chiqilgani hamda ishlab turgani aytiladi; mavjud autentifikatsiya, API shlyuzi va joylashtirish jarayoni qayta ishlatilishi nazarda tutilgan. Bunday shartlarda boshqa ishlab chiquvchi loyihani noldan bajarishi va shu asosda raqobatlasha olishi qiyin bo'lishi mumkin.",
+   "explanation_en": "The specification builds the new system on the existing Tozalive platform and states it was developed by the contractor and is already in production, with its authentication, API gateway and deployment reused. Under these terms another developer may find it hard to deliver from scratch and compete on equal terms.",
+   "rewrite_uz": "Texnik topshiriqda mavjud tizim bilan integratsiya uchun zarur API va hujjatlar barcha ishtirokchilarga e'lon bilan birga taqdim etilsin va yangi tizim mustaqil, ochiq interfeyslar orqali ishlashi mumkinligi yozilsin.",
+   "rewrite_en": "State that the APIs and documentation of the existing system needed for integration are provided to all bidders with the notice, and that the new system may be built independently using open interfaces.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 78,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (45-bet): Texnik topshiriq yangi tizimni mavjud Tozalive platformasi ustiga quradi va bu platforma ijrochi tomonidan ishlab chiqilgani hamda ishlab turgani aytiladi; mavjud autentifikatsiya, API shlyuzi va joylashtirish jarayoni qayta ishlatilishi nazarda tutilgan. Bunday shartlarda boshqa ishlab chiquvchi loyihani noldan bajarishi va shu asosda raqobatlasha olishi qiyin bo'lishi mumkin.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524226).",
+   "Tushuntirish so'rash muddati: 19.11.2026 19:06.",
+   "Diqqat: hujjatning 2 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Other clause that may limit competition (page 45): The specification builds the new system on the existing Tozalive platform and states it was developed by the contractor and is already in production, with its authentication, API gateway and deployment reused. Under these terms another developer may find it hard to deliver from scratch and compete on equal terms.",
+   "This lot was re-announced (previous lot: 524226).",
+   "Clarification requests are accepted until 19.11.2026 19:06.",
+   "Note: 2 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik taklif: tizimning funksional tavsifi va arxitekturasi",
+  "Mavjud GPS tizimini ulash usuli, kerakli API va cheklovlar tavsifi",
+  "Ishlarni bajarish kalendar rejasi va har bir bosqich muddati",
+  "Loyiha jamoasi va mas'ul mutaxassislar haqida ma'lumot",
+  "Joriy etish, o'qitish va texnik qo'llab-quvvatlash rejasi",
+  "Server, xarita, litsenziya va uchinchi tomon xizmatlari bo'yicha qo'shimcha xarajatlar hisobi",
+  "Kafolat va keyingi texnik xizmat shartlari",
+  "Taklif narxiga kiritilgan ishlarning alohida hisob-kitobi",
+  "Malumotnoma (baholash mezonlari bo'yicha ilova qilinadigan ma'lumotlar)",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumot",
+  "Bankrotlik jarayoni yo'qligini tasdiqlovchi hujjat",
+  "Insofsiz ijrochilar reyestrida yo'qligini tasdiqlovchi ma'lumot"
+ ],
+ "clarification_letter_uz": "Kimga: SURXONDARYO VILOYATI TOZA HUDUD DM, xarid komissiyasiga\nLot raqami: 26120012524524\nXarid predmeti: Sanitar tozalash, qattiq maishiy chiqindilarni yig‘ish va tashish jarayonlarini raqamlashtirish uchun dispetcherlik-boshqaruv veb-platformasini ishlab chiqish, joriy etish va ishga tushirish.\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 45-bet.\n   Hujjatdagi matn: «Loyiha noldan boshlanmaydi. Ijrochi tomonidan Tozalive platformasi ishlab chiqilgan»\n   Savolimiz: Texnik topshiriq yangi tizimni mavjud Tozalive platformasi ustiga quradi va bu platforma ijrochi tomonidan ishlab chiqilgani hamda ishlab turgani aytiladi; mavjud autentifikatsiya, API shlyuzi va joylashtirish jarayoni qayta ishlatilishi nazarda tutilgan. Bunday shartlarda boshqa ishlab chiquvchi loyihani noldan bajarishi va shu asosda raqobatlasha olishi qiyin bo'lishi mumkin.\n   Taklif etilayotgan tahrir: Texnik topshiriqda mavjud tizim bilan integratsiya uchun zarur API va hujjatlar barcha ishtirokchilarga e'lon bilan birga taqdim etilsin va yangi tizim mustaqil, ochiq interfeyslar orqali ishlashi mumkinligi yozilsin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (19.11.2026 19:06) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 3,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.6667,
+  "top_winner_share": 0.6667,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 35672508.13,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

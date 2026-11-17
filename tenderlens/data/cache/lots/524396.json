@@ -1,0 +1,217 @@
+{
+ "lot_id": 524396,
+ "display_no": "26120012524396",
+ "title": "Услуги по ремонту пассажирских лифтов грузоподъёмностью 400 кг / Юк кўтариш қуввати 400 кг бўлган",
+ "url": "https://etender.uzex.uz/lot/524396",
+ "customer": {
+  "name": "АО OLMALIQ KON-METALLURGIYA KOMBINATI",
+  "tin": "202328794"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 192757260.63,
+ "currency": "UZS",
+ "start_date": "2026-11-13T10:45:34",
+ "end_date": "2026-11-20T10:45:34",
+ "clarific_date": "2026-11-20T10:45:34",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 11,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524396.pdf",
+  "pages": 10,
+  "text_source": "text",
+  "language": "ru",
+  "unreadable_pages": [
+   6
+  ]
+ },
+ "subject_uz": "Ikkita yo'lovchi liftini (yuk ko'tarish 400 kg) ta'mirlash, sozlash va sinash xizmatlari",
+ "sector": "construction",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Ўз маблағларимиз / Собственные средства",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "qualification",
+   "summary_uz": "Ishlarni lift jihozlarini ta'mirlash va xizmat ko'rsatish huquqiga ega ixtisoslashgan tashkilot bajarishi kerak.",
+   "summary_en": "Works must be done by a specialised organisation entitled to service and repair lift equipment.",
+   "quote": "Работы должны выполняться специализированной организацией, имеющей право на",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Nosozlik qaydnomalari bo'yicha uzellar, elektr jihozlari va boshqaruv shkafini ta'mirlash yoki almashtirish.",
+   "summary_en": "Repair or replacement of components, electrical equipment and control cabinet per the defect lists.",
+   "quote": "Ремонт или замена изношенных и повреждённых узлов лифтов в соответствии с дефектными",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Ishga tushirish-sozlash va qoidalarga muvofiq sinovlar o'tkazilishi, lift pasportiga yozuv kiritilishi kerak.",
+   "summary_en": "Commissioning, rule-based tests and a passport entry for each lift are required.",
+   "quote": "Проведение испытаний согласно «Правила устройства и безопасной эксплуатации лифтов»",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Barcha materiallar va ehtiyot qismlar yangi, yaroqli va jihoz xususiyatlariga mos bo'lishi kerak.",
+   "summary_en": "All materials and spare parts must be new, serviceable and compatible with the equipment.",
+   "quote": "Все применяемые материалы, запасные части и комплектующие должны быть новыми,",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Ishlar malakali, tegishli ruxsatnomalarga ega xodimlar tomonidan bajarilishi kerak.",
+   "summary_en": "Work must be done by qualified staff holding the relevant permits.",
+   "quote": "Выполнение работ квалифицированным персоналом, имеющим соответствующие допуски.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "other",
+   "summary_uz": "Ishlar uchun kafolat muddati kamida 12 oy, shu davrda texnik xizmat va ta'mirlash ham kiradi.",
+   "summary_en": "Warranty on the work is at least 12 months, including maintenance and repair during that period.",
+   "quote": "Гарантийный срок на выполненные работы и заменённые компоненты составляет не менее 12",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "delivery",
+   "summary_uz": "Ish muddati shartnomada belgilanadi va obyekt pudratchiga topshirilgan sanadan hisoblanadi.",
+   "summary_en": "The completion term is set by the contract and counted from handing the site to the contractor.",
+   "quote": "Срок выполнения работ определяется договором и исчисляется с даты передачи объекта",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Baholash faqat narx bo'yicha (100 foiz); texnik topshiriq bo'limlariga muvofiqlik bo'yicha o'tish bali 11.",
+   "summary_en": "Scoring is by price only (100 percent); the pass score on conformity to specification sections is 11.",
+   "quote": "Соответствие требованиям Технического задания раздела 3: наличие разрешительных документов для выполнения услуг",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "other",
+   "summary_uz": "Pudratchi dalolatnomalar, nosozlik qaydnomasi, sinov bayonnomalari va kafolatni taqdim etadi.",
+   "summary_en": "The contractor supplies completion acts, a defect list, test protocols and a warranty.",
+   "quote": "акты выполненных работ по двум лифтам;",
+   "page": 4,
+   "source": "spec"
+  }
+ ],
+ "flags": [],
+ "dropped_unverified": 0,
+ "fairness_score": 97,
+ "traffic_light": "green",
+ "finding_count": 0,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 0,
+  "history_penalty": 3.4,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Buyurtmachining so'nggi 437 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 48% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 5%.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "In the customer's last 437 deals the median number of bidders was 3; 48% of deals had two or fewer bidders; the most frequent winner took 5%.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Lift jihozlarini ta'mirlash huquqini beruvchi ruxsat hujjatlari",
+  "Lift ta'mirlash bo'yicha mutaxassislar ro'yxati va malaka hujjatlari",
+  "Lift ta'mirlash bo'yicha ma'lumotlar (tajriba)",
+  "Davlat ro'yxatidan o'tganlik to'g'risidagi guvohnoma",
+  "Manfaatlar to'qnashuvi va affillanganlik yo'qligi haqida ma'lumot",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+  "Majburiy ijro byurosi bazasidan ma'lumot",
+  "2. Соответствие требованиям Технического задания раздела 2: выполнение объёма работ / Техник топшириқнинг 2-бўлими талабларига мувофиқлиги: иш ҳажмининг бажарилиши",
+  "5. Соответствие требованиям Технического задания раздела 5: проведение освидетельствования / Техник топшириқнинг 5-бўлими талабларига мувофиқлиги: техник кўрикдан ўтказиш",
+  "4. Соответствие требованиям Технического задания раздела 4: наличие персонала по ремонту лифтов / Техник топшириқнинг 4-бўлими талабларига мувофиқлиги: лифтларни таъмирлаш бўйича мутахассисларнинг мавжудлиги",
+  "6. Соответствие требованиям Технического задания раздела 5: проведение технического обслуживания и ремонта в течение 12 месяцев / Техник топшириқнинг 5-бўлими талабларига мувофиқлиги: 12 ой давомида техник хизмат кўрсатиш ва таъмирлаш ишларини амалга ошириш",
+  "3. Соответствие требованиям Технического задания раздела 3: наличие разрешительных документов для выполнения услуг / Техник топшириқнинг 3-бўлими талабларига мувофиқлиги: хизматларни бажариш учун рухсат берувчи ҳужжатларнинг мавжудлиги",
+  "1. Соответствие требованиям Технического задания раздела 1: сведения о ремонте лифтов / Техник топшириқнинг 1-бўлими талабларига мувофиқлиги: лифтларни таъмирлаш бўйича маълумотлар"
+ ],
+ "clarification_letter_uz": "",
+ "customer_stats": {
+  "deals": 437,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4828,
+  "top_winner_share": 0.0481,
+  "share_price_drop_lt1pct": 0.151,
+  "reannounced_lots": 5
+ },
+ "money_on_table_uzs": 27178773.75,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,255 @@
+{
+ "lot_id": 524224,
+ "display_no": "26110012524224",
+ "title": "Энг яхши таклиф",
+ "url": "https://etender.uzex.uz/lot/524224",
+ "customer": {
+  "name": "Жиззах вилоят Арнасой туман Ободонлаштириш бошкармаси",
+  "tin": "200331524"
+ },
+ "region": "Жиззах вилояти",
+ "start_cost": 8500000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-11T13:37:25",
+ "end_date": "2026-11-18T13:37:25",
+ "clarific_date": "2026-11-18T13:37:25",
+ "type": "selection",
+ "old_id": 524193,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 50,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 35.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+    "max_score": 25.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524224.pdf",
+  "pages": 4,
+  "text_source": "text",
+  "language": "uz-cyrl",
+  "unreadable_pages": [
+   1
+  ]
+ },
+ "subject_uz": "Davlat bayrog'i (10x5 m bitta va 60x120 sm 200 dona) sotib olish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "Бюджет",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "evaluation",
+   "summary_uz": "Texnik ballning 35 balli korxonaning umumiy hujjatlari soniga qarab beriladi (har biri 5 ball, 7 tagacha).",
+   "summary_en": "35 points are scored by the number of general company documents supplied (5 points each, up to 7).",
+   "quote": "тақдим этилган 7та маълумот учун жами 35 балл бахоланади",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "evaluation",
+   "summary_uz": "Muddatida bajarish haqida kafolat xati taqdim etilsa ball beriladi (jami 10 ball).",
+   "summary_en": "Points are given for a guarantee letter on timely performance (10 points in total).",
+   "quote": "Танлов иштирокчиси хизматларни белгиланган муддатдан кечиктирмаган холда амалга ошириш тугрисида кафолат хати",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Bankdan qarzdorlik yo'qligi va to'lovga qobiliyati haqida ma'lumotnoma uchun 20 ballgacha beriladi.",
+   "summary_en": "Up to 20 points for certificates showing no bank debt and solvency.",
+   "quote": "тулик такдим этилган 2та маълумот учун 20-балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Ishtirokchining omborida talab qilingan tovar mavjudligini ko'rsatuvchi foto va tasdiqlangan xat uchun 10 ball.",
+   "summary_en": "10 points for photos and a confirmed letter showing the required goods are in the bidder's warehouse.",
+   "quote": "Иштирокчининг омборида хақиқатдан таълаб қилинган товарларнинг мавжудлиги фото ва тасдиқланган хати",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Affillanganlik, ofshor hisob raqamlari, arbitraj va manfaatlar to'qnashuvi bo'yicha kafolat xatlari uchun 25 ballgacha beriladi.",
+   "summary_en": "Up to 25 points for guarantee letters on affiliation, offshore accounts, arbitration and conflict of interest.",
+   "quote": "тулиқ такдим этилган 5та маълумот учун 25-балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchiga nisbatan bankrotlik tartib-taomillari joriy etilmagan bo'lishi kerak.",
+   "summary_en": "No bankruptcy proceedings may be in force against the bidder.",
+   "quote": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi insofsiz ijrochilarning yagona reyestrida bo'lmasligi kerak.",
+   "summary_en": "The bidder must not be on the single register of unfair contractors.",
+   "quote": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "other",
+   "summary_uz": "Mahalliy ishlab chiqaruvchilardan xarid qilish imkoniyati o'rganilganligi haqida ma'lumotnoma texnik tavsifga ilova qilingan.",
+   "summary_en": "A certificate on studying purchase from local producers is attached to the technical description.",
+   "quote": "Маҳаллий ишлаб чиқарувчилардан харид қилиш имконияти ўрганилганлиги тўғрисидаги МАЪЛУМОТНОМА",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "payment",
+   "summary_uz": "To'lov belgilangan tartibda hisob-faktura asosida amalga oshiriladi.",
+   "summary_en": "Payment is made on the basis of an invoice in the set procedure.",
+   "quote": "Белгиланган тартибда счёт фактура асосида",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "delivery",
+   "summary_uz": "Tovarni o'z vaqtida va sifatli yetkazib berish talab qilinadi.",
+   "summary_en": "Goods must be delivered on time and with good quality.",
+   "quote": "ўз вақтида сифатли тарзда амалга ошириш",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "other",
+   "summary_uz": "Taklif narxi buyurtmachi tasdiqlagan narxdan yuqori bo'lmasligi kerak.",
+   "summary_en": "The bid price may not exceed the price approved by the customer.",
+   "quote": "нархдан таклиф нархи юкори булмаслиги лозим",
+   "page": 2,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "irrelevant_requirement",
+   "severity": "medium",
+   "quote": "Аффиланганлик мавжуд эмаслиги тўғрисидаги кафолат хати",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Mezon 5 (25 ball) 'sifat kafolatlari' deb nomlangan, lekin ball affillanganlik, ofshor hisob raqamlari, arbitraj va manfaatlar to'qnashuvi bo'yicha xatlar soniga qarab beriladi, bayroqning sifatiga emas. Bu platformaning standart shablon matniga o'xshaydi; xuddi shunday tuzilma 1-, 3- va 4-mezonlarda ham bor, shu sababli texnik ballning katta qismi tovarga aloqador bo'lmagan hujjatlarga bog'liq.",
+   "explanation_en": "Criterion 5 (25 points) is titled 'quality guarantees' but is scored on letters about affiliation, offshore accounts, arbitration and conflict of interest, not on the quality of the flags. It looks like standard platform template wording; the same pattern appears in criteria 1, 3 and 4, so much of the technical score depends on paperwork unrelated to the goods.",
+   "rewrite_uz": "Sifat kafolati mezoni bo'yicha ball taklif qilingan bayroqning materiali, o'lchami, tikuv sifati va ishlab chiqaruvchining sifat kafolat muddatiga qarab berilsin.",
+   "rewrite_en": "Score the quality-guarantee criterion on the material, size and stitching quality of the offered flag and the supplier's quality warranty period.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 70,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 8.1,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (platformadagi mezonlar): Mezon 5 (25 ball) 'sifat kafolatlari' deb nomlangan, lekin ball affillanganlik, ofshor hisob raqamlari, arbitraj va manfaatlar to'qnashuvi bo'yicha xatlar soniga qarab beriladi, bayroqning sifatiga emas. Bu platformaning standart shablon matniga o'xshaydi; xuddi shunday tuzilma 1-, 3- va 4-mezonlarda ham bor, shu sababli texnik ballning katta qismi tovarga aloqador bo'lmagan hujjatlarga bog'liq.",
+   "Buyurtmachining so'nggi 8 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 75% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 38%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524193).",
+   "Tushuntirish so'rash muddati: 18.11.2026 13:37.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Requirement unrelated to the subject of the purchase (platform criteria form): Criterion 5 (25 points) is titled 'quality guarantees' but is scored on letters about affiliation, offshore accounts, arbitration and conflict of interest, not on the quality of the flags. It looks like standard platform template wording; the same pattern appears in criteria 1, 3 and 4, so much of the technical score depends on paperwork unrelated to the goods.",
+   "In the customer's last 8 deals the median number of bidders was 2; 75% of deals had two or fewer bidders; the most frequent winner took 38%.",
+   "This lot was re-announced (previous lot: 524193).",
+   "Clarification requests are accepted until 18.11.2026 13:37.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi",
+  "Ustav",
+  "Rahbar pasporti nusxasi",
+  "Rahbarning buyrug'i",
+  "Bank ma'lumoti",
+  "Statistik ma'lumot",
+  "Davlat reyestridan yuridik shaxs ko'chirmasi",
+  "Muddatida bajarish haqida kafolat xati",
+  "Bankdan qarzdorlik yo'qligi va to'lovga qobiliyati haqida ma'lumotnoma",
+  "Omborda tovar mavjudligi haqida foto va tasdiqlangan xat",
+  "Affillanganlik va manfaatlar to'qnashuvi yo'qligi haqida kafolat xatlari",
+  "Гувохнома. Низом. Рахбар паспорт нусхаси.. Рахбарнинг буйруғи. банк маълумоти. статистик маълумоти.Давлат реестридан тадбиркорлик субъекти — юридик шахс тўғрисидаги кўчирма",
+  "Тақдим этилган хужжатлар ПДФ шаклда булиши лозим",
+  "ПДФ шаклда булиши лозим"
+ ],
+ "clarification_letter_uz": "Kimga: Жиззах вилоят Арнасой туман Ободонлаштириш бошкармаси, xarid komissiyasiga\nLot raqami: 26110012524224\nXarid predmeti: Энг яхши таклиф\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Аффиланганлик мавжуд эмаслиги тўғрисидаги кафолат хати»\n   Savolimiz: Mezon 5 (25 ball) 'sifat kafolatlari' deb nomlangan, lekin ball affillanganlik, ofshor hisob raqamlari, arbitraj va manfaatlar to'qnashuvi bo'yicha xatlar soniga qarab beriladi, bayroqning sifatiga emas. Bu platformaning standart shablon matniga o'xshaydi; xuddi shunday tuzilma 1-, 3- va 4-mezonlarda ham bor, shu sababli texnik ballning katta qismi tovarga aloqador bo'lmagan hujjatlarga bog'liq.\n   Taklif etilayotgan tahrir: Sifat kafolati mezoni bo'yicha ball taklif qilingan bayroqning materiali, o'lchami, tikuv sifati va ishlab chiqaruvchining sifat kafolat muddatiga qarab berilsin.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (18.11.2026 13:37) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 8,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.75,
+  "top_winner_share": 0.375,
+  "share_price_drop_lt1pct": 0.5,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 1159400.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

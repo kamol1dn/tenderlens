@@ -1,0 +1,266 @@
+{
+ "lot_id": 524998,
+ "display_no": "26110012524998",
+ "title": "Карши магистрал каналидан фойдаланиш бошкармаси",
+ "url": "https://etender.uzex.uz/lot/524998",
+ "customer": {
+  "name": "Карши магистрал каналидан фойдаланиш бошкармаси",
+  "tin": "201284923"
+ },
+ "region": "Қашқадарё вилояти",
+ "start_cost": 250000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T16:27:05",
+ "end_date": "2026-11-23T16:27:05",
+ "clarific_date": "2026-11-23T16:27:05",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 65.0,
+  "cost_coef": 35.0,
+  "min_point": 35,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 7.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 21.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 9.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 8.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524998.pdf",
+  "pages": 13,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Nasos agregatlarining energetik samaradorligini baholash va energiya tejash bo'yicha ilmiy tadqiqot ishi",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "Davlat byudjet mablag’lari hisobidan",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Natija sifatida energoaudit natijalarini baholash bo'yicha tahliliy hisobot va nasos agregatlarining energetik balansi taqdim etiladi.",
+   "summary_en": "Deliverables include an analytical report evaluating energy-audit results and the energy balance of the pump units.",
+   "quote": "Tadqiqot yakunida energoaudit natijalarini baholash bo‘yicha tahliliy hisobot, nasos agregatlarining energetik balansi",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "delivery",
+   "summary_uz": "Ishlarni tugallash muddati 20 kalendar ish kuni.",
+   "summary_en": "Completion within 20 calendar working days.",
+   "quote": "Ishlami tugallash muddati: 20 kalendar ish kuni.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Ishda texnika fanlari doktori (DSc) va falsafa doktori (PhD) ishtirok etishi shart.",
+   "summary_en": "Doctors of technical sciences (DSc) and PhDs must take part in the work.",
+   "quote": "Soha ixtisosliklari bo‘yicha texnika fanlari doktori (DSc) va texnika fanlari bo‘yicha falsafa doktor (PhD)’ lari ishtirok etishi shart.",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Tashkilotda DSc va PhD'lardan iborat ilmiy kengash bo'lishi hamda shu sohada ilmiy-tadqiqot ishlari bajarilgan bo'lishi kerak.",
+   "summary_en": "The organisation must have a scientific council of DSc and PhD holders and have completed research in this field.",
+   "quote": "tashkilotga texnika fanlari doktori (DSc) va texnika fanlari bo‘yicha falsafa doktorlaridan(PhD) iborat ilmiy kengash mavjudligi",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "DSc/PhD xodimlarni ishga qabul qilish buyrug'idan ko'chirma uchun mutaxassislar mezonida 21 ballgacha beriladi.",
+   "summary_en": "Up to 21 points on the specialists criterion for an extract of the hiring orders of DSc/PhD staff.",
+   "quote": "malakali mutaxassislarni ishga qabul qilish to'g'risidagi buyruq nusxasidan ko‘chirma",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Barcha o'lchov asboblarining metrologik qiyoslov sertifikatlari uchun 5 ball beriladi.",
+   "summary_en": "5 points for metrological verification certificates of all measuring instruments.",
+   "quote": "Barcha o‘lchov asbob-uskunalarining amaldagi Metrologik qiyoslovdan o'tganlik sertifikatlari nusxalari taqdim qilishi kerak.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "E'lon qilinguncha bajarilgan ishlar bo'yicha imzolangan shartnomalardan ko'chirma uchun 8 ball beriladi.",
+   "summary_en": "8 points for an extract of signed contracts for work done before the announcement.",
+   "quote": "E’longa qo‘yilgunga qadar bajargan ishlari bo’yicha imzolangan shartnomalardan ko’chirma",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Mijozlarning rasmiy blankadagi tavsiyanomalari uchun 5 ball beriladi.",
+   "summary_en": "5 points for customer recommendation letters on official letterhead.",
+   "quote": "mijozlarning ijobiy fikr-mulohazalari to’g’risida rasmiy blankada berilgan tavsiyanomalar nusxalarini taqdim qilishi kerak",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Elektr xavfsizligi va mehnat muhofazasiga rioya qilish bo'yicha kafolat xati taqdim etilishi kerak (4 ball).",
+   "summary_en": "A guarantee letter on compliance with electrical and occupational safety rules is required (4 points).",
+   "quote": "Elektr xavfsizligi hamda Mehnat va texnika xavfsizligi qoidalariga rioya qilish bo’yicha kafolat xati taqdim etishi kerak",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Bajarilgan ishlar bo'yicha shartnoma muddatida 1 yil kafolat beriladi.",
+   "summary_en": "A one-year warranty on the performed work during the contract.",
+   "quote": "Ishtirokchi bajariladigan ishlar bo‘yicha shartnoma muddatida 1 yil kafolat berishi shart;",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "payment",
+   "summary_uz": "30 foiz avans, qolgan 70 foiz ish yakunlari bo'yicha hujjatlar asosida to'lanadi.",
+   "summary_en": "30 percent advance; the remaining 70 percent is paid on the basis of confirming documents on completion.",
+   "quote": "Avans to‘lovlari 30%, bajariladigan ish yakunlari bo‘yicha tasdiqlovchi hujjatlar asosida qolgan 70% to‘lov amalga",
+   "page": 7,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "tashkilotga texnika fanlari doktori (DSc) va texnika fanlari bo‘yicha falsafa doktorlaridan(PhD) iborat ilmiy kengash mavjudligi",
+   "page": 6,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ishtirokchi tashkilotda DSc va PhD'lardan tashkil topgan ilmiy kengash bo'lishi shart qilib qo'yilgan. Bunday kengash faqat ilmiy-tadqiqot institutlari va universitetlarda bo'ladi, shu sababli tegishli mutaxassislari bor boshqa layoqatli tashkilotlar qatnasha olmasligi mumkin. Talabning zarurligini tekshirish tavsiya etiladi.",
+   "explanation_en": "The bidding organisation must have a scientific council made up of DSc and PhD holders. Such councils exist mainly in research institutes and universities, so other capable organisations with qualified specialists may be unable to bid. The need for this requirement is worth checking.",
+   "rewrite_uz": "Ishtirokchi jamoasida texnika fanlari doktori (DSc) yoki falsafa doktori (PhD) ilmiy darajasiga ega mutaxassislar bo'lishi va shu sohada ilmiy-tadqiqot yoki ekspert ishlarini bajargan bo'lishi.",
+   "rewrite_en": "The bidder's team must include specialists holding a DSc or PhD in technical sciences and the bidder must have completed research or expert work in this field.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "irrelevant_requirement",
+   "severity": "low",
+   "quote": "Raqamli texnologiyalardagi dasturiy ta’minotni o‘matish, qayta o‘matish, yangilash va modernizatsiya qiluvchi malakali ishchi kuchi bilan ta’minlanganligi.",
+   "page": 7,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Talab dasturiy ta'minot o'rnatish va yangilash xodimlarini so'raydi, lekin ish energetik samaradorlikni baholashga oid ilmiy tadqiqotdir. Bu standart shablon matniga o'xshaydi; qaysi ishga taalluqli ekanini aniqlashtirish kerak.",
+   "explanation_en": "The clause asks for staff who install and update software, but the work is a research study on energy efficiency. It looks like standard template wording; it should be clarified which task it relates to.",
+   "rewrite_uz": "Ma'lumotlarni tahlil qilish va hisob-kitoblarni bajarish uchun zarur malakali xodimlar bilan ta'minlanganlik.",
+   "rewrite_en": "Availability of qualified staff needed to analyse data and perform the calculations.",
+   "type_label_uz": "Xarid predmetiga aloqasi bo'lmagan talab",
+   "type_label_en": "Requirement unrelated to the subject of the purchase",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 66,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 28,
+  "history_penalty": 6.4,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (6-bet): Ishtirokchi tashkilotda DSc va PhD'lardan tashkil topgan ilmiy kengash bo'lishi shart qilib qo'yilgan. Bunday kengash faqat ilmiy-tadqiqot institutlari va universitetlarda bo'ladi, shu sababli tegishli mutaxassislari bor boshqa layoqatli tashkilotlar qatnasha olmasligi mumkin. Talabning zarurligini tekshirish tavsiya etiladi.",
+   "Xarid predmetiga aloqasi bo'lmagan talab (7-bet): Talab dasturiy ta'minot o'rnatish va yangilash xodimlarini so'raydi, lekin ish energetik samaradorlikni baholashga oid ilmiy tadqiqotdir. Bu standart shablon matniga o'xshaydi; qaysi ishga taalluqli ekanini aniqlashtirish kerak.",
+   "Buyurtmachining so'nggi 71 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 87% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 28%.",
+   "Tushuntirish so'rash muddati: 23.11.2026 16:27."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Other clause that may limit competition (page 6): The bidding organisation must have a scientific council made up of DSc and PhD holders. Such councils exist mainly in research institutes and universities, so other capable organisations with qualified specialists may be unable to bid. The need for this requirement is worth checking.",
+   "Requirement unrelated to the subject of the purchase (page 7): The clause asks for staff who install and update software, but the work is a research study on energy efficiency. It looks like standard template wording; it should be clarified which task it relates to.",
+   "In the customer's last 71 deals the median number of bidders was 2; 87% of deals had two or fewer bidders; the most frequent winner took 28%.",
+   "Clarification requests are accepted until 23.11.2026 16:27."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnika fanlari doktorlari (DSc) va PhD xodimlarni ishga qabul qilish buyrug'idan ko'chirma",
+  "Yagona milliy mehnat tizimidan (my.mehnat.uz) xodimlar ro'yxati ko'chirmasi",
+  "Ilmiy kengash mavjudligini tasdiqlovchi hujjat",
+  "O'lchov asboblari, laboratoriya anjomlari balansda borligi haqida ma'lumotnoma va fotosuratlar",
+  "O'lchov asboblarining metrologik qiyoslov sertifikatlari",
+  "Bajarilgan ishlar bo'yicha shartnomalar va hisob-fakturalardan ko'chirma",
+  "Mijozlarning tavsiyanomalari (rasmiy blankada)",
+  "Texnik topshiriq va xavfsizlik qoidalariga rioya qilish bo'yicha kafolat xatlari",
+  "1 yillik sifat kafolati xati",
+  "Moliyaviy hisobotlar",
+  "Davlat ro'yxatidan o'tganlik va ta'sis hujjatlari",
+  "Zarur"
+ ],
+ "clarification_letter_uz": "Kimga: Карши магистрал каналидан фойдаланиш бошкармаси, xarid komissiyasiga\nLot raqami: 26110012524998\nXarid predmeti: Карши магистрал каналидан фойдаланиш бошкармаси\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 6-bet.\n   Hujjatdagi matn: «tashkilotga texnika fanlari doktori (DSc) va texnika fanlari bo‘yicha falsafa doktorlaridan(PhD) iborat ilmiy kengash mavjudligi»\n   Savolimiz: Ishtirokchi tashkilotda DSc va PhD'lardan tashkil topgan ilmiy kengash bo'lishi shart qilib qo'yilgan. Bunday kengash faqat ilmiy-tadqiqot institutlari va universitetlarda bo'ladi, shu sababli tegishli mutaxassislari bor boshqa layoqatli tashkilotlar qatnasha olmasligi mumkin. Talabning zarurligini tekshirish tavsiya etiladi.\n   Taklif etilayotgan tahrir: Ishtirokchi jamoasida texnika fanlari doktori (DSc) yoki falsafa doktori (PhD) ilmiy darajasiga ega mutaxassislar bo'lishi va shu sohada ilmiy-tadqiqot yoki ekspert ishlarini bajargan bo'lishi.\n\n2. Texnik topshiriq, 7-bet.\n   Hujjatdagi matn: «Raqamli texnologiyalardagi dasturiy ta’minotni o‘matish, qayta o‘matish, yangilash va modernizatsiya qiluvchi malakali ishchi kuchi bilan ta’minlanganligi.»\n   Savolimiz: Talab dasturiy ta'minot o'rnatish va yangilash xodimlarini so'raydi, lekin ish energetik samaradorlikni baholashga oid ilmiy tadqiqotdir. Bu standart shablon matniga o'xshaydi; qaysi ishga taalluqli ekanini aniqlashtirish kerak.\n   Taklif etilayotgan tahrir: Ma'lumotlarni tahlil qilish va hisob-kitoblarni bajarish uchun zarur malakali xodimlar bilan ta'minlanganlik.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (23.11.2026 16:27) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 71,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.8732,
+  "top_winner_share": 0.2817,
+  "share_price_drop_lt1pct": 0.1268,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 34100000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

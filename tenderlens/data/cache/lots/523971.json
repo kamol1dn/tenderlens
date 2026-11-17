@@ -1,0 +1,240 @@
+{
+ "lot_id": 523971,
+ "display_no": "26110012523971",
+ "title": "Yangi O'zbekiston\" universiteti davlat muassasasining darsliklar va o'quv adabiyotlariga bo'lgan ehtiyojini ta'minlash maqsadida kitob xarid qilinmoqda.",
+ "url": "https://etender.uzex.uz/lot/523971",
+ "customer": {
+  "name": "Yangi O&#699;zbekiston universiteti",
+  "tin": "308709154"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 745705480.0,
+ "currency": "UZS",
+ "start_date": "2026-11-12T16:02:04",
+ "end_date": "2026-11-19T16:02:04",
+ "clarific_date": "2026-11-19T16:02:04",
+ "type": "selection",
+ "old_id": 523510,
+ "evaluation": {
+  "tech_coef": 60.0,
+  "cost_coef": 40.0,
+  "min_point": 40,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг техник тартибга солиш соҳасидаги норматив ҳужжатларга мувофиқлиги бўйича талаблар. Мувофиқлиги баҳоланиши лозим бўлган давлат ветеринария хизмати назорати остидаги маҳсулотлар. Мажбурий тартибда мувофиқлиги баҳоланиши лозим бўлган маҳсулотлар.Мажбурий экологик сертификатланиши лозим бўлган маҳсулотлар. Санитария-эпидемиологик хулосага мос келадиган маҳсулотлар.",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/523971.zip",
+  "pages": 26,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   16,
+   18,
+   26
+  ]
+ },
+ "subject_uz": "Universitet axborot-resurs markazi uchun 76 pozitsiyadagi 415 dona darslik va o'quv adabiyotlarini yetkazib berish",
+ "sector": "education",
+ "customer_sector": "education",
+ "customer_kind": "corporate",
+ "financing_source": "byudjetdan tashqari mablag'",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Xarid predmeti: 76 pozitsiya, jami 415 dona darslik va o'quv adabiyoti.",
+   "summary_en": "Subject: 76 titles, 415 copies of textbooks and study literature in total.",
+   "quote": "Darsliklar va o'quv adabiyotlari - 76 pozitsiya' 415 dona",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "other",
+   "summary_uz": "Bitta umumiy lot; qisman takliflar qabul qilinmaydi, barcha pozitsiyalarga narx berilishi shart.",
+   "summary_en": "A single lot; partial bids are not accepted, so every position must be priced.",
+   "quote": "1 ta umumiy lot; qisman takliflar qabul qilinmaydi",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Kitoblar yangi, foydalanilmagan, qonuniy muomalaga chiqarilgan asl bosma mahsulot bo'lishi shart; nusxa ko'chirilgan yoki qayta tiklangan nusxalar qabul qilinmaydi.",
+   "summary_en": "Books must be new, unused, legally published originals; photocopies or reconditioned copies are rejected.",
+   "quote": "Yetkazib beriladigan kitoblar ymgi, foydalanilmagan, to'liq komplektli, qonuniy muomalaga chiqarilgan asl bosma mahsulot bo'lishi shart.",
+   "page": 14,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati shartnoma kuchga kirgandan boshlab 60 kalendar kundan oshmasligi kerak.",
+   "summary_en": "Delivery must be completed within 60 calendar days of the contract taking effect.",
+   "quote": "Shartnoma kuchga kirgan kundan boshlab 60 kalendar kundan oshmagan muddatda",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "payment",
+   "summary_uz": "Shartnoma narxining 30 foizi oldindan to'lanadi, qolgan 70 foizi tovarlar to'liq qabul qilingandan keyin 10 ish kuni ichida.",
+   "summary_en": "30 percent is paid in advance; the remaining 70 percent within 10 working days after full acceptance.",
+   "quote": "10 (o'n) ish kuni ichida shartnoma umumiy qiymatining 30 foizi miqdorida oldindan to'lovni analga oshiradi",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "other",
+   "summary_uz": "Narxga kitob qiymati, soliqlar, bojxona, tashish, sug'urta va buyurtmachi manzilgacha yetkazish xarajatlari kiradi.",
+   "summary_en": "The price includes the books, taxes, customs, transport, insurance and delivery to the customer's address.",
+   "quote": "745 705 480 so'm, barcha soliqlar va majburiy xarajatlar bilan",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "technical",
+   "summary_uz": "Nomuvofiq yoki nuqsonli kitoblar dalolatnoma olingandan boshlab 10 kalendar kun ichida o'z hisobidan almashtiriladi.",
+   "summary_en": "Non-conforming or defective books are replaced at the supplier's cost within 10 calendar days of the act.",
+   "quote": "Yetkazib beruvchi nomuvofiq, nuqsonli yoki yetishmayotgan kitoblarni dalolatnoma olingan kundan boshlab 10 kalendar kun ichida",
+   "page": 14,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "qualification",
+   "summary_uz": "Hujjatlar litsenziya, ma'lum hududdagi tajriba, aniq aylanma yoki faqat bitta ishlab chiqaruvchi vakolat xatini talab qilmasligini belgilaydi.",
+   "summary_en": "The document states that no licence, local experience, fixed turnover or single-manufacturer authorisation letter is required.",
+   "quote": "Ishtirokchidan raqobatni asossiz cheklaydigan litsenziya, mua)ryan hududdagi tajriba, aniq aylanma yoki faqat bitta ishlab chiqaruvchining vakolat xati talab etilmaydi.",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Texnik qismda kamida 36 ball (60 balldan) to'plagan takliflar narx bosqichiga o'tadi; tajriba va yetkazish muddati mezonlari 15 balldan baholanadi.",
+   "summary_en": "Bids need at least 36 of the 60 technical points to reach the price stage; experience and delivery time are scored at 15 points each.",
+   "quote": "kamida 36 ball to'plagan va barcha majburiy talablarga muvofiq deb topilgan takliflar narx qismini baholash bosqichiga o'tkaziladi",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Portfolio va o'xshash shartnomalarni bajarish tajribasi uchun maksimal 15 ball (so'nggi 3 yilda 4 va undan ortiq shartnoma).",
+   "summary_en": "Up to 15 points for portfolio and similar-contract experience (4 or more contracts in the last 3 years).",
+   "quote": "Portfolio va o‘xshash shartnomalarni bajarish tajribasi — maksimal 15 ball",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "low",
+   "quote": "Yetkazib berish muddati — maksimal 15 ball",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Yetkazib berish muddati bo'yicha 15 ball (texnik qismning 60 balldan 25 foizi) beriladi: 30 kalendar kungacha 15 ball, 56-60 kunga 3 ball, ya'ni farq 12 ball. Chet el darsliklarini ham o'z ichiga olgan 415 dona kitobni 30 kunda yetkazish asosan omborida tayyor zaxirasi bor ta'minotchilarga qulay. Qisqa muddat uchun shuncha ball kerakligini bir marta aniqlashtirish mumkin.",
+   "explanation_en": "Delivery time carries 15 points (25 percent of the 60 technical points): 15 for up to 30 calendar days versus 3 for 56-60 days, a gap of 12 points. For 415 books that include foreign textbooks, a 30-day delivery mainly favours suppliers who already hold stock. It is worth one clarifying question whether such a large weight on the short deadline is needed.",
+   "rewrite_uz": "Yetkazib berish muddati bo'yicha ballar kamroq farq bilan beriladi (masalan, 45 kalendar kungacha to'liq ball), yoki muddat shartnoma shartlari doirasida (60 kun) baholanmaydi.",
+   "rewrite_en": "Delivery-time points are spread over a narrower range (for example, full points for up to 45 calendar days), or the delivery period within the 60-day contract term is not scored.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 91,
+ "traffic_light": "green",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 6,
+  "history_penalty": 2.9,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (platformadagi mezonlar): Yetkazib berish muddati bo'yicha 15 ball (texnik qismning 60 balldan 25 foizi) beriladi: 30 kalendar kungacha 15 ball, 56-60 kunga 3 ball, ya'ni farq 12 ball. Chet el darsliklarini ham o'z ichiga olgan 415 dona kitobni 30 kunda yetkazish asosan omborida tayyor zaxirasi bor ta'minotchilarga qulay. Qisqa muddat uchun shuncha ball kerakligini bir marta aniqlashtirish mumkin.",
+   "Buyurtmachining so'nggi 19 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 42% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 11%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 523510).",
+   "Diqqat: hujjatning 3 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "Other clause that may limit competition (platform criteria form): Delivery time carries 15 points (25 percent of the 60 technical points): 15 for up to 30 calendar days versus 3 for 56-60 days, a gap of 12 points. For 415 books that include foreign textbooks, a 30-day delivery mainly favours suppliers who already hold stock. It is worth one clarifying question whether such a large weight on the short deadline is needed.",
+   "In the customer's last 19 deals the median number of bidders was 3; 42% of deals had two or fewer bidders; the most frequent winner took 11%.",
+   "This lot was re-announced (previous lot: 523510).",
+   "Note: 3 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Tanlashda ishtirok etish arizasi (1-ilova)",
+  "Ishtirokchi va vakolatli shaxs to'g'risidagi ma'lumot (2-ilova)",
+  "Vakolatli shaxs imzolagan bo'lsa, uning vakolatini tasdiqlovchi hujjat",
+  "Benefitsiar mulkdorlar to'g'risidagi ma'lumot (3-ilova)",
+  "Qonunbuzarlikka yo'l qo'ymaslik deklaratsiyasi (4-ilova)",
+  "To'ldirilgan texnik muvofiqlik jadvali va spetsifikatsiya (5-ilova)",
+  "Narx taklifi va pozitsiyalar kesimidagi narxlar jadvali (6-ilova)",
+  "Yetkazish muddati, mahsulot aslligi va to'liq yetkazilishi bo'yicha kafolat xati",
+  "Portfolio jadvali va o'xshash shartnomalar bajarilganini tasdiqlovchi hisobvaraq-faktura yoki topshirish-qabul dalolatnomalari",
+  "Katalog, nashriyot yoki distribyutor ma'lumotlari (rasmiy manba)",
+  "Sifat kafolati va nomuvofiq kitoblarni almashtirish muddati ko'rsatilgan kafolat xati",
+  "Texnik parametrlar",
+  "Sifat kafolati va nomuvofiq kitoblarni almashtirish muddati"
+ ],
+ "clarification_letter_uz": "Kimga: Yangi O&#699;zbekiston universiteti, xarid komissiyasiga\nLot raqami: 26110012523971\nXarid predmeti: Yangi O'zbekiston\" universiteti davlat muassasasining darsliklar va o'quv adabiyotlariga bo'lgan ehtiyojini ta'minlash maqsadida kitob xarid qilinmoqda.\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Yetkazib berish muddati — maksimal 15 ball»\n   Savolimiz: Yetkazib berish muddati bo'yicha 15 ball (texnik qismning 60 balldan 25 foizi) beriladi: 30 kalendar kungacha 15 ball, 56-60 kunga 3 ball, ya'ni farq 12 ball. Chet el darsliklarini ham o'z ichiga olgan 415 dona kitobni 30 kunda yetkazish asosan omborida tayyor zaxirasi bor ta'minotchilarga qulay. Qisqa muddat uchun shuncha ball kerakligini bir marta aniqlashtirish mumkin.\n   Taklif etilayotgan tahrir: Yetkazib berish muddati bo'yicha ballar kamroq farq bilan beriladi (masalan, 45 kalendar kungacha to'liq ball), yoki muddat shartnoma shartlari doirasida (60 kun) baholanmaydi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (19.11.2026 16:02) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 19,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4211,
+  "top_winner_share": 0.1053,
+  "share_price_drop_lt1pct": 0.0526,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 105144472.68,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:03+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

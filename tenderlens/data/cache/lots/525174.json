@@ -1,0 +1,292 @@
+{
+ "lot_id": 525174,
+ "display_no": "26110012525174",
+ "title": "Anexoik kamera",
+ "url": "https://etender.uzex.uz/lot/525174",
+ "customer": {
+  "name": "Yangi O`zbekiston universiteti",
+  "tin": "308709154"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 2532000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T14:21:29",
+ "end_date": "2026-11-24T14:21:29",
+ "clarific_date": "2026-11-24T14:21:29",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 60.0,
+  "cost_coef": 40.0,
+  "min_point": 40,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 12.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 8.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 8.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 8.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолат бўйича талаблар (муддати, жойи)",
+    "max_score": 8.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+    "max_score": 8.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+    "max_score": 4.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарни етказиб бериш муддати бўйича талаблар (норезидент ва резидентлар учун алоҳида манзиллар белгиланиши мумкин)",
+    "max_score": 4.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/525174.pdf",
+  "pages": 74,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   30,
+   31,
+   32,
+   33,
+   34,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   45,
+   48,
+   50,
+   51,
+   52,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   72,
+   73,
+   74
+  ]
+ },
+ "subject_uz": "Radiochastota va akustik o'lchovlar uchun anexoik ekranlangan kamerani loyihalash, ishlab chiqarish, yetkazib berish, montaj qilish va ishga tushirish",
+ "sector": "education",
+ "customer_sector": "education",
+ "customer_kind": "corporate",
+ "financing_source": "Budjetdan tashqari",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Kamera 1-18 GHz diapazonida kamida 80 dB ekranlash samaradorligini ta'minlashi kerak; yuqori kafolat ko'proq ball beradi (100 dB dan 12 ball).",
+   "summary_en": "The chamber must give at least 80 dB shielding effectiveness over 1-18 GHz; higher guaranteed values earn more points (12 points at 100 dB or more).",
+   "quote": "1,0-18,0 GHz diapazonida ekranlash samaradorligi kamida 80 dB.",
+   "page": 21,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Tashqi gabarit 8 600 x 5 500 x 4 400 mm dan oshmasligi, yutuvchisiz ichki bo'shliq kamida 8 000 x 4 000 x 4 000 mm bo'lishi kerak.",
+   "summary_en": "External size must not exceed 8,600 x 5,500 x 4,400 mm and the inner space without absorbers must be at least 8,000 x 4,000 x 4,000 mm.",
+   "quote": "Yutuvchi qoplamalarsiz asosiy ichki bo'shliq kamida 8 000 х 4 000 х 4 000 mm.",
+   "page": 20,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "evaluation",
+   "summary_uz": "Texnik ustunliklar uchun jami 60 ball, narx uchun 40 ball beriladi; alohida o'tish bali qo'llanmaydi.",
+   "summary_en": "Technical advantages carry 60 points and price 40; no separate technical pass mark applies.",
+   "quote": "Texnik usfunliklar uchun jami 60 ball beriladi.",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "delivery",
+   "summary_uz": "To'liq bajarish muddati avans tushgan kundan ko'pi bilan 180 kalendar kun; 110 kun va undan kam bo'lsa 8 ball.",
+   "summary_en": "Full completion within at most 180 calendar days from receipt of the advance; 110 days or less earns 8 points.",
+   "quote": "kalendar kundan hisoblab ko'pi bilan 1 80 kalendar kun",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Kafolat yakuniy qabul sanasidan kamida 12 oy; 36 oy va undan ortiq bo'lsa 8 ball.",
+   "summary_en": "Warranty at least 12 months from final acceptance; 36 months or more earns 8 points.",
+   "quote": "kafolat yakuniy qabul sanasidan kamida 12 оу;",
+   "page": 25,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "payment",
+   "summary_uz": "Shartnoma kuchga kirgach, hisobnoma olingandan keyin 5 ish kunida 15% avans, qolgan 85% yakuniy qabuldan keyin 10 ish kunida to'lanadi.",
+   "summary_en": "15% advance within 5 working days of the invoice after the contract takes effect; 85% within 10 working days after final acceptance.",
+   "quote": "yakuniy qabul dalolatnomasi va tegishli hisob-kitob hu!atlari olingach 10 ish kunida.",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Ishlab chiqaruvchining eksklyuziv dileri bo'lish talab etilmaydi; qonuniy ta'minot hujjatlari ko'rsatiladi.",
+   "summary_en": "Being an exclusive dealer of the manufacturer is not required; lawful supply documents are shown instead.",
+   "quote": "Ishlab chiqaruvchining eksklyuziv dileri bo'lish talab etilmaydi.",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Oxirgi 60 oyda bajarilgan o'xshash shartnomalar: 1 ta 2 ball, 2 ta va undan ko'p 4 ball.",
+   "summary_en": "Similar contracts in the last 60 months: one earns 2 points, two or more earn 4 points.",
+   "quote": "Bajarilgan o‘xshash loyihalar (Oxirgi 60 oyda bajarilgan o‘xshash shartnomalar)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Ishtirokchining yoki taklif etilgan kamera ishlab chiqaruvchisining tajribasi qabul qilinadi.",
+   "summary_en": "The bidder's or the proposed chamber manufacturer's experience is accepted.",
+   "quote": "Ishtirokchining yoki taklif etilgan kamera ishlab chiqaruvchisining tajribasi qabul qilinadi.",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Boshlang'ich lot narxidan oshgan taklif rad etiladi.",
+   "summary_en": "A bid above the initial lot price is rejected.",
+   "quote": "Boshlang'ich lot narxidan oshgan taklif rad etiladi.",
+   "page": 4,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "low",
+   "quote": "Boshlang'ich lot narxidan oshgan taklif rad etiladi.",
+   "page": 4,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Tanlash hujjatlarida boshlang'ich narx 2 535 000 000 so'm deb yozilgan, platformadagi lot sarlavhasida esa 2 532 000 000 so'm ko'rsatilgan (farq 3 000 000 so'm). Narxi shu ikki qiymat orasida bo'lgan taklif ayrim hollarda rad etilishi mumkin, shuning uchun qaysi narx amal qilishini aniqlashtirish kerak.",
+   "explanation_en": "The tender documents give an initial price of 2,535,000,000 UZS while the platform lot header shows 2,532,000,000 UZS (a difference of 3,000,000). A bid priced between the two could be rejected under one figure but not the other, so the applicable price should be clarified.",
+   "rewrite_uz": "Boshlang'ich lot narxi elektron tizimdagi lot sahifasida ko'rsatilgan summaga teng bo'lib, tanlash hujjatlaridagi summa ham unga mos kelishi kerak.",
+   "rewrite_en": "The initial lot price is the amount shown on the lot page of the electronic system, and the figure in the tender documents should match it.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 91,
+ "traffic_light": "green",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 6,
+  "history_penalty": 2.9,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid",
+  "reasons_uz": [
+   "Hujjatda raqobatni cheklovchi jiddiy shart topilmadi.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (4-bet): Tanlash hujjatlarida boshlang'ich narx 2 535 000 000 so'm deb yozilgan, platformadagi lot sarlavhasida esa 2 532 000 000 so'm ko'rsatilgan (farq 3 000 000 so'm). Narxi shu ikki qiymat orasida bo'lgan taklif ayrim hollarda rad etilishi mumkin, shuning uchun qaysi narx amal qilishini aniqlashtirish kerak.",
+   "Buyurtmachining so'nggi 19 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 42% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 11%.",
+   "Diqqat: hujjatning 36 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "No seriously restrictive condition was found in the document.",
+   "Other clause that may limit competition (page 4): The tender documents give an initial price of 2,535,000,000 UZS while the platform lot header shows 2,532,000,000 UZS (a difference of 3,000,000). A bid priced between the two could be rejected under one figure but not the other, so the applicable price should be clarified.",
+   "In the customer's last 19 deals the median number of bidders was 3; 42% of deals had two or fewer bidders; the most frequent winner took 11%.",
+   "Note: 36 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Kafolat xati: bajarish muddati, kafolatlangan texnik ko'rsatkichlar, kafolat va servis muddatlari (1-shakl)",
+  "Ishtirokchi rekvizitlari, o'xshash bajarilgan shartnomalar va mutaxassislar ro'yxati (2-shakl)",
+  "Taklif etiladigan kamera pasporti va kafolatlangan ko'rsatkichlar jadvali (3-shakl)",
+  "Narx taklifi va K01-K12 bo'yicha narx taqsimoti (4-shakl)",
+  "Deklaratsiya (5-shakl)",
+  "Texnik muvofiqlik va yetkazib berish tarkibi javob shakllari",
+  "Dastlabki chizmalar, materiallar va filtrlar hujjatlari, ishlab chiqaruvchining sinov ma'lumotlari",
+  "Bosqichli bajarish jadvali, RCh va akustik qabul sinovlari dasturlari",
+  "Ishlab chiqaruvchining loyihada ishtirok etish majburiyati (uning tajribasidan foydalanilsa)",
+  "Qonuniy ta'minot hujjatlari (ishlab chiqaruvchi, distribyutor yoki boshqa qonuniy manba)",
+  "Shartnoma va bajarilganlikni tasdiqlovchi qabul dalolatnomalari (o'xshash loyihalar uchun)",
+  "Muvofiqlik jadvali",
+  "Kafolat",
+  "ma'lumotnoma"
+ ],
+ "clarification_letter_uz": "Kimga: Yangi O`zbekiston universiteti, xarid komissiyasiga\nLot raqami: 26110012525174\nXarid predmeti: Anexoik kamera\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 4-bet.\n   Hujjatdagi matn: «Boshlang'ich lot narxidan oshgan taklif rad etiladi.»\n   Savolimiz: Tanlash hujjatlarida boshlang'ich narx 2 535 000 000 so'm deb yozilgan, platformadagi lot sarlavhasida esa 2 532 000 000 so'm ko'rsatilgan (farq 3 000 000 so'm). Narxi shu ikki qiymat orasida bo'lgan taklif ayrim hollarda rad etilishi mumkin, shuning uchun qaysi narx amal qilishini aniqlashtirish kerak.\n   Taklif etilayotgan tahrir: Boshlang'ich lot narxi elektron tizimdagi lot sahifasida ko'rsatilgan summaga teng bo'lib, tanlash hujjatlaridagi summa ham unga mos kelishi kerak.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (24.11.2026 14:21) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 19,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4211,
+  "top_winner_share": 0.1053,
+  "share_price_drop_lt1pct": 0.0526,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 357012000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

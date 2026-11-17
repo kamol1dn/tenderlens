@@ -1,0 +1,288 @@
+{
+ "lot_id": 524523,
+ "display_no": "26120012524523",
+ "title": "Tarmoq va muhandislik infratuzilmalari komplekslarini joriy etish loyihasi doirasida sun’iy intellekt tizimlari uchun server qurilmalarini xarid qilish",
+ "url": "https://etender.uzex.uz/lot/524523",
+ "customer": {
+  "name": "TELECOM SOFT MCHJ",
+  "tin": "310778664"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 7215211600.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T14:15:45",
+ "end_date": "2026-11-25T14:15:45",
+ "clarific_date": "2026-11-25T14:15:45",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 3,
+  "criteria": [
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 3.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 2.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 3.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Кафолат бўйича талаблар (муддати, жойи)",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524523.rar",
+  "pages": 46,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "Sun'iy intellekt tizimlari uchun server qurilmalari, kommutator, uzluksiz quvvat manbai va telekommunikatsiya shkaflarini xarid qilish",
+ "sector": "it",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Buyurtmachining o'z mablag'lari",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Yetkazib beriladi: 2 ta server, 2 ta kommutator, 2 ta uzluksiz quvvat manbai va 2 ta telekommunikatsiya shkafi.",
+   "summary_en": "Deliverables: 2 servers, 2 switches, 2 UPS units and 2 telecom cabinets.",
+   "quote": "Server - 2 dona Kommutator - 2 dona Uzluksiz quvvat manbai - 2 dona",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Server protsessori: har bir protsessorga kamida 96 yadro (kamida 2 protsessor).",
+   "summary_en": "Server CPU: at least 96 cores per processor (at least 2 processors).",
+   "quote": "Yadrolar soni - Наr Ьir protsessorga kamida 96 ta",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Operativ xotira kamida 768 GB (kamida 24 modul), DDR5 5600 MHz.",
+   "summary_en": "At least 768 GB RAM (at least 24 modules), DDR5 5600 MHz.",
+   "quote": "operativ xotira - Kamida 768 GВ, kamida 24 ta o'rnatilgan xoti:a plankasi",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "technical",
+   "summary_uz": "Har bir serverda kamida 4 ta GPU, har biri kamida 96 GB videoxotiraga ega, CUDA qoʻllovi majburiy.",
+   "summary_en": "At least 4 GPUs per server, each with at least 96 GB video memory, CUDA support mandatory.",
+   "quote": "protsessorlar (GPU) - Har bir sеrчеrdа kamida 4 dona",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "Masofadan boshqarish va diagnostika imkoniyati (iDRAC, iLO yoki ekvivalenti) bolishi kerak.",
+   "summary_en": "Remote management and diagnostics (iDRAC, iLO or equivalent) are required.",
+   "quote": "imkoniyatiga ega bo'lishi kerak (masalan, iDRAC, iLC yoki ekvivalenti)",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchilar Common Criteria EAL2+ sertifikatini va sinov hisobotlarini taqdim etishi kerak.",
+   "summary_en": "Bidders must provide a Common Criteria EAL2+ certificate and test reports.",
+   "quote": "Ishtirokchilar СС EAL2+ sertifikatini taqdim etishlari kerak",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "delivery",
+   "summary_uz": "Yetkazib berish muddati: shartnoma va avans toʻlovidan keyin 65 kalendar kun (texnik topshiriqda 30 ish kuni koʻrsatilgan).",
+   "summary_en": "Delivery within 65 calendar days of contract and advance payment (the technical task elsewhere states 30 working days).",
+   "quote": "boshlab 65 (oltmish besh) kalendar kunidan oshmagan muddatda Buyurtmachining manziliga yetkazib berilishi lozim.",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "other",
+   "summary_uz": "Kafolat muddati: qabul qilingan kundan boshlab 5 yil.",
+   "summary_en": "Warranty: 5 years from acceptance.",
+   "quote": "Kafolat muddati obyekt Buyurtmachi tomonidan qabul qilingan kundan boshlab 5 (besh) yil muddatda.",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "payment",
+   "summary_uz": "30 foiz avans shartnoma tuzilgandan keyin 10 ish kuni ichida, qolgan 70 foiz yetkazib berish va qabul qilishdan keyin 30 kun ichida toʻlanadi.",
+   "summary_en": "30% advance within 10 working days of contract; the remaining 70% within 30 days after delivery and acceptance.",
+   "quote": "miqdoridagi oldindan to'lov Shartnoma tuzilgan kundan boshlab 10 ish kuni ichida",
+   "page": 10,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "evaluation",
+   "summary_uz": "Tajriba: oxirgi yillarda yuqori unumdorlikli serverlarni yetkazish boyicha yakunlangan shartnomalar (5 va undan koʻp = 3 ball).",
+   "summary_en": "Experience: completed contracts for high-performance servers in recent years (5 or more = 3 points).",
+   "quote": "Ishtirokchining oxirgi yillar ichida yuqori unumdorlikli server uskunalarini yetkazib berish bo‘yicha to‘liq yakunlangan shartnomalar bo‘yicha tajribasi (4-sonli shaklga muvofiq).",
+   "page": 30,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Bank ma'lumotnomasi bilan tasdiqlangan mablagʻ boshlangʻich narxning 20 foizidan oshsa 3 ball beriladi.",
+   "summary_en": "Funds shown by a bank certificate above 20% of the start price earn 3 points.",
+   "quote": "10,01% dan 15% gacha – 1 ball; 15,01% dan 20% gacha – 2 ball; 20% dan ortiq",
+   "page": 31,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "qualification",
+   "summary_uz": "Respublika hududida servis markazi (oʻz yoki shartnoma asosidagi vakolatli) mavjudligi baholanadi.",
+   "summary_en": "A service centre in Uzbekistan (own or contracted authorised third party) is scored.",
+   "quote": "Respublika hududida servis markazi (texnik qo‘llab-quvvatlash xizmati) mavjudligi",
+   "page": 32,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "narrow_params",
+   "severity": "medium",
+   "quote": "xotirasi kamida 9б GB, jami videoxotira hajmi esa kamida 384 GB bo'lishi 1ozim. 2.\\.20 CUDA qo'llovi - Majburiy",
+   "page": 6,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Talabda har bir serverga aynan 4 ta grafik protsessor, har birida kamida 96 GB videoxotira, jami kamida 384 GB va CUDA qoʻllovi belgilangan. Bunday parametrlar birikmasi va CUDA majburiyligi bitta ishlab chiqaruvchining cheklangan modellarini qoldirishi mumkin.",
+   "explanation_en": "Each server must have 4 GPUs, each with at least 96 GB of video memory (384 GB total), and CUDA support. This combination and the mandatory CUDA may leave only a few models from one vendor.",
+   "rewrite_uz": "Har bir serverda kamida 4 ta grafik tezlatkich, jami videoxotira kamida 384 GB, sun'iy intellekt hisoblash dasturlarini (CUDA yoki ekvivalent) qoʻllab-quvvatlashi kerak.",
+   "rewrite_en": "Each server has at least 4 GPU accelerators with at least 384 GB total video memory, supporting AI compute software (CUDA or equivalent).",
+   "type_label_uz": "Haddan tashqari tor texnik parametrlar",
+   "type_label_en": "Over-narrow technical parameters",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "other",
+   "severity": "medium",
+   "quote": "Ishtirokchilar СС EAL2+ sertifikatini taqdim etishlari kerak va sertifikatlashni tasdiqlash yozuvi СС rasmiy veb-saytida tekshirilishi mumkin bo'lishi kerak",
+   "page": 7,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Ishtirokchilar serverni markazlashgan boshqarish dasturi uchun Common Criteria EAL2+ sertifikatini va sinov hisobotlarini taqdim etishi kerak. Bunday sertifikat faqat ayrim yirik ishlab chiqaruvchilarda boʻlishi mumkin va qurilma ishi uchun zarurligi koʻrsatilmagan; mos qurilma taklif qila oladigan ishtirokchilar chetlashtirilishi mumkin.",
+   "explanation_en": "Bidders must provide a Common Criteria EAL2+ certificate and test reports for the server management software. Few large manufacturers may hold it and its necessity for the servers is not shown; bidders offering suitable equipment could be excluded.",
+   "rewrite_uz": "Ishtirokchi taklif etilayotgan serverlarning xavfsizlik funksiyalarini (TPM, Secure Boot, rolga asoslangan kirish) ishlab chiqaruvchi hujjatlari bilan tasdiqlaydi; xalqaro xavfsizlik sertifikati mavjud boʻlsa, qoʻshimcha sifatida taqdim etiladi.",
+   "rewrite_en": "The bidder confirms the servers' security functions (TPM, Secure Boot, role-based access) with manufacturer documents; an international security certificate, if held, is submitted as an addition.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 48,
+ "traffic_light": "red",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 44,
+  "history_penalty": 7.7,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Haddan tashqari tor texnik parametrlar (6-bet): Talabda har bir serverga aynan 4 ta grafik protsessor, har birida kamida 96 GB videoxotira, jami kamida 384 GB va CUDA qoʻllovi belgilangan. Bunday parametrlar birikmasi va CUDA majburiyligi bitta ishlab chiqaruvchining cheklangan modellarini qoldirishi mumkin.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (7-bet): Ishtirokchilar serverni markazlashgan boshqarish dasturi uchun Common Criteria EAL2+ sertifikatini va sinov hisobotlarini taqdim etishi kerak. Bunday sertifikat faqat ayrim yirik ishlab chiqaruvchilarda boʻlishi mumkin va qurilma ishi uchun zarurligi koʻrsatilmagan; mos qurilma taklif qila oladigan ishtirokchilar chetlashtirilishi mumkin.",
+   "Buyurtmachining so'nggi 53 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 85% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 58%.",
+   "Tushuntirish so'rash muddati: 25.11.2026 14:15."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Over-narrow technical parameters (page 6): Each server must have 4 GPUs, each with at least 96 GB of video memory (384 GB total), and CUDA support. This combination and the mandatory CUDA may leave only a few models from one vendor.",
+   "Other clause that may limit competition (page 7): Bidders must provide a Common Criteria EAL2+ certificate and test reports for the server management software. Few large manufacturers may hold it and its necessity for the servers is not shown; bidders offering suitable equipment could be excluded.",
+   "In the customer's last 53 deals the median number of bidders was 2; 85% of deals had two or fewer bidders; the most frequent winner took 58%.",
+   "Clarification requests are accepted until 25.11.2026 14:15."
+  ]
+ },
+ "documents_needed_uz": [
+  "Texnik taklif (6-shakl) va unga ilovalar: taklif etilayotgan tovarlar roʻyxati, taqqoslash jadvali, rasmiy texnik hujjatlar",
+  "Kafolat xati (5-shakl): tovar yangi, kafolat 5 yil",
+  "Ish tajribasi haqida ma'lumot (4-shakl) va shartnoma nusxalari hamda qabul qilish dalolatnomalari",
+  "Buyurtmachilarning tavsiyanoma xatlari",
+  "Bank ma'lumotnomasi (mablagʻ mavjudligi)",
+  "Servis markazi mavjudligini tasdiqlovchi hujjatlar (ishlab chiqaruvchi avtorizatsiyasi, kadastr yoki ijara shartnomasi)",
+  "Common Criteria EAL2+ sertifikati va sinov hisobotlari",
+  "Resurslar mavjudligi haqida kafolat xati (rasmiy blankada)",
+  "Shartnoma tuzish huquqini tasdiqlovchi hujjat (ustav, buyruq yoki ishonchnoma)",
+  "Soliq qarzdorligi yoqligi haqida ma'lumotnoma",
+  "Bankrotlik yoqligi haqida ma'lumotnoma (my.gov.uz)",
+  "Insofsiz ijrochilar reyestrida yoqligi haqida ma'lumot",
+  "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yoqligi haqida ma'lumot",
+  "Manfaatlar toqnashuvi va aloqadorlik yoqligi haqida xat (1-shakl)",
+  "Qonunbuzarliklarga yol qoymaslik haqidagi ariza (2-shakl)",
+  "Buyurtmachi bilan sud yoki arbitraj yoqligi haqida xat (3-shakl)",
+  "Ta'sis hujjatlari va davlat royxatidan otganlik guvohnomasi",
+  "Ish tajribasi",
+  "5-son shakl",
+  "6-son shakl"
+ ],
+ "clarification_letter_uz": "Kimga: TELECOM SOFT MCHJ, xarid komissiyasiga\nLot raqami: 26120012524523\nXarid predmeti: Tarmoq va muhandislik infratuzilmalari komplekslarini joriy etish loyihasi doirasida sun’iy intellekt tizimlari uchun server qurilmalarini xarid qilish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 6-bet.\n   Hujjatdagi matn: «xotirasi kamida 9б GB, jami videoxotira hajmi esa kamida 384 GB bo'lishi 1ozim. 2.\\.20 CUDA qo'llovi - Majburiy»\n   Savolimiz: Talabda har bir serverga aynan 4 ta grafik protsessor, har birida kamida 96 GB videoxotira, jami kamida 384 GB va CUDA qoʻllovi belgilangan. Bunday parametrlar birikmasi va CUDA majburiyligi bitta ishlab chiqaruvchining cheklangan modellarini qoldirishi mumkin.\n   Taklif etilayotgan tahrir: Har bir serverda kamida 4 ta grafik tezlatkich, jami videoxotira kamida 384 GB, sun'iy intellekt hisoblash dasturlarini (CUDA yoki ekvivalent) qoʻllab-quvvatlashi kerak.\n\n2. Texnik topshiriq, 7-bet.\n   Hujjatdagi matn: «Ishtirokchilar СС EAL2+ sertifikatini taqdim etishlari kerak va sertifikatlashni tasdiqlash yozuvi СС rasmiy veb-saytida tekshirilishi mumkin bo'lishi kerak»\n   Savolimiz: Ishtirokchilar serverni markazlashgan boshqarish dasturi uchun Common Criteria EAL2+ sertifikatini va sinov hisobotlarini taqdim etishi kerak. Bunday sertifikat faqat ayrim yirik ishlab chiqaruvchilarda boʻlishi mumkin va qurilma ishi uchun zarurligi koʻrsatilmagan; mos qurilma taklif qila oladigan ishtirokchilar chetlashtirilishi mumkin.\n   Taklif etilayotgan tahrir: Ishtirokchi taklif etilayotgan serverlarning xavfsizlik funksiyalarini (TPM, Secure Boot, rolga asoslangan kirish) ishlab chiqaruvchi hujjatlari bilan tasdiqlaydi; xalqaro xavfsizlik sertifikati mavjud boʻlsa, qoʻshimcha sifatida taqdim etiladi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (25.11.2026 14:15) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 53,
+  "median_bidders": 2,
+  "share_le2_bidders": 0.8491,
+  "top_winner_share": 0.5849,
+  "share_price_drop_lt1pct": 0.1132,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 984154862.24,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 9.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

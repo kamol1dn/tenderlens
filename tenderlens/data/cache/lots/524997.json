@@ -1,0 +1,242 @@
+{
+ "lot_id": 524997,
+ "display_no": "26110012524997",
+ "title": "Нурафшон шахар тиббийт бирлашмасида пуллик хизмат асосида даволанувчи беморларни кейтринг усулида иссиқ овқат билан таминлаш",
+ "url": "https://etender.uzex.uz/lot/524997",
+ "customer": {
+  "name": "Nurafshon shahar markaziy kasalxonasi",
+  "tin": "207331449"
+ },
+ "region": "Тошкент вилояти",
+ "start_cost": 219000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T14:58:30",
+ "end_date": "2026-11-23T14:58:30",
+ "clarific_date": "2026-11-23T14:58:30",
+ "type": "selection",
+ "old_id": 524220,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 30,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524997.pdf",
+  "pages": 14,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   2,
+   3,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14
+  ]
+ },
+ "subject_uz": "Shahar tibbiyot birlashmasida pullik davolanayotgan bemorlarni kuniga 3 mahal issiq ovqat bilan ta'minlash (keytering)",
+ "sector": "food",
+ "customer_sector": "health",
+ "customer_kind": "budget",
+ "financing_source": "буджетдан ташқари маблағлар хисобидан",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Davolanayotgan bemorlarni kuniga 3 mahal issiq ovqat bilan ta'minlash.",
+   "summary_en": "Supply of three hot meals a day to patients receiving paid treatment.",
+   "quote": "бирлашмада даволанувчи беморларга 3 махал иссиқ овқат билан таминлаш",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Ovqat birlashma parhez hamshirasi belgilagan menyu asosida, har bir bemorga alohida bir martalik idishlarda tarqatiladi.",
+   "summary_en": "Meals follow the menu set by the hospital dietitian nurse and are served in single-use containers.",
+   "quote": "хар бир беморга 3 махал алохида бир маротабалик идишларда овқат тарқатилади",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r3",
+   "kind": "other",
+   "summary_uz": "Buyurtmachi oshxona, omborxona va shunga o'xshash binolarni ajratib bermaydi; ijrochi o'z ishlab chiqarish joyiga ega bo'lishi kerak.",
+   "summary_en": "The customer will not provide a kitchen, storeroom or similar premises; the contractor needs its own production space.",
+   "quote": "бирлашма иссиқ овқатни тайёрлаш учун ошхона, омборхона ва шунга ўхшаш биноларни аусторсерга ажратиб бериш масулятини олмайди",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "1-mezon (10 ball): tashkilotning davlat ro'yxatidan o'tganligi haqida guvohnoma va faoliyat turlari, ustav kapitali ko'rsatilgan varaq.",
+   "summary_en": "Criterion 1 (10 points): registration certificate and an extract showing activity types and charter capital.",
+   "quote": "Ташкилотнинг Давлат идоралари руйхатидан утказилганлиги тўғрисидаги гувохнома мавжудлиги, фаолият турлари, устав капитали",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "2-mezon (10 ball): xodimlar soni va tajribasi haqida to'liq ma'lumot (my.mehnat.uz, QR kod bilan), oshpaz va yordamchilarning malaka oshirganligi haqida guvohnoma.",
+   "summary_en": "Criterion 2 (10 points): staff headcount and experience (my.mehnat.uz extract with QR code), cooks' qualification certificates.",
+   "quote": "Ташкилотларда фаолият юритувчи ходимлар сони (Ф.И.Ш. лавозими хамда иш тажрибаси хақидаги тўлиқ маълумот, QR коди билан)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "3-mezon (10 ball): bank kartotekasida turmaslik va aylanma mablag'i lot summasining kamida 30 foizi (taxminan 65,7 mln so'm) ekanini bank ma'lumotnomalari bilan tasdiqlash.",
+   "summary_en": "Criterion 3 (10 points): not on the bank card index and working capital of at least 30% of the lot (about 65.7 million UZS), confirmed by bank letters.",
+   "quote": "Банкда картотекада турмаслиги ва банк обороти тўғрисида маълумот асл нусхаси тақдим этилиши керак",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "4-mezon (10 ball): shu sohada oxirgi yillarda bajarilgan ishlar haqida to'liq ma'lumot, umumiy ovqatlanish sohasida autsorsing shartnomalari.",
+   "summary_en": "Criterion 4 (10 points): full information on work done in this field in recent years, including catering outsourcing contracts.",
+   "quote": "Охирги йилларда шу соха бўйича бажарилган ишлари тўғрисида тўлиқ маълумот",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "5-mezon (20 ball): sanitariya qoidalariga rioya qilgan holda taomnoma va tayyor issiq ovqat bo'yicha kafolat xati taqdim etish.",
+   "summary_en": "Criterion 5 (20 points): a menu that follows sanitary rules and a guarantee letter for hot-meal preparation.",
+   "quote": "таомнома такдим этиш ва гигиена қоидалирига риоя этган холда ўқувчиларга тайёр иссиқ овкатни таёрлаш бўйича кафолат хати такдим этиш",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "payment",
+   "summary_uz": "Avans 30%, qolgan to'lov 10 kun ichida; taklif kafolati 3% (lot summasi 219 mln so'm, 7300 birlik).",
+   "summary_en": "30% advance, remainder within 10 days; bid security 3% (lot value 219 million UZS, 7300 units).",
+   "quote": "Нурафшон шахар тиббиёт бирлашмасида пуллик хизмат асосида даволанувчи беморларни иссиқ овқат билан таминлаш хизматини ташкил қилиш",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "1-лотга қўйилган маблағ суммасининг 30% дан кам бўлмаган айланма маблағи мавжудлиги хақида маълумот иққи томонлама тасдиқланган бўлиши шарт",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "3-mezon sarlavhasi intellektual mulk huquqlari haqida, ammo ball bank aylanma mablag'i (lot summasining 30 foizi, ya'ni taxminan 65,7 mln so'm) va bank ma'lumotnomalari uchun beriladi. Texnik qismning jami 60 balidan 10 tasi shunga bog'liq, shuning uchun kichik, ammo ovqatlantirishni uddalay oladigan ishtirokchi ball yo'qotishi mumkin. Bu standart andoza matniga o'xshaydi.",
+   "explanation_en": "The criterion heading concerns intellectual property rights, yet the points are given for bank working capital (30% of the lot, about 65.7 million UZS) and bank letters. 10 of the 60 technical points depend on it, so a small supplier able to deliver the meals could lose points. It looks like standard template wording.",
+   "rewrite_uz": "Ishtirokchining shartnomani bajarish uchun yetarli moliyaviy imkoniyati borligi bankdan ma'lumotnoma yoki moliyaviy hisobot bilan tasdiqlanadi; ball faqat taklif etilayotgan xizmatga bevosita aloqador mezonlar bo'yicha beriladi.",
+   "rewrite_en": "The bidder's financial capacity to perform the contract is confirmed by a bank letter or financial statements; points are awarded only on criteria directly tied to the service offered.",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 70,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 7.5,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Lot hajmiga nomutanosib moliyaviy talab (platformadagi mezonlar): 3-mezon sarlavhasi intellektual mulk huquqlari haqida, ammo ball bank aylanma mablag'i (lot summasining 30 foizi, ya'ni taxminan 65,7 mln so'm) va bank ma'lumotnomalari uchun beriladi. Texnik qismning jami 60 balidan 10 tasi shunga bog'liq, shuning uchun kichik, ammo ovqatlantirishni uddalay oladigan ishtirokchi ball yo'qotishi mumkin. Bu standart andoza matniga o'xshaydi.",
+   "Buyurtmachining so'nggi 6 ta savdosida ishtirokchilar medianasi 2 ta; savdolarning 83% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 50%.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524220).",
+   "Tushuntirish so'rash muddati: 23.11.2026 14:58.",
+   "Diqqat: hujjatning 9 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Financial demand out of proportion to the lot (platform criteria form): The criterion heading concerns intellectual property rights, yet the points are given for bank working capital (30% of the lot, about 65.7 million UZS) and bank letters. 10 of the 60 technical points depend on it, so a small supplier able to deliver the meals could lose points. It looks like standard template wording.",
+   "In the customer's last 6 deals the median number of bidders was 2; 83% of deals had two or fewer bidders; the most frequent winner took 50%.",
+   "This lot was re-announced (previous lot: 524220).",
+   "Clarification requests are accepted until 23.11.2026 14:58.",
+   "Note: 9 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va faoliyat turlari, ustav kapitali, ta'sischilar ko'rsatilgan muhrli varaq",
+  "Xodimlar soni va tajribasi haqida my.mehnat.uz ma'lumotnomasi (QR kod bilan)",
+  "Oshpaz va yordamchilarning malaka oshirganligi haqida guvohnoma, tibbiy daftarcha, diplom va sertifikatlar",
+  "Bank kartotekasida turmaslik va aylanma mablag' haqida bank ma'lumotnomasi",
+  "Bankrotlik holati yo'qligi haqida vakolatli organ ma'lumotnomasi",
+  "Oxirgi yillarda bajarilgan ishlar haqida ma'lumot va autsorsing shartnomalari nusxalari",
+  "Mulk tuzilmasi va oxirgi benefitsiar mulkdorlar haqida ma'lumotnoma",
+  "Sanitariya qoidalariga mos taomnoma nusxasi va kafolat xati",
+  "Soliq qarzi yo'qligi, insofsiz ijrochilar reyestrida yo'qligi va majburiy ijro byurosi bo'yicha ma'lumotlar",
+  "Taklif kafolati (3%)",
+  "\"Текстовое значение (Обязательно)\""
+ ],
+ "clarification_letter_uz": "Kimga: Nurafshon shahar markaziy kasalxonasi, xarid komissiyasiga\nLot raqami: 26110012524997\nXarid predmeti: Нурафшон шахар тиббийт бирлашмасида пуллик хизмат асосида даволанувчи беморларни кейтринг усулида иссиқ овқат билан таминлаш\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «1-лотга қўйилган маблағ суммасининг 30% дан кам бўлмаган айланма маблағи мавжудлиги хақида маълумот иққи томонлама тасдиқланган бўлиши шарт»\n   Savolimiz: 3-mezon sarlavhasi intellektual mulk huquqlari haqida, ammo ball bank aylanma mablag'i (lot summasining 30 foizi, ya'ni taxminan 65,7 mln so'm) va bank ma'lumotnomalari uchun beriladi. Texnik qismning jami 60 balidan 10 tasi shunga bog'liq, shuning uchun kichik, ammo ovqatlantirishni uddalay oladigan ishtirokchi ball yo'qotishi mumkin. Bu standart andoza matniga o'xshaydi.\n   Taklif etilayotgan tahrir: Ishtirokchining shartnomani bajarish uchun yetarli moliyaviy imkoniyati borligi bankdan ma'lumotnoma yoki moliyaviy hisobot bilan tasdiqlanadi; ball faqat taklif etilayotgan xizmatga bevosita aloqador mezonlar bo'yicha beriladi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (23.11.2026 14:58) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 6,
+  "median_bidders": 2.0,
+  "share_le2_bidders": 0.8333,
+  "top_winner_share": 0.5,
+  "share_price_drop_lt1pct": 0.1667,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 29871600.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

@@ -1,0 +1,245 @@
+{
+ "lot_id": 524909,
+ "display_no": "26110012524909",
+ "title": "“HUMO AIR” MChJ ustav kapitalidagi davlat ulushini baholash",
+ "url": "https://etender.uzex.uz/lot/524909",
+ "customer": {
+  "name": "Давлат мулки кумитаси Тошкент шахар худудий бошкармаси.",
+  "tin": "200950435"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 36212000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T17:00:55",
+ "end_date": "2026-11-23T17:00:55",
+ "clarific_date": "2026-11-23T17:00:55",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 50.0,
+  "cost_coef": 50.0,
+  "min_point": 30,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+    "max_score": 15.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+    "max_score": 10.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524909.pdf",
+  "pages": 17,
+  "text_source": "ocr",
+  "language": "uz-latn",
+  "unreadable_pages": []
+ },
+ "subject_uz": "“HUMO AIR” MChJ ustav kapitalidagi davlat ulushini baholash xizmati",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "budget",
+ "financing_source": "maqsadli jamg'arma",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "qualification",
+   "summary_uz": "Ijrochi baholash faoliyatini amalga oshiruvchi yuridik shaxs maqomiga ega baholovchi tashkilot bo'lishi kerak.",
+   "summary_en": "The contractor must be a valuation organisation with legal-entity status.",
+   "quote": "baholash faoliyatini amalga oshiruvchi yuridik shaxs maqomiga ega baholovchi",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Baholovchi tashkilot yuqori A reytingga ega bo'lishi talab qilinadi va bu mezon 15 ball bilan baholanadi.",
+   "summary_en": "The valuation organisation must hold a high 'A' rating; the same factor is also scored (15 points).",
+   "quote": "baholovchi tashkilot yuqori A reytingga ega bo‘lishi",
+   "page": 6,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "qualification",
+   "summary_uz": "Kamida 3 ta o'xshash loyiha (shu jumladan xususiylashtirish) milliy standartlar bo'yicha baholangan bo'lishi kerak.",
+   "summary_en": "At least 3 similar valuation projects (including privatisation) under national standards.",
+   "quote": "kamida 3 ta o‘xshash loyihani (shu jumladan xususiylashtirishni) amalga oshirgan bo‘lishi",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Shartnoma tuzilgunga qadar kamida 1 yil davomida aktivlarni baholash faoliyati bilan shugʻullangan bo'lish kerak.",
+   "summary_en": "At least 1 year of asset-valuation activity before the contract is signed.",
+   "quote": "kamida 1 yil davomida (aktivlarni) baholash faoliyatini amalga oshirish",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "qualification",
+   "summary_uz": "Baholovchi tashkilot kasbiy jamoat birlashmasi (assotsiatsiya) a'zosi bo'lishi va bu 10 ball bilan baholanadi.",
+   "summary_en": "Membership of a professional valuers' association is required and scored (10 points).",
+   "quote": "baholovchi tashkilotlar assotsiatsiyasiga a’zoligi",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "qualification",
+   "summary_uz": "Fuqarolik javobgarligini sugʻurtalash polisi mavjud bo'lishi kerak.",
+   "summary_en": "A valid civil-liability insurance policy for the valuation organisation is required.",
+   "quote": "baholovchi tashkilotning fuqarolik javobgarligini sugʻurta qilish shartnomasi",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "qualification",
+   "summary_uz": "Ijrochi baholanayotgan kompaniya yoki potensial investor bilan bog'liq bo'lmasligi kerak.",
+   "summary_en": "The contractor must have no connection with the valued company or any potential investor.",
+   "quote": "Ijrochi hech qanday tarzda Kompaniya bilan",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Baholash shartnoma tuzilgan kundan boshlab 15 kun ichida bajariladi.",
+   "summary_en": "The valuation must be completed within 15 days of contract signing.",
+   "quote": "Baholash xizmatlarini ko‘rsatish bo‘yicha shartnoma tuzilgan kundan boshlab 15 kun.",
+   "page": 4,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "technical",
+   "summary_uz": "Hisobot va ilovalar ikki nusxada, o'zbek va rus tillarida topshiriladi.",
+   "summary_en": "The report and annexes are delivered in two copies, in Uzbek and Russian.",
+   "quote": "Ijrochi Buyurtmachiga ikki nusxada Hisobot va tegishli ilovalarni o‘zbek/rus tillarida",
+   "page": 13,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "payment",
+   "summary_uz": "Avans to'lovi umumiy qiymatning 30 foizini tashkil etadi.",
+   "summary_en": "The advance payment is 30% of the total value.",
+   "quote": "Avans to‘lovi 30% (umumiy qiymatidan)",
+   "page": 14,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "evaluation",
+   "summary_uz": "Texnik qism 50 ball, narx 50 ball; keyingi bosqichga o'tish uchun kamida 30 ball kerak.",
+   "summary_en": "Technical part is 50 points, price 50 points; a minimum of 30 points is needed to proceed.",
+   "quote": "keyingi bosqichga minimal o‘tish bali 30 ball",
+   "page": 17,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "baholovchi tashkilot yuqori A reytingga ega bo‘lishi",
+   "page": 6,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Yuqori A reytingga ega bo'lish ham majburiy talab, ham 15 ballik mezon sifatida kiritilgan. Reytingga ega bo'lmagan, ammo baholash litsenziyasi, malaka sertifikati va tajribasi bor kichik tashkilotlar qatnasha olmasligi yoki ball yoʻqotishi mumkin. Shartnoma qiymati nisbatan kichik (36 mln so'm) ekanini hisobga olib, bu talabning asosini aniqlashtirish maqsadga muvofiq.",
+   "explanation_en": "A high 'A' rating is both a mandatory requirement and a 15-point criterion. Smaller valuation firms with the required licence, qualification certificates and experience but no rating may be excluded or lose points. Given the modest contract value (about 36 million UZS), the basis for this requirement is worth clarifying.",
+   "rewrite_uz": "Baholovchi tashkilot baholash faoliyatiga qo'yiladigan amaldagi talablarga javob berishi shart; reyting mavjud bo'lsa, u qo'shimcha ball sifatida hisobga olinadi, lekin ishtirok etish sharti bo'lmaydi.",
+   "rewrite_en": "The valuation organisation must meet the applicable requirements for valuation activity; an available rating may earn additional points but is not a condition of participation.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 74,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 4.4,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (6-bet): Yuqori A reytingga ega bo'lish ham majburiy talab, ham 15 ballik mezon sifatida kiritilgan. Reytingga ega bo'lmagan, ammo baholash litsenziyasi, malaka sertifikati va tajribasi bor kichik tashkilotlar qatnasha olmasligi yoki ball yoʻqotishi mumkin. Shartnoma qiymati nisbatan kichik (36 mln so'm) ekanini hisobga olib, bu talabning asosini aniqlashtirish maqsadga muvofiq.",
+   "Buyurtmachining so'nggi 507 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 49% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 27%.",
+   "Tushuntirish so'rash muddati: 23.11.2026 17:00."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Other clause that may limit competition (page 6): A high 'A' rating is both a mandatory requirement and a 15-point criterion. Smaller valuation firms with the required licence, qualification certificates and experience but no rating may be excluded or lose points. Given the modest contract value (about 36 million UZS), the basis for this requirement is worth clarifying.",
+   "In the customer's last 507 deals the median number of bidders was 3; 49% of deals had two or fewer bidders; the most frequent winner took 27%.",
+   "Clarification requests are accepted until 23.11.2026 17:00."
+  ]
+ },
+ "documents_needed_uz": [
+  "Davlat ro'yxatidan o'tganlik guvohnomasi va ustav hujjatlari",
+  "Baholash faoliyatiga litsenziya yoki ruxsatnoma (amaldagi talablarga muvofiq)",
+  "Baholovchilarning amaldagi malaka sertifikatlari",
+  "Baholovchi tashkilotlar professional birlashmasiga a'zolik to'g'risidagi hujjat",
+  "Baholovchi tashkilotning reyting hujjati",
+  "Fuqarolik javobgarligini sug'urtalash polisi",
+  "Kamida 3 ta o'xshash loyiha bo'yicha ma'lumot va mijozlarning yozma tavsiyalari",
+  "Baholash muddati va narx taklifi",
+  "Soliq qarzdorligi yo'qligi haqida ma'lumotnoma",
+  "Majburiy ijro byurosi bazasida bajarilmagan majburiyatlar yo'qligi to'g'risida ma'lumot",
+  "Kompaniya va potensial investorlar bilan bog'liqlik yo'qligi to'g'risida ariza",
+  "Baholashni amalga oshirish bo‘yicha jalb qilinayotgan mutaxassislarning malakasi va tajribasi, tashkilot yuqori A reytingga ega bo‘lishi",
+  "Baholashni amalga oshirish bo‘yicha jalb qilinayotgan kompaniya (konsultant)ning malakasi va tajribasi",
+  "Baxolovchi tashkilotlar asotsiatsiyasiga a’zoligi to‘g‘risidagi xujjatlar",
+  "Baholashni amalga oshirish muddati"
+ ],
+ "clarification_letter_uz": "Kimga: Давлат мулки кумитаси Тошкент шахар худудий бошкармаси., xarid komissiyasiga\nLot raqami: 26110012524909\nXarid predmeti: “HUMO AIR” MChJ ustav kapitalidagi davlat ulushini baholash\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 6-bet.\n   Hujjatdagi matn: «baholovchi tashkilot yuqori A reytingga ega bo‘lishi»\n   Savolimiz: Yuqori A reytingga ega bo'lish ham majburiy talab, ham 15 ballik mezon sifatida kiritilgan. Reytingga ega bo'lmagan, ammo baholash litsenziyasi, malaka sertifikati va tajribasi bor kichik tashkilotlar qatnasha olmasligi yoki ball yoʻqotishi mumkin. Shartnoma qiymati nisbatan kichik (36 mln so'm) ekanini hisobga olib, bu talabning asosini aniqlashtirish maqsadga muvofiq.\n   Taklif etilayotgan tahrir: Baholovchi tashkilot baholash faoliyatiga qo'yiladigan amaldagi talablarga javob berishi shart; reyting mavjud bo'lsa, u qo'shimcha ball sifatida hisobga olinadi, lekin ishtirok etish sharti bo'lmaydi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (23.11.2026 17:00) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 507,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4911,
+  "top_winner_share": 0.2702,
+  "share_price_drop_lt1pct": 0.1164,
+  "reannounced_lots": 0
+ },
+ "money_on_table_uzs": 5105892.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:05+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

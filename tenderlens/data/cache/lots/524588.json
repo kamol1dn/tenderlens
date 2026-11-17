@@ -1,0 +1,231 @@
+{
+ "lot_id": 524588,
+ "display_no": "26110012524588",
+ "title": "укутувчи мураббийлар тадбирини утказиш учун ташки кисмда комплекс тадбир 600 кишилик",
+ "url": "https://etender.uzex.uz/lot/524588",
+ "customer": {
+  "name": "Вилоят касб-хунар таълими бошкармаси",
+  "tin": "202569978"
+ },
+ "region": "Андижон вилояти",
+ "start_cost": 547520000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-13T12:30:28",
+ "end_date": "2026-11-20T12:30:28",
+ "clarific_date": "2026-11-20T12:30:28",
+ "type": "selection",
+ "old_id": 524489,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 30,
+  "criteria": [
+   {
+    "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 20.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524588.pdf",
+  "pages": 7,
+  "text_source": "text",
+  "language": "uz-cyrl",
+  "unreadable_pages": [
+   4
+  ]
+ },
+ "subject_uz": "600 kishilik ustoz va murabbiylar bayrami uchun tashqi qismda keyter (kofe-breyk), bayram bezagi va boshqa xizmatlarni autsorsing usulida tashkil etish",
+ "sector": "other",
+ "customer_sector": "education",
+ "customer_kind": "budget",
+ "financing_source": "буюджет маблағлари хисобидан",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Xizmat Andijon viloyatidagi 600 kishilik tashqi tadbirni autsorsing usulida tashkil etishdan iborat.",
+   "summary_en": "The service is organising an outdoor event for 600 people in Andijan region on an outsourcing basis.",
+   "quote": "Андижон вилояти 1- октябр ўқтувчи мурабийлар тадбир ўтказиш учун ташки 600 кишилик хизмат таъминлаш хизматини аутсорсинг усулида",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Ro'yxatdagi barcha mahsulotlar bayram dasturxonida bo'lishi shart; xizmat, anjomlar ijarasi va boshqa xarajatlarni g'olib o'zi qoplaydi.",
+   "summary_en": "All listed products must be on the table; service, equipment rental and other costs are borne by the winner.",
+   "quote": "*** Юкоридаги барча махсулотлар байрам дастурхонида булиши шарт , бундан ташкари голиб томонидан сервис хизматлар анжомлар ижараси ва бошка хизматлар аутсорсер томонидан копланади",
+   "page": 5,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "payment",
+   "summary_uz": "Shartnoma qiymatining 30 foizi avans sifatida o'tkaziladi.",
+   "summary_en": "30 percent of the contract value is paid as an advance.",
+   "quote": "Танловда ғолиб чиқган иштирокчига шартнома бўйича ишлар умумий кийматинииг 30 % микдорида аванс ўтказади",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "evaluation",
+   "summary_uz": "Moliyaviy ochilish uchun umumiy hujjatlar to'plamida 30 foizdan yuqori ball kerak.",
+   "summary_en": "A score above 30 percent in the general document set is needed for the price part to be opened.",
+   "quote": "Комиссия томонидан овозга куйиш оркали (умумий хужжатлар тўпламида 30% дан юкори бўлганлар)",
+   "page": 1,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "20 ball: faqat so'ralgan hujjatlar (guvohnoma, nizom, rahbar buyrug'i va pasporti nusxasi) PDF shaklida to'liq berilsa.",
+   "summary_en": "20 points for submitting exactly the requested company documents (certificate, charter, manager's order and passport copy) as PDF.",
+   "quote": "гувохнома,низом,рахбарни ички буйруғи ва рахбар паспорти ксеронусхаси булар ПДФ ҳолатида илова қилиниши зарур",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "20 ball: hisob raqamdagi mablag' shartnoma summasiga yetarli ekanini tasdiqlovchi bank ma'lumotnomasi; to'liq bo'lmasa 10 ballgacha.",
+   "summary_en": "20 points for a bank certificate that account funds cover the contract sum; up to 10 if incomplete.",
+   "quote": "Тулиладиган шартнома суммасига етарли маблағ бўлганда 20 балл, тўлиқ бўлмаганда 10 баллгача",
+   "page": 3,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "20 ball: avval o'tkazilgan tadbirlardan foto lavhalar to'liq bo'lsa.",
+   "summary_en": "20 points for a complete set of photos from previously held events.",
+   "quote": "Олдин утказилган тадбирлардан фото лавхалар. тулик холатда етарли бўлганда 20 балл",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "20 ball: komissiya raisi nomiga narxlar real va o'zgarmasligi haqida kafolat xati.",
+   "summary_en": "20 points for a guarantee letter to the commission chair that prices are real and will not change.",
+   "quote": "таклиф нархлари реал бўлиши хамда кейинчалик нархлар ўзгармаслиги бўйича расмий маълумот кенгайтирилган холда",
+   "page": 2,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "Shartnomani bajarish uchun zarur texnik, moliyaviy, moddiy va kadrlar resurslari mavjud bo'lishi kerak.",
+   "summary_en": "The bidder must have the technical, financial, material and staff resources needed to perform the contract.",
+   "quote": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+   "page": 0,
+   "source": "platform_form"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "excessive_financial",
+   "severity": "medium",
+   "quote": "Тулиладиган шартнома суммасига етарли маблағ бўлганда 20 балл, тўлиқ бўлмаганда 10 баллгача",
+   "page": 3,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Mezon 2 bo'yicha 20 ball (jami 100 balldan 20 foizi) ishtirokchining hisob raqamida shartnoma summasiga (547 520 000 so'm) yetarli mablag' borligiga bog'langan. Hisob raqamida bunday qoldiq bo'lmagan, lekin xizmatni bajara oladigan ishtirokchi 10 ballgacha yo'qotadi. Buning sababini tekshirib ko'rish kerak.",
+   "explanation_en": "Criterion 2 ties 20 points (20 percent of the 100 points available) to the bidder holding enough money in its account to cover the contract sum of 547,520,000 UZS. A capable bidder without that balance on the certificate date can lose up to 10 points. A person should check whether this is needed for the purchase.",
+   "rewrite_uz": "Ishtirokchining moliyaviy barqarorligi bank ma'lumotnomasi yoki avans va garov hisobga olingan holda tasdiqlanadi; hisob raqamidagi mablag' shartnoma summasining to'liq miqdoriga teng bo'lishi talab etilmaydi.",
+   "rewrite_en": "The bidder's financial standing is confirmed by a bank certificate that takes the advance and bid security into account; an account balance equal to the full contract sum is not required.",
+   "type_label_uz": "Lot hajmiga nomutanosib moliyaviy talab",
+   "type_label_en": "Financial demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 78,
+ "traffic_light": "amber",
+ "finding_count": 1,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 22,
+  "history_penalty": 0.0,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Lot hajmiga nomutanosib moliyaviy talab (3-bet): Mezon 2 bo'yicha 20 ball (jami 100 balldan 20 foizi) ishtirokchining hisob raqamida shartnoma summasiga (547 520 000 so'm) yetarli mablag' borligiga bog'langan. Hisob raqamida bunday qoldiq bo'lmagan, lekin xizmatni bajara oladigan ishtirokchi 10 ballgacha yo'qotadi. Buning sababini tekshirib ko'rish kerak.",
+   "Lot qayta e'lon qilingan (avvalgi lot: 524489).",
+   "Tushuntirish so'rash muddati: 20.11.2026 12:30.",
+   "Diqqat: hujjatning 1 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Financial demand out of proportion to the lot (page 3): Criterion 2 ties 20 points (20 percent of the 100 points available) to the bidder holding enough money in its account to cover the contract sum of 547,520,000 UZS. A capable bidder without that balance on the certificate date can lose up to 10 points. A person should check whether this is needed for the purchase.",
+   "This lot was re-announced (previous lot: 524489).",
+   "Clarification requests are accepted until 20.11.2026 12:30.",
+   "Note: 1 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ro'yxatdan o'tganlik guvohnomasi nusxasi (PDF)",
+  "Korxona nizomi nusxasi (PDF)",
+  "Rahbarning ichki buyrug'i nusxasi (PDF)",
+  "Rahbar pasportining nusxasi (PDF)",
+  "Xizmat ko'rsatuvchi bank tasdiqlagan hisob raqamdagi mablag'lar to'g'risida ma'lumotnoma",
+  "Avval o'tkazilgan tadbirlardan foto lavhalar",
+  "Komissiya raisi nomiga kafolat xati (narxlar real va o'zgarmasligi haqida)",
+  "Taklif xati va tadbir uchun qo'shimcha takliflar fotolari",
+  "Xarid jarayonida qonunbuzarlikka yo'l qo'ymaslik to'g'risidagi ariza",
+  "Soliq qarzdorligi yo'qligi va bankrotlik jarayoni yo'qligi to'g'risida ma'lumot"
+ ],
+ "clarification_letter_uz": "Kimga: Вилоят касб-хунар таълими бошкармаси, xarid komissiyasiga\nLot raqami: 26110012524588\nXarid predmeti: укутувчи мураббийлар тадбирини утказиш учун ташки кисмда комплекс тадбир 600 кишилик\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 3-bet.\n   Hujjatdagi matn: «Тулиладиган шартнома суммасига етарли маблағ бўлганда 20 балл, тўлиқ бўлмаганда 10 баллгача»\n   Savolimiz: Mezon 2 bo'yicha 20 ball (jami 100 balldan 20 foizi) ishtirokchining hisob raqamida shartnoma summasiga (547 520 000 so'm) yetarli mablag' borligiga bog'langan. Hisob raqamida bunday qoldiq bo'lmagan, lekin xizmatni bajara oladigan ishtirokchi 10 ballgacha yo'qotadi. Buning sababini tekshirib ko'rish kerak.\n   Taklif etilayotgan tahrir: Ishtirokchining moliyaviy barqarorligi bank ma'lumotnomasi yoki avans va garov hisobga olingan holda tasdiqlanadi; hisob raqamidagi mablag' shartnoma summasining to'liq miqdoriga teng bo'lishi talab etilmaydi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (20.11.2026 12:30) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 1,
+  "median_bidders": 2,
+  "share_le2_bidders": 1.0,
+  "top_winner_share": 1.0,
+  "share_price_drop_lt1pct": 0.0,
+  "reannounced_lots": 2
+ },
+ "money_on_table_uzs": 74681728.0,
+ "money_on_table_basis": "market_median",
+ "context": {
+  "reannounced": true,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}

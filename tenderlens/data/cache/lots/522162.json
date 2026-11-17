@@ -1,0 +1,299 @@
+{
+ "lot_id": 522162,
+ "display_no": "26120012522162",
+ "title": "№ 12, № 14 va № 15 bazaviy rezervuarlarning avtomatlashtirish tizimi komponentlarini almashtirish hamda zarur nazorat-o‘lchov uskunalarini yetkazib berish bo‘yicha ta’mirlash ishlari.",
+ "url": "https://etender.uzex.uz/lot/522162",
+ "customer": {
+  "name": "ISLOM KARIMOV NOMIDAGI TOSHKENT XALQARO AEROPOTI MChJ",
+  "tin": "200640719"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 1400000000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-16T17:47:35",
+ "end_date": "2026-11-23T17:47:35",
+ "clarific_date": "2026-11-23T17:47:35",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 70.0,
+  "cost_coef": 30.0,
+  "min_point": 30,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 8.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 8.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+    "max_score": 6.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 9.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+    "max_score": 6.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/522162.zip",
+  "pages": 8,
+  "text_source": "text",
+  "language": "mixed",
+  "unreadable_pages": [
+   2,
+   4
+  ]
+ },
+ "subject_uz": "Aeroport yoqilg'i ombori 12, 14 va 15-sonli rezervuarlari avtomatlashtirish tizimi komponentlarini almashtirish, nazorat-o'lchov uskunalarini yetkazib berish va SCADA ishlab chiqish",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Byudjetdan tashqari mablag‘lar hisobidan",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "technical",
+   "summary_uz": "Har bir rezervuar uchun sath o'lchagich, sath datchiklari, harorat datchigi va ularning o'zgartirgichlarini 3 komplektdan demontaj va montaj qilish.",
+   "summary_en": "Dismantle and install level gauges, level sensors, temperature sensors and converters, 3 sets of each.",
+   "quote": "Nivotester FTW325 o‘zgartirgichi (FTW325-C2B1A) — 3 komplekt.",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "technical",
+   "summary_uz": "Nazorat-o'lchov uskunalari aniq markalar va buyurtma kodlari bilan ko'rsatilgan (Endress+Hauser turidagi uskunalar), muqobil ruxsat etilishi aytilmagan.",
+   "summary_en": "Measuring equipment is specified by exact brand lines and order codes; no equivalent is mentioned.",
+   "quote": "Levelflex FMP51 mikroimpulsli sath o‘lchagichi (FMP51-BBACCALAA4GGJ+LA), RN42-8L1AU+LA faol to‘sig‘i bilan birga — 3 komplekt.",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "12, 13, 14, 9 va 15-sonli rezervuarlar uchun SCADA dasturiy ta'minotini ishlab chiqish talab etiladi.",
+   "summary_en": "SCADA software must be developed for tanks 12, 13, 14, 9 and 15.",
+   "quote": "№ 12, № 13, № 14, № 9 va № 15 bazaviy rezervuarlar uchun SCADA dasturiy ta’minotini ishlab chiqish.",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi qayta tashkil etish, tugatish, bankrotlik yoki buyurtmachi bilan sud nizosi holatida bo'lmasligi kerak.",
+   "summary_en": "Participant must not be in reorganisation, liquidation, bankruptcy, or in a court dispute with the customer.",
+   "quote": "Qayta tashkil etish, tugatish yoki bankrotlik jarayonida bo‘lgan, shuningdek Buyurtmachi bilan sud yoki arbitraj nizosida bo‘lgan tashkilotlar tanlovda ishtirok etishiga yo‘l qo‘yilmaydi.",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "evaluation",
+   "summary_uz": "Shtatdagi muhandislar soni va sertifikatlari 8 ballgacha baholanadi (4 va undan ko'p mutaxassis = 8 ball).",
+   "summary_en": "Staff engineers and certificates scored up to 8 points (4 or more specialists = 8).",
+   "quote": "Shtatda sanoat avtomatlashtirish, KIPiA va dasturlash bo‘yicha tajribaga ega, tegishli oliy texnik ma’lumotga ega mutaxassislar mavjudligi",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Neft-gaz yoki aviatsiya yoqilg'i sohasidagi shartnomalar tajribasi 9 ballgacha baholanadi.",
+   "summary_en": "Experience with oil, aviation-fuel or chemical sites is scored up to 9 points.",
+   "quote": "Neft-gaz yoki aviatsiya YoQMS (TZK) sohasidagi ixtisoslashgan tajriba: So‘nggi yillar davomida portlash xavfi yuqori bo‘lgan neft bazalari, aviatsiya yoqilg‘isini saqlash rezervuarlari yoki kimyo sanoati obyektlarida",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r7",
+   "kind": "evaluation",
+   "summary_uz": "SCADA arxitekturasi va sinov-sozlash metodikasini taqdim etish 6 ballgacha baholanadi.",
+   "summary_en": "SCADA architecture and test methodology description scored up to 6 points.",
+   "quote": "SCADA tizimini ishlab chiqish va mavjud infratuzilmaga integratsiya qilish qobiliyati",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r8",
+   "kind": "evaluation",
+   "summary_uz": "Ishlarni ishlab turgan obyektda xavfsiz bajarish loyihasi (PPR) va reja-grafik 6 ballgacha baholanadi.",
+   "summary_en": "A work-execution project (PPR) for a live site and schedule is scored up to 6 points.",
+   "quote": "Ishlarni ishlab turgan obyektda xavfsiz tashkil etish loyihasi (PPR)",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r9",
+   "kind": "evaluation",
+   "summary_uz": "Foydalanish yo'riqnomasi va xodimlarni o'qitish rejasi 8 ballgacha baholanadi.",
+   "summary_en": "An operating manual and staff training plan is scored up to 8 points.",
+   "quote": "Ishlar yakunlangach, pudratchi buyurtmachiga boshqaruv tizimidan foydalanish bo‘yicha yo‘riqnomani taqdim etishi va xodimlarni boshqaruv tizimida ishlash bo‘yicha o‘qitishi.",
+   "page": 0,
+   "source": "platform_form"
+  },
+  {
+   "id": "r10",
+   "kind": "delivery",
+   "summary_uz": "Ishlar muddati hujjatda 2026-yil sentabr-noyabr deb ko'rsatilgan.",
+   "summary_en": "The works period is stated in the document as September to November 2026.",
+   "quote": "Ishlarni bajarish muddati: 2026-yil sentabr–noyabr oylari.",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "other",
+   "summary_uz": "Barcha ishlar, jumladan olovli va payvandlash ishlari, YoMM xizmati bilan kelishilgan holda bajariladi.",
+   "summary_en": "All works including hot work and welding are coordinated with the fuel-complex service.",
+   "quote": "Obyekt amaldagi faoliyat yuritayotgan obyekt bo‘lganligi sababli barcha ishlar, shu jumladan olov bilan bog‘liq va payvandlash ishlari YoMM xizmati bilan kelishilgan holda",
+   "page": 8,
+   "source": "spec"
+  },
+  {
+   "id": "r12",
+   "kind": "other",
+   "summary_uz": "Ijro hujjatlari qabul qilishdan 5 kun oldin uch nusxada taqdim etiladi.",
+   "summary_en": "As-built documents are due in three copies 5 days before acceptance.",
+   "quote": "Ijrochi ishlarni qabul qilish boshlanishidan 5 kun oldin Buyurtmachiga ijro hujjatlarini Buyurtmachi belgilagan tarkibda, amaldagi ShNQ me’yorlariga muvofiq, uch nusxada taqdim etadi.",
+   "page": 8,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "brand_no_equivalent",
+   "severity": "medium",
+   "quote": "Liquiphant FTL51B tebranishli maksimal sath datchigi (FTL51B-BKA8ABBAA2CJI1VCJ+JALALD) — 3 komplekt.",
+   "page": 7,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Yetkazib beriladigan 7 ta uskuna aniq marka va buyurtma kodlari bilan ko'rsatilgan (Nivotester, Liquiphant, Levelflex, iTHERM), \"yoki ekvivalent\" deyilmagan. Bu faqat bitta ishlab chiqaruvchining tarmog'idagi yetkazib beruvchilarni qoldirishi mumkin; lot qiymati 1,4 mlrd so'm. Lot mavjud tizim komponentlarini almashtirishga oid bo'lgani uchun moslik sababi bo'lishi mumkin; shunga qaramay «yoki ekvivalenti» iborasi yo'q.",
+   "explanation_en": "Seven supplied instruments are specified by exact brand lines and order codes with no 'or equivalent' wording. This may leave only suppliers within one manufacturer's channel; the lot is worth 1.4 billion UZS. The lot replaces components of an existing system, so a compatibility reason is conceivable; still, no 'or equivalent' wording is given.",
+   "rewrite_uz": "Liquiphant FTL51B yoki unga ekvivalent tebranishli maksimal sath datchigi (texnik parametrlari: ... , portlashdan himoya sinfi: ... ) — 3 komplekt. Ekvivalentning mosligi texnik parametrlar jadvali bilan tasdiqlanadi.",
+   "rewrite_en": "Liquiphant FTL51B or equivalent vibrating maximum-level sensor (technical parameters: ..., explosion-protection class: ...) - 3 sets. Equivalence is shown by a parameter comparison table.",
+   "type_label_uz": "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan",
+   "type_label_en": "Brand or model named with no equivalent allowed",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "excessive_experience",
+   "severity": "medium",
+   "quote": "Neft-gaz yoki aviatsiya YoQMS (TZK) sohasidagi ixtisoslashgan tajriba: So‘nggi yillar davomida portlash xavfi yuqori bo‘lgan neft bazalari, aviatsiya yoqilg‘isini saqlash rezervuarlari yoki kimyo sanoati obyektlarida",
+   "page": 0,
+   "quote_verified": true,
+   "source": "platform_form",
+   "explanation_uz": "Mezon 4 bo'yicha 9 ball neft-gaz, aviatsiya yoqilg'isi yoki kimyo obyektlaridagi shartnomalarga beriladi. Texnik qismning maksimal bali 37 (8+8+6+9+6), o'tish bali 30; bu mezonda 0 ball olgan ishtirokchi ko'pi bilan 28 ball to'plashi mumkin, ya'ni o'tish balidan past. Portlash xavfli muhitda tajriba ahamiyatli, lekin umumiy portlashdan himoyalangan avtomatlashtirish tajribasi ham qabul qilinishi mumkin.",
+   "explanation_en": "Criterion 4 gives 9 points only for contracts at oil, aviation-fuel or chemical sites. Maximum technical score is 37 (8+8+6+9+6) with a pass mark of 30, so a bidder scoring 0 here can reach at most 28, below the pass mark. Hazardous-area experience matters, but explosion-protected automation work at other site types could also be accepted.",
+   "rewrite_uz": "So'nggi 5 yil ichida portlash xavfi bo'lgan obyektlarda (neft-gaz, energetika, kimyo, aviatsiya yoqilg'isi va boshqalar) avtomatlashtirish tizimlarini joriy etish bo'yicha tugallangan shartnomalar soni bo'yicha baholanadi.",
+   "rewrite_en": "Scored by the number of completed automation contracts in the last 5 years at sites with explosion risk (oil and gas, power, chemical, aviation fuel and similar).",
+   "type_label_uz": "Lot hajmiga nomutanosib tajriba yoki resurs talabi",
+   "type_label_en": "Experience or resource demand out of proportion to the lot",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f3",
+   "type": "unrealistic_deadline",
+   "severity": "medium",
+   "quote": "Ishlarni bajarish muddati: 2026-yil sentabr–noyabr oylari.",
+   "page": 8,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Texnik topshiriqda ishlar muddati 2026-yil sentabr-noyabr deb ko'rsatilgan, lekin lot 2026-yil 16-noyabrda e'lon qilingan va takliflar 23-noyabrda yopiladi. Muddat o'tib ketgan yoki bir necha kun qolgan bo'lib, e'londagi 365 kunlik muddatga zid. Ishtirokchi qaysi muddatga rioya qilishini bilmaydi.",
+   "explanation_en": "The specification sets the works period as September to November 2026, yet the lot was published on 16 November 2026 and bids close on 23 November, while the lot header lists 365 days. Bidders cannot tell which period applies.",
+   "rewrite_uz": "Ishlarni bajarish muddati: shartnoma imzolangan kundan boshlab ... kalendar kun (yoki aniq sana).",
+   "rewrite_en": "Works period: ... calendar days from the contract signing date (or a specific date).",
+   "type_label_uz": "Bajarish qiyin bo'lgan muddat",
+   "type_label_en": "Deadline that is hard to meet",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 32,
+ "traffic_light": "red",
+ "finding_count": 3,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 66,
+  "history_penalty": 2.3,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "skip",
+  "reasons_uz": [
+   "Hujjatda raqobatni jiddiy cheklashi mumkin bo'lgan bir nechta shart bor; ularga aniqlik kiritilmaguncha qatnashish tavsiya etilmaydi.",
+   "Brend yoki model ko'rsatilgan, ekvivalentga ruxsat berilmagan (7-bet): Yetkazib beriladigan 7 ta uskuna aniq marka va buyurtma kodlari bilan ko'rsatilgan (Nivotester, Liquiphant, Levelflex, iTHERM), \"yoki ekvivalent\" deyilmagan. Bu faqat bitta ishlab chiqaruvchining tarmog'idagi yetkazib beruvchilarni qoldirishi mumkin; lot qiymati 1,4 mlrd so'm. Lot mavjud tizim komponentlarini almashtirishga oid bo'lgani uchun moslik sababi bo'lishi mumkin; shunga qaramay «yoki ekvivalenti» iborasi yo'q.",
+   "Lot hajmiga nomutanosib tajriba yoki resurs talabi (platformadagi mezonlar): Mezon 4 bo'yicha 9 ball neft-gaz, aviatsiya yoqilg'isi yoki kimyo obyektlaridagi shartnomalarga beriladi. Texnik qismning maksimal bali 37 (8+8+6+9+6), o'tish bali 30; bu mezonda 0 ball olgan ishtirokchi ko'pi bilan 28 ball to'plashi mumkin, ya'ni o'tish balidan past. Portlash xavfli muhitda tajriba ahamiyatli, lekin umumiy portlashdan himoyalangan avtomatlashtirish tajribasi ham qabul qilinishi mumkin.",
+   "Bajarish qiyin bo'lgan muddat (8-bet): Texnik topshiriqda ishlar muddati 2026-yil sentabr-noyabr deb ko'rsatilgan, lekin lot 2026-yil 16-noyabrda e'lon qilingan va takliflar 23-noyabrda yopiladi. Muddat o'tib ketgan yoki bir necha kun qolgan bo'lib, e'londagi 365 kunlik muddatga zid. Ishtirokchi qaysi muddatga rioya qilishini bilmaydi.",
+   "Buyurtmachining so'nggi 28 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 29% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 7%.",
+   "Tushuntirish so'rash muddati: 23.11.2026 17:47.",
+   "Diqqat: hujjatning 2 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "The document holds several conditions that may seriously limit competition; bidding is not advised until they are clarified.",
+   "Brand or model named with no equivalent allowed (page 7): Seven supplied instruments are specified by exact brand lines and order codes with no 'or equivalent' wording. This may leave only suppliers within one manufacturer's channel; the lot is worth 1.4 billion UZS. The lot replaces components of an existing system, so a compatibility reason is conceivable; still, no 'or equivalent' wording is given.",
+   "Experience or resource demand out of proportion to the lot (platform criteria form): Criterion 4 gives 9 points only for contracts at oil, aviation-fuel or chemical sites. Maximum technical score is 37 (8+8+6+9+6) with a pass mark of 30, so a bidder scoring 0 here can reach at most 28, below the pass mark. Hazardous-area experience matters, but explosion-protected automation work at other site types could also be accepted.",
+   "Deadline that is hard to meet (page 8): The specification sets the works period as September to November 2026, yet the lot was published on 16 November 2026 and bids close on 23 November, while the lot header lists 365 days. Bidders cannot tell which period applies.",
+   "In the customer's last 28 deals the median number of bidders was 3; 29% of deals had two or fewer bidders; the most frequent winner took 7%.",
+   "Clarification requests are accepted until 23.11.2026 17:47.",
+   "Note: 2 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "Ishtirokchining texnik taklifi va uskunalarning texnik parametrlari",
+  "Muhandis-texnik xodimlar ro'yxati, diplomlar va elektr xavfsizligi (IV guruh) hamda Ex-uskunalar sertifikatlari nusxalari",
+  "SCADA tizimi arxitekturasi, signal oqimlari va sinov-sozlash (BAT/SAT) rejasi",
+  "Neft-gaz yoki aviatsiya yoqilg'isi obyektlaridagi shartnomalar, hisob-fakturalar va qabul qilish dalolatnomalari",
+  "Ishlarni ishlab turgan obyektda xavfsiz bajarish loyihasi (PPR) va reja-grafik",
+  "O'qitish rejasi va boshqaruv yo'riqnomalari",
+  "Davlat ro'yxatidan o'tganlik to'g'risidagi hujjat",
+  "Soliq bo'yicha qarzdorlik yo'qligi to'g'risidagi ma'lumotnoma",
+  "Bankrotlik tartib-taomillari yo'qligini tasdiqlovchi hujjat",
+  "Insofsiz ijrochilar reyestrida yo'qligini tasdiqlovchi ma'lumot",
+  "Majburiy ijro byurosi bazalarida bajarilmagan majburiyatlar yo'qligi to'g'risida ma'lumot",
+  "Uskunalar uchun sertifikatlar va texnik pasportlar"
+ ],
+ "clarification_letter_uz": "Kimga: ISLOM KARIMOV NOMIDAGI TOSHKENT XALQARO AEROPOTI MChJ, xarid komissiyasiga\nLot raqami: 26120012522162\nXarid predmeti: № 12, № 14 va № 15 bazaviy rezervuarlarning avtomatlashtirish tizimi komponentlarini almashtirish hamda zarur nazorat-o‘lchov uskunalarini yetkazib berish bo‘yicha ta’mirlash ishlari.\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 7-bet.\n   Hujjatdagi matn: «Liquiphant FTL51B tebranishli maksimal sath datchigi (FTL51B-BKA8ABBAA2CJI1VCJ+JALALD) — 3 komplekt.»\n   Savolimiz: Yetkazib beriladigan 7 ta uskuna aniq marka va buyurtma kodlari bilan ko'rsatilgan (Nivotester, Liquiphant, Levelflex, iTHERM), \"yoki ekvivalent\" deyilmagan. Bu faqat bitta ishlab chiqaruvchining tarmog'idagi yetkazib beruvchilarni qoldirishi mumkin; lot qiymati 1,4 mlrd so'm. Lot mavjud tizim komponentlarini almashtirishga oid bo'lgani uchun moslik sababi bo'lishi mumkin; shunga qaramay «yoki ekvivalenti» iborasi yo'q.\n   Taklif etilayotgan tahrir: Liquiphant FTL51B yoki unga ekvivalent tebranishli maksimal sath datchigi (texnik parametrlari: ... , portlashdan himoya sinfi: ... ) — 3 komplekt. Ekvivalentning mosligi texnik parametrlar jadvali bilan tasdiqlanadi.\n\n2. Elektron tizimdagi baholash mezonlari.\n   Hujjatdagi matn: «Neft-gaz yoki aviatsiya YoQMS (TZK) sohasidagi ixtisoslashgan tajriba: So‘nggi yillar davomida portlash xavfi yuqori bo‘lgan neft bazalari, aviatsiya yoqilg‘isini saqlash rezervuarlari yoki kimyo sanoati obyektlarida»\n   Savolimiz: Mezon 4 bo'yicha 9 ball neft-gaz, aviatsiya yoqilg'isi yoki kimyo obyektlaridagi shartnomalarga beriladi. Texnik qismning maksimal bali 37 (8+8+6+9+6), o'tish bali 30; bu mezonda 0 ball olgan ishtirokchi ko'pi bilan 28 ball to'plashi mumkin, ya'ni o'tish balidan past. Portlash xavfli muhitda tajriba ahamiyatli, lekin umumiy portlashdan himoyalangan avtomatlashtirish tajribasi ham qabul qilinishi mumkin.\n   Taklif etilayotgan tahrir: So'nggi 5 yil ichida portlash xavfi bo'lgan obyektlarda (neft-gaz, energetika, kimyo, aviatsiya yoqilg'isi va boshqalar) avtomatlashtirish tizimlarini joriy etish bo'yicha tugallangan shartnomalar soni bo'yicha baholanadi.\n\n3. Texnik topshiriq, 8-bet.\n   Hujjatdagi matn: «Ishlarni bajarish muddati: 2026-yil sentabr–noyabr oylari.»\n   Savolimiz: Texnik topshiriqda ishlar muddati 2026-yil sentabr-noyabr deb ko'rsatilgan, lekin lot 2026-yil 16-noyabrda e'lon qilingan va takliflar 23-noyabrda yopiladi. Muddat o'tib ketgan yoki bir necha kun qolgan bo'lib, e'londagi 365 kunlik muddatga zid. Ishtirokchi qaysi muddatga rioya qilishini bilmaydi.\n   Taklif etilayotgan tahrir: Ishlarni bajarish muddati: shartnoma imzolangan kundan boshlab ... kalendar kun (yoki aniq sana).\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (23.11.2026 17:47) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 28,
+  "median_bidders": 3.0,
+  "share_le2_bidders": 0.2857,
+  "top_winner_share": 0.0714,
+  "share_price_drop_lt1pct": 0.1071,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 197400000.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:02+05:00",
+ "model": "claude-sonnet-5-5; second pass claude-fable-5-2",
+ "lint_backend": "in-session"
+}

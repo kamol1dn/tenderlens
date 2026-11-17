@@ -1,0 +1,919 @@
+{
+ "bidder_curve": [
+  {
+   "bidders": "1",
+   "n": 550,
+   "median_drop": 0.0256
+  },
+  {
+   "bidders": "2",
+   "n": 10497,
+   "median_drop": 0.024
+  },
+  {
+   "bidders": "3",
+   "n": 4667,
+   "median_drop": 0.075
+  },
+  {
+   "bidders": "4",
+   "n": 2110,
+   "median_drop": 0.1604
+  },
+  {
+   "bidders": "5",
+   "n": 1013,
+   "median_drop": 0.216
+  },
+  {
+   "bidders": "6+",
+   "n": 1143,
+   "median_drop": 0.296
+  }
+ ],
+ "deals_analysed": 19980,
+ "deals_period": "2025-08-21..2026-11-17",
+ "open_lots": 662,
+ "open_value_uzs": 1441609049019.75,
+ "analysed_lots": 156,
+ "flagged_lots": 113,
+ "money_on_table_total_uzs": 72853257603.08,
+ "money_on_table_note": "estimate; total over analysed lots only",
+ "median_bidders": 2.0,
+ "share_exactly_2_bidders": 0.5254,
+ "share_price_drop_lt1pct": 0.2516,
+ "customers": 2210,
+ "template_findings": [
+  {
+   "key": "veterinary_control",
+   "title_uz": "«Davlat veterinariya xizmati nazorati ostidagi mahsulotlar» mezoni",
+   "title_en": "Criterion on products under state veterinary control",
+   "label": "Товарнинг техник тартибга солиш соҳасидаги норматив ҳужжатларга мувофиқлиги бўйича талаблар. Мувофиқлиги баҳоланиши лозим бўлган давлат ветеринария хизмати назорати остидаги маҳсулотлар. Мажбурий тартибда мувофиқлиги баҳоланиши лозим бўлган маҳсулотлар.Мажбурий экологик сертификатланиши лозим бўлган маҳсулотлар. Санитария-эпидемиологик хулосага мос келадиган маҳсулотлар.",
+   "lots": 53,
+   "lot_ids": [
+    523814,
+    523823,
+    523971,
+    524039,
+    524251,
+    524281,
+    524285,
+    524297,
+    524311,
+    524314,
+    524329,
+    524425,
+    524438,
+    524530,
+    524561,
+    524562,
+    524636,
+    524784,
+    524785,
+    524880,
+    524904,
+    525045,
+    525064,
+    525066,
+    525077,
+    525079,
+    525081,
+    525082,
+    525083,
+    525085,
+    525086,
+    525087,
+    525088,
+    525089,
+    525090,
+    525092,
+    525093,
+    525136,
+    525137,
+    525138,
+    525139,
+    525140,
+    525144,
+    525145,
+    525146,
+    525186,
+    525240,
+    525241,
+    525243,
+    525248,
+    525268,
+    525269,
+    525543
+   ],
+   "likely_not_applicable": 48,
+   "likely_not_applicable_lot_ids": [
+    523971,
+    524039,
+    524251,
+    524281,
+    524285,
+    524297,
+    524311,
+    524314,
+    524329,
+    524425,
+    524438,
+    524530,
+    524561,
+    524562,
+    524784,
+    524785,
+    524904,
+    525064,
+    525066,
+    525077,
+    525079,
+    525081,
+    525082,
+    525083,
+    525085,
+    525086,
+    525087,
+    525088,
+    525089,
+    525090,
+    525092,
+    525093,
+    525136,
+    525137,
+    525138,
+    525139,
+    525140,
+    525144,
+    525145,
+    525146,
+    525186,
+    525240,
+    525241,
+    525243,
+    525248,
+    525268,
+    525269,
+    525543
+   ],
+   "likely_not_applicable_value_uzs": 8330869863.32,
+   "median_points_under_label": 10.0,
+   "categories": [
+    {
+     "category": "Бошқа гуруҳларга киритилмаган машина ва ускуналар",
+     "lots": 14
+    },
+    {
+     "category": "Компьютер, электрон ва оптик ускуналар",
+     "lots": 12
+    },
+    {
+     "category": "Бошқа нометалл минерал маҳсулотлар",
+     "lots": 6
+    },
+    {
+     "category": "Озиқ-овқат маҳсулотлари",
+     "lots": 3
+    },
+    {
+     "category": "Кимёвий воситалар ва кимёвий маҳсулотлар",
+     "lots": 3
+    },
+    {
+     "category": "Электр ускуналари",
+     "lots": 3
+    },
+    {
+     "category": "Тўқимачилик ва тўқимачилик маҳсулотлари",
+     "lots": 2
+    },
+    {
+     "category": "Бошқа тайёр буюмлар",
+     "lots": 2
+    }
+   ],
+   "examples": [
+    {
+     "lot_id": 524281,
+     "title": "Xorazm viloyatidagi maktabgacha ta’lim tashkilotlari uchun to‘shaklar va choyshablarni xarid qilish",
+     "max_score": 68.0
+    },
+    {
+     "lot_id": 524297,
+     "title": "Xorazm viloyatidagi umumta’lim maktabi hamda maktabgacha ta’lim tashkilotlari uchun maishiy va boshqa texnik vositalarni",
+     "max_score": 68.0
+    },
+    {
+     "lot_id": 524311,
+     "title": "Qamashi tumanidagi 4-sonli maktabni metallga va yogʻochga ishlov berish oʻquv ustaxonasi uchun jihozlarni xarid qilish",
+     "max_score": 68.0
+    },
+    {
+     "lot_id": 524314,
+     "title": "Qamashi tumanidagi 4-sonli maktabni gazlamaga ishlov berish (tikuvchilik) xonasi uchun jihozlarni xarid qilish",
+     "max_score": 68.0
+    },
+    {
+     "lot_id": 524329,
+     "title": "L-16 Choyshab. Buxoro, Navoiy, Namangan, Samarqand, Toshkent, Xorazm viloyatlari va Toshkent shahridagi maktabgacha ta’l",
+     "max_score": 68.0
+    },
+    {
+     "lot_id": 524438,
+     "title": "“O‘zbektelekom” AK uchun ma’lumotlarni saqlash va qayta ishlash markazini yaratish” obyekti hududida fotoelektr stansiya",
+     "max_score": 30.0
+    }
+   ],
+   "named_in_customer_note": 16,
+   "rule": "taken as not applicable when the lot's title and product category contain no food, feed or animal-product word",
+   "caveat_uz": "Bu mezon matni to'rt turdagi mahsulotni birlashtiradi (veterinariya nazorati, majburiy muvofiqlik baholash, ekologik sertifikatlash, sanitariya xulosasi). Shuning uchun dastgoh yoki sement kabi tovarlarda u muvofiqlik sertifikati uchun qo'llanayotgan bo'lishi mumkin. Ishtirokchi ball yo'qotadimi, komissiya mezonni qanday qo'llashiga bog'liq.",
+   "caveat_en": "The label bundles four kinds of products (veterinary control, mandatory conformity assessment, eco-certification, sanitary conclusion). For goods such as machine tools or cement it may be used for the conformity certificate. Whether a bidder loses points depends on how the commission applies it.",
+   "note_uz": "Mezon nechta lotda uchrashi aniq hisoblangan. «Mos kelmasligi mumkin» soni lot nomi va toifasidagi kalit so'zlar bo'yicha taxminiy hisob, inson tekshiruvi talab etiladi.",
+   "points_note_en": "Points are those scored under this label. Customers often reuse a template label and score something else in their own note, so read the note before quoting points.",
+   "note_en": "The lot count is exact. The 'likely not applicable' count is a keyword estimate on lot titles and categories and needs a human check."
+  },
+  {
+   "key": "staff_training",
+   "title_uz": "«Buyurtmachi xodimlarini ijrochi tomonidan texnik o'qitish» mezoni",
+   "title_en": "Criterion on technical training of the customer's staff by the contractor",
+   "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+   "lots": 184,
+   "lot_ids": [
+    522019,
+    522979,
+    523134,
+    523431,
+    523748,
+    523791,
+    523864,
+    523908,
+    523935,
+    524082,
+    524093,
+    524098,
+    524116,
+    524120,
+    524146,
+    524152,
+    524163,
+    524177,
+    524185,
+    524207,
+    524217,
+    524269,
+    524278,
+    524315,
+    524333,
+    524334,
+    524335,
+    524342,
+    524344,
+    524346,
+    524347,
+    524348,
+    524349,
+    524350,
+    524351,
+    524353,
+    524354,
+    524355,
+    524356,
+    524359,
+    524360,
+    524364,
+    524365,
+    524370,
+    524373,
+    524377,
+    524387,
+    524388,
+    524390,
+    524391,
+    524392,
+    524394,
+    524407,
+    524408,
+    524412,
+    524422,
+    524423,
+    524431,
+    524432,
+    524439,
+    524440,
+    524452,
+    524503,
+    524524,
+    524531,
+    524532,
+    524533,
+    524535,
+    524538,
+    524540,
+    524541,
+    524550,
+    524551,
+    524552,
+    524571,
+    524572,
+    524573,
+    524574,
+    524576,
+    524577,
+    524580,
+    524582,
+    524583,
+    524587,
+    524588,
+    524592,
+    524593,
+    524595,
+    524596,
+    524601,
+    524605,
+    524607,
+    524610,
+    524622,
+    524625,
+    524630,
+    524651,
+    524655,
+    524656,
+    524657,
+    524660,
+    524664,
+    524665,
+    524667,
+    524690,
+    524703,
+    524712,
+    524715,
+    524720,
+    524723,
+    524735,
+    524739,
+    524741,
+    524742,
+    524743,
+    524744,
+    524745,
+    524746,
+    524747,
+    524748,
+    524749,
+    524755,
+    524756,
+    524757,
+    524758,
+    524759,
+    524760,
+    524761,
+    524762,
+    524763,
+    524765,
+    524771,
+    524782,
+    524786,
+    524789,
+    524790,
+    524798,
+    524803,
+    524808,
+    524815,
+    524822,
+    524824,
+    524827,
+    524828,
+    524839,
+    524845,
+    524853,
+    524863,
+    524865,
+    524868,
+    524871,
+    524888,
+    524896,
+    524901,
+    524907,
+    524908,
+    524911,
+    524917,
+    524926,
+    524946,
+    524948,
+    524964,
+    524966,
+    524969,
+    524973,
+    524978,
+    524979,
+    524980,
+    524983,
+    524985,
+    524986,
+    524988,
+    524997,
+    525012,
+    525029,
+    525135,
+    525203,
+    525205,
+    525206,
+    525207,
+    525210,
+    525258,
+    525304,
+    525904
+   ],
+   "likely_not_applicable": 35,
+   "likely_not_applicable_lot_ids": [
+    523748,
+    523864,
+    524093,
+    524098,
+    524116,
+    524120,
+    524146,
+    524152,
+    524163,
+    524177,
+    524185,
+    524207,
+    524269,
+    524412,
+    524422,
+    524423,
+    524431,
+    524432,
+    524524,
+    524531,
+    524572,
+    524582,
+    524588,
+    524592,
+    524664,
+    524839,
+    524853,
+    524871,
+    524926,
+    524969,
+    524997,
+    525029,
+    525135,
+    525258,
+    525904
+   ],
+   "likely_not_applicable_value_uzs": 8272102748.65,
+   "median_points_under_label": 30.0,
+   "categories": [
+    {
+     "category": "Меъморчилик ва муҳандислик-техник лойиҳалаштириш, техник синов, тадқиқот ва таҳлил соҳасидаги хизматлар",
+     "lots": 113
+    },
+    {
+     "category": "Умумий овқатланиш хизматлари",
+     "lots": 17
+    },
+    {
+     "category": "Бошқа касбий, илмий ва техник хизматлар",
+     "lots": 15
+    },
+    {
+     "category": "Махсус қурилиш ишлари",
+     "lots": 7
+    },
+    {
+     "category": "Машина ва ускуналарни таъмирлаш ва ўрнатиш бўйича хизматлар",
+     "lots": 5
+    },
+    {
+     "category": "Кўчмас мулк операцияларига доир хизматлар",
+     "lots": 5
+    },
+    {
+     "category": "Қуруқлик ва қувурли транспорт хизматлари",
+     "lots": 4
+    },
+    {
+     "category": "Босма хизматлар, овозли ва видео ёзувларни, шунингдек дастурий таъминотни нусхалаш хизматлари",
+     "lots": 3
+    }
+   ],
+   "examples": [
+    {
+     "lot_id": 524969,
+     "title": "Чортоқ туман Боғистон МФЙда жойлашган 28-ДМТТга ошхона ҳамда овқатланиш зали қуриш атрофни қўрғон ўраш. Топосёмка ишлари",
+     "max_score": 55.0
+    },
+    {
+     "lot_id": 524422,
+     "title": "Andijon şahar, Namuna MFY, Abdurauf Fitrat köçasi 230-uyda joylaşgan “Kinematografiya agentligi Andijon viloyati hududiy",
+     "max_score": 35.0
+    },
+    {
+     "lot_id": 524431,
+     "title": "Andijon şahar, Nayman köçasi 30-manzilda joylaşgan “Işlab çiqariş”(00133 litr) binosini baholaş xizmati.",
+     "max_score": 35.0
+    },
+    {
+     "lot_id": 524432,
+     "title": "Andijon şahar, Nayman köçasi 30-manzilda joylaşgan “Işlab çiqariş”(00133 litr) binosini baholaş hisobotini tahlili ekspe",
+     "max_score": 35.0
+    },
+    {
+     "lot_id": 523864,
+     "title": "На основе обработанных данных обработка радиолокационных космических снимков среднего разрешения C-диапазона",
+     "max_score": 30.0
+    },
+    {
+     "lot_id": 524588,
+     "title": "укутувчи мураббийлар тадбирини утказиш учун ташки кисмда комплекс тадбир 600 кишилик",
+     "max_score": 20.0
+    }
+   ],
+   "named_in_customer_note": 0,
+   "rule": "taken as not applicable when the lot is catering, cleaning, transport, guarding, insurance, valuation, rent or waste removal",
+   "caveat_uz": "Kalit so'zlar bo'yicha qo'pol saralash: ro'yxatga faqat mezon aniq mos kelmaydigan xizmat turlari kiritilgan, boshqa lotlarda ham mos kelmasligi mumkin.",
+   "caveat_en": "A rough keyword screen: only service types where the criterion plainly does not fit are counted; it may not fit other lots either.",
+   "note_uz": "Mezon nechta lotda uchrashi aniq hisoblangan. «Mos kelmasligi mumkin» soni lot nomi va toifasidagi kalit so'zlar bo'yicha taxminiy hisob, inson tekshiruvi talab etiladi.",
+   "points_note_en": "Points are those scored under this label. Customers often reuse a template label and score something else in their own note, so read the note before quoting points.",
+   "note_en": "The lot count is exact. The 'likely not applicable' count is a keyword estimate on lot titles and categories and needs a human check."
+  },
+  {
+   "key": "intellectual_property",
+   "title_uz": "«Intellektual mulk obyektlariga mutlaq huquqlarni topshirish» mezoni",
+   "title_en": "Criterion on transferring exclusive intellectual-property rights to the customer",
+   "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+   "lots": 163,
+   "lot_ids": [
+    521995,
+    522656,
+    522969,
+    523431,
+    523542,
+    523549,
+    523745,
+    523791,
+    523864,
+    523935,
+    524093,
+    524098,
+    524116,
+    524120,
+    524152,
+    524163,
+    524177,
+    524182,
+    524185,
+    524207,
+    524213,
+    524215,
+    524217,
+    524268,
+    524269,
+    524276,
+    524282,
+    524313,
+    524333,
+    524334,
+    524335,
+    524342,
+    524344,
+    524346,
+    524347,
+    524348,
+    524349,
+    524350,
+    524351,
+    524353,
+    524354,
+    524355,
+    524356,
+    524359,
+    524360,
+    524364,
+    524365,
+    524370,
+    524373,
+    524377,
+    524387,
+    524388,
+    524390,
+    524391,
+    524392,
+    524394,
+    524407,
+    524408,
+    524412,
+    524423,
+    524450,
+    524452,
+    524454,
+    524466,
+    524503,
+    524532,
+    524533,
+    524535,
+    524538,
+    524540,
+    524541,
+    524550,
+    524551,
+    524552,
+    524571,
+    524573,
+    524576,
+    524577,
+    524580,
+    524583,
+    524593,
+    524596,
+    524601,
+    524605,
+    524607,
+    524610,
+    524622,
+    524625,
+    524651,
+    524655,
+    524656,
+    524657,
+    524660,
+    524665,
+    524667,
+    524703,
+    524712,
+    524715,
+    524720,
+    524723,
+    524738,
+    524739,
+    524741,
+    524743,
+    524744,
+    524745,
+    524746,
+    524747,
+    524748,
+    524749,
+    524755,
+    524756,
+    524757,
+    524758,
+    524759,
+    524760,
+    524761,
+    524762,
+    524763,
+    524765,
+    524782,
+    524786,
+    524790,
+    524798,
+    524803,
+    524807,
+    524815,
+    524824,
+    524839,
+    524846,
+    524853,
+    524871,
+    524896,
+    524902,
+    524917,
+    524919,
+    524926,
+    524946,
+    524948,
+    524950,
+    524964,
+    524966,
+    524969,
+    524973,
+    524978,
+    524983,
+    524985,
+    524986,
+    524988,
+    524997,
+    525012,
+    525129,
+    525135,
+    525159,
+    525162,
+    525184,
+    525207,
+    525210,
+    525211,
+    525304,
+    525363,
+    525689,
+    525904
+   ],
+   "likely_not_applicable": 28,
+   "likely_not_applicable_lot_ids": [
+    521995,
+    522656,
+    523864,
+    524093,
+    524098,
+    524116,
+    524120,
+    524152,
+    524163,
+    524177,
+    524185,
+    524207,
+    524269,
+    524412,
+    524423,
+    524454,
+    524839,
+    524853,
+    524871,
+    524902,
+    524926,
+    524950,
+    524969,
+    524997,
+    525135,
+    525363,
+    525689,
+    525904
+   ],
+   "likely_not_applicable_value_uzs": 8527115980.25,
+   "median_points_under_label": 30.0,
+   "categories": [
+    {
+     "category": "Меъморчилик ва муҳандислик-техник лойиҳалаштириш, техник синов, тадқиқот ва таҳлил соҳасидаги хизматлар",
+     "lots": 109
+    },
+    {
+     "category": "Умумий овқатланиш хизматлари",
+     "lots": 12
+    },
+    {
+     "category": "Махсус қурилиш ишлари",
+     "lots": 9
+    },
+    {
+     "category": "Спорт билан боғлиқ бўлган хизматлар, кўнгил очар ва дам олиш бўйича хизматлар",
+     "lots": 4
+    },
+    {
+     "category": "Машина ва ускуналарни таъмирлаш ва ўрнатиш бўйича хизматлар",
+     "lots": 4
+    },
+    {
+     "category": "Қуруқлик ва қувурли транспорт хизматлари",
+     "lots": 4
+    },
+    {
+     "category": "Бош офислар хизмати; корхоналарни бошқариш соҳасидаги маслаҳат хизматлари",
+     "lots": 2
+    },
+    {
+     "category": "Реклама хизматлари ва бозор конъюктурасини тадқиқ қилиш бўйича хизматлар",
+     "lots": 2
+    }
+   ],
+   "examples": [
+    {
+     "lot_id": 524871,
+     "title": "Bino va inshootlarni baholash xizmati",
+     "max_score": 80.0
+    },
+    {
+     "lot_id": 524902,
+     "title": "КР Жумасой кареридан Элликкала туманида жойлашган 68 шпор дамбасига тош ташиш ишлари (2)",
+     "max_score": 45.0
+    },
+    {
+     "lot_id": 525904,
+     "title": "“Taxiatosh IES” AJning 2500 metrli eski o’zan kirish kanalining qirg’oq bo’yida mexanik tozalash va rekonstruksiya ishla",
+     "max_score": 35.0
+    },
+    {
+     "lot_id": 524969,
+     "title": "Чортоқ туман Боғистон МФЙда жойлашган 28-ДМТТга ошхона ҳамда овқатланиш зали қуриш атрофни қўрғон ўраш. Топосёмка ишлари",
+     "max_score": 30.0
+    },
+    {
+     "lot_id": 524098,
+     "title": "Техника хизмати",
+     "max_score": 20.0
+    },
+    {
+     "lot_id": 524412,
+     "title": "Sho'rchi tumani Bobur mfy A.Temur ko'chasi 91 uy",
+     "max_score": 15.0
+    }
+   ],
+   "named_in_customer_note": 0,
+   "rule": "taken as not applicable when the lot is catering, cleaning, transport, guarding, insurance, valuation, rent or waste removal",
+   "caveat_uz": "Kalit so'zlar bo'yicha qo'pol saralash: ro'yxatga faqat mezon aniq mos kelmaydigan xizmat turlari kiritilgan, boshqa lotlarda ham mos kelmasligi mumkin.",
+   "caveat_en": "A rough keyword screen: only service types where the criterion plainly does not fit are counted; it may not fit other lots either.",
+   "note_uz": "Mezon nechta lotda uchrashi aniq hisoblangan. «Mos kelmasligi mumkin» soni lot nomi va toifasidagi kalit so'zlar bo'yicha taxminiy hisob, inson tekshiruvi talab etiladi.",
+   "points_note_en": "Points are those scored under this label. Customers often reuse a template label and score something else in their own note, so read the note before quoting points.",
+   "note_en": "The lot count is exact. The 'likely not applicable' count is a keyword estimate on lot titles and categories and needs a human check."
+  }
+ ],
+ "template_labels": [
+  {
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+   "lots": 382
+  },
+  {
+   "label": "Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар",
+   "lots": 184
+  },
+  {
+   "label": "Товарнинг зарур техник тавсифига қўйиладиган талаблар. Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги. Иштирокчилар хар бир талаб бўйича асословчи ҳужжатларни илова қилади.",
+   "lots": 179
+  },
+  {
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий малакали ёки шартнома асосида ёлланадиган мутахассислар мавжудлигига қўйиладиган талаблар",
+   "lots": 173
+  },
+  {
+   "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+   "lots": 163
+  },
+  {
+   "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+   "lots": 129
+  },
+  {
+   "label": "Ишлар ва хизматлар натижаларининг сифатига кафолат муддатини кўрсатиш тўғрисидаги талабла",
+   "lots": 113
+  },
+  {
+   "label": "Ишлар ва хизматлар кўрсатилиши лозим бўлган давр (даврлар) ёки ишлар якунланиши ва хизматлар кўрсатилиши шарт бўлган аниқ санани ёхуд ишларни бажариш ва хизматларни кўрсатишнинг давлат буюртмачиси учун мақбул энг қисқа муддати ёки шартнома тузилгандан (аванс тўланган, бошқа ҳолат) кейинги ижрочи ишга киришиши ва хизматлар кўрсатишни бошлаши лозим бўлган муддатни кўрсатган ҳолда ишларни бажариш ва хизматларни кўрсатиш муддатлари (даврлари)",
+   "lots": 109
+  },
+  {
+   "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+   "lots": 92
+  },
+  {
+   "label": "Товарни етказиб бериш даврийлигига ва уни миқдорига қўйиладиган талаблар",
+   "lots": 79
+  },
+  {
+   "label": "Товар билан бирга бериладиган ҳужжатларга талаблар: Товарнинг белгиланган сифат талабларига жавоб беришини тасдиқловчи сертификатлар; Товар хавфли моддаларни ўзида сақласа, хавфсизлик маълумотларини ўз ичига олган ҳужжат; Агар товар патентланган бўлса, унинг патентини ва ҳуқуқларини тасдиқловчи ҳужжат; Йўриқномалар ва кўрсатмалар ва бошқалар.",
+   "lots": 71
+  },
+  {
+   "label": "Товарнинг техник тартибга солиш соҳасидаги норматив ҳужжатларга мувофиқлиги бўйича талаблар. Мувофиқлиги баҳоланиши лозим бўлган давлат ветеринария хизмати назорати остидаги маҳсулотлар. Мажбурий тартибда мувофиқлиги баҳоланиши лозим бўлган маҳсулотлар.Мажбурий экологик сертификатланиши лозим бўлган маҳсулотлар. Санитария-эпидемиологик хулосага мос келадиган маҳсулотлар.",
+   "lots": 53
+  },
+  {
+   "label": "Ишларни бажариш ва хизматларни кўрсатиш хавфсизлигига, уларнинг натижаларига қўйиладиган талаблар. Агар ижрочидан шартномани бажариш жараёнида учинчи шахслар олдида жавобгарликни суғурталаш талаб этилса ёки кўрсатиладиган хизматлар инсонлар соғлиғи ва ҳаётига хавф туғдириши эҳтимоли мавжуд бўлса, хизматлар кўрсатишнинг хавфсизлигини таъминлаш бўйича қўшимча талаблар",
+   "lots": 50
+  },
+  {
+   "label": "Кафолатдан кейинги хизмат кўрсатиш бўйича талаблар (муддати, жойи)",
+   "lots": 48
+  },
+  {
+   "label": "Кафолат бўйича талаблар (муддати, жойи)",
+   "lots": 46
+  },
+  {
+   "label": "Товарнинг яроқлилик ва сақлаш муддатига қўйиладиган талаблар",
+   "lots": 45
+  },
+  {
+   "label": "Товарнинг сифат кафолатларига қўйиладиган талаблар",
+   "lots": 42
+  },
+  {
+   "label": "Ишлар ва хизматларда суғурталашга қўйиладиган талаблар",
+   "lots": 39
+  },
+  {
+   "label": "Товарга хизмат кўрсатиш ва уни эксплуатация қилишга қўйиладиган талаблар",
+   "lots": 38
+  },
+  {
+   "label": "Товарнинг эксплуатация қилиш учун материаллари, қўшимча эҳтиёт қисмлари ва харажатларига қўйиладиган талаблар",
+   "lots": 37
+  },
+  {
+   "label": "Товарни етказиб бериш муддати бўйича талаблар (норезидент ва резидентлар учун алоҳида манзиллар белгиланиши мумкин)",
+   "lots": 35
+  },
+  {
+   "label": "Товарнинг ишлаб чиқарилган йилига қўйиладиган талаблар",
+   "lots": 33
+  },
+  {
+   "label": "Товарнинг маркировкасига, уни қадоқлаш, юклаш ва ташишга қўйиладиган талаблар",
+   "lots": 26
+  },
+  {
+   "label": "Товарларни шеф-монтаж, монтаж (ўрнатиш) ва созлаш ишларини амалга ошириш (агар ушбу ишлар етказиб берувчи томонидан бажарилса) бўйича талаблар",
+   "lots": 26
+  }
+ ],
+ "generated_at": "2026-11-18T00:20:10+05:00"
+}

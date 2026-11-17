@@ -1,0 +1,281 @@
+{
+ "lot_id": 524846,
+ "display_no": "26120012524846",
+ "title": "Toshkent shahrida avtobus bekatlarida reklama joylashtirish xizmatlarini xarid qilish",
+ "url": "https://etender.uzex.uz/lot/524846",
+ "customer": {
+  "name": "XALQ BANK",
+  "tin": "207215726"
+ },
+ "region": "Toshkent shahri",
+ "start_cost": 951968000.0,
+ "currency": "UZS",
+ "start_date": "2026-11-17T14:16:25",
+ "end_date": "2026-11-24T14:16:25",
+ "clarific_date": "2026-11-24T14:16:25",
+ "type": "selection",
+ "old_id": null,
+ "evaluation": {
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "min_point": 6,
+  "criteria": [
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишларни бажариш ёки хизматларни кўрсатиш учун тегишли зарурий жиҳозлар, асбоблар ва технологик воситаларга қўйиладиган талаблар. Масалан, қурилиш ишларини бажариш учун иштирокчилар тегишли машина ва механизмларга эга бўлиши ҳамда IT хизматларини кўрсатиш учун замонавий дастурий таъминот ва сервер ускуналарини мавжудлиги.",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   },
+   {
+    "label": "Ишлар ва хизматларнинг сифати кафолатлари ҳажми (ижрочининг кафолат муддати давридаги давлат буюртмачиси учун талаб этиладиган энг мақбул ёки аниқ белгиланган мажбуриятлари) бўйича талаблар",
+    "max_score": 1.0,
+    "rate": "Экспертная"
+   }
+  ]
+ },
+ "spec": {
+  "file": "data/specs/524846.rar",
+  "pages": 15,
+  "text_source": "text",
+  "language": "uz-latn",
+  "unreadable_pages": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "subject_uz": "Toshkent shahridagi avtobus bekatlarida reklama joylashtirish xizmatlari (12 oy)",
+ "sector": "other",
+ "customer_sector": "other",
+ "customer_kind": "corporate",
+ "financing_source": "Moliyalashtirish manbai Xalq bankining o‘z mablag‘lari.",
+ "requirements": [
+  {
+   "id": "r1",
+   "kind": "qualification",
+   "summary_uz": "Oxirgi 36 oy ichida kamida 1 ta o'xshash reklama joylashtirish xizmati ko'rsatilgan bo'lishi va shartnoma hamda elektron hisob-fakturalar taqdim etilishi kerak.",
+   "summary_en": "At least 1 similar advertising-placement service in the last 36 months, proven with contract copies and electronic invoices.",
+   "quote": "Ishtirokchi oxirgi 36 oy davomida kamida 1 ta shunga o‘xshash reklama joylashtirish xizmatlarini ko‘rsatgan bo‘lishi zarur.",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r2",
+   "kind": "qualification",
+   "summary_uz": "Ishtirokchi avtobus bekatlarida reklama joylashtirish imkonini beruvchi huquqiy kelishuvga ega bo'lishi va hujjat taqdim etishi shart.",
+   "summary_en": "The bidder must hold a legal agreement that allows advertising at the bus stops and attach the document.",
+   "quote": "Ishtirokchi loyiha doirasida taqdim etilgan avtobus bekatlarida reklama joylashtirish imkonini beruvchi huquqiy kelishuvga ega bo‘lishi kerak.",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r3",
+   "kind": "technical",
+   "summary_uz": "Reklama konstruksiyalarining 24/7 ishlashi, texnik sozligi va tozaligini ta'minlash majburiyati bo'yicha kafolat xati.",
+   "summary_en": "Guarantee letter committing to 24/7 operation, technical condition and cleanliness of the advertising structures.",
+   "quote": "Ishtirokchi reklama konstruksiyalarining 24/7 ishlashi, texnik sozligi va tozaligini ta’minlash majburiyatini olishi bo‘yicha kafolat xati taqdim etishi kerak.",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r4",
+   "kind": "qualification",
+   "summary_uz": "1-son shaklga muvofiq kafolat xati (to'lovga layoqatsizlik, sud, offshor va boshqalar bo'yicha) kerak.",
+   "summary_en": "A guarantee letter on Form 1 (no insolvency, litigation, offshore registration and similar) is required.",
+   "quote": "Ishtirokchi 1-son shaklga muvofiq kafolat xati taqdim etishi kerak.",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r5",
+   "kind": "technical",
+   "summary_uz": "3-son shaklga muvofiq texnik taklif taqdim etilishi kerak.",
+   "summary_en": "A technical offer on Form 3 must be submitted.",
+   "quote": "Ishtirokchining 3-son shaklga muvofiq texnik taklifini taqdim etishi kerak.",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r6",
+   "kind": "evaluation",
+   "summary_uz": "Texnik qism 0%, narx 100%: texnik baholashdan o'tgan (6 ballning hammasi) va eng past narx bergan ishtirokchi g'olib bo'ladi.",
+   "summary_en": "Technical share 0%, price 100%: the bidder that passes the technical check (all 6 points) and offers the lowest price wins.",
+   "quote": "Texnik baholashdan o‘tgan va eng past narxni taqdim etgan ishtirokchi g‘olib hisoblanadi.",
+   "page": 15,
+   "source": "spec"
+  },
+  {
+   "id": "r7",
+   "kind": "payment",
+   "summary_uz": "15% avans, qolgan 85% oylik abonent to'lovi asosida har oyda to'lanadi.",
+   "summary_en": "15 percent advance; the remaining 85 percent is paid monthly as a subscription fee.",
+   "quote": "Oldindan to‘lov (avans) 15%. Qolgan 85% to‘lov oylik obonent to‘lovi asosida har oyda",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r8",
+   "kind": "delivery",
+   "summary_uz": "Xizmat reklama mahsulotlari o'rnatilgandan keyin 12 oy davomida ko'rsatiladi.",
+   "summary_en": "The service runs for 12 months from the date the advertising products are installed.",
+   "quote": "Reklama mahsulotlarini o‘rnatgandan (topshirish qabul qilish dalolatnomasiga asosan) kundan boshlab 12 oy davomida.",
+   "page": 7,
+   "source": "spec"
+  },
+  {
+   "id": "r9",
+   "kind": "qualification",
+   "summary_uz": "E'lon sanasida davlat ro'yxatidan o'tganiga olti oy to'lmagan tashkilotlar qatnasha olmaydi.",
+   "summary_en": "Organisations registered less than six months before the announcement date cannot take part.",
+   "quote": "tanlash o‘tkazish to‘g‘risidagi e’lon berilgan sanada davlat ro‘yxatidan o‘tganiga olti oy to‘lmagan;",
+   "page": 9,
+   "source": "spec"
+  },
+  {
+   "id": "r10",
+   "kind": "other",
+   "summary_uz": "Taklif ta'minoti boshlang'ich narxning 2 foizi (taxminan 19 039 360 so'm).",
+   "summary_en": "Bid security is 2 percent of the start price (about 19,039,360 UZS).",
+   "quote": "Tanlash taklifi ta’minoti hajmi tanlash boshlang‘ich qiymatining 2 foizini tashkil qiladi.",
+   "page": 11,
+   "source": "spec"
+  },
+  {
+   "id": "r11",
+   "kind": "other",
+   "summary_uz": "G'olib shartnoma summasining 2 foizi miqdorida bajarish kafolatini (zakalat yoki bank kafolati) taqdim etadi.",
+   "summary_en": "The winner provides a performance guarantee of 2 percent of the contract amount (deposit or bank guarantee).",
+   "quote": "Tanlash g‘olibi tuzilayotgan shartnomaning umumiy summasining 2 foizi miqdorida shartnoma majburiyatlarini bajarish kafolatini (zakalat yoki bank kafolati shaklida) taqdim etadi.",
+   "page": 14,
+   "source": "spec"
+  }
+ ],
+ "flags": [
+  {
+   "id": "f1",
+   "type": "other",
+   "severity": "medium",
+   "quote": "Ishtirokchi loyiha doirasida taqdim etilgan avtobus bekatlarida reklama joylashtirish imkonini beruvchi huquqiy kelishuvga ega bo‘lishi kerak.",
+   "page": 15,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Taklif topshirishdan oldin Toshkent avtobus bekatlarida reklama joylashtirish huquqini beruvchi tayyor huquqiy kelishuv talab qilinmoqda; hujjatda bu qaysi bekatlar ekani, kim bilan tuzilgan kelishuv ekani va ushbu xaridning o'zi bekatlarni taqdim etadimi-yo'qmi, aytilmagan. Bu mezon 1 ball, o'tish bali 6 (barcha mezonlar), narx esa 100% bo'lgani uchun, bekatlarga huquqi yo'q ta'minotchi taklifdan chetlashtiriladi. Lot narxi 951 968 000 so'm.",
+   "explanation_en": "A ready legal agreement allowing advertising at Tashkent bus stops is required before bidding, and the document does not say which stops, with whom the agreement must be, or whether this purchase itself provides the stops. The criterion is worth 1 point with a pass mark of 6 (all criteria) and price weighs 100%, so a supplier without rights to the stops is removed from the bid. The lot start price is 951,968,000 UZS.",
+   "rewrite_uz": "Ishtirokchi shartnoma bo'yicha xizmat ko'rsatish boshlanishiga qadar avtobus bekatlarida reklama joylashtirish huquqini (shartnoma, ijara yoki boshqa huquqiy asos) ta'minlash majburiyatini oladi; buyurtmachi bekatlar ro'yxati va huquq egasini xarid hujjatlarida ko'rsatadi.",
+   "rewrite_en": "The bidder undertakes to secure the right to place advertising at the bus stops (by contract, lease or another legal basis) before the service starts; the customer lists the stops and the rights holder in the procurement documents.",
+   "type_label_uz": "Raqobatni cheklashi mumkin bo'lgan boshqa shart",
+   "type_label_en": "Other clause that may limit competition",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  },
+  {
+   "id": "f2",
+   "type": "short_window",
+   "severity": "low",
+   "quote": "Tanlash takliflarini taqdim etish muddati | 5 ish kuni",
+   "page": 7,
+   "quote_verified": true,
+   "source": "spec",
+   "explanation_uz": "Takliflarni tayyorlash va topshirish uchun 5 ish kuni berilgan (platformada 17 va 24-noyabr), 1-3-son shakllar, 36 oylik tajriba hujjatlari va bekatlarga huquqiy kelishuv hujjatini yig'ish uchun bu qisqa bo'lishi mumkin. Lot narxi 951 968 000 so'm.",
+   "explanation_en": "Only 5 working days are given to prepare and submit bids (17 to 24 November on the platform), which may be short for assembling Forms 1-3, 36-month experience documents and proof of an agreement over the bus stops. The lot start price is 951,968,000 UZS.",
+   "rewrite_uz": "Tanlash takliflarini taqdim etish muddati e'lon qilingan kundan boshlab kamida 10 ish kunini tashkil qiladi.",
+   "rewrite_en": "The deadline for submitting bids is at least 10 working days from the date of the announcement.",
+   "type_label_uz": "Taklif tayyorlash uchun qisqa muddat",
+   "type_label_en": "Short time to prepare a bid",
+   "category_uz": "Muayyan ishtirokchilar uchun ustunlik yaratish (Raqobat qo'mitasi tasnifi, 2025)",
+   "category_en": "Creation of advantages for specific bidders (Competition Committee category, 2025)"
+  }
+ ],
+ "dropped_unverified": 0,
+ "fairness_score": 68,
+ "traffic_light": "amber",
+ "finding_count": 2,
+ "score_breakdown": {
+  "start": 100,
+  "clause_penalty": 28,
+  "history_penalty": 3.5,
+  "weights": {
+   "high": 40,
+   "medium": 22,
+   "low": 6
+  },
+  "thresholds": {
+   "green": 80,
+   "amber": 50
+  }
+ },
+ "verdict": {
+  "decision": "bid_with_clarification",
+  "reasons_uz": [
+   "Qatnashish mumkin, lekin avval quyidagi shartlar bo'yicha buyurtmachidan tushuntirish so'rang.",
+   "Raqobatni cheklashi mumkin bo'lgan boshqa shart (15-bet): Taklif topshirishdan oldin Toshkent avtobus bekatlarida reklama joylashtirish huquqini beruvchi tayyor huquqiy kelishuv talab qilinmoqda; hujjatda bu qaysi bekatlar ekani, kim bilan tuzilgan kelishuv ekani va ushbu xaridning o'zi bekatlarni taqdim etadimi-yo'qmi, aytilmagan. Bu mezon 1 ball, o'tish bali 6 (barcha mezonlar), narx esa 100% bo'lgani uchun, bekatlarga huquqi yo'q ta'minotchi taklifdan chetlashtiriladi. Lot narxi 951 968 000 so'm.",
+   "Taklif tayyorlash uchun qisqa muddat (7-bet): Takliflarni tayyorlash va topshirish uchun 5 ish kuni berilgan (platformada 17 va 24-noyabr), 1-3-son shakllar, 36 oylik tajriba hujjatlari va bekatlarga huquqiy kelishuv hujjatini yig'ish uchun bu qisqa bo'lishi mumkin. Lot narxi 951 968 000 so'm.",
+   "Buyurtmachining so'nggi 103 ta savdosida ishtirokchilar medianasi 3 ta; savdolarning 48% qismida ikki yoki undan kam ishtirokchi; eng ko'p g'olib bo'lgan yetkazib beruvchi ulushi 7%.",
+   "Tushuntirish so'rash muddati: 24.11.2026 14:16.",
+   "Diqqat: hujjatning 5 ta sahifasi mashina o'qiy olmaydigan skan, ular tahlil qilinmadi."
+  ],
+  "reasons_en": [
+   "Worth bidding, but first ask the customer to clarify the conditions below.",
+   "Other clause that may limit competition (page 15): A ready legal agreement allowing advertising at Tashkent bus stops is required before bidding, and the document does not say which stops, with whom the agreement must be, or whether this purchase itself provides the stops. The criterion is worth 1 point with a pass mark of 6 (all criteria) and price weighs 100%, so a supplier without rights to the stops is removed from the bid. The lot start price is 951,968,000 UZS.",
+   "Short time to prepare a bid (page 7): Only 5 working days are given to prepare and submit bids (17 to 24 November on the platform), which may be short for assembling Forms 1-3, 36-month experience documents and proof of an agreement over the bus stops. The lot start price is 951,968,000 UZS.",
+   "In the customer's last 103 deals the median number of bidders was 3; 48% of deals had two or fewer bidders; the most frequent winner took 7%.",
+   "Clarification requests are accepted until 24.11.2026 14:16.",
+   "Note: 5 page(s) of the document are scans without readable text and were not analysed."
+  ]
+ },
+ "documents_needed_uz": [
+  "1-son shakl: ishtirokchi blankasida kafolat xati",
+  "2-son shakl: ishtirokchi to'g'risida umumiy ma'lumot va o'xshash xizmat tajribasi",
+  "3-son shakl: texnik taklif",
+  "Oxirgi 36 oy ichida o'xshash reklama xizmati ko'rsatilganini tasdiqlovchi shartnoma nusxalari va elektron QR kodli hisob-fakturalar",
+  "Avtobus bekatlarida reklama joylashtirish imkonini beruvchi huquqiy kelishuv hujjati",
+  "Reklama konstruksiyalarining 24/7 ishlashi, texnik sozligi va tozaligi bo'yicha kafolat xati",
+  "Ilovaga muvofiq ariza (Malaka 7 talabi)",
+  "Taklif ta'minoti (boshlang'ich narxning 2 foizi)",
+  "1-son shakl",
+  "2-son shakl",
+  "3-son shakl",
+  "shartnoma nusxasi",
+  "tegishli hujjat",
+  "kafolat xati"
+ ],
+ "clarification_letter_uz": "Kimga: XALQ BANK, xarid komissiyasiga\nLot raqami: 26120012524846\nXarid predmeti: Toshkent shahrida avtobus bekatlarida reklama joylashtirish xizmatlarini xarid qilish\nMavzu: xarid hujjatlari bo'yicha tushuntirish berish to'g'risida so'rov\n\nHurmatli xarid komissiyasi a'zolari!\n\nTashkilotimiz mazkur lot bo'yicha xarid hujjatlari bilan tanishib chiqdi va taklif berish niyatida. Hujjatlardagi quyidagi shartlar bo'yicha tushuntirish berishingizni, zarur deb topilgan taqdirda esa ularga tegishli o'zgartirish kiritishingizni so'raymiz.\n\n1. Texnik topshiriq, 15-bet.\n   Hujjatdagi matn: «Ishtirokchi loyiha doirasida taqdim etilgan avtobus bekatlarida reklama joylashtirish imkonini beruvchi huquqiy kelishuvga ega bo‘lishi kerak.»\n   Savolimiz: Taklif topshirishdan oldin Toshkent avtobus bekatlarida reklama joylashtirish huquqini beruvchi tayyor huquqiy kelishuv talab qilinmoqda; hujjatda bu qaysi bekatlar ekani, kim bilan tuzilgan kelishuv ekani va ushbu xaridning o'zi bekatlarni taqdim etadimi-yo'qmi, aytilmagan. Bu mezon 1 ball, o'tish bali 6 (barcha mezonlar), narx esa 100% bo'lgani uchun, bekatlarga huquqi yo'q ta'minotchi taklifdan chetlashtiriladi. Lot narxi 951 968 000 so'm.\n   Taklif etilayotgan tahrir: Ishtirokchi shartnoma bo'yicha xizmat ko'rsatish boshlanishiga qadar avtobus bekatlarida reklama joylashtirish huquqini (shartnoma, ijara yoki boshqa huquqiy asos) ta'minlash majburiyatini oladi; buyurtmachi bekatlar ro'yxati va huquq egasini xarid hujjatlarida ko'rsatadi.\n\n2. Texnik topshiriq, 7-bet.\n   Hujjatdagi matn: «Tanlash takliflarini taqdim etish muddati | 5 ish kuni»\n   Savolimiz: Takliflarni tayyorlash va topshirish uchun 5 ish kuni berilgan (platformada 17 va 24-noyabr), 1-3-son shakllar, 36 oylik tajriba hujjatlari va bekatlarga huquqiy kelishuv hujjatini yig'ish uchun bu qisqa bo'lishi mumkin. Lot narxi 951 968 000 so'm.\n   Taklif etilayotgan tahrir: Tanlash takliflarini taqdim etish muddati e'lon qilingan kundan boshlab kamida 10 ish kunini tashkil qiladi.\n\nMazkur shartlarga aniqlik kiritilishi xarid predmetini yetkazib bera oladigan barcha ishtirokchilarning teng sharoitda qatnashishiga va raqobatning kengayishiga xizmat qiladi, deb hisoblaymiz.\n\nJavobingizni tushuntirishlar berish muddati tugagunga qadar (24.11.2026 14:16) elektron tizim orqali taqdim etishingizni so'raymiz.\n\nHurmat bilan,\n[Tashkilot nomi, STIR]\n[Rahbarning F.I.Sh. va imzosi]\n[Aloqa uchun telefon va elektron pochta]\n[Sana]",
+ "customer_stats": {
+  "deals": 103,
+  "median_bidders": 3,
+  "share_le2_bidders": 0.4757,
+  "top_winner_share": 0.068,
+  "share_price_drop_lt1pct": 0.1553,
+  "reannounced_lots": 1
+ },
+ "money_on_table_uzs": 134227488.0,
+ "money_on_table_basis": "customer_history",
+ "context": {
+  "reannounced": false,
+  "window_days": 7.0
+ },
+ "analyzed_at": "2026-11-18T00:20:04+05:00",
+ "model": "claude-sonnet-5-5",
+ "lint_backend": "in-session"
+}
