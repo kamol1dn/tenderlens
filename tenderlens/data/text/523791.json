@@ -1,0 +1,74 @@
+{
+ "lot_id": 523791,
+ "file": "data/specs/523791.pdf",
+ "n_pages": 7,
+ "text_source": "ocr",
+ "language": "mixed",
+ "status": "needs_ocr",
+ "pages": [
+  {
+   "page": 1,
+   "text": "",
+   "source": "none",
+   "quality": 0.0,
+   "scanned": true,
+   "raw_chars": 13
+  },
+  {
+   "page": 2,
+   "text": "",
+   "source": "none",
+   "quality": 0.0,
+   "scanned": true,
+   "raw_chars": 13
+  },
+  {
+   "page": 3,
+   "text": "ILOVA\nRezervuarlar va belgilangan\nquvurlarni kalibrlashdan\no'tkazish tehnik topshiriqga.\n2026 yil uchun ish ob’yomi.\n",
+   "source": "ocr",
+   "quality": 1.0,
+   "scanned": true,
+   "raw_chars": 116
+  },
+  {
+   "page": 4,
+   "text": "",
+   "source": "none",
+   "quality": 0.0,
+   "scanned": true,
+   "raw_chars": 13
+  },
+  {
+   "page": 5,
+   "text": "",
+   "source": "none",
+   "quality": 0.0,
+   "scanned": true,
+   "raw_chars": 13
+  },
+  {
+   "page": 6,
+   "text": "Приложение\nк техническому заданию\nна проведение калибровки \nрезервуаров и трубопроводов.\nОбъём работ на 2026 год.\nПеречень объема резервуаров и трубопроводов подлежащих метрологической калибровки\n",
+   "source": "ocr",
+   "quality": 1.0,
+   "scanned": true,
+   "raw_chars": 195
+  },
+  {
+   "page": 7,
+   "text": "",
+   "source": "none",
+   "quality": 0.0,
+   "scanned": true,
+   "raw_chars": 13
+  }
+ ],
+ "chars": 313,
+ "unreadable_pages": [
+  1,
+  2,
+  4,
+  5,
+  7
+ ]
+}

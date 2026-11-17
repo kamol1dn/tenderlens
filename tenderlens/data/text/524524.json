@@ -1,0 +1,431 @@
+{
+ "lot_id": 524524,
+ "file": "data/specs/524524.pdf",
+ "n_pages": 52,
+ "text_source": "ocr",
+ "language": "uz-latn",
+ "status": "ok",
+ "pages": [
+  {
+   "page": 1,
+   "text": "'','...'.,.''\n',ь, l:. , _, .i\nЭНГ ЯХШИ ТАКЛИФНИ TAI]\nАЙмАноо\nдиректори\nЭ.Бегимцулов\n2026 iцпл\nш хАриди ).чун\nТЕХНИК ТОПШИРИК\n{айдовчи мобил иловаси, мавжуд GPS тизимларини GIS харитага\nинтеграция цилиш\nцамда санитар тозалаш ишларини цазорат цилишнинг ягона ахборот\nтизимини\nишлаб чикиш ва жориЙ этиш\n1. хАрид прЕдмЕти вА умумиЙ мАъл)rмотлАр\n1.1. Харид предмети: ((Тоза цудуд) !М фаолиятида санитар тозаJIаш, каттищ\nмаиший чикиндиларни йигиш ва ташиш жараёнларини ращамлаштириш учун\nцайдовчи мобил иловаси, мавжуд GPS мониторинг тизимларини GIS харитага\nинтеграция килиш хамда диспетчерлик-бошцарув веб-платформасини ишлаб\nчикиш, жорий этиш ва ишга тушириш\n1.2. Буюртмачи: <Тоза худур ДМ.\n1.3. Иш натижаси: буюртмачининг махсус автотранспорт воситалари,\nцайдовчилар, маршрутлар, чищинди йигиш нущталари ва санитар тозалаш\nишларини ягона ахборот тизими орц₠lли бошщариш имконини берувчи тайёр\nдастурий мацсулот.\n1.4. NIавжуд цолат: буюртмачининг махсус автотранспорт воситаларида GPS\nтрекерлар }рнатилган ва улардан фойдаланилмокда. Шу сабабли м₠Lзкур харид\nдоирасида янги GPS трекерлар харид килиш ёки }рнатиш н₠варда тутилмайди.\nИжрочи мавжуд GPS цурилмапари ва ёки уларга хизмат к}рсатувчи платформа\nмаълумотларини }рганиши, техник имкониятларини аницIаши цамда янги\nтизимга интеграция килиши шарт.\n1.5. Ижрочи таклиф беришдан олдин мавжуд GPS провайдери, курилмаJIар\nпротоколи, API имкониятлари, м₠lълумот узатиш тартиби ва интеграция\nшартларини буюртмачи билан келишиб олиши лозим. Интеграция учун зарур\nб}лган кириш маълумотлари буюртмачи томонидан ваколатли тартибда тащдим\nэтилади.\n",
+   "source": "ocr",
+   "quality": 0.917,
+   "scanned": true,
+   "raw_chars": 1588
+  },
+  {
+   "page": 2,
+   "text": "2. ЛОЙИNАНИНГ МАЦСАДИ ВА ВАЗИФАЛАРИ\nо Махсус автотранспорт воситаларининг жойлашуви ва царакатини мавжуд\nGPS цурилмалари орк₠tли ягона харитада кузатиш.\nо {айдовчиларнинг кунлик иш режаси, маршрутлари ва топширикларини\nмобил илова оркали бошцариш.\nо Санитар тозалаш ишларининг амалда бажарилганини Gps маълумотлари,\nвацт белгиси ва фотоцисоботлар асосида назорат цилиш.\nо Хизмат к}рсатиладиган цудущар, маршрутлар, контейнер майдонч₠Lпари ва\nчицинди йигиш нукталарини GIS харитага киритиш.\nо Маршрутдан четга чициш, белгиланган х,удудга бормаслик, асоссиз тiхташ ва\nиш режасининг бажарилмаслиги каби холатларни аниклаш.\nо Рацбарият вадиспетчерлар учун ишончли тацлилий маълумотлар ва\nавтоматик хисоботлар шакJrлантириш.\nо МаъЛумотларни марказлаштирилган холда сакJIаш, уларнинг яхJIитлиги ва\nахборот хавфсизлигини таъминлаш.\n3. тизимнинг тАркиБи\nтизим }заро интеграциялашган Куйидаги асосий кисмлардан ташкил топиши\nшарт:\nо {айдовчилар учун Android мобил илова.\nо Щиспетчерлар ва рацбарият учун веб-бошкарув платформаси.\nо МавжУд GPS курилмzLЛари ёки GPS провайдери платформаси билан\nинтеграция модули.\nо GIS электрон харита ва геомаълумотлар модули.\nо Маршрутлар, худудJIар, топшириклар ва санитар тозаJIаш ишларини\nбошцариш модули.\nо {исоботлар, тацлил вамониторингмодули.\nо Фойдаланувчилар, роллар ва аудит журн₠tлини бошцариш модули.\n4. МДВЖУД GPS ТИЗИМИ БИЛДН ИНТЕГРДЦИЯ ТДЛДБЛДРИ\n4.1. Ижрочи буюртмачида мавжуд Gps трекерлардан келаётган маълумотларни\nянги тизимда акс эттиришни т₠ьминлаши шарт. GPS маълумотларини цабул\nцилиш мавжуд курилм₠Lлар ёки GPS провайдерининг техник имкониятларига\nмувофиц дРI, веб-хизмат, маълумот ₠Llтмашиш протоколи ёки бошка келишилгаII\nусул оркали амапга оширилади.\n",
+   "source": "ocr",
+   "quality": 0.874,
+   "scanned": true,
+   "raw_chars": 1702
+  },
+  {
+   "page": 3,
+   "text": "о GPS цурилмаси/транспорт воситаси идентификатори, давлатраками ва\nбириктирилган техника маълумотларини боглаш.\nо Координат₠Llrар, харакат тезлиги, царакат й}налиши) сана ва вацт\nмаълумотл арини цабул килиш.\nо Транспорт воситасининг онлайн жойлашувини харитада к}рсатиш.\nо Тарихий маршрутлар ва харакат маълумотларини сацJIаш цамда санаlвацт\nб!йича к}риш.\nо Тухташлар, харакат бошланиши ва тугашини Gps маълумотлари асосида\nаниклаш.\nо GPS маълумотлари кечикиши ёки узилиши х,олатини диспетчерга к}рсатиш.\n. Бир нечта GPS проваiтдери ёки цурилма тури мавжуд б}лса, уларни ягона\nинтерфейсда бирлаштириш имконияти.\nо IVIаълумотларнинг такрорланиши ва нот}гри богланишининг олдини олиш.\n4.2. Онлайн янгиланиш даврийлиги мавжуд GPS провайдери ва\nкурилм₠tпарининг реал техник ийкониятига боглиц бУлади. Ижрочи таклифида\nмаълумот янгилаЕиш интерв₠Lпи, кечикиш эхтимоли ва техник чекJIовларни аник\nк}рсатиши шарт. Имкон мавжуд б}лганда харитадаги маълумотлар 10-60 сония\nоралигида янгиланиши мащсад килинади.\n4.3. GPS курилмалари алмаштирилмайди ва уларнинг ишлаш параметрлари\nбуюртмачининг ёзма розилигисиз }згартирилмайди. GP S провайдерига тегиrrlли\nлицензия, API ёки абонент т}ловлари мавжуд б}лса, уларнинг ким томонидан\nкоlrланиши таклифда алохида к}рсатилиши шарт.\n4.4.Ижрочи GPS маълумотларини интеграция килишдан олдин техник аудит\n}тказади ва аницJIанган чекловлар бiйича буюртмачига ёзма хулоса такдим\nэтади.\n5.ХАШОВЧИЛАР УЧУН МОБИЛ ИЛОВА ТАЛАБЛАРИ\nо Android операцион тизимида ишлайдиган мобил илова ишлаб чикиш.\nо {айдовчини шахсий логин/пароль ёки буюртмачи тасдиклаган хавфсиз\nавторизация усули оркали тизимга киритиш.\nо {айдовчига бириктирилган транспорт воситаси, давлат раками ва кунлик\nмаршрутни к}рсатиш.\n. Кунлик топширицI&р, хизмат к}рсатиладиган нукталар ва уларнинг\nнавбатини акс эттириш.\n",
+   "source": "ocr",
+   "quality": 0.899,
+   "scanned": true,
+   "raw_chars": 1804
+  },
+  {
+   "page": 4,
+   "text": "о Топширицни цабул цилиш, ишни бошлаш, нуктага етиб бориш ва ишни\nякунлаш цолатларини цайд этиш.\nо Иш жараёнида фотоцисобот юбориш; фото билан бирга сана, вакт ва мав}куд\nб}лса GPS координаталарини сащJIаш.\n. Муаммо, носозлик, кириш имкони й}цлиги ёки бошца фавкулодда цолатлар\nхацида диспетчерга хабар бериш.\nо !испетчердан топшириц ва хабарларни щабул цилиш.\nо Интернет вактинча мавжуд б}лмаганда маълумотларни щурилмада сащлаш ва\n₠Lлока тикJIангач серверга синхронлаш.\nо Илова интерфейсини }збек ва рус тилларида такдим этиш.\n5.1. {айдовчининг телефон GPS хизмати мобил илова функциялари учун\nк}лланилиши мумкин, бироц транспорт воситасининг асосий царакат\nмониторинги мавжуд GPS трекер маълумотларига таяниши керак.\n5 .2. \\айдовчи харакат вактида телефондан хавфсиз ф ойдаланишига хап ацит\nбермайдиган содда ва тушунарли интерфейс ишлаб чикилиши шарт.\nб. GIS ЭЛЕКТРОН ХАРИТА ТАЛАБЛАРИ\nо Хизмат к}рсатиладиган цудудларни электрон харитада полигон шаклида\nбелгилаш ва тацрирлаш.\nо Ижрочи томонидан маршрутларни чизиш, сацлаш, }згартириш ва транспорт\nвосит₠Lларига бириктириш.\nо Контейнер майдончаларини жойига бориб урганиб, чицинди йигиш\nнукталари, махсус объектлар ва назорат нукталарини харитага киритиш.\n. Хар бир нуцта учун номи, манзили, координатаси, тури, холати ва изоцини\nсакJIаш.\n. Транспорт восит₠Lларининг жорий ва тарихий царакатини харитада к}рсатиш.\nо Белгиланган маршрут ва амiшда босиб }тилган й}лни таккослаш.\nо Харитада объектлар ва транспорт воситЕLларини фильтрлаш, кидириш ва\nгуруцIаш\nо Харита цатламларини ₠tлоцида ёцишýчириш ва масштабни }згартириш.\n6.1. Харита маълумотларидан фойдаланиш шартлари, лицензияси, API\nлимитлари ва эцтимолий т}ловлари ижрочи таклифида очиц к}рсатилиши шарт.\nБуюртмачининг геомаълумотлари экспорт килинадиган ва бошка тизимга\nкiчириладиган форматда сацланиши лозим.\n4\n",
+   "source": "ocr",
+   "quality": 0.925,
+   "scanned": true,
+   "raw_chars": 1823
+  },
+  {
+   "page": 5,
+   "text": "о Кунлик, цафталик ва ойлик санитар тозzLпаш режаларини шакллантириш.\n. Худуд, маршрут, транспорт воситасива цайдовчи кесимида топширищлар\nбериш.\nо Топширикнинг реж₠Lлаштирилган вак,ти, нуктапари ва бажариш муддатини\nбелгилаш.\nо Хар бир нущтагаборилганликни GPS координаталари ваващт белгиси билан\nтекшириш.\nо Бажарилган, кисман бажарилган, бажарилмаган ва кечиктирилган\nтопшириryIар цолатини юритиш.\nо Маршрутдан четга чикиш ёки белгиланган нущтага бормаслик цолатларини\nаниклаш.\nо Фотохисоботларни топширик.ва объект билан боглаб сакJIаш.\nо !испетчер томонидан топттIирикка изох бериш ва щайта йiналтириш\nимконияти.\nо Топшириклар б!йича масъул ходим ва }згаришлар тарихини сацJIаш.\n7 .|. Тизим GPS маълумотлари мавжудлигига караб автоматик цайдrарни\nшакллантиради. GPS аниклиги, маълумот узилиши ёки нущта радиуси каби\nпараметрлар буюртмачи билан келишилган цолда созланиши керак. Тизим\nавтоматик хулос₠tларни диспетчер томонидан текшириш ва изоцлаш\nимкониятини цам бериши лозим.\n8. ВЕБ_ПЛАТФОРМА ВА ДИСПЕТЧЕРЛИК ИНТЕРФШЙСИ\nо Рацбарият учун умумий Dashboard: жами техника, онлайн техника,\nхаракатдаги, тiхтаган ва GPS алокаси й}ц техникапар.\nо Щиспетчер учун интерактив GIS харита ва транспорт восит₠Lлари р}йхати.\nо {айдовчилар, транспорт восит₠tлари, худудлор, маршрутлар ва объектлар\nмаълумотномаJIари.\nо Топширикларни яратиш, бириктириш, }згартириш ва бажарилишини\nкузатиш.\nо Фотохисоботлар ва мурожаатлар архиви.\nо Роллар бiйича кириш цуцуцларини бошкариш.\nо {аракатлар журн₠Lли: ким, качон ва кандай }згартиш киритганини щайд этиш.\n",
+   "source": "ocr",
+   "quality": 0.883,
+   "scanned": true,
+   "raw_chars": 1539
+  },
+  {
+   "page": 6,
+   "text": "о Веб-интерфейсни замонавий браузерлар оркали цушимча дастур }рнатмасдан\nишлатиш\n9. цисоБотлАр вА тАцлил\n. Транспорт воситаси кесимида кунлик/цафталик/ойлик харакат цисоботи.\nо Хар бир техника бiйичабосиб }тилган масофа, харакат вакти ва тiхташлар\nцисоботи\nr {айдовчи ва маршрут кесимида топширикJIар бажарилиши цисоботи.\nо Белгиланган маршрутнинг бажарилиш фоизи ва четга чикиш цолатлари\nхисоботи.\n. Нукталарга борилганлик ва санитар тозалаш ишлари натия(чLпари цисоботи.\nо Бажарилмаган ёки кечиктирилган топширикJIар р}йхати.\nо Фотоцисоботлар б}йичасана, худуд, хайдовчи ватранспорт воситаси\nкесимида кидирув.\nо Маълумотларни Ехсе1 ва PDF форматларига экспорт килиш.\n9.1. Екилги сарфи б}йича цисобот фаца, тегишли датчик ёки ишончли манба\nмаълумотлари мавжул б}лганда автоматик шакJIлантирилади. Акс цолда тизимда\nёкилги маълумотларини кУлда киритиш ва цисоботга киритиш имконияти\nназарда тутилади.\n10. ИНТЕГРАЦИЯ ВА ОЧИЩЛИК ТАЛАБЛАРИ\nо Тизимнинг ташци тизимлар билан маълумот ЕLпмашиши учун\nцужжатлаштирилган API ёки бошща стандарт интеграция интерфейси б}лиши.\nо Gps провайдери билан интеграцияда аутентификация, маълумот формати,\nянгиланиш даврийлиги ва хатоларни кайта ишлаш тартиби\nцужжатлаштирилиши.\nо Буюртмачи маълумотларини СSV, XLSX, JSON ёки бошца очик форматларла\nэкспорт килиш имконияти.\nо Транспорт восит₠Lлари, цайдовчилар, маршрутлар ва объектлар 6ýrйича\nмаълумотларни импорт цилиш имконияти.\nо КейинчЕlJIик бошка GPS провайдерлари ёки ахборот тизиNIларини улаш\nимконияти.\n11. АХБОРОТ ХАВФСИЗЛИГИ ВА МАЪЛУМОТЛАРНИ САЦЛАШ\nо Фойдаланувчиларни шахсий цисоб ёзуви оркали аутентификация цилиш.\n",
+   "source": "ocr",
+   "quality": 0.907,
+   "scanned": true,
+   "raw_chars": 1606
+  },
+  {
+   "page": 7,
+   "text": "о Рацбар, диспетчер, администратор ва хайдовчи учун ₠tлохида рол ва\nцущущларни белгилаш.\nо Маълумотларни узатишда химояланган ₠Lлоща lrротоколларидан фойдаланиш.\nо Кунлик захира нусх₠Lларини яратиш ва маълумотларни тикJIаш тартибини\nтаъминлаш.\nо Маълумотларга кириш ва }згартириш харакатларини журналлаш.\n. Паролларни цимояланган шакJIда сацлаш.\nо Буюртмачининг маълумотларини учинчи шахсларга рухсатсиз бериш ёки\nбошка максадда ишлатишга й}л кiймаслик.\nо IvIаълумотлар сакланадиган сервер, жойлашув, захирuLпаш даврийлиги ва\nтиклаш тартибини таклифда к}рсатиш.\n1 1. 1. Тизимда сацIIанадиган буюртмачи маълумотлари, маршрутлар,\nф отоци со ботлар, цисоботлар ва геомаълумотлар буюртмачининг мулки\nцисобланади. Ижрочи шартнома тугаганда уларни т}лиrq экспорт щилиш ва\nбуюртмачига топtтIириш имкониятини таъминлаши шарт.\n12. ТЕХНИК ВА ФУНКЦИОНАЛ ИШЛАШ ТАЛАБЛАРИ\n. Веб-платформа компьютер ва планшет браузерларида мослашувчан\nо Интерфейс }збек ва рус тилларини ц}ллаб-кувватлаши.\nо Тизим модулли архитектура асосида ишлаб чицилиши ва кенгайтириш\nимкониятига эга б}лиши.\nо Фойдаланувчилар сони ва транспорт воситалари сони ошганда тизимни\nмасштаблаштириш имконияти б! лиши.\nо GPS маълумотлари вактинча келмай цолганда охирги маълумот вакти ва\n₠Lлока цолати к}рсатилиши.\nо Интернет узилганда мобил илова маъJIумотларни махаллий саI(lIаши ва кейин\nсинхронлаши.\nо Тизимнинг ишлаш тезлиги ва бир вацтда цуллаб-кувватланадиган\nфойдаланувчилар сони ижрочи таклифида аник к}рсатилиши.\n13. ишлАрни БАжАриш БосциIIлАри\nБоскич\nБаясариладиган ишла\n7\n",
+   "source": "ocr",
+   "quality": 0.883,
+   "scanned": true,
+   "raw_chars": 1533
+  },
+  {
+   "page": 8,
+   "text": "1-боскич. Техник аудит\nМавжул GPS цурилмалари ва\nпровайдер платформасини }рганиш,\nАРI/протокол имкониятларини\nтекшириш, техника ва\nфойдаланувчилар р}йхатини\nкелишиш.\n2-босцич. Техник лойицалаш\nТизим архитектур ааи, маълумотлар\nбазаси, интерф ейслар, интеграция\nсхемаси ва иш режасини тайёрлаш.\n3-босцич. Щасryрий таъминотни\nишлаб чициш\nВеб-платформа, Android илова, GIS,\nмаршрутлар, топшириклар ва\nцисоботлар модулларини ишлаб\nчикиш.\n4-босцич. GPS интеграцияси\nМавжуд GPS маълумотларини улаш,\nтранспорт воситаJIари билан боглаш ва\nмаълумотларни текшириш.\n5-боскич. Синов ва пилот\nэксплуатация\nБуюртмачи белгилаган техника ва\nЦудудда функционал, интеграцион ва\nюклама синовларини Vтказиш.\nб-босцич. Жорий этиш ва }китиш\nТизимни ишга тушириш,\nф ойдаланувчиларни р}йхатдан\n}тказиш, ходимларни }китиш ва\nц}лл анмаларни топшириш.\n7-босцич. Щабул цилиш\nЩабул цилиш-синов д₠tлолатномаси\nасосида барча талаблар\nбажарилг анини тасди кл аш.\n14. ИЖРОЧИ ТОМОНИДАН ТОПШИРИЛАДИГАН НАТИЖАЛАР\nо Тулиц ишлайдиган веб-бошцарув платформаси.\nо Android мобил илова ва уни }рнатиш/тарщатиш файли.\nо Мавжуд GPS тизими билан ишлайдиган интеграция модули.\nо GIs харита, маршрутлар ва объектлар маълумотлари.\nо Созланган маълумотлар базаси ва захир₠rлаш механизми.\nо Щасryрий таъминотнинг техник цужжатларива архитектура тавсифи.\nо Фойдаланувчи ва администратор учун }збек тилида к}лланмалар.\nо API ва интегр ация хужжатлари.\nо Буюртмачи ходимлари учун Укитиш.\nо Манба кодIари, йигишliрнатиш й}рикномапари ва буюртмачига зарур\nфойдаланиш цуцуцIари.\n",
+   "source": "ocr",
+   "quality": 0.914,
+   "scanned": true,
+   "raw_chars": 1522
+  },
+  {
+   "page": 9,
+   "text": "о Тизимни щабул цилиш ва синов натиж₠шари бliаича даполатнома.\n14.1. !астурий кодлар, маълумотлар базаси схемаси, техник цужжатлар ва\nбуюртмачи маълумотларидан фойда-гrаниш цукуклари шартномада анищ\nбелгиланиши шарт. Ижрочи буюртмачининг тизимдан мустакил фойдаланишига\nасоссиз техник ёки лицензиявий т}сищ кiймаслиги лозим.\n15. синов вА щАБул цилиш мЕзонлАри\nТизим щуйидаги синовлардан муваффациятли }тгандан кейин щабул килинади:\nсинов йyналиши\nКабул цилиш шарти\nGPS интеграцияси\nБуюртмачи танлаган мавжуд GPS\nцурилмЕtлари маълумотлари тизимга\nкелиши ва транспорт воситасига т}гри\nбогланиши.\nХарита\nТранспорт воситztпарининг жорий\nжойлашуви ва тарихий царакати\nхаритада кvриниши.\nМаршрут\nрежалаllттирилган маршрут\nяратилиши, техникага бириктирилиши\nва ам₠Lлдаги х,аракат билан\nтащщосланиши.\nмобил илова\n{айдовчи кириши, топширикни кабул\nцилиши, холатни }згартириши ва\nфотоцисобот юбориши.\nОфлайн режим\nИнтернет узилганда маълумот\nсакланиши ва алоца тикJIангач\nсинхронланиши.\nНазорат\nТопшириц бажарилиши, кечикиш ва\nмаршрутдан четга чициш цолатлари\nкайд этилиши.\n{исобот\nСана, цайдовчи, транспорт ва маршрут\nкесимида Nисобот шаклланиши ва\nЕхсеlДDFга экспорт килиниши.\nХавфсизлик\nРоллар, кириш хукуцлари, аудит\nжурн₠lJIи ва захира нусх₠шаш ишлаши.\n{уясжатлар\nК,}лланмш₠}р, техник цужжатлар,\nинте|рация маълумотлари ва кодлар\nтопширилиши.\n9\n",
+   "source": "ocr",
+   "quality": 0.898,
+   "scanned": true,
+   "raw_chars": 1339
+  },
+  {
+   "page": 10,
+   "text": "16. кАФолАт вА тЕхник кУллАБ_цуввАтлАш\nо Тизим цабул цилинган санадан бошлаб камида б ой кафолат хак олмасдан\nхизмат к}рсатилиши.\n- \n. Кафолат даврида ижрочи айби билан юзага келган дастурий хатолар к}шимча\nцак олмасдан бартараф этилиши.\nо Техник мурожаатларни цабул цилиш канали ва иш вакти таклифда\nк}рсатилиши.\nо Критик носозликларга жавоб бериш ва бартараф этиш муддатлари\nшартномада белгиланиши.\nо Щасryрий таъминот яцгиланишлари ва хавфсизлик тузатишлари кафолат\nдаврида тащдим этилиши.\n17. ИЖРОЧИНИНГ ТАКЛИФИГА ЩУИИЛАДИГАН ТАЛАБЛАР\nИштирокчи }з таклифи таркибида цуйидаги маълумотларни такдим этиши\nлозим:\nо Таклиф этилаётган тизимнинг функционал тавсифи ва архитектураси.\nо Мавжуд GPS тизимини интеграция килиш усули, талаб этиладиган АРI/кириш\nмаълумотлари ва чекJIовлар\nо Ишларни бажариш капендар режаси ва цар бир боскич муддати.\nо Лойица жамоаси ва масъул мутахассислар цацида маълумот.\nо Тизимни жорий этиш, Уцитиш ва техник цуллаб-цувватлаш режаси.\nо Сервер, харита, лицензия ва учинчи томон хизматлари'б!йича барча к}шимча\nхаражатлар.\n. Кафолат ва кейинги техник хизмат шартлари.\nо Тизимнинг буюртмачига топшириладиган натижалари ва фойдаланиш\nцуцуцлари.\nо Таклиф нархига киритилган барча ишлар, хизматлар ва харажатларнинг\n₠Lпохида хисоб-китоби.\n17.1. Таклифда к}рсатилган х,ар бир функцион₠Lп талаб бажарилиш усули билан\nасосланиши лозим. кМавжуд>, кц}ллаб-цувв атлан ади)) каби умумий жаво блар\n}рнига функция щандай ишлаши ва кандай синовдан }тказилиши\nтушунтирилиши керак.\n1, 7 .2. Иштирокчиларни б ацол ашда х арид комис сияси тасдикJI аган б ацол аш\nмезонлари ва тартиби ц}лланилади. Ушбу техник топширищнинг }зида\n10\n",
+   "source": "ocr",
+   "quality": 0.967,
+   "scanned": true,
+   "raw_chars": 1639
+  },
+  {
+   "page": 11,
+   "text": "конунчиликда белгиланмаган к}шимча малака ёки тажриба чекловлари назарда\nтутилмайди.\n18. АлохидА шАртлАр\nо Янги GPS трекерлар, SIМ-картшrар ёки GPS цурилмаларини харид килиш\nмазкур харид предметига кирмайди, агар буюртмачи кейинчаJIик ₠шоцида ёзма\nравишда талаб килмаса.\n. Ижрочи мавжуд GPS тизимини ₠шмаштирмасдан интеграция килишга\nустуворли к бериши шарт.\nо GPS провайдери томонидан API ёки маълумот бериш имконияти чекланган\nб}лса, ижрочи буни таклиф беришдан олдин аницJIаштириши ва муцобил\nинтеграция, ечимини таклиф цилиши керак.\nо Мобил илова ва веб-платформадаги барча асосий функциялар буюртмачи\nбилан келишилган цабул килиш синовлари орщаJIи текцирилади.\nо Тизим буюртмачининг келгусида янги техника, худуд, маршрут ва\nфойдаланувчиларни мустацил ц}шишига имкон бериши керак.\n19. БУЮРТМАЧИ ВА ИЖРОЧИНИНГ МАСЪУЛИЯТЛАРИ\nБуюртмачи мавжуд GPS провайдери ва курилмалар Nакидаги мавжуд\nмаълумотларни, ваколат доирасида интеграция учун зарур р}хсат ва кириш\nмаълумотлаFlини, транспорт воситаIIари ва цайдовчилар рiйхатини такдим этади.\nИжрочи тащдим этилган м₠ьлумотлардан фацат шартнома мащсадларида\nфойдаланади, махфийлик ва ахборот хавфсизлиги талабларига риоя килади,\nтизимни техник топширикца мувофищ ишлаб чикади ва белгиланган тартибда\nтопширади.\nHaydovchi ilovasi, GPS xaritalash (GIS) ча sanitar tozalash ishlarini паzоrаt\nqilish tizimi\nLoyiha nomi\nTozalive Driver - \nhaydovchi\nmoduli\nilovasi va GIS xaritalash i\ni\n!\ni\n11\nTexnik topshiriq - \nshartnomaga\nй;\nre\nI Qiynrat\nHujjat turi\n",
+   "source": "ocr",
+   "quality": 0.904,
+   "scanned": true,
+   "raw_chars": 1493
+  },
+  {
+   "page": 12,
+   "text": "Tarkibi\nMobil ilova (Android + iOS), Mapping/GlS moduli,\nmavjud GPS trackerlar integratsiyasi, web admin ча\nhisobotlar, backend servislari, AI integratsiyasi\nMavj ud Tozalive platformasini kengaytiri sh\n[Buyurtmachi tashkilot nomi]\n[Ijrochi tashkilot / dasturchi \"o-i1\nv1.3\nAsos\nBuyurtmachi\nIjrochi\nVersiya\nSana\nHolat\nLoyiha qiymati, tо'lоч grafigi va tijorat shartlari utshbu hujjatda ko'rsatilmaydi, (tlar\nalohida kommersial taklif hujjatida vа shartпomada belgilaпadi. Техпik topshiriq\nfaqat texпik talablarпi qamrab oladi.\nv I .2 rla54i яl'иgilrf;Е;h l:lr\n05.11 .2026\nTasdiqlash uchun\nQamrov (coverage) faqat serverda, GPS nuqtalar asosida ',\nhisoblanadi; client foiz yubormaydi\nQamrov topshiriqqa (assignment) bog'landi - mashina \n.\nSegmentatsiya, qu-rou uu ou.rlu| u.h.rn aniq, sozlanadigan\nchegaralar\n4.6,7.4\n4.6,7.2\n4.6\n5\nStack mavjud tizimga moslashtirildi: TimescaleDB,\nmessage Ьrоkеr\nmavjud ' 2,7\nHaydovchi joylashuvi manbai aniqlandi (telefon GPS)\nI2\n5,3\nРаrаmеtr\ni Во'liш\nI\nl\n",
+   "source": "ocr",
+   "quality": 0.86,
+   "scanned": true,
+   "raw_chars": 988
+  },
+  {
+   "page": 13,
+   "text": "Jadvallar: idempotency ustunlari, haydovchi GPS treki,\n10\n11\npoligonlar, sozlamalar\nl Yetishmayotgan endpointlar qo'shildi (pause/resume, cancel,\nzonalpoligon CRUD)\nKo;.bu,tatus modeli: tasdiqlangu; k;';h\"ri t\"briП;;h,; -\nbekor qilish\niOS minimal versiyasi 15.1+; batareya o'lchash usuli; GPS\n] saqlash muddati\n: Xarita provayderi va ma'lumotlar joylashuvi (data residency)\nInfratuzilma javobgarligi, topshirish (handover) va SLA ish\nvaqti\n7.4\n4.5\n7.3, l0\n4.2\n15,16,18,19\nv 1.3 clagi cl'zgarishlar\n4\nBuyurtmachi tasdiqlagan TZ ( 1 -qism) talablari\nto'liq kiritildi\n2I,24\n] Mavjud GPS trackerlar (SmartGPS / Wialon) \n2|.t\n, integratsiyasi qo'shildi\n. Ikki GPS manbai aniqlandi: mashina monitoringi - \n5.3,2|.|\nKontayner maydonchalari, chiqindi yig'ish nuqtalari 2|.2\nva marshrutlar\n: Fotohisobot,haydovchi-dispetcherxabarlariva 21З,2I.4\nmurojaatlar\n6\n7\nKunlik/haftalik/oylik rej а va topshiriq statuslari\nMarshrutdan chiqish, asossiz to'xtash, dashboard\n2|.5\n2|.6,21.7\n13\nl\nl Bo'lim\nl\n# |Olzgari*h \n'Bo'linr\n",
+   "source": "ocr",
+   "quality": 0.944,
+   "scanned": true,
+   "raw_chars": 1006
+  },
+  {
+   "page": 14,
+   "text": "8\n9\n, \nHisobotlar, ЕхсеlДDF eksport, yoqilg'i hisobi\nImport/eksport, OpenAPI, kunlik zaxira nusxa ча\ntiklash\n10 . Bajarilgan ishlar, ijrochi ishlari rejasi va muvofiqlik 22,2З,24\njadvali\n11 ; Kafolat muddati ikkala qismda б оу qilib bir\nxillashtirildi\n1-qism 16, 18\n1. UMUMIY MAiLUMOTLAR\n1.1. Loyihir maqsadi\nMavjud Tozalive platformasiga haydovchilar uchun mobil ilova, ko'p foydalanuvchili\nGPS/GIS xaritalash, real vaqt monitoringi va mavjud AI yordamchi bilan integratsiyani\njoriy etish. Tizim mahalla xizmat yo'llarini GPS orqali raqamlashtiradi va tasdiqlangan\nуо'1 segmentlari asosida sanitar tozalash ishlarining bajarilishini nazorat qiladi.\n1.2. Loyilta doirasi\n. Tozalive Driver mobil ilovasi - \nМарреr va Haydovchi rejimlari\n. Mapping/GlS moduli - GPS orqali xizmat yo'llarini yig'ish, tekshirish va\ntasdiqlash\n. Haydovchi operatsiyalari - \ntopshiriq, ish sessiyasi, qапшоч, poligon, mashina\nalmashtirish ча yakunlash\n. Web admin - \nxaritalash nazorati, GIS ko'rib chiqish, topshiriq va jonli\nmonitoring\n. Backend - \nmavjud Tozalive microservice arxitekturasi bilan integratsiya\n. AI - \nrеа1 GPS, topshiriq ча hodisa ma'lumotlari asosida operatsion savollarga\njavob\n. GPS integratsiyasi - \nmashinalardagi mavjud trackerlar (SmartGPS / Wialon)\nma'lumotlarini tizimga ulash (21. 1 )\n21.8\ni1.цii, ;i.i0\n|4\nO'zgarish\n",
+   "source": "ocr",
+   "quality": 0.919,
+   "scanned": true,
+   "raw_chars": 1323
+  },
+  {
+   "page": 15,
+   "text": "l \"з.\nNazorat va hisobotlar - \nkontayner nuqtalari, marshrutlar, fotohisobot,\nmurojaatlar, dashboard, ЕхсеlДDF eksport (2 1 -bo'lim)\n.dtamalal,\nMapping session\nservice street\nRoad segment\nCoverage\n;;;й;;;i\nwork session\nPoligon\nGeofence\nIVIap-matching\nBuffer\nKo'chalarni GPS orqali chizib beruvchi foydalanuvchi\nBitta uzluksiz GPS yozib olish seansi\nxizmat ko'rsatilaJig\"; k;;;h\" С\"БЬi\"\"Ёuп оБу.Кt,\nbarqaror ID bilan)\nKo'chaning qаmrоч hisobi uсhuп bo'lingan qismi (4.6-\nbo'lim)\nQamrov - \no'tilgan segmentlar urunligi.ring umumiy\nuzunlikka nisbati (О/о), serverda hisoblanadi (4. 6-bo'1im)\nTopshiriq - \nhaydovchi, mashina, mahalla va sana\nbog'lanmasi; qamrov shu obyektga yoziladi\nTopshiriq doirasidagi ish seansi; mashina almashganda\nyangi seans ochiladi\nChiqindi to'kish -uyjo.,i (cbiqi\"Oi\";;\"r, ;.\"i;;;; -\nchegarasi bilan\nXaritadagi virtual chegara - \nunga kirisЫchiqish\naniqlanadi\nGPS nuqtalarni eng yaqin tasdiqlangan segmentga\nbog'lash\nsegment atrof,rdali -uroiu Koricori i-.irjo; ;;;;;;;\"\noverlap shu bilan aniqlanadi\nTakroriy so'rov ikki marta yozilmasligini ta'minlovchi\nkalit\nMIapper\nIdempotency key\n15\n",
+   "source": "ocr",
+   "quality": 0.926,
+   "scanned": true,
+   "raw_chars": 1111
+  },
+  {
+   "page": 16,
+   "text": "GIS Reviewer\n2. T|ZIW ARXITEKTURASI\n, Chizt1,gan yo'llarni tekshirib tasdiqlovchi mutaxassis\nTozalive Driver (mobil) : React Native / Ехро client; Mapper va Haydovchi\nmodullari\nl ДРI Gateway / Auth\n' \nManninB/GIS servisi\n: Driчеr Operations\nPostgreSQl + PostGIS\n, TimescaleDB\n, Message Ьrоkеr /\n:WebSocket\nMavjud autentifikatsiya, token va ruxsat nazorati (qayta\nishlatiladi)\nGPS sessiya, raw point, service street, segment va\nmoderatsiya'''''''''''''''''''''''''''''''''''''''''''\nTopshiriq, ish sessiyasi, mashina, poligon, qапточ hisobi\nча progress\nPolygon, LineString va spatial hisoblar (map-matching,\nbuffer, overlap)\nGPS nuqtalar uсhuп \".qt \nqatorli saqlash (hypertable,\ncompression, retention)\nDomain hodisalar - \nmavjud To\"utiue Ьrоkеr'i orqali;\njonli holat - WebSocket\ni Й;Ь A;;i; \nGIý kb'rib chiqish, monitoring va boshqaruv\nО' \nOpeTatsion ча GIS malumotlarini о qish (tool use)\nMessage broker turi (maujud tizimda ishlatilayotgaп Кфkа yoki RabbitMo уапgi\nqo'shilmaydi - audit пatijasida maujudi qayta ishlatiladi. Hujjatdagi hodisa поmlаri\nbroker turiga bog'liq emas.\n16\nI Atanla \n'I'avsif\n! q\"tlo*\n",
+   "source": "ocr",
+   "quality": 0.883,
+   "scanned": true,
+   "raw_chars": 1110
+  },
+  {
+   "page": 17,
+   "text": "3. ROLLAR чА RUхSATLAR\nSUPER_ADMIN\nВаrсhа modullar ча sozlamalar\nMAPPING_MANAGER Mapper biriktirish, zonalarni boshqarish, progress\nnazorati\nGIS_REVIEWER\nDTSPATCHER\nMAPPER\nDRIvER\nl Ko'rib chiqish, tasdiqlasЫrad etish, split va merge \nI\nl Topshiriq yaratish, mashina almashtirish, jonli\n,,\n; monitoring\nl Biriktirilgan hududlarda GPS orqali yo'l chizish va\n, topshirish\nTasdiqlangan yo' llar bo'yioha topshiriqlarni baj arish\nBitta foydalanuvchi Mapper ча Haydovchi ruxsatlariga bir vaqtda ega bo'lishi mumkin\n- \nMapping roli Haydovchi roliga qattiq bog'lanmaydi. Agar mavjud tizimda dispetcher\nroli boshqa nomda bo'lsa, o'sha rо1 qayta ishlatiladi.\nBackend ruxsatlari:\n. mapping.view / mapping.record / mapping.submit\n. mapping.review / mapping.approve / mapping.reject\n. mapping.zones.manage / landfills.manage\n\" driver. assignments.view / driver. assignments. execute\n- di spatch. assignments.manage / di spatch. vehicles. replace\n4. XARITALASH (MAPPING / GIS) MODULI\n,1.1. Gеоgrаfilс model\nViloyat ---+ Тumап + Mahalla +\nsegment. Tizim bitta mahallaga\nbazasidan olinadi.\nMapping zonasi/sektori ---+\nhardcode qilinmaydi -\nService street --+ Road\niyerarxiya ma'lumotlar\nI7\n",
+   "source": "ocr",
+   "quality": 0.953,
+   "scanned": true,
+   "raw_chars": 1173
+  },
+  {
+   "page": 18,
+   "text": "",
+   "source": "none",
+   "quality": 0.3,
+   "scanned": true,
+   "raw_chars": 1616
+  },
+  {
+   "page": 19,
+   "text": "4.5. Ko'clla lrolatlari (status rnodeli)\nМарреr yozib olgan, hali\n.tonshirilmagan\nSUBMITTED l Ko'rib chiqishga topshirilgan\nЫБЕфчiЁw \n' R;;t;;;; i.K,bi,-oq;;\nAPPRovED\nTasdiqlangan - \nishchi tarmoqda\nRad etilgan, izoh bilan qaytarilgan\nEskirgan versiya, tarixda saqlanadi\nDISCARDED\nLлNIDER_REVIEW\nAPPROVED \n/\nREJECTED\nARCHIVED (yangi\nversiya\ntasdiqlanganda)\nDRAFT\n- \n(rollback orqali\nqayta APPROVED)\nшJECTED\nARCHI\\rED\nDISCЛRDED\nl Марреr bekor qilgan qoralama\nTasdiqlangan ko'chani tahrirlash: APPROVED ko'chaga o'zgartirish kiritilganda\nyangi versiya yaratiladi ча u UNDER_REVIEW holatiga tushadi. Yangi versiya\ntasdiqlanguncha joriy APPROVED versiya ishchi tarmoqda qoladi. Tasdiqlangach eski\nversiya ARCHIVED bo'ladi, street ID o'zgarmaydi. Fаоl topshiriq bajarilayotgan kuni\ngeometriya o'zgarsa\" o'zgarish keyingi topshiriqdan kuchga kiradi.\n,r\"Ei. !igllrBl*rHi:adsiyat., ttrrл!шrOч ча ove1,1ap qoidrrltnri\nQuyidagi qiymatlar standart (default) hisoblanadi ча web admin sozlamalarida tuman\nyoki mаhаllа kesimida o'zgartirilishi mumkin.\nSegment uzunligi\nQamrov uchun GPS sifati\nKo'cha сhоrrаhаlаrdа bo'linadi; hаr bir segment ko'pi\nbilan 50 m\nассurасу < 20 m bo'lgan nuqtalar hisobga olinadi\n19\nMalnosi\nKeyingi holat\ni ýtanclart qiymat \ni\nI\nI tоiсо\nl\n",
+   "source": "ocr",
+   "quality": 0.881,
+   "scanned": true,
+   "raw_chars": 1251
+  },
+  {
+   "page": 20,
+   "text": "Qamrov buferi\nSegmentdan < 15 m masofadagi nuqtalar mар-\nmatching qilinadi\nSegment o'tilgan\nhisoblanishi\nTezlik chegarasi\nQamrov kaliti\nQayta o'tish\nOverlap ogohlantirishi\nSegment uzunligining > 80% qismi trek buferi bilan\nqoplansa\n40 km/soat dan tez o'tilgan qism qamrovga kirmaydi\n(tozalash baj arilmagan deb hisoblanadi)\nQamrov topshiriqqa (assignment) yoziladi: unikal\n(assignment_id, segment_id)\nBir segment Ьir topshiriqJa fa|at bir mаrtа\n,hisoblanadi\nYangi chiziq uzunligining > 70% qismi mavjud\nSUBMITTEDiAPPROVED \nchiziqdan < 10 m\nmasofada bo'lsa\nQamrov faqat serverda, haydovchi yuborgan GPS nuqtalar asosida hisoblanadi.\nMobil ilova foiz yoki segment ro'yxatini yubormaydi - \nfaqat ko'rsatadi\nMashina almashtirilganda yoki ish pauza qilinganda qаmrоч topshiriq darajasida\nsaqlanadi va yangi ish seansi oldingi progressdan dачоm etadi\nQamrov foizi : o'tilgan segmentlar uzunligi + mahalladagi Ьаrсhа APPROVED\nsegmentlar uzunligi х 100\n5.TOZлLIVB DRIVER MoBlL ILOVASI\n5.1. Марреr rejimi\n. Biriktirilgan mаhаllаlаr ro'yxati va xaritalash progressi\n. Xarita va real vaqtda GPS yozib olish\n. Offline navbat va ulanish tiklanganda aйomatik sinxronlash\n. Yozib olingan yo'lni topshirish, saqlangan yo'llarni ko'rish va qoralamani bekor\nqilish\n20\nQoida\nl\n] Stan,dart qiym*t\n",
+   "source": "ocr",
+   "quality": 0.916,
+   "scanned": true,
+   "raw_chars": 1276
+  },
+  {
+   "page": 21,
+   "text": "\" Rad etilgan yo'l bo'yicha reviewer izohini ko'rish va qayta topshirish\n5.2. !-Irlyt!rlvchi rеjimi\nt. Kirish va ruхsаtlаr asosida Haydovchi modulini ochish\n2. Bugungi topshiriq(lar), mashina va mahallani ko'rish. Bir kunda bir nechta\ntopshiriq bo'lishi mumkin, lekin bir vaqtda faqat bittasi aktiv\n3\" Mahallaga borish; geofence orqali hududga kirish aniqlanadi\n4. Ishni boshlash ча fon rejimida GPS kuzatuv; nuqtalar sеrчеrgа batch bilan\nyuboriladi\n5. Sеrчеr hisoblagan bajarilgan va qolgan qamrovni xaritada ko'rish\n6. Mashina to'lsa: palza(LANDFILL) --l poligon --+ bo'shatish ---+ qaytish -->\noldingi progressdan davom\n7. Nosozlik: pauza (BШAKDOWN) --+ admin yangi mashina biriktiradi + yangi\nish seansi o'sha topshiriqdan davom etadi\n8, Tanaffils: pauza (BREAK) + resume\nli. Ishni yakunlash, kunlik natija ча tarix\n5.3. С l}S lшa'lttrrrotlari manlralari\nUshbu TZ doirasida ikki GPS manbai ishlatiladi. (1) Mashina harakati monitoringi -\njonli xarita, trek tarixi, to'xtashlar, bosib o'tilgan masofa, marshrutdan chiqish va\nhisobotlar - \nmashinalarda o'rnatilgan mavjud GPS trackerlar (SmartGPS / Wialon)\nma'lumotlari asosida yuritiladi (2|,1-bo'lim). (2) Ko'chalar qamrovi, mahallaga kirish\n(geofence), nuqtaga yetib kelish ча fotohisobot koordinatalari - \nhaydovchi telefonidagi\nGPS (Tozalive Driver ilovasi) asosida. Bitta topshiriq uchun qamroy bitta manba asosida\nhisoblanadi; telefon GPS bollmagan holatda tracker ma'lumott zaxira mапЬа sifatida\nishlatilishi admin sozlamalarida yoqiladi.\n5,4. Еltrашlлr ro'yxati\nKirish (login)\nUmumiy\nBosh sahifa - \nbugungi topshiriq / mapping vazifasi\nMahallalar ча zonalar ro'yxati\nUmumiy\nMapper\n2|\nВ# ] Еkrап\ntlll\n1\n2\n",
+   "source": "ocr",
+   "quality": 0.918,
+   "scanned": true,
+   "raw_chars": 1664
+  },
+  {
+   "page": 22,
+   "text": "4\n:5\nXarita ча GPS yozib olish\nYozib olingan уо'l1аr va topshirish\n6 \n: Topshiriq tafsiloti (mashina, mаhаllа, marshrut)\n7\nIsh jarayoni - \njonli xarita va qamrov foizi\nPoligonga borish ча bo'shatish\n9\n10\n11\nPauza sababi (poligon / nosozlik / tanaffus)\nIshni yakunlash ча kunlik natija\nTarix ча statistika\n: Рrоfil va sozlamalar\nМарреr\nMapper\nHaydovchi\nHaydovchi\nHaydovchi\nHaydovchi\nHaydovchi\nUmumiy\n,\n,Umumiy\n|2\n13\n, Holat ekranlari (offline, sinxron, GPS yo'q, ruxsat kerak) Umumiy\nб. WEB ADMIN PANELIDAGI O,ZGARISHLAR\nXaritalash\nGIS ko'rib chiqish\nMahallalar\nMapperl ar, zопаlж (yarati sЫtahrirl аsЫЬ iriktiri sh),\nprogress va topshirilgan yo'llar\nTakrorlanish ogohlantirishi,\nSplitДvlergeДdit/Approve/Rej ect, versiya tarixi ча\nrollback\nChegara (boundary) va tasdiqlangan xizmat tarmog'i\n. Haydovchi, mashina va mahallani biriktirish\nMashina joylashuvi, holati, qamrovi, oxirgi signal vaqti\nva stale holat\nTopshiriqlar\nJonli xarita\n22\n",
+   "source": "ocr",
+   "quality": 0.909,
+   "scanned": true,
+   "raw_chars": 937
+  },
+  {
+   "page": 23,
+   "text": "Poligon\nMashina almashtirish\nSozlamalar\nTarix\nPoligonlar ro'yxati va geofence; Ketmoqda lYetib bordi /\nBo'shatildi / Qaytdi holatlari\nAktiv topshiriqni yangi mashinaga o'tkazish (progress\nsaqlanadi)\nQamrov, segment va очеrlар chegaralari (4.6-bo'1im)\nHodisalar tasmasi, GPS trek uu toprbiriq tarixi\n7. I]ACKEND ЧЛ MICROSERVICE ТАLАВLЛRI\n7\" l. t]ll\"ltllзri,y {,alalrl:rr\nMavjud Tozalive backend audit qilinadi. Xaritalash uсhчп mos servis bo'lmasa alohida\ntozalive-mapping-service yaratiladi. Haydovchi operatsiyalari mavjud\ntransport/assignment domeniga integratsiya qilinadi yoki texnik zarurat bo'lsa alohida\nservisga ajratiladi.\n- API Gateway va mavjud Auth qayta ishlatiladi - \nyangi auth yozilmaydi\n\" PostgresQl + PostGIS geometriya va spatial sо'rочlаr uchun\n\" GPS nuqtalar TimescaleDB hуреrtфlе'lаridа saqlanadi (vaqt bo'yicha bo'linish ча\nsiqish)\n, GPS nuqtalari batch endpoint orqali qabul qilinadi\n. Offline qayta yuborishlar idempotent: hаr bir nuqtada client_seq, har Ьir batch\nso'rovida Idempotency-Key hеаdеr\n\" Qamrov serverda asinxron hisoblanadi (navbat/worker) va natija WebSocket\norqali yuboriladi\n\" Domain hodisalar mavjud message Ьrоkеr orqali\n\" WebSocket orqali jonli joylashuv ча holat\n, DTO validatsiya, logging, audit va migratsiyalar mavjud loyiha qoidalariga mos\n2з\n1ы\n",
+   "source": "ocr",
+   "quality": 0.903,
+   "scanned": true,
+   "raw_chars": 1294
+  },
+  {
+   "page": 24,
+   "text": "7.2. Ма'Iumоtlаr bazasi jadvallari\nmapping_zones\nmapping_sessions\ngps_rawjoints\n,;;;i;;_й;i;-\nstreet versions\nroad_segments\nlandfills\n;;;G;;;;-\nwork sessions\nwork sеssiопзаusеs\ndriv.r;pr_pbi\"i,\nsegment_coverage\nid, mahalla_id, nomi, geometry (Polygon),\nassigned_user_id\niJ, user_id, zone_id, started_at, ended_at, status\nsession_id, client_seq, lat, lng, accuracy, speed, heading,\nrecorded_at, received_at\nUNIQUE (session_id, client_seq); hypertable\nid, mahallu_id, nomi, current*v.rrion_id, \nstatus\nid, street_id, geometry (LineString), version, status,\nchanged_by, changed_at, review_comment\nid, street_version_id, geometry, length_m, order_index\nid, tuman_id, nomi, location (Point), geofence (Polygon),\nis_active\nid, driver_id, vehicle_id, -ubulla_id, date, status,\ncoverageJercent\nid, assignment_id, vehicle_id, rtu.t.J_ut, ended_at, status\nid, work_session_id, r.uron (iДЬГОГrlr- U\nBREAKDOWN / BREAK), started_at, ended_at\nwork session_id, client_seq, lat, lng, ассurасу, speed,\nheading, recorded_at, received_at\nLINIQUE (work session_id, client_seq) ; hypertable\nid, assignment_iJ, ;;;;;\"ii \nJ, work_session_id,\nсочеrеd at\n] LINIQUE (assignment_id, segment_id)\n24\n",
+   "source": "ocr",
+   "quality": 0.932,
+   "scanned": true,
+   "raw_chars": 1170
+  },
+  {
+   "page": 25,
+   "text": "landfi1l_trips\nvehicle replacements\nwork_session_id, landfi 11_,\noaded_at, returned_at\nat, arrived_at,\ncoverage_settings scop. (elobur itu-un U -uburru1, scope_id, 4.6-bo'li-j;i\nchegaralar\n7.3. Ma'lrtшotlarni saqlash muddarti\n\" Raw GPS (mapping va haydovohi): kamida 12 оу;7 kundan eski ma'lumotlar\nsiqiladi (compression)\n\" 12 oydan eski raw GPS arxivlanadi yoki o'chiriladi - \nbuyurtmachi bilan\nkelishilgan siyosat bo'yicha\n\" Qayta ishlangan geometriya, qап}rоч natijalari va topshiriq tarixi muddatsiz\nsaqlanadi\n\" Taxminiy hajm: 150 haydovchi х 3-5 soniya interval = kuniga 1-1,5 mln nuqta;\nsеrчеr resurslari shunga mos rejalashtiriladi\n7.4. APl endpclintlar\nGET\nPoST\nPoST\nPoST\nPoST\nlapilmapping/zones\nBiriktirilgan zona|ar\nl api l mapping/s е s s i ons\nl api / mapping/ses si ons/ : idlpo ints\nyozib olishni boshlash\nGPS nuqturuЙi Ь;i;Й\nyuborish (idempotent)\nl apt l mapping/s е s si ons/ : i d/submit\nl арi l mapprngisessionrZ, lOZ.un..r\nKo'rib chiqishga topshirish\nQoralamani bekor qilish\n(DISCARDED)\n25\nMetocl I Entlpoint\nTavsif \ni\nll\n",
+   "source": "ocr",
+   "quality": 0.909,
+   "scanned": true,
+   "raw_chars": 1040
+  },
+  {
+   "page": 26,
+   "text": "GET\nGET\nGЕт\n]\nl l apil mapping/streets\ni\n:\n: l apil mарр ing/streets/ \n: idlversions\nPOST \nlapilrrTapping/streets/ idДeview\nPOST /apiimappinglstreets/:idisplit\nPOST \n. \nlapilmapping/streets/merge\nPOST : lapilmapping/streets/:idlrollback\nGЕТ \n, lapildtiver/assignments/today\n:\nPOST i /apildriver/work-sessions/start\nPOST, lapildr|verlwork-sessions/:idlpoints\nКо'сhаlаr ro'yxati (fi ltr,\nstatus)\nVersiyalar tarixi\nApprove / Reject\nKo'chani bo'lish\nко'сhаlайi birlashtiri sh\nOldingi versiyaga qaytarish\nBugungi topshiriq(lar)\nIshni boshlash\nGPS nuqtalarni batch\nyuborish (idempotent)\ný.ru., hisoblagan qаmrоч va\nqolgan segmentlar\nPauza (sabab: LANDFILL /\nBREAKDOWN / BREAK)\nIshni dачой ettirish\nPoligon holatini o'zgartirish\nIshni yakunlash\nZonalamiboshqarish va\nbiriktirish\nPoligonlarni boshqarish\nTopshiriqlarni Ьо shqari sh\nPoST\n: /apildriver/work- sessions/ : id/pause\n/apiidriverlwork- ses sions/: id/resume\n/apildriver/work- sessions/ : idllandfi 1l\n/apildriver/work-session si : i difi n i sh\n/ api l admir/m арр i n g -z о n е s\nI l ачil a|tmin/landfi lls\n, l api l admirr/as si gnments\n: \nPOST\ni \nPOST\nPoST\nl CRUD\n1\n: \nсRUD\n; CRUD\n26\nEndpoin*\n] Tavsif\nl\n/apildriver/as si gnments/: idlprogress\n",
+   "source": "ocr",
+   "quality": 0.897,
+   "scanned": true,
+   "raw_chars": 1199
+  },
+  {
+   "page": 27,
+   "text": "l apt l admilr/as si gnments/ : i d/replace -\nMashinani almashtirish\nl vehicle\n.\nGET/PUT' l apil admin/coverage-settings\nQamrov va overlap\nchegaralari\nZ*rZ.\"r.r\"g\"\n/ws/mapping\nstreet.submitted\nstreet.approved / street.rej ected\nwork session.started / paused /\nresumed / finished\ncoverage.updated\nlandfill.unloaded\nvehicle.replaced\ni\n, Qamrov foizining o'zgarishi (server hisobi)\n:-\n: Yangi topshirilgan уо'1 ча review holati\n, Ko'cha ko'rib chiqishga topshirildi\ni-----\n. Rечiеwеr qarori\n:\nIsh sessiyasi holati\nTopshiriq qamrovi yangilandi\nPoligonda bo'shatildi\nMashina almashtirildi\n8. GPS, OFFL|NE чл REAL-VAQT тАLлвLАRI\n7.5. [Iоdisаlаг ча WebSocket kanallari\n/ws/driver-location\n: Mashinaning jonli joylashuvi\nо\na\nо\nForeground ча background location ruxsatlari (Android ча iOS uсhuп alohida)\nGPS accuracy saqlanadi; sifatsiz nuqtalar filtrlanadi yoki belgilanadi\nTurgan joydagi jitter ча takroriy nuqtalar kamaytiriladi (masofa ча tezlik\nchegarasi)\nRaw GPS va qayta ishlangan geometriya alohida saqlanadi\n27\nI Metod\nI Enduoint\nTavsif\n[ыilж\n",
+   "source": "ocr",
+   "quality": 0.927,
+   "scanned": true,
+   "raw_chars": 1042
+  },
+  {
+   "page": 28,
+   "text": ". Internet yo'qolganda yozib olish to'xtamaydi\n\" Lokal doimiy navbat (persistent queue) ча batch sinxronlash: har 30 soniyada yoki\n50 nuqtada\n\" Ekran qulflanganda yoki ilova fonda bo'lganda aktiv sessiya saqlanadi\n. Ilova qayta ochilganda tugallanmagan sessiya tiklanadi\n, Web adminda oxirgi signal vaqti va eskirgan (stale) holat ko'rsatiladi (standart: 5\ndaqiqadan ortiq signal yo'q)\niOS da fоп rejimida doimiy GPS uсhuп \"Always\" ruxsati va Арр Store ko'rib\nchiqishtda alohida asoslash talab etiladi. Ilоvа ruxsat Ьеrilmаgап holatda hаlп\nishlashi (сhеklапgап rejtmda) vafoydalaпuvchiga tushuпarli xabar ko'rsatishi shart.\nl\n9. AI INTEGRATSIYASI\nAI faqat real backend mа'lumоtlаrigа tayangan holda javob beradi (tool use). Ma'lumot\nbo'lmasa AI taxmin qilmaydi - \nmз'|цrnоt yo'qligini aytadi.\nQo'llab-quvvatlanadigan so'rov turlari:\n. \"019 mashina qayerda?\" - \njoriy joylashuv va holat\n. \"Yoshlik МFY necha foiz bajarildi?\" - \nqаmrоч foizi\n. 'lQaysi segmentlar qolgan?\" - \nro'yxat ча xaritada ko'rsatish\n. \"Qaysi mashina poligonda?\" - \npoligon holatidagi mashinalar\n. \"019 nega to'xtadi?\" - \npallza sababi, GPS trek va hodisalar tasmasi\nn \"019 o'rniga qaysi mashina biriktirildi?ll - \nalmashtirish tarixi\nAI foydalanuvchining ruxsatlari doirasidagi ma'lumotlarni o'qiydi; AI API to'lovlari 16-\nbo'limga muvofiq loyiha doirasiga kirmaydi.\nl0. NOFUNKSIONAL TALABLAR\nAPI javob vaqti (р95)\n.<500ms\n; < 2 soniya\n:\n28\n10.1. Ishlaslr tezligi\nGPS batch qabul qilish (200 nuqta)\nko'rsatkich\n",
+   "source": "ocr",
+   "quality": 0.906,
+   "scanned": true,
+   "raw_chars": 1481
+  },
+  {
+   "page": 29,
+   "text": "Xarita yuklash (mobil) \n< 3 soniya\nQamrov hisobining yangilanishi\nJonl i j oylashuv kechlKl sbi\n< 5 soniya (nuqta serverga yetgandan keyin)\n< 10 soniya (internet -uujuJ Б;'G;;а;'\nParallel mарреrlаr\n200+\nBir vaqtda aktiv haydovchilar\nGPS yozib olish intervali\noffline navbat haimi\nBatareya sarfi\n150+\nНаr 3-5 soniyada\nKamida 8 soatlik уоzuч\n8 soatlik smenada ilova 40% dan ko'p\nsarflamasligi (o'lchash usuli 10.3-bo'limda)\nIshlash tezligi talablari buyurtmachi taqdim еtgап va ijrochi I-bosqichda tavsiya\nqilgaп miпimаl seryer koпfiguratsiyasida kafolatlaпadi. Seryer resurslari tavsiyadaп\npast bo'lsa, ushbu ko'rsatkichlar uсhuп ijrochi javobgar emas.\n;. .,..r, , -,:i'; \nll'l , , , ,:_;;l} ti'\nWeb admin\nTil\nversiya\niOS 15.1+ talabi joriy React Native / Ехро versiyalarining minimal talabi bilan bog'liq.\nt {}.\"tr- !ii:{-taý,x-!\\,ix strrt'ini o'lchash tlsuli\n\" Qurilma: o'rta segment Android (2022-yi| va undan yangi, batareya Z 4000 mАh)\n- buyurtmachi bilan kelishilgan model\n29\n",
+   "source": "ocr",
+   "quality": 0.867,
+   "scanned": true,
+   "raw_chars": 980
+  },
+  {
+   "page": 30,
+   "text": "Sharoit: haydovchi rejimi, aktiv ish sessiyasi, GPS intervali 5 soniya, ekran asosan\no'chiq, mobil internet yoqilgan\nDavomiylik: 8 soat; boshqa og'ir ilovalar ishlamaydi\nNatija tizimning batareya statistikasidan (ilova ulushi) olinadi\n11. XAVFSIZLIK YА AUDIT\n,\na\nRuxsatlar backend tomonida tekshiri ladi (backend-enforced RBAC)\nMavj ud Tozalive access/refresh token standartlari qayta ishlatiladi\nAPI rate limiting ча kiruvchi ma'lumot validatsiyasi\nAPI kalit va secretlar mапЬа kodda hardcode qilinmaydi - \nenvironment / secret\nmапаgеr orqali\nМарреr, Reviewer, Dispetcher ча Admin harakatlari audit logda saqlanadi\nKim chizdi, kim o'zgartirdi, kim tasdiqladi - \nhаr doim kuzatiladigan bo'ladi\nGPS ma'lumotlariga eng kam zarur huquq (least privilege) tamoyili\nAudit 1og tahrirlanmaydi va o'chirilmaydi; saqlash muddati kamida 1 yil\n12. MUAMMOI,I HOLATLAR vA YECHIMLAR\na\na\nо\na\na\na\na\na\nIkki mарреr bir yo'lni chizadi : Overlap aniqlash (4.6) + reviewer qarori\n:\nBir mahallada ko'p mapper l Zonalsektor biriktirish\nInternet yo'q\nLokal doimiy navbat + batch sinxronlash\nBatch qayta yuboriladi \n: Idempotency-Key + LГNIQUE (session_id,\nGPS sakraydi\nAccuracy filtrlash; raw ча processed treklarni\najratish\nMasofa va tezlik .b.gurari (ihreshold)\nTugallanm аgап se ssiyani tiklash\nTelefon joyida turib GPS\nsiljiydi\nIlova yopilib qoladi\n30\n",
+   "source": "ocr",
+   "quality": 0.927,
+   "scanned": true,
+   "raw_chars": 1330
+  },
+  {
+   "page": 31,
+   "text": "Bitta yozuvda bir nechta ko'cha . Reviewer Split amali\nIkki yozuv bitta уо'1\nko'cha nomi xato\nNoto'g'ri tasdiqlash\nTasdiqlangan ko'cha\ntahrirlanadi\nMashina poligonga ketadi\nMashina buziladi\nGPS signali eskirgan\nOffline ikki mаrtа .i*ro\"iunuJi\n: Reviewer Merge amali\n; Ваrqаrоr street ID; ko'rinadigan поm alohida\n;tahrirlanadi\n; Versiya tarixi + rollback\nYangi versiya review'ga tushadi; eski versiya\ntasdiqlanguncha ishlaydi\nIsh seansi PAUSED (LANDFILL); progress\nsaqlanadi\nMashina almashtiriladi; qamrov topshiriqda\nqolgani uсhuп progress yo'qolmaydi\nl Oxirgi signal vaqti va stale holati\n, Idempotent yozuv va deduplikatsiya\nDraft haydovchiga chiqib ketadi Haydovchi faqat APPROVED tarmoqni oladi\n]\n200 mарреr раrаllеl \nBatch API, navbat va sеrvеr scaling\nsinxronlaydi\nHaydovchi segmentni qayta \n, IINIQUE (assignmenЦd, segment_id); ikki\nyuradi\n: marta hisoblanmaydi\nClient noto'g'ri qаmrоч yuboradi qu-rou faqat sеrчеrdа ёРS nuqialar asosida\nhisoblanadi\n13. TEST чА QABUL QILISH MBZONLARI\nlЗ,l. Xaгit*l*tsh clala testi\n1. Kamida 3 mарреr parallel ishlaydi\n31\n",
+   "source": "ocr",
+   "quality": 0.878,
+   "scanned": true,
+   "raw_chars": 1062
+  },
+  {
+   "page": 32,
+   "text": "2. Bittasida internet o'chiriladi ча GPS yozib olish davom etadi\n3. Ikki mарреr bir xil yo'lni chizadi - \ntakrorlanish ogohlantirishi ko'rinadi\n4. Bitta mарреr yozib olish paytida ilovani fonga oladi va qayta ochadi\n5. Barcha treklar backend va PostGlS/TimescaleDB ga yo'qotishsiz yetib boradi\nб\" Reviewer kerakli trekni tasdiqlaydi\n7. Haydovchi faqat tasdiqlangan xizmat tarmog'ini ko'radi\nl3.2. I{aydovchi operatsion testi\n1. Topshiriq yaratiladi va haydovchiga yetkaziladi\n2. Ish boshlanadi va jonli GPS ko'rinadi\n3. Qamrov progressi 4.6-bo'limdagi qoidalarga muvofiq to'g'ri o'zgaradi\n4. Mashina to'ladi + poligo1 --+ Qa}tish ---+ рrоgrеss saqlanadi\n5. Nosozlik ---+ boshqa mashina + o'sha topshiriqdan, o'sha foizdan davom etiladi\nб. Bir segmentni qayta o'tish qamrovni oshirmaydi\n7 \" |00% bajarilish va hodisalar tarixi qayd etiladi\n8. Web admin rеаl vaqtda holatni ko'radi\n9. AI joriy holatga mos javob beradi\n13.З. QаЬшI qilish t*rrtibi\n. Har bosqich yakunida ijrochi natijani demo qiladi va topshirish xatini yuboradi\n. Buyurtmach\\7 ish kuni ichida qabul qiladi yoki yozma ravishda kamchiliklarni\nko'rsatadi\n. Kamchiliklar faqat ushbu TZ dayozilgan talablarga asoslanadi\n. Ijrochi asosli kamchiliklarni 10 ish kuni ichida bepul bartaraf etadi\n. 7 ish kuni ichida javob kelmasa, bosqich qabul qilingan hisoblanadi\n. Dala testlari real sharoitda, buyurtmachi vakili ishtirokida o'tkaziladi\nз2\n",
+   "source": "ocr",
+   "quality": 0.955,
+   "scanned": true,
+   "raw_chars": 1399
+  },
+  {
+   "page": 33,
+   "text": "14. ISH BOSQICHLAш чА MUDDATLAR\n4\nArxitektura ча\nxaritalash asosi\nКо'р mapper ча GIS\nko'rib chiqish\nHaydovchi\noperatsiyalari\nweb admin ча rеаl\nvaqt\nBackend va GPS trасkеr (SmartGPS\n/ Wialon) auditi, yozrna xulosa,\ntavsiya etilgan sеrчеr\nkonfiguratsiyasi, mobil skeleton,\nxartta, GPS yozib olish, PostGIS /\nTimescaleDB saqlash, tracker\nma'lumotini qabul qilish\nHudud polygonla ri, zona,puruil.l\nmарреr, moderatsiya, split / merge,\nversiyalash; kontayner nuqtalari va\nmarshrutlar\nReja va topshiriq, sеrчеr tomonida\nqаmrоч, pauza, poligon, nosozlik ча\nmashina almashtirish; fotohisobot,\nmurojaat ча хаЬаrlаr; tracker\nintegratsiyasini yakunlash\nJonli xarita, dashboard, marshrutdan\nchiqish hodisalari, hisobotlar va\nExcel / PDF eksport, import /\neksport, API hujjatlari, zaxira nusxa\nAI toollar, pilot uu autu testlari,\noptimallashtirish, o'qitish va\nqo'llanmalar, chiqarish ча topshirish\n( 19-bo'lim)\n4 hаftа\n4 hаftа\n4 hafta\n3 hafta\n3 hafta\nAI, dala testi va release\nJAMI -\nMuddat shartnoma imzolangan ча buyurtmachi\nkundan boshlab hisoblanadi.\n18 hafta\naa\nJJ\n1 S-bo'limdagi maj buriyatlami baj argan\nl\n@\nl\nl Bosqich\n,\ni Natija\n2\nJ\ni\n5\n",
+   "source": "ocr",
+   "quality": 0.891,
+   "scanned": true,
+   "raw_chars": 1132
+  },
+  {
+   "page": 34,
+   "text": "Loyiha davomida ijrochi yangi servislarni mavjud deploy jarayoniga (CIICD, Helm\nchartlar, environment konfiguratsiyasi) qo'shadi. Sеrчеr, klaster ча tarmoq\nadministratsiyasi bu doiraga kirmaydi ( 1 6-bo'1im).\n1 5. BUYURTMACHI MAJBURIYATLARI\n5\n6\n: Loyiha kuratori (mas'ul shaxs) tayinlash\n' Mavjud Tozalive backend, DB, auth va deploy\n; jarayoniga kirish huquqi\nl Mahalla chegaralari (polygon) va tuman\n,iyeraжiyasi\nl Dev/staging muhit uchun sеrчеr resurslari (ijrochi\ntavsiyasi asosida)\n: Марреrlаr ro'yxati va ularni o'qitish uchun sharoit\n-i,- -\n; Poligonlar ro'yxati ча koordinatalari\nl Google Maps API kaliti\nl Production sеrчеr resurslari (ijrochi tavsiyasi\nasosida)\n: Dala testi uchun kamida 3 mарреr va 2 mashina\n. ajratish\n: \n----- --- -\n10 : Google Рlау Console va Аррlе Developer tashkilot\n,hisoblari\n11 , Har bosqich demosini 7 ish kuni ichida ko'rib\nchiqish\n|2 l SmartGPS / Wialon API uchun read-only kirish\n. \n(token) va tracker-mashina ro'yxati\nshartnomadan 5 kun\nichida\nshartnomadan 7 kun\nichida\n1-bosqichgacha\n1-bosqichgacha\n2-bosqichgacha\nЗ-Ьоrqi.Ьgасhа\n1-bosqichgacha\n5-bosqichgacha\nS-БЬrqi.Ь;;;h\"\n;-Б;ii;h;\".ь\"\nDoimiy\ni-b\"rqi.bЁ\".b\"\nз4\nMucldat\n",
+   "source": "ocr",
+   "quality": 0.907,
+   "scanned": true,
+   "raw_chars": 1162
+  },
+  {
+   "page": 35,
+   "text": "13 Mavjud kontayner maydonchalari va marshrutlar\nro'yxati (mavjud bo'lsa)\n2-bosqichgacha\nBuyurtmachi majburiyatlari kechiktirilsa, loyiha muddati shunga mos ravishda\nuzay tiriladi ча bu ij ro chining ke chiki shi hi so blanmaydi.\n16. LOYIHA DOIRAS[GA KIRMAYDIGAN ISHLAR\nQuyidagilar ushbu texnik topshiriq doirasiga kirmaydi ча alohida kelishuv talab etadi:\n, Hosting, sеrчеr, klaster va tarmoq infratuzilmasini ta'minlash hamda\nadministratsiya qilish\n, Loyiha topshirilgandan keyingi DevOps xizmatlari: sеrчеr ча klaster\nadministratsiyasi, monitoring, zaxitanusxa (backup), xavfsizlik yangilanishlari,\nscaling\n\" Google / Yandex Maps pullik xizmatlari ча ularning to'lovlari\n, AI API foydalanish to'lovlari\n. SMS shlyuz, SIM karta va mobi1 internet xarajatlari\n, GPS trekerlar, telefonlar va boshqa jihozlarni sotib olish\n, Аррlе va Google developer hisoblarini ochish to'lovlari\n, IVlavjud Tozalive tizimidagi eski xatolarni tuzatish (alohida baholanadi)\n, Boshqa idoralar axborot tizimlari bilan integratsiya\n- Ma'lumot kiritish: mahalla, ko'cha va foydalanuvohi ro'yxatlarini to'ldirish фilоt\nhudud bundan mustasno, 2 1.2-bo'lim)\n- Марреrlаrпi jalb qilish, ularga to'lov va dala ishlarini tashkil etish\nl7. o,ZGAIITIR[SH Sо,RоVI (сHANGB REQUEST)\n\" TZ tasdiqlangandan keyin qo'shiladigan yangi modullar va biznes talablar Change\nRequest sifatida alohida baholanadi\n\" Buyurtmachi so'rovni yozma ravishda yuboradi\n\" Ijroohi 5 ish kuni ichida mehnat hajmi, muddat va qiymat bahosini taqdim etadi\n\" Ikki tomon rozi bo'lsa, qo'shimcha kelishuv imzolanadi\n35\nМ utldat\n",
+   "source": "ocr",
+   "quality": 0.945,
+   "scanned": true,
+   "raw_chars": 1562
+  },
+  {
+   "page": 36,
+   "text": ". Yozma kelishuvsiz hech qanday o'zgartirish bajarilmaydi\n. Kichik o'zgartirishlar (1 ish kunigacha) bepul bajariladi - oyiga З tagacha\n\" 4.6-bo'1imdagi chegaralarni admin sozlamalarida o'zgartirish Change Request\nhisoblanmaydi\nYаkuпiу tехпikуесhim maujud Tozalive Ьасkепd, ma'lumotlar bazasi, message broker,\nauth vа microservice arxitekturasi auditidaп sо'пg aпiqlashtiriladi. Audit пatijasida\nhajm sezilarli o'zgarsa, tоmопlаr muddat vа shartlarпi qayta ko'rib chiqadi.\n18. KAFOLAT чА QO,LLAB_QUVVATLASH\nо\na\na\nTizim topshirilgandan keyin б оу kafolat\nKafolat davomida TZ talab|жiga zid ishlayotgan dastur xatolari bepul tuzatiladi\nJavob ча bartaraf etish vaqtlari ish vaqti bo'yicha hisoblanadi: dushanbbjuma,\n09 : 00-1 8 : 00 (Toshkent vaqti), Ьауrаm kunlaridan tashqari\nР 1 - Kritik\nIlova ishlamaydi yoki GPS\nma'lumot yo'qoladi\nР2 - Yuqori \n. Aso siy funksiya ishlamaydi,\nvaqtinchalik yechim bor\nIkkinchi darajali funksiya yoki\ninterfeys xatosi\nTakomillashtirish taklifi , savol\nР3 - \nO'rta\nР4 - \nPast\n1 ish soati \n8 ish soati\n4 ish soati : 2 ish kuni\n1 ish kuni \n5 ish kuni\n2 ish kuni\nKelishuv\nbo'yicha\nKafolat quyidagilarni qamrab olmaydi : buyurtmachi kiritg ап о' zgartshlar, uchinchi\ntomon xizmatlarining ishlamay qolishi, sеrчеr, klaster va tarmoq muammolari,\ntavsiyadan past server resurslari, jihozlarning texnik nosozligi\n2417 navbatchilik ча kafolatdan keyingi qo'llab-quvvatlash alohida oylik\nshartnoma asosida\nзб\n",
+   "source": "ocr",
+   "quality": 0.921,
+   "scanned": true,
+   "raw_chars": 1429
+  },
+  {
+   "page": 37,
+   "text": "19. LOYIHANL TOPSHIRISH ЧА INFRATUZILMA JAVOBGARLIGI\n5 -bosqich yakunida ij rochi buyurtmachiga quyidagilarni topshiradi :\n,, Manba kodi (to'liq to'lovdan keyin, 20-bo'1im) va repozitoriylarga kirish huquqi\n,, Deploy hujjatlari: aжitektura sxemasi, servislar ro'yxati, environment\no'zgaruvchilari shabloni (qiymatlarsiz)\n, CIICD konfiguratsiyasi ча Неlm chartlar / deploy manifestlari\n- Ma'lumot|arbazasi migratsiyalari va qayta tiklash (restore) bo'yicha yo'riqnoma\n. Tavsiya etilgan production sеrчеr konfiguratsiyasi\n- Ijrochi yaratgan Ьаrсhа admin hisoblar, kalitlar va credential'lar - xavfsiz kanal\norqali; topshirilgach buyurtmachi ularni almashtiradi\n\" Admin va dispetcherlar uchun foydalanuvchi qo'llanmasi\nYakuniy dalolatnoma imzolangan kundan boshlab server, klaster, monitoring, zaxira\nnusxa ча infratuzilma xavfsizligi uchun javobgarlik to'liq buyurtmachiga o'tadi.\nIjrochining keyingi majburiyatlari faqat 18-bo'limdagi dastur kafolati bilan cheklanadi.\nTopshirilgandan keyingi DevOps xizmatlari alohida shartnoma asosida ko'rsatiladi.\n20. I]\\TELLIiKTUAL MULK чА MAхFIYL|K\n,, Manba kodi to'liq to'lov amalga oshirilgandan keyin buyurtrnachiga topshiriladi\n,, Buyurtmachi kodni o'zgartirish, tarqatish ча ishlatish huquqiga ega\n,, Ijrochi umumiy frаmеwоrk ча kutubxonalarni boshqa loyihalarda ishlatish\nhuquqini saqlaydi\n, Ikki tomon loyiha doirasida olingan barcha mа'lumоtlаmi maxfiy saqlaydi\n, GPS va xodimlar ma'lumotlari faqat shartnoma doirasida qayta ishlanadi ча\nO'zbekiston hududidagi serverlarda saqlanadi\n- Maxfiylik majburiyati shartnoma tugagandan keyin 2 yil davom etadi\nз7\n",
+   "source": "ocr",
+   "quality": 0.949,
+   "scanned": true,
+   "raw_chars": 1600
+  },
+  {
+   "page": 38,
+   "text": "21. BUYURTMAсH|TZ TALABLARINI QAMRAB oLUvCHI QO,SHIMCHA\nтлLлвLАR\nUshbu bo'lim KToza huduф DM texnik topshirig'i (hujjatning 1-qismi) talablarini\nTozalive Driver tizimiga to'liq kiritadi. Наr bir talabning bajarilish usuli ча tekshirilish\ntartibi 24-bo'limdagi muvofiqlik j advalida keltirilgan.\n21.1. I\\4avittd GРS trасkеrlаr integratsiyasi\nMashinalarda o'rnatilgan GPS trackerlar almashtirilmaydi va ularning sozlamalari\nbuyurtmachining уоzmа roziligisiz o'zgartirilmaydi. Mavjud monitoring SmartGPS\n(Wialon) platformasida yuritiladi; integratsiya provayder API'si orqali amalga oshiriladi.\nAniq usul, yangilanish intervali va cheklovlar 1-bosqichdagi texnik auditda aniqlanadi\nva buyurtmachiga уоzmа xulosa sifatida topshiriladi.\n. Integratsiya usuli: Wialon Remote API (yoki provayder taqdim etgan boshqa API /\nprotokol) - \nfaqat o'qish (read-only) huquqli token orqali\n. Har bir tracker (unit) mashina, davlat raqami va tumanga bog'lanadi;\nbog'lanmagan yoki takroriy tracker admin panelda ogohlantirish bilan ko'rsatiladi\n. Qabul qilinadigan maydonlar: unit_id, latitude, longitude, speed, course\n(yo'nalish), satellites, ignition (mavj ud bo'lsa), recorded_at\n, Yangilanish: standart 15-30 soniya; provayder imkoniyatiga qarab 10-60 soniya\noralig'ida sozlanadi\n. Deduplikatsiya: LINIQUE (vehicle id, recorded_at); kechikib kelgan nuqtalar o'z\nvaqti bo'yicha joylanadi\n, Signal holati: ONLINE / STALE (5 daqiqadan ortiq signal yo'q) / OFFLINE (30\ndaqiqadan ortiq) - \nchegaralar sozlanadi, oxirgi signal vaqti doim ko'rsatiladi\n. To'xtash aniqlash: tezlik 3 km/soatdan past holat З daqiqadan ortiq davom etsa -\nto'xtash; harakat boshlanishi ча tugashi qayd etiladi (сhеgаrаlаr sozlanadi)\n. Ко'р provayder: GpsProviderAdapter interfeysi - \nyangi provayder yoki qurilma\nturi alohida adapter sifatida ulanadi, asosiy ttzim o'zgarmaydi\n. Рrочауdеr API ishlamay qolsa qayta urinish (exponential backoff) ishlaydi,\ndispetcherga \"provayder bilan aloqa yo'q\" holati ko'rsatiladi; tiklangach yo'qolgan\ndачr ma'lumotlari qayta so'raladi\n. GPS provayderining litsenziya, API yoki abonent to'lovlari mavjud bo'lsa, ular\nbuyurtmachi tomonidan qoplanadi ( l 6-bo'1im)\n38\n",
+   "source": "ocr",
+   "quality": 0.943,
+   "scanned": true,
+   "raw_chars": 2159
+  },
+  {
+   "page": 39,
+   "text": "21 \"2, ýdorlt;ly пеr mayttonclralari, chiqindi yig'islr rruqtalari va nrarshrutlirr\n\" Nuqta ma'lumotlari: nomi, manzili, koordinatasi, turi (kontayner maydonchasi,\nchiqindi yig'ish nuqtasi, maxsus obyekt, nazoratnuqtasi), holati (faol / nofaol /\nta'mirda), kontaynerlar soni, izoh va foto\n- Nuqtalar web adminda xaritada qo'shiladi va tahrirlanadi, Ехсеl/СSV orqali\nimроrt qilinadi\n\" Mobil ilovada \"Nuqta qo'shish\" funksiyasi: joyida turib GPS koordinatasi va foto\nbilan; nuqta admin tasdiqlagandan keyin faol bo'ladi\n\" Маrshrut - \ntartiblangan nuqtalar ro'yxati va chizilgan уо'1 (LineString);\nmashinaga ча hafta kunlariga biriktiriladi\n- Nuqtaga borilganlik: mashina (trасkеr) yoki haydovchi (telefon) nuqtadan 30 m\nradiusga kirib, kamida 1 daqiqa tursa - BORILDI; radius va vaqt sozlanadi\n, Nuqta natijasi: BORILDI / BORILMADI l O'TKAZIB YUBORILDI (sabab bilan)\nIjrochi nuqtalarni kiritish vositalarini ishlab chiqadi va pilot hududda nuqtalarni joyida\no'rganib kiritadi. Qolgan hududlar bo'yicha dala ishlari hajmi l-bosqich auditidan keyin\nbuyurtmachi bilan alohida kelishiladi ( 1 6-bo'lim).\n21.З- Гoto}risoi;ot\n. Fotohisobot topshiriq va nuqtaga bog'lanadi; sana, vaqt, GPS koordinata ча\nассцrасу aйomatik yoziladi\n- Foto faqat ilova kamerasi orqali olinadi (galereyadan yuklash o'chirilgan) -\nsoxtalashtirishning oldini olish uchun\n\" Rasm qurilmada siqiladi (uzun tomoni S 1600 рх) va obyekt omborida (S3)\nsaqlanadi\n- Internet bo'lmasa foto navbatga qo'yiladi ча aloqa tiklangach idempotent\nyuboriladi\n- Nuqta turiga qаrаЬ \"oldin / keyin\" fotolarini majburiy qilish admin sozlamalarida\nyoqiladi\n\" Web adminda fotohisobotlar arxivi: sana, hudud, haydovchi, mashina va nuqta\nbo'yicha qidiruv\n- Saqlash muddati: kamida 12 оу1' undan keyingi siyosat buyurtmachi bilan\nkelishiladi\nз9\n",
+   "source": "ocr",
+   "quality": 0.933,
+   "scanned": true,
+   "raw_chars": 1786
+  },
+  {
+   "page": 40,
+   "text": "21.4. Htrydovchi vrr clispetclrer o'rtasidagi хаЬаrlаr\n. Haydovchi murojaat yuboradi: nosozlik, kirish imkoni уо'ч, kontayner to'lib\nketgan yoki buzilgan, YTH, boshqa - \nfoto va joylashuv bilan\n. Murojaat holatlari: YANGI / KO'RILMOQDA / HAL QILINDI; dispetcher izoh\nqoldiradi va yopadi\n. Dispetcher haydovchiga хаЬаr yoki yangi topshiriq yuboradi; haydovchiga push-\nbildirishnoma keladi\n. Ваrсhа xabar va murojaatlar tarixi saqlanadi va hisobotga kiradi\n21.5. Rej а lashtirislr va topslr iriq statu sla ri\n. Kunlik, haftalik va oylik rejalar; takrorlanuvchi jadval shablonlari (masalan,\ndushanb a-chorshanba-j um а)\n. Topshiriq hudud, marshrut, mashina va haydovchi kesimida beriladi;\nrejalashtirilgan vaqt va bajarish muddati belgilanadi\n. Statuslar: REJALASHTIRILGAN, BAJARILMOQDA, BAJARILDI, QISMAN\nBAJARILDI, BAJARILMADI, KECHIKDI\n. Avtomatik xulosa: nuqtalar yoki qаmrоч ) 95% - BAJARILD|; 1-94% -\nQISMAN BAJARILDI; 0% - BAJARILMADI; muddatdan keyin yakunlangan\n- KECHIKDI (chegaralar sozlanadi)\n. Dispetcher avtomatik xulosani tekshirib, izoh bilan o'zgartira oladi va topshiriqni\nboshqa mashina yoki haydovchiga qayta yo'naltira oladi; hаr bir o'zgarish audit\nlogga yoziladi\n21.6. Marshrutdan chiqish ча asossiz to'xtashni aniqlash\n. Marshrut koridori: chizilgan marshrutdan *50 m; mashina2 daqiqadan ortiq\nkoridor tashqarisida bo'lsa - \"Marshrutdan chiqish\" hodisasi\n. Asossiz to'xtash: nuqta, poligon vabazahududidan tashqarida 10 daqiqadan ortiq\nto'xtash\n. Belgilangan hududga bormaslik: kun yakunida borilmagan nuqtalar ro'yxati\nshakllanadi\n, . Hodisalar dispetcherga rеаl vaqtda (WebSocket) chiqadi ча hisobotlarga tushadi;\nЬаrсhа chegaralar sozlanadi\n2 1.7 . Гtа hba riyat dashboardi\n. Jami texnika, online, harakatda, to'xtagan ча GPS aloqasi yo'q texnikalar soni\n40\n",
+   "source": "ocr",
+   "quality": 0.945,
+   "scanned": true,
+   "raw_chars": 1781
+  },
+  {
+   "page": 41,
+   "text": "- Bugungi topshiriqlar: bajarildi / qisman / bajarilmadi / kechikdi\n. Tumanlar ча mahallalar kesimida bajarilish foizi\n, Ochiq murojaatlar ча marshrutdan chiqishlar soni\n2 l .8\" i-l istlbtll itl l, vil eltspcll1\nHarakat hisoboti\nMashina; kun / hafta / оу\n: GPS tracker\nMashina, sana oralig'i\nHaydovchi, marshrut, hudud\nMarshrut, mashina\nТrасkеr + topshiriq\nMasofa, harakat vaqti\nча to'xtashlar\nTopshiriqlar baj arilishi\nMarshrut bajarilish\nfoizi ча chiqishlar\nGPS tracker\nTopshiriqlar\nIr{uqtalarga borilganlik\nBajarilmagan ча\nkechikkan topshiriqlar\nКо'сhаlаr qamrovi\nPoligon reyslari\nFotohisobotlar\nYoqilg'i sarfi\nNuqta, hudud, sana\nSana, hudud, haydovchi\nMahalla, tuman\nMashina, poligon\nSana, hudud, haydovchi,\nmashina\nMashina, sana oralig'i\nTracker / telefon GPS\nTopshiriqlar\nTelefon GPS\nGeofence\nЁ;;;hй\"ir\",\nDatchik yoki qo'lda\nkiritish\n\" Ваrсhа hisobotlar Excel (.xlsx) ча PDF formatlariga eksport qilinadi; katta\nhisobotlar fonda tayyorlanib, tayyor bo'lganda yuklab olinadi\n\" Yoqilg'i hisoboti tegishli datchik yoki ishonchli mапЬа bo'lganda aйomatik,\nbo'lmasa qo'lda kiritilgan ma'lumotlar asosida shakllanadi\n2 {\"1}- ýtrlхлtля,tч clcsport v* oclriq APl\n\" Tashqi tizimlar uchun hujjatlashtirilgan REST API (OpenAPI / Swagger)\n4\\\ni МапЬ*\n",
+   "source": "ocr",
+   "quality": 0.911,
+   "scanned": true,
+   "raw_chars": 1243
+  },
+  {
+   "page": 42,
+   "text": ". Import: mashinalar, haydovchilar, nuqtalar va marshrutlar - XLSX / CSV,\nvalidatsiya ча xatolar hisoboti bilan\n. Eksport: СSV, XLSX, JSON; geoma'lumotlar GeoJSON formatida\n. GPS provayder integratsiyasi hujjatlashtiriladi: autentifikatsiya, ma'lumot formati,\nyangilanish davriyligi va xatolarni qayta ishlash\n. Shartnoma tugaganda buyurtmachi ma'lumotlari to'liq eksport qilib topshiriladi\n(DB dump va fayllar)\n21.10. Zaxira пusха r,a l.iklaslr\n. PostgreSQl: hаr kuni to'liq zaxira nusxa ча WAL arxivi (point-in-time rесочеrу)\n. Fotohisobotlar va fayllar: kunlik zaxiranusxa\n\" Zaxirantrsxalar shifrlanadi va asosiy serverdan alohida joyda saqlanadi; saqlash\nmuddati - \nЗ0 kun (kunlik), 12 оу (oylik), buyurtmachi bilan kelishiladi\n. Tiklash ko'rsatkichlari: RPO {24 soat (PITR bilan < 15 daqiqa), RTO < 4 soat\n. Tiklash yo'riqnomasi tayyorlanadi va qabul qilishda test muhitga tiklash namoyish\netiladi\n. Ma'lumotlar O'zbekiston hududidagi serverlarda saqlanadi; mexanizm loyiha\ndavomida ijrochi tomonidan sozlanadi, topshirilgandan keyin ekspluatatsiya 19-\nbo'limga muvofiq buyurtmachiga o'tadi\n2t.I 1. Qo'slrilnclra ma'lunrotlar hazasi jadvrrllrrri\ngрsзrочidеrs\nid, nomi, turi (wialon / boshqa), api url, credential_ref,\npoll_interval_s, is_active\nvehicle_gps bindings\nvehicle_gpsjoints\nid, vehicle_id, provider_id, external unit_id, valid._from,\nvalid_to ; UNIQUE (provider_id, external_unit_id)\nvehicle_id, lat, lnj, ,|..d, .ourr., satellites, ignition,\nrеcorded_at, received_at; IINIQUE (vehiсle_id,\nrecorded_at); hypertable\nvehicle_stops\n42\nI\nid, vehicle_id, started_at, ended_at, location (Point),\nduration_s, reason\nlJarlval \nAsosip,, mауdопlаг\nв\n",
+   "source": "ocr",
+   "quality": 0.916,
+   "scanned": true,
+   "raw_chars": 1654
+  },
+  {
+   "page": 43,
+   "text": "collectionjoints\nroutes / route;loints\nschedules\nassignrnent_points\nphoto_reporls\nincidents / messages\nroute_events\nfuel records\nGЕТ /apiladmtrr/vehiclesl:tdltrack\nid, mahalla_id, nomi, manzil, location (Point), turi, holati,\ncontainer_count, izoh\nid, nomi, tuman_id, geometry (LineString) / route_id,\npoint_id, order_index\nid, rоutе_iа, u.bi.i\"_i;;;ri;.rjj, \n,..u...nce 1KunriK U\nhaftalik / oylik), days_of week\nassignment_id, point_id, status, visited_at, source (tracker\n:\n; / phone)\nI\ni id, assignment*id, point_id, file_key, lat, lng, ассurасу,\ncreated_at\nid, vehicle_id, assignment_id, turi (deviation / stop /\nmissedjoint / gps stale), started_at, ended_at\njoriy holati\nSana oralig'i bo'yicha\ntrek tarixi\n2 |. 12. Qo'strirncha API епdроiпtlаr\nl api l admin/gp s/vehi cl е s/li ve\nВаrсhа mashinalarning\nGET\n/apiladmin/vehicle s/ : id/stops\n, To'xtashlar ro'yxati\n4з\n!;acval\ni \nasosiv rnaydonlar\n, id, vehicle_id, date, litr, manba (sensor / mапuаl),\nentered_by\ntaken_at, idempotency_key\n!\nl\nl\nI\nl\n,-,,__l\n",
+   "source": "ocr",
+   "quality": 0.913,
+   "scanned": true,
+   "raw_chars": 1010
+  },
+  {
+   "page": 44,
+   "text": "CRUD\nCRUD\nCRUD\nCRUD\nl api l admin/gp s -provi ders\nl apil аdmiп/со llection-p oints\nlaptladmirr/routes\nlapiladmin/schedules\n/apildriver/assignments/: id/points/ \n: pointld/arrive\n/арildriчефhоtо -rероrts\n/apildriver/incidents\n/apildriver/messages\n/apiladmin/messages\nGPS provayderlar va\ntrackerlarni bog'lash\nKontayner va yig'ish\nnuqtalari\nMarshrutl ar у а nuqtalar\ntartibi\nKunlik/haftalik/oylik\nrejalar\nNuqtaga yetib kelish\nFotohisobot yuborish\n(idempotent)\nMurojaat yuborish\nPoST\nPoST\nPoST\nGET\nPoST\nGET\nGET\nPoST\nGET\nCRUD\nDispetcher xabarlari\nHaydovchiga xabar\nyuborish\nl арi l admin/da shb о ardls ummаry\nDashboard\nko'rsatkichlari\nl api l admilr/rep о rt s/ : typ е ? format:x \n1 sx \n| р df\nl api l аdmiп/imр о rtl : entity\nl арt l admtn/exp о rtl : entity ? fo rmat: с sv \n| х 1 sx I s on\nl api, l adiin/fu е l - rе с о rd s\nHisobot yaratish va\neksport\nXLSX / CSV import\nЙu'iu-оtlаrпi eksport\nYoqilg'i ma'lumotlari\n44\nry\nMetocl I Endpoint\nl\n-т\nl\ntril\nTavsif\n",
+   "source": "ocr",
+   "quality": 0.86,
+   "scanned": true,
+   "raw_chars": 960
+  },
+  {
+   "page": 45,
+   "text": "Qo'shimcha WebSocket kanallari va hodisalar: /ws/vehicles (tracker asosidagi jonli\njoylashuv), /ws/incidents; route.deviation, vehicle.stopped, point.visited,\nincident. created, gps.stale.\n2 1.1З. (Jrl'sýlimtc[ta test n\"lezolllari\n- Buyurtmachi tanlagan kamida 5 ta mashinaning tracker ma'lumotlari tizimga\nkeladi, to'g'ri mashinaga bog'lanadi va xaritada 60 soniyadan kam kechikish bilan\nko'rinadi\n, Tanlangan sana bo'yicha trek tarixi kolrinadi, to'xtashlar rea1 holat bilan mos\naniqlanadi\n, Marshrut yaratiladi, mashinaga biriktiriladi, reja ча fakt solishtiriladi; ataylab\nmarshrutdan chiqish hodisa yaratadi\n. Haydovchi fotohisobot yuboradi (shu jumladan internetsiz holatda), u topshiriq va\nnuq,taga bog'lanadi\n\" Haydovchi murojaat yuboradi, dispetcher uni ko'radi, izoh beradi va yopadi\n, Hisobotlar Ехсе1 va PDF'ga eksport qilinadi va qiymatlari tizimdagi ma'lumotlar\nbilan mos keladi\n, Zaxira nusxadan test muhitga tiklash namoyish etiladi\n, Rollar tekshiriladi: haydovchi boshqa haydovchi ma'lumotini, dispetcher ruxsat\nberilmagan tuman ma'lumotini ko'ra olmaydi\n2 i \" ! il. {,}'tliгisir v;r qo'llrrnrrralar\n. O'zbek tilida qo'llanmalar: haydovchi (rasmli, qisqa), dispetcher ча administrator\nuсhuп\n. Dispetcherlar ча administratorlar uchun amaliy o'quv mashg'uloti\n\" Haydovchilar uchun tumanlar kesimida yoki onlayn qisqa o'qitish va video\nqo'llanma\n22. MAVJUD ТОZЛLIЧЕ PLATFORMASIDA BAJARILGЛN ISHLAR\nLoyiha noldan boshlanmaydi. Ijrochi tomonidan Tozalive platformasi ishlab chiqilgan\nva production muhitida ishlamoqda. Ushbu TZ'dagi yangi modullar shu asosga\nqo'shiladi: autentifikatsiya, API Gateway, ma'lumotnomalar, deploy jarayoni ча\nmonitoring qayta ishlatiladi - \nЬu muddat va xarajatni kamaytiradi.\n45\n",
+   "source": "ocr",
+   "quality": 0.956,
+   "scanned": true,
+   "raw_chars": 1721
+  },
+  {
+   "page": 46,
+   "text": "Web platforma\nMobil ilova\nAI\nЁ;;;;;i;;\nBildirishnomalar\nMa'lumotlar\nInfratuzilma\nHujjatlar\nNestJS asosidagi microservice arxitekturasi, Prisma,\nPostgreSQl, TimescaleDB; Socket.IO orqali rеа1 vaqt;\nAPI - \napi.tozalive.uz\nNextjs asosidagi web admin ча monitoring paneli\n(tozahudud-ainazor at.uz), tozalive.uz sayti ; o'zbek ча rus\ntillari\nReact Native / Ехро ilovasi - Арр Store (iOS) va\nGoogle Рlау (Android); ОТА yangilanishlar (EAS\nUpdate)\nGemini asosidagi AI yordamchi; kamera tasvirlari orqali\nkontayner to'lganligini aniqlash (computer vision)\nEzVlzkameralari ulangan; Hikvision kаmеrаIаriпi\nintegratsiya qilish ishlari olib borilmoqda\nТеlеgrаm bot va Web Push bildirishnomalari\n7 tuman (Boysun, БЁ\"оч, Jarqo'rg'on, Oltinsoy,\nSherobod, Sho'rchi, Qumqo'rg'on) ча mаhаllаlаr\nma'lumotnomasi; mashinalar ish jadvali Excel'dan import\nqilingan\nKubernetes (kЗs), аrgоСБ 1Gitbps), Helm, Vault +\nExternal Secrets, Grafana monitoring; yangi production\nO'zbekistondagi Cloupard data markaztda (3 master + 3\nworker, PostgreSQl primary / replica, monitoring alohida\nserverda)\nDeploy va topshirish (handover) hujjatlari tayyorlangan\n46\nYo'ngIish\nBackend\n| Ваjаrilgап ishlar\n",
+   "source": "ocr",
+   "quality": 0.935,
+   "scanned": true,
+   "raw_chars": 1163
+  },
+  {
+   "page": 47,
+   "text": "",
+   "source": "none",
+   "quality": 0.3,
+   "scanned": true,
+   "raw_chars": 1695
+  },
+  {
+   "page": 48,
+   "text": "24. BUYURTMACHI TZ TALABLARIGA MUVOFIQLIK JADVALI\nJadvalda buyurtmachi TZ'sining (l-qism) har bir bandi bo'yicha bajarilish usuli ча\ntekshirish tartibi ko'rsatilgan (1-qism, 17. 1 -band talabi).\n:1.4_1.5,\n'4д\n,,4.1\nMavjud GPS bilan\nintegratsiya, oldindan\naudit\nTracker ID, davlat\nraqami, mashinani\nbog'lash\nKoordinat а, tez|ii;,\nyo'nalish, vaqt\nOnlinejoylashuv, iO-\n60 s yangilanish\n'l'arlxty marshrut,\nto'xtashlar, harakat\nboshi/oxiri\nGPS kechikishi yoki\nuzilishini ko'rsatish\n: 1-bosqichda SmartGPS /\n: Wialon auditi, yozma\n, xulosa (21.1)\nj------\n: vehicle_gps_bindings,\n: admin panelda bog'lash\n. (21.1)\n:\nProvayder API'dan a;r;i;\nTimescaleDB'da saqlash\n15-30 s polling,\n/ws/vehicles, jonli xarita\nTrek tarixi va to'xtash\naniqlash (21.1)\nONLINE / STALE /\nOFFLINE, oxirgi signal\nvaqti\n] Audit xulosasi\ntopshiriladi\n5* mashina bilan\ntest (21 .1З)\nDB va xaritada\nsolishtirish\nkechikish\no'lchanadi (S 60 s)\nReal to'xtashlar\nbilan solishtirish\nSignal\nto'xtatilganda\nholat o'zgaradi\nArxitektura\nhujjatida\nko'rsatiladi\nQayta yuborish\ntesti\n4.|\n4.|,4.2\n4.|\n4,1\n, 4.|\n4.|\nBir nechta provayderni\nbirlashtirish\nTakrorlanish ча\nnoto'g'ri bog'lanishning\noldini olish\nGpsProviderAdapter\ninterfeysi\nUNIQUE chekloviar,\ntalcoriy tracker\nogohlantirishi\n48\n1 Qnnd*v\n] tekýhirila*i\nl\nrZ \nlTalab \n] qanrtav bajarilatli\nli\nlandi \ni\nI\n]!\n",
+   "source": "ocr",
+   "quality": 0.961,
+   "scanned": true,
+   "raw_chars": 1318
+  },
+  {
+   "page": 49,
+   "text": "4.3, 18\n5, |2\nТrасkеrlаr\nalmashtirilmaydi,\nto' lovlar ko'rsatiladi\nAndroid ilova, login\nRead-only token; tо'lочlаr\nbuyurtmachida (16)\nReact Native / Ехро,\nAndroid 8+ (qo'shimcha\niOS); mavjud auth\nАРК o'rnatiladi,\n, kirish tekshiriladi\ni \n(IЗ.2)\nQabul qilish, boshlash, work_sessions, arrive\nyetib kelish, yakunlash endpoint, statuslar\nlVlashina, marshrut,\nnuqtalar navbati\nFotohisobot sana, vaqt,\nGPS bilan\nМuаmmо xabari,\ndispetcherdan xabar\no1ish\nOffline saqlash va\nsinxronlash\nAsosiy monitoring -\ntracker\nHaydovchi uchun\nxavfsiz interfeys\nBugungitopshiriqekrani Haydovchi\n(5.2,2|.2) \noperatsion testi\n13.2-bo'lim testi\n21.3-bo'1im\n21.1З testi\n21.4-bo'lim, push-\nbildirishnoma\n21.13 testi\n5, |2 \n, O'zbek ча rus tillari\nPersistent queue,\nidempotency (8-bo'lim)\nil8n (10.2)\nIkki mапЬа modeli (5.3,\n2|.|)\nKatta tugmalar, harakatda\nmatn kiritish cheklangan\nInternet\no'chirilgan holda\ntest\nIkki tilda\ntekshiriladi\nHujjatda ча testda\nDala testida\nbaholanadi\n5.1\n5.2\n49\nj Qanday bajariladi \nQanday\ni \n, tekshiriladi\nli\n5\n5\n",
+   "source": "ocr",
+   "quality": 0.951,
+   "scanned": true,
+   "raw_chars": 1017
+  },
+  {
+   "page": 50,
+   "text": ":|г1\n6\n6\n6.1\n7\n]--\n|7\n| 7,7 .|\nlB\nHududlar polygon,\nmarshrut chizish ча\nbiriktirish\nKontayner va yig'ish\nnuqtalari, atributlar\nReja va fakt\nsolishtirish, filtr,\nqidiruv, qatlamlar\nXarita litsenziyasi va\ngeodata eksporti\nKuniiKzb\"t\"riK/oylik\nreja, topshiriq kesimlari\nNuqtaga borilganlikni\ntekshirish\nBajarildi / qisman /\nbajarilmadi / kechikdi\nMarshrutdan chiqish,\nnuqtaga bormaslik\nDispetcher izohi, qayta\nyo'naltirish, tarix\nMahalla chegaralari,\nzопа|аr, routes (4, 2|.2)\nсоllесtiопзоiпts, import,\nmobil \"Nuqta qo'shish\"\n(2|.2)\nXaritada ikki qatlam, filtr\nva qidiruv\nweb adminda\n'tekshiriladi\npti; h\"d\"J\nnuqtalari kiritiladi\n,, tз.2 ya2I.t3\n] testlari\nGoogle Maps (to'lov\nbuyurtmachida),\nGеoJSON eksport (4.2,\n2\\.9)\nschedules, assignments\n(21.5)\nRadius uu K\"rirb uuqii\n(2|.2)\nДчtоmаiiК *utoru ir1.5''\nroute_events (21.6)\n2|.5, audit 1og (11-\nbo'lim)\nEksport fayli\ntekshiriladi\nReja yaratish testi\nDala testi\n13.2 testi\nAtaylab chiqish\nl testi\nAudit logda\n' tekshiriladi\nDashboard, xarita,\nma'lumotnomalar,\nаrхiч, rоllаr, jurпаl\n6-bo'1im,21.7\nweb admin ko'rib\nchiqiladi\n50\nщ\n6\nTal*b\n",
+   "source": "ocr",
+   "quality": 0.934,
+   "scanned": true,
+   "raw_chars": 1083
+  },
+  {
+   "page": 51,
+   "text": "9,9.1\n10\n11\nii\nHisobotlar, Ехсе1/\nРDF, yoqilg'i\n:\n:\nAPI, import / eksport,\nboshqa provayderlar\n:\n: Autentifikatsiya, rоllаr,\nhimoyalangan kanal,\n, раrоllаr\n, Kunlik zaxira nusxa ча\ntiklash\nServer joylashuvi,\n: ma'lumot egaligi\nAdaptiv web,\nmodullilik,\nmasshtablash, tezlik\nIsh bosqichlari\nTopshiriladigan\nnatijalar va huquqlar\nSinov va qabul qilish\nKafolat - \nб оу\nTaklif tarkibi\n21.8-bo'lim\nopenApl, xLSx l csv /\nJSON (21.9)\nMavjud auth, КВДС,\nHTTPS, hash (1 1-bo'lim)\n21 . 1O-bo'lim\nO'zbekistondagi r.rr.rr*\n(Cloupard), to'liq eksport\n(20,2|.9)\nEksport va\nqiymatlar\nsolishtiriladi\nSwagger va\nimport testi\nRollar testi\n(21.13)\nTiklash namoyishi\n|2\n11, l1.1\n13\n\\4, ii.,i\n1 0-bo'lim, microservice\naжitektura\n|4 уа 2З-Ьо'limlаr\nyuklama testi\n1 9 va 20-bo'1im\\ar, 2I.|4\n1З va 21 .13-bo'limlar\n18-bo'lim\nUshbu hujjat + alohida\nkommersial taklif\n15\n|6\n|7\n51\nTZ\nbandi\nQantlay bajariladi\nQanday\ntekshiriladi\nНаr bosqich\n",
+   "source": "ocr",
+   "quality": 0.881,
+   "scanned": true,
+   "raw_chars": 912
+  },
+  {
+   "page": 52,
+   "text": "25. KIBERхAVFSIZLIK EKSPERTIZASI\n<Toza huduф davlat muassasasi bo'lgani sababli, amaldagi qonunchilikka muvofiq\n(jumladan, O'zbekiston Respublikasi Prezidentining 2018-yi1 21-noyabrdagi PQ-4024-\nson qarori) texnik topshiriqni kkiberxavfsizlik markazi> Dt k bilan kelishish ча tizimni\nishga tushirishdan oldin kiberxavfsizlik ekspeftizasidan o'tkazish talab etiladi. Bu borada\ntomonlarning maj buriyatlari quyidagicha:\n\" Tizimni <Kibeжavfsizlik markazi> DUK bilan kelishish (1-bosqichgacha) va\nkiberxavfsizlik ekspertizasini (attestatsiyani) tashkil etish (5-bosqichda) ijrochi\ntomonidan amalga oshiriladi;\n, kiberxavfsizlik ekspertizasi, attestatsiya va sertifikatlash xizmatlari hamda\nularning to'lovlari loyiha doirasi ichiga kiradi\n\" Ijrochi ekspertiza uchun zaпlt texnik hujjatlarni tayyorlab beradi: aжitektura\nsxemasi, ma'lumotlar oqimi, foydalaniladigan himoya choralari, rol1ar ча\nruxsatlar, tarmoq ча sеrчеr tavsifi\n\" Ijrochi ekspertiza o'tkazilishi uchun test muhitini va tizimgacheklangan kirish\nhuquqini taqdim etadi\n, Ekspertiza natijasida aniqlangan, ushbgTZ doirasidagi dasturiy ta'minotga tegishli\nzaifliklar ijrochi tomonidan bepul bartaraf etiladi; muddati zaiflik darajasiga qarab\ntоmопlаr tomonidan kelishiladi\n\" sеrvеI, tarmoq, infratuzilma ча uchinchi tomon xizmatlariga tegishli kamchiliklar\nhamda ekspertiza tomonidan qo'yilgan, TZ'dako'zda tutilmagan yangi talablar\nChange Request sifatida baholanadi (17-bo'lim)\n- Ekspertizaпi kutish va o'tkazish vaqti loyiha muddatiga (14-bo'1im) kirmaydi ча\nijrochining kechikishi hisoblanmaydi\n52\n",
+   "source": "ocr",
+   "quality": 0.94,
+   "scanned": true,
+   "raw_chars": 1559
+  }
+ ],
+ "chars": 67725,
+ "unreadable_pages": [
+  18,
+  47
+ ]
+}
