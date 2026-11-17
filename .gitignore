@@ -1,0 +1,18 @@
+# separate repos / other ideas
+quarry/
+permits/
+
+# big stuff, re-download with `python -m engine.snapshot` + `python -m engine.extract --all`
+tenderlens/data/specs/
+tenderlens/data/text/pages/
+
+# wip reviews
+tenderlens/review/
+
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.env.*
+*.log
