@@ -1,0 +1,7 @@
+requests
+pymupdf
+pypdf
+python-docx
+fastapi
+uvicorn[standard]
+anthropic        # only needed for live analysis (ANTHROPIC_API_KEY)
