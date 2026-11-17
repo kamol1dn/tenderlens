@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TenderLens</title>
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#/">
+      <img src="assets/logo.svg" alt="" width="34" height="34">
+      <span class="brand-name">Tender<b>Lens</b></span>
+    </a>
+    <nav class="tabs" aria-label="Bo'limlar">
+      <a href="#/" data-tab="supplier">Yetkazib beruvchi</a>
+      <a href="#/gov" data-tab="gov">Davlat nazorati paneli</a>
+    </nav>
+    <form class="quick" id="quickForm" autocomplete="off">
+      <input id="quickInput" type="text" inputmode="text" placeholder="Lot raqami yoki etender havolasi" aria-label="Lot raqami yoki havola">
+      <button type="submit">Tahlil</button>
+    </form>
+  </div>
+</header>
+
+<main id="view" class="view" tabindex="-1"></main>
+
+<footer class="foot">
+  <span>TenderLens — maslahat beruvchi vosita. Har bir belgi hujjatdan so'zma-so'z iqtibos bilan ko'rsatiladi; yakuniy qarorni inson qabul qiladi.</span>
+  <span class="foot-right">
+    <button id="presentSwitch" class="switch" type="button" aria-pressed="false" title="Buyurtmachi nomlarini yashirish (sahna uchun)">Taqdimot rejimi: <b>o'chiq</b></button>
+    <span id="sourceBadge" class="source"></span>
+  </span>
+</footer>
+
+<div id="modal" class="modal" hidden>
+  <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-head">
+      <h2 id="modalTitle"></h2>
+      <button class="icon-btn" id="modalClose" aria-label="Yopish">&times;</button>
+    </div>
+    <div id="modalBody" class="modal-body"></div>
+    <div id="modalFoot" class="modal-foot"></div>
+  </div>
+</div>
+<div id="toast" class="toast" hidden></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
