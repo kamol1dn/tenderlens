@@ -37,6 +37,29 @@ Engine, app and deck were stopped by a manual interrupt at 22:48 and resumed at 
   - Reported to @S0me2 in msg 295.
 - **Deck:** asked to add one Quarry "scale" slide (3 platforms live) to both decks, with no claim about the AI generator.
 
+**~11:45: official rules found** (https://ai-hackathon.uz/Nizom%20-%20Umummilli%20Xakoton.pdf; I read the PDF)
+- **6.3:** the project must be built from scratch ("noldan") during the hackathon. Open-source libraries are allowed; the core AI must be the team's own work.
+- **9.3:** presenting a previously prepared product (plagiarism) means immediate disqualification.
+- **Decision:** Quarry is out of the deck, the demo and the Q&A. It goes back only on a mentor's written OK. The Telegram part of the demo becomes the TenderLens bot, which needs a token from Kamoliddin.
+- **Rubric (7.2):** 7 criteria scored 1–5, no weights: track fit, AI innovation, technical quality, UI/UX, scalability, pitch, time and rules.
+- **Schedule:** the 20 finalists are announced today at 19:00; pitches start 19 Nov at 10:00; winners at 14:00. Only 1st place goes on to the national final.
+
+**Reviews** (all in `review/`)
+- **research.md:** done.
+- **redteam-ui.md:** done. 4 critical findings: presentation-mode name leaks, mode off by default, closed lots, projector legibility. Sent to the app session.
+- **grader.md:** done. Odds: finalist ~72%, top 3 ~48%, win ~19%. Sent raw to @S0me2 (msg 311). Main gaps:
+  - business model for this track;
+  - slide 6 placeholders;
+  - 3 claims a judge could break;
+  - too many slides.
+- **redteam-judges.md:** done. The core numbers hold. 19 wrong or misleading claims and 7 unsupported ones were listed, plus 15 Q&A answers.
+- **Routing:** both reports went to the deck as batches 2 and 3. The neutral flag-chip wording went to the app.
+- **Labels:** Bobur's first file was rejected as rushed (37 answers in 66 s). It's saved as `incoming/labels_bobur_rushed_DO_NOT_IMPORT.json`. Redo requested.
+- **Open:** the product's live LLM path has never run because there's no ANTHROPIC_API_KEY. A judge saying "analyse this lot now" can't be answered live.
+- **Deck:** asked to remove Quarry, apply the research fixes, move the demo lead off 524954 (it closes today at 17:50) and prepare a 3-minute cut.
+
+**Repo:** https://github.com/kamol1dn/tenderlens (private). 22 dated commits plus the deck fix. Not included: quarry/, permits/, spec PDFs, page renders, review/.
+
 **Morning checklist (team)**
 1. Two people check the three lead flags by hand against the specs (`data/eval/hero_check.md`).
 2. Two people spend about an hour on the labelling page (http://127.0.0.1:8765/label). Then run `python -m engine.evalset score`, put the numbers in `deck/deck-data.json` and run `node deck/build/build_deck.js`.
