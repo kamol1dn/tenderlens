@@ -562,7 +562,7 @@ async function build() {
     txt(s, f.d, { x: fx + 0.3, y: 5.05, w: pcw - 0.6, h: 1.5, fontSize: 14, color: f.dc });
     if (i < 2) s.addShape(pres.shapes.ISOSCELES_TRIANGLE, { x: fx + pcw + 0.03, y: 5.37, w: 0.19, h: 0.19, rotate: 90, fill: { color: COL.muted }, line: { color: COL.muted }, objectName: "flow arrow" });
   });
-  source(s, "Manba: Quarry jonli tekshiruvi, 17–18.11.2026 (quarry/TENDERLENS.md, \"Other platforms\"); UZEX etender, UZTender, xarid.icppa.uz ochiq sahifalari. 2 ta mustaqil tender platformasi + davlat portali");
+  source(s, "Manba: Quarry jonli tekshiruvi, 17–18.11.2026 (quarry/TENDERLENS.md, \"Other platforms\"); UZEX etender, UZTender, xarid.icppa.uz ochiq sahifalari");
   notes(s, "Miqyos: Quarry", "3:45–4:05",
     "TenderLens bitta saytga bog'lanib qolmagan. Jamoadoshimizning Quarry dvigateli bugun uchta saytni jonli o'qiydi, ulardan ikkitasi mustaqil tender platformasi: UZEX etender, 662 ta ochiq lotning hammasi, har biri texnik topshiriq havolasi bilan, 245 soniyada; UZTender, 100 lotlik namuna 76 soniyada, har birida nom, buyurtmachi va narx. Uchinchisi davlat xaridlari portali xarid.icppa.uz: u UZEX tenderlarini qayta e'lon qiladi, 20 lotlik jonli namuna olindi. " +
     "Diqqat: \"uchta platforma\" demang. To'g'ri ibora: \"uchta sayt, ikkita mustaqil tender platformasi\". " +
