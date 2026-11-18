@@ -24,6 +24,9 @@ import webbrowser
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import masking  # noqa: E402  (shared presentation-mode title masking)
+
 try:
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
@@ -77,35 +80,46 @@ def lot_id_from(value):
     return int(s)
 
 
-_subject_cache = {}
+_lot_cache = {}
 
 
-def subject_for(lot_id):
-    """subject_uz (Latin title) from the cached lot file; index.json doesn't carry it."""
+def lot_extras(lot_id):
+    """(subject_uz, title_present) from the cached lot file; index.json carries neither."""
     f = CACHE / "lots" / f"{lot_id}.json"
     try:
         mt = f.stat().st_mtime
     except OSError:
-        return None
-    hit = _subject_cache.get(lot_id)
+        return None, None
+    hit = _lot_cache.get(lot_id)
     if hit and hit[0] == mt:
         return hit[1]
     try:
-        val = json.loads(f.read_text(encoding="utf-8")).get("subject_uz")
+        lot = json.loads(f.read_text(encoding="utf-8"))
+        val = (lot.get("subject_uz"), masking.present_title(lot))
     except Exception:
-        val = None
-    _subject_cache[lot_id] = (mt, val)
+        val = (None, None)
+    _lot_cache[lot_id] = (mt, val)
     return val
 
 
 def enrich_index(rows):
     if isinstance(rows, list):
         for r in rows:
-            if isinstance(r, dict) and not r.get("subject_uz") and r.get("lot_id"):
-                s = subject_for(r["lot_id"])
-                if s:
-                    r["subject_uz"] = s
+            if isinstance(r, dict) and r.get("lot_id"):
+                subj, pres = lot_extras(r["lot_id"])
+                if subj and not r.get("subject_uz"):
+                    r["subject_uz"] = subj
+                r["title_present"] = pres or masking.present_title(r)
     return rows
+
+
+def enrich_lot(obj):
+    if isinstance(obj, dict) and obj.get("lot_id"):
+        try:
+            obj["title_present"] = masking.present_title(obj)
+        except Exception:
+            obj["title_present"] = masking.SECTOR_TITLE.get(obj.get("sector"), masking.SECTOR_TITLE["other"])
+    return obj
 
 
 class Handler(SimpleHTTPRequestHandler):
@@ -154,6 +168,8 @@ class Handler(SimpleHTTPRequestHandler):
                 return self.send_json({"detail": "analysis_unavailable"}, 503, "cache")
             if kind == "index":
                 obj = enrich_index(obj)
+            elif rel.startswith("lots/"):
+                obj = enrich_lot(obj)
             return self.send_json(obj, 200, "cache")
         return self.send_json({"detail": "analysis_unavailable"}, 503, "cache")
 
@@ -164,6 +180,8 @@ class Handler(SimpleHTTPRequestHandler):
                 status, obj = got
                 if path == "/api/lots":
                     obj = enrich_index(obj)
+                elif path.startswith("/api/lots/") or path.startswith("/api/analyze"):
+                    obj = enrich_lot(obj)
                 return self.send_json(obj, status, "engine")
         if method == "POST" and path.startswith("/api/analyze"):
             try:

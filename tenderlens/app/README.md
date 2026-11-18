@@ -27,13 +27,19 @@ Deep links for demos and screenshots (add `?present=1` before the `#`):
 
 ## Where the data comes from
 
-`serve.py` answers the engine's `/api/*` routes (CONTRACT.md). It uses the engine on `127.0.0.1:8765` when that answers, otherwise the engine's offline cache in `data/cache/` (`--data DIR` points it at a copied cache on another laptop). A lot found in neither returns HTTP 503 `analysis_unavailable`, and the UI shows "hali tahlil qilinmagan". There is **no mock data**: every score on screen comes from the engine. The footer badge shows the source.
+`serve.py` answers the engine's `/api/*` routes (CONTRACT.md). It uses the engine on `127.0.0.1:8765` when that answers, otherwise the engine's offline cache in `data/cache/` (`--data DIR` points it at a copied cache on another laptop). A lot found in neither returns HTTP 503 `analysis_unavailable`, and the UI shows "hali tahlil qilinmagan". There is **no mock data**: every score on screen comes from the engine. The footer badge shows the source. Requests time out after 9 s and show a short Uzbek message with a "Qayta yuklash" button.
 
-Rules the UI enforces: unverified flags never appear; flags sharing a `group_id` show as one card; `page: 0` / `source: "platform_form"` reads "platform mezonlari formasi"; every savings figure says **taxminiy**; customers with `customer_kind` joint_venture/private are left out of the government queue; the banned word from CONTRACT.md never appears.
+Rules the UI enforces: unverified flags never appear; flags sharing a `group_id` show as one card; `page: 0` / `source: "platform_form"` reads "Platforma mezonlari formasi"; every savings figure says **taxminiy**; customers with `customer_kind` joint_venture/private are left out of the government queue; the banned word from CONTRACT.md never appears.
 
 ## Presentation mode (for the stage and the deck)
 
-Footer switch **"Taqdimot rejimi"**, or open `http://127.0.0.1:8780/?present=1`. It replaces customer names with "Buyurtmachi A/B/C…" on every screen (lists, lot page, customer card, letters, correction request) and hides TINs. Letters follow the dashboard's risk order, so a customer keeps its letter across screens and in the bot (`python bot/tenderlens_bot.py --present --dry-run 524954`). Titles use the engine's Latin `subject_uz`; quoted or legal-form organisation names inside titles are blanked as "…".
+**On by default.** The top bar shows "● Taqdimot rejimi: yoqilgan"; click it to switch off (or open `/?present=0`). In presentation mode:
+- customer names become "Buyurtmachi A … Z", then "Buyurtmachi 27, 28…" (no two-letter aliases that read like "AJ"); TINs are hidden; the order follows the dashboard's risk order, so a customer keeps its alias on every screen and in the bot;
+- titles come from `app/masking.py` (`title_present`, computed by `serve.py` and shared with the bot): place names, legal forms, numbered institutions ("9-sonli MTT"), addresses, unique institutions (hospital, prosecutor's office, journal, airport…) are removed; a title that still identifies the customer is cut to the part after "uchun" or replaced by a neutral sector title. The three demo lots have hand-checked titles;
+- the region, the etender.uzex.uz link and the customer search terms are hidden; the letters' "Xarid predmeti" line uses the neutral title;
+- free text (letters, reasons, explanations, quotes) is masked by the same rules in `app/assets/app.js`.
+
+A lot past its `end_date` shows a "Lot yopilgan" banner, no bid advice and no letter deadline; lists show a "yopilgan" pill and put open lots first.
 
 ## Screenshots for the deck
 

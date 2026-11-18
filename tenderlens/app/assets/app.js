@@ -116,7 +116,19 @@
   async function api(path, opts) {
     const k = path + (opts && opts.body ? opts.body : "");
     if (!opts && cache[k]) return cache[k];
-    const r = await fetch("api/" + path, opts);
+    // a hung engine must not mean an endless spinner: give up after 9 s
+    const ctl = typeof AbortController !== "undefined" ? new AbortController() : null;
+    const timer = ctl ? setTimeout(() => ctl.abort(), 9000) : null;
+    let r;
+    try {
+      r = await fetch("api/" + path, Object.assign({}, opts || {}, ctl ? { signal: ctl.signal } : {}));
+    } catch (err) {
+      const e = new Error("network");
+      e.status = 0;
+      throw e;
+    } finally {
+      if (timer) clearTimeout(timer);
+    }
     setSource(r.headers.get("X-TenderLens-Source"));
     if (!r.ok) {
       const e = new Error("HTTP " + r.status);
@@ -132,17 +144,20 @@
     if (!src || src === lastSource) return;
     lastSource = src;
     const b = $("#sourceBadge");
-    const label = { engine: "Ma'lumot: TenderLens engine", cache: "Ma'lumot: oflayn kesh", mock: "NAMUNA ma'lumot", none: "Ma'lumot yo'q" }[src] || src;
+    const label = { engine: "Manba: UZEX etender, 18-noyabr holati", cache: "Manba: UZEX etender, oflayn nusxa", none: "Ma'lumot yo'q" }[src] || src;
     b.textContent = label;
     b.className = "source " + src;
   }
   const notAnalysed = (e) => e && (e.status === 404 || e.status === 503);
+  const FRIENDLY_ERR = "Server javob bermadi. Birozdan so'ng qayta urinib ko'ring.";
+  const retryBtn = () => `<button class="btn secondary" onclick="location.reload()">Qayta yuklash</button>`;
 
   // ---------------------------------------------------------------- presentation mode
   // Masks customer names as "Buyurtmachi A/B/C…" on every screen. Letters follow the risk order of
   // the index, so the same customer gets the same letter on the dashboard, lot page and bot.
-  let PRESENT = false;
-  try { PRESENT = localStorage.getItem("tl_present") === "1"; } catch (_) { /* storage blocked */ }
+  // ON by default: only an explicit "0" (footer/top-bar switch or ?present=0) shows real names
+  let PRESENT = true;
+  try { PRESENT = localStorage.getItem("tl_present") !== "0"; } catch (_) { /* storage blocked */ }
   (function () {
     const sp = new URLSearchParams(location.search);
     const hp = new URLSearchParams((location.hash.split("?")[1]) || "");
@@ -155,16 +170,13 @@
     document.body.classList.toggle("present", PRESENT);
     const sw = $("#presentSwitch");
     if (sw) { sw.setAttribute("aria-pressed", String(PRESENT)); sw.querySelector("b").textContent = PRESENT ? "yoqilgan" : "o'chiq"; }
-    if (!quiet) route();
+    if (!quiet) { cacheKeysReset(); route(); }
   }
   const aliasMap = new Map();
   let aliasNext = 0;
-  function letter(n) {
-    let s = "";
-    n += 1;
-    while (n > 0) { const m = (n - 1) % 26; s = String.fromCharCode(65 + m) + s; n = Math.floor((n - 1) / 26); }
-    return s;
-  }
+  // A…Z, then 27, 28… (two-letter aliases like "AJ", "AK" would read as legal forms)
+  function letter(n) { return n < 26 ? String.fromCharCode(65 + n) : String(n + 1); }
+  function cacheKeysReset() { Object.keys(cache).forEach((k) => { const v = cache[k]; if (Array.isArray(v)) v.forEach((l) => { delete l._k; }); }); }
   function custKey(tin, name) { return String(tin || "") || norm(name).toLowerCase(); }
   function alias(tin, name) {
     const k = custKey(tin, name);
@@ -204,9 +216,11 @@
   const isUpperStart = (t) => /^[A-ZА-ЯЁЎҚҒҲ]/.test(stripTok(t));
   function isLegalTok(t) {
     const b = stripTok(t);
-    if (!b || b.length > 7) return false;
-    if (!(b === b.toUpperCase() || /^m\.?ch\.?j\.?$/i.test(b))) return false;
-    return LEGAL.has(key(b).replace(/ /g, ""));
+    if (!b || b.length > 10) return false;
+    const cands = [b];
+    const sm = b.match(/^(.{2,6}?)(dagi|ning|dan|da|ga|ni|si|ka|qa)$/);  // "AJda", "MChJga"
+    if (sm) cands.push(sm[1]);
+    return cands.some((c) => c.length <= 7 && (c === c.toUpperCase() || /^m\.?ch\.?j\.?$/i.test(c)) && LEGAL.has(key(c).replace(/ /g, "")));
   }
   function nameWords(names) {
     const set = new Set();
@@ -235,7 +249,13 @@
         n += end - j + 1; j = end + 1;
       }
     });
-    if (nameSet && nameSet.size) w.forEach((t, i) => { const k = key(stripTok(t)); if (k && (isUpperStart(t) || OPENQ.test(t)) && nameSet.has(k)) m[i] = true; });
+    if (nameSet && nameSet.size) w.forEach((t, i) => {
+      const k = key(stripTok(t));
+      if (!k || !(isUpperStart(t) || OPENQ.test(t))) return;
+      for (const n of nameSet) {
+        if (k === n || (n.length >= 5 && k.startsWith(n)) || (k.length >= 5 && n.length >= 8 && n.startsWith(k))) { m[i] = true; break; }
+      }
+    });
     // "<Proper noun> … shifoxonasi / markazi / banki": a named institution -> blank the whole phrase
     w.forEach((t, i) => {
       const k = key(stripTok(t));
@@ -272,10 +292,34 @@
       s = s.replace(/(^|[\s(«"“,])[A-ZА-ЯЁЎҚҒҲ]\.\s?(?:[A-ZА-ЯЁЎҚҒҲ]\.\s?)?[A-ZА-ЯЁЎҚҒҲ][a-zа-яёўқғҳ'ʻ’‘-]{2,}/g, "$1…");
       s = s.replace(/(^|[\s(«"“,])[A-ZА-ЯЁЎҚҒҲ][a-zа-яёўқғҳ'ʻ’‘-]{2,}\s[A-ZА-ЯЁЎҚҒҲ]\.\s?[A-ZА-ЯЁЎҚҒҲ]\.?/g, "$1…");
       s = s.replace(/(STIR|СТИР|ИНН|INN|TIN)\s*[:№]?\s*\d{9}(?!\d)/gi, "$1: •••");
-      return s.replace(/(^|\D)\d{9}(?!\d)/g, "$1•••");
+      s = s.replace(/(^|\D)\d{9}(?!\d)/g, "$1•••");
+      s = s.replace(/(^|[^\w.])\d{1,4}\s?-\s?(sonli|son|сонли|сон|OP|ОП|DMTT|MTT|ММТТ|МТТ)(?![\wа-яёўқғҳ])/g, "$1…");  // numbered institutions
+      return s.replace(/…(\s*…)+/g, "…");
     }).join("\n");
   }
   const maskQuotedOrgs = (s) => maskOrgs(s, []);
+  // region / city / district names in free text (title + place can name the customer)
+  const PLACES = new Set(("toshkent samarqand buxoro andijon namangan farg'ona fargona navoiy jizzax sirdaryo surxondaryo qashqadaryo " +
+    "xorazm qoraqalpog'iston nukus termiz qarshi guliston urganch chirchiq bekobod olmaliq angren ohangaron kogon marg'ilon qo'qon " +
+    "shahrisabz denov zarafshon yangiyer gazli muborak xiva").split(" ").map((x) => key(x)));
+  function maskPlaces(text) {
+    return String(text || "").split("\n").map((line) => {
+      line = line.replace(/(^|[^\w'‘’ʻ])[A-ZА-ЯЁЎҚҒҲ][\w'‘’ʻ-]+\s+(viloyat|shahar|shahr|tuman)\w*/g, "$1…");
+      line = line.split(/(\s+)/).map((w) => {
+        const b = stripTok(w);
+        const k = key(b);
+        const base = k.replace(/(dagi|ning|dan|da|ga)$/, "");
+        if (b && /^[A-ZА-ЯЁЎҚҒҲ]/.test(b) && (PLACES.has(k) || PLACES.has(base))) return w.replace(b, "…");
+        // hyphen-joined: "DAP-Toshkent"
+        b.split(/[-–]/).forEach((p) => {
+          const kp = key(p);
+          if (p.length > 3 && /^[A-ZА-ЯЁЎҚҒҲ]/.test(p) && (PLACES.has(kp) || PLACES.has(kp.replace(/(dagi|ning|dan|da|ga)$/, "")))) w = w.replace(p, "…");
+        });
+        return w;
+      }).join("");
+      return line.replace(/…(\s*…)+/g, "…");
+    }).join("\n");
+  }
   // remove the customer's own name/TIN from free text (letters, reasons, explanations)
   function scrub(text, lot) {
     if (!PRESENT || !text) return text || "";
@@ -283,7 +327,7 @@
     const c = (lot && lot.customer) || {};
     if (c.name && c.name.length > 3) out = out.split(c.name).join(alias(c.tin, c.name));
     if (c.tin) out = out.split(String(c.tin)).join("•••");
-    return maskOrgs(out, c.name ? [c.name] : []);
+    return maskPlaces(maskOrgs(out, c.name ? [c.name] : []));
   }
   // a title that still looks like it names an organisation falls back to "Lot № … · sector"
   function riskyTitle(t) {
@@ -294,19 +338,26 @@
     if (/(^|\s)[A-ZА-ЯЎҚҒҲ][^\s]*\s+(bank|banki|банк|банки)(\s|$)/.test(t)) return true; // "Markaziy bank", "Xalq banki"
     return words.some((x) => /^[A-ZА-ЯЁЎҚҒҲ'‘’ʻ-]{4,}$/.test(x) && !/^(ISO|IAAS|GOST|LED|CCTV|SCADA|USB|HDMI|LCD)$/.test(x));
   }
+  // presentation titles are decided on the server (app/masking.py -> title_present), shared with the bot
+  const SECTOR_TITLE = { health: "Sog'liqni saqlash sohasidagi xarid", education: "Ta'lim sohasidagi xarid", construction: "Qurilish ishlari xaridi", it: "Axborot texnologiyalari xaridi", food: "Ovqatlanish xizmati xaridi", other: "Davlat xaridi" };
   function lotTitle(l) {
     const t = l.subject_uz || l.title_uz || l.title || "";
     if (!PRESENT) return t;
+    if (l.title_present) return l.title_present;
     const names = [l.customer_name, l.customer && l.customer.name].filter(Boolean);
     let out = t;
     names.forEach((n) => { if (n.length > 3) out = out.split(n).join("…"); });
     out = maskOrgs(out, names);
-    return riskyTitle(out) ? `Lot № ${l.lot_id} · ${SECTOR[l.sector] || "xarid"}` : out;
+    return riskyTitle(out) || /…/.test(out) ? SECTOR_TITLE[l.sector] || SECTOR_TITLE.other : out;
   }
+  // region: hidden in presentation mode (title + region can name the customer), Latin otherwise
+  const regionText = (r) => (PRESENT || !r ? "" : translit(r));
 
   const verifiedFlags = (lot) => (lot.flags || []).filter((f) => f.quote_verified === true);
   const isPlatform = (x) => x && (x.source === "platform_form" || x.page === 0 || x.page === "0");
-  const whereText = (x) => (isPlatform(x) ? "platform mezonlari formasi" : x && x.page ? `${x.page}-sahifa` : "");
+  const whereText = (x) => (isPlatform(x) ? "Platforma mezonlari formasi" : x && x.page ? `${x.page}-sahifa` : "");
+  const isClosed = (l) => !!(l && l.end_date && new Date(l.end_date) < new Date());
+  const closedPill = '<span class="pill closed">yopilgan</span>';
 
   const FLAG_TYPE = {
     brand_no_equivalent: "Brend «yoki ekvivalent»siz",
@@ -351,11 +402,34 @@
     const cut = s.lastIndexOf(" ", n);
     return s.slice(0, cut > n * 0.6 ? cut : n) + "…";
   }
+  // whole sentences up to `max` characters; never cut a sentence mid-way unless the first one alone is huge
+  function sentences(s, max) {
+    s = norm(s);
+    if (s.length <= max) return s;
+    const parts = s.match(/[^.!?]+[.!?]+(\s|$)|[^.!?]+$/g) || [s];
+    let out = "";
+    for (const p of parts) {
+      if ((out + p).trim().length > max) break;
+      out += p;
+    }
+    out = out.trim();
+    if (out) return out;
+    const first = (parts[0] || "").trim();
+    if (first && first.length <= max * 1.9) return first;  // one whole sentence beats a cut one
+    const semi = s.lastIndexOf(";", max);
+    if (semi > max * 0.5) return s.slice(0, semi) + ".";
+    return clip(s, max);
+  }
+  // one vocabulary in the verdict card: "sahifa" (not "bet"), "Platforma mezonlari formasi"
+  function tidyReason(r) {
+    return String(r).replace(/(\d+)-bet\)/g, "$1-sahifa)").replace(/\(platformadagi mezonlar\)/g, "(Platforma mezonlari formasi)");
+  }
   function cleanDocs(list) {
     const seen = new Set();
-    return (list || []).map(norm).filter((d) => {
+    return (list || []).map((d) => norm(d).replace(/^[-–•*]\s*/, "")).filter((d) => {
       if (!d || /^[\d\s.-]*(-?shakl|shakli|форма)?\s*:?\s*$/i.test(d) || /:\s*$/.test(d) && d.length < 14) return false;
-      const k = d.toLowerCase();
+      if (/[Ѐ-ӿ]/.test(d)) return false;  // raw Russian/Cyrillic source lines
+      const k = key(d).replace(/\s+/g, "").slice(0, 40);
       if (seen.has(k)) return false;
       seen.add(k);
       return true;
@@ -424,11 +498,13 @@
 
   // ---------------------------------------------------------------- supplier home
   let lastQuery = "";
+  // demo order: lots still open on 19 Nov first (524954 closes 18 Nov 17:50)
   const DEMO_CHIPS = [
-    ["524954", "suv ombori loyihasi"],
     ["525192", "ajratgich, 2 dona"],
     ["524769", "shifoxona ovqati"],
+    ["524954", "suv ombori loyihasi"],
   ];
+  let homeLimit = 12;
   async function renderHome(q) {
     if (q != null) lastQuery = q;
     setTab("supplier");
@@ -442,7 +518,7 @@
         <form id="bigForm" autocomplete="off">
           <div class="search-big">
             <input id="bigInput" placeholder="etender.uzex.uz/lot/… havolasi yoki lot raqami" aria-label="Lot havolasi yoki raqami">
-            <button class="btn" type="submit">Tahlil qilish</button>
+            <button class="btn" type="submit">Ochish</button>
           </div>
           <div class="examples">Namuna: ${DEMO_CHIPS.map(([id, t]) => `<a class="chip" href="#/lot/${id}">${id} · ${esc(t)}</a>`).join(" ")}</div>
         </form>
@@ -465,30 +541,36 @@
     try {
       index = await api("lots");
     } catch (e) {
-      $("#lotList").innerHTML = `<div class="card empty">${notAnalysed(e) ? "Tahlil qilingan lotlar hali yo'q." : `Lotlar ro'yxatini yuklab bo'lmadi (${esc(e.message)}).`}</div>`;
+      $("#lotList").innerHTML = `<div class="card empty">${notAnalysed(e) ? "Tahlil qilingan lotlar hali yo'q." : `${FRIENDLY_ERR}<div style="margin-top:12px">${retryBtn()}</div>`}</div>`;
       return;
     }
     buildAliases(index);
-    index.forEach((l) => { if (!l._k) l._k = key([l.title, l.subject_uz, l.customer_name].join(" ")); });
+    // in presentation mode the search sees only the masked title, never the hidden customer name
+    index.forEach((l) => { l._k = key(PRESENT ? lotTitle(l) : [l.title, l.subject_uz, l.customer_name].join(" ")); });
     const draw = () => {
       const q = $("#kw").value;
       lastQuery = q;
       const stems = queryStems(q);
       let rows;
+      let total;
       if (!stems.length) {
-        rows = index.slice().sort(riskSort).slice(0, 12).map((l) => ({ l, s: 0 }));
+        rows = index.slice().sort(listSort).map((l) => ({ l, s: 0 }));
         $("#matchCount").textContent = `${index.length} ta tahlil qilingan lot`;
       } else {
         rows = index.map((l) => ({ l, s: matchScore(l._k, stems) })).filter((x) => x.s > 0)
-          .sort((a, b) => b.s - a.s || riskSort(a.l, b.l));
+          .sort((a, b) => b.s - a.s || listSort(a.l, b.l));
         $("#matchCount").textContent = `${rows.length} ta mos lot`;
-        rows = rows.slice(0, 30);
       }
-      $("#lotList").innerHTML = rows.length
+      total = rows.length;
+      rows = rows.slice(0, homeLimit);
+      $("#lotList").innerHTML = (rows.length
         ? rows.map(({ l }) => lotRow(l, stems)).join("")
-        : `<div class="card empty">Mos lot topilmadi. Boshqa so'z bilan urinib ko'ring.</div>`;
+        : `<div class="card empty">Mos lot topilmadi. Boshqa so'z bilan urinib ko'ring.</div>`) +
+        (total > homeLimit ? `<div class="more"><button class="btn ghost" id="homeMore">Yana ko'rsatish (${grp(total - homeLimit)} ta qoldi)</button></div>` : "");
+      const hm = $("#homeMore");
+      if (hm) hm.addEventListener("click", () => { homeLimit += 24; draw(); });
     };
-    $("#kw").addEventListener("input", draw);
+    $("#kw").addEventListener("input", () => { homeLimit = 12; draw(); });
     draw();
   }
 
@@ -502,12 +584,19 @@
   }
   function lotRow(l, stems) {
     const left = timeLeft(l.end_date);
-    return `<a class="card lot-row" href="#/lot/${l.lot_id}">
-      <div><div class="t">${highlightTitle(lotTitle(l), stems)}</div><div class="c">№ ${l.lot_id} · ${esc(custName(l.customer_name, l.customer_tin))}${l.region ? " · " + esc(l.region) : ""}</div></div>
+    const closed = isClosed(l);
+    const reg = regionText(l.region);
+    return `<a class="card lot-row${closed ? " is-closed" : ""}" href="#/lot/${l.lot_id}">
+      <div><div class="t">${highlightTitle(lotTitle(l), stems)}</div><div class="c">№ ${l.lot_id} · ${esc(custName(l.customer_name, l.customer_tin))}${reg ? " · " + esc(reg) : ""}</div></div>
       <div>${lightPill(l.traffic_light, l.fairness_score)}</div>
       <div><div class="num">${esc(money(l.start_cost, l.currency))}</div><div class="sub">boshlang'ich narx</div></div>
-      <div><div class="num">${esc(fmtDate(l.end_date))}</div><div class="sub">${esc(left || "takliflar muddati")}</div></div>
+      <div><div class="num">${esc(fmtDate(l.end_date))}</div><div class="sub">${closed ? closedPill : esc(left || "takliflar muddati")}</div></div>
     </a>`;
+  }
+  // lists: open lots first, then the risk order (aliases keep using riskSort so letters never move)
+  function listSort(a, b) {
+    const ca = isClosed(a) ? 1 : 0, cb = isClosed(b) ? 1 : 0;
+    return ca - cb || riskSort(a, b);
   }
 
   // risk order: scored first, lowest fairness first, then larger savings estimate, then larger value
@@ -530,12 +619,15 @@
     } catch (e) {
       view.innerHTML = `<div class="card error-box">
         <h2>${notAnalysed(e) ? `${esc(id)}-son lot hali tahlil qilinmagan` : "Lotni yuklab bo'lmadi"}</h2>
-        <p class="muted">${notAnalysed(e) ? "Bu lotning texnik topshirig'i hali o'qilmagan. Tahlil tayyor bo'lgach shu yerda ko'rinadi." : esc(e.message)}</p>
-        <p><a class="btn secondary" href="${gov ? "#/gov" : "#/"}">← Orqaga</a></p></div>`;
+        <p class="muted">${notAnalysed(e) ? "Bu lot hali tahlil qilinmagan. Hozircha oldindan tahlil qilingan lotlar ko'rsatiladi — ularni ro'yxatdan tanlang." : FRIENDLY_ERR}</p>
+        <p><a class="btn secondary" href="${gov ? "#/gov" : "#/"}">← Orqaga</a> ${notAnalysed(e) ? "" : retryBtn()}</p></div>`;
       return;
     }
     const flags = verifiedFlags(lot);
-    const v = VERDICT[(lot.verdict || {}).decision] || { t: "Tavsiya hali tayyor emas", cls: "pending", icon: "ask" };
+    const groups = groupFlags(flags);
+    const closed = isClosed(lot);
+    const v = closed ? { t: "Lot yopilgan: takliflar qabul qilinmaydi", cls: "pending", icon: "stop" }
+      : VERDICT[(lot.verdict || {}).decision] || { t: "Tavsiya hali tayyor emas", cls: "pending", icon: "ask" };
     const light = LIGHT[lot.traffic_light] ? lot.traffic_light
       : lot.fairness_score == null ? "none"
       : lot.fairness_score >= 80 ? "green" : lot.fairness_score >= 50 ? "amber" : "red";
@@ -547,14 +639,22 @@
     const C = 2 * Math.PI * 86;
     const frac = Math.max(0, Math.min(100, lot.fairness_score || 0)) / 100;
     const sb = lot.score_breakdown;
-    const reasons = ((lot.verdict || {}).reasons_uz || [])
-      .filter((r) => !/^qatnashish mumkin|^qatnashing/i.test(norm(r)))
-      .slice(0, 4).map((r) => clip(scrub(r, lot), 175));
-    const docs = cleanDocs(lot.documents_needed_uz);
+    // reasons: drop the generic opener, the deadline line (shown under the button) and the re-announce
+    // note (in the eyebrow); the customer-history line lives in its own card; whole sentences only
+    const reasons = closed ? [] : ((lot.verdict || {}).reasons_uz || [])
+      .map(norm)
+      .filter((r) => !/^(qatnashish mumkin|qatnashing|tushuntirish so'rash muddati|lot qayta e'lon|buyurtmachining so'nggi)/i.test(r))
+      .slice(0, 2).map((r) => sentences(tidyReason(scrub(r, lot)).replace(/^[^:]{5,110}\)\s*:\s*/, ""), PRESENT ? 230 : 300));
+    const top = groups[0];
+    const allDocs = cleanDocs(lot.documents_needed_uz);
+    const docs = allDocs.slice(0, 10);
     const showOrig = !PRESENT && lot.title && title !== lot.title;
+    const region = regionText(lot.region);
+    const savingsShown = lot.money_on_table_uzs != null && lot.money_on_table_uzs >= 1e6;
 
     view.innerHTML = `
-      ${gov ? govBar(lot, flags) : ""}
+      ${gov ? govBar(lot, groups, closed) : ""}
+      ${closed ? `<div class="closed-banner">Lot yopilgan (${esc(fmtDate(lot.end_date))}) — tahlil arxiv sifatida ko'rsatilmoqda.</div>` : ""}
       <div class="crumbs"><a href="${gov ? "#/gov" : "#/"}">← ${gov ? "Xavf navbati" : "Men uchun tenderlar"}</a></div>
       <div class="lot-head">
         <div>
@@ -563,15 +663,15 @@
           ${showOrig ? `<div class="orig">${esc(lot.title)}</div>` : ""}
           <div class="meta">
             <span>Buyurtmachi: <b>${esc(custName(c.name, c.tin))}</b></span>
-            ${lot.region ? `<span>${esc(lot.region)}</span>` : ""}
+            ${region ? `<span>${esc(region)}</span>` : ""}
             <span>Boshlang'ich narx: <b>${esc(money(lot.start_cost, lot.currency))}</b></span>
-            <span>Takliflar muddati: <b class="${left ? "deadline" : ""}">${esc(fmtDate(lot.end_date))}</b>${left ? ` <span class="deadline">(${esc(left)})</span>` : ""}</span>
+            <span>Takliflar muddati: <b class="${left ? "deadline" : ""}">${esc(fmtDate(lot.end_date))}</b>${left ? ` <span class="deadline">(${esc(left)})</span>` : closed ? " " + closedPill : ""}</span>
           </div>
         </div>
-        <a class="btn ghost" href="${esc(lot.url || `https://etender.uzex.uz/lot/${lot.lot_id}`)}" target="_blank" rel="noopener">etender.uzex.uz ${ICON.ext}</a>
+        ${PRESENT ? "" : `<a class="btn ghost" href="${esc(lot.url || `https://etender.uzex.uz/lot/${lot.lot_id}`)}" target="_blank" rel="noopener">etender.uzex.uz ${ICON.ext}</a>`}
       </div>
 
-      <section class="summary">
+      <section class="summary${cs.deals ? "" : " no-cust"}">
         <div class="card score-card">
           <div class="eyebrow">Adolatlilik bali</div>
           <div class="ring">
@@ -585,12 +685,13 @@
         </div>
 
         <div class="card verdict ${v.cls}">
-          <div class="eyebrow">Tavsiya</div>
+          <div class="eyebrow">${closed ? "Holat" : "Tavsiya"}</div>
           <div class="verdict-head"><div class="verdict-icon">${ICON[v.icon]}</div><h2>${esc(v.t)}</h2></div>
-          <ul>${reasons.map((r) => `<li>${esc(r)}</li>`).join("")}</ul>
+          ${top ? `<div class="key-quote"><div class="kq-label">Asosiy dalil · ${esc(flagLabel(top))} · ${esc(whereText(top))}</div><mark>«${esc(sentences(scrub(norm(top.quote), lot), 260))}»</mark></div>` : ""}
+          ${reasons.length ? `<ul>${reasons.map((r) => `<li>${esc(r)}</li>`).join("")}</ul>` : ""}
           <div class="actions">
-            ${lot.clarification_letter_uz ? `<button class="btn" id="letterBtn">${ICON.letter} Aniqlik so'rovi xatini yaratish</button>` : ""}
-            ${lot.clarific_date ? `<span class="clar-date">Aniqlik so'rash muddati:<br><b>${esc(fmtDate(lot.clarific_date))}</b>${timeLeft(lot.clarific_date) ? ` · ${esc(timeLeft(lot.clarific_date))}` : ""}</span>` : ""}
+            ${lot.clarification_letter_uz ? `<button class="btn${closed ? " ghost" : ""}" id="letterBtn">${ICON.letter} ${closed ? "Xat namunasini ko'rish" : "Aniqlik so'rovi xatini yaratish"}</button>` : ""}
+            ${!closed && lot.clarific_date && timeLeft(lot.clarific_date) ? `<span class="clar-date">Aniqlik so'rash muddati:<br><b>${esc(fmtDate(lot.clarific_date))}</b> · ${esc(timeLeft(lot.clarific_date))}</span>` : ""}
           </div>
         </div>
 
@@ -602,7 +703,7 @@
             <div><div class="k">Eng ko'p yutgan yetkazib beruvchi ulushi</div><div class="v ${cs.top_winner_share >= 0.5 ? "bad" : ""}">${pct(cs.top_winner_share)}</div></div>
             <div><div class="k">≤2 ishtirokchili bitimlar</div><div class="v ${cs.share_le2_bidders >= 0.5 ? "bad" : ""}">${pct(cs.share_le2_bidders)}</div></div>
             <div><div class="k">Narx 1% dan kam tushgan</div><div class="v">${pct(cs.share_price_drop_lt1pct)}</div></div>
-            ${lot.money_on_table_uzs != null ? `<div class="money"><div class="k">Tejash imkoniyati <span class="est">taxminiy</span></div><div class="v">${esc(money(lot.money_on_table_uzs))}</div><div class="k" style="margin-top:2px">agar raqobat +2 ishtirokchiga oshsa</div></div>` : ""}
+            ${savingsShown ? `<div class="money"><div class="k">Tejash imkoniyati <span class="est">taxminiy</span></div><div class="v">${esc(money(lot.money_on_table_uzs))}</div><div class="k" style="margin-top:2px">agar raqobat +2 ishtirokchiga oshsa</div></div>` : ""}
           </div>
           <div class="muted" style="font-size:.8rem">Oxirgi ${grp(cs.deals)} ta bitim asosida${cs.reannounced_lots ? ` · ${cs.reannounced_lots} ta qayta e'lon` : ""}.</div>`
           : `<div class="muted">Bu buyurtmachi bo'yicha bitimlar tarixi topilmadi.</div>`}
@@ -610,19 +711,20 @@
       </section>
 
       <section class="flags-section">
-      <h2 class="section-title">Topilgan cheklovchi shartlar <span class="count">${groupFlags(flags).length}</span></h2>
-      ${flags.length ? groupFlags(flags).map((g) => flagCard(g, lot)).join("") : lot.fairness_score == null ? `<div class="card no-flags" style="color:var(--muted)">Texnik topshiriq tahlili hali yakunlanmagan.</div>` : `<div class="card no-flags">${ICON.check.replace("<svg", '<svg width="26" height="26"')} Texnik topshiriqda tasdiqlangan cheklovchi shart topilmadi.</div>`}
+      <h2 class="section-title">Topilgan cheklovchi shartlar <span class="count">${groups.length}</span></h2>
+      ${flags.length ? groups.map((g) => flagCard(g, lot)).join("") : lot.fairness_score == null ? `<div class="card no-flags" style="color:var(--muted)">Texnik topshiriq tahlili hali yakunlanmagan.</div>` : `<div class="card no-flags">${ICON.check.replace("<svg", '<svg width="26" height="26"')} Texnik topshiriqda tasdiqlangan cheklovchi shart topilmadi.</div>`}
       </section>
 
       <div class="two" style="margin-top:8px">
         <section class="card card-pad">
           <h3 style="margin-bottom:8px">Kerakli hujjatlar</h3>
           <ul class="docs-list">${docs.map((d) => `<li><span class="box"></span><span>${esc(scrub(d, lot))}</span></li>`).join("") || '<li class="muted">Ro\'yxat mavjud emas</li>'}</ul>
+          ${allDocs.length > docs.length ? `<div class="muted" style="font-size:.85rem;margin-top:6px">va yana ${allDocs.length - docs.length} ta hujjat (texnik topshiriqda)</div>` : ""}
         </section>
         <section class="card card-pad">
           <h3 style="margin-bottom:8px">Asosiy talablar</h3>
           ${(lot.requirements || []).slice(0, 6).map((r) => `<div class="req"><div>${esc(scrub(r.summary_uz, lot))}</div>${whereText(r) ? `<div class="q">${esc(whereText(r))}</div>` : ""}</div>`).join("") || '<div class="muted">—</div>'}
-          ${lot.evaluation && lot.evaluation.tech_coef != null ? `<div class="req"><div>Baholash: texnik qism <b>${esc(grp(lot.evaluation.tech_coef))}%</b>, narx <b>${esc(grp(lot.evaluation.cost_coef))}%</b> (platformadagi odatiy nisbat).</div></div>` : ""}
+          ${lot.evaluation && lot.evaluation.tech_coef != null ? `<div class="req"><div>Baholash: texnik qism <b>${esc(grp(lot.evaluation.tech_coef))}%</b>, narx <b>${esc(grp(lot.evaluation.cost_coef))}%</b>.</div></div>` : ""}
           ${lot.spec ? `<div class="muted" style="font-size:.8rem;margin-top:8px">Texnik topshiriq: ${esc(lot.spec.pages || "?")} sahifa · ${esc({ text: "matn qatlami", ocr: "OCR", vision: "AI ko'rish (skan)" }[lot.spec.text_source] || lot.spec.text_source || "")}${lot.spec.unreadable_pages && lot.spec.unreadable_pages.length ? ` · ${lot.spec.unreadable_pages.length} ta sahifa o'qilmadi (skan)` : ""} · tahlil: ${esc(fmtDate(lot.analyzed_at))}</div>` : ""}
         </section>
       </div>`;
@@ -630,11 +732,11 @@
     const lb = $("#letterBtn");
     if (lb) lb.addEventListener("click", () => showLetter(lot));
     const gb = $("#govSend");
-    if (gb) gb.addEventListener("click", () => showCorrection(lot, flags));
+    if (gb) gb.addEventListener("click", () => showCorrection(lot, groups));
     window.scrollTo(0, 0);
     // deep links for screenshots / demo: #/lot/524401?letter , #/gov/lot/524401?send
     if (opts && opts.letter && lot.clarification_letter_uz) showLetter(lot, true);
-    if (opts && opts.send && gov && flags.length) showCorrection(lot, flags);
+    if (opts && opts.send && gov && groups.length) showCorrection(lot, groups);
     // projector crops for the deck: #/lot/524401?focus=score | ?focus=flags
     if (opts && opts.focus) document.documentElement.classList.add("focus", "focus-" + opts.focus);
   }
@@ -662,7 +764,7 @@
         <h3>${esc(flagLabel(f))}</h3>
         <span class="where">${f.criterion_no ? `<span class="tag">${esc(f.criterion_no)}-mezon</span>` : ""}${where ? `<span class="tag">${esc(where)}</span>` : ""}</span>
       </div>
-      ${f.category_uz ? `<div class="category">Toifa: ${esc(f.category_uz)}</div>` : ""}
+      <div class="category">AI belgilagan cheklovchi shart · inson tasdiqlamagan</div>
       <div class="doc"><span class="page-tag">${esc(docTag)}</span><span class="ctx">… </span><mark>${esc(q)}</mark><span class="ctx"> …</span></div>
       ${tl ? `<div class="translit"><b>Lotin yozuvida:</b> ${esc(tl)}</div>` : ""}
       ${more}
@@ -674,12 +776,25 @@
   }
 
   const CO_PLACEHOLDERS = [/\[Kompaniya nomi\]/g, /\[Tashkilot nomi(, STIR)?\]/g];
+  // the letter's subject line comes from the clean Latin title (never a raw/classifier title)
+  function letterText(lot) {
+    const subject = PRESENT ? lotTitle(lot) : (lot.subject_uz || lot.title || "");
+    const d = new Date();
+    const today = `${d.getDate()}-${MONTHS[d.getMonth()]} ${d.getFullYear()}-yil`;
+    const txt = String(lot.clarification_letter_uz || "")
+      .replace(/^(Xarid predmeti:).*$/m, (m, h) => `${h} ${subject}`)
+      .replace(/\[Sana\]/g, today)
+      .replace(/(\d+)-bet\b/g, "$1-sahifa");
+    return scrub(txt, lot);
+  }
   function showLetter(lot, instant) {
-    const full = scrub(lot.clarification_letter_uz || "", lot);
-    openModal("Aniqlik so'rovi xati", `
+    const full = letterText(lot);
+    const closed = isClosed(lot);
+    const deadline = !closed && lot.clarific_date && timeLeft(lot.clarific_date);
+    openModal(closed ? "Aniqlik so'rovi xati (namuna)" : "Aniqlik so'rovi xati", `
       <div class="field"><label for="coName">Kompaniya nomi</label><input id="coName" placeholder="Kompaniyangiz nomi (ixtiyoriy)"></div>
       <pre class="letter typing" id="letterText"></pre>`,
-      `<span class="note">Xat ${esc(fmtDate(lot.clarific_date))} gacha yuborilishi kerak (aniqlik so'rash muddati).</span>
+      `<span class="note">${closed ? "Lot yopilgan: xat faqat namuna sifatida ko'rsatilmoqda." : deadline ? `Xat ${esc(fmtDate(lot.clarific_date))} gacha yuborilishi kerak (aniqlik so'rash muddati).` : "Xatni elektron tizim orqali yuboring."}</span>
        <button class="btn" id="copyBtn">${ICON.copy} Nusxa olish</button>`);
     const pre = $("#letterText");
     let i = instant ? full.length : 0;
@@ -703,16 +818,14 @@
   }
 
   // ---------------------------------------------------------------- government
-  const sentRequests = new Set();
-  function govBar(lot, flags) {
-    const sent = sentRequests.has(String(lot.lot_id));
+  function govBar(lot, groups, closed) {
     return `<div class="govbar">
       <div class="grow"><div class="eyebrow">Nazorat harakati</div>
-        <div>${flags.length ? `${flags.length} ta cheklovchi shart topildi. Buyurtmachidan tuzatish kiritishni so'rang.` : "Cheklovchi shart topilmadi."}</div></div>
-      ${sent ? `<span class="sent">✓ So'rov yuborildi (demo)</span>` : flags.length ? `<button class="btn" id="govSend">${ICON.send} Buyurtmachiga tuzatish so'rovini yuborish</button>` : ""}
+        <div>${groups.length ? `${groups.length} ta cheklovchi shart topildi. ${closed ? "Lot yopilgan: tuzatishni keyingi e'lon uchun tavsiya qiling." : "Buyurtmachidan tuzatish kiritishni so'rang."}` : "Cheklovchi shart topilmadi."}</div></div>
+      ${groups.length ? `<button class="btn" id="govSend">${ICON.letter} Tuzatish so'rovi loyihasini tayyorlash</button>` : ""}
     </div>`;
   }
-  function correctionText(lot, flags) {
+  function correctionText(lot, groups) {
     const c = lot.customer || {};
     const lines = [
       `${custName(c.name, c.tin)}`,
@@ -723,7 +836,7 @@
       `TenderLens monitoringi ${lot.lot_id}-son lot («${norm(lotTitle(lot))}») xarid hujjatlarida raqobatni cheklashi mumkin bo'lgan quyidagi shartlarni aniqladi:`,
       "",
     ];
-    flags.forEach((f, i) => {
+    groups.forEach((f, i) => {
       lines.push(`${i + 1}. ${flagLabel(f)} (${whereText(f)}): «${scrub(norm(f.quote), lot)}»`);
       lines.push(`   Taklif etilayotgan neytral tahrir: ${scrub(f.rewrite_uz, lot)}`);
       lines.push("");
@@ -732,20 +845,12 @@
     lines.push("", "Hurmat bilan,", "[Nazorat organi nomi]", "Monitoring bo'limi");
     return lines.join("\n");
   }
-  function showCorrection(lot, flags) {
-    const text = correctionText(lot, flags);
-    openModal("Buyurtmachiga tuzatish so'rovi", `<pre class="letter">${esc(text)}</pre>`,
-      `<span class="note">Demo rejim: haqiqiy yuborish amalga oshirilmaydi.</span>
-       <button class="btn ghost" id="corrCopy">${ICON.copy} Nusxa olish</button>
-       <button class="btn" id="corrSend">${ICON.send} Yuborish</button>`);
+  function showCorrection(lot, groups) {
+    const text = correctionText(lot, groups);
+    openModal("Tuzatish so'rovi loyihasi", `<pre class="letter">${esc(text)}</pre>`,
+      `<span class="note">Loyiha: nusxa olib, rasmiy kanal orqali yuboring.</span>
+       <button class="btn" id="corrCopy">${ICON.copy} Nusxa olish</button>`);
     $("#corrCopy").addEventListener("click", async () => toast((await copyText(text)) ? "Nusxa olindi" : "Nusxa olib bo'lmadi"));
-    $("#corrSend").addEventListener("click", () => {
-      sentRequests.add(String(lot.lot_id));
-      closeModal();
-      const c = lot.customer || {};
-      toast(`So'rov «${custName(c.name, c.tin)}»ga yuborildi (demo)`);
-      renderLot(lot.lot_id, true);
-    });
   }
 
   // template_findings: shape is defined by the engine; read the likely field names defensively
@@ -770,22 +875,24 @@
     const known = new Set((index || []).map((l) => String(l.lot_id)));
     const list = Array.isArray(stats.template_findings) ? stats.template_findings : [];
     if (!list.length) return "";
+    const item = (t, hidden) => {
+      const n = findingCount(t), lots = findingLots(t, known), na = t.likely_not_applicable;
+      return `<div class="sys-item${hidden ? " sys-more" : ""}"${hidden ? " hidden" : ""}>
+        ${n != null ? `<div class="sys-n">${grp(n)}<small>lot</small></div>` : ""}
+        <div class="sys-body">
+          <div class="sys-t">${esc(scrub(findingText(t), null))}</div>
+          ${n != null ? `<div class="sys-den">${grp(stats.open_lots || 662)} ta ochiq lotdan ${grp(n)} tasida uchraydi</div>` : ""}
+          ${na ? `<div class="sys-na">Taxminan <b>${grp(na)} tasida</b> xarid predmetiga mos kelmasligi mumkin — inson tekshiruvi kerak</div>` : ""}
+          ${lots.length ? `<div class="sys-lots">${lots.map((id) => `<a href="#/gov/lot/${id}">№ ${id}</a>`).join(" ")}</div>` : ""}
+        </div>
+      </div>`;
+    };
     return `<div class="card sys-card">
       <div class="sys-head">${ICON.grid}<h3>Tizimli muammolar</h3></div>
       <div class="sub">Platforma shablonidagi bir xil mezon ko'plab ochiq lotlarda takrorlanadi — uni bitta joyda tuzatish mumkin.</div>
-      ${list.slice(0, 4).map((t) => {
-        const n = findingCount(t), lots = findingLots(t, known), q = t.quote_uz || t.quote || t.criterion || t.label;
-        const na = t.likely_not_applicable;
-        return `<div class="sys-item">
-          ${n != null ? `<div class="sys-n">${grp(n)}<small>lot</small></div>` : ""}
-          <div class="sys-body">
-            <div class="sys-t">${esc(scrub(findingText(t), null))}</div>
-            ${na ? `<div class="sys-na">Taxminan <b>${grp(na)} tasida</b> xarid predmetiga mos kelmasligi mumkin${t.likely_not_applicable_value_uzs ? ` (${esc(money(t.likely_not_applicable_value_uzs))})` : ""} — inson tekshiruvi kerak</div>` : ""}
-            ${q ? `<div class="sys-q">«${esc(clip(scrub(q, null), 140))}»</div>` : ""}
-            ${lots.length ? `<div class="sys-lots">${lots.map((id) => `<a href="#/gov/lot/${id}">№ ${id}</a>`).join(" ")}</div>` : ""}
-          </div>
-        </div>`;
-      }).join("")}
+      ${item(list[0], false)}
+      ${list.slice(1, 4).map((t) => item(t, true)).join("")}
+      ${list.length > 1 ? `<button class="btn ghost sys-toggle" type="button" onclick="this.parentNode.querySelectorAll('.sys-more').forEach(function(e){e.hidden=!e.hidden});this.textContent=this.textContent.indexOf('Yana')===0?'Yopish':'Yana ${Math.min(3, list.length - 1)} ta'">Yana ${Math.min(3, list.length - 1)} ta</button>` : ""}
     </div>`;
   }
 
@@ -798,30 +905,33 @@
       [stats, index] = await Promise.all([api("stats"), api("lots")]);
       index = index.slice();
     } catch (e) {
-      view.innerHTML = `<div class="card error-box"><h2>${notAnalysed(e) ? "Tahlil natijalari hali tayyor emas" : "Ma'lumotlarni yuklab bo'lmadi"}</h2><p class="muted">${esc(e.message)}</p></div>`;
+      view.innerHTML = `<div class="card error-box"><h2>${notAnalysed(e) ? "Tahlil natijalari topilmadi" : "Ma'lumotlarni yuklab bo'lmadi"}</h2><p class="muted">${notAnalysed(e) ? "Oldindan tahlil qilingan lotlar hozircha mavjud emas." : FRIENDLY_ERR}</p><p>${retryBtn()}</p></div>`;
       return;
     }
     buildAliases(index);
     const NON_STATE = /^(joint_venture|private|foreign|non_state)$/;
     const hiddenN = index.filter((l) => NON_STATE.test(l.customer_kind || "")).length;
     index = index.filter((l) => !NON_STATE.test(l.customer_kind || ""));
-    const analysedN = stats.analysed_lots != null ? stats.analysed_lots : index.filter((l) => l.fairness_score != null).length;
-    const flaggedN = stats.flagged_lots != null ? stats.flagged_lots : index.filter((l) => l.flag_count > 0).length;
-    const mt = moneyParts(stats.money_on_table_total_uzs || 0);
+    // every number on this screen is computed from the same list the table shows
+    const findings = (l) => (l.finding_count != null ? l.finding_count : l.flag_count);
+    const analysedN = index.filter((l) => l.fairness_score != null).length;
+    const flaggedN = index.filter((l) => (findings(l) || 0) > 0).length;
+    const openN = index.filter((l) => !isClosed(l)).length;
+    const mt = moneyParts(index.reduce((sum, l) => sum + (l.money_on_table_uzs || 0), 0));
     const ov = moneyParts(stats.open_value_uzs || 0);
     const today = fmtDate(stats.generated_at, false);
 
     view.innerHTML = `
       <div class="dash-head">
         <div><div class="eyebrow">Davlat xaridlari nazorati uchun · xarid agentligi va Raqobat qo'mitasi</div>
-        <h1>Ochiq lotlar — xavf navbati</h1></div>
-        <div class="muted">Holat: ${esc(today)} · ${grp(stats.open_lots || 0)} ta ochiq lotdan ${grp(analysedN)} tasi tahlil qilindi</div>
+        <h1>Tahlil qilingan lotlar — xavf navbati</h1></div>
+        <div class="muted">Ma'lumot: ${esc(today)} holatiga · ${grp(analysedN)} ta lot, shundan ${grp(openN)} tasi hali ochiq</div>
       </div>
       <section class="tiles">
-        <div class="card tile"><div class="k">Ochiq lotlar</div><div class="v">${grp(stats.open_lots || index.length)}</div><div class="s">shundan <b>${grp(analysedN)}</b> tasi tahlil qilindi</div></div>
-        <div class="card tile"><div class="k">Umumiy qiymat</div><div class="v">${esc(ov.num)} <small>${esc(ov.unit)}</small></div><div class="s">ochiq lotlarning boshlang'ich narxlari</div></div>
-        <div class="card tile warn"><div class="k">Belgilangan lotlar</div><div class="v">${grp(flaggedN)}</div><div class="s">${grp(analysedN)} ta tahlil qilingan lotdan; adolatsiz shartlar iqtibos bilan</div></div>
-        <div class="card tile money"><div class="k">Tejash imkoniyati <span class="est">taxminiy</span></div><div class="v">${esc(mt.num)} <small>${esc(mt.unit)}</small></div><div class="s">tahlil qilingan lotlarda raqobat +2 ishtirokchiga oshsa</div></div>
+        <div class="card tile"><div class="k">Tahlil qilingan lotlar</div><div class="v">${grp(analysedN)}</div><div class="s">${grp(stats.open_lots || 0)} ta ochiq lotdan (${esc(today)})${hiddenN ? `; davlat ulushisiz ${grp(hiddenN)} ta lot ko'rsatilmaydi` : ""}</div></div>
+        <div class="card tile"><div class="k">Umumiy qiymat</div><div class="v">${esc(ov.num)} <small>${esc(ov.unit)}</small></div><div class="s">barcha ochiq lotlarning boshlang'ich narxlari</div></div>
+        <div class="card tile warn"><div class="k">Cheklovchi shartli lotlar</div><div class="v">${grp(flaggedN)}</div><div class="s">AI belgilagan shartlar (inson tasdiqlamagan), ${grp(analysedN)} ta lotdan; har biri iqtibos bilan</div></div>
+        <div class="card tile money"><div class="k">Tejash imkoniyati <span class="est">taxminiy</span></div><div class="v">${esc(mt.num)} <small>${esc(mt.unit)}</small></div><div class="s">shu ${grp(analysedN)} lotda raqobat +2 ishtirokchiga oshsa</div></div>
       </section>
       <section class="dash-grid">
         <div class="card table-card">
@@ -829,17 +939,15 @@
             <button class="chip ${govState.sector === "all" ? "on" : ""}" data-sector="all">Barchasi</button>
             ${Object.keys(SECTOR).map((s) => `<button class="chip ${govState.sector === s ? "on" : ""}" data-sector="${s}">${SECTOR[s]}</button>`).join("")}
             <span class="grow"></span>
-            <label class="muted" style="font-size:.88rem;display:flex;gap:6px;align-items:center"><input type="checkbox" id="onlyFlagged" ${govState.onlyFlagged ? "checked" : ""}> Faqat belgilanganlar</label>
+            <label class="muted only-flagged"><input type="checkbox" id="onlyFlagged" ${govState.onlyFlagged ? "checked" : ""}> Faqat cheklovchi shartlilar</label>
           </div>
           <div class="table-scroll"><table class="risk">
-            <thead><tr><th>#</th><th>Lot va buyurtmachi</th><th>Adolatlilik</th><th class="n">Belgi</th><th class="n">Qiymat</th><th class="n">Tejash <span class="est">taxminiy</span></th><th></th></tr></thead>
+            <thead><tr><th>#</th><th>Lot va buyurtmachi</th><th>Adolatlilik</th><th class="n c-flags">Shartlar</th><th class="n c-val">Qiymat</th><th class="n c-sav">Tejash <span class="est">taxminiy</span></th><th class="c-go"></th></tr></thead>
             <tbody id="riskBody"></tbody>
           </table></div>
           <div class="more" id="moreWrap"></div>
-          ${hiddenN ? `<div class="footnote" style="padding:0 18px 14px">Davlat ulushisiz buyurtmachilarning ${grp(hiddenN)} ta loti bu navbatda ko'rsatilmaydi.</div>` : ""}
         </div>
         <div class="side-col">
-          ${systemicCard(stats, index)}
           <div class="card chart-card">
             <h3>Ishtirokchilar soni va narx pasayishi</h3>
             <div class="sub">Boshlang'ich narxdan pasayish, mediana · ${grp(stats.deals_analysed || 0)} ta bitim (${esc(periodText(stats.deals_period))})</div>
@@ -847,6 +955,7 @@
             <div class="insight" id="curveInsight"></div>
             <div class="footnote">Bu korrelyatsiya, sabab-oqibat isboti emas: lot turlari va hajmlari farq qiladi. Manba: UZEX etender ochiq API.</div>
           </div>
+          ${systemicCard(stats, index)}
         </div>
       </section>`;
 
@@ -854,18 +963,18 @@
     const drawTable = () => {
       let rows = index.slice();
       if (govState.sector !== "all") rows = rows.filter((l) => l.sector === govState.sector);
-      if (govState.onlyFlagged) rows = rows.filter((l) => l.flag_count > 0);
-      rows.sort(riskSort);
+      if (govState.onlyFlagged) rows = rows.filter((l) => (findings(l) || 0) > 0);
+      rows.sort(listSort);
       const shown = rows.slice(0, govState.limit);
       $("#riskBody").innerHTML = shown.map((l, i) => `
         <tr class="row" data-id="${l.lot_id}">
           <td class="rank">${i + 1}</td>
-          <td><div class="lt">${esc(lotTitle(l))}</div><div class="lc">№ ${l.lot_id} · ${esc(custName(l.customer_name, l.customer_tin))} · ${esc(SECTOR[l.sector] || "")}</div></td>
+          <td><div class="lt">${esc(lotTitle(l))}</div><div class="lc">№ ${l.lot_id} · ${esc(custName(l.customer_name, l.customer_tin))} · ${esc(SECTOR[l.sector] || "")}${isClosed(l) ? " · " + closedPill : ""}</div></td>
           <td>${lightPill(l.traffic_light, l.fairness_score)}</td>
-          <td class="n">${l.flag_count == null ? "—" : `<b>${l.flag_count}</b>`}</td>
-          <td class="n">${esc(money(l.start_cost, l.currency))}</td>
-          <td class="n">${l.money_on_table_uzs ? esc(money(l.money_on_table_uzs)) : "—"}</td>
-          <td class="go" title="Ochish">›</td>
+          <td class="n c-flags">${findings(l) == null ? "—" : `<b>${findings(l)}</b>`}</td>
+          <td class="n c-val">${esc(money(l.start_cost, l.currency))}</td>
+          <td class="n c-sav">${l.money_on_table_uzs ? esc(money(l.money_on_table_uzs)) : "—"}</td>
+          <td class="go c-go" title="Ochish">›</td>
         </tr>`).join("") || `<tr><td colspan="7" class="empty">Bu filtr bo'yicha lot yo'q</td></tr>`;
       $("#moreWrap").innerHTML = rows.length > govState.limit
         ? `<button class="btn ghost" id="moreBtn">Yana ko'rsatish (${grp(rows.length - govState.limit)} ta qoldi)</button>` : "";

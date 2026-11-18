@@ -36,6 +36,7 @@ SHOTS = [  # all in presentation mode (customer names masked); lead lots first
     ("crop_525192_score.png", "?present=1#/lot/525192?focus=score", 1600, 1000),
     ("crop_525192_flags.png", "?present=1#/lot/525192?focus=flags", 1600, 1300),
     ("crop_524769_flags.png", "?present=1#/lot/524769?focus=flags", 1600, 1500),
+    ("11_closed_lot_524784.png", "?present=1#/lot/524784", 1920, 1080),
 ]
 BOT_LOTS = ["524954", "525192"]
 
