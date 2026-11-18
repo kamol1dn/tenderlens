@@ -1,0 +1,1033 @@
+{
+ "pack_id": "26845af7d3",
+ "built_at": "2026-11-18T10:56:09+05:00",
+ "seed": 20261118,
+ "file": "label_pack.html",
+ "clauses": 100,
+ "lots": 86,
+ "roles": {
+  "lead": 5,
+  "control": 15,
+  "high": 12,
+  "medium": 48,
+  "low": 20
+ },
+ "flag_types": {
+  "excessive_financial": 9,
+  "irrelevant_requirement": 16,
+  "other": 22,
+  "excessive_experience": 11,
+  "narrow_params": 6,
+  "dealer_letter": 6,
+  "unrealistic_deadline": 7,
+  "brand_no_equivalent": 4,
+  "bundling": 2,
+  "short_window": 2
+ },
+ "quotes_changed_by_masking": [
+  "a8c980045aa8"
+ ],
+ "leak_check": [],
+ "items": [
+  {
+   "order": 1,
+   "id": "30c462c1cc85",
+   "lot_id": 524954,
+   "role": "lead",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "excessive_financial",
+   "page": 0
+  },
+  {
+   "order": 2,
+   "id": "11acb114a59c",
+   "lot_id": 525192,
+   "role": "lead",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "irrelevant_requirement",
+   "page": 3
+  },
+  {
+   "order": 3,
+   "id": "763b006de1ac",
+   "lot_id": 524954,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 0
+  },
+  {
+   "order": 4,
+   "id": "564b12e3de88",
+   "lot_id": 524769,
+   "role": "lead",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 0
+  },
+  {
+   "order": 5,
+   "id": "645352c42d77",
+   "lot_id": 524769,
+   "role": "lead",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_financial",
+   "page": 0
+  },
+  {
+   "order": 6,
+   "id": "a59d9b6aa6c6",
+   "lot_id": 524769,
+   "role": "lead",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "irrelevant_requirement",
+   "page": 0
+  },
+  {
+   "order": 7,
+   "id": "cbc23477be9a",
+   "lot_id": 510100,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "irrelevant_requirement",
+   "page": 35
+  },
+  {
+   "order": 8,
+   "id": "e46983162491",
+   "lot_id": 510100,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "irrelevant_requirement",
+   "page": 38
+  },
+  {
+   "order": 9,
+   "id": "fe91566d2ce5",
+   "lot_id": 516607,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "excessive_experience",
+   "page": 0
+  },
+  {
+   "order": 10,
+   "id": "aa8bc147a185",
+   "lot_id": 524769,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 4
+  },
+  {
+   "order": 11,
+   "id": "facd2b1adeb3",
+   "lot_id": 522662,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "other",
+   "page": 18
+  },
+  {
+   "order": 12,
+   "id": "7a0db8fc955b",
+   "lot_id": 523820,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "narrow_params",
+   "page": 10
+  },
+  {
+   "order": 13,
+   "id": "a8c980045aa8",
+   "lot_id": 524047,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "other",
+   "page": 0
+  },
+  {
+   "order": 14,
+   "id": "051254263a3d",
+   "lot_id": 524839,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "irrelevant_requirement",
+   "page": 0
+  },
+  {
+   "order": 15,
+   "id": "85310acbe94b",
+   "lot_id": 524915,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "dealer_letter",
+   "page": 2
+  },
+  {
+   "order": 16,
+   "id": "986b5624d392",
+   "lot_id": 524928,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "unrealistic_deadline",
+   "page": 2
+  },
+  {
+   "order": 17,
+   "id": "2a64449b84db",
+   "lot_id": 525363,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 3
+  },
+  {
+   "order": 18,
+   "id": "4a3348e77527",
+   "lot_id": 525001,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "irrelevant_requirement",
+   "page": 1
+  },
+  {
+   "order": 19,
+   "id": "180ccdeff0b4",
+   "lot_id": 525210,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "excessive_experience",
+   "page": 15
+  },
+  {
+   "order": 20,
+   "id": "2558a1e4794b",
+   "lot_id": 525355,
+   "role": "high",
+   "system_flagged": "yes",
+   "severity": "high",
+   "type": "irrelevant_requirement",
+   "page": 3
+  },
+  {
+   "order": 21,
+   "id": "5cf7e294be84",
+   "lot_id": 525357,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 5
+  },
+  {
+   "order": 22,
+   "id": "14b1830fd75a",
+   "lot_id": 524979,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "other",
+   "page": 1
+  },
+  {
+   "order": 23,
+   "id": "db906117bc58",
+   "lot_id": 524352,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "narrow_params",
+   "page": 19
+  },
+  {
+   "order": 24,
+   "id": "687c244705ea",
+   "lot_id": 524853,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 0
+  },
+  {
+   "order": 25,
+   "id": "97dce982e08c",
+   "lot_id": 524031,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_financial",
+   "page": 0
+  },
+  {
+   "order": 26,
+   "id": "8cf1a445e6e8",
+   "lot_id": 524217,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "brand_no_equivalent",
+   "page": 3
+  },
+  {
+   "order": 27,
+   "id": "72a4031fb934",
+   "lot_id": 524661,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "other",
+   "page": 18
+  },
+  {
+   "order": 28,
+   "id": "a52d7b540ec7",
+   "lot_id": 524500,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 0
+  },
+  {
+   "order": 29,
+   "id": "0816ab216379",
+   "lot_id": 525124,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "unrealistic_deadline",
+   "page": 7
+  },
+  {
+   "order": 30,
+   "id": "d14325c31fce",
+   "lot_id": 523646,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_financial",
+   "page": 49
+  },
+  {
+   "order": 31,
+   "id": "3c481516a176",
+   "lot_id": 525476,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 1
+  },
+  {
+   "order": 32,
+   "id": "7bc2e7ff8668",
+   "lot_id": 522766,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "irrelevant_requirement",
+   "page": 0
+  },
+  {
+   "order": 33,
+   "id": "fcd21ef299e0",
+   "lot_id": 524711,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_experience",
+   "page": 0
+  },
+  {
+   "order": 34,
+   "id": "228de8e4f602",
+   "lot_id": 523414,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "brand_no_equivalent",
+   "page": 1
+  },
+  {
+   "order": 35,
+   "id": "fd1d8c940c6f",
+   "lot_id": 519731,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 17
+  },
+  {
+   "order": 36,
+   "id": "b5e2dcf4f886",
+   "lot_id": 525501,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 2
+  },
+  {
+   "order": 37,
+   "id": "89fe00ad3322",
+   "lot_id": 522594,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "unrealistic_deadline",
+   "page": 19
+  },
+  {
+   "order": 38,
+   "id": "9ac394a861d7",
+   "lot_id": 525194,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "irrelevant_requirement",
+   "page": 1
+  },
+  {
+   "order": 39,
+   "id": "a499ac461698",
+   "lot_id": 524620,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "irrelevant_requirement",
+   "page": 0
+  },
+  {
+   "order": 40,
+   "id": "d1c5cd0c7c7d",
+   "lot_id": 524260,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "dealer_letter",
+   "page": 0
+  },
+  {
+   "order": 41,
+   "id": "b14f424cf1ac",
+   "lot_id": 524890,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "excessive_financial",
+   "page": 6
+  },
+  {
+   "order": 42,
+   "id": "482016d62d8f",
+   "lot_id": 525127,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 9
+  },
+  {
+   "order": 43,
+   "id": "8b3527563d51",
+   "lot_id": 524876,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "irrelevant_requirement",
+   "page": 0
+  },
+  {
+   "order": 44,
+   "id": "1dbe4763c29b",
+   "lot_id": 524735,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_experience",
+   "page": 0
+  },
+  {
+   "order": 45,
+   "id": "03ae7e5030bf",
+   "lot_id": 525127,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 9
+  },
+  {
+   "order": 46,
+   "id": "b66e01d7bcad",
+   "lot_id": 524130,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "bundling",
+   "page": 1
+  },
+  {
+   "order": 47,
+   "id": "f6ebdf497776",
+   "lot_id": 524784,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "irrelevant_requirement",
+   "page": 1
+  },
+  {
+   "order": 48,
+   "id": "cb879e717157",
+   "lot_id": 525366,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "unrealistic_deadline",
+   "page": 38
+  },
+  {
+   "order": 49,
+   "id": "61fa74796bc4",
+   "lot_id": 524114,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "narrow_params",
+   "page": 42
+  },
+  {
+   "order": 50,
+   "id": "5e8752cf166f",
+   "lot_id": 523542,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 0
+  },
+  {
+   "order": 51,
+   "id": "85559612cfdb",
+   "lot_id": 523542,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 0
+  },
+  {
+   "order": 52,
+   "id": "777dc985b3d2",
+   "lot_id": 524992,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 2
+  },
+  {
+   "order": 53,
+   "id": "ac0e958565de",
+   "lot_id": 524940,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "unrealistic_deadline",
+   "page": 15
+  },
+  {
+   "order": 54,
+   "id": "f6de53af9f22",
+   "lot_id": 524664,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "other",
+   "page": 0
+  },
+  {
+   "order": 55,
+   "id": "e694b0ccf0e9",
+   "lot_id": 524509,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "narrow_params",
+   "page": 3
+  },
+  {
+   "order": 56,
+   "id": "61e2f6045729",
+   "lot_id": 522893,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "narrow_params",
+   "page": 17
+  },
+  {
+   "order": 57,
+   "id": "41fee68c31c8",
+   "lot_id": 525779,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 35
+  },
+  {
+   "order": 58,
+   "id": "56add595b136",
+   "lot_id": 524217,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 1
+  },
+  {
+   "order": 59,
+   "id": "4065dcb1d9f9",
+   "lot_id": 524574,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 49
+  },
+  {
+   "order": 60,
+   "id": "bdafbd36f257",
+   "lot_id": 524998,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "irrelevant_requirement",
+   "page": 7
+  },
+  {
+   "order": 61,
+   "id": "5f1922a3e60b",
+   "lot_id": 524120,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_financial",
+   "page": 9
+  },
+  {
+   "order": 62,
+   "id": "c52121d226cf",
+   "lot_id": 525029,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "irrelevant_requirement",
+   "page": 6
+  },
+  {
+   "order": 63,
+   "id": "7cc3ac7f1a81",
+   "lot_id": 524282,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_experience",
+   "page": 0
+  },
+  {
+   "order": 64,
+   "id": "1165175884e5",
+   "lot_id": 518733,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 0
+  },
+  {
+   "order": 65,
+   "id": "b29196e63090",
+   "lot_id": 524871,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_financial",
+   "page": 4
+  },
+  {
+   "order": 66,
+   "id": "4c50f783150d",
+   "lot_id": 523435,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "dealer_letter",
+   "page": 18
+  },
+  {
+   "order": 67,
+   "id": "ac802bfe7026",
+   "lot_id": 524953,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_experience",
+   "page": 0
+  },
+  {
+   "order": 68,
+   "id": "a0dcc2a4dc6e",
+   "lot_id": 525596,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 3
+  },
+  {
+   "order": 69,
+   "id": "f5db312db2f2",
+   "lot_id": 524207,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_experience",
+   "page": 0
+  },
+  {
+   "order": 70,
+   "id": "700a5febce27",
+   "lot_id": 524334,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "irrelevant_requirement",
+   "page": 0
+  },
+  {
+   "order": 71,
+   "id": "b16bc650d309",
+   "lot_id": 524214,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "unrealistic_deadline",
+   "page": 0
+  },
+  {
+   "order": 72,
+   "id": "4fcd6c960ecc",
+   "lot_id": 523196,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 0
+  },
+  {
+   "order": 73,
+   "id": "fcc6d954c460",
+   "lot_id": 525364,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "other",
+   "page": 10
+  },
+  {
+   "order": 74,
+   "id": "f6717b252820",
+   "lot_id": 524497,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "dealer_letter",
+   "page": 4
+  },
+  {
+   "order": 75,
+   "id": "4ec10d536990",
+   "lot_id": 524116,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "excessive_financial",
+   "page": 0
+  },
+  {
+   "order": 76,
+   "id": "7037e916b48b",
+   "lot_id": 525366,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 16
+  },
+  {
+   "order": 77,
+   "id": "863dc2bdaf5e",
+   "lot_id": 524626,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_experience",
+   "page": 0
+  },
+  {
+   "order": 78,
+   "id": "e87b09ca523e",
+   "lot_id": 524418,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "excessive_experience",
+   "page": 37
+  },
+  {
+   "order": 79,
+   "id": "f90accd87837",
+   "lot_id": 524930,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "excessive_experience",
+   "page": 0
+  },
+  {
+   "order": 80,
+   "id": "2b55d14a2c73",
+   "lot_id": 524428,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "irrelevant_requirement",
+   "page": 0
+  },
+  {
+   "order": 81,
+   "id": "c6ef2db5b922",
+   "lot_id": 524324,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "narrow_params",
+   "page": 3
+  },
+  {
+   "order": 82,
+   "id": "a0c250e554e4",
+   "lot_id": 523912,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "other",
+   "page": 10
+  },
+  {
+   "order": 83,
+   "id": "47932a4d2386",
+   "lot_id": 515301,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 0
+  },
+  {
+   "order": 84,
+   "id": "0b0c74b9fe83",
+   "lot_id": 524784,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 1
+  },
+  {
+   "order": 85,
+   "id": "1d036c2fb53b",
+   "lot_id": 524735,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "short_window",
+   "page": 3
+  },
+  {
+   "order": 86,
+   "id": "8adbd9f11dda",
+   "lot_id": 524738,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "bundling",
+   "page": 10
+  },
+  {
+   "order": 87,
+   "id": "75f49895d445",
+   "lot_id": 522099,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 8
+  },
+  {
+   "order": 88,
+   "id": "b904a10946b6",
+   "lot_id": 524846,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 15
+  },
+  {
+   "order": 89,
+   "id": "85ec9a0c1cb4",
+   "lot_id": 523690,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "dealer_letter",
+   "page": 0
+  },
+  {
+   "order": 90,
+   "id": "52a1a3dd192d",
+   "lot_id": 523908,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_experience",
+   "page": 0
+  },
+  {
+   "order": 91,
+   "id": "fd17d6437258",
+   "lot_id": 524602,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "dealer_letter",
+   "page": 7
+  },
+  {
+   "order": 92,
+   "id": "8af122323dfc",
+   "lot_id": 524130,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 1
+  },
+  {
+   "order": 93,
+   "id": "9a6674869014",
+   "lot_id": 524899,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "excessive_financial",
+   "page": 0
+  },
+  {
+   "order": 94,
+   "id": "9ec110decb11",
+   "lot_id": 518377,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "brand_no_equivalent",
+   "page": 24
+  },
+  {
+   "order": 95,
+   "id": "471c6568d0a5",
+   "lot_id": 524582,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "other",
+   "page": 7
+  },
+  {
+   "order": 96,
+   "id": "ee3f9220d304",
+   "lot_id": 522162,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "brand_no_equivalent",
+   "page": 7
+  },
+  {
+   "order": 97,
+   "id": "fb8dd37e0d2a",
+   "lot_id": 525394,
+   "role": "control",
+   "system_flagged": "no",
+   "severity": "",
+   "type": "",
+   "page": 1
+  },
+  {
+   "order": 98,
+   "id": "ca0621766cf1",
+   "lot_id": 523959,
+   "role": "medium",
+   "system_flagged": "yes",
+   "severity": "medium",
+   "type": "other",
+   "page": 3
+  },
+  {
+   "order": 99,
+   "id": "7a64780d5b17",
+   "lot_id": 525366,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "short_window",
+   "page": 10
+  },
+  {
+   "order": 100,
+   "id": "693972b237b7",
+   "lot_id": 524953,
+   "role": "low",
+   "system_flagged": "yes",
+   "severity": "low",
+   "type": "unrealistic_deadline",
+   "page": 5
+  }
+ ]
+}
