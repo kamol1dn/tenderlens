@@ -1,23 +1,100 @@
 {
-  "_readme": "Edit, then run from D:/projects/hackathon/tenderlens: node deck/build/build_deck.js. eval: null = magenta [PLACEHOLDER] on slide 6. screenshots: null = MAKET mock-up (slide 4) / [PLACEHOLDER] (slide 11). A screenshot is a path relative to the tenderlens folder, {path, crop:[left,top,width,height]} in px, or rows of such parts [[part, part], [part]] that are composited (parts side by side, rows stacked). Slide 4 uses supplier + agency; slide 11 uses backup_supplier + backup_bot. Only app presentation-mode screenshots (customer names hidden).",
+  "_readme": "Edit, then run from D:/projects/hackathon/tenderlens: node deck/build/build_deck.js (add --alphabet yangi for the new alphabet). eval: precision_k / precision_n of human-checked high+medium flags (plus clauses_reviewed, lots_reviewed, reviewers); while null, slide 5 shows variant (b) without any accuracy number. team: list of 'Ism: rol' strings; empty = marked placeholder on slide 7. pricing_proposal: our proposed prices (labelled as a proposal on slide 7). screenshots: path, {path, crop:[left,top,width,height]} or rows of parts [[part, part], [part]] composited; slide 3 uses supplier + agency, slide 13 backup_supplier + backup_bot; presentation-mode shots only.",
   "eval": {
-    "recall_pct": null,
-    "false_alarms_per_spec": null,
-    "specs_labelled": null
+    "precision_k": null,
+    "precision_n": null,
+    "clauses_reviewed": null,
+    "lots_reviewed": null,
+    "reviewers": null
   },
   "screenshots": {
     "supplier": [
-      [{ "path": "app/screenshots/crop_524954_score.png", "crop": [68, 190, 1085, 455] }],
-      [{ "path": "app/screenshots/crop_524954_flags.png", "crop": [68, 240, 1042, 200] }]
+      [
+        {
+          "path": "app/screenshots/crop_525192_score.png",
+          "crop": [
+            68,
+            150,
+            1085,
+            290
+          ]
+        }
+      ],
+      [
+        {
+          "path": "app/screenshots/crop_525192_flags.png",
+          "crop": [
+            68,
+            200,
+            1085,
+            105
+          ]
+        }
+      ]
     ],
     "agency": [
-      [{ "path": "app/screenshots/03_dashboard.png", "crop": [228, 168, 354, 153] }, { "path": "app/screenshots/03_dashboard.png", "crop": [968, 168, 354, 153] }],
-      [{ "path": "app/screenshots/03_dashboard.png", "crop": [1293, 340, 400, 462] }]
+      [
+        {
+          "path": "app/screenshots/03_dashboard.png",
+          "crop": [
+            228,
+            178,
+            354,
+            166
+          ]
+        }
+      ],
+      [
+        {
+          "path": "app/screenshots/03_dashboard.png",
+          "crop": [
+            968,
+            178,
+            354,
+            166
+          ]
+        }
+      ]
     ],
     "backup_supplier": [
-      [{ "path": "app/screenshots/crop_524954_flags.png", "crop": [68, 20, 1464, 620] }],
-      [{ "path": "app/screenshots/03_dashboard.png", "crop": [228, 85, 1472, 240] }]
+      [
+        {
+          "path": "app/screenshots/crop_525192_flags.png",
+          "crop": [
+            68,
+            140,
+            1464,
+            560
+          ]
+        }
+      ],
+      [
+        {
+          "path": "app/screenshots/03_dashboard.png",
+          "crop": [
+            228,
+            178,
+            1094,
+            166
+          ]
+        }
+      ]
     ],
-    "backup_bot": { "path": "app/screenshots/10_bot_524954.png", "crop": [0, 0, 820, 680] }
+    "backup_bot": {
+      "path": "app/screenshots/10_bot_525192.png",
+      "crop": [
+        0,
+        0,
+        820,
+        720
+      ]
+    }
+  },
+  "team": [],
+  "pricing_proposal": {
+    "per_check": 49000,
+    "monthly": 290000,
+    "consultant_monthly": 990000,
+    "illustration_share": 0.1
   }
 }
